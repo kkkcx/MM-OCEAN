@@ -1,23 +1,3 @@
----
-license: cc-by-nc-sa-4.0
-task_categories:
-  - video-classification
-  - question-answering
-  - visual-question-answering
-language:
-  - en
-tags:
-  - personality-perception
-  - big-five
-  - grounded-reasoning
-  - benchmark
-  - multimodal
-  - video-understanding
-pretty_name: "MM-OCEAN: A Benchmark for Grounded Personality Reasoning"
-size_categories:
-  - 1K<n<10K
----
-
 <div align="center">
 
 # MM-OCEAN
