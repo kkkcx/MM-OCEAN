@@ -1,0 +1,436 @@
+{
+  "video_id": "nUbhRInpVbA.003.mp4",
+  "video_path": "nUbhRInpVbA.003.mp4",
+  "transcription": "[Victoria 00:00:45], that is like a ridiculous amount of applicants, so you really have to excel. When you get there on the day, it's going to be ... It was a really weird atmosphere, because everyone comes at once, and sits in this ...",
+  "original_scores": {
+    "extraversion": 0.2336448598130841,
+    "agreeableness": 0.4065934065934066,
+    "conscientiousness": 0.4368932038834952,
+    "neuroticism": 0.32291666666666663,
+    "openness": 0.38888888888888895
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 15.2,
+      "description": "The subject maintains direct and steady gaze at the camera. His eyebrows are in a neutral position, occasionally raising very slightly for emphasis. His mouth moves naturally as he speaks, with a neutral expression throughout. There are no visible signs of tension in his forehead or jaw.",
+      "bboxes": [
+        {
+          "frame_time": 13.175141,
+          "x": 0.3734375,
+          "y": 0.4008771896362305,
+          "w": 0.21019736842105263,
+          "h": 0.15263157894736842,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 13.175141,
+          "x": 0.35863486842105263,
+          "y": 0.39035087384675676,
+          "w": 0.2131578947368421,
+          "h": 0.11842105263157894,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 13.175141,
+          "x": 0.42376644736842106,
+          "y": 0.6035087685835989,
+          "w": 0.140625,
+          "h": 0.12894736842105264,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 13.175141,
+          "x": 0.36307565789473684,
+          "y": 0.37456140016254624,
+          "w": 0.23240131578947368,
+          "h": 0.3894736842105263,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 13.175141,
+          "x": 0.4015625,
+          "y": 0.5745614001625463,
+          "w": 0.18355263157894738,
+          "h": 0.26842105263157895,
+          "note": "human-annotated",
+          "region": "chin"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 11.9,
+      "description": "The subject is framed from the chest up and remains relatively still. His head has minor, subtle movements that are synchronized with his speech.",
+      "bboxes": [
+        {
+          "frame_time": 0,
+          "x": 0.3527138157894737,
+          "y": 0.8140350843730726,
+          "w": 0.3182565789473684,
+          "h": 0.1763157894736842,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 0,
+          "x": 0.35123355263157896,
+          "y": 0.27192982121517784,
+          "w": 0.29161184210526314,
+          "h": 0.5631578947368421,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 11.9,
+      "end_time": 13,
+      "description": "The subject's right hand briefly enters the bottom right of the frame in an open-palm gesture while saying \"everyone comes at once\" and then lowers out of view.",
+      "bboxes": [
+        {
+          "frame_time": 11.9,
+          "x": 0.2624177631578947,
+          "y": 0.7482456106888621,
+          "w": 0.2205592105263158,
+          "h": 0.24736842105263157,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 11.9,
+          "x": 0.3734375,
+          "y": 0.3561403475309673,
+          "w": 0.20723684210526316,
+          "h": 0.16052631578947368,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 13,
+      "end_time": 15.2,
+      "description": "The subject returns to a still, centered position with no visible hand gestures.",
+      "bboxes": [
+        {
+          "frame_time": 13,
+          "x": 0.37935855263157897,
+          "y": 0.3640350843730726,
+          "w": 0.23980263157894738,
+          "h": 0.39473684210526316,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 5,
+      "description": "Speech is delivered at a moderate, consistent pace. Pitch rises on the word \"ridiculous\" and there is a slight increase in stress on the phrase \"really have to excel.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 5,
+      "end_time": 15.2,
+      "description": "The pace of speech remains moderate. There is a brief pause after \"on the day\" (0:07.7) and again after \"atmosphere\" (0:11.4). The word \"really\" is stressed again at 0:09.9. The final phrase \"sits in this...\" trails off with a downward inflection as the clip ends.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.2,
+      "description": "The subject is a young man with short dark hair and a light complexion. He is filmed indoors in a dimly lit room. The wall behind him is a light blue-green color. To his left is a dark doorway, and to his right is a wooden shelving unit. The lighting appears to be coming from the front, likely from the screen he is looking at. A text overlay at the bottom of the screen reads \"THE MEDICAL METHOD\" in a stylized, bold, green font.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Low",
+      "score": 0.23,
+      "rationale": "The subject's Low Extraversion is indicated by his contained and reserved demeanor. His body remains relatively still throughout the clip, with minimal and brief hand gestures. His facial expression is consistently neutral, and his vocal delivery is at a moderate, controlled pace. This lack of outward energy, expressive gesturing, and vocal animation points to a more introverted communication style, where energy is conserved rather than projected outward.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Medium",
+      "score": 0.41,
+      "rationale": "A Medium level of Agreeableness is supported by the subject's calm and cooperative presentation. He shows no signs of tension or hostility in his facial expression or posture. The use of an open-palm gesture while speaking can be seen as a non-threatening, cooperative signal. However, the lack of overt warmth, such as smiling or a softer vocal tone, keeps the assessment in the medium range. His style is more informational and neutral than it is overtly empathetic or affiliative.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Medium",
+      "score": 0.44,
+      "rationale": "The Medium score for Conscientiousness is consistent with the subject's structured and clear communication. He appears focused, maintaining steady eye contact and conveying his thoughts in a coherent manner. The content of his speech, which seems to be advisory ('you really have to excel'), suggests an awareness of the importance of achievement. Yet, there are no strong cues of high conscientiousness, such as exceptionally precise language or a highly organized environment, placing him comfortably in the mid-range.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Low",
+      "score": 0.32,
+      "rationale": "The subject's Low Neuroticism is strongly evidenced by his high degree of emotional stability. He remains calm and composed, with a steady vocal pace and direct eye contact. Critically, there are no observable indicators of anxiety, such as fidgeting, muscle tension in the face or jaw, or a wavering voice. His ability to speak calmly and clearly under the condition of being recorded points to a low disposition towards stress and negative affect.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "Low",
+      "score": 0.39,
+      "rationale": "A Low level of Openness is reflected in the subject's conventional and straightforward communication style. While he uses some descriptive words ('ridiculous', 'weird'), his overall delivery is practical and direct, lacking the complex vocabulary, abstract reasoning, or imaginative flair often associated with high openness. His expressions and gestures are conventional and serve a functional purpose rather than an artistic or expressive one, which is consistent with a more pragmatic and traditional orientation.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During 5.0s - 15.2s, the person exhibits a specific behavioral pattern while discussing a potentially stressful situation. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Low Neuroticism, evidenced by the steady voice and lack of any visible tension."
+        },
+        {
+          "id": "B",
+          "text": "High Conscientiousness, suggested by the structured and meticulous wording used."
+        },
+        {
+          "id": "C",
+          "text": "High Agreeableness, demonstrated by a consistently warm and engaging expression."
+        },
+        {
+          "id": "D",
+          "text": "Low Extraversion, supported by the minimal gesturing and contained physical energy."
+        },
+        {
+          "id": "E",
+          "text": "High Openness, indicated by the creative and unconventional description of events."
+        },
+        {
+          "id": "F",
+          "text": "Low Conscientiousness, implied by the disjointed and disorganized thought process."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. The person discusses a 'weird atmosphere' and a competitive situation with a calm, stable voice and no signs of stress, which is the strongest evidence for Low Neuroticism (emotional stability). Option D is a near-miss distractor; while the person does show Low Extraversion, the specific behavior of remaining calm while discussing a stressor is a more direct indicator of Low Neuroticism than introversion. Option C is a video-based distractor; the person's expression is neutral, not consistently warm or engaging. Options B, E, and F are text-based distractors; they describe traits that might be inferred from the topic of conversation but are not supported by the visual and auditory evidence, which points away from high conscientiousness, high openness, or low conscientiousness."
+    },
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's expression or gesture occur that is most relevant to their Agreeableness level?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[11.9s - 13.0s]"
+        },
+        {
+          "id": "B",
+          "text": "[0.0s - 1.1s]"
+        },
+        {
+          "id": "C",
+          "text": "[3.5s - 4.6s]"
+        },
+        {
+          "id": "D",
+          "text": "[7.0s - 8.1s]"
+        },
+        {
+          "id": "E",
+          "text": "[9.5s - 10.6s]"
+        },
+        {
+          "id": "F",
+          "text": "[14.1s - 15.2s]"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. During the interval [11.9s - 13.0s], the person makes a distinct open-palm gesture with their left hand. The analysis links this non-threatening, cooperative signal to the assessment of Medium Agreeableness. The other options are distractors. They are video-based distractors because they point to other valid time segments in the video (e.g., moments of verbal emphasis or pauses), but none of these contain a gesture or expression change as distinct or as relevant to the Agreeableness dimension as the one at [11.9s - 13.0s]. These distractors test whether the model can identify the most salient behavioral shift from a set of plausible moments."
+    },
+    {
+      "category": "Mixed Emotion Discrimination",
+      "question": "During 0.0s - 15.2s, the person's emotional state is best characterized as which of the following? Consider both verbal and non-verbal cues.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Composed seriousness combined with detached recollection."
+        },
+        {
+          "id": "B",
+          "text": "Mild apprehension that is tempered by focused concentration."
+        },
+        {
+          "id": "C",
+          "text": "Subtle frustration which is mixed with forced politeness."
+        },
+        {
+          "id": "D",
+          "text": "Deep concern that is tempered by a strong sense of urgency."
+        },
+        {
+          "id": "E",
+          "text": "Wistful regret which is mixed with a hint of resignation."
+        },
+        {
+          "id": "F",
+          "text": "Quiet disappointment tempered by carefully feigned composure."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. The person's demeanor throughout the clip is neutral, calm, and informational. 'Composed seriousness' captures the focused, non-emotional tone, while 'detached recollection' reflects that he is recounting a past event in a matter-of-fact way. Option F is a near-miss distractor; it correctly identifies composure, but incorrectly frames it as 'feigned' and adds 'disappointment,' for which there is no evidence. Option B is another near-miss, correctly noting the focus but incorrectly inferring 'apprehension' when the subject appears very calm. Options C, D, and E are text-based distractors; they suggest negative emotions like frustration, concern, or regret that could plausibly be associated with a competitive application process, but are contradicted by the person's consistently stable and neutral non-verbal cues."
+    },
+    {
+      "category": "Temporal-Causal Reasoning",
+      "question": "Consider the sequence of behaviors observed across the video. Which of the following best describes the causal chain linking the person's actions at different moments?",
+      "options": [
+        {
+          "id": "A",
+          "text": "An initial framing of a high-stakes context prompts a subsequent clarifying gesture, which is embedded within a continuous display of emotional regulation."
+        },
+        {
+          "id": "B",
+          "text": "A period of verbal hesitation is resolved by a self-soothing gesture, which then allows for a return to a more structured verbal communication pattern."
+        },
+        {
+          "id": "C",
+          "text": "An initial display of social anxiety prompts a compensatory gesture of openness, which then resolves into a state of forced and careful composure."
+        },
+        {
+          "id": "D",
+          "text": "A recollection of past success leads to a confident gesture, which is a key part of an overall charismatic and quite persuasive verbal performance."
+        },
+        {
+          "id": "E",
+          "text": "A display of emotional regulation leads to a clarifying gesture, which then causes the person to frame the situation as being particularly high-stakes."
+        },
+        {
+          "id": "F",
+          "text": "A need to assert dominance causes the speaker to use a dismissive hand gesture, which reinforces an ongoing display of high personal confidence."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. This option correctly maps the video's flow: the person first establishes the context as difficult ('ridiculous amount of applicants'), then uses a gesture to illustrate a point ('everyone comes at once'), all while maintaining a calm, regulated state. Option E is a video-based distractor that reverses the temporal order of events. Option C is a near-miss distractor; it correctly identifies a gesture and composure but incorrectly ascribes the cause to 'social anxiety' and the result to 'forced' composure, when the person appears genuinely calm. Option B is a video-based distractor that misinterprets the gesture's function as 'self-soothing' and falsely assumes there was 'verbal hesitation'. Options D and F are text-based distractors that posit plausible but incorrect psychological motivations (charisma, dominance) that do not align with the neutral affect observed in the video."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 13.2s, a region was detected in the video (x=0.373, y=0.401, w=0.210, h=0.153, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A direct and steady gaze directed forward toward the camera."
+        },
+        {
+          "id": "B",
+          "text": "A completely still and unmoving upper body with no gestures."
+        },
+        {
+          "id": "C",
+          "text": "A slight and subtle nodding motion synchronized with speech."
+        },
+        {
+          "id": "D",
+          "text": "Raised eyebrows used to emphasize a key point in the story."
+        },
+        {
+          "id": "E",
+          "text": "A fully relaxed facial expression showing no muscle tension."
+        },
+        {
+          "id": "F",
+          "text": "Hands held in a resting position just below the video frame."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. The specified bounding box at 13.2s precisely covers the person's eyes, and the observation data confirms that the most prominent feature of this region is the direct and stable eye contact with the camera. Option D is a near-miss distractor; the bounding box does include the eyebrows, but they are in a neutral position at this moment, not actively raised for emphasis. Options B, C, E, and F are all video-based distractors. They describe other real aspects of the person's behavior (still body, slight head movement, relaxed face, resting hands) but are incorrect because they describe actions happening outside the specified bounding box, testing the model's spatial localization ability."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "The person makes a brief, illustrative gesture with their hand to emphasize a point. At which time and in which location does this specific action occur?",
+      "options": [
+        {
+          "id": "A",
+          "text": "At time 11.9s, in the region defined by bbox (x=0.262, y=0.748, w=0.221, h=0.247)."
+        },
+        {
+          "id": "B",
+          "text": "At time 11.9s, in the region defined by bbox (x=0.363, y=0.375, w=0.232, h=0.389)."
+        },
+        {
+          "id": "C",
+          "text": "At time 8.5s, in the region defined by bbox (x=0.262, y=0.748, w=0.221, h=0.247)."
+        },
+        {
+          "id": "D",
+          "text": "At time 4.2s, in the region defined by bbox (x=0.351, y=0.272, w=0.292, h=0.563)."
+        },
+        {
+          "id": "E",
+          "text": "At time 14.1s, in the region defined by bbox (x=0.379, y=0.364, w=0.240, h=0.395)."
+        },
+        {
+          "id": "F",
+          "text": "At time 13.2s, in the region defined by bbox (x=0.402, y=0.575, w=0.184, h=0.268)."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. This option correctly identifies both the time (11.9s) and the location (the bbox covering the left hand in the lower right of the frame) of the specific illustrative gesture. Option B is a near-miss distractor; it has the correct time but the wrong location, pointing to the person's face instead of their hand. Option C is also a near-miss distractor; it has the correct location but the wrong time, as the hand is not visible in that region at 8.5s. Options D, E, and F are video-based distractors; they provide incorrect time and location combinations, using real bounding boxes of other body parts (head, face, chin) at different moments in the video to test joint temporal-spatial reasoning."
+    },
+    {
+      "category": "Counterfactual Reasoning",
+      "question": "If the person had NOT exhibited the behavior observed throughout the clip [0.0s - 15.2s], which of the following personality assessments would be MOST affected?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The assessment of Low Neuroticism would be weakened, as the observed composure is the primary evidence against emotional reactivity or anxiety."
+        },
+        {
+          "id": "B",
+          "text": "The assessment for Neuroticism would shift from Low to even lower, as the absence of composure implies a more stable underlying emotional state."
+        },
+        {
+          "id": "C",
+          "text": "The assessment of Low Extraversion would be most impacted, because the main evidence for introversion comes from this specific lack of energy."
+        },
+        {
+          "id": "D",
+          "text": "The assessment of Medium Agreeableness would be challenged, since the cooperative gesture is a key part of the overall calm and steady demeanor."
+        },
+        {
+          "id": "E",
+          "text": "The assessment for Medium Conscientiousness would lose support, as speaking calmly is the main indicator of a particularly structured mind."
+        },
+        {
+          "id": "F",
+          "text": "The assessment of Low Openness would be most affected, as a conventional delivery is key evidence against a person's intellectual curiosity."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. The behavior throughout the clip is a calm, composed demeanor. This is the single strongest piece of evidence for Low Neuroticism. Removing this behavior would remove the main support for that assessment. Option B is a near-miss distractor; it identifies the correct trait but reasons in the wrong direction, making an illogical claim. Option C is another near-miss distractor; the calm demeanor is related to Low Extraversion, but it is *more* central to the definition of Low Neuroticism. Other cues like minimal gestures more directly support Low Extraversion. Option D is a video-based distractor; it correctly links a real behavior (the gesture) to a trait (Agreeableness), but this single gesture is far less significant to the overall personality profile than the continuous calm demeanor. Options E and F are text-based distractors that create weak or incorrect causal links between the calm behavior and the traits of Conscientiousness and Openness."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator13",
+      "version": 1,
+      "clues_total": 13,
+      "clues_correct": 12,
+      "clues_wrong_corrected": 1,
+      "clues_missing_skipped": 0,
+      "clues_bonus": 0
+    }
+  }
+}

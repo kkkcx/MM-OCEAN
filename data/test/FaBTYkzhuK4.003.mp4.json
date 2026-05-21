@@ -1,0 +1,347 @@
+{
+  "video_id": "FaBTYkzhuK4.003.mp4",
+  "video_path": "FaBTYkzhuK4.003.mp4",
+  "transcription": "So there is that. I thought about doing some more live stream stuff. I think what I'm going to do is I'm going to try and record my ... like locally record-",
+  "original_scores": {
+    "extraversion": 0.5140186915887851,
+    "agreeableness": 0.5934065934065933,
+    "conscientiousness": 0.5339805825242718,
+    "neuroticism": 0.5104166666666666,
+    "openness": 0.5888888888888889
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 15.115,
+      "description": "The subject's gaze is directed forward and slightly to his right, away from the camera. His expression is largely neutral and contemplative. His eyebrows are relaxed for most of the duration but furrow slightly between 00:03-00:04 and 00:06-00:08 as he thinks. His mouth moves naturally with speech, with his lips pressing together lightly during brief pauses.",
+      "bboxes": [
+        {
+          "frame_time": 0,
+          "x": 0.4141447368421053,
+          "y": 0.05263157894736842,
+          "w": 0.16875,
+          "h": 0.1763157894736842,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 0,
+          "x": 0.4037828947368421,
+          "y": 0.08421052631578947,
+          "w": 0.17911184210526315,
+          "h": 0.3368421052631579,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 0,
+          "x": 0.4037828947368421,
+          "y": 0.031578947368421054,
+          "w": 0.18355263157894738,
+          "h": 0.11842105263157894,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 4.725448,
+          "x": 0.471875,
+          "y": 0.2236842105263158,
+          "w": 0.10361842105263158,
+          "h": 0.17105263157894737,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 7.354736,
+          "x": 0.49407894736842106,
+          "y": 0.25263157894736843,
+          "w": 0.08733552631578947,
+          "h": 0.13157894736842105,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 15.115,
+      "description": "The subject sits in the driver's seat of a vehicle, holding the steering wheel. His head is oriented forward with very slight, small-amplitude turns to the right as he glances at the road. His upper body remains relatively still, constrained by the seatbelt.",
+      "bboxes": [
+        {
+          "frame_time": 9.517912,
+          "x": 0.6036184210526315,
+          "y": 0.5157894736842106,
+          "w": 0.36414473684210524,
+          "h": 0.33157894736842103,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 9.517912,
+          "x": 0.42450657894736843,
+          "y": 0.06842105263157895,
+          "w": 0.1998355263157895,
+          "h": 0.4131578947368421,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 0.109048,
+          "x": 0.34901315789473686,
+          "y": 0.4763157894736842,
+          "w": 0.3404605263157895,
+          "h": 0.36578947368421055,
+          "note": "pose human-annotated",
+          "region": "torso"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 6.78,
+      "description": "Speech is delivered at a moderate, conversational pace and volume. A slight pause occurs at 00:02 and a longer one at 00:06 after the word \"stuff,\" followed by the filler sound \"uhm.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 6.78,
+      "end_time": 15.115,
+      "description": "The subject's speech rate remains moderate. He briefly pauses after \"record\" at 00:11 and again after \"my\" at 00:13, indicating he is thinking as he speaks. The final word \"record-\" is cut off.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.115,
+      "description": "The subject is a light-skinned male with short dark hair, filmed from the passenger side of a vehicle he is driving. He is wearing a black collared fleece jacket with a small white logo on the left chest, over a white t-shirt. The interior of the vehicle is dark. Through the windows, a road, bare trees, and an overcast sky are visible. A large red truck passes by the passenger window from approximately 00:01 to 00:05. A yellow graphic logo reading \"DRIVING WITH JPT\" is in the bottom-left corner of the frame.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Medium",
+      "score": 0.51,
+      "rationale": "The subject's Extraversion is rated as Medium. While speaking to a camera for an audience demonstrates a degree of sociability, his delivery is moderate in pace and volume. His gaze is slightly averted rather than directly engaging, and his physical posture is contained with no expansive gestures. This combination of willingness to communicate publicly with a more reserved, thoughtful delivery style supports a personality that is neither overtly introverted nor highly extraverted.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Medium",
+      "score": 0.59,
+      "rationale": "The subject scores in the Medium range for Agreeableness. His overall demeanor is calm and non-confrontational. The facial expressions are neutral and relaxed, and his vocal tone is moderate, lacking any signs of hostility or irritation. The act of sharing his thoughts and plans with an audience implies a cooperative and trusting nature. This absence of negative affect combined with a generally pleasant presentation is consistent with a medium level of Agreeableness.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Medium",
+      "score": 0.53,
+      "rationale": "The subject's Conscientiousness is assessed as Medium. His verbal content is focused on planning and organizing future tasks ('I think what I'm going to do is...'). The speech pattern, which includes pauses for thought, indicates a deliberate rather than impulsive approach to communication. This goal-oriented thinking, coupled with the focused task of driving, suggests a moderate level of self-discipline and orderliness.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Medium",
+      "score": 0.51,
+      "rationale": "The subject's score indicates a Medium level of Neuroticism. He maintains a calm and stable emotional state throughout the observation. His body is relaxed, and his vocal tone is steady. The brief furrowing of his brows appears directly linked to cognitive effort (thinking) rather than anxiety or worry. The absence of any overt signs of stress, tension, or negative emotionality points to an average and healthy level of emotional regulation.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "Medium",
+      "score": 0.59,
+      "rationale": "The subject is rated as Medium on Openness. He is verbally exploring new ideas and alternative methods for his activities ('thought about doing some more live stream stuff'). This contemplation of novel approaches reflects intellectual curiosity. His pensive expression and thoughtful pauses suggest an internal process of considering possibilities, which is characteristic of individuals who are moderately open to new experiences and ideas.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During [6.8s - 15.1s], the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A moderate level of the Conscientiousness dimension, due to the structured verbal planning and goal-oriented ideation that are clearly shown."
+        },
+        {
+          "id": "B",
+          "text": "A high level of the Extraversion dimension, because the subject is speaking confidently and engaging with an unseen audience for a long duration."
+        },
+        {
+          "id": "C",
+          "text": "A low level of the Conscientiousness dimension, evidenced by the frequent pauses and verbal hesitations suggesting a lack of clear forethought."
+        },
+        {
+          "id": "D",
+          "text": "A moderate level of the Openness dimension, because he is contemplating new ideas for future activities, which indicates some intellectual curiosity."
+        },
+        {
+          "id": "E",
+          "text": "A high level of the Neuroticism dimension, as the slight brow furrow and speech pauses are key indicators of underlying anxiety about his plans."
+        },
+        {
+          "id": "F",
+          "text": "A low level of the Agreeableness dimension, given that the monologue is focused entirely on his own plans without considering others' input."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. During this period, the person verbally outlines his plans ('I think what I'm going to do is...'), which is direct evidence of goal-oriented thinking and organization, core facets of Conscientiousness. The analysis rates this as 'Medium', which aligns with 'moderate'.\n- Option B is a text-based distractor. While he is speaking, his delivery is moderate and his posture is contained, which does not support 'High Extraversion'.\n- Option C is a near-miss distractor. It correctly identifies the relevant trait (Conscientiousness) but interprets the evidence in the opposite direction; the pauses are for thoughtful planning, not a lack of it.\n- Option D is a near-miss distractor. The behavior does support Openness to a degree, but the act of *structuring a plan* is a more direct and stronger indicator for Conscientiousness than for Openness.\n- Option E is a video-based distractor. It references a real visual cue (brow furrow) but misinterprets it as anxiety (Neuroticism) when it is clearly linked to cognitive effort in this context.\n- Option F is a text-based distractor. The focus on his own plans in a monologue is not sufficient evidence to conclude a low level of Agreeableness."
+    },
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their moderate Openness level?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[6.5s - 8.5s]"
+        },
+        {
+          "id": "B",
+          "text": "[0.0s - 2.0s]"
+        },
+        {
+          "id": "C",
+          "text": "[4.0s - 6.0s]"
+        },
+        {
+          "id": "D",
+          "text": "[9.0s - 11.0s]"
+        },
+        {
+          "id": "E",
+          "text": "[2.5s - 4.5s]"
+        },
+        {
+          "id": "F",
+          "text": "[11.5s - 13.5s]"
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is A. The observation notes that the person's eyebrows furrow slightly between [6s-8s] as he is thinking and beginning to verbalize his new ideas ('I think what I'm going to do...'). This micro-expression of cognitive effort is the most relevant visual cue for his contemplation of new possibilities (Openness).\n- Option B is a video-based distractor. This is the start of the video where his expression is stable and neutral before he begins speaking in detail.\n- Option C is a video-based distractor. During this time, a red truck passes by, but the person's expression remains largely unchanged and neutral.\n- Option D is a text-based distractor. This is a plausible interval during his speech, but no distinct micro-expression occurs here; he is simply articulating his plan.\n- Option E is a near-miss distractor. This interval contains a slight brow furrow [3s-4s], but the one in interval A is more pronounced and directly precedes his key statement about planning new activities.\n- Option F is a video-based distractor. This interval contains a pause in his speech ('my...'), but it is not accompanied by a notable facial expression change."
+    },
+    {
+      "category": "Mixed Emotion Discrimination",
+      "question": "During [0.0s - 15.1s], the person's emotional state is best characterized as which of the following? Consider both verbal and non-verbal cues.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Focused concentration mixed with a sense of reflective planning"
+        },
+        {
+          "id": "B",
+          "text": "Mild uncertainty tempered by an underlying feeling of determination"
+        },
+        {
+          "id": "C",
+          "text": "Passive observation mixed with a general sense of mild boredom"
+        },
+        {
+          "id": "D",
+          "text": "Deep contemplation mixed with a subtle hint of social anxiety"
+        },
+        {
+          "id": "E",
+          "text": "Relaxed contentment tempered by a quiet feeling of nostalgia"
+        },
+        {
+          "id": "F",
+          "text": "Quiet resignation mixed with a hint of subdued, vague optimism"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. The person's steady gaze toward the road, pensive expression, and verbal content about organizing future actions all point to a state of 'focused concentration' and 'reflective planning'. This blend accurately captures the cognitive and neutral-affective state.\n- Option B is a near-miss distractor. The pauses might suggest 'mild uncertainty', but there is no strong evidence for 'determination'; his tone is moderate and exploratory, not forceful.\n- Option C is a video-based distractor. His neutral expression and contained posture could be misinterpreted as 'boredom', but his active, forward-looking speech contradicts this.\n- Option D is a text-based distractor. It's plausible someone speaking to a camera feels anxiety, but there are no visual or auditory cues (like fidgeting, stammering, or a strained voice) to support this.\n- Option E is a text-based distractor. The act of driving could evoke nostalgia for some, but nothing in the person's demeanor or speech content suggests this state.\n- Option F is a text-based distractor. This describes a plausible emotional state, but it doesn't fit the evidence; his state is active and cognitive, not one of 'resignation'."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around [4.7s], a region was detected in the video (x=0.472, y=0.224, w=0.104, h=0.171, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The natural articulation of speech patterns from the mouth region"
+        },
+        {
+          "id": "B",
+          "text": "An averted gaze directed slightly toward the right side of the road"
+        },
+        {
+          "id": "C",
+          "text": "A generally pensive and thoughtful overall facial expression"
+        },
+        {
+          "id": "D",
+          "text": "The slight furrowing of the brows as a sign of deep concentration"
+        },
+        {
+          "id": "E",
+          "text": "The subject's hands maintaining a firm grip on the steering wheel"
+        },
+        {
+          "id": "F",
+          "text": "The head's orientation turned slightly away from the camera view"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. The provided coordinates (x=0.472, y=0.224, w=0.104, h=0.171) at 4.7s precisely frame the person's mouth. At this moment, he is speaking the words 'live stream stuff', so the action is the articulation of speech.\n- Option B is a video-based distractor. This describes the action of the eyes, which are located in a different region of the face (higher y-coordinate).\n- Option C is a video-based distractor. This describes the entire face, which is a much larger area than the specified bounding box.\n- Option D is a video-based distractor. This describes the eyebrows, which are in a different facial region (much smaller y-coordinate).\n- Option E is a video-based distractor. This describes the hands, which are located in a completely different part of the frame (lower right).\n- Option F is a video-based distractor. This describes the entire head, which is a larger region than the specified bounding box."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "A subtle, involuntary facial muscle contraction indicating cognitive effort is observed. Which option correctly identifies both the time and location of this specific behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[7.0s] (x=0.404, y=0.032, w=0.184, h=0.118)"
+        },
+        {
+          "id": "B",
+          "text": "[7.0s] (x=0.494, y=0.253, w=0.087, h=0.132)"
+        },
+        {
+          "id": "C",
+          "text": "[2.0s] (x=0.404, y=0.032, w=0.184, h=0.118)"
+        },
+        {
+          "id": "D",
+          "text": "[9.5s] (x=0.604, y=0.516, w=0.364, h=0.332)"
+        },
+        {
+          "id": "E",
+          "text": "[4.7s] (x=0.472, y=0.224, w=0.104, h=0.171)"
+        },
+        {
+          "id": "F",
+          "text": "[0.1s] (x=0.349, y=0.476, w=0.340, h=0.366)"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. The behavior described is the furrowing of the eyebrows, which happens around [6s-8s] as a sign of thought. The time [7.0s] falls within this range, and the coordinates correctly frame the eyebrow region of the face.\n- Option B is a video-based distractor. It has the correct time for the brow furrow but provides coordinates for the mouth, which is the wrong location.\n- Option C is a near-miss distractor. It has the correct location (eyebrows) but the wrong time; at [2.0s], his brows are relaxed.\n- Option D is a video-based distractor. It provides the time and location for the hands on the steering wheel, not a facial expression.\n- Option E is a text-based distractor. This combination points to the mouth during speech, which is a voluntary articulation, not an involuntary sign of cognitive effort.\n- Option F is a video-based distractor. It provides the time and location for the torso, which is incorrect for a facial muscle contraction."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [
+      {
+        "check": "A",
+        "q_idx": 1,
+        "issue": "The correct answer A points to a time interval [6.5s - 8.5s] where the subject's brow furrow corresponds to him beginning to formulate a plan, which is more relevant to the Conscientiousness rationale. Option E, [2.5s - 4.5s], covers the brow furrow that occurs while he is mentioning a new idea ('live stream stuff'), which is the specific evidence cited in the Openness rationale, making it a better fit.",
+        "action": "Changed correct_answer from 'A' to 'E'."
+      }
+    ],
+    "corrections": {
+      "mcq_questions[1].correct_answer": "E"
+    },
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator14",
+      "version": 1,
+      "clues_total": 11,
+      "clues_correct": 11,
+      "clues_wrong_corrected": 0,
+      "clues_missing_skipped": 0,
+      "clues_bonus": 0
+    }
+  }
+}

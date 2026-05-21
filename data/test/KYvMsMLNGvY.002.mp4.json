@@ -1,0 +1,395 @@
+{
+  "video_id": "KYvMsMLNGvY.002.mp4",
+  "video_path": "KYvMsMLNGvY.002.mp4",
+  "transcription": "... saw how they were all Kumbaya holding hands on the porch, walking out in blood, zombie guts, Walker guts, off the porch and into the night. I was a little bit like, who was in charge of continuity because last when we left off they -",
+  "original_scores": {
+    "extraversion": 0.4579439252336449,
+    "agreeableness": 0.5604395604395604,
+    "conscientiousness": 0.4660194174757281,
+    "neuroticism": 0.5208333333333334,
+    "openness": 0.45555555555555555
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 12.04,
+      "description": "Subject maintains a direct gaze at the camera. His eyebrows remain in a neutral to slightly raised position. His mouth moves naturally with his speech. His expression is largely consistent and engaged.",
+      "bboxes": [
+        {
+          "frame_time": 1.359036,
+          "x": 0.3919407894736842,
+          "y": 0.2742105283235249,
+          "w": 0.16430921052631578,
+          "h": 0.12894736842105264,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 2.633798,
+          "x": 0.42598684210526316,
+          "y": 0.25578947569194593,
+          "w": 0.17171052631578948,
+          "h": 0.08157894736842106,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 2.633798,
+          "x": 0.4407894736842105,
+          "y": 0.4400000020077354,
+          "w": 0.1287828947368421,
+          "h": 0.13421052631578947,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 5.584277,
+          "x": 0.39786184210526315,
+          "y": 0.23473684411299856,
+          "w": 0.2087171052631579,
+          "h": 0.3815789473684211,
+          "note": "face human-annotated",
+          "region": "face"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 12.04,
+      "end_time": 13.9,
+      "description": "The subject blinks, closing his eyes for a slightly extended duration as he inhales. His mouth is closed, and his lips are lightly pressed together. His head tilts down slightly.",
+      "bboxes": [
+        {
+          "frame_time": 12.274395,
+          "x": 0.415625,
+          "y": 0.187368423060367,
+          "w": 0.18207236842105262,
+          "h": 0.44473684210526315,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 13.9,
+      "end_time": 15.35,
+      "description": "He reopens his eyes, looking directly at the camera again. His mouth opens slightly to begin speaking.",
+      "bboxes": [
+        {
+          "frame_time": 14.624811,
+          "x": 0.4274671052631579,
+          "y": 0.2900000020077354,
+          "w": 0.15542763157894737,
+          "h": 0.10263157894736842,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 15.321231,
+          "x": 0.47039473684210525,
+          "y": 0.46894737042878804,
+          "w": 0.10953947368421053,
+          "h": 0.14473684210526316,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 15.35,
+      "description": "The subject is shown from the chest up, sitting upright. He makes small, subtle head movements that correspond with the rhythm of his speech, including small nods for emphasis.",
+      "bboxes": [
+        {
+          "frame_time": 1.911328,
+          "x": 0.3046052631578947,
+          "y": 0.5742105283235249,
+          "w": 0.45148026315789475,
+          "h": 0.3631578947368421,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 1.911328,
+          "x": 0.3460526315789474,
+          "y": 0.5426315809551038,
+          "w": 0.3819078947368421,
+          "h": 0.4263157894736842,
+          "note": "pose human-annotated",
+          "region": "torso"
+        },
+        {
+          "frame_time": 4.683421,
+          "x": 0.34901315789473686,
+          "y": 0.08736842306036698,
+          "w": 0.28421052631578947,
+          "h": 0.5815789473684211,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 7.74,
+      "description": "Speech is delivered at a moderate, conversational pace with a neutral pitch. There is a falling intonation at the end of sentences, such as on the word \"bike.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 7.74,
+      "end_time": 12.04,
+      "description": "The pace of speech slightly increases on the phrase \"short and sweet.\" The volume and pitch remain consistent.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 12.04,
+      "end_time": 13.9,
+      "description": "There is a brief pause in speech, during which a clear, audible inhalation through the nose occurs.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 13.9,
+      "end_time": 15.35,
+      "description": "Speech resumes with the phrase \"I'd love to hear,\" starting at a slightly higher pitch before settling back into his conversational range.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.35,
+      "description": "The subject is a light-skinned male with short brown hair. He is wearing a blue, horizontally striped t-shirt and a dark-colored cap with a green brim, worn backwards. He is in an indoor setting with a plain, off-white wall behind him. On a wooden surface to his left, there is a large white bowl containing yellow bananas and a glass jar. A vertical green strip is visible on the far right of the frame. The lighting is diffuse and comes from the front.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Medium",
+      "score": 0.46,
+      "rationale": "The subject's Extraversion score is in the Medium range. He demonstrates social comfort by speaking directly to the camera with a steady, engaged gaze. His use of small head nods to emphasize points serves as a non-verbal social cue. However, these indicators are balanced by a generally reserved demeanor. His posture is upright and contained, his head movements are subtle rather than expansive, and his vocal tone is moderate and neutral. This combination of direct social engagement with a controlled, moderate energy level supports a mid-range Extraversion score.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Medium",
+      "score": 0.56,
+      "rationale": "The subject exhibits a Medium level of Agreeableness. His overall demeanor is calm, and his facial expressions are consistently engaged and non-confrontational, which fosters a sense of approachability. While expressing a critical opinion about a show's continuity, he frames it as a personal observation ('I was a little bit like...'), a softening technique that avoids direct aggression. This balanced approach—willing to state a criticism but doing so in a mild, non-hostile manner—is characteristic of someone who is cooperative but not overly deferential, aligning with a Medium Agreeableness score.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Medium",
+      "score": 0.47,
+      "rationale": "The subject's Conscientiousness is assessed as Medium. Evidence for orderliness is present in his upright posture, which suggests self-control, and the structured nature of his argument, which focuses on a specific logical flaw ('continuity'). This indicates an attention to detail. Conversely, his casual attire, particularly the backward-facing hat, signals an informal and relaxed disposition. This juxtaposition of structured, detail-oriented thinking with a casual presentation style supports a Medium score, reflecting a balance between being organized and being flexible.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Medium",
+      "score": 0.52,
+      "rationale": "A Medium Neuroticism score is indicated by a predominantly calm presentation punctuated by a subtle moment of cognitive recalibration. The subject maintains steady eye contact, a stable posture, and a moderate, controlled vocal pace, all hallmarks of emotional stability. There are no overt signs of anxiety, such as fidgeting or a strained voice. The brief pause at 12.0s, accompanied by an audible inhale, is a functional and controlled break to organize his next thought before continuing his critique. This calm self-correction, rather than a sign of distress, points to a personality that is generally stable but maintains a degree of self-monitoring.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "Medium",
+      "score": 0.46,
+      "rationale": "The subject's Openness is in the Medium range. He displays intellectual curiosity by engaging in a critical analysis of a fictional narrative. Sharing this opinion on camera suggests a willingness to express his thoughts. However, the focus of his critique is on a concrete, logical detail—a continuity error—rather than an abstract theme or symbolic interpretation. His expressive style, including his neutral vocal tone and subtle gestures, is conventional. This combination of intellectual engagement with a practical, grounded focus supports a Medium rating for Openness.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During 0.0s - 12.0s, the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "High Openness due to his intellectual analysis of the show's narrative."
+        },
+        {
+          "id": "B",
+          "text": "Low Neuroticism because of the consistently calm and stable vocal delivery."
+        },
+        {
+          "id": "C",
+          "text": "High Agreeableness because he avoids making any form of critical statement."
+        },
+        {
+          "id": "D",
+          "text": "Medium Conscientiousness, shown by his upright posture and organized speech."
+        },
+        {
+          "id": "E",
+          "text": "Medium Agreeableness, balancing a critique with a softened, personal framing."
+        },
+        {
+          "id": "F",
+          "text": "Low Extraversion due to a lack of expressive gestures or vocal variety."
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. During this period, the subject voices a criticism ('who was in charge of continuity') but softens it by framing it as a personal reaction ('I was a little bit like...'). This behavior of being willing to critique but doing so in a non-confrontational manner is a key indicator for Medium Agreeableness.\n- Option A is a text-based distractor. While he is analyzing a show, his critique is on a concrete detail (continuity), not abstract themes, which supports a Medium, not High, Openness score.\n- Option B is a text-based distractor. His calmness is evident, but this specific behavior is more about social interaction (Agreeableness) than emotional stability (Neuroticism).\n- Option C is a near-miss distractor. It identifies the correct trait (Agreeableness) but misinterprets the evidence; he *does* make a critical statement, so High Agreeableness is incorrect.\n- Option D is a video-based distractor. His posture and organized speech are real cues seen throughout the video that support Medium Conscientiousness, but the specific behavior of softening a critique in this time segment is a stronger indicator for Agreeableness.\n- Option F is a text-based distractor. His demeanor is reserved, but his direct address to the camera and engaged expression prevent a 'Low Extraversion' assessment; his score is Medium."
+    },
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their Neuroticism level?",
+      "options": [
+        {
+          "id": "A",
+          "text": "0.5s - 2.5s"
+        },
+        {
+          "id": "B",
+          "text": "3.0s - 5.0s"
+        },
+        {
+          "id": "C",
+          "text": "5.5s - 7.5s"
+        },
+        {
+          "id": "D",
+          "text": "8.0s - 10.0s"
+        },
+        {
+          "id": "E",
+          "text": "12.0s - 13.9s"
+        },
+        {
+          "id": "F",
+          "text": "14.0s - 15.3s"
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. The personality analysis for Neuroticism specifically highlights the brief pause and audible inhale at 12.0s as a key moment of 'calm self-correction' and 'cognitive recalibration', which is central to his Medium Neuroticism score. This represents the most significant change relevant to that trait.\n- Options A, B, C, D, and F are all video-based distractors. These time intervals show the subject speaking with a relatively consistent and engaged expression. They lack the distinct, functionally significant break that occurs in the 12.0s - 13.9s interval, making them incorrect answers for a 'notable change'."
+    },
+    {
+      "category": "Temporal-Causal Reasoning",
+      "question": "Consider the sequence of behaviors observed across the video. Which of the following best describes the causal chain linking the person's actions at different moments?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Initial social engagement is interrupted by an external event, requiring a brief recalibration before resuming his point of view."
+        },
+        {
+          "id": "B",
+          "text": "A moment of cognitive self-regulation prompts initial social engagement, which is then followed by a period of critical analysis."
+        },
+        {
+          "id": "C",
+          "text": "Sustained critical analysis leads to emotional disengagement, which is compensated for by a forced attempt to reconnect later on."
+        },
+        {
+          "id": "D",
+          "text": "A display of heightened emotionality is followed by a period of calm reflection, which transitions into a more subdued conclusion."
+        },
+        {
+          "id": "E",
+          "text": "Initial social engagement is followed by a brief moment of cognitive self-regulation, which then enables a renewed focus in his speech."
+        },
+        {
+          "id": "F",
+          "text": "An expression of uncertainty is followed by a confident declaration, which is then justified with a detailed and structured argument."
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. This option correctly maps the video's sequence: he starts by speaking to the camera (initial social engagement), pauses at 12.0s to inhale and gather his thoughts (cognitive self-regulation), and then resumes speaking at 13.9s (renewed focus).\n- Option A is a near-miss distractor. The sequence is correct, but the cause is wrong; the pause is an internal moment of thought organization, not a response to an 'external event'.\n- Option B is a distractor with reversed temporal order. The cognitive self-regulation (pause) happens *after* the initial engagement, not before it.\n- Option C is a distractor with incorrect causality. The pause at 12.0s is for thought, not a sign of 'emotional disengagement', and his re-engagement does not appear 'forced'.\n- Option D is a text-based distractor. The subject never displays 'heightened emotionality'; his demeanor is consistently calm and moderate.\n- Option F is a text-based distractor. The subject begins with his structured argument rather than starting with uncertainty."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 12.3s, a region was detected in the video (x=0.416, y=0.187, w=0.182, h=0.445, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Natural mouth articulation during ongoing speech delivery."
+        },
+        {
+          "id": "B",
+          "text": "Slightly raised and consistently attentive eyebrow position."
+        },
+        {
+          "id": "C",
+          "text": "Re-establishing of direct and steady eye contact with camera."
+        },
+        {
+          "id": "D",
+          "text": "A generally engaged and consistent overall facial expression."
+        },
+        {
+          "id": "E",
+          "text": "A preparatory and audible inhale during a momentary pause."
+        },
+        {
+          "id": "F",
+          "text": "Hands are held steadily in a relaxed position out of frame."
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. The specified timestamp (12.3s) and bounding box cover the subject's face during the brief pause where he is observed taking an audible inhale to prepare for his next phrase. This is the most distinct and prominent action occurring at that specific moment.\n- Option A is a video-based distractor. This describes his mouth action *before* the pause at 12.0s, not during it.\n- Option B is a video-based distractor. This describes his eyebrows, which are in a different facial region than what is most active (mouth/nose area for breathing) and describes a state from an earlier time segment.\n- Option C is a video-based distractor. He re-establishes eye contact *after* the pause, around 13.9s, not during it.\n- Option D is a near-miss distractor. While his overall expression could be described as engaged, the specific, momentary action of inhaling is the *most prominent* and notable event within that bounding box at that exact time, distinguishing it from the general state.\n- Option F is a text-based distractor. This is a plausible action for a seated speaker, but the bounding box is clearly on the face, not the hands or torso."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "At which of the following moments does the person use a subtle, non-verbal gesture to add emphasis to his verbal communication?",
+      "options": [
+        {
+          "id": "A",
+          "text": "At 1.4s, in the region x=0.392, y=0.274, w=0.164, h=0.129."
+        },
+        {
+          "id": "B",
+          "text": "At 4.7s, in the region x=0.346, y=0.543, w=0.382, h=0.426."
+        },
+        {
+          "id": "C",
+          "text": "At 12.3s, in the region x=0.416, y=0.187, w=0.182, h=0.445."
+        },
+        {
+          "id": "D",
+          "text": "At 6.5s, in the region x=0.305, y=0.574, w=0.451, h=0.363."
+        },
+        {
+          "id": "E",
+          "text": "At 4.7s, in the region x=0.349, y=0.087, w=0.284, h=0.582."
+        },
+        {
+          "id": "F",
+          "text": "At 15.3s, in the region x=0.470, y=0.469, w=0.110, h=0.145."
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. The observation notes describe small, subtle head movements, including nods for emphasis, that correspond with his speech rhythm. The timestamp 4.7s and the associated bounding box correctly locate this specific action on his head as he is speaking.\n- Option A is a video-based distractor. This time and bounding box correspond to his eyes while he is maintaining a steady gaze, which is not an emphatic gesture.\n- Option B is a near-miss distractor. The timestamp (4.7s) is correct, but the bounding box is on his torso, not his head where the emphatic nod is occurring.\n- Option C is a video-based distractor. This time and bounding box correspond to the pause and inhale, a moment of recalibration, not emphasis.\n- Option D is a text-based distractor. This combines a plausible time for a gesture with a bounding box over the hands area, but no such hand gesture for emphasis actually occurs.\n- Option F is a video-based distractor. This time and bounding box correspond to his mouth as he begins to speak again after the pause, not a gesture for emphasis."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [
+      {
+        "check": "B",
+        "q_idx": 0,
+        "issue": "The question specifies the time interval 0.0s - 7.7s, but the correct answer (E) relies on evidence ('softened, personal framing' with the phrase 'I was a little bit like...') that occurs later in the clip, around 10.3s. The specified timeframe does not contain the key evidence for the correct answer.",
+        "action": "Corrected the timeframe in the question to 0.0s - 12.0s to include the relevant evidence."
+      }
+    ],
+    "corrections": {
+      "mcq_questions[0].question": "During 0.0s - 12.0s, the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?"
+    },
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator05",
+      "version": 1,
+      "clues_total": 18,
+      "clues_correct": 15,
+      "clues_wrong_corrected": 0,
+      "clues_missing_skipped": 3,
+      "clues_bonus": 0
+    }
+  }
+}

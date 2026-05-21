@@ -1,0 +1,474 @@
+{
+  "video_id": "DvWzedL3QCk.003.mp4",
+  "video_path": "DvWzedL3QCk.003.mp4",
+  "transcription": "If you just need to breath, what do you think of? Nature, the mountains, water. Especially the mountains. I really, really love the mountains and I feel like whenever I leave LA and whenever I leave the city and go to the mountains, I feel like this giant kind of weight has been taken off the world and I feel so much more ...",
+  "original_scores": {
+    "extraversion": 0.48598130841121495,
+    "agreeableness": 0.3626373626373627,
+    "conscientiousness": 0.4660194174757281,
+    "neuroticism": 0.4895833333333333,
+    "openness": 0.5888888888888889
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 3.19,
+      "description": "Subject maintains direct gaze with the camera. The mouth moves naturally with speech. Eyebrows remain in a neutral-to-slightly raised position.",
+      "bboxes": [
+        {
+          "frame_time": 1.325642,
+          "x": 0.3171875,
+          "y": 0.12192982121517784,
+          "w": 0.23832236842105264,
+          "h": 0.3,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 1.325642,
+          "x": 0.4030427631578947,
+          "y": 0.3508771896362305,
+          "w": 0.1613486842105263,
+          "h": 0.11842105263157894,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 3.015472,
+          "x": 0.32310855263157895,
+          "y": 0.15087718963623048,
+          "w": 0.2338815789473684,
+          "h": 0.12894736842105264,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 3.19,
+      "end_time": 3.84,
+      "description": "The subject's eyes close for a moment, longer than a typical blink, as they say, \"especially the mountains.\"",
+      "bboxes": [
+        {
+          "frame_time": 3.350525,
+          "x": 0.2964638157894737,
+          "y": 0.08245613700465153,
+          "w": 0.3685855263157895,
+          "h": 0.45789473684210524,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 3.84,
+      "end_time": 6.94,
+      "description": "Eyes reopen. Eyebrows raise noticeably when emphasizing the phrase \"really, really love the mountains.\"",
+      "bboxes": [
+        {
+          "frame_time": 6.278592,
+          "x": 0.36307565789473684,
+          "y": 0.14824561068886205,
+          "w": 0.2412828947368421,
+          "h": 0.19473684210526315,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 6.205755,
+          "x": 0.39120065789473685,
+          "y": 0.13245613700465153,
+          "w": 0.20131578947368423,
+          "h": 0.3736842105263158,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 6.94,
+      "end_time": 15.11,
+      "description": "The subject's expression becomes more animated, with eyes widening and mouth opening more to match the intensity of their gestures and speech. The eyebrows are frequently raised.",
+      "bboxes": [
+        {
+          "frame_time": 8.303477,
+          "x": 0.3986019736842105,
+          "y": 0.07456140016254625,
+          "w": 0.3004934210526316,
+          "h": 0.6815789473684211,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 8.303477,
+          "x": 0.4074835526315789,
+          "y": 0.1929824527941252,
+          "w": 0.20279605263157896,
+          "h": 0.1394736842105263,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 8.580258,
+          "x": 0.41488486842105265,
+          "y": 0.3219298212151778,
+          "w": 0.15098684210526317,
+          "h": 0.21052631578947367,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 8.580258,
+          "x": 0.3615953947368421,
+          "y": 0.166666663320441,
+          "w": 0.3611842105263158,
+          "h": 0.531578947368421,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 8.898556,
+          "x": 0.3305098684210526,
+          "y": 0.1798245580572831,
+          "w": 0.27828947368421053,
+          "h": 0.1631578947368421,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 7.15,
+      "description": "The subject is sitting, leaning slightly forward. Their hands are clasped or rubbing together in front of them, low in the frame and making small, contained movements.",
+      "bboxes": [
+        {
+          "frame_time": 1.574396,
+          "x": 0.27870065789473686,
+          "y": 0.07719297910991468,
+          "w": 0.3138157894736842,
+          "h": 0.6052631578947368,
+          "note": "pose human-annotated",
+          "region": "torso"
+        },
+        {
+          "frame_time": 1.04886,
+          "x": 0.30830592105263155,
+          "y": 0.7640350843730725,
+          "w": 0.39226973684210525,
+          "h": 0.23421052631578948,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 7.15,
+      "end_time": 14.86,
+      "description": "Both hands are lifted into the center of the frame. The subject makes large, open, and symmetrical gestures with fingers spread, moving their hands apart and together to illustrate their speech.",
+      "bboxes": [
+        {
+          "frame_time": 9.55628,
+          "x": 0.21208881578947367,
+          "y": 0.1429824527941252,
+          "w": 0.4041118421052632,
+          "h": 0.6631578947368421,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 9.55628,
+          "x": 0.23133223684210527,
+          "y": 0.08508771595201994,
+          "w": 0.3611842105263158,
+          "h": 0.6421052631578947,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 14.86,
+      "end_time": 15.11,
+      "description": "The hands begin to lower from their expressive position, moving back toward the lap.",
+      "bboxes": [
+        {
+          "frame_time": 14.975391,
+          "x": 0,
+          "y": 0.716666663320441,
+          "w": 0.5935855263157895,
+          "h": 0.25526315789473686,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 15.004526,
+          "x": 0.006332236842105254,
+          "y": 0.7377192948993884,
+          "w": 0.5743421052631579,
+          "h": 0.2131578947368421,
+          "note": "human-annotated",
+          "region": "legs"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 4.41,
+      "description": "Speech is delivered at a moderate, conversational pace. A slightly breathy tone is audible on the phrase \"especially the mountains.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 4.41,
+      "end_time": 6.88,
+      "description": "Pitch and volume increase for emphasis on the words \"really, really love the mountains.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 6.88,
+      "end_time": 11.66,
+      "description": "The speech returns to a moderate pace and volume with a narrative tone.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 11.66,
+      "end_time": 14.46,
+      "description": "There is a significant increase in pitch and volume on the word \"giant,\" which is also slightly elongated. The intonation then falls through the phrase \"taken off the world.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 14.46,
+      "end_time": 15.11,
+      "description": "Volume decreases slightly as the final phrase trails off.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.11,
+      "description": "The subject is a young male with fair skin and short, stylized blond hair with darker roots. He is wearing a dark navy or black short-sleeved Henley T-shirt. The setting is indoors, in a room with light-colored walls. In the background, a doorway leads to a darker interior space, and a window with dark curtains is visible in the distance. The subject is well-lit from the front with diffuse lighting.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 6.638075,
+      "end_time": 7.638075,
+      "description": "The subject has high eyebrows and a straight nose. He obviously has a Western face and has a slicked-back hairstyle.",
+      "bboxes": [
+        {
+          "frame_time": 7.138075,
+          "x": 0.33939144736842103,
+          "y": 0.03245613700465152,
+          "w": 0.3034539473684211,
+          "h": 0.41842105263157897,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Medium",
+      "score": 0.49,
+      "rationale": "The subject's Extraversion is assessed as Medium, reflecting a blend of reserved and expressive behaviors. Initially, the subject exhibits introverted tendencies, such as indirect eye contact and small, controlled hand movements held low. However, as they engage with a topic of personal passion, their behavior shifts towards extraversion: their facial expressions become more animated, their eyes widen, and they employ large, illustrative hand gestures in the center of the frame, supported by increased vocal volume for emphasis. This context-dependent expressiveness is characteristic of mid-range Extraversion.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Low",
+      "score": 0.36,
+      "rationale": "The subject scores Low on Agreeableness. The rationale is based on a communication style that is highly self-referential and focused on personal feelings ('I really, really love', 'I feel like'). There is an absence of pro-social, rapport-building cues such as social smiling or consistent, direct eye contact with the camera. The subject presents their perspective in a straightforward, declarative manner without seeking external validation, which aligns with the independent and less socially-attuned nature of lower Agreeableness.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Medium",
+      "score": 0.47,
+      "rationale": "The subject's Conscientiousness is in the Medium range. This is supported by the structured and coherent way they articulate their thoughts, moving logically from a general premise (needing to breathe) to a specific example (mountains) and a detailed personal feeling. This indicates an organized thought process. However, the emotional expressiveness is spontaneous and not overly controlled, which moderates the score away from a higher level of Conscientiousness, resulting in a medium assessment.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Medium",
+      "score": 0.49,
+      "rationale": "A Medium Neuroticism score is indicated by a mix of emotional indicators. Initial behaviors, including averted gaze and contained hand-rubbing, can suggest a baseline level of tension or self-consciousness. However, the subject effectively channels their emotions into a positive and expressive narrative about finding relief from a 'giant weight'. This demonstrates emotional reactivity that is managed and directed, rather than being overwhelming or pervasively negative, which is consistent with a mid-range score on this trait.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "Medium",
+      "score": 0.59,
+      "rationale": "The subject's Openness is rated as Medium. Their appreciation for nature as a source of emotional and psychological relief points to an aesthetic sensitivity. Furthermore, the use of imaginative, metaphorical language ('this giant kind of weight has been taken off the world') to describe an internal state demonstrates a capacity for abstract thought. The clear emotional engagement with this reflective topic highlights a focus on inner experiences, a key facet of Openness.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their Openness level?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[0.5s - 1.8s]"
+        },
+        {
+          "id": "B",
+          "text": "[3.1s - 4.2s]"
+        },
+        {
+          "id": "C",
+          "text": "[4.4s - 5.7s]"
+        },
+        {
+          "id": "D",
+          "text": "[11.5s - 12.9s]"
+        },
+        {
+          "id": "E",
+          "text": "[14.0s - 15.1s]"
+        },
+        {
+          "id": "F",
+          "text": "[6.9s - 8.3s]"
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The correct answer is F. The time interval [6.9s - 8.3s] marks the most significant transition in the subject's demeanor, where their face becomes 'more animated' and their eyes 'widen'. This shift is triggered by discussing a topic of personal significance (mountains), which is directly relevant to the Openness trait's focus on aesthetic sensitivity and inner experiences.\nOption A is a video-based distractor; it captures the initial averted gaze, a baseline state rather than a notable change. \nOption B is a near-miss distractor; it corresponds to the moment the subject's eyelids droop slightly while saying 'especially the mountains,' which is a subtle change but not the primary shift to full animation. \nOptions C and D are video-based distractors; they correspond to moments of increased vocal emphasis but precede or follow the main facial expression shift that begins at 6.9s. \nOption E is a video-based distractor; it marks the end of the clip as the subject's energy winds down."
+    },
+    {
+      "category": "Mixed Emotion Discrimination",
+      "question": "During [6.9s - 11.7s], the person's emotional state is best characterized as which of the following? Consider both verbal and non-verbal cues.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Joyful amusement blended with a subtle feeling of gentle irony."
+        },
+        {
+          "id": "B",
+          "text": "Hopeful anticipation tempered by a quiet and wistful memory."
+        },
+        {
+          "id": "C",
+          "text": "Quiet satisfaction combined with a calm and serene contemplation."
+        },
+        {
+          "id": "D",
+          "text": "Proud accomplishment mixed with a feeling of cheerful optimism."
+        },
+        {
+          "id": "E",
+          "text": "Simple contentment tempered by a calm state of deep reflection."
+        },
+        {
+          "id": "F",
+          "text": "Cathartic release mixed with a genuine and animated enthusiasm."
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The correct answer is F. In this interval, the person describes a 'giant kind of weight has been taken off', which strongly suggests a 'cathartic release'. This is accompanied by animated facial expressions, wide eyes, and large hand gestures, all indicative of 'genuine enthusiasm' for the topic. \nOption A is a text-based distractor; the tone is earnest, with no cues pointing to amusement or irony. \nOption B is a text-based distractor; the feeling described is a current or repeated experience of relief, not wistful memory or anticipation. \nOption C is a near-miss distractor; it correctly identifies a positive state but fails to capture the high energy and animation, mischaracterizing it as 'calm' and 'serene'. \nOption D is a text-based distractor; the emotion is about relief and love for a place, not a sense of personal accomplishment. \nOption E is a near-miss distractor; like C, it misses the high-arousal nature of the expression, incorrectly labeling it 'calm' and 'tempered'."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around [3.4s], a region was detected in the video (x=0.296, y=0.082, w=0.369, h=0.458, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A widely opened mouth used for a moment of strong verbal emphasis."
+        },
+        {
+          "id": "B",
+          "text": "Eyes closed for a longer duration than a typical and natural blink."
+        },
+        {
+          "id": "C",
+          "text": "An expressive and symmetrical hand gesture used to illustrate a point."
+        },
+        {
+          "id": "D",
+          "text": "A slight forward lean of the upper torso while seated in the chair."
+        },
+        {
+          "id": "E",
+          "text": "Neutral eyebrows maintained during a particular verbal statement shown."
+        },
+        {
+          "id": "F",
+          "text": "Slightly drooping eyelids during a natural blink and verbal pause."
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The correct answer is F. The bounding box at 3.4s covers the subject's face as they say 'especially the mountains'. The observation log for this moment specifically notes that their eyelids are slightly drooping during a normal, natural blink, which this option accurately describes. \nOption A is a video-based distractor; the mouth is widely opened later, around 8.6s, not at 3.4s. \nOption B is a near-miss distractor; it correctly focuses on the eyes but misinterprets the action. The log states it's a normal and natural blink, not a prolonged eye closure. This is based on a common AI error pattern. \nOption C is a video-based distractor; the large hand gestures occur much later, around 9.6s. \nOption D is a video-based distractor; the torso lean is a general posture observed at the beginning of the video (e.g., 1.6s) and not the most prominent action within this facial bbox. \nOption E is a video-based distractor; neutral eyebrows are noted around 6.2s, not at 3.4s."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "Locate the specific moment and facial region where the subject's expression first transitions towards a more animated and emphatic state as they begin to describe a personal feeling.",
+      "options": [
+        {
+          "id": "A",
+          "text": "[8.6s] x=0.41, y=0.32, w=0.15, h=0.21"
+        },
+        {
+          "id": "B",
+          "text": "[1.3s] x=0.32, y=0.12, w=0.24, h=0.30"
+        },
+        {
+          "id": "C",
+          "text": "[1.6s] x=0.28, y=0.08, w=0.31, h=0.61"
+        },
+        {
+          "id": "D",
+          "text": "[3.4s] x=0.30, y=0.08, w=0.37, h=0.46"
+        },
+        {
+          "id": "E",
+          "text": "[8.6s] x=0.36, y=0.17, w=0.36, h=0.53"
+        },
+        {
+          "id": "F",
+          "text": "[6.3s] x=0.36, y=0.15, w=0.24, h=0.19"
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The correct answer is F. The description asks for the *first transition* to a more animated state. The observation log from [3.8s-6.9s] notes eyes reopen and eyebrows are natural and neutral during the emphasis on 'really, really love mountains'. The timestamp 6.3s falls squarely in this period, and the bounding box correctly isolates the eye/eyebrow region where this initial engagement happens, just before the larger gestures begin. \nOption A points to the mouth opening wider later in the expressive phase. \nOption B points to the initial averted gaze. \nOption C points to the overall torso posture at the beginning. \nOption D points to the drooping eyelid moment. \nOption E points to the large hand gestures that occur *after* the initial facial transition."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [
+      {
+        "check": "B",
+        "q_idx": 0,
+        "issue": "The question asks to analyze behavior strictly within the [7.2s - 14.9s] window. However, the correct answer (F) justifies the 'Medium Extraversion' score by referencing a 'shift from initial reservation to animated expression'. The 'initial reservation' occurs before 7.2s, making the question's time constraint factually inconsistent with the evidence required for the correct answer.",
+        "action": "Modified the question to focus on the overall behavioral pattern, specifically the 'shift', rather than a constrained time window. This aligns the question with the logic of the correct answer and the personality analysis."
+      }
+    ],
+    "corrections": {
+      "mcq_questions[0].question": "Considering the person's overall behavioral pattern across the entire clip, which Big Five personality dimension is most directly supported by their shift from a reserved to an expressive state?"
+    },
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator20",
+      "version": 4,
+      "clues_total": 24,
+      "clues_correct": 20,
+      "clues_wrong_corrected": 3,
+      "clues_missing_skipped": 0,
+      "clues_bonus": 1
+    }
+  }
+}

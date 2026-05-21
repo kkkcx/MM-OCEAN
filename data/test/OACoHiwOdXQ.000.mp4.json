@@ -1,0 +1,290 @@
+{
+  "video_id": "OACoHiwOdXQ.000.mp4",
+  "video_path": "OACoHiwOdXQ.000.mp4",
+  "transcription": "UK time, okay, so you might want to Google that app if you're not in the UK and find out how that works locally. You'll find when you sign up for this webinar, by the way, you can submit your questions ahead of time. So you don't have to be live on the call, but as I said if you're not a member of the developing group.",
+  "original_scores": {
+    "extraversion": 0.37383177570093457,
+    "agreeableness": 0.5934065934065933,
+    "conscientiousness": 0.6019417475728155,
+    "neuroticism": 0.3854166666666667,
+    "openness": 0.38888888888888895
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 15.22,
+      "description": "The subject maintains direct gaze at the camera. His expression is engaged, with eyebrows raising and lowering subtly in sync with his speech. His mouth moves for clear articulation. He blinks at natural intervals. His forehead shows slight horizontal creasing throughout.",
+      "bboxes": [
+        {
+          "frame_time": 0,
+          "x": 0.42592592592592593,
+          "y": 0.2997256515775034,
+          "w": 0.1697530864197531,
+          "h": 0.10150891632373114,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 0,
+          "x": 0.4166666666666667,
+          "y": 0.23113854595336078,
+          "w": 0.1882716049382716,
+          "h": 0.3950617283950617,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 0,
+          "x": 0.4212962962962963,
+          "y": 0.2503429355281207,
+          "w": 0.1697530864197531,
+          "h": 0.09876543209876543,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 0,
+          "x": 0.4675925925925926,
+          "y": 0.49725651577503427,
+          "w": 0.12654320987654322,
+          "h": 0.1728395061728395,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 1.477277,
+          "x": 0.4212962962962963,
+          "y": 0.294238683127572,
+          "w": 0.16666666666666666,
+          "h": 0.13168724279835392,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 1.477277,
+          "x": 0.4228395061728395,
+          "y": 0.2503429355281207,
+          "w": 0.17746913580246915,
+          "h": 0.10425240054869685,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 15.22,
+      "description": "The subject is stationary, framed from the upper chest upwards. He makes very subtle forward and backward nods that coincide with the rhythm and emphasis of his speech. His shoulders remain relaxed and mostly still.",
+      "bboxes": [
+        {
+          "frame_time": 1.477277,
+          "x": 0.2978395061728395,
+          "y": 0.2777777777777778,
+          "w": 0.4737654320987654,
+          "h": 0.663923182441701,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 0,
+          "x": 0.2006172839506173,
+          "y": 0.6454046639231824,
+          "w": 0.7021604938271605,
+          "h": 0.3045267489711934,
+          "note": "pose human-annotated",
+          "region": "shoulders"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 6.42,
+      "description": "The subject speaks at a moderate and clear pace. The pitch is mostly level, with slight downward inflections at the end of phrases. There is a slight stress on the word \"Google\".",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 6.42,
+      "end_time": 12.39,
+      "description": "The speech rate remains consistent. There's a brief, natural pause after \"by the way\". A slight increase in pitch and volume occurs on the word \"submit\" for emphasis.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 12.39,
+      "end_time": 15.22,
+      "description": "The pace and volume are steady, continuing from the previous segment. The phrase \"as I said\" is spoken slightly faster than the surrounding words.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.22,
+      "description": "The subject is a man with short, dark, spiky hair with some graying, and a light skin tone. He is wearing a dark gray hooded sweatshirt over a gray t-shirt. He is indoors in a well-lit room or hallway with white walls. To his left, three framed artworks with colorful abstract designs hang on the wall. To his right, a doorway opens into another room where a window with blinds and a camera on a tripod are visible. A long fluorescent light is visible on the ceiling.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Low",
+      "score": 0.37,
+      "rationale": "The subject's Low Extraversion is indicated by his reserved physical demeanor. He remains still, with relaxed and largely immobile shoulders, which is contrary to the expansive body language often seen in highly extraverted individuals. His vocal tone is moderate and mostly level, lacking the heightened energy and volume typical of an outgoing personality. While he maintains direct eye contact, suggesting social confidence, the overall presentation is controlled and focused rather than gregarious or expressive.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Medium",
+      "score": 0.59,
+      "rationale": "The Medium Agreeableness score is supported by the subject's cooperative and helpful communication style. His tone is moderate and his articulation is clear, aimed at ensuring the audience understands the information. His relaxed posture and engaged expression create a non-confrontational and accessible atmosphere. However, the interaction is primarily functional and lacks the overt warmth or strong affiliative cues (e.g., smiling) that would indicate a higher level of agreeableness, placing him in the medium range.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "High",
+      "score": 0.6,
+      "rationale": "High Conscientiousness is evident in the subject's structured and deliberate presentation. His speech is well-paced and clearly articulated, suggesting organized thought and preparation. He stays on task, efficiently conveying information about planning for the webinar ('submit your questions ahead of time'), which itself is a conscientious behavior. The overall composure, direct eye contact, and steady delivery project an image of discipline and reliability.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Low",
+      "score": 0.39,
+      "rationale": "The subject's Low Neuroticism is demonstrated by his calm and stable demeanor. He exhibits relaxed shoulders, a steady vocal rate without signs of tension, and natural blinking. His ability to maintain consistent, direct eye contact with the camera while speaking clearly indicates a low level of social anxiety or self-consciousness. There are no observable indicators of stress, such as fidgeting or vocal tremors, which strongly supports a high degree of emotional stability.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "Low",
+      "score": 0.39,
+      "rationale": "The Low Openness score is reflected in the subject's conventional and pragmatic communication style. His delivery is straightforward and informational, lacking metaphorical language or exploration of abstract concepts. The vocal tone is mostly level and functional, rather than highly expressive or varied. This adherence to a direct, factual presentation, combined with a conventional appearance, points to a preference for the concrete over the abstract, which is characteristic of lower openness.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's vocal expression occur that is most relevant to their High Conscientiousness level?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[0.5s - 1.5s]"
+        },
+        {
+          "id": "B",
+          "text": "[3.1s - 4.1s]"
+        },
+        {
+          "id": "C",
+          "text": "[6.8s - 7.8s]"
+        },
+        {
+          "id": "D",
+          "text": "[10.2s - 11.2s]"
+        },
+        {
+          "id": "E",
+          "text": "[8.5s - 9.5s]"
+        },
+        {
+          "id": "F",
+          "text": "[13.4s - 14.4s]"
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Around [10.2s - 11.2s], the speaker's vocal tone and volume rise slightly as he says the word 'submit'. This vocal emphasis, likely accompanied by a subtle eyebrow raise, serves to highlight a key piece of information for the audience, reflecting the organized and goal-oriented communication style characteristic of High Conscientiousness.\n- Option A is a text-based distractor. This interval covers the beginning of his speech but lacks a specific, notable change relevant to the trait.\n- Option B is a video-based distractor. This is a period of normal, steady speech without any particular emphasis or expression change.\n- Option C is a video-based distractor. This interval falls within a normal phase of his explanation, without a distinct micro-expression.\n- Option E is a video-based distractor. This interval corresponds to the natural pause after 'by the way', which is a feature of his speech pattern but not a targeted change for emphasis related to conscientiousness.\n- Option F is a near-miss distractor. This interval is close to the end of the video but misses the key moment of vocal and facial emphasis that occurs earlier."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around [0.0s], a region was detected in the video (x=0.421, y=0.250, w=0.170, h=0.099, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mouth movements forming words for clear articulation of speech."
+        },
+        {
+          "id": "B",
+          "text": "Relaxed shoulder posture maintained in a mostly static state."
+        },
+        {
+          "id": "C",
+          "text": "Natural eye blinking occurring at a relaxed and regular pace."
+        },
+        {
+          "id": "D",
+          "text": "Subtle brow movements that sync with the speaker's vocal emphasis."
+        },
+        {
+          "id": "E",
+          "text": "Visible horizontal lines appearing statically across the forehead."
+        },
+        {
+          "id": "F",
+          "text": "An overall facial expression showing a deep sense of engagement."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "The specified coordinates (x=0.421, y=0.250) correspond precisely to the speaker's eyebrows. The observation data confirms that his eyebrows 'move slightly up and down as he speaks', which is a form of non-verbal emphasis synchronized with his speech.\n- Option A is a video-based distractor. This action occurs in the mouth region, which is located below the specified bounding box.\n- Option B is a video-based distractor. This describes the shoulders, which are well outside the specified facial region.\n- Option C is a video-based distractor. This action occurs in the eye region, which is adjacent to but distinct from the eyebrow region defined by the bounding box.\n- Option E is a near-miss distractor. While there are some static wrinkles on his forehead, the bounding box specifically targets the mobile eyebrows, and the prominent *action* within it is their movement, not the static lines.\n- Option F is a text-based distractor. This describes the entire face, whereas the question asks for the specific action within the small, localized region of the eyebrows."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "The speaker's deliberate and clear speech is a key indicator of his conscientious nature. Which option correctly identifies the precise time and location of the facial region most responsible for this articulation?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[0.0s] x=0.421, y=0.250, w=0.170, h=0.099"
+        },
+        {
+          "id": "B",
+          "text": "[0.0s] x=0.426, y=0.300, w=0.170, h=0.102"
+        },
+        {
+          "id": "C",
+          "text": "[0.0s] x=0.468, y=0.497, w=0.127, h=0.173"
+        },
+        {
+          "id": "D",
+          "text": "[5.0s] x=0.468, y=0.497, w=0.127, h=0.173"
+        },
+        {
+          "id": "E",
+          "text": "[1.5s] x=0.298, y=0.278, w=0.474, h=0.664"
+        },
+        {
+          "id": "F",
+          "text": "[0.0s] x=0.468, y=0.407, w=0.127, h=0.173"
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The question asks to identify the region responsible for articulation. This is the mouth. The coordinates and timestamp in option C correspond exactly to the bounding box for the speaker's mouth at the beginning of the video, as documented in the observation data.\n- Option A is a video-based distractor. These coordinates locate the eyebrows at 0.0s, which are involved in expression but not articulation.\n- Option B is a video-based distractor. These coordinates locate the eyes at 0.0s, which are not responsible for speech articulation.\n- Option D is a video-based distractor. While the coordinates correctly identify the mouth, the timestamp [5.0s] is not the one provided in the ground-truth data for this specific bbox, making it incorrect.\n- Option E is a video-based distractor. These coordinates at 1.5s locate the entire upper body/hands region, not the specific facial region for articulation.\n- Option F is a near-miss distractor. It has the correct time and is close to the mouth region, but the y-coordinate is shifted upwards, making it an inaccurate localization of the mouth itself."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [
+      {
+        "check": "B",
+        "q_idx": 1,
+        "issue": "The question asks about a 'notable change in... facial expression or micro-expression' at a specific time. However, the observation data only documents a general facial expression for the whole clip, whereas it specifically notes a *vocal* change (emphasis on the word 'submit') relevant to the rationale. The question's premise is factually misaligned with the specific evidence provided.",
+        "action": "Changed the question stem to ask about 'vocal expression' to accurately reflect the supporting observation data."
+      }
+    ],
+    "corrections": {
+      "mcq_questions[1].question": "At which time interval does a notable change in the person's vocal expression occur that is most relevant to their High Conscientiousness level?"
+    },
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator15",
+      "version": 1,
+      "clues_total": 13,
+      "clues_correct": 12,
+      "clues_wrong_corrected": 0,
+      "clues_missing_skipped": 1,
+      "clues_bonus": 0
+    }
+  }
+}

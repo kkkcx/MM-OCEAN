@@ -1,0 +1,383 @@
+{
+  "video_id": "j6d-KRDXnUI.004.mp4",
+  "video_path": "j6d-KRDXnUI.004.mp4",
+  "transcription": "- you have more than a 15 minute class, then definitely expect for lecture to start, and be prepared to take some notes. These are what I suggest to take with you on your first day. Over the class, you'll know what your teacher wants you to bring. She may have some suggestions, specific -",
+  "original_scores": {
+    "extraversion": 0.5420560747663552,
+    "agreeableness": 0.6373626373626373,
+    "conscientiousness": 0.6019417475728155,
+    "neuroticism": 0.5520833333333334,
+    "openness": 0.7333333333333333
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 2.2,
+      "description": "The subject maintains direct eye contact with the camera. Her eyebrows are slightly raised as she speaks, and her mouth moves in sync with her words. The facial expression is neutral and engaged.",
+      "bboxes": [
+        {
+          "frame_time": 0.996106,
+          "x": 0.40674342105263156,
+          "y": 0.3531578967445775,
+          "w": 0.17467105263157895,
+          "h": 0.08421052631578947,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 2.2,
+      "end_time": 4.1,
+      "description": "A slight smile forms as the corners of her mouth lift and her eyes narrow slightly. She maintains eye contact.",
+      "bboxes": [
+        {
+          "frame_time": 3.749994,
+          "x": 0.3904605263157895,
+          "y": 0.25578947569194593,
+          "w": 0.21019736842105263,
+          "h": 0.4236842105263158,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 4.1,
+      "end_time": 6.8,
+      "description": "The smile fades, and her expression returns to neutral. Her gaze briefly shifts downward as her eyelids lower.",
+      "bboxes": [
+        {
+          "frame_time": 6.8,
+          "x": 0.4511513157894737,
+          "y": 0.3347368441129986,
+          "w": 0.16875,
+          "h": 0.3631578947368421,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 6.8,
+      "end_time": 9.9,
+      "description": "Her gaze returns to the camera. The expression is serious and focused, with neutral eyebrows and mouth movements corresponding to speech.",
+      "bboxes": [
+        {
+          "frame_time": 8.136722,
+          "x": 0.40230263157894736,
+          "y": 0.28473684411299854,
+          "w": 0.1924342105263158,
+          "h": 0.34210526315789475,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 9.9,
+      "end_time": 11,
+      "description": "Her eyes shift slightly to her right and upwards, and her eyebrows raise slightly, as if recalling information.",
+      "bboxes": [
+        {
+          "frame_time": 10.45,
+          "x": 0.41118421052631576,
+          "y": 0.2163157914814196,
+          "w": 0.196875,
+          "h": 0.4052631578947368,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 11,
+      "end_time": 15.5,
+      "description": "Gaze returns to the camera. Her eyebrows lower slightly and her forehead shows slight tension as she speaks with a serious expression.",
+      "bboxes": [
+        {
+          "frame_time": 12.351641,
+          "x": 0.4274671052631579,
+          "y": 0.20052631779720909,
+          "w": 0.17763157894736842,
+          "h": 0.4631578947368421,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 15.5,
+      "description": "The subject is sitting upright, framed from the chest up. Her head makes small, subtle nods and tilts that correspond to her speech emphasis. Her shoulders remain relaxed and mostly stationary throughout the clip.",
+      "bboxes": [
+        {
+          "frame_time": 2.807712,
+          "x": 0.34309210526315786,
+          "y": 0.10052631779720908,
+          "w": 0.3375,
+          "h": 0.8447368421052631,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 2.3,
+      "description": "Speech is delivered at a moderate pace. The pitch rises slightly on the word \"definitely\" for emphasis.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 2.3,
+      "end_time": 6.3,
+      "description": "The pace remains moderate, with a clear falling intonation at the end of the sentence on \"notes.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 6.3,
+      "end_time": 9.7,
+      "description": "The subject speaks at a steady pace and volume, with a clear, declarative tone. Pitch falls at the end of the phrase \"first day.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 9.7,
+      "end_time": 15.5,
+      "description": "The speech rate is consistent. There is a slight pause before the phrase \"specific items,\" which is delivered with a slightly slower, more deliberate cadence.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.5,
+      "description": "The subject is a young woman with long, dark hair, a medium skin tone, and is wearing makeup including distinct blue-green eyeshadow. She is wearing a light blue, collared shirt with white polka dots. The setting is an indoor room, likely an apartment, with white walls. Visible in the background are a living room area with a floor lamp and a patterned pillow on a couch, and a kitchen area with brown cabinets, a white refrigerator, and a microwave. The lighting is bright and frontal.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Medium",
+      "score": 0.54,
+      "rationale": "The subject's Extraversion is rated as Medium. While she demonstrates social confidence by speaking directly to the camera and maintaining consistent eye contact, her overall demeanor is controlled rather than overtly expressive. Her body is mostly still with relaxed shoulders, and she uses subtle head nods for emphasis instead of broad gestures. The brief, slight smile and measured vocal tone suggest a balanced social energy, placing her in the middle of the extraversion spectrum—comfortable in a social role but not actively seeking to dominate the interaction.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "High",
+      "score": 0.64,
+      "rationale": "The subject's Agreeableness is rated as High. The fundamental purpose of her video—to offer helpful advice and suggestions—is a prosocial and cooperative act. Her demeanor supports this, with an engaged, pleasant facial expression and a calm, non-confrontational vocal tone. Her use of subtle head nods can be interpreted as a non-verbal cue of affirmation and a desire to connect with her audience, reflecting the helpful and trusting nature characteristic of high agreeableness.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "High",
+      "score": 0.6,
+      "rationale": "The subject's Conscientiousness is rated as High. Her communication is structured, clear, and goal-oriented, indicating preparation and a methodical approach. She provides specific, practical advice in an organized manner. Her focused expression, upright posture, and deliberate speech (e.g., pausing before the phrase 'specific items') suggest a thoughtful and task-focused mindset. The neat and orderly appearance of the background further reinforces the impression of an organized and dutiful individual.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Medium",
+      "score": 0.55,
+      "rationale": "The subject's Neuroticism is rated as Medium. She presents a generally calm and composed exterior, with a steady speaking pace and relaxed shoulders. However, subtle cues suggest a moderate level of cognitive self-monitoring. She briefly averts her gaze downwards and to the side, and her brow furrows slightly at times, indicating focused concentration or a mild response to the pressure of being recorded. These behaviors are not signs of high anxiety, but rather reflect a managed and subtle level of stress, consistent with a mid-range score on this dimension.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "High",
+      "score": 0.73,
+      "rationale": "The subject's Openness is rated as High. This is most clearly evidenced by her distinct aesthetic choices. The 'obvious blue-green eyeshadow' and patterned shirt demonstrate a creative and non-conventional approach to self-expression. This willingness to embrace a unique personal style is a strong indicator of an appreciation for aesthetics and individuality. The very act of creating and sharing knowledge in a public, creative format like a video also points towards a curious and open disposition.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their medium Neuroticism level?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[0.5s - 1.8s]"
+        },
+        {
+          "id": "B",
+          "text": "[2.2s - 4.1s]"
+        },
+        {
+          "id": "C",
+          "text": "[7.2s - 8.5s]"
+        },
+        {
+          "id": "D",
+          "text": "[4.1s - 6.8s]"
+        },
+        {
+          "id": "E",
+          "text": "[11.0s - 15.5s]"
+        },
+        {
+          "id": "F",
+          "text": "[9.9s - 11.0s]"
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The correct answer is F. The personality analysis notes that subtle cues of cognitive self-monitoring contribute to the medium Neuroticism score. The interval [9.9s - 11.0s] is when she briefly shifts her gaze to the left and raises her eyebrows, a classic non-verbal cue of accessing memory or thinking, which reflects this internal self-monitoring process.\n\n- Options A and C are text-based distractors. They are plausible time intervals within the video's duration but do not correspond to any significant facial expression changes noted in the observations.\n- Option B is a video-based distractor. This interval contains a slight smile, which is more relevant to Agreeableness or Extraversion than to Neuroticism.\n- Option D is a video-based distractor and near-miss. This interval, where her gaze briefly moves downward, is also a sign of self-monitoring relevant to Neuroticism, making it a strong competitor. However, the gaze shift for cognitive recall in F is a more distinct and complex micro-expression.\n- Option E is a video-based distractor. This interval shows a serious, focused expression with a slightly lowered brow, which is more indicative of concentration (Conscientiousness) than the self-monitoring aspect of Neuroticism."
+    },
+    {
+      "category": "Mixed Emotion Discrimination",
+      "question": "During 11.0s - 15.5s, the person's emotional state is best characterized as which of the following? Consider both verbal and non-verbal cues.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Warm amusement mixed with a sense of playful sharing."
+        },
+        {
+          "id": "B",
+          "text": "Mild apprehension tempered by dutiful instruction."
+        },
+        {
+          "id": "C",
+          "text": "Enthusiastic engagement mixed with cheerful confidence."
+        },
+        {
+          "id": "D",
+          "text": "Intellectual curiosity tempered by a desire for connection."
+        },
+        {
+          "id": "E",
+          "text": "Reflective nostalgia tempered by a sense of calm resolve."
+        },
+        {
+          "id": "F",
+          "text": "Focused concentration mixed with a helpful disposition."
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The correct answer is F. In this segment, the person's gaze is direct, her brow is slightly lowered, and her speech is deliberate. This indicates focused concentration as she delivers specific advice. This is combined with the overall goal of her video, which is to be helpful, capturing the mix of task-focus and prosocial intent.\n\n- Option A is a video-based distractor. 'Warm amusement' and 'playful sharing' might better describe the brief smile that occurs earlier in the video (around 2.2s-4.1s), but it does not match the serious expression in this later segment.\n- Option B is a near-miss distractor. 'Dutiful instruction' is very close to correct, but 'mild apprehension' is an overstatement of the subtle self-monitoring cues; 'focused concentration' is a more accurate description of her expression.\n- Option C is a text-based distractor. Based on the topic of giving helpful advice, 'enthusiastic engagement' sounds plausible, but her actual non-verbal cues (serious expression, steady tone) do not convey high enthusiasm or cheerfulness.\n- Option D is a text-based distractor. 'Desire for connection' is plausible, but 'intellectual curiosity' is not the primary emotion; she is imparting known information, not exploring a new idea. 'Helpful disposition' is more accurate.\n- Option E is a text-based distractor. 'Nostalgia' is irrelevant to the context of providing practical tips for the first day of class."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 8.1s, a region was detected in the video (x=0.40, y=0.29, w=0.19, h=0.34, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A subtle smile showing slight warmth and positive engagement."
+        },
+        {
+          "id": "B",
+          "text": "A tense expression with a lowered brow suggesting deep thought."
+        },
+        {
+          "id": "C",
+          "text": "A neutral but engaged expression with slightly raised brows."
+        },
+        {
+          "id": "D",
+          "text": "An upright posture with relaxed shoulders and subtle head nods."
+        },
+        {
+          "id": "E",
+          "text": "A brief glance to the side with raised brows indicating recall."
+        },
+        {
+          "id": "F",
+          "text": "A serious and focused expression with direct eye contact."
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The correct answer is F. The specified bounding box at 8.1s frames the person's face. At this moment, she has returned her gaze to the camera after a brief look down, and her expression is serious and focused as she continues speaking, with neutral brows and mouth movements corresponding to her speech.\n\n- Option A is a video-based distractor. This describes the smile that occurs earlier, around 3.7s.\n- Option B is a video-based distractor. This describes the expression that occurs later, around 12.4s, when her brow is slightly lowered in concentration.\n- Option C is a video-based distractor. This describes her initial expression at the very start of the video, around 1.0s.\n- Option D is a video-based distractor that tests spatial reasoning. It correctly describes her overall posture, but this action occurs in the torso/shoulder region, which is outside the specified facial bounding box.\n- Option E is a near-miss distractor. It describes another focused facial expression, but this one involves a gaze shift for memory recall and happens at a different time, around 10.4s."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "At which of the following moments does the subject display a particularly serious and deliberate expression, characterized by a slight tension in the forehead, while delivering a specific point?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[6.8s]  x=0.45, y=0.33, w=0.17, h=0.36"
+        },
+        {
+          "id": "B",
+          "text": "[3.7s]  x=0.39, y=0.26, w=0.21, h=0.42"
+        },
+        {
+          "id": "C",
+          "text": "[2.8s]  x=0.34, y=0.10, w=0.34, h=0.84"
+        },
+        {
+          "id": "D",
+          "text": "[8.1s]  x=0.40, y=0.28, w=0.19, h=0.34"
+        },
+        {
+          "id": "E",
+          "text": "[1.0s]  x=0.41, y=0.35, w=0.17, h=0.08"
+        },
+        {
+          "id": "F",
+          "text": "[12.4s]  x=0.43, y=0.20, w=0.18, h=0.46"
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The correct answer is F. The description in the question stem matches the observation from [11.0s - 15.5s], where her 'brow is slightly lowered and her forehead is slightly tensed' as she speaks seriously. The timestamp 12.4s and its associated bounding box fall directly within this period and correctly frame her face.\n\n- Option A is a video-based distractor. This timestamp and bbox correspond to the moment her gaze briefly moves downward.\n- Option B is a video-based distractor. This timestamp and bbox capture her slight smile.\n- Option C is a video-based distractor. This bbox is very large and captures her entire upper body posture, not a specific facial expression.\n- Option D is a near-miss distractor. At 8.1s, her expression is also serious and focused, but it lacks the specific brow tension mentioned in the question stem that characterizes the later segment.\n- Option E is a video-based distractor. This timestamp and bbox show her initial neutral, engaged expression."
+    },
+    {
+      "category": "Counterfactual Reasoning",
+      "question": "If the person had NOT exhibited the behavior observed around 9.9s - 11.0s, which of the following personality assessments would be MOST affected?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Conscientiousness would be rated higher, as omitting the pause would make her speech seem more fluid and rehearsed."
+        },
+        {
+          "id": "B",
+          "text": "Agreeableness would be rated lower, as the brief pause could be misinterpreted as being uncooperative or hesitant."
+        },
+        {
+          "id": "C",
+          "text": "Openness would be rated higher, as removing the 'thinking' pause suggests a more spontaneous creative process for her."
+        },
+        {
+          "id": "D",
+          "text": "Extraversion would be rated lower, as the social confidence shown by smiling at 3.7s is undermined by this brief hesitation."
+        },
+        {
+          "id": "E",
+          "text": "Neuroticism would be rated lower, as this behavior is a primary indicator of performance-related self-monitoring and stress."
+        },
+        {
+          "id": "F",
+          "text": "Conscientiousness would be rated lower, as this moment shows a deliberate effort to provide accurate, organized information."
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The correct answer is F. The behavior at 9.9s - 11.0s is a gaze shift to recall information before giving specific advice. This action is a key piece of evidence for High Conscientiousness because it demonstrates a methodical, thoughtful approach and a desire to be organized and accurate. Removing this behavior would weaken the case for her being highly structured and dutiful.\n\n- Option A is a near-miss distractor. It correctly identifies the relevant trait (Conscientiousness) but argues for the wrong direction of change based on flawed reasoning.\n- Option B is a text-based distractor. This is a plausible social interpretation, but the behavior's link to the cognitive trait of Conscientiousness is much stronger and more direct than its link to Agreeableness.\n- Option C is a text-based distractor. It makes a speculative leap connecting a thinking pause to creativity (Openness), but the primary evidence for her Openness is her aesthetic style, which is unrelated to this behavior.\n- Option D is a video-based distractor. It connects two real but largely unrelated events (the smile and the pause) with a weak causal link. Her Extraversion score isn't dependent on this single, brief pause.\n- Option E is a video-based distractor and a strong competitor. The analysis does link self-monitoring to Neuroticism. However, the *context* of the behavior—pausing to structure advice—makes it a more powerful indicator of being organized (Conscientiousness) than being anxious (Neuroticism). Therefore, the Conscientiousness score would be *most* affected."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator11",
+      "version": 1,
+      "clues_total": 12,
+      "clues_correct": 10,
+      "clues_wrong_corrected": 2,
+      "clues_missing_skipped": 0,
+      "clues_bonus": 0
+    }
+  }
+}

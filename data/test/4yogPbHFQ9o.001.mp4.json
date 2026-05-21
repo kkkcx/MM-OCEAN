@@ -1,0 +1,451 @@
+{
+  "video_id": "4yogPbHFQ9o.001.mp4",
+  "video_path": "4yogPbHFQ9o.001.mp4",
+  "transcription": "... have to promote on your own. You have to ... covers, everything, editing. You got to put your own money back into it. No one's going to put the money in for you. Self-publish is basically -",
+  "original_scores": {
+    "extraversion": 0.30841121495327106,
+    "agreeableness": 0.5164835164835165,
+    "conscientiousness": 0.47572815533980584,
+    "neuroticism": 0.3125,
+    "openness": 0.3
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 1,
+      "description": "The subject looks up and to her right while beginning to speak, then brings her gaze back toward the camera.",
+      "bboxes": [
+        {
+          "frame_time": 1.013797,
+          "x": 0.42894736842105263,
+          "y": 0.22157894937615646,
+          "w": 0.18947368421052632,
+          "h": 0.32105263157894737,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 1,
+      "end_time": 1.5,
+      "description": "The subject's eyes roll up and to her right in a brief, fluid motion before returning to look toward the camera.",
+      "bboxes": [
+        {
+          "frame_time": 1,
+          "x": 0.44671052631578945,
+          "y": 0.2900000020077354,
+          "w": 0.15098684210526317,
+          "h": 0.09210526315789473,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 1.5,
+      "end_time": 10,
+      "description": "The subject looks slightly to her right and then returns her gaze toward the camera, maintaining a relatively neutral facial expression with natural mouth movements as she speaks.",
+      "bboxes": [
+        {
+          "frame_time": 2.525436,
+          "x": 0.44671052631578945,
+          "y": 0.14263158095510384,
+          "w": 0.20575657894736843,
+          "h": 0.4394736842105263,
+          "note": "human-annotated",
+          "region": "unknown"
+        },
+        {
+          "frame_time": 3.787076,
+          "x": 0.4185855263157895,
+          "y": 0.11631579148141961,
+          "w": 0.20575657894736843,
+          "h": 0.48947368421052634,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 3.787076,
+          "x": 0.4511513157894737,
+          "y": 0.20578947569194592,
+          "w": 0.1613486842105263,
+          "h": 0.3236842105263158,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 3.787076,
+          "x": 0.4763157894736842,
+          "y": 0.4268421072708933,
+          "w": 0.1125,
+          "h": 0.11842105263157894,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 12.2,
+      "end_time": 15.48,
+      "description": "The subject maintains her gaze toward the camera with a neutral expression while speaking.",
+      "bboxes": [
+        {
+          "frame_time": 14.400542,
+          "x": 0.4407894736842105,
+          "y": 0.16894737042878805,
+          "w": 0.21759868421052633,
+          "h": 0.4236842105263158,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 14.400542,
+          "x": 0.4644736842105263,
+          "y": 0.21894737042878804,
+          "w": 0.15838815789473684,
+          "h": 0.3447368421052632,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 15.48,
+      "description": "The subject sits upright in a black chair, facing forward. Her head remains relatively still, with only very subtle nods and turns that align with her speech patterns. Her shoulders are relaxed and stationary. The shot is a medium close-up from the chest up.",
+      "bboxes": [
+        {
+          "frame_time": 14.400542,
+          "x": 0.29276315789473684,
+          "y": 0.5136842125340512,
+          "w": 0.4855263157894737,
+          "h": 0.37894736842105264,
+          "note": "pose human-annotated",
+          "region": "torso"
+        },
+        {
+          "frame_time": 14.400542,
+          "x": 0.44671052631578945,
+          "y": 0.20578947569194592,
+          "w": 0.19539473684210526,
+          "h": 0.3815789473684211,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 14.400542,
+          "x": 0.30904605263157897,
+          "y": 0.5426315809551038,
+          "w": 0.48848684210526316,
+          "h": 0.2578947368421053,
+          "note": "pose human-annotated",
+          "region": "shoulders"
+        },
+        {
+          "frame_time": 1.812456,
+          "x": 0.4082236842105263,
+          "y": 0.13473684411299855,
+          "w": 0.2723684210526316,
+          "h": 0.6973684210526315,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 5,
+      "description": "Speech is delivered at a moderate pace. The words \"covers, everything, editing\" are spoken with deliberate, clear enunciation and brief pauses between them.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 5,
+      "end_time": 8,
+      "description": "Vocal stress and a slight rise in pitch are placed on the phrase \"your own money.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 8,
+      "end_time": 10,
+      "description": "The phrase \"money in for you\" has a falling intonation at the end.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 10,
+      "end_time": 12.5,
+      "description": "There is a pause of approximately two seconds, followed by the filler word \"Uhm.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 12.5,
+      "end_time": 15.48,
+      "description": "Speech resumes at a moderate pace and consistent volume.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.48,
+      "description": "The subject is a woman with a dark complexion. She is wearing a maroon, twisted headwrap, a teal-green ribbed sweater, and large, silver-colored hoop earrings. She is sitting in a black, high-backed chair in an indoor setting. The background consists of a plain, light-colored wall with white molding or wainscoting at the bottom. To the viewer's left is a decorative arrangement of dried grasses and artificial leaves. To the viewer's right, the corner of an ornate, gold-colored picture frame is visible. The lighting is bright and diffuse, coming from the front.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Low",
+      "score": 0.31,
+      "rationale": "The subject's 'Low' Extraversion score is consistent with her reserved demeanor. She maintains a relatively static and upright posture with minimal head and shoulder movement, indicating lower social energy. Her speech is delivered at a moderate, deliberate pace, and includes a two-second pause followed by a filler word ('Uhm.'), which suggests a more internally-focused and less spontaneous communication style. The initial shifting of her gaze away from the camera also points to cognitive processing rather than a strong, outward drive for social engagement.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Medium",
+      "score": 0.52,
+      "rationale": "A 'Medium' Agreeableness score is supported by the subject's balanced and non-confrontational presentation. Her facial expression is consistently neutral and her shoulders are relaxed, conveying a calm and approachable, yet not overtly effusive, attitude. Her vocal tone is measured, using emphasis on certain words ('your own money') for informational clarity rather than emotional or aggressive effect. This straightforward, cooperative manner of communication aligns with a moderate level of agreeableness.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Medium",
+      "score": 0.48,
+      "rationale": "The 'Medium' Conscientiousness score is reflected in the subject's structured and purposeful communication. She systematically breaks down the topic ('covers, everything, editing') with clear articulation and deliberate pauses, indicating an organized thought process. Her upright posture suggests attentiveness to the task of explaining her point. Her moderate speech pace and careful enunciation support the idea of a dutiful individual who values clarity and precision, consistent with this score.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Low",
+      "score": 0.31,
+      "rationale": "The subject's 'Low' Neuroticism score is strongly supported by her overall calm and stable demeanor. Her posture is composed, with relaxed shoulders and a relatively still head, showing no signs of nervous tension or fidgeting. Her facial expression remains neutral and her speech is delivered at a consistent volume and moderate pace, even when pausing to think. This lack of emotional volatility or visible anxiety is a key indicator of low neuroticism.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "Low",
+      "score": 0.3,
+      "rationale": "The 'Low' score for Openness is consistent with the subject's practical and concrete communication style. She focuses on the factual, logistical aspects of her topic ('put your own money back into it') rather than exploring abstract or theoretical ideas. Her language is straightforward and her delivery is direct and informative. The emotionally neutral expression and the conventional setting further suggest a grounded, pragmatic approach, which is characteristic of individuals with lower levels of openness to new experiences.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During 10.0s - 12.5s, the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "High Conscientiousness, as the pause suggests a moment of careful, organized thought before speaking."
+        },
+        {
+          "id": "B",
+          "text": "Low Agreeableness, since the hesitation could be interpreted as a passive, uncooperative response."
+        },
+        {
+          "id": "C",
+          "text": "High Neuroticism, because the brief hesitation could be seen as a manifestation of social anxiety."
+        },
+        {
+          "id": "D",
+          "text": "High Extraversion, as the pause is a strategic tool to build anticipation for an engaging point."
+        },
+        {
+          "id": "E",
+          "text": "Low Neuroticism, which is supported by the calm posture seen throughout the entire performance."
+        },
+        {
+          "id": "F",
+          "text": "Low Extraversion, as the pause indicates an internally-focused cognitive processing communication style."
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The correct answer is F. The pause and filler word 'Uhm' at 10.0s - 12.5s indicate a moment of internal thought and planning rather than spontaneous, outward expression, which is a key marker for lower Extraversion.\n\n- Option A is a text-based distractor. While pausing can be a sign of conscientiousness, in this context, it's a stronger indicator of introverted processing, as noted in the analysis.\n- Option B is a text-based distractor. Interpreting the pause as uncooperative is a plausible guess from the text but is contradicted by her overall calm and informative tone.\n- Option C is a near-miss distractor. A pause can indicate anxiety, but her overall composed demeanor (relaxed shoulders, steady expression) makes this interpretation less likely than the cognitive processing explanation.\n- Option D is a text-based distractor. This suggests an extroverted, performative reason for the pause, which is not supported by the subject's reserved and deliberate communication style.\n- Option E is a video-based distractor. The subject does exhibit low Neuroticism through her calm posture, but this specific pause is more direct evidence for her level of Extraversion, not Neuroticism."
+    },
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their cognitive processing style?",
+      "options": [
+        {
+          "id": "A",
+          "text": "0.0s - 1.0s"
+        },
+        {
+          "id": "B",
+          "text": "3.5s - 4.5s"
+        },
+        {
+          "id": "C",
+          "text": "5.5s - 6.5s"
+        },
+        {
+          "id": "D",
+          "text": "8.0s - 9.0s"
+        },
+        {
+          "id": "E",
+          "text": "10.5s - 11.5s"
+        },
+        {
+          "id": "F",
+          "text": "1.0s - 1.5s"
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The correct answer is F. In the interval 1.0s - 1.5s, the subject performs a quick, fluid eye roll from right to left. This subtle action is a classic indicator of cognitive retrieval or internal thought processing, occurring just before she launches into her main explanation.\n\n- Option A is a video-based distractor. This interval captures the initial glance up and to the right, which is also part of cognitive processing, but the subsequent eye roll is a more distinct and rapid micro-expression.\n- Option B is a video-based distractor. During this time, her gaze is steady on the camera, which is a state of engagement, not a notable change or micro-expression.\n- Option C is a video-based distractor. This interval is in the middle of her speech where she provides vocal emphasis, but there is no distinct facial micro-expression.\n- Option D is a video-based distractor. This is another interval during her main speech delivery with a neutral expression and no notable changes.\n- Option E is a video-based distractor. This interval captures the middle of her two-second pause, a behavioral cue, but not a facial or micro-expression change."
+    },
+    {
+      "category": "Temporal-Causal Reasoning",
+      "question": "Consider the sequence of behaviors observed across the video. Which of the following best describes the causal chain linking the person's actions at different moments?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A display of social discomfort (0-1.5s) prompts a compensatory verbal over-assertion (5-8s), which then necessitates a regulatory pause to manage rising emotional arousal before continuing the talk (10-12.5s)."
+        },
+        {
+          "id": "B",
+          "text": "A period of direct audience engagement (1.5-10s) causes cognitive overload, which leads to a strategic pause for recovery (10-12.5s) and is then followed by a brief moment of reflective gaze aversion (0-1.5s)."
+        },
+        {
+          "id": "C",
+          "text": "The main communicative act (1.5-10s) is initiated by a preparatory moment of thought structuring (10-12.5s), which itself follows an initial non-verbal signal of audience connection at the start (0-1.5s)."
+        },
+        {
+          "id": "D",
+          "text": "An emphatic vocalization (5-8s) serves as the main point, which is preceded by a period of audience-focused delivery (1.5-10s) and is then followed by a moment of self-correction and internal thought (0-1.5s)."
+        },
+        {
+          "id": "E",
+          "text": "A moment of self-monitoring and thought organization (10-12.5s) is a direct result of an initial failure to connect with the audience (0-1.5s), which then enables a more focused period of direct communication (1.5-10s)."
+        },
+        {
+          "id": "F",
+          "text": "An initial action of cognitive retrieval (0-1.5s) enables a sustained period of structured communication (1.5-10s), which is then punctuated by a moment of self-monitoring to organize the next thought (10-12.5s)."
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The correct answer is F. This option accurately represents the observed sequence and its most likely causal links. The initial gaze aversion (0-1.5s) is a common behavior for accessing memory or formulating thoughts. This preparation allows for the subsequent period of clear, direct-to-camera speech (1.5-10s). The pause (10-12.5s) then serves as a natural transition point to structure the next part of the explanation.\n\n- Option A is a text-based distractor. It imposes an emotional narrative (discomfort, arousal) that is not supported by the subject's calm, neutral demeanor.\n- Option B is a near-miss distractor with reversed temporal order. It correctly identifies the key behaviors but scrambles their sequence, incorrectly placing the gaze aversion at the end.\n- Option C is a video-based distractor with reversed temporal order. It also scrambles the timeline, claiming the pause (10-12.5s) happens before the main speech (1.5-10s).\n- Option D is a video-based distractor with reversed temporal order. It correctly identifies behaviors but places the initial cognitive retrieval moment (0-1.5s) at the end of the sequence.\n- Option E is a near-miss distractor. It has the correct temporal order but posits a flawed causal link, framing the initial gaze aversion as a 'failure' that causes the pause, which is an unsupported interpretation."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 14.4s, a region was detected in the video (x=0.447, y=0.206, w=0.195, h=0.382, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "An initial upward and rightward glance as speech starts."
+        },
+        {
+          "id": "B",
+          "text": "A steady and direct gaze maintained toward the camera lens."
+        },
+        {
+          "id": "C",
+          "text": "A relatively neutral and stable overall facial expression."
+        },
+        {
+          "id": "D",
+          "text": "A natural and fluid mouth motion corresponding to speech."
+        },
+        {
+          "id": "E",
+          "text": "An initial brief turning of the head toward the right side."
+        },
+        {
+          "id": "F",
+          "text": "A subtle head motion that corresponds with the speech rhythm."
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The correct answer is F. The specified bounding box covers the subject's entire head. The observation log for this region states, 'Her head remains relatively still, with only very subtle nodding and turning corresponding to her speech patterns.' Option F accurately paraphrases this observation.\n\n- Option A is a video-based distractor. This action occurs at 0.0s-1.0s, not at 14.4s.\n- Option B is a video-based distractor. This describes the eyes, which are a smaller sub-region within the specified bounding box, but it doesn't describe the action of the entire head region.\n- Option C is a video-based distractor. This describes the facial expression, another sub-region, not the motion of the head itself.\n- Option D is a video-based distractor. This describes the mouth, a small part of the overall head region, and not the most prominent action of the entire region.\n- Option E is a near-miss distractor. The observation notes subtle turning, but the AI error log confirms that observers sometimes misperceive the direction. The correct observation is a leftward gaze shift initially, not a rightward head turn."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "The speaker performs a brief, fluid action with their eyes, which is often indicative of cognitive processing or memory retrieval. At which time and within which bounding box does this specific action occur?",
+      "options": [
+        {
+          "id": "A",
+          "text": "At 3.8s, in region (x=0.476, y=0.427, w=0.113, h=0.118)"
+        },
+        {
+          "id": "B",
+          "text": "At 14.4s, in region (x=0.447, y=0.206, w=0.195, h=0.382)"
+        },
+        {
+          "id": "C",
+          "text": "At 0.5s, in region (x=0.429, y=0.222, w=0.189, h=0.321)"
+        },
+        {
+          "id": "D",
+          "text": "At 11.0s, in region (x=0.293, y=0.514, w=0.486, h=0.379)"
+        },
+        {
+          "id": "E",
+          "text": "At 14.4s, in region (x=0.309, y=0.543, w=0.488, h=0.258)"
+        },
+        {
+          "id": "F",
+          "text": "At 1.0s, in region (x=0.447, y=0.290, w=0.151, h=0.092)"
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The correct answer is F. The observation log notes that between 1.0s and 1.5s, 'the subject's eyes roll from right to left in a brief, fluid motion.' The provided time (1.0s) and bounding box (which precisely isolates the eyes) correctly identify the start of this cognitive gesture.\n\n- Option A is a video-based distractor. This is the correct location and time for mouth movement during speech, not the eye action.\n- Option B is a video-based distractor. This is the correct location and time for her relatively still head at the end of the clip, not the eye action at the beginning.\n- Option C is a near-miss distractor. This is the correct location and time for the *initial* gaze up and to the right, which precedes the specific fluid eye roll described.\n- Option D is a video-based distractor. This time corresponds to her pause, and the region is her torso, both of which are incorrect.\n- Option E is a video-based distractor. This time is at the end of the clip, and the region is her shoulders, both incorrect."
+    },
+    {
+      "category": "Counterfactual Reasoning",
+      "question": "If the person had NOT exhibited the behavior observed around 5.0s - 8.0s, which of the following personality assessments would be MOST affected?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The assessment for Openness would likely be higher, as the direct emphasis is a sign of a less abstract communication approach."
+        },
+        {
+          "id": "B",
+          "text": "The Extraversion rating would probably be lower, since this vocal energy is a key indicator of her outward social presence."
+        },
+        {
+          "id": "C",
+          "text": "The low Neuroticism score would be less certain, as this vocal stress could otherwise be interpreted as a sign of anxiety."
+        },
+        {
+          "id": "D",
+          "text": "The rating for Conscientiousness would be lower, as this is the primary evidence of her structured and dutiful communication style."
+        },
+        {
+          "id": "E",
+          "text": "The assessment for Agreeableness would probably be higher, because the focused vocal emphasis could be perceived as mildly confrontational."
+        },
+        {
+          "id": "F",
+          "text": "The medium Agreeableness rating would be less supported, as this moment shows how she adds emphasis cooperatively without aggression."
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The correct answer is F. The behavior at 5.0s - 8.0s is the vocal emphasis on 'your own money.' The personality analysis specifically cites this as evidence for Medium Agreeableness, noting it's used for 'informational clarity rather than emotional or aggressive effect.' Removing this key piece of evidence would weaken the support for a balanced, cooperative-yet-assertive communication style, making the Medium Agreeableness score harder to justify.\n\n- Option A is a text-based distractor. The logic is weak; removing this direct emphasis wouldn't automatically make her communication seem more abstract or raise her Openness score.\n- Option B is a video-based distractor. Her Low Extraversion score is based on a pattern of behavior (pauses, reserved posture, internal processing cues), so the removal of this one instance of vocal energy would not significantly alter the overall assessment.\n- Option C is a text-based distractor. This is a plausible guess without context, but her overall calm demeanor strongly supports Low Neuroticism, so this one moment is not pivotal.\n- Option D is a video-based distractor. While the emphasis does support Conscientiousness, it is not the 'primary' evidence. Her clear articulation and structured list ('covers, everything, editing') are also strong indicators.\n- Option E is a near-miss distractor. It correctly identifies Agreeableness as the affected trait but gets the direction wrong. The analysis views this emphasis as cooperative, so removing it would weaken, not strengthen, the evidence for agreeableness."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator11",
+      "version": 1,
+      "clues_total": 22,
+      "clues_correct": 16,
+      "clues_wrong_corrected": 2,
+      "clues_missing_skipped": 4,
+      "clues_bonus": 0
+    }
+  }
+}

@@ -1,0 +1,432 @@
+{
+  "video_id": "c7tczvW3_dQ.001.mp4",
+  "video_path": "c7tczvW3_dQ.001.mp4",
+  "transcription": "This and...it pays to have quick hands and feet. When it came to the dancing in this joint, Cuban Fury, I just trained a lot and I think my feet-",
+  "original_scores": {
+    "extraversion": 0.4018691588785047,
+    "agreeableness": 0.5934065934065933,
+    "conscientiousness": 0.47572815533980584,
+    "neuroticism": 0.59375,
+    "openness": 0.6
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 3.42,
+      "description": "The subject maintains a forward gaze, slightly to his right. His mouth is open as he speaks, and his eyebrows remain in a neutral position.",
+      "bboxes": [
+        {
+          "frame_time": 0.532768,
+          "x": 0.48001644736842103,
+          "y": 0.3956140317414936,
+          "w": 0.18947368421052632,
+          "h": 0.13157894736842105,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 3.00227,
+          "x": 0.5259046052631579,
+          "y": 0.6219298212151778,
+          "w": 0.11398026315789474,
+          "h": 0.09473684210526316,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 3.329858,
+          "x": 0.48297697368421055,
+          "y": 0.3956140317414936,
+          "w": 0.2042763157894737,
+          "h": 0.09210526315789473,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 3.42,
+      "end_time": 5.08,
+      "description": "The subject's eyes widen slightly and his eyebrows lift as he speaks more emphatically. He then looks directly at the camera.",
+      "bboxes": [
+        {
+          "frame_time": 4.349987,
+          "x": 0.5096217105263158,
+          "y": 0.366666663320441,
+          "w": 0.16578947368421054,
+          "h": 0.09736842105263158,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 4.726403,
+          "x": 0.5125822368421052,
+          "y": 0.3298245580572831,
+          "w": 0.17763157894736842,
+          "h": 0.12894736842105264,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 5.08,
+      "end_time": 15.33,
+      "description": "The subject's expression softens, returning to a more neutral speaking state. His eyebrows are slightly furrowed, and he looks down and to his right intermittently while speaking, as if in thought.",
+      "bboxes": [
+        {
+          "frame_time": 5.213332,
+          "x": 0.4755756578947368,
+          "y": 0.23771929489938837,
+          "w": 0.2294407894736842,
+          "h": 0.48947368421052634,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 12.01326,
+          "x": 0.4859375,
+          "y": 0.3929824527941252,
+          "w": 0.21907894736842107,
+          "h": 0.15526315789473685,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 3.63,
+      "description": "The subject is seated, leaning slightly forward. His head remains relatively still, with minor movements accompanying his speech.",
+      "bboxes": [
+        {
+          "frame_time": 1.806924,
+          "x": 0.4134046052631579,
+          "y": 0.1929824527941252,
+          "w": 0.40707236842105265,
+          "h": 0.6763157894736842,
+          "note": "pose human-annotated",
+          "region": "torso"
+        },
+        {
+          "frame_time": 2.431514,
+          "x": 0.4430098684210526,
+          "y": 0.15087718963623048,
+          "w": 0.3330592105263158,
+          "h": 0.6815789473684211,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 3.63,
+      "end_time": 4.54,
+      "description": "The subject raises his right hand into the frame and makes a quick, swiping gesture to his right.",
+      "bboxes": [
+        {
+          "frame_time": 4.318327,
+          "x": 0.19876644736842106,
+          "y": 0.5850877159520199,
+          "w": 0.34342105263157896,
+          "h": 0.37894736842105264,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 4.54,
+      "end_time": 8.29,
+      "description": "The subject lowers his hand out of frame and remains in a stable, seated position.",
+      "bboxes": [
+        {
+          "frame_time": 4.573329,
+          "x": 0.09218749999999999,
+          "y": 0.648245610688862,
+          "w": 0.2901315789473684,
+          "h": 0.3263157894736842,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 6.581649,
+          "x": 0.4178453947368421,
+          "y": 0.16403508437307257,
+          "w": 0.4055921052631579,
+          "h": 0.7105263157894737,
+          "note": "pose human-annotated",
+          "region": "torso"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 8.29,
+      "end_time": 9.16,
+      "description": "The subject's right hand briefly enters the frame from the bottom as he makes a small, illustrative flicking gesture.",
+      "bboxes": [
+        {
+          "frame_time": 8.589996,
+          "x": 0.31866776315789475,
+          "y": 0.4535087685835989,
+          "w": 0.18503289473684212,
+          "h": 0.3894736842105263,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 9.16,
+      "end_time": 15.33,
+      "description": "The subject remains seated, leaning slightly forward with his hands out of frame.",
+      "bboxes": [
+        {
+          "frame_time": 12.153402,
+          "x": 0.3926809210526316,
+          "y": 0.17456140016254626,
+          "w": 0.37154605263157897,
+          "h": 0.6210526315789474,
+          "note": "pose human-annotated",
+          "region": "torso"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 4.19,
+      "description": "The subject speaks at a moderate pace and volume with a mid-range pitch. There is a slight stress on the word \"pays\".",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 4.19,
+      "end_time": 4.79,
+      "description": "The subject makes a sharp, percussive \"tch\" sound, followed by the words \"and feet,\" which are spoken with a quicker pace and slightly increased volume.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 4.79,
+      "end_time": 15.33,
+      "description": "The subject's speech returns to a moderate, conversational pace. His pitch drops slightly on the phrase \"I just trained a lot, you know\".",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.33,
+      "description": "The subject is a middle-aged male with short, dark hair and fair skin. He is wearing a dark blue cardigan over a grey t-shirt with a lanyard visible around his neck. He is in a brightly lit indoor setting, positioned in front of a large, out-of-focus movie poster that features several figures and vibrant colors like red, blue, and orange.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 2.500007,
+      "end_time": 3.500007,
+      "description": "Stuttering period: 0:03-0:04, appearing at the beginning of a sentence, manifested as a pause and dragging sound of \"this...\", accompanied by a brief hesitation in the mouth, which is a stuttering when speaking. When the speaker says \"This and...it pays...\", there are obvious word repetitions and interruptions. The Chinese subtitles correspond to \"This...it pays to be agile\", and there are typical stuttering characteristics at the beginning of the sentence.",
+      "bboxes": [
+        {
+          "frame_time": 3.000007,
+          "x": 0.41192434210526313,
+          "y": 0.21929824226780942,
+          "w": 0.34786184210526316,
+          "h": 0.6631578947368421,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Medium",
+      "score": 0.4,
+      "rationale": "The subject's Extraversion is rated Medium. While he engages the audience by looking directly at the camera and using illustrative hand gestures to emphasize his points, these behaviors are balanced by more reserved characteristics. His overall posture is stable and his head movement is minimal, lacking the expansive energy often seen in highly extraverted individuals. His vocal delivery is also moderate in pace and volume, suggesting a comfortable but not overtly dominant social presence, consistent with a mid-range score.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Medium",
+      "score": 0.59,
+      "rationale": "The subject's score indicates a Medium level of Agreeableness. This is reflected in his generally pleasant and cooperative demeanor. His facial expression softens into a neutral, conversational state after an initial point of emphasis, and he leans forward slightly, a posture often associated with engagement. However, the absence of strong affiliative cues, such as smiling, places him in the moderate range rather than high on this trait. His overall tone is agreeable and non-confrontational.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Medium",
+      "score": 0.48,
+      "rationale": "A Medium level of Conscientiousness is supported by the subject's speaking style. While he is formulating a coherent thought about his training, his delivery is not highly polished. The initial stutter and hesitation ('This and...') suggest a degree of spontaneity over meticulous rehearsal. Furthermore, his occasional downward and sideways glances combined with slightly furrowed eyebrows indicate he is actively formulating his thoughts as he speaks, which is characteristic of an average, rather than a high, level of preparation and orderliness.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Medium",
+      "score": 0.59,
+      "rationale": "The subject's Neuroticism is assessed as Medium. The primary indicator is the brief stutter and hesitation at the beginning of his sentence, a common behavioral marker for momentary social anxiety or self-consciousness. Additionally, his eyebrows furrow slightly as he appears to search for words. However, these indicators are mild and he recovers his verbal fluency quickly. His stable posture and controlled vocal tone for the remainder of the clip suggest he is not experiencing overwhelming stress, placing him in the mid-range for this trait.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "High",
+      "score": 0.6,
+      "rationale": "The subject's Openness is rated as High. This is strongly supported by the content of his speech, where he discusses acquiring a new artistic skill—dancing—for a film ('Cuban Fury'). This engagement with novel, aesthetic experiences is a core facet of Openness. His communication style further reinforces this; he uses a quick, illustrative hand gesture and a sharp, percussive 'tch' sound for emphasis, indicating a comfort with expressive and non-literal forms of communication.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During 3.6s - 4.5s, the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "High Openness, indicated by the use of expressive and non-literal communication styles."
+        },
+        {
+          "id": "B",
+          "text": "Low Agreeableness, suggested by the potentially sharp or disruptive nature of the sound."
+        },
+        {
+          "id": "C",
+          "text": "Medium Neuroticism, seen in the slight hesitation before the emphatic behavioral cue."
+        },
+        {
+          "id": "D",
+          "text": "Low Openness, as the behavior is a simple gesture rather than a complex intellectual idea."
+        },
+        {
+          "id": "E",
+          "text": "High Extraversion, because the action is an energetic display meant to engage an audience."
+        },
+        {
+          "id": "F",
+          "text": "High Conscientiousness, reflecting a precise and deliberate effort to clarify a key point."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The behavior at 3.6s-4.5s includes a sharp 'tch' sound and a quick hand gesture, which are forms of expressive, non-literal communication. The personality analysis directly links this to High Openness. \nOption B is a text-based distractor; the sound could be interpreted as sharp, but in context, it's illustrative, not disagreeable. \nOption C is a video-based distractor; Medium Neuroticism is supported by the stutter around 3.0s, not the gesture at 4.3s. \nOption D is a near-miss distractor; it correctly identifies the trait (Openness) but gets the direction wrong, misinterpreting the evidence. \nOption E is a video-based distractor; while the gesture is energetic, it's more indicative of an expressive style (Openness) than social dominance (Extraversion). \nOption F is a text-based distractor; the gesture is spontaneous, not planned, which contradicts High Conscientiousness."
+    },
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable instance of speech disfluency occur that is most relevant to the person's Neuroticism level?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[2.5s - 3.5s]"
+        },
+        {
+          "id": "B",
+          "text": "[0.1s - 1.1s]"
+        },
+        {
+          "id": "C",
+          "text": "[4.0s - 5.0s]"
+        },
+        {
+          "id": "D",
+          "text": "[8.1s - 9.1s]"
+        },
+        {
+          "id": "E",
+          "text": "[11.5s - 12.5s]"
+        },
+        {
+          "id": "F",
+          "text": "[6.2s - 7.2s]"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The observation log explicitly identifies a stuttering period between 2.5s and 3.5s ('This and...'), which the personality analysis links to Medium Neuroticism as a sign of momentary self-consciousness. \nOption B is a text-based distractor, as it's plausible for hesitation to occur at the very beginning of speech, but the actual event happens later. \nOption C is a video-based distractor; this interval contains the emphatic hand gesture and 'tch' sound, which is a different behavioral event related to Openness. \nOption D is also a video-based distractor, capturing another small, illustrative hand gesture. \nOption E is a near-miss distractor; this interval shows the person looking down and furrowing their brow in thought, which is also linked to Neuroticism/Conscientiousness, but the stutter is a more distinct and primary event. \nOption F is a video-based distractor that falls within a period of neutral, fluent speech."
+    },
+    {
+      "category": "Mixed Emotion Discrimination",
+      "question": "During 9.2s - 15.3s, the person's emotional state is best characterized as which of the following? Consider both verbal and non-verbal cues.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Quiet thoughtfulness combined with a feeling of relaxed self-assurance."
+        },
+        {
+          "id": "B",
+          "text": "Rising enthusiasm tempered by an effort to remain formally composed."
+        },
+        {
+          "id": "C",
+          "text": "Subtle confusion mixed with a deliberate attempt to project confidence."
+        },
+        {
+          "id": "D",
+          "text": "Vague annoyance blended with a general feeling of polite engagement."
+        },
+        {
+          "id": "E",
+          "text": "Wistful remembrance combined with a sense of bittersweet acceptance."
+        },
+        {
+          "id": "F",
+          "text": "Deep frustration mixed with an outward display of continued patience."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "In this interval, the subject's face softens, but their eyebrows furrow slightly while their gaze shifts, indicating thought. This combination supports a state of calm, thoughtful recall. \nOption B is a video-based distractor; it better describes the more energetic phase around 4.3s, not this later, calmer period. \nOption C is a near-miss distractor; it correctly identifies the cognitive effort ('thoughtfulness' vs. 'confusion') but incorrectly frames it as confusion, whereas the evidence points more towards simple recollection. \nOption D is a text-based distractor; there are no clear visual or auditory cues for annoyance in the video. \nOption E is a text-based distractor; this is a plausible emotional state, but there is no evidence to suggest nostalgia or bittersweet feelings. \nOption F is another text-based distractor with no supporting evidence for frustration or a struggle for patience."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 3.3s, a region was detected in the video (x=0.483, y=0.396, w=0.204, h=0.092, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A neutral and relaxed eyebrow position."
+        },
+        {
+          "id": "B",
+          "text": "The torso held in a stable, upright posture."
+        },
+        {
+          "id": "C",
+          "text": "An illustrative flicking motion of the hand."
+        },
+        {
+          "id": "D",
+          "text": "Eyebrows slightly furrowed in concentration."
+        },
+        {
+          "id": "E",
+          "text": "A focused and forward-directed gaze."
+        },
+        {
+          "id": "F",
+          "text": "A soft facial expression in a neutral state."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The specified coordinates at 3.3s precisely isolate the person's eyebrows. The observation log for the [0.0s - 3.4s] period confirms that the 'eyebrows maintain a neutral state'. \nOption B is a video-based distractor; it describes the torso, which is in a different spatial region. \nOption C is a video-based distractor; it describes a hand gesture that occurs at a different time and location. \nOption D is a near-miss distractor; it correctly identifies the body part (eyebrows) but describes an expression (furrowed) that occurs much later in the video, around 12.0s. \nOption E is a video-based distractor; it describes the eyes, which are adjacent to but distinct from the specified eyebrow region. \nOption F is a video-based distractor; it describes the overall face, which is a much larger region than the specified bounding box."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator10",
+      "version": 1,
+      "clues_total": 21,
+      "clues_correct": 17,
+      "clues_wrong_corrected": 1,
+      "clues_missing_skipped": 2,
+      "clues_bonus": 1
+    }
+  }
+}

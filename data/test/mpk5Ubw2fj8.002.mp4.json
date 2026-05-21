@@ -1,0 +1,307 @@
+{
+  "video_id": "mpk5Ubw2fj8.002.mp4",
+  "video_path": "mpk5Ubw2fj8.002.mp4",
+  "transcription": "It does heat up but it was not about 42 degrees when you place [after 00:00:50] it on you, the Utopia. That is something which you may like to know. We have another question coming from Justin and he's ask-",
+  "original_scores": {
+    "extraversion": 0.47663551401869164,
+    "agreeableness": 0.4945054945054945,
+    "conscientiousness": 0.6990291262135921,
+    "neuroticism": 0.5104166666666666,
+    "openness": 0.4888888888888889
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 15,
+      "description": "The subject maintains a direct gaze toward the camera throughout the clip. His facial expression is largely neutral, with natural mouth movements corresponding to his speech. His eyebrows remain in a relaxed position, occasionally rising and falling slightly for emphasis while speaking.",
+      "bboxes": [
+        {
+          "frame_time": 1.082344,
+          "x": 0.35863486842105263,
+          "y": 0.3429824527941252,
+          "w": 0.20131578947368423,
+          "h": 0.1368421052631579,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 1.082344,
+          "x": 0.3615953947368421,
+          "y": 0.33771929489938834,
+          "w": 0.22351973684210527,
+          "h": 0.36578947368421055,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 2.14392,
+          "x": 0.4415296052631579,
+          "y": 0.5798245580572831,
+          "w": 0.13322368421052633,
+          "h": 0.1368421052631579,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 2.14392,
+          "x": 0.3808388157894737,
+          "y": 0.34561403174149363,
+          "w": 0.20131578947368423,
+          "h": 0.09473684210526316,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 4.5,
+      "description": "The subject holds a black smartphone in his left hand, angled toward the camera. His right hand makes small, open-palmed illustrative gestures in front of his chest.",
+      "bboxes": [
+        {
+          "frame_time": 0.750872,
+          "x": 0.6754111842105264,
+          "y": 0.5956140317414936,
+          "w": 0.2575657894736842,
+          "h": 0.3894736842105263,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 0.465694,
+          "x": 0.21208881578947367,
+          "y": 0.6798245580572831,
+          "w": 0.3493421052631579,
+          "h": 0.31842105263157894,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 10.8,
+      "end_time": 15,
+      "description": "He lowers the silver device, holding it in his right hand at the bottom right corner of the frame. His head nods slightly as he speaks.",
+      "bboxes": [
+        {
+          "frame_time": 14.42492,
+          "x": 0.7583059210526316,
+          "y": 0.8377192948993883,
+          "w": 0.2412828947368421,
+          "h": 0.14473684210526316,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 15,
+      "description": "The subject speaks at a moderate, consistent pace with a clear voice in a mid-to-low pitch range. There is a consistent, low-level static or crackling sound in the audio background. His pitch falls slightly at the end of phrases and sentences, such as on \"Utopia\" and \"like to know.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15,
+      "description": "The subject is a male with dark, short hair and a medium skin tone. He is wearing a light blue collared shirt under a dark grey v-neck sweater. The background is a plain, solid-colored wall in a shade of light grey or pale lavender. The scene is indoors with even, frontal lighting. A \"Google\" logo is visible in the top-left corner of the video frame.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Medium",
+      "score": 0.48,
+      "rationale": "The subject's Extraversion is rated as Medium. His willingness to speak directly to a camera and use small, indicative hand gestures suggests a degree of social confidence. However, this is balanced by a largely neutral facial expression and a moderate, steady vocal pace, which lack the high energy and pronounced animation typically associated with high extraversion. This combination points to an individual who is comfortable in a communicative role but is not overtly outgoing or attention-seeking.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Medium",
+      "score": 0.49,
+      "rationale": "The Medium Agreeableness score is reflected in the subject's professional and non-confrontational demeanor. He is cooperatively answering a question, and his use of open-palm gestures can be interpreted as a sign of sincerity. However, his affect is largely neutral and his tone is factual, lacking the overt warmth or expressive friendliness that would indicate high agreeableness. His overall presentation is balanced and impartial.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "High",
+      "score": 0.7,
+      "rationale": "The High Conscientiousness score is strongly supported by the subject's organized and focused presentation. He maintains direct and consistent eye contact with the camera, indicating diligence and focus on the task. His speech is clear, articulate, and follows a logical structure (addressing a specific question from 'Justin'). This methodical and prepared communication style, combined with a neat appearance, are key indicators of a conscientious personality.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Medium",
+      "score": 0.51,
+      "rationale": "The subject's Medium Neuroticism is suggested by his calm and controlled demeanor. He shows strong signs of emotional stability, such as a steady vocal tone, relaxed eyebrows, and the absence of nervous fidgeting. This rules out high neuroticism. However, his expression is consistently neutral and controlled rather than overtly relaxed or carefree, suggesting a person who is effectively managing the inherent pressures of being recorded, which aligns with an average level of neuroticism rather than an exceptionally low one.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "Medium",
+      "score": 0.49,
+      "rationale": "The Medium Openness score is supported by the subject's practical and factual approach. While he is engaging with the topic of technology, indicating some receptiveness to new products, his communication style is straightforward and grounded in concrete details (e.g., 'not about 42 degrees'). His conventional attire and the simple, unadorned background do not suggest a strong interest in aesthetics or novelty. This balance between engaging with a topic without exploring it in an abstract or imaginative way is characteristic of a medium level of openness.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During [0s - 15s], the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A high assessed level of social Extraversion."
+        },
+        {
+          "id": "B",
+          "text": "A low assessed level of personal Openness."
+        },
+        {
+          "id": "C",
+          "text": "A low assessed level of trait Agreeableness."
+        },
+        {
+          "id": "D",
+          "text": "A high assessed level of Conscientiousness."
+        },
+        {
+          "id": "E",
+          "text": "A low assessed level of Conscientiousness."
+        },
+        {
+          "id": "F",
+          "text": "A high assessed level of trait Neuroticism."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "The correct answer is D. The person's clear, articulate, and organized speech, combined with consistent, direct eye contact throughout the video, are primary indicators of diligence, focus, and preparation, which strongly support a High Conscientiousness assessment. \nOption A is a video-based distractor; while he is speaking to an audience (an extraverted behavior), his energy level is moderate, and the *style* of his communication is a stronger signal for Conscientiousness. \nOption E is a near-miss distractor; it identifies the correct personality dimension but gets the direction wrong, as his behavior signals high, not low, conscientiousness. \nOptions B, C, and F are text-based distractors; there is no clear evidence in the video to support low Openness, low Agreeableness, or high Neuroticism. His calm demeanor contradicts high Neuroticism, and his cooperative tone contradicts low Agreeableness."
+    },
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their organized communication style?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[13.5s - 14.5s]"
+        },
+        {
+          "id": "B",
+          "text": "[0.0s - 1.0s]"
+        },
+        {
+          "id": "C",
+          "text": "[7.0s - 8.0s]"
+        },
+        {
+          "id": "D",
+          "text": "[2.0s - 3.0s]"
+        },
+        {
+          "id": "E",
+          "text": "[4.5s - 5.5s]"
+        },
+        {
+          "id": "F",
+          "text": "[11.0s - 12.0s]"
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "The correct answer is D. Around 2.1s, within this interval, the subject's eyebrows subtly raise and lower to add emphasis to his speech. This micro-expression is a key part of his controlled and organized communication, directly relating to the question's focus. \nOption A is a video-based distractor; this interval is when he lowers the silver device, a hand action, not a facial expression change. \nOption B is a video-based distractor; this interval captures the initial open-palm hand gesture, not a notable facial change. \nOption C is a text-based distractor; it falls within a time range [6.8s-10.8s] where an AI observer incorrectly claimed actions occurred, but no notable expression change is present. \nOption E is a near-miss distractor; it's a plausible time for a change but no specific, notable micro-expression is documented here, unlike the one at 2.1s. \nOption F is a text-based distractor; it's an interval with steady speech but no specific documented micro-expression."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around [1.1s], a region was detected in the video (x=0.362, y=0.338, w=0.224, h=0.366, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Making a small, indicative open-palmed gesture with his hand."
+        },
+        {
+          "id": "B",
+          "text": "Lowering a silver-colored handheld electronic gadget downward."
+        },
+        {
+          "id": "C",
+          "text": "Maintaining consistent and direct eye contact with the camera."
+        },
+        {
+          "id": "D",
+          "text": "A generally neutral and composed facial expression overall."
+        },
+        {
+          "id": "E",
+          "text": "Eyebrows that are relaxed with minor movements for emphasis."
+        },
+        {
+          "id": "F",
+          "text": "Natural and corresponding mouth movements during his speech."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "The correct answer is D. The provided bounding box coordinates at 1.1s encompass the person's entire face. The most accurate, holistic description of the activity within this large region is his overall neutral facial expression. \nOption A is a video-based distractor; this gesture occurs with his hand, which is located outside this specific facial bounding box. \nOption B is a video-based distractor; this action happens much later in the video (around 14.4s) and in a different location. \nOptions C, E, and F are near-miss distractors. While these actions (eye contact, eyebrow state, mouth movement) are occurring within the face, the bounding box is for the entire face, making 'neutral expression' the most encompassing and primary description, rather than focusing on a sub-region like the eyes or mouth."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "Which option correctly identifies the time and location of a subtle, illustrative hand movement performed to add emphasis?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Timestamp: 14.4s, Location: x=0.758, y=0.838, w=0.241, h=0.145"
+        },
+        {
+          "id": "B",
+          "text": "Timestamp: 2.1s, Location: x=0.381, y=0.346, w=0.201, h=0.095"
+        },
+        {
+          "id": "C",
+          "text": "Timestamp: 0.5s, Location: x=0.212, y=0.680, w=0.349, h=0.318"
+        },
+        {
+          "id": "D",
+          "text": "Timestamp: 0.5s, Location: x=0.362, y=0.338, w=0.224, h=0.366"
+        },
+        {
+          "id": "E",
+          "text": "Timestamp: 8.5s, Location: x=0.250, y=0.650, w=0.300, h=0.300"
+        },
+        {
+          "id": "F",
+          "text": "Timestamp: 0.8s, Location: x=0.675, y=0.596, w=0.258, h=0.389"
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The correct answer is C. At 0.5s, the person makes a small, open-palmed gesture with his right hand in front of his chest, and the provided coordinates correctly bound this action. \nOption A is a video-based distractor; this time/location corresponds to him lowering the silver device, not the illustrative gesture. \nOption B is a video-based distractor; this time/location corresponds to his eyebrows, not a hand movement. \nOption D is a near-miss distractor; the timestamp is correct, but the coordinates point to his face, not his gesturing hand. \nOption E is a text-based distractor; this time/location corresponds to a non-existent action described in the negative evidence list. \nOption F is a video-based distractor; this time/location corresponds to his left hand holding the black phone, not the illustrative gesture made with his right hand."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [
+      {
+        "check": "B",
+        "q_idx": 5,
+        "issue": "The correct answer is C, which corresponds to the hand holding the phone. The question asks for the 'subtle, illustrative hand movement', which the observation record identifies as being performed by the other hand (the right hand), whose location and time correspond to option F.",
+        "action": "Changed correct_answer from C to F."
+      }
+    ],
+    "corrections": {
+      "mcq_questions[5].correct_answer": "F"
+    },
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator17",
+      "version": 1,
+      "clues_total": 14,
+      "clues_correct": 8,
+      "clues_wrong_corrected": 1,
+      "clues_missing_skipped": 5,
+      "clues_bonus": 0
+    }
+  }
+}

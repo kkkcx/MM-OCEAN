@@ -1,0 +1,276 @@
+{
+  "video_id": "U9cidDFDTQE.005.mp4",
+  "video_path": "U9cidDFDTQE.005.mp4",
+  "transcription": "Calm and storm ahead of that. We're right there, in the middle of the fighting game. We're very active both with CTAA, with now 5T Americas here in the US and of course, we have an incredible partnership with Deutsche Telecom and ...",
+  "original_scores": {
+    "extraversion": 0.2710280373831776,
+    "agreeableness": 0.5164835164835165,
+    "conscientiousness": 0.5922330097087379,
+    "neuroticism": 0.4375,
+    "openness": 0.3666666666666667
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 15.2,
+      "description": "The subject's gaze is directed slightly downwards and to his right (from the viewer's perspective). His eyebrows are slightly lowered and drawn together, maintaining a focused and serious expression. His lips are slightly compressed between phrases, and the corners of his mouth remain neutral to slightly downturned as he speaks.",
+      "bboxes": [
+        {
+          "frame_time": 1.455294,
+          "x": 0.45041118421052634,
+          "y": 0.4903508738467568,
+          "w": 0.18207236842105262,
+          "h": 0.07894736842105263,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 6.944565,
+          "x": 0.4385690789473684,
+          "y": 0.4298245580572831,
+          "w": 0.196875,
+          "h": 0.09210526315789473,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 6.944565,
+          "x": 0.45041118421052634,
+          "y": 0.39824561068886205,
+          "w": 0.18947368421052632,
+          "h": 0.3605263157894737,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 6.944565,
+          "x": 0.46373355263157895,
+          "y": 0.6535087685835989,
+          "w": 0.19835526315789473,
+          "h": 0.1368421052631579,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 15.2,
+      "description": "The subject is seated, framed from the chest up, and leans slightly forward towards a microphone. His head remains relatively still, with only very subtle nods and turns that align with his speech emphasis. His shoulders appear relaxed and do not move significantly.",
+      "bboxes": [
+        {
+          "frame_time": 0.725524,
+          "x": 0.22837171052631577,
+          "y": 0.3877192948993884,
+          "w": 0.6587171052631579,
+          "h": 0.6105263157894737,
+          "note": "human-annotated",
+          "region": "unknown"
+        },
+        {
+          "frame_time": 0.725524,
+          "x": 0.2416940789473684,
+          "y": 0.5640350843730726,
+          "w": 0.6483552631578947,
+          "h": 0.4236842105263158,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 0.725524,
+          "x": 0.2757401315789474,
+          "y": 0.37456140016254624,
+          "w": 0.6483552631578947,
+          "h": 0.6026315789473684,
+          "note": "pose human-annotated",
+          "region": "torso"
+        },
+        {
+          "frame_time": 7.332491,
+          "x": 0.4178453947368421,
+          "y": 0.20087718963623047,
+          "w": 0.27088815789473686,
+          "h": 0.6578947368421053,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 7.332491,
+          "x": 0.2579769736842105,
+          "y": 0.5298245580572831,
+          "w": 0.7046052631578947,
+          "h": 0.45263157894736844,
+          "note": "pose human-annotated",
+          "region": "shoulders"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 15.2,
+      "description": "The subject speaks at a moderate and deliberate pace with a consistent volume. His vocal pitch is in a low-to-mid male range and remains relatively flat, with slight downward inflections at the end of phrases. There are natural, brief pauses between clauses.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.2,
+      "description": "The subject is an older, fair-skinned male with short, white hair. He is wearing a black, collared zip-up shirt and has a pair of black-framed glasses resting on top of his head. He is speaking into a silver microphone that has a prominent pink 'T' logo on its grille. The environment is a brightly lit indoor space, possibly a retail store or event hall, with white architectural elements and out-of-focus shelves displaying products in the background.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Low",
+      "score": 0.27,
+      "rationale": "The subject's Low Extraversion is indicated by his reserved demeanor. His vocal delivery is steady and moderate, with a relatively flat tone and minimal modulation, which is characteristic of introverted individuals who are less outwardly expressive. Furthermore, his body language is contained; his head is kept relatively still, and his facial expression is serious and focused rather than animated or socially engaging. This constellation of behaviors points to a preference for focused, information-driven communication over energetic social performance.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Medium",
+      "score": 0.52,
+      "rationale": "The Medium score for Agreeableness is supported by a mix of cooperative and emotionally neutral cues. On one hand, his calm posture and steady, professional speaking tone suggest a cooperative and non-confrontational approach appropriate for the setting. On the other hand, his consistently serious facial expression and the slightly downturned corners of his mouth lack the warmth and overt friendliness typically associated with high Agreeableness. This balance between professional cooperation and emotional reservation aligns with a mid-range score.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Medium",
+      "score": 0.59,
+      "rationale": "The subject's Medium Conscientiousness is demonstrated by his focused and task-oriented presentation. He leans slightly toward the microphone, maintaining a serious and engaged expression, which indicates a diligent approach to the task of communicating clearly. His speech is delivered at a steady, deliberate pace with logical pauses, suggesting a structured and organized thought process. These behaviors reflect a person who is dutiful and orderly, consistent with a moderate level of Conscientiousness.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Medium",
+      "score": 0.44,
+      "rationale": "This score reflects a generally composed individual who exhibits subtle signs of managed tension. His overall emotional stability is evident from his relaxed shoulders, steady voice, and controlled posture. However, subtle cues such as his lips pressing together between phrases and his downward-cast gaze can be interpreted as indicators of internal stress or self-consciousness. This combination of overt calmness with minor signs of tension supports a Medium Neuroticism score, suggesting he is emotionally stable but not entirely devoid of stress in a performance situation.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "Low",
+      "score": 0.37,
+      "rationale": "The subject's Low Openness is suggested by a communication style that is practical and conventional. His vocal tone is relatively monotonous, lacking the dynamic range and intellectual enthusiasm often seen in individuals high in Openness. His facial expression remains consistently serious and task-focused, reflecting a matter-of-fact approach over one of curiosity or abstract exploration. The absence of expressive gestures and the focus on concrete business topics further reinforce a grounded, conventional cognitive style.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During [0.0s - 15.2s], the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Low Extraversion, as indicated by his reserved demeanor and unmodulated vocal tone."
+        },
+        {
+          "id": "B",
+          "text": "High Neuroticism, suggested by his tense facial muscles and frequent fidgeting."
+        },
+        {
+          "id": "C",
+          "text": "High Agreeableness, as shown by the warm and engaging nature of his expression."
+        },
+        {
+          "id": "D",
+          "text": "Low Conscientiousness, indicated by a disengaged posture and hesitant speech."
+        },
+        {
+          "id": "E",
+          "text": "Low Agreeableness, due to the critical and dismissive tone used in his speech."
+        },
+        {
+          "id": "F",
+          "text": "High Openness, because his animated gestures suggest an imaginative presentation."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The analysis highlights that the subject's reserved demeanor, steady/moderate vocal delivery with a flat tone, and contained body language are primary indicators of Low Extraversion. Option A correctly identifies this link. Option B is a video-based distractor; he does not exhibit frequent fidgeting, and his Neuroticism is rated Medium, not High. Option C is a video-based distractor as his expression is serious and focused, not warm or engaging. Option D is a text-based distractor because the video shows the opposite; he is engaged and speaks steadily. Option E is a text-based distractor; his tone is neutral and professional, not critical or dismissive. Option F is a video-based distractor because he shows minimal to no gestures."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around [0.7s], a region was detected in the video (x=0.276, y=0.375, w=0.648, h=0.603, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A focused and very serious facial expression."
+        },
+        {
+          "id": "B",
+          "text": "A slight forward lean of the entire torso."
+        },
+        {
+          "id": "C",
+          "text": "Slightly compressed lips seen between phrases."
+        },
+        {
+          "id": "D",
+          "text": "A relatively still and stable head posture."
+        },
+        {
+          "id": "E",
+          "text": "A slightly furrowed and tense brow line."
+        },
+        {
+          "id": "F",
+          "text": "Relaxed and level shoulder alignment visible."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The provided coordinates and timestamp correspond to the bounding box for the 'torso' region. The observation log for this region describes the subject Slightly leaning forward towards the microphone. Option B is the correct label for this action. Options A, C, and D are video-based distractors; they describe real behaviors (serious face, compressed lips, still head) that occur at that time, but they are located in different spatial regions (face, mouth, head), not the specified torso bounding box. Option E is a near-miss distractor; it describes the eyebrows, which are in a different region, and incorrectly labels them as 'furrowed' based on common AI errors, whereas the ground truth is 'neutral'. Option F describes the shoulders, which are adjacent but distinct from the main torso action of leaning."
+    },
+    {
+      "category": "Counterfactual Reasoning",
+      "question": "If the person had NOT exhibited the behavior observed around [2.0s - 10.0s], which of the following personality assessments would be MOST affected?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Conscientiousness would drop from Medium to Low, because his steady vocal pacing is the main support for his focused approach."
+        },
+        {
+          "id": "B",
+          "text": "Extraversion would be less certain as Low, since the unmodulated vocal delivery is a primary indicator of his reserved style."
+        },
+        {
+          "id": "C",
+          "text": "Agreeableness would shift from Medium to High, as the flat tone is the main factor preventing a more positive assessment."
+        },
+        {
+          "id": "D",
+          "text": "Neuroticism would rise from Medium to High, because the controlled speech is what suggests his emotional stability."
+        },
+        {
+          "id": "E",
+          "text": "Openness would be less certain as Low, as his monotonous tone is strong evidence for his conventional communication style."
+        },
+        {
+          "id": "F",
+          "text": "Agreeableness would be rated significantly lower, since a monotone voice can often be perceived as being uncooperative."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The behavior in this period is primarily his steady, unmodulated, and relatively flat vocal delivery. The personality analysis states this is 'characteristic of introverted individuals' and is a key piece of evidence for Low Extraversion. Removing this behavior would significantly weaken that specific assessment. Option B correctly identifies this. Option A is a video-based distractor; while vocal pacing relates to Conscientiousness, his posture and focus are also strong evidence, so removing the voice would be less impactful here. Option C is a near-miss distractor; it correctly identifies the trait but overstates the impact and gets the direction wrong (removing a neutral/negative cue doesn't automatically mean a shift to High). Option D is a text-based distractor with flawed reasoning. Option E is a strong video-based distractor because the monotonous tone also supports Low Openness, but its connection to the core definition of introversion (Low Extraversion) is more direct and primary. Option F is a text-based distractor offering a plausible but less direct psychological link compared to the one for Extraversion."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator17",
+      "version": 1,
+      "clues_total": 11,
+      "clues_correct": 10,
+      "clues_wrong_corrected": 1,
+      "clues_missing_skipped": 0,
+      "clues_bonus": 0
+    }
+  }
+}

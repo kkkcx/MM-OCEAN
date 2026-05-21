@@ -1,0 +1,235 @@
+{
+  "video_id": "7QpoDA8t6yQ.004.mp4",
+  "video_path": "7QpoDA8t6yQ.004.mp4",
+  "transcription": "The thing that I do every year is a little bit of research. I'm just trying to figure out what types of crops that I want to grow in my garden. This will help figure out what type of garden that you want to grow and will help you determine what kind of resources or equipment you're going to need.",
+  "original_scores": {
+    "extraversion": 0.4299065420560748,
+    "agreeableness": 0.6923076923076923,
+    "conscientiousness": 0.6407766990291262,
+    "neuroticism": 0.65625,
+    "openness": 0.7
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 15.42,
+      "description": "The subject maintains his gaze toward the camera throughout the clip. His eyebrows lift slightly and his mouth opens wider when he emphasizes certain words (e.g., \"every year\" at 0.44, \"research\" at 1.83). Otherwise, his facial muscles appear relaxed, with natural mouth movements corresponding to his speech.",
+      "bboxes": [
+        {
+          "frame_time": 7.184388,
+          "x": 0.2557565789473684,
+          "y": 0.31842105263157894,
+          "w": 0.13470394736842106,
+          "h": 0.3157894736842105,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 9.029588,
+          "x": 0.26907894736842103,
+          "y": 0.34210526315789475,
+          "w": 0.140625,
+          "h": 0.12631578947368421,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 9.029588,
+          "x": 0.23799342105263158,
+          "y": 0.3,
+          "w": 0.1805921052631579,
+          "h": 0.3815789473684211,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 9.029588,
+          "x": 0.24539473684210525,
+          "y": 0.4473684210526316,
+          "w": 0.12434210526315789,
+          "h": 0.19736842105263158,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 15.42,
+      "description": "The subject is seated in a grey armchair, leaning slightly back. His head moves in small, natural motions as he speaks, including slight nods and turns to the left and right. His shoulders and torso remain relatively still. A small black object, likely a microphone, is clipped to the front of his shirt and remains stationary.",
+      "bboxes": [
+        {
+          "frame_time": 4.490749,
+          "x": 0.08700657894736841,
+          "y": 0.4605263157894737,
+          "w": 0.4263157894736842,
+          "h": 0.5026315789473684,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 4.490749,
+          "x": 0.21875,
+          "y": 0.2236842105263158,
+          "w": 0.2205592105263158,
+          "h": 0.46842105263157896,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 4.490749,
+          "x": 0.1713815789473684,
+          "y": 0.18421052631578946,
+          "w": 0.29901315789473687,
+          "h": 0.7131578947368421,
+          "note": "pose human-annotated",
+          "region": "shoulders"
+        },
+        {
+          "frame_time": 5.175084,
+          "x": 0.12845394736842106,
+          "y": 0.8578947368421053,
+          "w": 0.12730263157894736,
+          "h": 0.12894736842105264,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 15.42,
+      "description": "The subject speaks at a moderate, even pace in a mid-to-low pitch range. There is a slight rise in pitch and stress on the words \"every year\" (0.44) and \"research\" (1.83). Sentences and clauses generally end with a downward pitch inflection. The volume is consistent, and the speech is clear with no significant pauses.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.42,
+      "description": "The subject is a man with light skin and short, dark brown hair. He is wearing a purple, grey, and white plaid button-down shirt. He is sitting indoors in a grey, tufted armchair. To his right is a dark brown bookcase filled with books. Some visible titles include \"ECOLOGY & FIELD BIOLOGY,\" \"KEN FOLLETT,\" and \"C.S. FORESTER.\" A small, patterned spherical object and other miscellaneous items are also on the shelves. The wall behind him is a light, neutral color. There is bright, natural light coming from the right side of the frame, illuminating the bookcase and the right side of the subject's face.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Medium",
+      "score": 0.43,
+      "rationale": "The subject's score places him in the Medium range of Extraversion, indicating an ambivert personality. This is supported by a mix of cues. His willingness to speak directly to a camera and maintain steady eye contact shows social confidence. However, his overall energy is moderate and contained. He leans back in his chair with his torso and shoulders remaining relatively still, and his vocal delivery is even-paced rather than highly energetic or expressive. This balance of social engagement and a reserved physical demeanor is characteristic of someone who is neither strongly introverted nor extraverted.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "High",
+      "score": 0.69,
+      "rationale": "The High Agreeableness score is consistent with the subject's calm and approachable demeanor. His facial muscles appear consistently relaxed, and he maintains direct, steady eye contact, which fosters a sense of trust and cooperation. His vocal tone is moderate and even, without any harshness or impatience. The combination of these cues projects a non-confrontational and pleasant persona, which is a key marker of high agreeableness.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "High",
+      "score": 0.64,
+      "rationale": "The subject's High Conscientiousness is strongly evidenced by the content of his speech. He describes a deliberate and structured annual process of 'research' for his garden, which demonstrates a methodical, organized, and goal-oriented approach. His speech is clear, articulate, and follows a logical progression without hesitation, suggesting preparation and diligence. The organized bookshelf in the background further serves as an environmental cue that reinforces an orderly and dutiful disposition.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "High",
+      "score": 0.66,
+      "rationale": "While the subject appears outwardly calm, his High Neuroticism score can be inferred from subtle cues related to control and self-regulation. His relatively static posture, with a still torso and shoulders, may indicate a high degree of self-monitoring, a common trait in individuals who are sensitive to stress or evaluation. Furthermore, the emphasis on a rigorous annual 'research' plan for a hobby like gardening can be interpreted as a coping mechanism to manage anxiety by imposing structure and predictability, thereby reducing uncertainty.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "High",
+      "score": 0.7,
+      "rationale": "The High score in Openness is strongly supported by multiple cues. The most prominent is the large bookshelf filled with books, indicating intellectual curiosity. The visible titles, which span science ('Ecology and Field Biology') and historical fiction ('Ken Follett', 'C.S. Forester'), suggest a breadth of interests. The subject's own narrative about conducting 'research' for his garden, rather than relying on common knowledge, directly reflects a curious and exploratory mindset, which is the cornerstone of the Openness trait.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their High Agreeableness level?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[4.2s - 4.8s]"
+        },
+        {
+          "id": "B",
+          "text": "[1.7s - 2.1s]"
+        },
+        {
+          "id": "C",
+          "text": "[8.8s - 9.2s]"
+        },
+        {
+          "id": "D",
+          "text": "[12.5s - 13.0s]"
+        },
+        {
+          "id": "E",
+          "text": "[0.3s - 0.7s]"
+        },
+        {
+          "id": "F",
+          "text": "[6.0s - 6.5s]"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. The observation notes state that the person's eyebrows raise slightly when he emphasizes certain words, such as 'research' at 1.83s. This subtle, expressive cue, which occurs within the [1.7s - 2.1s] interval, contributes to his engaged and approachable demeanor, which is consistent with High Agreeableness.\n\n- Options A, C, D, and F are video-based distractors. They are valid time intervals within the video but do not contain the specific, noted micro-expression of emphasis.\n- Option E is a near-miss distractor. It contains another noted micro-expression (eyebrow raise for the word 'every year' at 0.44s) but the question asks for *a* notable change, and the emphasis on 'research' is more central to the video's topic of methodical planning."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 9.0s, a region was detected in the video (x=0.245, y=0.447, w=0.124, h=0.197, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A largely static and composed upper torso and shoulders."
+        },
+        {
+          "id": "B",
+          "text": "Natural articulation matching his verbal communication."
+        },
+        {
+          "id": "C",
+          "text": "Subtle and natural head movements, including small nods."
+        },
+        {
+          "id": "D",
+          "text": "A steady and direct gaze maintained toward the camera."
+        },
+        {
+          "id": "E",
+          "text": "A slightly reclined and relaxed overall seating position."
+        },
+        {
+          "id": "F",
+          "text": "A small black microphone clipped to the shirt collar."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. The provided coordinates (x=0.245, y=0.447, w=0.124, h=0.197) at 9.0s correspond precisely to the person's mouth. The observation data confirms that his mouth movements are natural and aligned with his speech ('Mouth movements are natural and correspond to his speech').\n\n- Options A, C, D, E, and F are all video-based distractors. They describe real actions or objects visible in the video but are located outside the specified bounding box. A is about the shoulders, C is about the head, D is about the eyes, E is about his overall posture, and F is about the microphone lower on his shirt."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator14",
+      "version": 1,
+      "clues_total": 12,
+      "clues_correct": 10,
+      "clues_wrong_corrected": 0,
+      "clues_missing_skipped": 2,
+      "clues_bonus": 0
+    }
+  }
+}

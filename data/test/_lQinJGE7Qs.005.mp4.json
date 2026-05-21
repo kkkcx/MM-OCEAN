@@ -1,0 +1,403 @@
+{
+  "video_id": "_lQinJGE7Qs.005.mp4",
+  "video_path": "_lQinJGE7Qs.005.mp4",
+  "transcription": "\"What are your thoughts on Eminem?\" I don't really ... I don't like that kind of music. I'm not really into that, so-",
+  "original_scores": {
+    "extraversion": 0.2149532710280374,
+    "agreeableness": 0.2087912087912088,
+    "conscientiousness": 0.2621359223300971,
+    "neuroticism": 0.17708333333333331,
+    "openness": 0.15555555555555559
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 2.77,
+      "description": "The subject starts by looking down with a neutral expression and parted lips. She raises her head and looks forward, then her gaze shifts up and to her right as her eyebrows pull slightly together.",
+      "bboxes": [
+        {
+          "frame_time": 0.746966,
+          "x": 0.4104440789473684,
+          "y": 0.15087718963623048,
+          "w": 0.21019736842105263,
+          "h": 0.6078947368421053,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 0.746966,
+          "x": 0.4134046052631579,
+          "y": 0.2324561370046515,
+          "w": 0.18651315789473685,
+          "h": 0.48947368421052634,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 0.746966,
+          "x": 0.4652138157894737,
+          "y": 0.5824561370046515,
+          "w": 0.07105263157894737,
+          "h": 0.10263157894736842,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 1.427615,
+          "x": 0.4208059210526316,
+          "y": 0.31140350542570416,
+          "w": 0.19539473684210526,
+          "h": 0.12894736842105264,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 2.77,
+      "end_time": 6.64,
+      "description": "Her eyebrows furrow more as she looks up and to her left, with her eyes slightly narrowed in a pensive expression.",
+      "bboxes": [
+        {
+          "frame_time": 4.149721,
+          "x": 0.4060032894736842,
+          "y": 0.3403508738467568,
+          "w": 0.22203947368421054,
+          "h": 0.12368421052631579,
+          "note": "human-annotated",
+          "region": "unknown"
+        },
+        {
+          "frame_time": 5.059441,
+          "x": 0.43264802631578947,
+          "y": 0.3061403475309673,
+          "w": 0.16282894736842105,
+          "h": 0.07631578947368421,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 4.149721,
+          "x": 0.4163651315789474,
+          "y": 0.2692982422678094,
+          "w": 0.20131578947368423,
+          "h": 0.39473684210526316,
+          "note": "face human-annotated",
+          "region": "face"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 6.64,
+      "end_time": 15.34,
+      "description": "The subject's head is tilted and resting on her hand. Her gaze remains directed mostly up and to her left with a thoughtful, slightly dismissive expression. Her eyes roll slightly upwards at 11.96. Her lips move naturally as she speaks.",
+      "bboxes": [
+        {
+          "frame_time": 7.368342,
+          "x": 0.31866776315789475,
+          "y": 0.12456140016254626,
+          "w": 0.2723684210526316,
+          "h": 0.5657894736842105,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 7.368342,
+          "x": 0.25501644736842105,
+          "y": 0.4745614001625463,
+          "w": 0.18355263157894738,
+          "h": 0.39210526315789473,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 7.368342,
+          "x": 0.3689967105263158,
+          "y": 0.316666663320441,
+          "w": 0.17615131578947368,
+          "h": 0.17894736842105263,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 13.364481,
+          "x": 0.4430098684210526,
+          "y": 0.5087719264783357,
+          "w": 0.1125,
+          "h": 0.15,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 0.95,
+      "description": "The subject is looking down with her head slightly bowed and her right hand resting on her chin.",
+      "bboxes": [
+        {
+          "frame_time": 0.912255,
+          "x": 0.41932565789473686,
+          "y": 0.16140350542570414,
+          "w": 0.17911184210526315,
+          "h": 0.5657894736842105,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0.95,
+      "end_time": 6.7,
+      "description": "She raises her head and lifts her left hand to touch the side of her head, near her ear.",
+      "bboxes": [
+        {
+          "frame_time": 4.204449,
+          "x": 0.3438322368421053,
+          "y": 0.19035087384675678,
+          "w": 0.28717105263157894,
+          "h": 0.5289473684210526,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 6.7,
+      "end_time": 15.34,
+      "description": "She lowers her left hand and leans her head to her left, resting her cheek and jaw on her open palm. She remains in this posture for the rest of the clip.",
+      "bboxes": [
+        {
+          "frame_time": 14.699791,
+          "x": 0.3334703947368421,
+          "y": 0.19035087384675678,
+          "w": 0.23240131578947368,
+          "h": 0.5,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 8.974563,
+          "x": 0.31866776315789475,
+          "y": 0.4429824527941252,
+          "w": 0.2590460526315789,
+          "h": 0.2894736842105263,
+          "note": "human-annotated",
+          "region": "chin"
+        },
+        {
+          "frame_time": 15.3153,
+          "x": 0.2328125,
+          "y": 0.5061403475309673,
+          "w": 0.6083881578947369,
+          "h": 0.48947368421052634,
+          "note": "pose human-annotated",
+          "region": "torso"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 2.76,
+      "end_time": 15.34,
+      "description": "The subject speaks at a moderate pace with a relatively flat, slightly descending pitch contour. There are several pauses between phrases. A slight vocal fry is present throughout her speech. Her final phrase is spoken at a softer volume.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.34,
+      "description": "The subject is a young woman with long, light brown hair styled in a high ponytail. She has fair skin, blue eyes, and is wearing a white t-shirt, a black choker necklace, and small, white stud earrings. The setting appears to be a bedroom, lit with warm, yellowish ambient light. In the background, there is a white wardrobe, and two walls are decorated with collages of photos, one of which is a grid of black and white pictures.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Low",
+      "score": 0.21,
+      "rationale": "The subject's Low Extraversion is indicated by her subdued and reserved demeanor. Her speech is characterized by a relatively flat intonation and low vocal energy, lacking the assertiveness and dynamism of a high extravert. Her body language, such as starting with her head down and later adopting a self-contained posture resting her head on her hand, suggests an inward focus rather than an outward projection of social energy.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Low",
+      "score": 0.21,
+      "rationale": "The Low Agreeableness score is primarily supported by the subject's direct and unsoftened verbal response. She states her dislike for a music genre (\"I don't like that kind of music\") without any social cushioning or attempts to mitigate the bluntness of her opinion. This prioritization of straightforwardness over social harmony, combined with an initially expressionless face, is characteristic of lower agreeableness.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Low",
+      "score": 0.26,
+      "rationale": "The subject's Low Conscientiousness is reflected in her spontaneous and unstructured communication. Her response starts with a slight hesitation and trails off unfinished (\"so-\"), which suggests an impromptu thought process rather than a deliberate and well-ordered statement. Furthermore, her relaxed, informal posture of resting her cheek and jaw on her hand indicates a casual approach, contrasting with the more formal and controlled presentation often seen in highly conscientious individuals.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Very Low",
+      "score": 0.18,
+      "rationale": "A Very Low Neuroticism score is strongly supported by the subject's calm and emotionally stable presentation. Throughout the interaction, she displays no signs of anxiety, stress, or negative emotionality. Her speech is delivered at a moderate pace, and her body language, particularly the relaxed posture of resting her head on her hand, indicates a state of low emotional arousal. Her ability to state a dispreference without any accompanying emotional turmoil points to high emotional resilience.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "Very Low",
+      "score": 0.16,
+      "rationale": "The subject's Very Low Openness is evidenced by her categorical dismissal of an entire music genre. Her response is a simple, concrete rejection (\"I don't like that kind of music. I'm not really into that\") and lacks any intellectual curiosity, nuance, or exploration of the topic. This straightforward, conventional response, devoid of abstract analysis or engagement with an alternative aesthetic, is a key indicator of low openness to experience.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression occur, signaling a shift in their cognitive state from neutral listening to active thought?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[0.0s - 1.5s]"
+        },
+        {
+          "id": "B",
+          "text": "[7.0s - 8.5s]"
+        },
+        {
+          "id": "C",
+          "text": "[11.0s - 12.5s]"
+        },
+        {
+          "id": "D",
+          "text": "[2.8s - 6.6s]"
+        },
+        {
+          "id": "E",
+          "text": "[9.0s - 10.5s]"
+        },
+        {
+          "id": "F",
+          "text": "[13.5s - 15.0s]"
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "The correct answer is D. In the interval [2.8s - 6.6s], the person's expression transitions from neutral to thoughtful. She looks up and to the right, and her eyebrows furrow slightly, indicating cognitive processing before she speaks. Option A is a video-based distractor covering her initial neutral, head-down state. Options B, C, E, and F are all video-based distractors from later in the video where she is already speaking and has settled into her final posture, without a significant state change occurring within them."
+    },
+    {
+      "category": "Temporal-Causal Reasoning",
+      "question": "Consider the sequence of behaviors observed across the video. Which of the following best describes the causal chain linking the person's actions at different moments?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A verbal statement prompts a cognitive search, which then resolves into a state of passive listening."
+        },
+        {
+          "id": "B",
+          "text": "A moment of surprise leads to feigned interest, which resolves into a candid negative judgment."
+        },
+        {
+          "id": "C",
+          "text": "A self-soothing gesture starts a reflection period, leading to a non-committal verbal reply."
+        },
+        {
+          "id": "D",
+          "text": "Passive listening transitions to cognitive retrieval, then a verbal opinion with a stable posture."
+        },
+        {
+          "id": "E",
+          "text": "Passive listening causes a direct verbal reply, followed by a post-hoc cognitive justification."
+        },
+        {
+          "id": "F",
+          "text": "Passive listening transitions to retrieval, then a verbal opinion with a dismissive hand gesture."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "The correct answer is D. The video shows a clear sequence: she starts by listening with her head down (passive listening, ~0-2s), then looks up and thinks (cognitive retrieval, ~2-6s), and finally gives her opinion while settling into a relaxed, stable posture (verbal opinion with stable posture, ~6-15s). Option A is a distractor with reversed temporal order. Option E is a distractor with incorrect causality; the cognitive phase precedes the reply. Option F is a near-miss distractor; the final gesture is one of self-containment or relaxation, not outward dismissal. Option B is a text-based distractor, as there is no visual evidence of surprise or feigned interest. Option C is a video-based distractor that misinterprets the timing and nature of the events; the gesture accompanies the verbal reply, which is quite committal."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "Identify the timestamp and bounding box that best captures the person's final, stabilized posture, including their upper body.",
+      "options": [
+        {
+          "id": "A",
+          "text": "[4.1s] x=0.41, y=0.34, w=0.22, h=0.12"
+        },
+        {
+          "id": "B",
+          "text": "[0.7s] x=0.41, y=0.15, w=0.21, h=0.61"
+        },
+        {
+          "id": "C",
+          "text": "[4.1s] x=0.42, y=0.27, w=0.20, h=0.39"
+        },
+        {
+          "id": "D",
+          "text": "[15.3s] x=0.23, y=0.51, w=0.61, h=0.49"
+        },
+        {
+          "id": "E",
+          "text": "[7.4s] x=0.37, y=0.32, w=0.18, h=0.18"
+        },
+        {
+          "id": "F",
+          "text": "[14.7s] x=0.33, y=0.19, w=0.23, h=0.50"
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "The correct answer is D. The question asks to identify the location of the stabilized final posture including the upper body. Option D points to a wide shot of the torso at the very end of the video (15.3s), which perfectly captures the finality and stability of her overall posture. Option A points to the eyes during the thinking phase. Option B is a full headshot at the beginning. Option C is a face shot during the thinking phase. Option E correctly identifies the eyes during the final posture phase, but the question asks for the upper body. Option F is a headshot during the final posture phase, but D is a better fit for 'upper body'."
+    },
+    {
+      "category": "Counterfactual Reasoning",
+      "question": "If the person had NOT exhibited the behavior observed around 3.0s - 6.0s, which of the following personality assessments would be MOST affected?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Neuroticism would be uncertain, as this part contains her key emotional stability cues."
+        },
+        {
+          "id": "B",
+          "text": "Extraversion would be less reliable, as this segment provides her key vocal energy cues."
+        },
+        {
+          "id": "C",
+          "text": "Openness would be impacted, as this part demonstrates her primary aesthetic engagement."
+        },
+        {
+          "id": "D",
+          "text": "Agreeableness would be less certain, as this has the key verbal evidence of her opinion."
+        },
+        {
+          "id": "E",
+          "text": "Conscientiousness would alter, as this speech is her most structured and ordered portion."
+        },
+        {
+          "id": "F",
+          "text": "Agreeableness would increase, as the main evidence supporting directness would be absent."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "The correct answer is D. The behavior between 3.0s and 6.0s is the person verbally stating her direct dislike for a type of music. This is the single strongest piece of evidence for Low Agreeableness. Without it, the assessment would be much weaker or less certain. Option F is a near-miss distractor; removing evidence for Low Agreeableness doesn't automatically provide evidence for High Agreeableness, it just makes the assessment less certain. Options A and B are video-based distractors; evidence for Low Neuroticism (calmness) and Low Extraversion (subdued energy) is present throughout the entire video, not just this segment. Option C is a text-based distractor; this segment shows a *lack* of aesthetic engagement, which is evidence for Low Openness, so the premise is flawed. Option E is a text-based distractor; this segment is not particularly structured, further supporting Low Conscientiousness, not challenging it."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator17",
+      "version": 1,
+      "clues_total": 27,
+      "clues_correct": 14,
+      "clues_wrong_corrected": 4,
+      "clues_missing_skipped": 9,
+      "clues_bonus": 0
+    }
+  }
+}

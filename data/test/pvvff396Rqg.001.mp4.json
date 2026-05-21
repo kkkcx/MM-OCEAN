@@ -1,0 +1,407 @@
+{
+  "video_id": "pvvff396Rqg.001.mp4",
+  "video_path": "pvvff396Rqg.001.mp4",
+  "transcription": "... Living at every social economic level, doing a whole host of different kinds of jobs, taking pediatric neurosurgery from nowhere on the map to-",
+  "original_scores": {
+    "extraversion": 0.47663551401869164,
+    "agreeableness": 0.6483516483516484,
+    "conscientiousness": 0.7475728155339806,
+    "neuroticism": 0.59375,
+    "openness": 0.711111111111111
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 5.85,
+      "description": "The subject maintains a forward gaze with a neutral to slightly soft facial expression. His eyebrows are relaxed, and his mouth moves naturally with his speech.",
+      "bboxes": [
+        {
+          "frame_time": 5.30666,
+          "x": 0.24317434210526315,
+          "y": 0.0798245580572831,
+          "w": 0.42039473684210527,
+          "h": 0.6210526315789474,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 4.166305,
+          "x": 0.2668585526315789,
+          "y": 0.048245610688862045,
+          "w": 0.3611842105263158,
+          "h": 0.7394736842105263,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 4.166305,
+          "x": 0.30830592105263155,
+          "y": 0.16140350542570414,
+          "w": 0.34786184210526316,
+          "h": 0.3026315789473684,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 4.166305,
+          "x": 0.3971217105263158,
+          "y": 0.48771929489938837,
+          "w": 0.2205592105263158,
+          "h": 0.2236842105263158,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 5.85,
+      "end_time": 6.6,
+      "description": "The subject's eyes close for a moment as he speaks.",
+      "bboxes": [
+        {
+          "frame_time": 6.365997,
+          "x": 0.3615953947368421,
+          "y": 0.14561403174149362,
+          "w": 0.34342105263157896,
+          "h": 0.35,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 6.6,
+      "end_time": 15.35,
+      "description": "The subject's eyes reopen, and he resumes his forward gaze with a consistent, neutral expression.",
+      "bboxes": [
+        {
+          "frame_time": 8.741314,
+          "x": 0.29054276315789473,
+          "y": 0.13245613700465153,
+          "w": 0.4011513157894737,
+          "h": 0.6026315789473684,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 8.741314,
+          "x": 0.28758223684210527,
+          "y": 0.116666663320441,
+          "w": 0.36710526315789477,
+          "h": 0.5894736842105263,
+          "note": "face human-annotated",
+          "region": "face"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 15.35,
+      "description": "The subject is standing, framed from the upper chest up. His head remains mostly still and oriented forward, with very slight, subtle nods that coincide with the rhythm of his speech. His shoulders are relaxed and level. His hands are briefly visible at the bottom of the frame at the start, clasped together, before moving out of view.",
+      "bboxes": [
+        {
+          "frame_time": 0.603452,
+          "x": 0.30978618421052634,
+          "y": 0.04561403174149363,
+          "w": 0.309375,
+          "h": 0.95,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 8.440881,
+          "x": 0.25945723684210525,
+          "y": 0.04298245279412521,
+          "w": 0.47072368421052635,
+          "h": 0.8,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 8.440881,
+          "x": 0.04481907894736841,
+          "y": 0.6587719264783357,
+          "w": 0.8023026315789474,
+          "h": 0.30526315789473685,
+          "note": "pose human-annotated",
+          "region": "shoulders"
+        },
+        {
+          "frame_time": 0.5827,
+          "x": 0.2964638157894737,
+          "y": 0.8456140317414936,
+          "w": 0.3330592105263158,
+          "h": 0.15,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 6.00124,
+          "x": 0.1247532894736842,
+          "y": 0.7298245580572831,
+          "w": 0.6291118421052632,
+          "h": 0.26842105263157895,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0.99,
+      "end_time": 9.91,
+      "description": "The subject speaks at a moderate and deliberate pace with a fairly stable, low-range pitch. There are natural pauses between phrases, such as after \"level\" and \"jobs.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 11.13,
+      "end_time": 15.35,
+      "description": "The speech continues with a consistent volume and deliberate enunciation, particularly on the words \"pediatric neurosurgery.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.35,
+      "description": "The subject is an adult Black male with short, dark hair and a graying goatee. He is wearing a dark suit jacket, a white collared shirt, and a dark red patterned tie. The setting appears to be outdoors at night, under a covered structure with a white, paneled ceiling and overhead lights, possibly an airport drop-off area. In the blurred background, vehicle headlights are visible.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 14.8153,
+      "end_time": 15.8153,
+      "description": "The man is wearing a suit, and the sky in the background is night. It can be inferred that the man got off work from the company not long ago.",
+      "bboxes": [
+        {
+          "frame_time": 15.3153,
+          "x": 0.16768092105263158,
+          "y": 0.18508771595201995,
+          "w": 0.7416118421052632,
+          "h": 0.6578947368421053,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Medium",
+      "score": 0.48,
+      "rationale": "The subject's Extraversion score is in the Medium range. While he is engaged in speaking, his overall energy is contained and measured rather than overtly expressive. His vocal delivery is moderate and deliberate, not rapid or highly animated. Furthermore, his body language is reserved, characterized by a mostly still head, minimal gestures (hands are clasped and then out of view), and a consistent, averted gaze. This combination of public communication with a controlled, internally focused demeanor supports a mid-range score, distinct from the high energy typical of strong extraverts.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "High",
+      "score": 0.65,
+      "rationale": "A High level of Agreeableness is indicated by the subject's calm and non-confrontational presence. His facial expression is noted as being neutral to 'slightly soft,' complemented by relaxed eyebrows and shoulders. This lack of physical tension suggests an approachable and cooperative temperament. His speech is stable and measured, without any sharp or aggressive tones. These cues collectively project a sense of warmth and pro-social orientation, which are hallmarks of high Agreeableness.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "High",
+      "score": 0.75,
+      "rationale": "The subject's behavior strongly supports a High Conscientiousness score. His speech is highly deliberate and precise, with clear articulation, particularly on complex terms like 'pediatric neurosurgery,' which indicates thoughtfulness and a desire for accuracy. His professional attire (a suit and tie) suggests orderliness and adherence to social norms. The overall presentation is composed, structured, and purposeful, from his controlled posture to his methodical speech pattern, reflecting the diligence and self-discipline characteristic of this trait.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Medium",
+      "score": 0.59,
+      "rationale": "The subject exhibits a mix of cues that place his Neuroticism in the Medium range. On one hand, his relaxed posture and stable vocal tone demonstrate effective emotional regulation. On the other hand, subtle indicators of stress are present. The persistent averted gaze to his left is a common behavior for managing the cognitive load or discomfort of being observed. Additionally, the brief eye closure during speech can be a micro-behavior used to block out external stimuli and momentarily manage internal pressure. This blend of outward composure with subtle signs of underlying tension is characteristic of an individual with a medium level of Neuroticism.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "High",
+      "score": 0.71,
+      "rationale": "A High level of Openness is inferred from the intellectual nature of the subject's discourse. His choice of words, referencing the specialized field of 'pediatric neurosurgery' and broad socio-economic concepts, indicates an engagement with abstract and complex ideas. His thoughtful, deliberate vocal pace suggests he is carefully formulating and articulating nuanced thoughts, rather than speaking superficially. This focus on sophisticated subject matter is a strong behavioral marker for intellectual curiosity and a mind open to new and complex experiences.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their Neuroticism level?",
+      "options": [
+        {
+          "id": "A",
+          "text": "0.4s - 1.2s"
+        },
+        {
+          "id": "B",
+          "text": "3.8s - 4.6s"
+        },
+        {
+          "id": "C",
+          "text": "5.8s - 6.6s"
+        },
+        {
+          "id": "D",
+          "text": "8.2s - 9.0s"
+        },
+        {
+          "id": "E",
+          "text": "11.5s - 12.3s"
+        },
+        {
+          "id": "F",
+          "text": "14.7s - 15.5s"
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. The personality analysis notes that a brief eye closure can be a micro-behavior to manage internal pressure or cognitive load, which is relevant to the Medium Neuroticism score. The observation log confirms this event occurs between 5.8s and 6.6s, making it the most notable and relevant micro-expression change for this trait.\n\n- Option A is a video-based distractor. During this interval, the hands are briefly visible at the bottom of the frame, which is a body action, not a facial expression.\n- Option B is a video-based distractor. In this period, the mouth is simply moving with speech, which is a continuous action, not a notable or sudden change in expression.\n- Option D is a video-based distractor. A very subtle head nod occurs here, which is a change in head position, not a micro-expression on the face.\n- Option E is a video-based distractor. This interval covers the articulation of 'pediatric,' but the overall facial expression remains consistent and neutral.\n- Option F is a video-based distractor. This marks the end of the clip, and no significant change in facial expression occurs."
+    },
+    {
+      "category": "Mixed Emotion Discrimination",
+      "question": "During 1.0s - 5.8s, the person's emotional state is best characterized as which of the following? Consider both verbal and non-verbal cues.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Passive observation tempered by slight disinterest."
+        },
+        {
+          "id": "B",
+          "text": "Reserved skepticism mixed with intellectual curiosity."
+        },
+        {
+          "id": "C",
+          "text": "Thoughtful concentration tempered by a calm demeanor."
+        },
+        {
+          "id": "D",
+          "text": "Scholarly confidence mixed with assertive delivery."
+        },
+        {
+          "id": "E",
+          "text": "Focused recall mixed with a hint of social discomfort."
+        },
+        {
+          "id": "F",
+          "text": "Deep contemplation mixed with subtle apprehension."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. In this segment, the person speaks deliberately about complex topics (concentration), while his facial expression is neutral to soft, and his shoulders are relaxed (calm demeanor). The averted gaze also contributes to the sense of focused thought. This combination strongly supports 'thoughtful concentration tempered by a calm demeanor.'\n\n- Option A is a video-based distractor. The person is actively speaking, not passively observing, and the topic is serious, making 'disinterest' an inaccurate label.\n- Option B is a text-based distractor. While intellectual curiosity might be plausible given the topic, there are no visual or auditory cues (like a furrowed brow or questioning tone) to support 'skepticism.'\n- Option D is a text-based distractor. The delivery is deliberate and controlled, but lacks the forcefulness or overt self-assuredness that would characterize an 'assertive' delivery.\n- Option E is a near-miss distractor. The averted gaze could be interpreted as social discomfort, but the overall physical presentation (relaxed face and shoulders) points more strongly toward a general state of calm rather than discomfort.\n- Option F is a near-miss distractor. 'Deep contemplation' is plausible, but 'apprehension' is an over-interpretation. The cues suggest composure and emotional regulation, not anxiety."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 4.2s, a region was detected in the video (x=0.308, y=0.161, w=0.348, h=0.303, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A subtle and rhythmic nodding of the head."
+        },
+        {
+          "id": "B",
+          "text": "Shoulders held in a level and composed pose."
+        },
+        {
+          "id": "C",
+          "text": "A relaxed and neutral brow line expression."
+        },
+        {
+          "id": "D",
+          "text": "A maintained gaze averted toward the left."
+        },
+        {
+          "id": "E",
+          "text": "A slightly furrowed or tensed brow line."
+        },
+        {
+          "id": "F",
+          "text": "A consistently neutral facial expression."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. The provided coordinates (x=0.308, y=0.161, w=0.348, h=0.303) at 4.2s precisely frame the person's eyebrows. The observation log for this time states, His eyebrows are relaxed. 'A relaxed and neutral brow line expression' is the most accurate description of this observation.\n\n- Option A is a video-based distractor. The subtle nod describes the movement of the entire head, not the specific brow region defined by the bounding box.\n- Option B is a video-based distractor. This describes the shoulders, a completely different part of the body far from the specified coordinates.\n- Option D is a video-based distractor. The averted gaze describes the eyes, which are adjacent to but distinct from the brow region defined by the bounding box.\n- Option E is a near-miss distractor. It correctly identifies the body part (brow line) but incorrectly describes its state as 'furrowed or tensed' when the observation confirms it is relaxed.\n- Option F is a text-based distractor. It describes the entire face ('facial expression'), which is too general. The question asks for the prominent expression within the specific rectangular region of the brows."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "The video shows a brief, self-regulatory action involving a momentary change in the eye region. At which timestamp and location does this specific event occur?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Time: 4.2s, Bbox: (x=0.397, y=0.488, w=0.221, h=0.224)"
+        },
+        {
+          "id": "B",
+          "text": "Time: 8.7s, Bbox: (x=0.291, y=0.132, w=0.401, h=0.603)"
+        },
+        {
+          "id": "C",
+          "text": "Time: 6.4s, Bbox: (x=0.362, y=0.146, w=0.343, h=0.350)"
+        },
+        {
+          "id": "D",
+          "text": "Time: 6.4s, Bbox: (x=0.045, y=0.659, w=0.802, h=0.305)"
+        },
+        {
+          "id": "E",
+          "text": "Time: 0.6s, Bbox: (x=0.296, y=0.846, w=0.333, h=0.150)"
+        },
+        {
+          "id": "F",
+          "text": "Time: 8.4s, Bbox: (x=0.259, y=0.043, w=0.471, h=0.800)"
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. The question describes a brief, self-regulatory action in the eye region. This corresponds to the observation The subject closes his eyes for a moment while speaking, which is logged with the timestamp 6.4s and the bounding box (x=0.362, y=0.146, w=0.343, h=0.350). This option provides the exact correct combination.\n\n- Option A is a distractor with the wrong time and a bbox corresponding to the mouth during speech.\n- Option B is a distractor with the wrong time and a bbox for the eyes when they are open and looking left.\n- Option D is a distractor with the correct time but the wrong bbox, pointing to the shoulder region.\n- Option E is a distractor with the wrong time and a bbox for the hands when they are clasped at the beginning.\n- Option F is a distractor with the wrong time and a bbox for the entire head, not the specific eye region where the action occurs."
+    },
+    {
+      "category": "Counterfactual Reasoning",
+      "question": "If the person had NOT exhibited the behavior observed around 6.6s - 15.3s, which of the following personality assessments would be MOST affected?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Neuroticism might shift from Medium to High, as the absence of this coping mechanism could imply greater unmanaged stress."
+        },
+        {
+          "id": "B",
+          "text": "Openness assessment would be less certain, as this specific behavior is a very strong marker for intellectual curiosity."
+        },
+        {
+          "id": "C",
+          "text": "Neuroticism might shift from Medium to Low, as the persistent averted gaze is key evidence for managing internal pressure."
+        },
+        {
+          "id": "D",
+          "text": "Conscientiousness would decrease, since maintaining direct eye contact is often associated with focused and diligent people."
+        },
+        {
+          "id": "E",
+          "text": "Agreeableness would be lower, because the calm facial expression observed throughout is the primary indicator of this trait."
+        },
+        {
+          "id": "F",
+          "text": "Extraversion would likely increase, given that the person's deliberate speech from earlier indicates introverted tendencies."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. The behavior observed from 6.6s - 15.3s is the sustained averted gaze to the left. The personality analysis explicitly cites this behavior as an indicator of managing cognitive load or discomfort, which is the primary evidence supporting a Medium (not Low) Neuroticism score. If this behavior were absent (e.g., if he made direct eye contact), this key piece of evidence for underlying tension would be removed, likely causing the Neuroticism assessment to shift lower.\n\n- Option A is a near-miss distractor. It correctly identifies that Neuroticism would be affected but reasons in the wrong direction. Removing evidence for a trait typically lowers its score, not raises it.\n- Option B is a text-based distractor. The behavior in question is averted gaze, which is not a marker for Openness. The verbal content is the marker for Openness.\n- Option D is a text-based distractor. While plausible in general, the primary evidence for Conscientiousness in this specific video is the *precise speech*, not the direction of gaze. Therefore, this assessment would be less affected.\n- Option E is a video-based distractor. It incorrectly identifies the behavior at issue. The question is about the averted gaze, not the calm facial expression. Removing the gaze would not impact the evidence from the facial expression.\n- Option F is a video-based distractor. It references a behavior (deliberate speech) from a different time segment and incorrectly links it to the impact of the behavior in the specified 6.6s-15.3s range."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator20",
+      "version": 4,
+      "clues_total": 16,
+      "clues_correct": 13,
+      "clues_wrong_corrected": 2,
+      "clues_missing_skipped": 0,
+      "clues_bonus": 1
+    }
+  }
+}

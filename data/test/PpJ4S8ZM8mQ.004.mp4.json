@@ -1,0 +1,399 @@
+{
+  "video_id": "PpJ4S8ZM8mQ.004.mp4",
+  "video_path": "PpJ4S8ZM8mQ.004.mp4",
+  "transcription": "\"When did you start YouTube?\" Let me give you a little history about it. I didn't really watch you guys back then. When I was like 10 years old, I didn't watch YouTube, but my cousin was obsessed with it. I would come over and she'll show me lots of-",
+  "original_scores": {
+    "extraversion": 0.6168224299065421,
+    "agreeableness": 0.7142857142857143,
+    "conscientiousness": 0.5436893203883495,
+    "neuroticism": 0.6041666666666666,
+    "openness": 0.6666666666666666
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 2.22,
+      "description": "The subject looks directly at the camera while speaking. Her eyebrows are slightly raised, and her lips form a subtle smile as she talks.",
+      "bboxes": [
+        {
+          "frame_time": 0.262215,
+          "x": 0.2979440789473684,
+          "y": 0.4298245580572831,
+          "w": 0.16875,
+          "h": 0.19210526315789472,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 0.422457,
+          "x": 0.3112664473684211,
+          "y": 0.40614034753096734,
+          "w": 0.15838815789473684,
+          "h": 0.1368421052631579,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 2.22,
+      "end_time": 5.42,
+      "description": "Her expression becomes more neutral as she continues speaking. Her gaze remains directed toward the camera with normal blinking.",
+      "bboxes": [
+        {
+          "frame_time": 3.28163,
+          "x": 0.2757401315789474,
+          "y": 0.42719297910991466,
+          "w": 0.196875,
+          "h": 0.3473684210526316,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 4.933151,
+          "x": 0.2698190789473684,
+          "y": 0.39035087384675676,
+          "w": 0.196875,
+          "h": 0.14473684210526316,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 5.42,
+      "end_time": 7.32,
+      "description": "The subject briefly looks up and to her right, then her gaze returns to the camera. Her eyebrows are in a neutral position.",
+      "bboxes": [
+        {
+          "frame_time": 6.395132,
+          "x": 0.26833881578947366,
+          "y": 0.4035087685835989,
+          "w": 0.2042763157894737,
+          "h": 0.10789473684210527,
+          "note": "human-annotated",
+          "region": "unknown"
+        },
+        {
+          "frame_time": 6.264025,
+          "x": 0.27870065789473686,
+          "y": 0.37456140016254624,
+          "w": 0.17467105263157895,
+          "h": 0.06315789473684211,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 7.32,
+      "end_time": 9.47,
+      "description": "While speaking, she looks slightly to her right and then back to the center, maintaining a neutral, thoughtful expression.",
+      "bboxes": [
+        {
+          "frame_time": 8.753805,
+          "x": 0.2698190789473684,
+          "y": 0.3771929791099147,
+          "w": 0.15986842105263158,
+          "h": 0.3447368421052632,
+          "note": "face human-annotated",
+          "region": "face"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 9.47,
+      "end_time": 15.34,
+      "description": "Her gaze returns to the camera. Her eyebrows raise slightly as she speaks with more animation, particularly when mentioning her cousin.",
+      "bboxes": [
+        {
+          "frame_time": 10.772101,
+          "x": 0.2816611842105263,
+          "y": 0.42192982121517786,
+          "w": 0.1924342105263158,
+          "h": 0.1368421052631579,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 2.22,
+      "description": "The subject is sitting, framed from the chest up. She makes very small, subtle head movements that correspond with her speech.",
+      "bboxes": [
+        {
+          "frame_time": 0.930104,
+          "x": 0.17212171052631578,
+          "y": 0.4298245580572831,
+          "w": 0.4736842105263158,
+          "h": 0.5473684210526316,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 1.005157,
+          "x": 0.27277960526315786,
+          "y": 0.31140350542570416,
+          "w": 0.2723684210526316,
+          "h": 0.5947368421052631,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 2.22,
+      "end_time": 3.72,
+      "description": "She briefly raises her right hand into the frame in an open, illustrative gesture before lowering it.",
+      "bboxes": [
+        {
+          "frame_time": 2.709555,
+          "x": 0.4252467105263158,
+          "y": 0.7035087685835989,
+          "w": 0.1524671052631579,
+          "h": 0.29210526315789476,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 2.709555,
+          "x": 0.4296875,
+          "y": 0.7140350843730726,
+          "w": 0.21611842105263157,
+          "h": 0.2710526315789474,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 2.869797,
+          "x": 0.5569901315789474,
+          "y": 0.8114035054257042,
+          "w": 0.22648026315789474,
+          "h": 0.1736842105263158,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 3.72,
+      "end_time": 15.34,
+      "description": "The subject's head remains mostly still, with minor tilts and nods that punctuate her sentences. Her shoulders are relaxed and stationary.",
+      "bboxes": [
+        {
+          "frame_time": 8.560468,
+          "x": 0.24613486842105262,
+          "y": 0.30087718963623045,
+          "w": 0.23832236842105264,
+          "h": 0.46842105263157896,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 10.868944,
+          "x": 0.11883223684210525,
+          "y": 0.7140350843730726,
+          "w": 0.5314144736842106,
+          "h": 0.21052631578947367,
+          "note": "pose human-annotated",
+          "region": "shoulders"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 3.32,
+      "description": "The subject's speech is at a moderate-to-loud volume and a moderate pace. Her pitch rises on \"YouTube?\" and has a falling intonation at the end of her declarative sentence.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 3.32,
+      "end_time": 9.17,
+      "description": "Her speech rate remains steady and conversational. She uses filler words like \"well\" and \"like.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 9.17,
+      "end_time": 11.45,
+      "description": "There is a slight increase in pitch and stress on the word \"obsessed\" for emphasis.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 11.45,
+      "end_time": 15.34,
+      "description": "The pace and volume of her speech remain consistent through the end of the clip.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.34,
+      "description": "The subject is a young woman with long, dark, curly hair and a medium complexion, wearing a maroon-colored shirt. The setting is indoors, in a room with a peach-colored wall. To her left is a white paneled door. To her right, there is a red poinsettia plant, a plush snowman toy wearing a red hat, and the edge of a mirror with a decorative white frame. The lighting is soft and even, originating from the front.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "High",
+      "score": 0.62,
+      "rationale": "The subject's High Extraversion score is supported by her socially engaging and expressive communication style. She speaks at a moderate to loud volume, projecting social confidence. Her use of an open, illustrative hand gesture early in the clip indicates a desire for expressive communication. Furthermore, she employs vocal modulation, increasing her pitch and stress on the word 'obsessed' to add emphasis and energy to her narrative, a behavior common in individuals who are outwardly expressive and draw energy from social interaction.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "High",
+      "score": 0.71,
+      "rationale": "A High level of Agreeableness is indicated by the subject's cooperative and pleasant demeanor. By willingly answering a question from her audience, she demonstrates a pro-social and accommodating attitude. Her relaxed and still shoulders suggest a low level of social tension and a comfort with the interaction. This physical ease, combined with a steady vocal pace and direct eye contact, projects a sense of trust and warmth, which are core facets of agreeableness.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Medium",
+      "score": 0.54,
+      "rationale": "The subject's Medium Conscientiousness is reflected in her structured yet natural approach to answering the question. She demonstrates organization by framing her response as 'a little history,' indicating a deliberate attempt to provide a coherent narrative. The brief moment where she looks up and away is a classic sign of memory recall, suggesting she is making a concerted effort to be accurate. However, the use of filler words like 'like' points to a more spontaneous and less rigorously planned delivery, which aligns with a mid-range score rather than a high one.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "High",
+      "score": 0.6,
+      "rationale": "This score, at the low end of the High range, is supported by subtle behavioral indicators of managing social self-consciousness. While the subject appears generally composed, her use of filler words ('like') can be a mechanism to manage the cognitive load and slight anxiety of speaking on camera. The momentary gaze shift away from the lens, while primarily for memory recall, also serves as a brief respite from the direct social pressure of the camera. These subtle cues suggest a low-grade internal-state monitoring consistent with a higher-than-average level of Neuroticism.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "High",
+      "score": 0.67,
+      "rationale": "The subject's High Openness is demonstrated by her engagement in the creative and self-reflective act of creating a Q&A video. She shows intellectual curiosity by delving into her personal history to answer the question, rather than giving a superficial response. The act of looking away to thoughtfully recall a specific memory indicates an introspective quality. Her vocal expressiveness when describing her cousin's passion ('obsessed') shows an appreciation for nuanced emotional states and experiences, a key characteristic of individuals high in Openness.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 6.4s, a region was detected in the video (x=0.268, y=0.404, w=0.204, h=0.108, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A transition of the facial muscles to a more neutral, pensive pose."
+        },
+        {
+          "id": "B",
+          "text": "An open and illustrative hand movement used for narrative emphasis."
+        },
+        {
+          "id": "C",
+          "text": "A subtle but deliberate raising of the eyebrows while beginning a sentence."
+        },
+        {
+          "id": "D",
+          "text": "A brief upward and leftward shift of the eyes, consistent with recall."
+        },
+        {
+          "id": "E",
+          "text": "Direct and sustained eye contact with the camera while she is speaking."
+        },
+        {
+          "id": "F",
+          "text": "A brief upward and rightward shift of the eyes, consistent with recall."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "The correct answer is D. The specified bounding box at 6.4s isolates the person's eyes as she is looking up and to her left. This action is a well-documented cue for memory recall.\nOption A is a video-based distractor describing the face's expression around 3.3s or 8.8s, not what is happening with the eyes at 6.4s.\nOption B is a video-based distractor describing the hand gesture, which occurs in a different spatial region and time (around 2.7s).\nOption C is a video-based distractor describing the eyebrow movement from the very beginning of the clip (around 0.4s).\nOption E is a video-based distractor; at this specific moment, her eyes are averted, not making direct contact.\nOption F is a near-miss distractor. It correctly identifies the nature of the action (upward eye shift for recall) but gets the direction wrong (rightward instead of the correct leftward), based on common AI perception errors."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "Which of the following options correctly identifies a moment and region that best exemplifies the person's overall relaxed posture and physical stillness while narrating her story?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[6.3s] x=0.28, y=0.37, w=0.17, h=0.06"
+        },
+        {
+          "id": "B",
+          "text": "[1.0s] x=0.27, y=0.31, w=0.27, h=0.59"
+        },
+        {
+          "id": "C",
+          "text": "[4.9s] x=0.27, y=0.39, w=0.20, h=0.14"
+        },
+        {
+          "id": "D",
+          "text": "[10.9s] x=0.12, y=0.71, w=0.53, h=0.21"
+        },
+        {
+          "id": "E",
+          "text": "[2.7s] x=0.43, y=0.71, w=0.22, h=0.27"
+        },
+        {
+          "id": "F",
+          "text": "[8.8s] x=0.27, y=0.38, w=0.16, h=0.34"
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "The correct answer is D. The question asks for the region best showing relaxed posture and stillness. Option D provides coordinates at 10.9s that encompass the person's shoulders. The observations state that 'Her shoulders are relaxed and still,' which directly exemplifies this quality and supports the High Agreeableness assessment. \nOption A is a video-based distractor; it isolates the eyebrows in a neutral position.\nOption B is a video-based distractor; it isolates the head while it is making subtle movements, which is contrary to 'stillness'.\nOption C is a video-based distractor; it isolates the eyes during direct gaze.\nOption E is a video-based distractor; it isolates the hand during an illustrative gesture, which is an action, not stillness.\nOption F is a video-based distractor; it isolates the face during a pensive expression."
+    },
+    {
+      "category": "Counterfactual Reasoning",
+      "question": "If the person had NOT exhibited the behavior observed around 5.4s - 7.3s, which of the following personality assessments would be MOST affected?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Extraversion would be rated lower, because this is the primary cue for social energy."
+        },
+        {
+          "id": "B",
+          "text": "Openness score would be less certain, as this action strongly points to introspection."
+        },
+        {
+          "id": "C",
+          "text": "Agreeableness score would be less supported, as the gesture shows cooperative intent."
+        },
+        {
+          "id": "D",
+          "text": "Conscientiousness may be seen as lower, as this cue indicates an effort for accuracy."
+        },
+        {
+          "id": "E",
+          "text": "Neuroticism might be rated much lower, as this is the main sign of her social anxiety."
+        },
+        {
+          "id": "F",
+          "text": "Conscientiousness might be judged as higher, as the absence implies smoother speech."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "The correct answer is D. The behavior at 5.4s - 7.3s is the upward/leftward gaze aversion for memory recall. The personality analysis explicitly cites this as a 'classic sign of memory recall, suggesting she is making a concerted effort to be accurate,' which is a key piece of evidence for Medium Conscientiousness. Removing this behavior would remove the strongest evidence for her being careful and accurate, likely lowering the score.\nOption A is a video-based distractor. Extraversion is supported by vocal modulation at a different time (9.2s-11.4s), not the gaze aversion.\nOption B is a near-miss distractor. The analysis does link this behavior to Openness (introspection), but the link to Conscientiousness (effort for accuracy) is framed as a more direct and primary interpretation of the memory recall cue, making its removal more impactful on that trait.\nOption C is a text-based distractor; the gaze aversion is not a primary cue for agreeableness.\nOption E is a text-based distractor; the analysis mentions this as only a minor, secondary cue for Neuroticism, not the 'main sign'.\nOption F is a near-miss distractor. It correctly identifies the trait (Conscientiousness) but suggests the wrong direction of change; removing evidence for accuracy would lower the score, not raise it."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator17",
+      "version": 1,
+      "clues_total": 24,
+      "clues_correct": 16,
+      "clues_wrong_corrected": 4,
+      "clues_missing_skipped": 4,
+      "clues_bonus": 0
+    }
+  }
+}

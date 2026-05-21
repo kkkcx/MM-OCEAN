@@ -1,0 +1,299 @@
+{
+  "video_id": "d1eh3dHNi1Y.005.mp4",
+  "video_path": "d1eh3dHNi1Y.005.mp4",
+  "transcription": "... and getting comfortable with using essential oils. With Young Living oils, you'll find usage instructions on every label. So you can just start there, it's really basic. Just start there and use them how they say to use them on the label.",
+  "original_scores": {
+    "extraversion": 0.36448598130841126,
+    "agreeableness": 0.5054945054945055,
+    "conscientiousness": 0.5436893203883495,
+    "neuroticism": 0.5625,
+    "openness": 0.5333333333333333
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 15,
+      "description": "The subject maintains a steady gaze toward the camera. Her eyebrows remain in a neutral, relaxed position throughout. Her facial expression is generally neutral and engaged, with her mouth moving naturally as she speaks. She blinks at a normal rate.",
+      "bboxes": [
+        {
+          "frame_time": 6.546634,
+          "x": 0.44753086419753085,
+          "y": 0.19913122650690693,
+          "w": 0.1743827160493827,
+          "h": 0.15089163237311384,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 6.546634,
+          "x": 0.46296296296296297,
+          "y": 0.19364425805697552,
+          "w": 0.16049382716049382,
+          "h": 0.11248285322359397,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 6.546634,
+          "x": 0.4645061728395062,
+          "y": 0.17718335270718127,
+          "w": 0.14814814814814814,
+          "h": 0.3401920438957476,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 6.546634,
+          "x": 0.49074074074074076,
+          "y": 0.37745770112967786,
+          "w": 0.08950617283950617,
+          "h": 0.09053497942386832,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 7.954873,
+          "x": 0.45987654320987653,
+          "y": 0.20461819495683836,
+          "w": 0.1712962962962963,
+          "h": 0.1262002743484225,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 15,
+      "description": "The subject is seated, facing forward. Her head remains relatively still, with slight, subtle nods corresponding to her speech. Her hands are visible at the bottom of the frame, loosely clasped, and they make small, contained gestures to emphasize her points.",
+      "bboxes": [
+        {
+          "frame_time": 10.226996,
+          "x": 0.38271604938271603,
+          "y": 0.029035204559033138,
+          "w": 0.3055555555555556,
+          "h": 0.9163237311385459,
+          "note": "human-annotated",
+          "region": "unknown"
+        },
+        {
+          "frame_time": 13.464366,
+          "x": 0.4104938271604938,
+          "y": 0.015317783434204604,
+          "w": 0.21604938271604937,
+          "h": 0.5569272976680384,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 4.78092,
+          "x": 0.20679012345679013,
+          "y": 0.7752629137497052,
+          "w": 0.47530864197530864,
+          "h": 0.22473708625029476,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 15,
+      "description": "The subject speaks at a moderate, consistent pace with a conversational tone. Her pitch remains relatively stable, with slight downward inflections at the end of phrases. There is a slightly breathy quality to her voice. Short pauses occur between sentences.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15,
+      "description": "The subject is a woman with long, wavy brown hair and fair skin. She is wearing a red and black plaid shirt. She is wearing a headset with a thin microphone boom visible on her left side. The setting is indoors, in front of a light-colored brick wall, likely a fireplace. The video quality is low-resolution and slightly blurry. The word \"Google\" is visible in the top-left corner.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Low",
+      "score": 0.36,
+      "rationale": "The subject's composed and self-contained demeanor aligns with a Low level of Extraversion. Her physical energy is reserved, evidenced by small, contained hand gestures and a relatively still head and posture. Her vocal delivery is moderate and steady, lacking the rapid pace, high energy, and wide pitch variation characteristic of highly extraverted individuals. The overall presentation is one of calm focus rather than outward social animation.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Medium",
+      "score": 0.51,
+      "rationale": "A Medium level of Agreeableness is supported by the subject's relaxed and approachable presentation. Her neutral, engaged facial expression and calm vocal tone create a cooperative atmosphere. The steady eye contact suggests a sincere attempt to connect with the viewer. While she appears pleasant and non-confrontational, the absence of overt displays of warmth or effusiveness places her in the mid-range of this trait.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Medium",
+      "score": 0.54,
+      "rationale": "The subject demonstrates traits consistent with a Medium level of Conscientiousness. The act of creating a structured, instructional video with dedicated equipment (headset/mic) points to forethought and organization. Her speech is clear, focused, and delivered at a consistent pace, indicating she is task-oriented. However, her relaxed style and casual environment do not suggest the high degree of orderliness or perfectionism seen in the upper range of this trait.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Medium",
+      "score": 0.56,
+      "rationale": "The subject's emotional state appears largely stable, which argues against high Neuroticism. Her calm tone, relaxed facial muscles, and normal blink rate suggest a lack of significant anxiety. However, the score is in the Medium range. This is reconciled by observing subtle indicators of managed tension, such as a slightly breathy voice and contained, self-restrained gestures (loosely clasped hands). This controlled presentation may be a strategy to manage the mild stress of being recorded, placing her in the mid-range rather than at the low end of the scale.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "Medium",
+      "score": 0.53,
+      "rationale": "The choice to create a video about a specific interest like essential oils suggests a degree of intellectual curiosity consistent with a Medium level of Openness. She is open to sharing her knowledge on a modern platform. However, her delivery is highly practical and concrete ('just start there and use them how they say to use them on the label'), rather than abstract or imaginative. This pragmatic communication style, combined with a neutral expression, grounds her firmly in the middle of the Openness spectrum.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During 0s - 15s, the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A significantly high level of the Agreeableness dimension."
+        },
+        {
+          "id": "B",
+          "text": "A significantly low level of the Openness to Experience dimension."
+        },
+        {
+          "id": "C",
+          "text": "A significantly low level of the Extraversion personality dimension."
+        },
+        {
+          "id": "D",
+          "text": "A significantly high level of the Extraversion personality dimension."
+        },
+        {
+          "id": "E",
+          "text": "A significantly high level of the Neuroticism personality dimension."
+        },
+        {
+          "id": "F",
+          "text": "A significantly high level of the Conscientiousness dimension."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The subject's calm, steady vocal delivery, still posture, and contained hand gestures strongly support a classification of Low Extraversion, as they indicate reserved physical energy and a self-contained demeanor.\n- Option A is a text-based distractor. The subject is pleasant, but lacks the overt warmth or effusiveness that would indicate a 'high' level of Agreeableness.\n- Option B is a text-based distractor. While her delivery is pragmatic, creating an instructional video on a niche topic does not support a 'low' level of Openness; it's more indicative of a medium level.\n- Option D is a near-miss distractor. It correctly identifies the relevant personality dimension (Extraversion) but assigns the wrong direction (high instead of low). Her behavior is reserved, not energetic or socially animated.\n- Option E is a video-based distractor. While the analysis notes subtle signs of managed tension (breathy voice), her overall calm demeanor and stable expression contradict a 'high' level of Neuroticism.\n- Option F is a text-based distractor. The act of creating a video suggests some planning, but her relaxed style and casual environment do not provide enough evidence for 'high' Conscientiousness; a medium level is more appropriate."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 6.5s, a region was detected in the video (x=0.448, y=0.199, w=0.174, h=0.151, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Exhibiting a generally still and forward-facing posture."
+        },
+        {
+          "id": "B",
+          "text": "Showing natural and fluid mouth movements during speech."
+        },
+        {
+          "id": "C",
+          "text": "Maintaining steady and direct eye contact with the camera."
+        },
+        {
+          "id": "D",
+          "text": "Displaying slight and subtle nodding motions with speech."
+        },
+        {
+          "id": "E",
+          "text": "Holding a generally neutral and engaged facial expression."
+        },
+        {
+          "id": "F",
+          "text": "Using small and restrained hand gestures for emphasis."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The specified coordinates (x=0.448, y=0.199, w=0.174, h=0.151) at 6.5s precisely frame the subject's eyes. The observation log confirms that within this region, the defining action is the subject maintaining steady, direct eye contact with the camera, indicating engagement.\n- Option A is a video-based distractor. This describes her overall posture, which is outside the small bounding box focused on her upper face.\n- Option B is a video-based distractor. The mouth is located below the specified bounding box.\n- Option D is a video-based distractor. The head nodding motion involves the entire head, a much larger region than the specified eye-level bounding box.\n- Option E is a video-based distractor. This describes the entire face, whereas the bounding box is specific to the eye region.\n- Option F is a video-based distractor. The hands are located at the bottom of the screen, far from the specified bounding box on her face."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "At which time and location does the subject make a subtle, contained gesture to add emphasis to their verbal explanation?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Time: 13.5s, Bbox: {x=0.410, y=0.015, w=0.216, h=0.557}"
+        },
+        {
+          "id": "B",
+          "text": "Time: 4.8s, Bbox: {x=0.207, y=0.775, w=0.475, h=0.225}"
+        },
+        {
+          "id": "C",
+          "text": "Time: 6.5s, Bbox: {x=0.448, y=0.199, w=0.174, h=0.151}"
+        },
+        {
+          "id": "D",
+          "text": "Time: 10.2s, Bbox: {x=0.383, y=0.029, w=0.306, h=0.916}"
+        },
+        {
+          "id": "E",
+          "text": "Time: 4.8s, Bbox: {x=0.407, y=0.775, w=0.475, h=0.225}"
+        },
+        {
+          "id": "F",
+          "text": "Time: 8.0s, Bbox: {x=0.207, y=0.775, w=0.475, h=0.225}"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The observation log explicitly notes at 4.8s that the subject uses 'small and contained hand gestures to emphasize her points' and provides the corresponding bounding box {x=0.207, y=0.775, w=0.475, h=0.225}, which covers her hands at the bottom of the frame.\n- Option A is a video-based distractor. This timestamp and bbox correspond to a slight head nod, not a hand gesture.\n- Option C is a video-based distractor. This timestamp and bbox correspond to her steady eye contact, not a hand gesture.\n- Option D is a video-based distractor. This timestamp and bbox frame her entire upper body/posture, not a specific emphatic gesture.\n- Option E is a near-miss distractor. It has the correct time (4.8s) but an incorrect bbox (x=0.407 instead of x=0.207), shifting the location horizontally away from the hands.\n- Option F is a near-miss distractor. It has the correct hand gesture bbox but an incorrect time (8.0s instead of 4.8s). At 8.0s, her hands are relatively still."
+    },
+    {
+      "category": "Counterfactual Reasoning",
+      "question": "If the person had NOT exhibited the behavior observed around 4s - 6s, which of the following personality assessments would be MOST affected?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The High Extraversion rating would be most affected, as those hand gestures were the main sign of her overall social expressiveness."
+        },
+        {
+          "id": "B",
+          "text": "The Medium Conscientiousness rating would be impacted, since the gestures are evidence of her careful and organized thinking."
+        },
+        {
+          "id": "C",
+          "text": "The Low Extraversion rating would be most affected, as those contained hand gestures are a key indicator of reserved physical energy."
+        },
+        {
+          "id": "D",
+          "text": "The Medium Agreeableness rating would be less certain, since the hand motions are used to establish a cooperative attitude."
+        },
+        {
+          "id": "E",
+          "text": "The Medium Neuroticism rating would need review, as her steady vocal tone during that segment shows her emotional stability."
+        },
+        {
+          "id": "F",
+          "text": "The Medium Openness rating would be reconsidered, as the gestures were crucial for explaining an otherwise novel concept to viewers."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The behavior around 4s-6s includes the small, contained hand gestures noted at 4.8s. The personality analysis explicitly cites these contained gestures as primary evidence for 'reserved physical energy,' which is the cornerstone of the Low Extraversion assessment. Removing this evidence would significantly weaken that specific conclusion.\n- Option A is a near-miss distractor. It correctly identifies Extraversion as the relevant trait but gets the direction wrong. The gestures indicate a *lack* of high extraversion, so removing them would not affect a *High* Extraversion rating.\n- Option B is a text-based distractor. The evidence for Conscientiousness comes more from the overall setup (headset, instructional format) and clear speech, not specifically from these small gestures.\n- Option D is a text-based distractor. Agreeableness is inferred more from the calm tone and engaged facial expression rather than the energy level of the hand gestures.\n- Option E is a video-based distractor. While her vocal tone is steady in this segment, it is steady throughout the video. The assessment for Neuroticism also relies on other cues (like the breathy voice) and is not dependent on this specific time slice.\n- Option F is a text-based distractor. The gestures are a general communication aid, not specific evidence for the trait of Openness in this context."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator08",
+      "version": 1,
+      "clues_total": 10,
+      "clues_correct": 10,
+      "clues_wrong_corrected": 0,
+      "clues_missing_skipped": 0,
+      "clues_bonus": 0
+    }
+  }
+}

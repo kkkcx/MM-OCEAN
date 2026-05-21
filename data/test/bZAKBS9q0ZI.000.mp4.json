@@ -1,0 +1,403 @@
+{
+  "video_id": "bZAKBS9q0ZI.000.mp4",
+  "video_path": "bZAKBS9q0ZI.000.mp4",
+  "transcription": "Have a reactive face as compared to my voice. My voice is generally very enthusiastic but my face and the facial expressions really don't follow that. So I don't like putting my face came up there because it'll kind of weird people out how I will be so enthusiastic but my expression will.",
+  "original_scores": {
+    "extraversion": 0.5607476635514019,
+    "agreeableness": 0.6153846153846153,
+    "conscientiousness": 0.4174757281553398,
+    "neuroticism": 0.6354166666666666,
+    "openness": 0.6555555555555556
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 11.83,
+      "description": "Subject maintains a direct gaze with the camera, blinking naturally. His eyebrows remain in a mostly neutral, slightly raised position, lifting slightly for emphasis on words like \"enthusiastic.\" His mouth moves in sync with his speech, and his overall facial muscles appear relaxed.",
+      "bboxes": [
+        {
+          "frame_time": 2.490286,
+          "x": 0.5599506578947369,
+          "y": 0.36929824226780944,
+          "w": 0.26052631578947366,
+          "h": 0.1736842105263158,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 1.567118,
+          "x": 0.5333059210526315,
+          "y": 0.2824561370046515,
+          "w": 0.31973684210526315,
+          "h": 0.26052631578947366,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 1.374362,
+          "x": 0.6561677631578947,
+          "y": 0.5798245580572831,
+          "w": 0.140625,
+          "h": 0.22631578947368422,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 1.374362,
+          "x": 0.6162006578947369,
+          "y": 0.2798245580572831,
+          "w": 0.26644736842105265,
+          "h": 0.5236842105263158,
+          "note": "face human-annotated",
+          "region": "face"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 11.83,
+      "end_time": 15.2,
+      "description": "As the subject says \"so enthusiastic,\" his eyes widen, and his eyebrows raise significantly. His mouth opens wider to form the vowel sounds. The expression returns to a more neutral state as he finishes the sentence.",
+      "bboxes": [
+        {
+          "frame_time": 12.435321,
+          "x": 0.5377467105263158,
+          "y": 0.24561403174149363,
+          "w": 0.32417763157894736,
+          "h": 0.6026315789473684,
+          "note": "human-annotated",
+          "region": "unknown"
+        },
+        {
+          "frame_time": 12.406187,
+          "x": 0.5155427631578947,
+          "y": 0.4008771896362305,
+          "w": 0.27976973684210527,
+          "h": 0.16842105263157894,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 12.526258,
+          "x": 0.5421875,
+          "y": 0.25877192647833575,
+          "w": 0.29901315789473687,
+          "h": 0.15789473684210525,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 15.226079,
+          "x": 0.5584703947368421,
+          "y": 0.30877192647833573,
+          "w": 0.2649671052631579,
+          "h": 0.5289473684210526,
+          "note": "face human-annotated",
+          "region": "face"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 15.2,
+      "description": "The subject is framed in a medium-close-up shot from the chest up. He sits upright, leaning slightly forward toward the camera. His head remains relatively still, with small, subtle nods and tilts that accompany the rhythm of his speech. His shoulders are relaxed and stationary.",
+      "bboxes": [
+        {
+          "frame_time": 3.55447,
+          "x": 0.5333059210526315,
+          "y": 0.1798245580572831,
+          "w": 0.37006578947368424,
+          "h": 0.7052631578947368,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 3.661074,
+          "x": 0.49481907894736843,
+          "y": 0.4298245580572831,
+          "w": 0.5051809210526316,
+          "h": 0.40789473684210525,
+          "note": "pose human-annotated",
+          "region": "torso"
+        },
+        {
+          "frame_time": 10.713248,
+          "x": 0.5096217105263158,
+          "y": 0.2535087685835989,
+          "w": 0.3907894736842105,
+          "h": 0.6421052631578947,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 13.478946,
+          "x": 0.45041118421052634,
+          "y": 0.5008771896362305,
+          "w": 0.5495888157894737,
+          "h": 0.40789473684210525,
+          "note": "pose human-annotated",
+          "region": "shoulders"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 3.44,
+      "description": "Speech is delivered at a moderate, consistent pace with a stable pitch in the male vocal range.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 3.44,
+      "end_time": 5.01,
+      "description": "The pitch and volume rise noticeably on the phrase \"very enthusiastic,\" with primary stress on \"very.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 5.01,
+      "end_time": 11.83,
+      "description": "The voice returns to a baseline conversational tone and pace. There is slight vocal stress on the words \"really\" and \"weird.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 11.83,
+      "end_time": 13.56,
+      "description": "Pitch and volume rise sharply and significantly on the phrase \"so enthusiastic.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 13.56,
+      "end_time": 15.2,
+      "description": "The pitch falls back down to a lower, concluding tone on the final words of the sentence.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.2,
+      "description": "The subject is a male with short brown hair, a full beard, and glasses, wearing a black t-shirt. He is in an indoor room with off-white walls. Several framed items are visible on the wall behind him, including a YouTube Silver Play Button, a drawing of a T-Rex, and other art prints. A black microphone stand is visible on the left side of the frame, and a window with blinds is partially visible on the right. The lighting is even and appears to be from a frontal source.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Medium",
+      "score": 0.56,
+      "rationale": "The subject's Extraversion is rated as Medium. While he demonstrates vocal expressiveness, varying his pitch and volume for emphasis on words like 'enthusiastic,' which is characteristic of social energy, this is counterbalanced by his self-described lack of facial reactivity. His posture, leaning slightly forward, indicates engagement with the audience. However, the relative stillness of his head and shoulders suggests a more reserved physical presence, leading to a moderate, rather than high, level of extraverted expression.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "High",
+      "score": 0.62,
+      "rationale": "The subject's Agreeableness is rated as High. He maintains direct and steady eye contact, a behavior that builds rapport and trust. His overall demeanor is relaxed, communicated through relaxed facial muscles and shoulders. Critically, he engages in self-disclosure about a personal insecurity (the mismatch between his voice and face) and expresses concern about how this might negatively affect others ('weird people out'). This proactive management of social perception to maintain harmony is a strong indicator of high agreeableness.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Medium",
+      "score": 0.42,
+      "rationale": "The subject's Conscientiousness is rated as Medium. Evidence for this trait is primarily environmental. The presence of professional equipment like a microphone stand and curated background items, including a YouTube award and framed art, suggests a deliberate and organized approach to his work. His upright posture also conveys a degree of self-control. However, the short, reflective nature of the video clip provides limited information about his diligence or goal-oriented behaviors, making a medium assessment most appropriate.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "High",
+      "score": 0.64,
+      "rationale": "The subject's Neuroticism is rated as High. This is strongly supported by the verbal content of his monologue, which is centered on self-consciousness and social anxiety. He explicitly voices a concern about a perceived personal flaw and worries about it causing social discomfort ('it'll kind of weird people out'). This focus on self-criticism and potential negative judgment from others is a classic manifestation of neuroticism, even though his physical presentation appears relatively calm and composed.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "High",
+      "score": 0.66,
+      "rationale": "The subject's Openness is rated as High. He demonstrates a strong capacity for introspection and psychological self-analysis, articulating a nuanced observation about his internal state versus its external expression. This intellectual curiosity is a core component of Openness. Additionally, the curated items in his background, such as a T-Rex painting and other art prints, suggest an appreciation for aesthetics and a range of interests, further supporting a high score on this dimension.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During 5.0s - 11.8s, the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "High Neuroticism, reflecting his stated worry about potential social judgment."
+        },
+        {
+          "id": "B",
+          "text": "Low Agreeableness, reflecting a general disregard for maintaining group harmony."
+        },
+        {
+          "id": "C",
+          "text": "High Extraversion, driven by the consistent and energetic vocal modulation."
+        },
+        {
+          "id": "D",
+          "text": "High Openness, due to the articulation of complex self-analytical ideas."
+        },
+        {
+          "id": "E",
+          "text": "Low Conscientiousness, suggesting a lack of preparation in his presentation."
+        },
+        {
+          "id": "F",
+          "text": "Low Extraversion, indicated by the minimal use of expressive facial gestures."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Option A is correct. During this interval, the person verbally expresses anxiety about how his mismatched facial expressions might 'weird people out,' a classic manifestation of self-consciousness and concern about negative social evaluation, which are core facets of High Neuroticism.\n- Option B is a near-miss distractor. The concern for how others feel ('weird people out') is actually a sign of High Agreeableness, not Low. This option correctly identifies the social nature of the comment but inverts the trait direction.\n- Option C is a video-based distractor. The energetic vocal modulation is evidence for Extraversion, but it is most prominent in other segments (e.g., 3.4s-5.0s, 11.8s-13.6s), and the verbal content of the 5.0s-11.8s segment specifically points to Neuroticism.\n- Option D is a text-based distractor. While he does show self-analysis (a sign of Openness), the dominant theme of this specific segment is the emotional worry, not the intellectual curiosity itself.\n- Option E is a text-based distractor. There is nothing in the verbal content or visual cues during this time to suggest a lack of preparation; this is a plausible but unsupported negative trait.\n- Option F is a video-based distractor. His lack of facial expression is a theme throughout the video, but the behavior in this specific segment is primarily verbal, and the emotion behind it is neurotic worry, not introversion."
+    },
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their high Neuroticism level?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[11.8s - 13.6s]"
+        },
+        {
+          "id": "B",
+          "text": "[0.0s - 1.5s]"
+        },
+        {
+          "id": "C",
+          "text": "[3.4s - 5.0s]"
+        },
+        {
+          "id": "D",
+          "text": "[5.5s - 7.0s]"
+        },
+        {
+          "id": "E",
+          "text": "[8.0s - 9.5s]"
+        },
+        {
+          "id": "F",
+          "text": "[14.0s - 15.2s]"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Option A is correct. In this interval, as he says 'so enthusiastic' for the second time, there is a significant, synchronized eyebrow raise and eye squint. This moment of heightened emphasis punctuates his self-conscious point about the mismatch between his voice and face, making it the most relevant expressive change linked to the core neurotic theme.\n- Option B is a video-based distractor. This is the beginning of the video where his expression is relatively neutral as he starts speaking.\n- Option C is a near-miss distractor. He raises his pitch on 'very enthusiastic' here, but the facial expression change is less pronounced than the one in the correct interval, which serves as a stronger climax to his point.\n- Option D is a video-based distractor. During this period, he is speaking in a more baseline, neutral manner with minimal expressive change.\n- Option E is a video-based distractor. Similar to D, this interval contains standard speech with no notable expressive shift.\n- Option F is a video-based distractor. This is the end of the sentence where his expression is returning to a neutral state, which is a change, but not the key moment of emphasis."
+    },
+    {
+      "category": "Temporal-Causal Reasoning",
+      "question": "Consider the sequence of behaviors observed across the video. Which of the following best describes the causal chain linking the person's actions at different moments?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A self-assessment (t1) is clarified by a vocal display (t2), which provides the basis for a social prediction (t3), then reinforced by another display (t4)."
+        },
+        {
+          "id": "B",
+          "text": "A social observation (t1) causes an emotional reaction (t2), which then prompts a defensive self-assessment (t3) and a compensatory gesture (t4)."
+        },
+        {
+          "id": "C",
+          "text": "A state of calm reflection (t1) is broken by a vocal display (t2), which is followed by an act of emotional suppression (t3) and then a justification (t4)."
+        },
+        {
+          "id": "D",
+          "text": "An external criticism (t1) leads to an intellectual justification (t2), which builds to a point of frustration (t3) before a final clarification (t4)."
+        },
+        {
+          "id": "E",
+          "text": "A prediction about others' views (t1) leads to a self-assessment (t2), followed by a vocal display (t3) demonstrating the initial point (t4)."
+        },
+        {
+          "id": "F",
+          "text": "An initial vocal display (t1) triggers an unexpected self-realization (t2), leading to a state of withdrawal (t3) and a change of subject (t4)."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Option A is correct. This accurately maps the video's logic: He starts with a self-assessment ('reactive face vs. enthusiastic voice') (t1), demonstrates the vocal part with the first 'enthusiastic' (t2), predicts the social impact ('weird people out') (t3), and reinforces the vocal point with the second, stronger 'enthusiastic' (t4).\n- Option B is a text-based distractor. There is no evidence of a preceding 'social observation' or that his self-assessment is 'defensive'; he presents it as a known fact.\n- Option C is a near-miss distractor. The causality is flawed; there is no 'emotional suppression.' He maintains his engaged tone throughout and does not suppress his expression.\n- Option D is a text-based distractor. The motivation is internal self-reflection, not a response to an 'external criticism,' and his tone does not escalate to frustration.\n- Option E is a distractor with reversed temporal order. He makes the self-assessment first, which then leads to the prediction about others' views, not the other way around.\n- Option F is a video-based distractor. The self-realization is not 'unexpected'; he is reporting a known characteristic. Furthermore, he does not withdraw; he remains engaged with the camera."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 10.7s, a region was detected in the video (x=0.510, y=0.254, w=0.391, h=0.642, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A relatively still head with slight, speech-rhythmic nods and tilts."
+        },
+        {
+          "id": "B",
+          "text": "Direct eye contact maintained with the camera, along with natural blinks."
+        },
+        {
+          "id": "C",
+          "text": "Neutral eyebrows that show a subtle lift for conversational emphasis."
+        },
+        {
+          "id": "D",
+          "text": "Mouth movements that are carefully synchronized with the verbal speech."
+        },
+        {
+          "id": "E",
+          "text": "Facial muscles in the process of returning to a relaxed neutral state."
+        },
+        {
+          "id": "F",
+          "text": "A pronounced widening of the eyes that is used to add strong emphasis."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Option A is correct. The provided bounding box covers the entire head region at 10.7s. The observation log for this time and region states, 'His head is relatively still, with small nods and tilts accompanying the rhythm of his speech.' This option accurately summarizes that behavior.\n- Option B is a video-based distractor. While he is maintaining eye contact, this describes the action of the eyes, which are a smaller sub-region within the specified head-level bounding box.\n- Option C is a video-based distractor. This describes the action of the eyebrows, another sub-region. The question asks for the most prominent action of the entire specified region (the head).\n- Option D is a video-based distractor. This describes the action of the mouth, also a sub-region within the larger bounding box.\n- Option E is a video-based distractor. This behavior occurs later, around 15.2s, not at 10.7s.\n- Option F is a near-miss distractor. This is factually incorrect based on the provided 'near-miss material'. His eyes actually squint slightly at a moment of emphasis (12.4s), they do not widen."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "The person makes a non-verbal gesture primarily involving the upper facial region to emphasize a key point in their narrative. Which option correctly identifies the timing and location of this specific gesture?",
+      "options": [
+        {
+          "id": "A",
+          "text": "At 12.5s, in the region (x=0.542, y=0.259, w=0.299, h=0.158)"
+        },
+        {
+          "id": "B",
+          "text": "At 12.4s, in the region (x=0.516, y=0.401, w=0.280, h=0.168)"
+        },
+        {
+          "id": "C",
+          "text": "At 1.6s, in the region (x=0.533, y=0.282, w=0.320, h=0.261)"
+        },
+        {
+          "id": "D",
+          "text": "At 1.4s, in the region (x=0.656, y=0.580, w=0.141, h=0.226)"
+        },
+        {
+          "id": "E",
+          "text": "At 10.7s, in the region (x=0.510, y=0.254, w=0.391, h=0.642)"
+        },
+        {
+          "id": "F",
+          "text": "At 7.2s, in the region (x=0.650, y=0.450, w=0.150, h=0.100)"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Option A is correct. The question asks for a gesture in the upper facial region for emphasis. At 12.5s, as he says 'so enthusiastic', he performs a significant eyebrow raise. The coordinates (x=0.542, y=0.259, w=0.299, h=0.158) correspond precisely to the location of his eyebrows at that moment.\n- Option B is a near-miss distractor. This option has the correct time but provides the coordinates for the eyes, which are adjacent to the primary gesture region (the eyebrows).\n- Option C is a near-miss distractor. This option has the correct location (eyebrows) but the wrong time. A much smaller eyebrow movement occurs at 1.6s, but the most significant one for emphasis happens at 12.5s.\n- Option D is a video-based distractor. This time and location correspond to his mouth movements near the beginning of the video, which is not the upper facial region.\n- Option E is a video-based distractor. This time and location correspond to his overall head position while he is speaking normally, not a specific emphatic gesture.\n- Option F is a text-based distractor. The time and coordinates do not correspond to any notable gesture in the video; they are plausible but incorrect."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator10",
+      "version": 1,
+      "clues_total": 19,
+      "clues_correct": 17,
+      "clues_wrong_corrected": 1,
+      "clues_missing_skipped": 1,
+      "clues_bonus": 0
+    }
+  }
+}

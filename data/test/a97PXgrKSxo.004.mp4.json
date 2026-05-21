@@ -1,0 +1,344 @@
+{
+  "video_id": "a97PXgrKSxo.004.mp4",
+  "video_path": "a97PXgrKSxo.004.mp4",
+  "transcription": "... stuff. So come along, join me for the webinar, it's on this Saturday, the 4th of April, at 3 p.m. UK time, that's British summer time. In other time zones that's 10 a.m. if you're in Eastern Standard Time, 7 a.m. LA time, 2 p.m. ...",
+  "original_scores": {
+    "extraversion": 0.5700934579439253,
+    "agreeableness": 0.6043956043956044,
+    "conscientiousness": 0.7475728155339806,
+    "neuroticism": 0.59375,
+    "openness": 0.5888888888888889
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 8.08,
+      "description": "The subject maintains direct eye contact with the camera. Her eyebrows are slightly raised and her eyes are wide as she speaks. Her mouth movements are pronounced and follow the rhythm of her speech. Her facial expression appears engaged and animated.",
+      "bboxes": [
+        {
+          "frame_time": 1.230133,
+          "x": 0.4141447368421053,
+          "y": 0.12421052832352487,
+          "w": 0.16578947368421054,
+          "h": 0.37105263157894736,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 0.661847,
+          "x": 0.4200657894736842,
+          "y": 0.17157894937615645,
+          "w": 0.1287828947368421,
+          "h": 0.060526315789473685,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 2.116199,
+          "x": 0.41118421052631576,
+          "y": 0.24526315990247224,
+          "w": 0.1287828947368421,
+          "h": 0.0868421052631579,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 2.944278,
+          "x": 0.44226973684210524,
+          "y": 0.36631579148141963,
+          "w": 0.09473684210526316,
+          "h": 0.08947368421052632,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 6.658344,
+          "x": 0.40970394736842103,
+          "y": 0.1531578967445775,
+          "w": 0.1569078947368421,
+          "h": 0.38421052631578945,
+          "note": "face human-annotated",
+          "region": "face"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 8.08,
+      "end_time": 15,
+      "description": "The subject's gaze shifts downwards and to her left, away from the camera, as if reading from something. Her eyebrows return to a neutral position, and her overall facial expression becomes more neutral and less animated as she reads aloud.",
+      "bboxes": [
+        {
+          "frame_time": 9.189146,
+          "x": 0.43486842105263157,
+          "y": 0.2505263177972091,
+          "w": 0.11546052631578947,
+          "h": 0.08157894736842106,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 10.518025,
+          "x": 0.4393092105263158,
+          "y": 0.19526315990247226,
+          "w": 0.1287828947368421,
+          "h": 0.07368421052631578,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 12.447527,
+          "x": 0.44967105263157897,
+          "y": 0.1636842125340512,
+          "w": 0.13026315789473683,
+          "h": 0.3447368421052632,
+          "note": "face human-annotated",
+          "region": "face"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 8.73,
+      "description": "The subject is sitting upright in a chair, facing the camera. Her hands are clasped together at the bottom of the frame, making small, subtle movements. Her head remains relatively still with slight nods for emphasis.",
+      "bboxes": [
+        {
+          "frame_time": 1.440788,
+          "x": 0.31644736842105264,
+          "y": 0.40578947569194596,
+          "w": 0.3493421052631579,
+          "h": 0.5842105263157895,
+          "note": "human-annotated",
+          "region": "unknown"
+        },
+        {
+          "frame_time": 2.136584,
+          "x": 0.3875,
+          "y": 0.8268421072708932,
+          "w": 0.21907894736842107,
+          "h": 0.16842105263157894,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 3.309252,
+          "x": 0.3949013157894737,
+          "y": 0.10052631779720908,
+          "w": 0.17763157894736842,
+          "h": 0.4421052631578947,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 8.73,
+      "end_time": 15,
+      "description": "The subject leans forward slightly and tilts her head down, bringing a notebook into the frame. She holds the notebook with her left hand while her right index finger points to and follows the text as she reads.",
+      "bboxes": [
+        {
+          "frame_time": 10.27857,
+          "x": 0.3105263157894737,
+          "y": 0.4031578967445775,
+          "w": 0.3730263157894737,
+          "h": 0.5236842105263158,
+          "note": "pose human-annotated",
+          "region": "torso"
+        },
+        {
+          "frame_time": 10.27857,
+          "x": 0.4082236842105263,
+          "y": 0.05578947569194593,
+          "w": 0.2042763157894737,
+          "h": 0.4763157894736842,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 11.907941,
+          "x": 0.31644736842105264,
+          "y": 0.7978947388498406,
+          "w": 0.40263157894736845,
+          "h": 0.19736842105263158,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 8.57,
+      "description": "The subject speaks at a moderate pace with a clear, conversational tone. There are noticeable upward pitch inflections for emphasis on phrases like \"join me for the webinar,\" \"this Saturday,\" and \"3 p.m. UK time.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 8.57,
+      "end_time": 15,
+      "description": "The subject's tone shifts to become more monotonous and evenly paced, characteristic of reading aloud. The pitch range is narrower than in the previous segment, and the volume remains consistent.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15,
+      "description": "The subject is a woman with light skin and long, light brown hair. She is wearing a blue, short-sleeved, button-up shirt with the sleeves rolled up. On her left wrist is a black watch, and on her right is a beaded bracelet. She is in an indoor setting, possibly a living room or bedroom. The wall behind her is covered in grey wallpaper with a white floral or branch pattern. To her left is a white chest of drawers, on top of which sit a small plant, a retro-style radio, and a black stylized clock. A dark purple couch is visible to her right, and a floor lamp stands in the corner. The lighting is bright and diffuse, likely from a source in front of her.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Medium",
+      "score": 0.57,
+      "rationale": "The subject's Extraversion is rated as Medium. She demonstrates social confidence by directly addressing the camera with steady eye contact and an animated facial expression, which are typical extraverted behaviors. However, her energy is controlled; her head remains relatively still and hand gestures are described as 'small and subtle'. This lack of expansive gesturing and a more measured physical presence suggests a moderate, rather than high, level of extraversion.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "High",
+      "score": 0.6,
+      "rationale": "The subject scores High in Agreeableness. This is strongly indicated by her warm and engaging demeanor. The combination of direct eye contact, slightly raised eyebrows, and an animated, open facial expression creates an approachable and friendly impression. Her conversational tone is inviting and cooperative, consistent with the prosocial tendencies of highly agreeable individuals. There are no nonverbal cues suggesting skepticism or hostility.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "High",
+      "score": 0.75,
+      "rationale": "The subject's Conscientiousness is rated High. This is evident from her clear preparation and methodical approach. She sits with a poised, upright posture, indicating discipline. Most notably, she refers to a notebook to relay specific details, even pointing to the text with her finger to ensure accuracy. This behavior demonstrates a strong sense of duty, precision, and a desire to perform the task correctly, all of which are core facets of conscientiousness.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Medium",
+      "score": 0.59,
+      "rationale": "The subject's Neuroticism is assessed as Medium. While she appears largely composed and speaks with a clear, steady voice, there are subtle indicators of underlying tension. Her hands are clasped and make small movements, which can be a form of self-regulation or a manifestation of mild anxiety. Her reliance on a notebook for specific facts, while also a sign of conscientiousness, can equally suggest an anxiety about misspeaking. This balance between overt composure and subtle tension supports a medium level of neuroticism.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "Medium",
+      "score": 0.59,
+      "rationale": "The subject's Openness is rated as Medium. She shows intellectual engagement by hosting a webinar, an activity centered on sharing ideas. Her animated expression in the first half suggests curiosity. However, her communication style is largely structured and factual, focusing on concrete details like dates and times rather than abstract concepts. The shift to reading from a prepared script points to a preference for structure over spontaneous, creative expression. This combination of intellectual curiosity and a conventional communication style aligns with a medium level of openness.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their shift from social engagement to task focus?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[1.5s - 2.7s]"
+        },
+        {
+          "id": "B",
+          "text": "[6.8s - 8.0s]"
+        },
+        {
+          "id": "C",
+          "text": "[11.0s - 12.2s]"
+        },
+        {
+          "id": "D",
+          "text": "[8.1s - 9.3s]"
+        },
+        {
+          "id": "E",
+          "text": "[0.1s - 1.3s]"
+        },
+        {
+          "id": "F",
+          "text": "[9.5s - 10.7s]"
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "The correct answer is D. This interval captures the precise transition where the subject's expression changes. At 8.1s, the 'engaging' expression phase ends, and at 9.2s, her gaze is noted as shifting down to read. This window marks the shift from making eye contact with the camera to focusing on the notebook.\n- Option A is a video-based distractor. During this time, the person's expression is animated and stable in its engaging state, with no significant change occurring.\n- Option B is a near-miss distractor. This interval is just *before* the key change happens, representing the end of the initial stable expression rather than the transition itself.\n- Option C is a video-based distractor. During this period, the person is already looking down and reading; the transitional change has already completed.\n- Option E is a video-based distractor. This marks the beginning of the video, where the initial engaging expression is being established, not where a change occurs.\n- Option F is a near-miss distractor. This interval occurs just *after* the primary gaze shift, capturing the period where the new, neutral expression is settling in, not the moment of change."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 11.9s, a region was detected in the video (x=0.316, y=0.798, w=0.403, h=0.197, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "An engaged facial expression with eyebrows slightly raised to show some openness."
+        },
+        {
+          "id": "B",
+          "text": "The mouth region is actively forming words in a clear and conversational manner."
+        },
+        {
+          "id": "C",
+          "text": "A downward and lateral eye movement indicating a clear focus on reading material."
+        },
+        {
+          "id": "D",
+          "text": "A hand gesture used to precisely track the text while reading from a notebook."
+        },
+        {
+          "id": "E",
+          "text": "An open and animated facial expression meant to establish good social rapport."
+        },
+        {
+          "id": "F",
+          "text": "A poised and stable posture with the upper body sitting upright in the frame."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "The correct answer is D. The provided coordinates at 11.9s correspond to the lower portion of the frame where the subject's hands are. At this moment, she is holding a notebook and using her right index finger to point at and follow the text as she reads, a gesture of precision.\n- Option A is a video-based distractor. This expression occurs, but it happens in the first half of the video (0-8s) and in the facial region, not the hand region at 11.9s.\n- Option B is a text-based distractor. While she is speaking, this bbox does not cover the mouth; it covers the hands.\n- Option C is a near-miss distractor. The downward eye movement happens at the same time (during the reading phase) but is located in a different spatial region (the eyes/face), not the region defined by the bounding box.\n- Option E is a video-based distractor, similar to A, referencing the expression from the first half of the video and the wrong body region.\n- Option F is a text-based distractor. This describes her overall posture (torso), not the specific action occurring within the localized hand region."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "Identify the specific time and location corresponding to the peak of the subject's open and socially engaging facial expression.",
+      "options": [
+        {
+          "id": "A",
+          "text": "[2.1s] at (x=0.388, y=0.827, w=0.219, h=0.168)"
+        },
+        {
+          "id": "B",
+          "text": "[12.4s] at (x=0.450, y=0.164, w=0.130, h=0.345)"
+        },
+        {
+          "id": "C",
+          "text": "[9.2s] at (x=0.435, y=0.251, w=0.115, h=0.082)"
+        },
+        {
+          "id": "D",
+          "text": "[6.7s] at (x=0.410, y=0.153, w=0.157, h=0.384)"
+        },
+        {
+          "id": "E",
+          "text": "[3.3s] at (x=0.395, y=0.101, w=0.178, h=0.442)"
+        },
+        {
+          "id": "F",
+          "text": "[11.9s] at (x=0.316, y=0.798, w=0.403, h=0.197)"
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "The correct answer is D. At 6.7s, during the first segment of the video, the subject's face is animated and directed at the camera, showing high social engagement. The bounding box correctly isolates her face during this period.\n- Option A is a video-based distractor. The timestamp is correct (during the engaging phase), but the coordinates point to her hands, not her face.\n- Option B is a video-based distractor. The coordinates point to her face, but the timestamp (12.4s) is from the second half, where her expression is neutral and task-focused, not socially engaging.\n- Option C is a video-based distractor. This marks the moment her eyes shift down to read. The bbox correctly identifies the eyes, but this is the moment of disengagement, not peak engagement.\n- Option E is a near-miss distractor. The timestamp (3.3s) is within the correct engagement phase, and the bbox is on the head, but the specific bbox from the data at 6.7s is a better fit for the overall 'facial expression' rather than just the 'head'.\n- Option F is a video-based distractor. Both the timestamp (11.9s) and the location (hands) are incorrect for the described behavior."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator11",
+      "version": 1,
+      "clues_total": 17,
+      "clues_correct": 16,
+      "clues_wrong_corrected": 1,
+      "clues_missing_skipped": 0,
+      "clues_bonus": 0
+    }
+  }
+}

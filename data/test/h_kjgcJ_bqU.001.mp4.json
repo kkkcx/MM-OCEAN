@@ -1,0 +1,464 @@
+{
+  "video_id": "h_kjgcJ_bqU.001.mp4",
+  "video_path": "h_kjgcJ_bqU.001.mp4",
+  "transcription": "... ask what my daily food intake looks like. It's changed through the past fourteen months, every few months I find something new that I like and it's very plain. I eat the same thing all the time but -",
+  "original_scores": {
+    "extraversion": 0.6728971962616823,
+    "agreeableness": 0.6813186813186812,
+    "conscientiousness": 0.6796116504854369,
+    "neuroticism": 0.7395833333333333,
+    "openness": 0.6555555555555556
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 0.49,
+      "description": "The subject's gaze is directed down and to her right before shifting up to look directly at the camera.",
+      "bboxes": [
+        {
+          "frame_time": 0.232847,
+          "x": 0.3260690789473684,
+          "y": 0.058771926478335734,
+          "w": 0.3078947368421053,
+          "h": 0.39473684210526316,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 0.34927,
+          "x": 0.3334703947368421,
+          "y": 0.058771926478335734,
+          "w": 0.3330592105263158,
+          "h": 0.3157894736842105,
+          "note": "human-annotated",
+          "region": "unknown"
+        },
+        {
+          "frame_time": 0.34927,
+          "x": 0.3852796052631579,
+          "y": 0.04561403174149363,
+          "w": 0.2694078947368421,
+          "h": 0.3973684210526316,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 0.49,
+      "end_time": 11.75,
+      "description": "The subject's gaze is directed down and to her right before shifting up to look directly at the camera.",
+      "bboxes": [
+        {
+          "frame_time": 1.187139,
+          "x": 0.34679276315789476,
+          "y": 0.06929824226780941,
+          "w": 0.31085526315789475,
+          "h": 0.3105263157894737,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 3.627159,
+          "x": 0.36751644736842104,
+          "y": 0.06929824226780941,
+          "w": 0.3330592105263158,
+          "h": 0.3894736842105263,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 4.524126,
+          "x": 0.4104440789473684,
+          "y": 0.058771926478335734,
+          "w": 0.24572368421052632,
+          "h": 0.3368421052631579,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 11.75,
+      "end_time": 15.34,
+      "description": "The subject's smile fades to a more neutral expression as she speaks, though she continues to maintain direct eye contact with the camera.",
+      "bboxes": [
+        {
+          "frame_time": 15.287486,
+          "x": 0.3882401315789474,
+          "y": 0.02719297910991468,
+          "w": 0.22203947368421054,
+          "h": 0.32105263157894737,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 15.287486,
+          "x": 0.3482730263157895,
+          "y": 0.03771929489938836,
+          "w": 0.31973684210526315,
+          "h": 0.3078947368421053,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 9.5,
+      "description": "The subject sits cross-legged on a bed, facing forward. She holds a small, light-colored object with both hands in her lap. Her head moves with slight, natural motions as she speaks. Her posture is upright.",
+      "bboxes": [
+        {
+          "frame_time": 0.699882,
+          "x": 0.29054276315789473,
+          "y": 0.058771926478335734,
+          "w": 0.3863486842105263,
+          "h": 0.9263157894736842,
+          "note": "human-annotated",
+          "region": "legs"
+        },
+        {
+          "frame_time": 0.699882,
+          "x": 0.24761513157894735,
+          "y": 0.7192982422678094,
+          "w": 0.46036184210526315,
+          "h": 0.27631578947368424,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 0.699882,
+          "x": 0.3349506578947368,
+          "y": 0.12192982121517784,
+          "w": 0.35526315789473684,
+          "h": 0.8526315789473684,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 6.260604,
+          "x": 0.36751644736842104,
+          "y": 0.09035087384675679,
+          "w": 0.27532894736842106,
+          "h": 0.8368421052631579,
+          "note": "pose human-annotated",
+          "region": "torso"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 9.5,
+      "end_time": 15.34,
+      "description": "The subject remains in the same forward-facing, seated position. A small child crawls into the frame from the left and moves on the bed behind her. The subject does not turn her head or body to look at the child.",
+      "bboxes": [
+        {
+          "frame_time": 12.205451,
+          "x": 0.36751644736842104,
+          "y": 0.12192982121517784,
+          "w": 0.23832236842105264,
+          "h": 0.8736842105263158,
+          "note": "pose human-annotated",
+          "region": "torso"
+        },
+        {
+          "frame_time": 12.205451,
+          "x": 0.013733552631578938,
+          "y": 0.4035087685835989,
+          "w": 0.6172697368421053,
+          "h": 0.4421052631578947,
+          "note": "human-annotated",
+          "region": "unknown"
+        },
+        {
+          "frame_time": 11.567215,
+          "x": 0.33199013157894736,
+          "y": 0.03245613700465152,
+          "w": 0.3256578947368421,
+          "h": 0.8657894736842106,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 3.24,
+      "description": "Speech is delivered at a moderate pace in a conversational tone. The pitch rises slightly on the word \"asked\" and has a falling intonation at the end of the sentence.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 3.24,
+      "end_time": 11.72,
+      "description": "The pitch rises at the beginning of the sentence on \"Well\" and again on the word \"changed.\" The pace remains moderate, and the volume is consistent.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 11.72,
+      "end_time": 15.34,
+      "description": "The tone becomes slightly more animated with a higher pitch on the phrase \"that I like.\" It then shifts to a more level, matter-of-fact tone for \"it's very plain.\" The word \"same\" receives slight stress.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.34,
+      "description": "The subject is a woman with long, dark hair, fair skin, and noticeable eye makeup. She is wearing a black cable-knit sweater, a long silver-colored necklace with a large pendant, and grey leggings. She is seated on a bed with white bedding in a bedroom. The wall behind her is a neutral beige color. To the viewer's right is a nightstand with a lamp that has a turquoise base and a white lampshade. A textured beige pillow is also visible on the bed. Lighting is soft and even.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "High",
+      "score": 0.67,
+      "rationale": "The subject demonstrates traits consistent with high Extraversion. She maintains prolonged, direct eye contact with the camera, simulating a confident social engagement. Her vocal tone is expressive, with notable pitch variations, and her relaxed posture and slight smile project social warmth. The entire context of creating a video to answer audience questions is an inherently extraverted act of seeking social connection and interaction.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "High",
+      "score": 0.68,
+      "rationale": "A high level of Agreeableness is indicated by the subject's consistently warm and approachable demeanor. She maintains a gentle, near-continuous smile while speaking, a key nonverbal cue of friendliness and pro-social intent. Her relaxed vocal tone and the cooperative nature of the task (answering a follower's question) further support the assessment of a trusting and good-natured individual.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "High",
+      "score": 0.68,
+      "rationale": "The subject exhibits strong evidence of high Conscientiousness. The most salient cue is her ability to remain completely focused on the task of speaking to the camera, deliberately not reacting when a child enters the frame behind her. This demonstrates a high degree of self-discipline and task-orientation. Additionally, her statement about eating 'the same thing all the time' suggests a preference for routine and order, which are classic markers of a conscientious personality.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "High",
+      "score": 0.74,
+      "rationale": "While the subject presents a calm exterior, subtle cues point to high Neuroticism. Her initial downward and averted gaze suggests a moment of anxiety or self-consciousness before engaging. Furthermore, her complete lack of reaction to the child entering the scene can be interpreted not just as focus, but as a rigid coping mechanism to manage the anxiety of being recorded and to prevent being flustered or losing control of the situation. This intense focus can be a way to regulate stress in a performance context.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "High",
+      "score": 0.66,
+      "rationale": "The subject's score in Openness is supported by her attention to aesthetic self-expression, as seen in her noticeable eye makeup and distinct jewelry choices. Her vocal delivery is not flat but expressive, with varied intonation, suggesting an engagement with the nuances of communication. Her reflection that her food habits have 'changed through the past fourteen months' before settling on a routine indicates an awareness and acceptance of evolving personal experiences, which is a hallmark of this trait.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During [9.5s - 15.3s], the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Low Agreeableness, reflected by a lack of overt warmth toward others in the environment."
+        },
+        {
+          "id": "B",
+          "text": "High Extraversion, indicated by the confident and steady vocal delivery during this time."
+        },
+        {
+          "id": "C",
+          "text": "Low Neuroticism, demonstrated by the person's calm demeanor and undisturbed presentation."
+        },
+        {
+          "id": "D",
+          "text": "High Openness, suggested by the expressive and unconventional personal style on display."
+        },
+        {
+          "id": "E",
+          "text": "High Conscientiousness, shown by the ability to maintain task-focus without distraction."
+        },
+        {
+          "id": "F",
+          "text": "Low Conscientiousness, evidenced by a failure to multitask or adapt to changing events."
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. During this period, a child enters the frame behind the person, who remains completely focused on speaking to the camera without reacting. This demonstrates a high degree of self-discipline and task-orientation, which are core facets of High Conscientiousness.\n\n- Option A is a text-based distractor. It misinterprets the lack of reaction as unfriendliness, which is a plausible but incorrect social reading of a behavior better explained by task-focus.\n- Option B is a video-based distractor. While she does exhibit a confident delivery (indicative of Extraversion), this trait is supported throughout the video, not specifically by the unique behavior of ignoring the distraction in this particular time segment.\n- Option C is a text-based distractor. The person's calm demeanor could suggest Low Neuroticism, but the analysis suggests this lack of reaction could actually be a rigid coping mechanism for high anxiety (High Neuroticism).\n- Option D is a video-based distractor. Her personal style does support High Openness, but this is a static visual feature present throughout the video and is unrelated to the specific action occurring between 9.5s and 15.3s.\n- Option F is a near-miss distractor. It correctly identifies the relevant trait (Conscientiousness) but incorrectly assesses its direction. Interpreting the lack of reaction as a failure to adapt is a plausible misjudgment of the evidence for self-discipline."
+    },
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their Neuroticism level?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[3.5s - 4.0s]"
+        },
+        {
+          "id": "B",
+          "text": "[9.5s - 10.0s]"
+        },
+        {
+          "id": "C",
+          "text": "[6.8s - 7.3s]"
+        },
+        {
+          "id": "D",
+          "text": "[11.8s - 12.3s]"
+        },
+        {
+          "id": "E",
+          "text": "[0.0s - 0.5s]"
+        },
+        {
+          "id": "F",
+          "text": "[14.8s - 15.3s]"
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. The personality analysis notes that the initial downward and averted gaze suggests a moment of anxiety or self-consciousness before engaging, which is a key indicator for High Neuroticism. This behavior is observed specifically between 0.0s and 0.5s before she makes direct eye contact.\n\n- Option A is a video-based distractor. Around 3.7s, her eyebrows raise slightly, which is an expressive change but is more related to prosocial engagement (Agreeableness/Extraversion) than Neuroticism.\n- Option B is a video-based distractor. This is the moment the child begins to enter the frame, an external event rather than a change in the subject's own micro-expression.\n- Option C is a text-based distractor. This interval falls in the middle of a long period of stable eye contact and smiling, with no notable micro-expression change.\n- Option D is a video-based distractor. Around 11.8s, her smile becomes slightly more neutral, but this is a gradual transition in expression, not a distinct micro-expression change linked to Neuroticism.\n- Option F is a near-miss distractor. This interval is at the very end of the clip where her expression is relatively neutral, but the most salient and brief micro-expression change linked to anxiety occurs at the very beginning."
+    },
+    {
+      "category": "Mixed Emotion Discrimination",
+      "question": "During [0.5s - 11.8s], the person's emotional state is best characterized as which of the following? Consider both verbal and non-verbal cues.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Joyful amusement tempered by a hint of genuine surprise and intellectual curiosity."
+        },
+        {
+          "id": "B",
+          "text": "Relaxed contentment mixed with a feeling of social politeness for the audience."
+        },
+        {
+          "id": "C",
+          "text": "Confident assertiveness tempered by a calm and fully controlled outward pleasure."
+        },
+        {
+          "id": "D",
+          "text": "Nostalgic warmth mixed with a subtle, melancholic reflection on past experiences."
+        },
+        {
+          "id": "E",
+          "text": "Friendly engagement mixed with a clear, focused intent to communicate effectively."
+        },
+        {
+          "id": "F",
+          "text": "Intellectual curiosity combined with a somewhat playful teasing of her audience."
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. In this interval, the person maintains direct eye contact, a slight and continuous smile, and an expressive vocal tone. This combination strongly suggests a state of friendly social engagement (Extraversion/Agreeableness) combined with the focused intent of answering a question clearly for her audience (Conscientiousness).\n\n- Option A is a near-miss distractor. While 'joyful' and 'amusement' are plausible, there is no strong evidence of 'surprise' or 'curiosity'; the slight eyebrow raise at 3.7s is more likely an expressive emphasis than a reaction of surprise.\n- Option B is a near-miss distractor. 'Relaxed contentment' and 'social politeness' are close, but 'focused intent' (from option E) better captures the deliberate, task-oriented nature of her communication than the more passive 'politeness'.\n- Option C is a text-based distractor. 'Assertiveness' implies a level of forcefulness or dominance that is not present in her warm and approachable demeanor.\n- Option D is a text-based distractor. The question she is answering is about her current food intake; there is no verbal or nonverbal cue to suggest nostalgia or melancholy.\n- Option F is a text-based distractor. While she is engaging, there is no evidence in her tone or expression to suggest a 'teasing' attitude."
+    },
+    {
+      "category": "Temporal-Causal Reasoning",
+      "question": "Consider the sequence of behaviors observed across the video. Which of the following best describes the causal chain linking the person's actions at different moments?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A prolonged period of disciplined focus causes a compensatory social display, which then concludes with a brief, self-monitoring behavior as she finishes her statement."
+        },
+        {
+          "id": "B",
+          "text": "An initial display of social engagement is interrupted by an external event, which then causes a shift to a more rigid, self-monitoring behavior to regain control."
+        },
+        {
+          "id": "C",
+          "text": "An introductory verbal cue prompts a cognitive recall behavior, which is followed by a period of expressive narration that concludes with an emotional disengagement."
+        },
+        {
+          "id": "D",
+          "text": "An initial self-monitoring behavior leads to a prolonged compensatory social display, which is then maintained through disciplined attentional focus despite interruptions."
+        },
+        {
+          "id": "E",
+          "text": "A preparatory phase of neutral observation leads to an attempt at emotional persuasion, which is then reinforced by a display of high task-oriented discipline."
+        },
+        {
+          "id": "F",
+          "text": "A moment of cognitive recall leads to an expressive narration of past events, which is then followed by a non-verbal gesture indicating the end of the thought."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "The correct answer is D. This option correctly maps the abstract sequence to the video's events: 1) The initial averted gaze [0.0s-0.5s] is a 'self-monitoring behavior' (managing anxiety). 2) This leads to the long period of smiling and direct eye contact [0.5s-11.8s], a 'compensatory social display' to engage the audience. 3) This display is 'maintained through disciplined attentional focus' when she ignores the child [9.5s-15.3s].\n\n- Option A is a near-miss distractor that reverses the temporal order. The disciplined focus (ignoring the child) happens *after* the social display begins, not before, and the self-monitoring happens at the start, not the end.\n- Option B has an incorrect causal link. The external event (child entering) does not *cause* a shift to self-monitoring; rather, her pre-existing state of disciplined focus allows her to *ignore* the interruption.\n- Option C is a text-based distractor. The terms 'cognitive recall' and 'emotional disengagement' do not accurately describe the observed behaviors of social engagement and maintained focus.\n- Option E is a text-based distractor. The video does not show an attempt at 'emotional persuasion' but rather a factual, albeit warm, explanation.\n- Option F is a video-based distractor that uses incorrect abstract labels. She is not narrating 'past events' but current habits, and there is no concluding non-verbal gesture."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around [0.7s], a region was detected in the video (x=0.248, y=0.719, w=0.460, h=0.276, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A subtle and relaxed raising of the eyebrows in a moment of emphasis."
+        },
+        {
+          "id": "B",
+          "text": "A faint smile that becomes more neutral while the person is speaking."
+        },
+        {
+          "id": "C",
+          "text": "Sustained and direct eye contact being made with the camera's lens."
+        },
+        {
+          "id": "D",
+          "text": "An upright and straight posture being maintained by the person's torso."
+        },
+        {
+          "id": "E",
+          "text": "Holding a small, light-colored object with both hands upon her lap."
+        },
+        {
+          "id": "F",
+          "text": "A child is seen moving across the background area behind the person."
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. The provided coordinates at 0.7s correspond to a bounding box around the person's lap area. The observation logs confirm that in this region and at this time, she is holding a small, light-colored object in her hands.\n\n- Option A is a video-based distractor. An eyebrow raise occurs, but it happens around 3.7s and is located in the upper facial region, not in the specified bbox.\n- Option B is a video-based distractor. A smile is present, but it is located in the mouth region, and the change to a more neutral expression happens much later in the video.\n- Option C is a video-based distractor. Direct eye contact is a key feature, but it occurs in the eye region, which is spatially distinct from the provided coordinates.\n- Option D is a video-based distractor. Her upright posture is an action of the torso, a different body region from the one identified by the bounding box.\n- Option F is a near-miss distractor. A child does appear, but this happens much later (starting around 9.5s) and in the background, not in the specified bbox on the subject's lap at 0.7s."
+    },
+    {
+      "category": "Counterfactual Reasoning",
+      "question": "If the person had NOT exhibited the behavior observed around [9.5s - 15.3s], which of the following personality assessments would be MOST affected?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Agreeableness would be assessed as higher, since the observed behavior could be interpreted as being somewhat dismissive or cold towards an interruption."
+        },
+        {
+          "id": "B",
+          "text": "Extraversion would be assessed as lower, as that behavior is a primary indicator of her social confidence and ability to command an audience's attention."
+        },
+        {
+          "id": "C",
+          "text": "Openness would be assessed as lower, because her ability to handle unexpected events is a key component of her intellectual and experiential curiosity."
+        },
+        {
+          "id": "D",
+          "text": "Neuroticism would be assessed as much lower, as that moment is the main piece of evidence suggesting her ability to manage performance-related stress."
+        },
+        {
+          "id": "E",
+          "text": "Conscientiousness would be rated lower, because the main evidence for her task-focus and self-discipline comes from that specific behavioral moment."
+        },
+        {
+          "id": "F",
+          "text": "Conscientiousness would be rated as even higher, as reacting to the interruption would have demonstrated adaptive focus-shifting, a related skill."
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. The behavior from 9.5s to 15.3s is ignoring the child entering the frame. The personality analysis explicitly cites this as the 'most salient cue' for High Conscientiousness, demonstrating 'a high degree of self-discipline and task-orientation'. Removing this behavior would remove the strongest evidence for this trait, thus lowering the assessment.\n\n- Option A is a text-based distractor. While plausible, her Agreeableness score is primarily based on her warm tone and smile throughout the video, not this specific moment. Removing this behavior would not significantly impact the Agreeableness rating.\n- Option B is a video-based distractor. Her Extraversion is supported by her sustained eye contact, expressive tone, and the general act of making the video, all of which are independent of the behavior in question.\n- Option C is a text-based distractor. Openness is assessed based on her aesthetic choices and expressive communication style, neither of which is related to ignoring the child.\n- Option D is a near-miss distractor. The analysis does link this behavior to High Neuroticism (as a rigid coping mechanism). However, this is a more interpretive link than the direct link to Conscientiousness (task-focus). Furthermore, the option states the rating would be 'much lower', but the analysis already notes her calm exterior, so removing this one piece of evidence for a coping mechanism might not drastically change the overall score as much as it would for Conscientiousness.\n- Option F is a near-miss distractor. It correctly identifies the relevant trait (Conscientiousness) but suggests the opposite effect. Removing the behavior would weaken, not strengthen, the assessment of this trait."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator20",
+      "version": 4,
+      "clues_total": 19,
+      "clues_correct": 14,
+      "clues_wrong_corrected": 5,
+      "clues_missing_skipped": 0,
+      "clues_bonus": 0
+    }
+  }
+}

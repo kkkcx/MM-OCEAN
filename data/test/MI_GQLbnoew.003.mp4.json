@@ -1,0 +1,421 @@
+{
+  "video_id": "MI_GQLbnoew.003.mp4",
+  "video_path": "MI_GQLbnoew.003.mp4",
+  "transcription": "My husband will try to get me to go out on dates, and I just didn't want to be seen in public the way that I looked. I tried absolutely everything out there I tried natural supplements, specifically, a green tea type supplement that I spent a lot of-",
+  "original_scores": {
+    "extraversion": 0.5420560747663552,
+    "agreeableness": 0.7032967032967032,
+    "conscientiousness": 0.6699029126213591,
+    "neuroticism": 0.4791666666666667,
+    "openness": 0.45555555555555555
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 15.09,
+      "description": "The subject maintains a direct gaze at the camera with her eyes open normally and blinking at a natural rate. Her eyebrows are initially neutral, then raise slightly and her mouth opens wider to emphasize the phrase \"absolutely everything\" (at 0:07). Her facial muscles are generally relaxed, and her mouth movements are synchronized with her speech.",
+      "bboxes": [
+        {
+          "frame_time": 11.954651,
+          "x": 0.34679276315789476,
+          "y": 0.2850877159520199,
+          "w": 0.18651315789473685,
+          "h": 0.11052631578947368,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 1.266503,
+          "x": 0.3379111842105263,
+          "y": 0.2298245580572831,
+          "w": 0.18651315789473685,
+          "h": 0.08157894736842106,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 7.251138,
+          "x": 0.3897203947368421,
+          "y": 0.4377192948993884,
+          "w": 0.11398026315789474,
+          "h": 0.10526315789473684,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 7.874014,
+          "x": 0.3216282894736842,
+          "y": 0.1429824527941252,
+          "w": 0.2294407894736842,
+          "h": 0.4368421052631579,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 7.874014,
+          "x": 0.37935855263157897,
+          "y": 0.4377192948993884,
+          "w": 0.11990131578947369,
+          "h": 0.09210526315789473,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 15.09,
+      "description": "The subject is sitting upright and is framed from the chest up. She leans slightly forward toward the camera. Her head moves in small, subtle nods that correspond with the rhythm and emphasis of her speech.",
+      "bboxes": [
+        {
+          "frame_time": 6.742105,
+          "x": 0.2520559210526316,
+          "y": 0.166666663320441,
+          "w": 0.4485197368421053,
+          "h": 0.8315789473684211,
+          "note": "human-annotated",
+          "region": "unknown"
+        },
+        {
+          "frame_time": 6.742105,
+          "x": 0.29498355263157894,
+          "y": 0.14824561068886205,
+          "w": 0.2679276315789474,
+          "h": 0.65,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 6.742105,
+          "x": 0.14695723684210527,
+          "y": 0.5192982422678094,
+          "w": 0.5684210526315789,
+          "h": 0.3736842105263158,
+          "note": "pose human-annotated",
+          "region": "torso"
+        },
+        {
+          "frame_time": 7.086612,
+          "x": 0.3216282894736842,
+          "y": 0.15350876858359888,
+          "w": 0.23832236842105264,
+          "h": 0.4368421052631579,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 8.646834,
+          "x": 0.2979440789473684,
+          "y": 0.13771929489938836,
+          "w": 0.28421052631578947,
+          "h": 0.46578947368421053,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 5.7,
+      "description": "The subject speaks at a moderate, conversational pace with a clear, steady vocal tone. Her pitch falls at the end of the statement ending in \"...looked.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 5.7,
+      "end_time": 9.4,
+      "description": "The subject's speech rate increases slightly. Her volume and pitch noticeably increase to place stress on the words \"absolutely everything\".",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 9.4,
+      "end_time": 15.09,
+      "description": "The speech rate returns to a moderate pace. There is a slight rising inflection on the word \"supplements\", and her pitch lowers at the end of the final phrase.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.09,
+      "description": "The subject is a woman with fair skin and brown hair. She is wearing a black, scoop-neck top and a silver necklace with a dark pendant. She is in an indoor setting with light-colored walls. Behind her and to her left (viewer's right), there is a window with a blue and white patterned curtain and a dark-colored chair. On the wall directly behind her, two framed pieces of art are visible.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 14.830026,
+      "end_time": 15.830026,
+      "description": "There is a white sofa in front of the window with a pillow on it",
+      "bboxes": [
+        {
+          "frame_time": 15.330026,
+          "x": 0.7716282894736843,
+          "y": 0.6614035054257041,
+          "w": 0.19391447368421053,
+          "h": 0.2631578947368421,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Medium",
+      "score": 0.54,
+      "rationale": "The subject's Extraversion is rated as Medium. While she engages the audience by looking directly at the camera and using vocal emphasis ('absolutely everything'), which are moderately extraverted behaviors, the content of her speech describes past social avoidance ('didn't want to be seen in public'). Her generally moderate speaking pace and subtle head nods, rather than expansive gestures, also align with a mid-range score, indicating a balance between social expressiveness and introverted tendencies.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "High",
+      "score": 0.7,
+      "rationale": "The subject's Agreeableness is rated as High. Her demeanor conveys trust and sincerity; she maintains direct eye contact with the camera and has a generally relaxed facial expression. The cooperative nature of her communication is further supported by subtle head nods that synchronize with her speech. Sharing a personal vulnerability in a calm manner is a strategy to build rapport and connection, which is characteristic of highly agreeable individuals.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "High",
+      "score": 0.67,
+      "rationale": "The subject's Conscientiousness is rated as High. This is supported by her clear, steady, and structured speech, indicating deliberate communication. Her story itself reveals a conscientious, problem-solving mindset, as she actively sought solutions ('tried absolutely everything') to an issue she was facing. Furthermore, her upright posture and slight lean forward suggest focus and diligence in the task of telling her story.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Medium",
+      "score": 0.48,
+      "rationale": "The subject's Neuroticism is rated as Medium. She explicitly discusses past experiences of social anxiety and self-consciousness ('didn't want to be seen in public the way that I looked'), which are core facets of neuroticism. However, her current presentation is composed and controlled, with a steady voice and relaxed facial muscles. This juxtaposition of anxious content with a calm demeanor suggests that while she may be prone to such feelings, she manages them effectively, placing her in the medium range for this trait.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "Medium",
+      "score": 0.46,
+      "rationale": "The subject's Openness is rated as Medium. She demonstrates a practical willingness to explore new solutions by trying various supplements to address her problem. However, the solutions mentioned are conventional (e.g., green tea supplements) rather than highly innovative or abstract. Her straightforward narrative style and traditional background environment do not suggest the strong preference for novelty or complexity associated with high openness, thus supporting a mid-range score.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During 5.7s - 9.4s, the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "High Extraversion due to the increased volume and faster pace of speech"
+        },
+        {
+          "id": "B",
+          "text": "Low Conscientiousness because of the disorganized narrative structure"
+        },
+        {
+          "id": "C",
+          "text": "High Conscientiousness from the verbal emphasis on problem-solving"
+        },
+        {
+          "id": "D",
+          "text": "High Openness as a result of her willingness to try unfamiliar things"
+        },
+        {
+          "id": "E",
+          "text": "Medium Neuroticism based on her calm demeanor while discussing issues"
+        },
+        {
+          "id": "F",
+          "text": "Low Agreeableness evidenced by the assertive and demanding vocal tone"
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. During this interval, the person emphasizes the phrase 'tried absolutely everything,' which highlights a diligent, proactive, and methodical approach to solving a problem, a key marker of high Conscientiousness. \n- Option A is a near-miss distractor. While vocal emphasis is a real behavior in this segment, it's interpreted here as evidence for Extraversion. However, the *content* and *context* of the speech (problem-solving) point more strongly to Conscientiousness, making this a subtle misattribution.\n- Option B is a near-miss distractor. It correctly identifies the relevant trait (Conscientiousness) but gets the direction wrong; her narrative is actually quite structured, not disorganized.\n- Option D is a text-based distractor. The phrase 'tried everything' might suggest Openness, but the solutions mentioned (supplements) are conventional, not novel, so this relies on a surface-level language interpretation.\n- Option E is a video-based distractor. The overall Medium Neuroticism assessment is correct, but it's primarily supported by the combination of anxious *content* from the first part of the video (0-5.7s) and her calm demeanor *throughout*, not specifically by the behavior in the 5.7s-9.4s segment.\n- Option F is a text-based distractor. Her tone is emphatic, not assertive or demanding, so this mischaracterizes the audio cues to fit a plausible but incorrect trait assessment."
+    },
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their Medium Extraversion level?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[1.1s - 1.5s]"
+        },
+        {
+          "id": "B",
+          "text": "[3.8s - 4.2s]"
+        },
+        {
+          "id": "C",
+          "text": "[7.1s - 7.5s]"
+        },
+        {
+          "id": "D",
+          "text": "[8.4s - 8.8s]"
+        },
+        {
+          "id": "E",
+          "text": "[11.8s - 12.2s]"
+        },
+        {
+          "id": "F",
+          "text": "[14.5s - 14.9s]"
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. Around 7.3s, the person's mouth widens and eyebrows lift slightly to emphasize 'absolutely everything.' This expressive amplification is a key non-verbal strategy for building rapport and conveying sincerity, which is central to her High Agreeableness. \n- Option A is a video-based distractor. This interval shows her neutral starting expression before she begins speaking, which is a baseline, not a notable change.\n- Option B is a text-based distractor. This interval corresponds to regular speech with no specific notable expression change mentioned in the data.\n- Option D is a video-based distractor. This interval contains a subtle head nod, which is a real behavior but is more related to synchrony and less of a distinct facial expression change than the one at 7.3s.\n- Option E is a near-miss distractor. This interval corresponds to a normal eye blink. While technically a facial change, it is not the most *relevant* or expressive change related to conveying sincerity and emphasis for Agreeableness.\n- Option F is a text-based distractor. This interval is near the end of the clip as her speech concludes, a time with no significant expressive shift."
+    },
+    {
+      "category": "Temporal-Causal Reasoning",
+      "question": "Consider the sequence of behaviors observed across the video. Which of the following best describes the causal chain linking the person's actions at different moments?",
+      "options": [
+        {
+          "id": "A",
+          "text": "An act of emotional regulation leads to a compensatory display of effort, causing a final disclosure of vulnerability."
+        },
+        {
+          "id": "B",
+          "text": "A display of proactive effort causes a state of emotional dysregulation, resolved by a concluding statement of vulnerability."
+        },
+        {
+          "id": "C",
+          "text": "A disclosure of past vulnerability is followed by a compensatory display of proactive effort, framed by emotional regulation."
+        },
+        {
+          "id": "D",
+          "text": "A period of social engagement leads to self-monitoring, which is then followed by a corrective statement about past actions."
+        },
+        {
+          "id": "E",
+          "text": "A disclosure of past vulnerability directly causes a state of emotional regulation, with proactive effort as a parallel behavior."
+        },
+        {
+          "id": "F",
+          "text": "A non-verbal cue of emphasis triggers a moment of self-reflection, which is then justified by a rational explanation."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. This option accurately maps the video's narrative and behavioral flow. First, she discloses her past vulnerability (0-5.7s). This is causally followed by a compensatory display of effort ('tried absolutely everything' at 5.7-9.4s) to show she was not passive. This entire narrative is framed by her continuous emotional regulation (calm demeanor, steady voice throughout) to present the story from a stable perspective.\n- Option A is a distractor with reversed temporal order. The disclosure of vulnerability happens first, not last.\n- Option B is a distractor with wrong causality. The display of effort does not cause emotional dysregulation; in fact, she remains regulated throughout.\n- Option D is a text-based distractor. It uses plausible psychological terms ('self-monitoring', 'corrective statement') that do not accurately describe the sequence of events in the video.\n- Option E is a near-miss distractor. It correctly identifies the components but describes the proactive effort as a 'parallel behavior.' The effort is better understood as a *response* to the vulnerability (a compensatory act), not just a parallel one, making the causal link in C stronger.\n- Option F is a video-based distractor. It scrambles the temporal order and misinterprets causality, suggesting the emphasis at 7.3s *triggers* the reflection, when the reflection (at 0-5.7s) actually precedes it."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 1.3s, a region was detected in the video (x=0.338, y=0.230, w=0.187, h=0.082, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Lip movements that are precisely synchronized with verbal speech"
+        },
+        {
+          "id": "B",
+          "text": "An overall relaxation shown across the lower facial musculature"
+        },
+        {
+          "id": "C",
+          "text": "A neutral and relaxed brow position, indicating a calm baseline"
+        },
+        {
+          "id": "D",
+          "text": "A rapid and frequent eye-blinking pattern suggesting alertness"
+        },
+        {
+          "id": "E",
+          "text": "A generally upright and stable posture maintained by the torso"
+        },
+        {
+          "id": "F",
+          "text": "A camera framing that captures the person's head and shoulders"
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. The provided bounding box at 1.3s is located directly on the person's eyebrows. At this moment, before she speaks emphatically, her expression is neutral and her eyebrows are in a relaxed, baseline position, as noted in the observation data.\n- Option A is a video-based distractor. Lip movements are happening, but they are located in the mouth region, which is outside the specified bounding box.\n- Option B is a near-miss distractor. The face is generally relaxed, but this is a general description of the whole face. The bounding box isolates the *eyebrows specifically*, and C is the most precise description for that region.\n- Option D is a video-based distractor. While she does blink, this action occurs in the eye region, which is below the specified bounding box for the eyebrows.\n- Option E is a video-based distractor. The posture is an action of the torso, which is far outside the small bounding box located on the face.\n- Option F is a text-based distractor. This describes the videography (the shot composition), not an action or expression performed by the person within the specified region."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "The video shows a specific moment of non-verbal emphasis used to underscore a key point in the narrative. Which option correctly identifies the time and location of this expressive behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[8.6s] (x=0.298, y=0.138, w=0.284, h=0.466)"
+        },
+        {
+          "id": "B",
+          "text": "[2.5s] (x=0.379, y=0.438, w=0.120, h=0.092)"
+        },
+        {
+          "id": "C",
+          "text": "[7.3s] (x=0.390, y=0.438, w=0.114, h=0.105)"
+        },
+        {
+          "id": "D",
+          "text": "[7.3s] (x=0.347, y=0.285, w=0.187, h=0.111)"
+        },
+        {
+          "id": "E",
+          "text": "[4.1s] (x=0.550, y=0.550, w=0.100, h=0.100)"
+        },
+        {
+          "id": "F",
+          "text": "[13.2s] (x=0.200, y=0.300, w=0.150, h=0.150)"
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. The key moment of emphasis occurs at 7.3s when she says 'absolutely everything.' The observation data notes that her mouth opens wider at this time to provide that emphasis. The coordinates in option C correctly locate the mouth region at that specific timestamp.\n- Option A is a video-based distractor. It provides the correct time and location for a subtle head nod, which is a form of emphasis, but the primary facial expression of emphasis is the mouth movement.\n- Option B is a video-based distractor. It shows a valid bounding box for the mouth, but at the wrong time (2.5s), when her expression is more neutral.\n- Option D is a near-miss distractor. It has the correct timestamp (7.3s) but the bounding box is incorrectly placed over the eye region, not the mouth where the primary expressive action is occurring.\n- Option E is a text-based distractor. It's a plausible-looking but incorrect combination of time and coordinates that does not correspond to any key event.\n- Option F is a text-based distractor. This is another plausible but incorrect combination of time and location."
+    },
+    {
+      "category": "Counterfactual Reasoning",
+      "question": "If the person had NOT exhibited the behavior observed around 0.0s - 5.7s, which of the following personality assessments would be MOST affected?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Conscientiousness might shift from High to Medium as the segment lacks problem-solving evidence."
+        },
+        {
+          "id": "B",
+          "text": "Extraversion would shift from Medium to High because the main evidence for introversion is removed."
+        },
+        {
+          "id": "C",
+          "text": "Neuroticism would shift from Medium to Low as the key verbal evidence for social anxiety is absent."
+        },
+        {
+          "id": "D",
+          "text": "Agreeableness may shift from High to Medium, as sharing vulnerability is a sign of building rapport."
+        },
+        {
+          "id": "E",
+          "text": "Neuroticism would shift from Medium to High as removing the statement implies suppression of anxiety."
+        },
+        {
+          "id": "F",
+          "text": "Openness would be affected because discussing feelings is a sign of being open to new experiences."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. The behavior in this segment is the verbal statement 'I just didn't want to be seen in public the way that I looked,' which is the most direct and explicit evidence for her social anxiety and self-consciousness. The Medium Neuroticism score is based on the contrast between this anxious content and her calm delivery. Without this content, the primary evidence for neuroticism vanishes, and her assessment would likely be Low based on her composure alone.\n- Option A is a video-based distractor. The evidence for High Conscientiousness comes from a *different* segment (5.7s onwards, where she discusses her problem-solving), so removing the first segment would not affect this rating.\n- Option B is a video-based distractor. While the statement does relate to introverted tendencies (social avoidance), her Medium Extraversion score is also based on her moderate speaking pace and limited gestures throughout. Removing this one statement would have some impact, but less than on Neuroticism, for which it is the primary evidence.\n- Option D is a text-based distractor. While sharing vulnerability can build rapport (Agreeableness), her Agreeableness score is also strongly supported by continuous cues like direct eye contact and a calm tone. The impact would be less significant than on the Neuroticism score.\n- Option E is a near-miss distractor. It correctly identifies that Neuroticism would be most affected, but proposes the wrong direction of change. Removing evidence of anxiety would decrease the score, not increase it.\n- Option F is a text-based distractor. It makes a plausible but weak connection. Her Openness score is based more on her practical approach to trying supplements, not this specific emotional disclosure."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [
+      {
+        "check": "A",
+        "q_idx": 1,
+        "issue": "The correct answer ([7.1s - 7.5s]) points to a moment of vocal and facial emphasis. The personality analyses explicitly link this specific behavior ('vocal emphasis') to Extraversion, and the content ('tried absolutely everything') to Conscientiousness. The rationale for High Agreeableness is based on general demeanor (sincerity, calm) and sharing vulnerability, not this specific moment of emphasis. Therefore, the question creates a semantic inconsistency by asking for an event relevant to Agreeableness but pointing to one that is more strongly associated with other traits in the provided analysis.",
+        "action": "Modified the question stem to ask about Extraversion, which makes the correct answer logically consistent with the provided personality rationale."
+      }
+    ],
+    "corrections": {
+      "mcq_questions[1].question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their Medium Extraversion level?"
+    },
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator19",
+      "version": 1,
+      "clues_total": 15,
+      "clues_correct": 13,
+      "clues_wrong_corrected": 1,
+      "clues_missing_skipped": 0,
+      "clues_bonus": 1
+    }
+  }
+}

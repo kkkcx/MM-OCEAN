@@ -1,0 +1,486 @@
+{
+  "video_id": "XT4rTk6-Etc.003.mp4",
+  "video_path": "XT4rTk6-Etc.003.mp4",
+  "transcription": "It's not to say I want to stop Happy Wars, but I want to cut down on it a little bit. Obviously, when you're doing the same thing over and over again, for like a year ...",
+  "original_scores": {
+    "extraversion": 0.48598130841121495,
+    "agreeableness": 0.6043956043956044,
+    "conscientiousness": 0.5922330097087379,
+    "neuroticism": 0.4791666666666667,
+    "openness": 0.45555555555555555
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 3.4,
+      "description": "The man looks directly at the camera, his eyes are slightly closed as he speaks. His eyebrows and facial muscles are in a relatively neutral state.",
+      "bboxes": [
+        {
+          "frame_time": 0,
+          "x": 0.3704769736842105,
+          "y": 0.2692982422678094,
+          "w": 0.17615131578947368,
+          "h": 0.11578947368421053,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 0,
+          "x": 0.3882401315789474,
+          "y": 0.23771929489938837,
+          "w": 0.1569078947368421,
+          "h": 0.3236842105263158,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 3.4,
+      "end_time": 5.5,
+      "description": "His gaze briefly shifts up and to his right (viewer's left) as his eyebrows raise slightly. He then returns his gaze to the camera.",
+      "bboxes": [
+        {
+          "frame_time": 3.4,
+          "x": 0.4178453947368421,
+          "y": 0.21140350542570416,
+          "w": 0.1524671052631579,
+          "h": 0.17894736842105263,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 3.4,
+          "x": 0.41932565789473686,
+          "y": 0.2140350843730726,
+          "w": 0.14950657894736843,
+          "h": 0.16578947368421051,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 3.4,
+          "x": 0.42672697368421053,
+          "y": 0.21929824226780942,
+          "w": 0.14210526315789473,
+          "h": 0.17105263157894737,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 5.5,
+      "end_time": 11.53,
+      "description": "He maintains steady eye contact with the camera. His expression is neutral, with his mouth moving naturally as he speaks.",
+      "bboxes": [
+        {
+          "frame_time": 5.5,
+          "x": 0.41488486842105265,
+          "y": 0.22192982121517785,
+          "w": 0.140625,
+          "h": 0.15789473684210525,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 5.5,
+          "x": 0.39120065789473685,
+          "y": 0.24824561068886206,
+          "w": 0.16578947368421054,
+          "h": 0.2578947368421053,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 5.5,
+          "x": 0.4296875,
+          "y": 0.39824561068886205,
+          "w": 0.10805921052631579,
+          "h": 0.12368421052631579,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 11.53,
+      "end_time": 15.35,
+      "description": "His brow furrows slightly and his eyelids lower as he speaks, adding emphasis to his words. His gaze remains fixed on the camera.",
+      "bboxes": [
+        {
+          "frame_time": 11.53,
+          "x": 0.4060032894736842,
+          "y": 0.2429824527941252,
+          "w": 0.13914473684210527,
+          "h": 0.15,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 11.53,
+          "x": 0.4060032894736842,
+          "y": 0.23771929489938837,
+          "w": 0.1450657894736842,
+          "h": 0.12368421052631579,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 2.6,
+      "description": "The man sits on a couch, holding a black smartphone in his left hand and touching a lavalier microphone clipped to his shirt with his right hand.",
+      "bboxes": [
+        {
+          "frame_time": 2.606871,
+          "x": 0.4385690789473684,
+          "y": 0.6192982422678094,
+          "w": 0.15542763157894737,
+          "h": 0.3131578947368421,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 2.6,
+      "end_time": 15.35,
+      "description": "He releases the microphone and begins making small, rhythmic, illustrative gestures with his right hand in front of his chest. The smartphone in his left hand remains relatively still.",
+      "bboxes": [
+        {
+          "frame_time": 15.3153,
+          "x": 0.4474506578947368,
+          "y": 0.6219298212151778,
+          "w": 0.17171052631578948,
+          "h": 0.32105263157894737,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 15.3153,
+          "x": 0.43560855263157894,
+          "y": 0.6192982422678094,
+          "w": 0.19391447368421053,
+          "h": 0.3078947368421053,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 2.8,
+      "description": "Speech is delivered at a moderate, conversational pace with a falling pitch at the end of the word \"life.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 2.8,
+      "end_time": 10.5,
+      "description": "The speech rate increases slightly. There is a slight upward inflection and stress placed on the phrase \"huge one\" and again on \"five, six weeks.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 10.5,
+      "end_time": 15.35,
+      "description": "The pace becomes more deliberate, with stressed, punctuated delivery on the words \"non-stop,\" \"snoozing,\" and \"sick.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.35,
+      "description": "A young adult male with light skin, short brown hair styled upward, and a full beard is shown from the chest up. He is wearing a dark teal, long-sleeved shirt with a small black lavalier microphone clipped to the collar. He is sitting indoors on a beige, textured couch against a plain, off-white wall. A red cushion is visible on the couch to his left (viewer's right). The lighting is even and bright from the front.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Medium",
+      "score": 0.49,
+      "rationale": "The subject exhibits a blend of social engagement and personal containment, consistent with a Medium Extraversion score. On one hand, maintaining steady eye contact, using illustrative hand gestures, and modulating vocal tone for emphasis are all behaviors aimed at engaging an audience. On the other hand, his gestures are described as 'small and rhythmic' rather than large and expansive, and his facial expressions are frequently 'neutral.' This controlled, rather than overtly energetic, style of presentation suggests a moderate level of extraversion.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "High",
+      "score": 0.6,
+      "rationale": "The subject's communication style strongly supports a High level of Agreeableness. His vocal tone is 'conversational,' and his phrasing in the transcription ('It's not to say I want to stop... but I want to cut down a little bit') is diplomatic and considerate, aiming to maintain goodwill with his audience. Furthermore, his steady eye contact and generally neutral, calm facial expressions create a sense of trust and non-confrontation, which are hallmark behaviors of agreeable individuals.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Medium",
+      "score": 0.59,
+      "rationale": "A Medium Conscientiousness score is supported by the evidence of both planning and naturalness. The organized setting (good lighting, use of a lavalier microphone) indicates forethought. His speech becomes more 'deliberate,' with calculated 'emphasis and pauses' on key words, reflecting a structured approach to communication. However, the overall tone remains 'conversational,' not rigidly scripted, suggesting a balance between preparation and adaptable delivery, which aligns with a medium level of this trait.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Medium",
+      "score": 0.48,
+      "rationale": "The subject demonstrates general emotional stability, but with subtle indicators of mild situational stress, warranting a Medium Neuroticism score. His composure is evident through 'steady eye contact' and a 'neutral' facial state. However, the initial action of touching his microphone can be interpreted as a minor self-soothing or grounding gesture, and the momentary increase in speech pace suggests a slight rise in arousal. This combination of overall calmness with subtle signs of self-consciousness is characteristic of a mid-range score.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "Medium",
+      "score": 0.46,
+      "rationale": "The subject's score for Openness is Medium, reflecting a combination of introspective thought and conventional presentation. The content of his speech—reflecting on the monotony of a routine and expressing a desire for change—indicates a capacity for self-examination. The brief upward-left eye gaze is also often associated with cognitive processing. However, his physical environment is plain ('simpleoff whitewall') and his personal style is conventional, lacking strong cues of aesthetic-driven or unconventional inclinations. This balance supports a medium classification.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During 0.0s - 2.8s, the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A high degree of Openness, because the reflection on routine suggests introspection."
+        },
+        {
+          "id": "B",
+          "text": "A high level of Extraversion, evidenced by the direct and engaging way of speaking."
+        },
+        {
+          "id": "C",
+          "text": "A high level of Agreeableness, reflected in the diplomatic and considerate phrasing."
+        },
+        {
+          "id": "D",
+          "text": "A low level of Agreeableness, as the statement implies a subtle form of complaint."
+        },
+        {
+          "id": "E",
+          "text": "A low level of Conscientiousness due to the expressed desire to reduce an activity."
+        },
+        {
+          "id": "F",
+          "text": "A medium level of Neuroticism, suggested by the slight vocal stress on some words."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. During this interval, the person says, 'It's not to say I want to stop... but I want to cut down on it a little bit.' This careful, diplomatic phrasing is a strong indicator of High Agreeableness, as noted in the personality analysis.\n\n- Option A is a text-based distractor. While reflecting on routine is related to Openness, the *manner* of expression (diplomatic phrasing) is a much stronger and more direct cue for Agreeableness in this specific moment.\n- Option B is a video-based distractor. The person does exhibit engaging behaviors (like later hand gestures), but the primary evidence in this specific verbal segment points to Agreeableness, not Extraversion.\n- Option D is a near-miss distractor. It correctly identifies the relevant trait (Agreeableness) but interprets the evidence in the opposite direction. The phrasing is considerate, not complaining.\n- Option E is a text-based distractor. It makes a plausible but incorrect inference from the text. Wanting to cut down on a repetitive task does not inherently mean low conscientiousness; in fact, the self-awareness could suggest the opposite.\n- Option F is a near-miss distractor. While there are some signs of mild stress (like the mic touch) that relate to Neuroticism, the verbal content itself is the most salient behavioral cue in this time frame, pointing directly to Agreeableness."
+    },
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their Openness level?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The interval from 00.0 seconds to 02.6 seconds."
+        },
+        {
+          "id": "B",
+          "text": "The interval from 11.5 seconds to 13.5 seconds."
+        },
+        {
+          "id": "C",
+          "text": "The interval from 03.4 seconds to 05.5 seconds."
+        },
+        {
+          "id": "D",
+          "text": "The interval from 05.5 seconds to 08.0 seconds."
+        },
+        {
+          "id": "E",
+          "text": "The interval from 13.8 seconds to 15.3 seconds."
+        },
+        {
+          "id": "F",
+          "text": "The interval from 08.5 seconds to 11.0 seconds."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. The personality analysis for Openness explicitly mentions that 'The brief upward-left eye gaze is also often associated with cognitive processing.' The observation cues confirm that his gaze moves 'upward and left' between 3.4s and 5.5s, making this the most relevant interval for the Openness assessment.\n\n- Option A is a video-based distractor. This interval shows a neutral expression and the hand touching the microphone, which is more relevant to Neuroticism.\n- Option B is a video-based distractor. This period involves the forehead furrowing for emphasis, which is a communicative gesture rather than a cognitive processing one.\n- Option D is a video-based distractor. This interval is characterized by steady eye contact and a neutral expression, indicating engagement, not the specific cognitive cue for Openness.\n- Option E is a text-based distractor, representing another part of the emphatic expression period, but it is not the key moment for Openness.\n- Option F is a text-based distractor, representing a period of continued neutral expression and gesturing, which doesn't contain the specific micro-expression linked to Openness."
+    },
+    {
+      "category": "Mixed Emotion Discrimination",
+      "question": "During 11.5s - 15.3s, the person's emotional state is best characterized as which of the following? Consider both verbal and non-verbal cues.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Deep resignation mixed with a subtle undercurrent of concealed anxiety."
+        },
+        {
+          "id": "B",
+          "text": "Bored monotony concerning his subject tempered by some forced enthusiasm."
+        },
+        {
+          "id": "C",
+          "text": "Mild frustration regarding his topic tempered by a deliberate emphasis."
+        },
+        {
+          "id": "D",
+          "text": "Wistful regret about past actions mixed with a hint of growing bitterness."
+        },
+        {
+          "id": "E",
+          "text": "Hesitant disclosure of his feelings tempered by a show of feigned confidence."
+        },
+        {
+          "id": "F",
+          "text": "Reflective thoughtfulness mixed with a degree of surprise at his own words."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. In this interval, the person emphasizes words like 'non-stop' and 'sick' while his forehead furrows and eyelids lower. This combination suggests a negative feeling (mild frustration or seriousness about the topic) coupled with a controlled, intentional effort to communicate that feeling (deliberate emphasis).\n\n- Option A is a near-miss distractor. While the emotion is negative, 'deep resignation' and 'anxiety' are not quite right; the cues point more to active emphasis rather than passive resignation.\n- Option B is a text-based distractor. The transcript mentions doing the 'same thing over and over,' which could imply monotony, but his non-verbal cues show deliberate emphasis, not forced enthusiasm.\n- Option D is a text-based distractor. It speculates on emotions like regret and bitterness that are plausible given the topic, but are not directly supported by the observed non-verbal behavior, which is more focused on communication.\n- Option E is a video-based distractor. 'Hesitant disclosure' might relate to the earlier mic-touching gesture, but during 11.5s-15.3s, his expression is emphatic and certain, not hesitant.\n- Option F is a video-based distractor. 'Reflective thoughtfulness' better describes the earlier upward gaze (3.4s-5.5s), not the direct, emphatic expression seen here."
+    },
+    {
+      "category": "Temporal-Causal Reasoning",
+      "question": "Consider the sequence of behaviors observed across the video. Which of the following best describes the causal chain linking the person's actions at different moments?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A regulated emphatic display that then prompts a cognitive retrieval cue, which is followed by a compensatory self-soothing gesture."
+        },
+        {
+          "id": "B",
+          "text": "A statement of a problem, followed by a period of apathetic pausing, and concluding with an expression of resigned acceptance."
+        },
+        {
+          "id": "C",
+          "text": "An initial self-monitoring gesture, which is followed by a cognitive retrieval cue, leading into a final regulated emphatic display."
+        },
+        {
+          "id": "D",
+          "text": "An initial self-monitoring gesture, then a sustained audience engagement display, which finally results in cognitive disengagement."
+        },
+        {
+          "id": "E",
+          "text": "A cognitive retrieval cue that leads to a regulated emphatic display, which is then concluded by a final self-soothing motion."
+        },
+        {
+          "id": "F",
+          "text": "An expression of personal dissatisfaction, which transitions to a display of creative exploration, ending with a rational justification."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. This option accurately maps the abstract sequence to the video's events: 1) The initial mic touch (0.0s-2.6s) is a self-monitoring/grounding gesture. 2) The upward-left gaze (3.4s-5.5s) is a cognitive retrieval cue to formulate his thoughts. 3) The furrowed brow and deliberate speech at the end (11.5s-15.3s) constitute a regulated emphatic display to persuade the audience.\n\n- Option A is a distractor with reversed temporal order. It places the emphatic display first and the self-soothing gesture last, which is the opposite of what occurs.\n- Option B is a text-based distractor. The person is not apathetic or resigned; he is actively and deliberately communicating his point of view.\n- Option D is a near-miss distractor. The sequence starts correctly, but it misinterprets the final phase. The emphatic display is a form of *heightened* engagement, not cognitive disengagement.\n- Option E is a distractor with an incorrect temporal order and a wrong causal link. It places the cognitive cue first and misplaces the self-soothing gesture at the end instead of the beginning.\n- Option F is a text-based distractor. The abstract terms 'creative exploration' and 'rational justification' do not accurately describe the observed behaviors, which are more about self-regulation and persuasive communication."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 0.0s, a region was detected in the video (x=0.370, y=0.269, w=0.176, h=0.116, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The facial muscles show a brief, subtle smile at the corners of the mouth."
+        },
+        {
+          "id": "B",
+          "text": "The eyebrows are slightly raised to convey a sense of surprise or questioning."
+        },
+        {
+          "id": "C",
+          "text": "Steady eye contact is maintained with slight intermittent eyelid closure."
+        },
+        {
+          "id": "D",
+          "text": "The eyes are widening slightly in order to emphasize a particular statement."
+        },
+        {
+          "id": "E",
+          "text": "A quick, momentary glance away from the camera and toward the right side."
+        },
+        {
+          "id": "F",
+          "text": "The head is tilted down slightly, causing the eyes to appear downcast."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. The provided bounding box at 0.0s specifically isolates the person's eyes. The observation cue for this time and region is The man looks directly at the camera, his eyes closing slightly as he speaks, which is accurately summarized by this option.\n\n- Option A is a video-based distractor. It refers to the mouth region, which is outside the specified bounding box.\n- Option B is a near-miss distractor. It refers to the eyebrows, which are adjacent to the eye region but not within the specific bounding box. The eyebrow raise happens later anyway (at 3.4s).\n- Option D is a near-miss distractor. It describes the opposite of what is observed; the eyelids are closing slightly, not widening.\n- Option E is a text-based distractor. This describes a plausible action, but the video shows steady eye contact at this moment, and the later gaze shift is to the left, not the right.\n- Option F is a text-based distractor. The person's head is upright and he is looking directly at the camera, not tilting his head down."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "Which option correctly identifies the time and location of a brief, self-referential gesture involving an object attached to the person's upper body?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[5.5s]  x=0.39, y=0.25, w=0.17, h=0.26"
+        },
+        {
+          "id": "B",
+          "text": "[2.6s]  x=0.44, y=0.62, w=0.16, h=0.31"
+        },
+        {
+          "id": "C",
+          "text": "[5.5s]  x=0.43, y=0.40, w=0.11, h=0.12"
+        },
+        {
+          "id": "D",
+          "text": "[11.5s]  x=0.41, y=0.24, w=0.15, h=0.12"
+        },
+        {
+          "id": "E",
+          "text": "[5.5s]  x=0.41, y=0.22, w=0.14, h=0.16"
+        },
+        {
+          "id": "F",
+          "text": "[0.0s]  x=0.39, y=0.24, w=0.16, h=0.32"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. The question asks to identify a 'self-referential gesture involving an object attached to the person's upper body.' This accurately describes the action of touching the lapel microphone, which occurs from 0.0s to 2.6s. The bounding box in option B at timestamp 2.6s correctly frames the left hand touching the microphone, which is located in the lower-left quadrant of the frame.\n\n- Option A is a video-based distractor. This timestamp and bounding box frame the person's entire face during a period of neutral expression.\n- Option C is a video-based distractor. This timestamp and bounding box isolate the mouth region while he is speaking.\n- Option D is a video-based distractor. This timestamp and bounding box frame the eyes and eyebrows during a moment of emphatic expression.\n- Option E is a video-based distractor. This timestamp and bounding box also isolate the eye region, but at an earlier moment of steady contact.\n- Option F is a video-based distractor. This timestamp and bounding box frame the upper face at the very beginning of the video, before the hand has fully completed the mic-touching gesture."
+    },
+    {
+      "category": "Counterfactual Reasoning",
+      "question": "If the person had NOT exhibited the behavior observed around 0.0s - 2.8s, which of the following personality assessments would be MOST affected?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Extraversion would be rated lower, as the most energetic hand gestures and vocal projections appear during this initial segment."
+        },
+        {
+          "id": "B",
+          "text": "Openness evaluation would be less certain, as the primary cue for cognitive processing and self-reflection is seen here."
+        },
+        {
+          "id": "C",
+          "text": "Agreeableness rating could be lower, as this segment provides key evidence of the person's considerate and diplomatic phrasing."
+        },
+        {
+          "id": "D",
+          "text": "Conscientiousness might seem lower, because the stated desire to change an activity suggests a lack of general persistence."
+        },
+        {
+          "id": "E",
+          "text": "Neuroticism would likely be rated higher, because speaking directly without such qualification can suggest overconfidence."
+        },
+        {
+          "id": "F",
+          "text": "Agreeableness would be rated higher, because the verbal content in this segment is the primary source of viewer-perceived hesitation."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. The behavior in this time range includes the verbal statement, 'It's not to say I want to stop... but I want to cut down on it a little bit.' The personality analysis explicitly cites this 'diplomatic and considerate' phrasing as strong support for a High Agreeableness score. Removing this evidence would weaken that specific assessment the most.\n\n- Option A is a video-based distractor. The energetic hand gestures that support Extraversion happen later in the video, not in this initial segment.\n- Option B is a video-based distractor. The key cue for Openness (the upward-left eye gaze) occurs later, at 3.4s-5.5s.\n- Option D is a text-based distractor. This presents a plausible but incorrect line of reasoning. The Conscientiousness score is based more on preparation cues (mic, lighting) and deliberate speech patterns than on this specific phrase.\n- Option E is a text-based distractor. This offers a speculative psychological interpretation that is not grounded in the provided personality analysis.\n- Option F is a near-miss distractor. It correctly identifies Agreeableness as the affected trait but gets the direction of the change wrong. The phrasing is seen as a positive, considerate behavior, so removing it would lower, not raise, the Agreeableness score."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator13",
+      "version": 1,
+      "clues_total": 17,
+      "clues_correct": 13,
+      "clues_wrong_corrected": 4,
+      "clues_missing_skipped": 0,
+      "clues_bonus": 0
+    }
+  }
+}

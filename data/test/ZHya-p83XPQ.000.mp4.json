@@ -1,0 +1,463 @@
+{
+  "video_id": "ZHya-p83XPQ.000.mp4",
+  "video_path": "ZHya-p83XPQ.000.mp4",
+  "transcription": "I'll go above and beyond for people. I just hate when people take advantage of that. I just hate liars, you know, I always keep it straight up and a hundred with everybody. It's like I shouldn't be deserved to be lied to. That's my biggest pet peeve.",
+  "original_scores": {
+    "extraversion": 0.4485981308411215,
+    "agreeableness": 0.6923076923076923,
+    "conscientiousness": 0.5533980582524272,
+    "neuroticism": 0.4479166666666667,
+    "openness": 0.38888888888888895
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 2.9,
+      "description": "The subject maintains eye contact with the camera. Her eyebrows are slightly raised and her mouth is open as she speaks.",
+      "bboxes": [
+        {
+          "frame_time": 0.641302,
+          "x": 0.38231907894736844,
+          "y": 0.19561403174149364,
+          "w": 0.225,
+          "h": 0.12631578947368421,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 0.641302,
+          "x": 0.3734375,
+          "y": 0.16929824226780943,
+          "w": 0.24276315789473685,
+          "h": 0.08157894736842106,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 0.923049,
+          "x": 0.4208059210526316,
+          "y": 0.4429824527941252,
+          "w": 0.1480263157894737,
+          "h": 0.1394736842105263,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 2.9,
+      "end_time": 5.9,
+      "description": "Her gaze shifts up and to her right (viewer's left). Her eyebrows remain slightly raised.",
+      "bboxes": [
+        {
+          "frame_time": 5.466338,
+          "x": 0.3926809210526316,
+          "y": 0.17456140016254626,
+          "w": 0.29753289473684214,
+          "h": 0.2,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 5.466338,
+          "x": 0.40008223684210525,
+          "y": 0.12456140016254626,
+          "w": 0.28273026315789473,
+          "h": 0.1394736842105263,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 5.9,
+      "end_time": 11.45,
+      "description": "She returns her gaze directly to the camera, maintaining a steady and serious expression with a neutral brow.",
+      "bboxes": [
+        {
+          "frame_time": 7.512398,
+          "x": 0.3660361842105263,
+          "y": 0.23508771595201994,
+          "w": 0.2886513157894737,
+          "h": 0.11578947368421053,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 7.512398,
+          "x": 0.32754934210526315,
+          "y": 0.08771929489938836,
+          "w": 0.3226973684210526,
+          "h": 0.6,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 7.512398,
+          "x": 0.3615953947368421,
+          "y": 0.13508771595201993,
+          "w": 0.29901315789473687,
+          "h": 0.12631578947368421,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 11.45,
+      "end_time": 15,
+      "description": "Her gaze shifts downward, her upper eyelids lower, and her head tilts forward, concluding her statement with a more introspective expression.",
+      "bboxes": [
+        {
+          "frame_time": 13.446546,
+          "x": 0.4370888157894737,
+          "y": 0.41140350542570414,
+          "w": 0.3004934210526316,
+          "h": 0.20526315789473684,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 13.446546,
+          "x": 0.3734375,
+          "y": 0.03508771595201994,
+          "w": 0.35674342105263157,
+          "h": 0.8236842105263158,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 11.45,
+      "description": "The subject sits upright, facing the camera. Her head remains relatively still, with minor, subtle movements that are synchronized with her speech.",
+      "bboxes": [
+        {
+          "frame_time": 8.532866,
+          "x": 0.2846217105263158,
+          "y": 0.0298245580572831,
+          "w": 0.41151315789473686,
+          "h": 0.9526315789473684,
+          "note": "human-annotated",
+          "region": "unknown"
+        },
+        {
+          "frame_time": 8.532866,
+          "x": 0.2846217105263158,
+          "y": 0.011403505425704154,
+          "w": 0.32417763157894736,
+          "h": 0.6394736842105263,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 11.45,
+      "end_time": 15,
+      "description": "Her head tilts forward and down in a distinct, slow movement as she looks toward the bottom of the frame.",
+      "bboxes": [
+        {
+          "frame_time": 13.530341,
+          "x": 0.38675986842105264,
+          "y": 0.02456140016254626,
+          "w": 0.3611842105263158,
+          "h": 0.8552631578947368,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 13.530341,
+          "x": 0.37639802631578945,
+          "y": 0.3771929791099147,
+          "w": 0.3582236842105263,
+          "h": 0.2131578947368421,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 5.8,
+      "description": "Speech is delivered at a moderate, clear pace. There is a slight rise in pitch on \"beyond\" and moderate stress placed on the words \"hate\" and \"liars\".",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 5.8,
+      "end_time": 12,
+      "description": "The speech rate slightly increases with a more assertive tone. Notable stress is placed on the words \"always,\" \"straight up,\" and \"hundred.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 12,
+      "end_time": 15,
+      "description": "The phrase \"so that's my biggest pet peeve\" is spoken at a slightly slower pace and lower volume, with a falling intonation. A quiet, audible breath is taken at the very end of the clip.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15,
+      "description": "The subject is a young woman with dark skin and dark hair styled in twists and pulled back. She is wearing makeup, including gold eyeshadow, winged eyeliner, and bright purple lipstick, and has a nose piercing. She wears two layered gold necklaces. Her attire consists of a black sweatshirt with a light blue t-shirt visible at the collar. The setting is an indoor room, likely a bedroom, with white walls. A wooden bed with a black-and-white patterned comforter is visible behind her, as is a wooden dresser with open drawers to her right. The lighting is bright and even. A text overlay in the top-left corner reads \"Killer Beehive\" in a cursive font.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Medium",
+      "score": 0.45,
+      "rationale": "The subject's Medium Extraversion is indicated by a mix of socially engaged and reserved behaviors. She demonstrates social confidence by speaking directly to the camera and maintaining eye contact for extended periods. Her vocal delivery is expressive, with emphasis on key words. However, this is balanced by a relatively still posture and minimal head movements, lacking the broad, energetic gestures often seen in highly extraverted individuals. Moments of averted gaze ([2.9s-5.9s], [11.4s-15.0s]) also suggest a more moderate, rather than a consistently outward-focused, social energy.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "High",
+      "score": 0.69,
+      "rationale": "The High Agreeableness score is strongly supported by the subject's verbal statements. She explicitly frames herself as altruistic and cooperative, stating, 'I'll go above and beyond for people.' Her intense dislike for liars and being taken advantage of does not contradict this; rather, it underscores a deep commitment to trust, fairness, and reciprocity—foundational values for highly agreeable individuals who seek harmonious social relationships. Her direct, earnest expression reinforces this focus on sincere interpersonal connection.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Medium",
+      "score": 0.55,
+      "rationale": "The Medium score for Conscientiousness is reflected in her articulation of a strong personal code of conduct. The statement 'I always keep it straight up and a hundred with everybody,' delivered with a firm tone and emphasis, points to a principled and dutiful approach to her interactions. This suggests a commitment to personal responsibility and integrity. The evidence is confined to the social domain, however, without broader cues related to organization, planning, or achievement-striving, thus supporting a moderate rather than high rating.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Medium",
+      "score": 0.45,
+      "rationale": "The subject's Medium Neuroticism is demonstrated by the contrast between her emotional language and her composed demeanor. She voices strong negative feelings about being wronged, repeating the word 'hate' and labeling dishonesty as her 'biggest pet peeve,' which indicates a sensitivity to interpersonal stress. However, she presents these feelings with a steady posture, controlled vocal tone, and direct eye contact, rather than with physical signs of anxiety or distress. This combination of experiencing strong negative emotions but maintaining outward composure is characteristic of a moderate level of neuroticism.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "Low",
+      "score": 0.39,
+      "rationale": "The Low Openness score is suggested by the subject's focus on concrete social realities and established norms. Her entire statement centers on practical, interpersonal ethics—honesty, reciprocity—rather than abstract ideas, theoretical concepts, or imaginative possibilities. Her communication style is direct and unambiguous ('I always keep it straight up'). The absence of engagement with intellectual curiosity or unconventional perspectives in her discourse points toward a more pragmatic and grounded cognitive style, consistent with a lower score in Openness.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their Medium Neuroticism level?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[0.5s - 1.9s]"
+        },
+        {
+          "id": "B",
+          "text": "[3.0s - 4.4s]"
+        },
+        {
+          "id": "C",
+          "text": "[6.1s - 7.5s]"
+        },
+        {
+          "id": "D",
+          "text": "[9.0s - 10.4s]"
+        },
+        {
+          "id": "E",
+          "text": "[11.0s - 12.4s]"
+        },
+        {
+          "id": "F",
+          "text": "[12.5s - 13.9s]"
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The correct answer is F. The Medium Neuroticism score is based on the contrast between strong emotional words ('hate', 'pet peeve') and a controlled demeanor. The interval [12.5s - 13.9s] captures the key non-verbal cue of this control: as she says 'my biggest pet peeve', she looks down and tilts her head, a gesture of punctuation and emotional regulation rather than overt distress. \nOption A is a text-based distractor, as this is the start of her speech but contains no significant expression change relevant to neuroticism. \nOption B is a video-based distractor; this interval captures her gaze shifting upward and left (a cognitive, not emotional, cue) and is therefore related to a different process. \nOption C is a video-based distractor; this interval shows her re-engaging with the camera with a serious expression, a different event from the one in question. \nOption D is a text-based distractor, representing a period of stable, direct gaze with no notable change. \nOption E is a near-miss distractor; it occurs just before the key downward gaze, capturing the transition into the behavior but not the apex of the expression itself."
+    },
+    {
+      "category": "Mixed Emotion Discrimination",
+      "question": "During 11.4s - 15.0s, the person's emotional state is best characterized as which of the following? Consider both verbal and non-verbal cues.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Stern conviction mixed with a clear feeling of focused assertiveness."
+        },
+        {
+          "id": "B",
+          "text": "Bitter resentment combined with an underlying sense of personal helplessness."
+        },
+        {
+          "id": "C",
+          "text": "Deep frustration that is mixed with a sense of growing and overt anger."
+        },
+        {
+          "id": "D",
+          "text": "Anxious vulnerability which is tempered by a strong desire for social approval."
+        },
+        {
+          "id": "E",
+          "text": "Pure contempt which is mixed with a clear element of deep personal sadness."
+        },
+        {
+          "id": "F",
+          "text": "Righteous indignation which is tempered by a sense of weary, quiet resignation."
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The correct answer is F. During this final segment, the person states her 'biggest pet peeve.' Her verbal content expresses a strong principle-based objection (righteous indignation), while her non-verbal cues (head tilting down, eyes looking down, softer vocal tone) convey a sense of weariness or finality about the topic, not active anger, which points to resignation. \nOption A is a video-based distractor; this description better fits the preceding segment (5.9s - 11.4s) where she maintains direct eye contact and a firm tone. \nOption B is a text-based distractor; while 'resentment' is plausible from the text, her composed demeanor does not support a feeling of 'helplessness'. \nOption C is a near-miss distractor; it correctly identifies the negative valence (frustration) but incorrectly interprets the non-verbal cues as 'growing and overt anger' when they actually indicate emotional downregulation and control. \nOption D is a text-based distractor; her tone is more firm and principled than anxious or vulnerable. \nOption E is a text-based distractor; the downward gaze could be misinterpreted as sadness, and the word 'hate' could imply contempt, but the overall combination of cues is better captured by indignation and resignation."
+    },
+    {
+      "category": "Temporal-Causal Reasoning",
+      "question": "Consider the sequence of behaviors observed across the video. Which of the following best describes the causal chain linking the person's actions at different moments?",
+      "options": [
+        {
+          "id": "A",
+          "text": "An emotional regulation act prompts a principle's assertion, which is then justified by a pro-social overture and a moment of cognitive reflection."
+        },
+        {
+          "id": "B",
+          "text": "A period of self-monitoring initiates a compensatory display of confidence, which is then followed by a defensive justification and social withdrawal."
+        },
+        {
+          "id": "C",
+          "text": "A moment of cognitive processing causes a pro-social overture, which is immediately contradicted by an act of regulation and principle assertion."
+        },
+        {
+          "id": "D",
+          "text": "A direct assertion of principle is intensified, prompting cognitive processing before culminating in a final, conciliatory pro-social overture at the end."
+        },
+        {
+          "id": "E",
+          "text": "A pro-social overture leads directly to asserting a principle, which is then followed by a brief moment of cognitive processing and regulation."
+        },
+        {
+          "id": "F",
+          "text": "An initial pro-social overture is followed by cognitive processing, which then leads to a direct principle assertion, culminating in emotional regulation."
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The correct answer is F. The sequence is: 1) Pro-social overture ('I'll go above and beyond for people'), 2) Cognitive processing (gaze shifts up-left at ~3-6s), 3) Assertion of principle ('I always keep it straight up'), 4) Emotional regulation/punctuation (gaze shifts down at ~12-14s). Option F accurately maps this abstract causal sequence to the video events. \nOption A is a distractor with reversed temporal order, starting with the final action and working backward. \nOption B is a text-based distractor using plausible psychological terms ('self-monitoring', 'compensatory display') that do not accurately describe the observed sequence. \nOption C is a distractor with incorrect causality, wrongly claiming that cognitive processing causes the overture and that the assertion contradicts it. \nOption D is a video-based distractor that misinterprets and reorders the events, incorrectly identifying intensification and a final overture. \nOption E is a near-miss distractor; it incorrectly swaps the order of cognitive processing and the assertion of principle, suggesting she speaks before she thinks, which is contrary to the visual evidence of the gaze shift."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 5.5s, a region was detected in the video (x=0.400, y=0.125, w=0.283, h=0.139, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A direct and unwavering stare at the camera lens."
+        },
+        {
+          "id": "B",
+          "text": "The mouth is visibly open and moving for speech."
+        },
+        {
+          "id": "C",
+          "text": "The overall facial expression is steady and serious."
+        },
+        {
+          "id": "D",
+          "text": "The head is tilted slightly forward in a slow nod."
+        },
+        {
+          "id": "E",
+          "text": "The shoulders and torso are held in an upright pose."
+        },
+        {
+          "id": "F",
+          "text": "The eyebrows are held in a slightly raised position."
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The correct answer is F. The specified bounding box at 5.5s precisely isolates the eyebrow region. At this moment, the observation log states, 'Her eyebrows remain slightly raised' as she shifts her gaze. \nOption A is a video-based distractor; her eyes are in a different region of the face, and at this specific moment (5.5s), her gaze is actually averted, not staring at the camera. \nOption B is a video-based distractor; the mouth is in a different region, and this description is more general to the entire video. \nOption C is a video-based distractor; this describes the overall face from a different time segment (5.9s - 11.4s), not the specific eyebrow region at 5.5s. \nOption D is a video-based distractor; the head tilt occurs at the end of the video (11.4s - 15.0s), not at 5.5s. \nOption E is a text-based distractor; the bbox is on the face, not the shoulders or torso."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "At which of the following moments does the subject re-establish direct engagement with the camera, adopting a more composed and neutral facial expression to deliver a central point of her statement?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[13.4s] x=0.44, y=0.41, w=0.30, h=0.21"
+        },
+        {
+          "id": "B",
+          "text": "[0.9s] x=0.42, y=0.44, w=0.15, h=0.14"
+        },
+        {
+          "id": "C",
+          "text": "[0.6s] x=0.37, y=0.17, w=0.24, h=0.08"
+        },
+        {
+          "id": "D",
+          "text": "[13.4s] x=0.37, y=0.04, w=0.36, h=0.82"
+        },
+        {
+          "id": "E",
+          "text": "[7.5s] x=0.33, y=0.09, w=0.32, h=0.60"
+        },
+        {
+          "id": "F",
+          "text": "[13.5s] x=0.38, y=0.38, w=0.36, h=0.21"
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. The question asks to identify the moment of re-engagement with a composed, neutral expression to make a central point. This corresponds to the period from 5.9s to 11.4s, where she looks directly at the camera and says 'I always keep it straight up...'. The timestamp 7.5s falls squarely in this period, and the bounding box covers her entire face, capturing the 'steady and serious expression' with 'neutral brows'. \nOption A is a video-based distractor, pointing to her downcast eyes at the end of the video. \nOption B is a video-based distractor, pointing to her mouth while speaking at the very beginning. \nOption C is a video-based distractor, pointing to her slightly raised eyebrows at the start. \nOption D is a video-based distractor, pointing to her whole head during the final downward tilt. \nOption F is a near-miss distractor, pointing to her downcast eyes at the end, which is a moment of disengagement, not re-engagement."
+    },
+    {
+      "category": "Counterfactual Reasoning",
+      "question": "If the person had NOT exhibited the behavior observed around 0.0s - 2.9s, which of the following personality assessments would be MOST affected?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The Medium Conscientiousness score would be less supported, as this key moment establishes her primary code of conduct."
+        },
+        {
+          "id": "B",
+          "text": "The assessment of High Agreeableness would strengthen, since the remaining statements show a more assertive personality trait."
+        },
+        {
+          "id": "C",
+          "text": "The Medium Extraversion rating would likely shift downward, since this part provides key evidence for her social confidence."
+        },
+        {
+          "id": "D",
+          "text": "The Medium Neuroticism rating would be less certain, since the later non-verbal cues would then lack their initial context."
+        },
+        {
+          "id": "E",
+          "text": "The Low Openness score would be largely unsupported, as this section shows her direct and very pragmatic communication."
+        },
+        {
+          "id": "F",
+          "text": "The assessment of High Agreeableness would be weakened, as this specific segment contains her primary pro-social statement."
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The correct answer is F. The behavior in this segment is the statement, 'I'll go above and beyond for people.' According to the personality analysis, this is the primary piece of evidence supporting the High Agreeableness score. Removing it would eliminate the main justification for this rating, thus weakening it significantly. \nOption A is a video-based distractor; the evidence for Conscientiousness ('keep it straight up') comes from a later time segment (5.8s onwards), so removing the initial statement would not affect it. \nOption B is a near-miss distractor; it correctly identifies Agreeableness as the affected trait but incorrectly claims the score would 'strengthen.' Removing the primary evidence would weaken, not strengthen, the assessment. \nOption C is a text-based distractor; while this segment shows social engagement, the Medium Extraversion score is a balance of cues across the entire video (including averted gaze), so removing this single piece would have less impact than removing the sole evidence for High Agreeableness. \nOption D is a text-based distractor; the context for the later non-verbal cues (downward gaze) is the immediately preceding 'pet peeve' statement, not the opening line. \nOption E is a text-based distractor; the evidence for Low Openness comes from her pragmatic communication style throughout the entire clip, not just this one segment."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator16",
+      "version": 1,
+      "clues_total": 19,
+      "clues_correct": 17,
+      "clues_wrong_corrected": 1,
+      "clues_missing_skipped": 1,
+      "clues_bonus": 0
+    }
+  }
+}

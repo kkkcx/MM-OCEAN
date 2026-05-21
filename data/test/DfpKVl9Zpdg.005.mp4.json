@@ -1,0 +1,548 @@
+{
+  "video_id": "DfpKVl9Zpdg.005.mp4",
+  "video_path": "DfpKVl9Zpdg.005.mp4",
+  "transcription": "Watch my videos, you subscribe to me, you like them, you comment in the comment section because, yes, I read and do my best to respond to all the comments. It's mind-blowing to-",
+  "original_scores": {
+    "extraversion": 0.47663551401869164,
+    "agreeableness": 0.4835164835164835,
+    "conscientiousness": 0.4563106796116505,
+    "neuroticism": 0.5,
+    "openness": 0.5555555555555556
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 10.7,
+      "description": "Subject maintains direct eye contact with the camera. Eyebrows are in a neutral, relaxed position. The mouth moves naturally in correspondence with speech.",
+      "bboxes": [
+        {
+          "frame_time": 0,
+          "x": 0.4444444444444444,
+          "y": 0.360082304526749,
+          "w": 0.25617283950617287,
+          "h": 0.13443072702331962,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 0,
+          "x": 0.43364197530864196,
+          "y": 0.27503429355281206,
+          "w": 0.2638888888888889,
+          "h": 0.14266117969821673,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 0,
+          "x": 0.4845679012345679,
+          "y": 0.5850480109739369,
+          "w": 0.1697530864197531,
+          "h": 0.24691358024691357,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 10.7,
+      "end_time": 12.5,
+      "description": "The subject's eyes close as he brings his right hand up to his face and rubs his forehead and eye area.",
+      "bboxes": [
+        {
+          "frame_time": 10.7,
+          "x": 0.4012345679012346,
+          "y": 0.6015089163237312,
+          "w": 0.32253086419753085,
+          "h": 0.3813443072702332,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 12.52191,
+          "x": 0.31790123456790126,
+          "y": 0.18998628257887518,
+          "w": 0.28858024691358025,
+          "h": 0.4691358024691358,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 12.5,
+      "end_time": 15.6,
+      "description": "After removing his hand, the subject's eyebrows raise slightly. His mouth opens into a smile, revealing his upper teeth as he speaks.",
+      "bboxes": [
+        {
+          "frame_time": 14.05,
+          "x": 0.044753086419753084,
+          "y": 0.16803840877914952,
+          "w": 0.2824074074074074,
+          "h": 0.6666666666666666,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 14.05,
+          "x": 0.4089506172839506,
+          "y": 0.3244170096021948,
+          "w": 0.2808641975308642,
+          "h": 0.0877914951989026,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 15.128853,
+          "x": 0.48148148148148145,
+          "y": 0.6481481481481481,
+          "w": 0.18518518518518517,
+          "h": 0.18106995884773663,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 15.128853,
+          "x": 0.38425925925925924,
+          "y": 0.30795610425240055,
+          "w": 0.3765432098765432,
+          "h": 0.6920438957475994,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 1.25,
+      "description": "The subject's hands are visible at the bottom of the frame, raised slightly with palms facing forward.",
+      "bboxes": [
+        {
+          "frame_time": 0.625,
+          "x": 0.030864197530864196,
+          "y": 0.5768175582990398,
+          "w": 0.9629629629629629,
+          "h": 0.4231824417009602,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 1.25,
+      "end_time": 5.91,
+      "description": "Hands are lowered out of the frame. The head remains relatively still with minor movements accompanying speech.",
+      "bboxes": [
+        {
+          "frame_time": 3.58,
+          "x": 0.12345679012345678,
+          "y": 0.6920438957475995,
+          "w": 0.8533950617283951,
+          "h": 0.3079561042524005,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 3.58,
+          "x": 0.37808641975308643,
+          "y": 0.050068587105624146,
+          "w": 0.3888888888888889,
+          "h": 0.803840877914952,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 5.91,
+      "end_time": 7.08,
+      "description": "The right hand is briefly brought up to the chin area.",
+      "bboxes": [
+        {
+          "frame_time": 6.495,
+          "x": 0.4243827160493827,
+          "y": 0.5768175582990398,
+          "w": 0.36728395061728397,
+          "h": 0.3484224965706447,
+          "note": "human-annotated",
+          "region": "chin"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 7.08,
+      "end_time": 10.88,
+      "description": "The right hand is lowered out of frame again. The head stays mostly centered.",
+      "bboxes": [
+        {
+          "frame_time": 8.98,
+          "x": 0.7268518518518519,
+          "y": 0.7002743484224966,
+          "w": 0.1558641975308642,
+          "h": 0.2997256515775034,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 8.98,
+          "x": 0.32253086419753085,
+          "y": 0.0747599451303155,
+          "w": 0.4027777777777778,
+          "h": 0.8669410150891632,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 10.88,
+      "end_time": 12.58,
+      "description": "The right hand is brought up to the face, touching the mouth and nose area before rubbing the forehead and right eye.",
+      "bboxes": [
+        {
+          "frame_time": 10.88,
+          "x": 0.36419753086419754,
+          "y": 0.360082304526749,
+          "w": 0.33641975308641975,
+          "h": 0.6063100137174211,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 10.88,
+          "x": 0.41203703703703703,
+          "y": 0.5246913580246914,
+          "w": 0.25308641975308643,
+          "h": 0.3840877914951989,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 11.754825,
+          "x": 0.30709876543209874,
+          "y": 0.2997256515775034,
+          "w": 0.20679012345679013,
+          "h": 0.3868312757201646,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 12.58,
+      "end_time": 15.6,
+      "description": "The right hand is raised to the right side of the head with fingers spread and palm facing forward.",
+      "bboxes": [
+        {
+          "frame_time": 12.58,
+          "x": 0.2638888888888889,
+          "y": 0.18449931412894377,
+          "w": 0.25925925925925924,
+          "h": 0.5596707818930041,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 14.09,
+          "x": 0.035493827160493825,
+          "y": 0.17352537722908093,
+          "w": 0.36574074074074076,
+          "h": 0.757201646090535,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 6.35,
+      "description": "Speech is delivered at a moderate, even pace with a stable pitch. There is a slight downward intonation at the end of clauses.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 6.35,
+      "end_time": 10.51,
+      "description": "The phrase \"yes, I read\" is emphasized with a slight increase in pitch and volume. The speaking pace remains consistent.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 10.51,
+      "end_time": 12.71,
+      "description": "A slight pause and a soft, audible inhalation occurs before speech resumes.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 12.71,
+      "end_time": 15.6,
+      "description": "The phrase \"mind-blowing\" is spoken with a higher pitch and increased stress. The speech is cut off abruptly at the end of the clip.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.6,
+      "description": "The subject is a young male with short dark hair, brown eyes, and a light-brown complexion. He is wearing a plain white T-shirt. The background consists of several white shelves filled with collectible items, primarily video game figurines in their original packaging. A small Dragon Ball Z Goku figure is visible on a lower shelf to the left. The setting appears to be an indoor room with bright, diffuse lighting from the front.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Medium",
+      "score": 0.48,
+      "rationale": "The subject exhibits a mix of extraverted and introverted indicators. His direct address to the camera and maintenance of eye contact demonstrate social confidence and a desire to engage. However, his overall speech pace is moderate rather than rapid, and the appearance of self-touching gestures (rubbing the forehead and eye area) during a slight pause suggests a degree of self-monitoring, which tempers the more outwardly expressive behaviors. This balance supports a Medium Extraversion score.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Medium",
+      "score": 0.48,
+      "rationale": "The subject's stated commitment to reading and responding to comments reveals a pro-social and cooperative inclination. This is further supported by a brief, genuine smile. However, the initial phrasing of his request is direct and instructional ('Watch my videos, you subscribe...'), which is more assertive than the typically deferential style of highly agreeable individuals. This blend of cooperative intent and directness is characteristic of a Medium level of Agreeableness.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Medium",
+      "score": 0.46,
+      "rationale": "Strong evidence for orderliness, a key facet of Conscientiousness, is visible in the background, where collectibles are meticulously arranged on shelves. His verbal commitment to responding to comments also implies dutifulness. However, the evidence is limited to these aspects. A brief moment of speech disfluency (a pause and audible breath) may indicate a lack of meticulous rehearsal. This combination of organized personal space with a more spontaneous communication style aligns with a Medium Conscientiousness score.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Medium",
+      "score": 0.5,
+      "rationale": "The subject demonstrates a baseline of emotional stability, evidenced by a steady vocal tone and relaxed facial expression for most of the clip. However, the brief sequence where he rubs his forehead and eye area is a classic self-soothing behavior, often triggered by mild cognitive load or social stress. This transient, low-intensity anxiety cue, set against a backdrop of general composure, is a hallmark of an individual with a Medium level of Neuroticism.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "Medium",
+      "score": 0.56,
+      "rationale": "The subject's background, filled with curated video game and anime collectibles, points to an engagement with fantasy and aesthetics, which are facets of Openness. His use of the phrase 'It's mind-blowing' also suggests an appreciation for novel and impactful experiences. At the same time, his personal presentation (simple T-shirt) and communication style are conventional. This suggests his openness is channeled into specific interests rather than being a pervasive trait influencing all aspects of his expression, thus supporting a Medium score.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During 10.9s - 12.6s, the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Low Agreeableness, as suggested by an assertive and uncooperative posture."
+        },
+        {
+          "id": "B",
+          "text": "High Conscientiousness, as seen in the very meticulous hand movements."
+        },
+        {
+          "id": "C",
+          "text": "High Extraversion, indicated by the expressive and outward-facing actions."
+        },
+        {
+          "id": "D",
+          "text": "High Openness, reflected in the imaginative and creative hand gesturing."
+        },
+        {
+          "id": "E",
+          "text": "Medium Neuroticism, shown by a brief, self-soothing physical behavior."
+        },
+        {
+          "id": "F",
+          "text": "Low Neuroticism, due to the calm and controlled nature of the gestures."
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The behavior at 10.9s-12.6s is the person rubbing their forehead and eye area. The personality analysis identifies this as a classic self-soothing gesture indicative of managing mild stress or cognitive load, which is a key marker for Medium Neuroticism. Option E is correct. Option A is a text-based distractor; the gesture is not related to agreeableness. Option B is a text-based distractor; conscientiousness is supported by the organized background, not this gesture. Option C is a video-based distractor; high extraversion is supported by direct eye contact at other times, whereas this gesture is more introverted. Option D is a video-based distractor; openness is suggested by the collectibles and his later phrasing, not this action. Option F is a near-miss distractor; it correctly identifies the relevant trait (Neuroticism) but misinterprets the gesture's implication, as self-soothing suggests the presence of some neuroticism, not its absence."
+    },
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their Agreeableness level?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[0.2s - 2.2s]"
+        },
+        {
+          "id": "B",
+          "text": "[3.5s - 5.5s]"
+        },
+        {
+          "id": "C",
+          "text": "[6.0s - 8.0s]"
+        },
+        {
+          "id": "D",
+          "text": "[10.8s - 12.8s]"
+        },
+        {
+          "id": "E",
+          "text": "[13.5s - 15.5s]"
+        },
+        {
+          "id": "F",
+          "text": "[8.5s - 10.5s]"
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The personality analysis notes that a brief, genuine smile supports a Medium Agreeableness score. This smile, along with raised eyebrows, occurs at the end of the video as he says 'mind-blowing'. The interval [13.5s - 15.5s] correctly captures this significant facial expression change. Option E is correct. Options A, B, C, and F are video-based distractors that point to periods of neutral expression, minor gestures, or steady speech without a significant emotional shift relevant to agreeableness. Option D is a near-miss distractor; it correctly identifies a period of notable action (the self-soothing gesture), but this action is more relevant to Neuroticism than Agreeableness."
+    },
+    {
+      "category": "Mixed Emotion Discrimination",
+      "question": "During 12.5s - 15.6s, the person's emotional state is best characterized as which of the following? Consider both verbal and non-verbal cues.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Simple happiness that is tempered by confident satisfaction."
+        },
+        {
+          "id": "B",
+          "text": "Calm contentment that is mixed with gentle self-assurance."
+        },
+        {
+          "id": "C",
+          "text": "Quiet relief that is tempered by some thoughtful reflection."
+        },
+        {
+          "id": "D",
+          "text": "Feigned surprise that is mixed with a rehearsed enthusiasm."
+        },
+        {
+          "id": "E",
+          "text": "Genuine amusement that is mixed with a feeling of wonder."
+        },
+        {
+          "id": "F",
+          "text": "Playful excitement that is mixed with just a hint of shyness."
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "During this interval, the person's eyebrows raise, he smiles genuinely, and he verbally expresses that something is 'mind-blowing'. This combination of cues points to a positive, engaged state. 'Genuine amusement' captures the smile, while 'feeling of wonder' aligns with the raised brows and the specific word choice. Option E is correct. Option A is a text-based distractor; it's a plausible positive state but misses the element of surprise/wonder. Option B is a text-based distractor; the expression is too energetic to be described as 'calm'. Option C is a video-based distractor that incorrectly interprets the preceding self-touch gesture as a sign of major stress that is now being relieved. Option D is a near-miss distractor; it correctly identifies the components of surprise and enthusiasm but incorrectly assesses them as inauthentic. Option F is a near-miss distractor; 'excitement' is close, but 'wonder' or 'amusement' better fit the context, and there is no clear evidence of shyness."
+    },
+    {
+      "category": "Temporal-Causal Reasoning",
+      "question": "Consider the sequence of behaviors observed across the video. Which of the following best describes the causal chain linking the person's actions at different moments?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A final expressive display prompts a self-regulatory action, which is preceded by the initial pro-social appeal."
+        },
+        {
+          "id": "B",
+          "text": "A central self-regulatory action occurs independently of both the preceding pro-social appeal and final display."
+        },
+        {
+          "id": "C",
+          "text": "An initial persuasive argument fails due to a brief memory lapse, prompting an improvised, emphatic conclusion."
+        },
+        {
+          "id": "D",
+          "text": "A pro-social appeal leads to a heightened display, which is then concluded by a final self-regulatory action."
+        },
+        {
+          "id": "E",
+          "text": "A pro-social appeal is interrupted by a self-regulatory action, which then leads to a heightened final display."
+        },
+        {
+          "id": "F",
+          "text": "An initial hand movement is followed by a verbal explanation, which is then clarified by an expressive gesture."
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The video shows a sequence where the person makes a direct appeal to his audience (pro-social appeal), then pauses and performs a self-soothing gesture (self-regulatory action), and finally delivers an emphatic, smiling statement (heightened display). Option E correctly represents this temporal and causal flow. Option A is a distractor with reversed temporal order. Option B is a distractor with wrong causality, claiming the events are unrelated. Option C is a text-based distractor; it tells a plausible story but 'memory lapse' is an unsupported inference. Option D is a near-miss distractor that correctly identifies the three abstract behaviors but gets the order of the last two events wrong. Option F is a video-based distractor that describes a sequence of events but mischaracterizes their abstract function; it focuses on low-level motor actions rather than the psychological sequence of engagement, regulation, and emphasis."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "At which of the following time-and-place coordinates does the person perform a multi-part self-touching or self-soothing gesture involving the central facial area?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[0.0s]  x=0.44, y=0.36, w=0.26, h=0.13"
+        },
+        {
+          "id": "B",
+          "text": "[14.1s]  x=0.04, y=0.17, w=0.28, h=0.67"
+        },
+        {
+          "id": "C",
+          "text": "[0.0s]  x=0.48, y=0.59, w=0.17, h=0.25"
+        },
+        {
+          "id": "D",
+          "text": "[14.1s]  x=0.41, y=0.32, w=0.28, h=0.09"
+        },
+        {
+          "id": "E",
+          "text": "[10.9s]  x=0.41, y=0.52, w=0.25, h=0.38"
+        },
+        {
+          "id": "F",
+          "text": "[0.6s]  x=0.03, y=0.58, w=0.96, h=0.42"
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The question asks for the location of a multi-part self-touching gesture. This occurs between 10.9s and 12.6s, where the person's hand moves up to touch their mouth and nose area, then rubs their forehead and eye. The coordinates in option E, [10.9s] x=0.41, y=0.52, w=0.25, h=0.38, correctly identify the start of this sequence, targeting the mouth/nose area. All other options are video-based distractors that point to real but incorrect actions: A points to the eyes at the beginning; B points to the hand next to the head later on; C points to the mouth at the beginning; D points to the raised eyebrows; F points to the initial, wide-view hand gesture at the start of the video."
+    },
+    {
+      "category": "Counterfactual Reasoning",
+      "question": "If the person had NOT exhibited the behavior observed around 10.9s - 12.6s, which of the following personality assessments would be MOST affected?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Agreeableness would be assessed as higher, as the action can be read as a sign of impatience with the viewers."
+        },
+        {
+          "id": "B",
+          "text": "Conscientiousness would be assessed as higher, since that particular behavior suggests a momentary disorganization."
+        },
+        {
+          "id": "C",
+          "text": "Extraversion would be assessed as lower, as this represents his single most energetic and engaging gesture."
+        },
+        {
+          "id": "D",
+          "text": "Neuroticism would be assessed as higher, because omitting this calming action implies greater underlying anxiety."
+        },
+        {
+          "id": "E",
+          "text": "Neuroticism would be assessed as lower, as the primary evidence for self-soothing under stress would be gone."
+        },
+        {
+          "id": "F",
+          "text": "Openness would be assessed as lower, because that specific gesture is a key indicator of imaginative thought."
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The behavior at 10.9s-12.6s is the self-soothing gesture of rubbing the face. The personality analysis explicitly cites this as the key evidence for a Medium Neuroticism score, indicating management of mild stress. If this behavior were absent, the person would appear almost entirely composed, and the main data point supporting Neuroticism would be removed, likely leading to a lower assessment. Option E is correct. Option A is a text-based distractor; Agreeableness is judged on other cues. Option B is a text-based distractor; Conscientiousness is judged on the background organization. Option C is a video-based distractor; it misidentifies this inward gesture as energetic and engaging when later actions are more so. Option D is a near-miss distractor; it correctly identifies Neuroticism but reasons in the wrong direction. Option F is a video-based distractor; Openness is supported by the collectibles, not this gesture."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator15",
+      "version": 1,
+      "clues_total": 26,
+      "clues_correct": 24,
+      "clues_wrong_corrected": 1,
+      "clues_missing_skipped": 1,
+      "clues_bonus": 0
+    }
+  }
+}

@@ -1,0 +1,322 @@
+{
+  "video_id": "IL5VgGakSNw.002.mp4",
+  "video_path": "IL5VgGakSNw.002.mp4",
+  "transcription": "I guess just, gosh, this is really hard because I feel like I've had a lot of life changes in 2015 that I feel were like a really big deal. It was pretty much a pretty boring year. I have a pretty ...",
+  "original_scores": {
+    "extraversion": 0.4672897196261683,
+    "agreeableness": 0.6703296703296703,
+    "conscientiousness": 0.5728155339805825,
+    "neuroticism": 0.5208333333333334,
+    "openness": 0.6555555555555556
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 15.5,
+      "description": "The subject maintains a direct gaze toward the camera throughout the clip. His eyebrows raise and lower in sync with his speech, particularly rising on emphasized words. His mouth moves naturally as he speaks, and his overall facial expression is neutral and engaged.",
+      "bboxes": [
+        {
+          "frame_time": 2.978069,
+          "x": 0.48963815789473686,
+          "y": 0.20789473684210527,
+          "w": 0.15098684210526317,
+          "h": 0.14473684210526316,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 2.978069,
+          "x": 0.4925986842105263,
+          "y": 0.1868421052631579,
+          "w": 0.16430921052631578,
+          "h": 0.11315789473684211,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 4.662465,
+          "x": 0.4733552631578947,
+          "y": 0.37105263157894736,
+          "w": 0.13470394736842106,
+          "h": 0.12894736842105264,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 4.662465,
+          "x": 0.471875,
+          "y": 0.22105263157894736,
+          "w": 0.12434210526315789,
+          "h": 0.29473684210526313,
+          "note": "face human-annotated",
+          "region": "face"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 15.5,
+      "description": "The subject is seated in a high-back gaming chair, leaning slightly forward. His head and torso remain relatively still, with only minor, subtle nods accompanying his speech. His hands are not visible in the frame.",
+      "bboxes": [
+        {
+          "frame_time": 15.30195,
+          "x": 0.36085526315789473,
+          "y": 0.3684210526315789,
+          "w": 0.35674342105263157,
+          "h": 0.4789473684210526,
+          "note": "pose human-annotated",
+          "region": "torso"
+        },
+        {
+          "frame_time": 3.002281,
+          "x": 0.4763157894736842,
+          "y": 0.12631578947368421,
+          "w": 0.17467105263157895,
+          "h": 0.3684210526315789,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 3.002281,
+          "x": 0.5991776315789473,
+          "y": 0.7868421052631579,
+          "w": 0.2501644736842105,
+          "h": 0.19473684210526315,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 15.5,
+      "description": "Speech is delivered at a moderate, conversational pace. The pitch is in a consistent mid-range with slight upward inflections for emphasis. Short, filled pauses (\"uh\" at 0:01 and \"um\" at 0:07 and 0:12) are interspersed between phrases. The volume remains even.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.5,
+      "description": "The subject is a young male with short, dark brown hair and fair skin. He is wearing a black zip-up hoodie with a white eagle graphic and white drawstrings, along with black over-ear headphones. He is in an indoor setting, seated in a red and black gaming chair. To his right is a red condenser microphone on a boom arm. In the background, there are white horizontal window blinds. The lighting is cool and appears to be from a source in front of him.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Medium",
+      "score": 0.47,
+      "rationale": "The subject's Extraversion is rated as Medium. While the fast conversational pace and direct eye contact with the camera suggest social confidence and engagement, these are balanced by a contained physical presence. The relative stillness of his head and torso, coupled with the absence of visible hand gestures, indicates a more moderate level of social energy, steering away from the high animation typical of pronounced extraverts.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "High",
+      "score": 0.67,
+      "rationale": "The subject's High Agreeableness is evidenced by his approachable and non-confrontational demeanor. His facial expression is neutral and focused, and his vocal tone is even and consistent, creating a pleasant and cooperative impression. The subtle eyebrow raises during speech serve to add emphasis in a friendly, engaging manner rather than an assertive one, which is characteristic of individuals who prioritize social harmony.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Medium",
+      "score": 0.57,
+      "rationale": "A Medium Conscientiousness score is supported by a mix of preparatory and spontaneous behaviors. The dedicated recording setup (gaming chair, condenser microphone) implies a degree of planning and diligence. However, the speech itself, containing filler words ('uh', 'um') and a self-contradiction ('a really big deal' vs. 'a pretty boring year'), suggests he is thinking on the fly rather than following a meticulously prepared script. This balance between a structured environment and impromptu delivery points to a medium level of conscientiousness.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Medium",
+      "score": 0.52,
+      "rationale": "The subject's Neuroticism is assessed as Medium. He verbally expresses difficulty with the task ('gosh, this is really hard'), a direct indicator of experiencing some stress or self-doubt. However, this internal state is not matched by his physical presentation. His calm and focused expression, relaxed posture, and steady vocal tone suggest an ability to manage these feelings without becoming overtly anxious or distressed, placing him in the mid-range for this trait.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "High",
+      "score": 0.66,
+      "rationale": "The subject scores High in Openness, primarily demonstrated by his engagement in a deeply introspective task. He is actively contemplating and analyzing his past ('life changes in 2015'), a behavior that requires a capacity for abstract thought and a willingness to explore one's own feelings. The very act of recording and sharing such personal reflections suggests an intellectual curiosity and a comfort with new experiences and ideas, which are core facets of the Openness dimension.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During 0s - 5s, the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Low Conscientiousness because his speech shows a lack of prior preparation."
+        },
+        {
+          "id": "B",
+          "text": "Medium Neuroticism due to the contrast between his words and his composure."
+        },
+        {
+          "id": "C",
+          "text": "High Openness as he is engaging in a complex introspective task from start."
+        },
+        {
+          "id": "D",
+          "text": "High Neuroticism because he verbally expresses significant stress and worry."
+        },
+        {
+          "id": "E",
+          "text": "High Extraversion because of the fast conversational pace used in his speech."
+        },
+        {
+          "id": "F",
+          "text": "Low Agreeableness since he starts by complaining about the task's difficulty."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. In this interval, the person verbally expresses that the task is 'really hard' (an indicator of feeling stress/self-doubt, related to Neuroticism) but simultaneously maintains a calm and focused physical demeanor. This combination of experiencing but managing stress supports a Medium, not High or Low, Neuroticism score. \nOption A is a video-based distractor; while his speech does contain fillers ('uh', 'um') that hint at medium conscientiousness, this is not the most salient pattern in this specific time frame compared to the neuroticism cues.\nOption C is a text-based distractor; engaging in the task supports Openness, but this is a general observation about the entire video, not the specific behavioral pattern in the first 5 seconds.\nOption D is a near-miss distractor; it correctly identifies the trait (Neuroticism) but misinterprets the level. His calm physical state contradicts a 'High' rating.\nOption E is a video-based distractor; the fast pace is a feature of his speech throughout the clip and relates to Extraversion, but the verbal content of difficulty in this specific segment is more directly informative about Neuroticism.\nOption F is a text-based distractor; interpreting 'this is hard' as a complaint suggesting low agreeableness is a plausible linguistic shortcut, but his tone and overall demeanor are cooperative, not uncooperative."
+    },
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their Medium Neuroticism level?",
+      "options": [
+        {
+          "id": "A",
+          "text": "0.0s - 1.0s"
+        },
+        {
+          "id": "B",
+          "text": "2.5s - 3.5s"
+        },
+        {
+          "id": "C",
+          "text": "5.0s - 6.0s"
+        },
+        {
+          "id": "D",
+          "text": "7.0s - 8.0s"
+        },
+        {
+          "id": "E",
+          "text": "9.5s - 10.5s"
+        },
+        {
+          "id": "F",
+          "text": "12.0s - 13.0s"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. Around 2.5s-3.5s, while saying the words 'really hard,' his eyebrows raise for emphasis. This occurs concurrently with the verbal admission of difficulty, which is the primary evidence for his Neuroticism score. The facial expression here reinforces the verbal cue of felt stress. \nOption A is a video-based distractor; this is the very beginning of his speech, where his expression is setting into a neutral, focused state.\nOption C is a video-based distractor; another eyebrow raise for emphasis occurs here on 'life changes,' but this relates more to the narrative content (Openness) than to the expression of internal stress (Neuroticism).\nOption D is a video-based distractor; this interval corresponds to a filler word ('um'), which involves a slight pause but not a significant expressive change relevant to Neuroticism.\nOption E is a video-based distractor; this interval covers him saying 'pretty boring year,' where his expression remains neutral and focused.\nOption F is a video-based distractor; this interval contains another filler word ('um') with minimal expressive change."
+    },
+    {
+      "category": "Mixed Emotion Discrimination",
+      "question": "During 0s - 5s, the person's emotional state is best characterized as which of the following? Consider both verbal and non-verbal cues.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Intellectual curiosity tempered by a feeling of mild social awkwardness."
+        },
+        {
+          "id": "B",
+          "text": "Cognitive difficulty on the task mixed with a sense of composed regulation."
+        },
+        {
+          "id": "C",
+          "text": "Frustrated impatience with the process tempered by a desire to cooperate."
+        },
+        {
+          "id": "D",
+          "text": "Feigned confusion about the topic mixed with an undercurrent of amusement."
+        },
+        {
+          "id": "E",
+          "text": "Deep concentration on a memory mixed with a feeling of detached analysis."
+        },
+        {
+          "id": "F",
+          "text": "Slight anxiety over performance tempered by a projection of confidence."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. During this interval, he verbally states, 'gosh, this is really hard,' which directly indicates cognitive difficulty. However, his facial expression is neutral and focused, his posture is relaxed, and his vocal tone is steady. This combination of cues points to an internal state of difficulty that is being actively managed with composed emotional regulation.\nOption A is a near-miss distractor; he does show curiosity (Openness), but his direct eye contact and steady delivery do not support 'social awkwardness.'\nOption C is a text-based distractor; words like 'frustration' and 'impatience' are too strong and not supported by his calm non-verbal behavior.\nOption D is a text-based distractor; there is no visual or auditory evidence to suggest his difficulty is 'feigned' or that he is amused.\nOption E is a video-based distractor; while he is concentrating, the primary emotional signal in this specific segment is his verbalization of difficulty, not detached analysis of a memory (which comes later).\nOption F is a near-miss distractor; 'slight anxiety' is plausible, but 'composed regulation' is a more accurate description of his non-verbal state than a 'projection of confidence,' which implies masking insecurity."
+    },
+    {
+      "category": "Temporal-Causal Reasoning",
+      "question": "Consider the sequence of behaviors observed across the video. Which of the following best describes the causal chain linking the person's actions at different moments?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A period of reflective thought (5-11s) causes him to express task difficulty (0-3s), which is then managed through consistent self-monitoring (0-15s)."
+        },
+        {
+          "id": "B",
+          "text": "An initial self-monitoring verbalization (0-3s) leads to a moment of cognitive dissonance in speech (5-11s), managed by continuous emotional regulation (0-15s)."
+        },
+        {
+          "id": "C",
+          "text": "A display of continuous emotional regulation (0-15s) causes a brief verbal self-monitoring cue (0-3s), which in turn prompts cognitive dissonance (5-11s)."
+        },
+        {
+          "id": "D",
+          "text": "An initial display of social confidence (0-3s) is followed by a compensatory period of verbal hesitation (5-11s), prompting a focused gaze to recover (12-15s)."
+        },
+        {
+          "id": "E",
+          "text": "Cognitive dissonance in his speech (5-11s) is followed by an increase in self-monitoring cues (12-15s), which explains his initial emotional regulation (0-3s)."
+        },
+        {
+          "id": "F",
+          "text": "A verbal self-monitoring cue (0-3s) leads to continuous emotional regulation (0-15s), which then successfully prevents any cognitive dissonance in speech (5-11s)."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. This option correctly identifies the sequence and causal links: 1) He begins by verbalizing the task's difficulty ('this is hard'), a form of self-monitoring. 2) This cognitive load leads him to contradict himself ('really big deal' vs. 'pretty boring year'), a classic sign of cognitive dissonance while thinking aloud. 3) Throughout this entire process, he maintains a steady gaze and calm posture, which is an ongoing act of emotional regulation to manage the cognitive load.\nOption A is a distractor with reversed temporal order; the expression of difficulty at 0-3s happens before the reflective thought at 5-11s.\nOption C is a distractor with incorrect causality; his regulation doesn't cause his feeling of difficulty; rather, it's a response to it.\nOption D is a text-based distractor; 'social confidence' is not the primary display at 0-3s (it's self-doubt), and his gaze is focused throughout, not just as a recovery mechanism.\nOption E is a distractor with reversed temporal order; it incorrectly places the effect (dissonance) before the cause (initial state).\nOption F is a near-miss distractor; it gets the first causal link right but makes a critical error in the second, claiming that regulation *prevented* dissonance when in fact the dissonance is audibly present in his speech."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 15.3s, a region was detected in the video (x=0.361, y=0.368, w=0.357, h=0.479, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sustained and direct eye contact showing focused engagement with the camera."
+        },
+        {
+          "id": "B",
+          "text": "A relaxed and neutral upright posture maintained steadily in the gaming chair."
+        },
+        {
+          "id": "C",
+          "text": "A body posture that indicates a slight, subtle lean forward into the camera."
+        },
+        {
+          "id": "D",
+          "text": "Expressive eyebrow movements that are timed to add emphasis to his speech."
+        },
+        {
+          "id": "E",
+          "text": "A generally neutral facial expression that shows a deep, focused concentration."
+        },
+        {
+          "id": "F",
+          "text": "A relatively still head position accompanied by very subtle nodding motions."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. The provided coordinates (x=0.361, y=0.368, w=0.357, h=0.479) encompass the person's torso and the chair. The observation log confirms that in this region, the person is sitting upright without leaning forward, indicating a relaxed and neutral posture.\nOption A is a video-based distractor; this describes the action in the eye region, which is outside the specified bounding box.\nOption C is a near-miss distractor; it correctly identifies the body region (torso/posture) but describes the action incorrectly. The observation log and near-miss material confirm he is *not* leaning forward.\nOption D is a video-based distractor; this describes the action in the eyebrow region, which is much higher up on the face and outside the specified bounding box.\nOption E is a video-based distractor; this describes the overall facial expression, a different and smaller region than the one specified by the coordinates.\nOption F is a video-based distractor; this describes the action of the head, which is located above the specified torso region."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator14",
+      "version": 1,
+      "clues_total": 9,
+      "clues_correct": 7,
+      "clues_wrong_corrected": 2,
+      "clues_missing_skipped": 0,
+      "clues_bonus": 0
+    }
+  }
+}

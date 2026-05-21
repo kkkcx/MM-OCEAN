@@ -1,0 +1,484 @@
+{
+  "video_id": "1Wh2mIFrGvk.000.mp4",
+  "video_path": "1Wh2mIFrGvk.000.mp4",
+  "transcription": "You're not giving yourself enough calories to put on new muscle, new tissue. It has to come from somewhere. Right? Muscle doesn't just, boom, come out of nowhere. You actually have to provide it with the building blocks, the calories, protein, carbs, fats. Everything-",
+  "original_scores": {
+    "extraversion": 0.4672897196261683,
+    "agreeableness": 0.5274725274725275,
+    "conscientiousness": 0.6699029126213591,
+    "neuroticism": 0.6458333333333333,
+    "openness": 0.6222222222222222
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 4.67,
+      "description": "The subject maintains eye contact with the camera. His eyebrows raise slightly as he speaks, and his mouth moves naturally with his speech. His overall facial expression is neutral and engaged.",
+      "bboxes": [
+        {
+          "frame_time": 0,
+          "x": 0.16101973684210524,
+          "y": 0.17421052832352488,
+          "w": 0.13766447368421053,
+          "h": 0.07105263157894737,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 3.112159,
+          "x": 0.2276315789473684,
+          "y": 0.1268421072708933,
+          "w": 0.12434210526315789,
+          "h": 0.04473684210526316,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 3.00784,
+          "x": 0.2601973684210526,
+          "y": 0.24526315990247224,
+          "w": 0.09769736842105263,
+          "h": 0.10263157894736842,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 3.477272,
+          "x": 0.21578947368421053,
+          "y": 0.13210526516563015,
+          "w": 0.14950657894736843,
+          "h": 0.2394736842105263,
+          "note": "face human-annotated",
+          "region": "face"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 4.67,
+      "end_time": 6.37,
+      "description": "The subject's eyebrows raise significantly and his eyes widen slightly as he says, \"has to come from somewhere. Right?\" He gives a quick, slight smile at the end of the phrase.",
+      "bboxes": [
+        {
+          "frame_time": 4.868181,
+          "x": 0.22615131578947367,
+          "y": 0.10578947569194593,
+          "w": 0.1361842105263158,
+          "h": 0.04736842105263158,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 5.650568,
+          "x": 0.3638157894736842,
+          "y": 0.1768421072708933,
+          "w": 0.10065789473684211,
+          "h": 0.07894736842105263,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 6.137386,
+          "x": 0.48963815789473686,
+          "y": 0.2610526335866828,
+          "w": 0.07993421052631579,
+          "h": 0.06842105263157895,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 6.37,
+      "end_time": 15.54,
+      "description": "He returns to a more neutral but engaged expression, continuing to hold eye contact with the camera. His eyebrows move up and down for emphasis in sync with his speech.",
+      "bboxes": [
+        {
+          "frame_time": 11.127272,
+          "x": 0.3327302631578947,
+          "y": 0.24526315990247224,
+          "w": 0.11990131578947369,
+          "h": 0.2131578947368421,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 11.127272,
+          "x": 0.33865131578947366,
+          "y": 0.27157894937615645,
+          "w": 0.10213815789473685,
+          "h": 0.07105263157894737,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 11.180856,
+          "x": 0.3194078947368421,
+          "y": 0.21894737042878804,
+          "w": 0.11398026315789474,
+          "h": 0.06578947368421052,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 2.22,
+      "description": "The subject stands shirtless, facing the camera. He gestures with his right hand, palm up, at chest level. His left hand holds a blue marker, resting near his waist.",
+      "bboxes": [
+        {
+          "frame_time": 0,
+          "x": 0.002631578947368412,
+          "y": 0.43210526516563014,
+          "w": 0.4544407894736842,
+          "h": 0.4868421052631579,
+          "note": "pose human-annotated",
+          "region": "torso"
+        },
+        {
+          "frame_time": 0.191274,
+          "x": 0.048519736842105254,
+          "y": 0.537368423060367,
+          "w": 0.2087171052631579,
+          "h": 0.3026315789473684,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 0.747708,
+          "x": 0.3401315789473684,
+          "y": 0.8215789493761565,
+          "w": 0.10065789473684211,
+          "h": 0.16578947368421051,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 2.22,
+      "end_time": 4.64,
+      "description": "He raises both hands in front of his chest in an open, illustrative gesture as he speaks.",
+      "bboxes": [
+        {
+          "frame_time": 2.451789,
+          "x": 0.02335526315789473,
+          "y": 0.5163157914814196,
+          "w": 0.5625,
+          "h": 0.3631578947368421,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 4.64,
+      "end_time": 8.51,
+      "description": "He lowers his hands, then brings them back up and gestures expansively outwards with both hands, palms open, on the word \"boom.\"",
+      "bboxes": [
+        {
+          "frame_time": 7.58142,
+          "x": 0.4763157894736842,
+          "y": 0.7742105283235249,
+          "w": 0.37006578947368424,
+          "h": 0.22105263157894736,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 8.103078,
+          "x": 0.18618421052631579,
+          "y": 0.5426315809551038,
+          "w": 0.4677631578947368,
+          "h": 0.28421052631578947,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 8.51,
+      "end_time": 13.91,
+      "description": "He brings his hands together in front of his chest, gesturing as if presenting something. He holds the blue marker in his right hand throughout.",
+      "bboxes": [
+        {
+          "frame_time": 13.7022,
+          "x": 0.5059210526315789,
+          "y": 0.5110526335866827,
+          "w": 0.27828947368421053,
+          "h": 0.22631578947368422,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 13.7022,
+          "x": 0.7383223684210526,
+          "y": 0.5057894756919459,
+          "w": 0.03848684210526316,
+          "h": 0.2,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 13.91,
+      "end_time": 15.54,
+      "description": "He makes a broad, sweeping gesture from left to right with his right hand, which is holding the marker.",
+      "bboxes": [
+        {
+          "frame_time": 14.223858,
+          "x": 0.5399671052631579,
+          "y": 0.5663157914814196,
+          "w": 0.21463815789473684,
+          "h": 0.23684210526315788,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 4.64,
+      "description": "Speech is delivered at a moderate, clear pace. Pitch and volume are steady. Stress is placed on the words \"calories,\" \"muscle,\" and \"tissue.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 4.64,
+      "end_time": 6.3,
+      "description": "His pitch rises significantly on the word \"Right?\" turning the statement into a question.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 6.3,
+      "end_time": 8.36,
+      "description": "The word \"boom\" is spoken with a sharp, plosive emphasis and at a slightly higher volume.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 8.36,
+      "end_time": 15.54,
+      "description": "He lists items (\"calories, protein, carbs, fats\") with a distinct, punctuated rhythm, placing emphasis on each word. The pitch falls at the end of the final phrase.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.54,
+      "description": "The subject is a shirtless, muscular man with a light tan skin tone and short, dark hair. He is standing indoors in what appears to be a gym. To his right is a large white dry-erase board with a numbered list written in blue marker. The list includes phrases like \"Genetics,\" \"You Are WEAK,\" \"Low Chest Training Frequency,\" and \"Not Enough KCal.\" In the background to his left, various pieces of gym equipment, including racks and what appear to be rowing machines, are visible. The lighting is functional and even, originating from the front and above.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 6.855369,
+      "end_time": 7.855369,
+      "description": "He glanced to the right, as if asking something.",
+      "bboxes": [
+        {
+          "frame_time": 7.355369,
+          "x": 0.45707236842105264,
+          "y": 0.26368421253405117,
+          "w": 0.1569078947368421,
+          "h": 0.09473684210526316,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Medium",
+      "score": 0.47,
+      "rationale": "The subject's Extraversion score is rated as Medium. He displays some extraverted characteristics, such as speaking directly to an audience and using expressive, illustrative hand gestures and vocal emphasis (e.g., the explosive 'boom'). This indicates a degree of social confidence and energy. However, his demeanor is primarily instructional and focused rather than broadly sociable or gregarious. The controlled, didactic nature of his presentation suggests a balance between the outward-facing demands of teaching and a more reserved, task-oriented focus, which is consistent with a mid-range Extraversion level.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Medium",
+      "score": 0.53,
+      "rationale": "The subject's Agreeableness is rated as Medium. His fundamental goal is to provide helpful, educational information, which is a pro-social, agreeable motivation. However, his communication style is direct and authoritative rather than warm and collaborative. Phrases on the whiteboard such as 'You Are WEAK' suggest a blunt, challenging approach that prioritizes straightforwardness over emotional sensitivity. This combination of a helpful intent with a direct, non-empathetic delivery style supports a personality that is neither highly agreeable nor disagreeable.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "High",
+      "score": 0.67,
+      "rationale": "The subject demonstrates numerous indicators of high Conscientiousness. The presence of a whiteboard with a pre-written, numbered list is strong evidence of planning, organization, and a methodical approach. His speech is structured and logical, breaking down a concept into its constituent parts. The clear, rhythmic enumeration of 'calories, protein, carbs, fats' and the fact that he is holding a marker throughout the clip reinforce his role as a prepared instructor. This systematic and goal-oriented behavior is a hallmark of a highly conscientious individual.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "High",
+      "score": 0.65,
+      "rationale": "A High Neuroticism score is supported by behaviors that can be interpreted as stemming from self-consciousness and a need for validation. The choice to appear shirtless, displaying an idealized muscular physique, is a form of self-presentation that suggests a strong concern with how he is perceived physically. The forceful, authoritative tone and the direct, almost confrontational, phrases on the whiteboard ('You Are WEAK') can act as overcompensations for underlying anxiety about his expertise being challenged. This intense focus on performance and image is consistent with the self-critical and socially evaluative tendencies of high Neuroticism.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "High",
+      "score": 0.62,
+      "rationale": "The subject scores High in Openness, reflected in his engagement with abstract concepts and his desire to teach. Creating educational content about a scientific topic (biology/nutrition) demonstrates intellectual curiosity. He uses creative and varied communication techniques to convey his ideas effectively, such as employing the explosive word 'boom' with a corresponding expansive gesture to illustrate a point vividly. This combination of intellectual engagement and an imaginative teaching style is characteristic of individuals high in Openness.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their level of Agreeableness?",
+      "options": [
+        {
+          "id": "A",
+          "text": "7.8s - 8.8s"
+        },
+        {
+          "id": "B",
+          "text": "0.1s - 1.1s"
+        },
+        {
+          "id": "C",
+          "text": "10.7s - 11.7s"
+        },
+        {
+          "id": "D",
+          "text": "4.7s - 6.4s"
+        },
+        {
+          "id": "E",
+          "text": "13.9s - 14.9s"
+        },
+        {
+          "id": "F",
+          "text": "2.5s - 3.5s"
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "The correct answer is D. This interval captures a complex facial change where the person's eyebrows raise, his eyes widen, and he concludes with a quick, slight smile as he says 'Right?'. This combination of questioning and a social cue (the smile) is a key moment for assessing the blend of directness and pro-social intent that defines his Medium Agreeableness score.\n\n- Option A is a video-based distractor. This interval covers the 'boom' gesture, which is a significant body language event but not the most relevant facial expression change for Agreeableness.\n- Option B is a video-based distractor. This is the beginning of the video where he establishes a neutral, engaged expression, lacking a notable change.\n- Option C is a video-based distractor. During this time, he is listing items with a focused and relatively stable facial expression, without a specific micro-expression change.\n- Option E is a video-based distractor. This is near the end of the clip, where his expression remains consistent with his didactic, focused state.\n- Option F is a near-miss distractor. It is temporally close to the correct answer but occurs just before the key shift, capturing the preceding engaged expression rather than the notable change itself."
+    },
+    {
+      "category": "Temporal-Causal Reasoning",
+      "question": "Consider the sequence of behaviors observed across the video. Which of the following best describes the causal chain linking the person's actions at different moments?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A structured elaboration of facts leads to an expression of rhetorical validation, which is then summarized by a final didactic framing."
+        },
+        {
+          "id": "B",
+          "text": "A display of personal physical confidence prompts a challenging question to the audience, which is then resolved through an emotional appeal."
+        },
+        {
+          "id": "C",
+          "text": "An expression of self-doubt is followed by a compensatory display of authority, which then transitions into a simplified summary of ideas."
+        },
+        {
+          "id": "D",
+          "text": "An initial didactic framing of a concept leads to a bid for rhetorical validation, which is then followed by a structured elaboration of parts."
+        },
+        {
+          "id": "E",
+          "text": "An initial didactic framing of a concept leads to a moment of genuine confusion, which is then clarified by means of structured elaboration."
+        },
+        {
+          "id": "F",
+          "text": "An attempt at audience connection is followed by a shift to abstract theory, which concludes with a demonstration of his personal expertise."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "The correct answer is D. The video follows a logical teaching structure: First, he presents a general concept or premise (didactic framing, 0-4s). Next, he engages the audience to confirm understanding with a rhetorical question ('Right?', 4-6s). Finally, he supports the initial premise with specific, organized examples (structured elaboration, 8s+).\n\n- Option A is a temporal reversal distractor. It places the 'structured elaboration' at the beginning and the 'didactic framing' at the end, which is the opposite of the observed sequence.\n- Option B is a video-based distractor. While he displays confidence and asks a question, the resolution is not an 'emotional appeal' but a logical enumeration of facts.\n- Option C is a text-based distractor. This describes a plausible psychological pattern, but there is no evidence of 'self-doubt' at the beginning of the video; he appears confident and prepared.\n- Option E is a near-miss distractor. It has the correct temporal order but incorrectly interprets the rhetorical question ('Right?') as a moment of 'genuine confusion' rather than a confident teaching technique.\n- Option F is a text-based distractor. It describes a reasonable teaching flow, but the specific sequence in the video is better described as framing -> validating -> elaborating, not connecting -> theorizing -> demonstrating."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 0.2s, a region was detected in the video (x=0.049, y=0.537, w=0.209, h=0.303, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A neutral facial expression suggesting a focused mental concentration."
+        },
+        {
+          "id": "B",
+          "text": "A quick and subtle smile appearing at the corners of the mouth area."
+        },
+        {
+          "id": "C",
+          "text": "A slight widening of the eyes to signal an important rhetorical question."
+        },
+        {
+          "id": "D",
+          "text": "A hand making an open, palm-up gesture to present a certain concept."
+        },
+        {
+          "id": "E",
+          "text": "Both hands being lowered to rest near the person's lower waist area."
+        },
+        {
+          "id": "F",
+          "text": "A slight raising of the eyebrows to add some minor verbal emphasis."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "The correct answer is D. The provided coordinates at 0.2s correspond to the person's right hand. At this moment, he is holding his hand up with the palm facing upwards in a gesture that presents or introduces the topic he is discussing.\n\n- Option A is a video-based distractor. This describes the person's facial expression, but the bounding box is clearly on his hand, not his face.\n- Option B is a video-based distractor. A smile occurs later in the video (around 6.1s) and is located on the mouth, not in the specified hand region at 0.2s.\n- Option C is a video-based distractor. The eyes widen later (around 5.7s), and the specified bounding box is not on the eyes.\n- Option E is a text-based distractor. While he does lower his hands later in the clip, at 0.2s his hand is raised, not lowered. This is plausible but incorrect.\n- Option F is a near-miss distractor. The eyebrows do raise for emphasis at various points, but the bounding box is explicitly on the hand, testing spatial localization."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "The person uses a broad, two-handed gesture to illustrate a core concept expansively. Which of the following options correctly identifies the location and timing of this specific action?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[6.1s] x=0.49, y=0.26, w=0.08, h=0.07"
+        },
+        {
+          "id": "B",
+          "text": "[13.7s] x=0.51, y=0.51, w=0.28, h=0.23"
+        },
+        {
+          "id": "C",
+          "text": "[0.2s] x=0.05, y=0.54, w=0.21, h=0.30"
+        },
+        {
+          "id": "D",
+          "text": "[2.5s] x=0.02, y=0.52, w=0.56, h=0.36"
+        },
+        {
+          "id": "E",
+          "text": "[11.1s] x=0.33, y=0.25, w=0.12, h=0.21"
+        },
+        {
+          "id": "F",
+          "text": "[5.7s] x=0.36, y=0.18, w=0.10, h=0.08"
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "The correct answer is D. The coordinates at 2.5s (x=0.02, y=0.52, w=0.56, h=0.36) define a wide bounding box that covers both of the person's hands as he lifts and spreads them apart in an open, illustrative gesture to explain his point. This matches the description of a broad, two-handed gesture.\n\n- Option A is a video-based distractor. This timestamp and small bounding box isolate the mouth during a quick smile.\n- Option B is a video-based distractor. This bounding box at 13.7s captures his hands held together in front of him, which is not a broad or expansive gesture.\n- Option C is a video-based distractor. This captures his single right hand at the very beginning of the clip, not a two-handed gesture.\n- Option E is a video-based distractor. This timestamp and bounding box isolate his face while he is talking.\n- Option F is a near-miss distractor. This timestamp and small bounding box isolate his eyes as they widen, not the hand gesture."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator03",
+      "version": 1,
+      "clues_total": 25,
+      "clues_correct": 24,
+      "clues_wrong_corrected": 0,
+      "clues_missing_skipped": 0,
+      "clues_bonus": 1
+    }
+  }
+}

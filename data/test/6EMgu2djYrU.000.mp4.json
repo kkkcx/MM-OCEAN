@@ -1,0 +1,503 @@
+{
+  "video_id": "6EMgu2djYrU.000.mp4",
+  "video_path": "6EMgu2djYrU.000.mp4",
+  "transcription": "Heaven, yeah they did. But I had a gerbil. I think it was my first, like my own pet. I think it was for my birthday when I was nine. He was called Pikachu.",
+  "original_scores": {
+    "extraversion": 0.4672897196261683,
+    "agreeableness": 0.4065934065934066,
+    "conscientiousness": 0.36893203883495146,
+    "neuroticism": 0.4375,
+    "openness": 0.3666666666666667
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 3.96,
+      "description": "Subject gazes upwards and to his right, then slightly downwards. His mouth is slightly open, then closes and forms a slight, asymmetrical smile while his right hand strokes his chin. Eyebrows are neutral.",
+      "bboxes": [
+        {
+          "frame_time": 0.696599,
+          "x": 0.3926809210526316,
+          "y": 0.3061403475309673,
+          "w": 0.17911184210526315,
+          "h": 0.1631578947368421,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 0.876123,
+          "x": 0.42672697368421053,
+          "y": 0.3587719264783357,
+          "w": 0.14950657894736843,
+          "h": 0.1,
+          "note": "human-annotated",
+          "region": "unknown"
+        },
+        {
+          "frame_time": 3.645538,
+          "x": 0.46817434210526315,
+          "y": 0.53508771595202,
+          "w": 0.14210526315789473,
+          "h": 0.11842105263157894,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 1.21624,
+          "x": 0.4607730263157895,
+          "y": 0.516666663320441,
+          "w": 0.12138157894736842,
+          "h": 0.09210526315789473,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 1.21624,
+          "x": 0.3704769736842105,
+          "y": 0.5403508738467567,
+          "w": 0.2368421052631579,
+          "h": 0.3736842105263158,
+          "note": "human-annotated",
+          "region": "chin"
+        },
+        {
+          "frame_time": 3.560589,
+          "x": 0.41488486842105265,
+          "y": 0.3271929791099147,
+          "w": 0.16282894736842105,
+          "h": 0.15789473684210525,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 3.96,
+      "end_time": 5.37,
+      "description": "Subject looks directly at the camera, smiles more broadly, and his eyebrows raise slightly as he begins to speak again.",
+      "bboxes": [
+        {
+          "frame_time": 4.951801,
+          "x": 0.39120065789473685,
+          "y": 0.3271929791099147,
+          "w": 0.15394736842105264,
+          "h": 0.11578947368421053,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 4.546455,
+          "x": 0.3808388157894737,
+          "y": 0.24824561068886206,
+          "w": 0.18503289473684212,
+          "h": 0.17894736842105263,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 5.37,
+      "end_time": 15,
+      "description": "The smile fades into a neutral, conversational expression. His eyebrows remain relaxed but move up and down slightly in coordination with his speech for emphasis.",
+      "bboxes": [
+        {
+          "frame_time": 7.345766,
+          "x": 0.36751644736842104,
+          "y": 0.3061403475309673,
+          "w": 0.1879934210526316,
+          "h": 0.3473684210526316,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 7.345766,
+          "x": 0.3852796052631579,
+          "y": 0.31140350542570416,
+          "w": 0.18503289473684212,
+          "h": 0.3473684210526316,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 7.345766,
+          "x": 0.3734375,
+          "y": 0.2903508738467568,
+          "w": 0.18947368421052632,
+          "h": 0.13157894736842105,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 3.96,
+      "description": "Subject is seated, facing the camera. His right hand is raised, with his fingers gently stroking his chin and right jaw area.",
+      "bboxes": [
+        {
+          "frame_time": 0,
+          "x": 0.32754934210526315,
+          "y": 0.15350876858359888,
+          "w": 0.3182565789473684,
+          "h": 0.6605263157894737,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 0,
+          "x": 0.4489309210526316,
+          "y": 0.4008771896362305,
+          "w": 0.1569078947368421,
+          "h": 0.4842105263157895,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 0,
+          "x": 0.4474506578947368,
+          "y": 0.40614034753096734,
+          "w": 0.15542763157894737,
+          "h": 0.25,
+          "note": "human-annotated",
+          "region": "chin"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 3.96,
+      "end_time": 5.37,
+      "description": "He lowers his right hand slightly and then raises his right index finger, pointing directly toward the camera.",
+      "bboxes": [
+        {
+          "frame_time": 4.400835,
+          "x": 0.47705592105263156,
+          "y": 0.5114035054257041,
+          "w": 0.17023026315789475,
+          "h": 0.4368421052631579,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 4.400835,
+          "x": 0.5037006578947368,
+          "y": 0.5535087685835989,
+          "w": 0.1361842105263158,
+          "h": 0.2710526315789474,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 4.400835,
+          "x": 0.49481907894736843,
+          "y": 0.5929824527941252,
+          "w": 0.16282894736842105,
+          "h": 0.2631578947368421,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 5.37,
+      "end_time": 12.82,
+      "description": "He transitions the pointing gesture into a thumbs-up with his right hand, holding it steady in the lower right portion of the frame.",
+      "bboxes": [
+        {
+          "frame_time": 6.640907,
+          "x": 0.6221217105263158,
+          "y": 0.48508771595201994,
+          "w": 0.1450657894736842,
+          "h": 0.5,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 12.82,
+      "end_time": 15,
+      "description": "He changes the thumbs-up gesture back to a pointing gesture with his right index finger, moving it up and down slightly for emphasis as he speaks.",
+      "bboxes": [
+        {
+          "frame_time": 12.82,
+          "x": 0.4474506578947368,
+          "y": 0.5192982422678094,
+          "w": 0.18503289473684212,
+          "h": 0.2394736842105263,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 12.82,
+          "x": 0.41932565789473686,
+          "y": 0.4903508738467568,
+          "w": 0.14654605263157894,
+          "h": 0.17105263157894737,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 3.96,
+      "description": "Speech is delivered at a slow, deliberate pace with a slightly breathy quality on the word \"heaven.\" A significant pause of approximately one second occurs after \"heaven\" and again after \"did.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 3.96,
+      "end_time": 15,
+      "description": "The speech rate becomes faster and more conversational. The overall pitch is stable, with slight upward inflections for emphasis on words like \"first,\" \"own pet,\" and \"birthday.\" The phrase ends with clear enunciation.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15,
+      "description": "The subject is a young man with dark, short-cropped hair, sitting on a dark couch in an indoor setting. He is wearing a red zip-up jacket over a dark grey t-shirt. The scene is flanked by two large, green, plush Minecraft Creeper pillows. The pillow on the right has a green Luigi-style cap on it. On the wall behind him are two video game posters: one for Grand Theft Auto V on the left and a large Vault-Tec poster from the Fallout series on the right. The lighting is frontal, casting a slight green hue over the scene.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 14.566878,
+      "end_time": 15.566878,
+      "description": "The person being observed has particularly thick eyebrows",
+      "bboxes": [
+        {
+          "frame_time": 15.066878,
+          "x": 0.3734375,
+          "y": 0.316666663320441,
+          "w": 0.19539473684210526,
+          "h": 0.11842105263157894,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Medium",
+      "score": 0.47,
+      "rationale": "The subject's Extraversion level is assessed as Medium. His behavior presents a blend of introverted and extraverted characteristics. The initial phase, marked by an averted downward gaze, slow and deliberate speech, and self-touching (chin stroking), points to an internal cognitive process of memory recall, typical of more introverted tendencies. However, he then transitions to more socially expressive behaviors, using hand gestures (pointing, thumbs-up) and vocal modulation to emphasize his story. This balance between thoughtful, internal processing and subsequent social expression supports a mid-range score, indicating someone who is capable of social engagement but also comfortable with introspection.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Medium",
+      "score": 0.41,
+      "rationale": "The subject's Agreeableness is rated as Medium. His overall demeanor is relaxed and non-confrontational. He shares a pleasant childhood memory with a slight, gentle smile and a conversational tone. The use of a thumbs-up gesture further contributes to a positive and cooperative impression. However, his expressions are generally subdued and neutral rather than overtly warm or effusive. This lack of strong emotional signaling, combined with a generally pleasant and easygoing manner, is consistent with an individual who is agreeable but not exceptionally expressive of warmth, aligning with a medium score.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Low",
+      "score": 0.37,
+      "rationale": "The subject's Conscientiousness is rated as Low. The primary evidence is his communication style, which appears spontaneous rather than planned. The initial slow, searching pace of his speech, complete with pauses, suggests he is formulating his thoughts in the moment. While he speaks clearly, the narrative lacks a premeditated structure. This inclination towards spontaneous expression, as opposed to a more deliberate and organized delivery, is characteristic of individuals who score lower on conscientiousness, favoring flexibility over rigid preparation.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Medium",
+      "score": 0.44,
+      "rationale": "The subject's Neuroticism is assessed as Medium. There are subtle, initial cues that could indicate mild self-consciousness, such as stroking his chin—a common self-soothing behavior—and averting his gaze from the camera. However, these behaviors are transient. He quickly settles into a composed state, speaking with a stable vocal tone and employing steady hand gestures. This pattern, showing a brief moment of potential unease followed by a sustained period of calm and control, suggests an average level of emotional stability, consistent with a medium Neuroticism score.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "Low",
+      "score": 0.37,
+      "rationale": "The subject's Openness is rated as Low. His narrative is grounded in a concrete, conventional childhood memory (getting a first pet). His language is straightforward and factual, lacking abstract concepts or imaginative embellishments. Furthermore, his personal environment is decorated with merchandise from mainstream, popular video games (Minecraft, Fallout, Grand Theft Auto). This focus on concrete experiences and engagement with popular, established culture rather than abstract ideas or niche interests is indicative of a more practical and conventional mindset, aligning with a lower score in Openness.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During [0.0s - 4.0s], the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "High Conscientiousness, evident from organized and deliberate thought processes."
+        },
+        {
+          "id": "B",
+          "text": "Medium Neuroticism, suggested by brief self-soothing behaviors and gaze aversion."
+        },
+        {
+          "id": "C",
+          "text": "Low Agreeableness, indicated by a withdrawn and uncooperative social presentation."
+        },
+        {
+          "id": "D",
+          "text": "High Extraversion, demonstrated by energetic and outwardly focused social gestures."
+        },
+        {
+          "id": "E",
+          "text": "Low Neuroticism, shown by a consistently calm and emotionally stable demeanor."
+        },
+        {
+          "id": "F",
+          "text": "High Openness, reflecting a tendency for abstract thinking and imaginative ideas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. During this interval, the person looks down and away, speaks slowly, and strokes his chin. The personality analysis identifies these as 'subtle, initial cues that could indicate mild self-consciousness,' which directly supports a Medium Neuroticism assessment.\n- Option A is a text-based distractor. While he is recalling something, his speech is spontaneous, not organized, which is evidence against high conscientiousness.\n- Option C is a video-based distractor. He shows a slight, gentle smile in this period, which contradicts the idea of being uncooperative or withdrawn (low agreeableness).\n- Option D is a video-based distractor. The behaviors in this segment are introverted (internal focus); the more extraverted gestures appear later in the video.\n- Option E is a near-miss distractor. It correctly identifies Neuroticism as the relevant trait but gets the direction wrong. The observed behaviors are signs of mild anxiety, not a complete lack of it.\n- Option F is a text-based distractor. The behavior of recalling a memory might textually link to storytelling (Openness), but his story is concrete, not abstract, which supports Low Openness."
+    },
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their Medium Extraversion level?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[0.0s - 1.4s]"
+        },
+        {
+          "id": "B",
+          "text": "[4.0s - 5.4s]"
+        },
+        {
+          "id": "C",
+          "text": "[6.5s - 7.9s]"
+        },
+        {
+          "id": "D",
+          "text": "[9.1s - 10.5s]"
+        },
+        {
+          "id": "E",
+          "text": "[12.8s - 14.2s]"
+        },
+        {
+          "id": "F",
+          "text": "[2.0s - 3.4s]"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. The analysis for Extraversion notes a transition from introverted recall to socially expressive behaviors. This transition begins around [4.0s - 5.4s], where he stops looking down, raises his eyebrows slightly, and initiates a pointing gesture towards the camera to start his story.\n- Option A is a video-based distractor. This interval shows the initial introspective state (gaze aversion, chin stroke), which is evidence for the introverted side of his medium score, but it is not the moment of change toward expressive behavior.\n- Option C is a video-based distractor. This is during the stable thumbs-up gesture, where his expression is neutral and unchanging, not a moment of notable transition.\n- Option D is a video-based distractor. Similar to C, this is in the middle of a sustained gesture with a neutral expression.\n- Option E is a near-miss distractor. This interval contains another gesture change (thumbs-up to pointing), but the primary shift from an internal to an external communicative mode occurs earlier, at [4.0s - 5.4s].\n- Option F is a text-based distractor. This interval is within the initial introspective phase and contains no significant expression change."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around [12.8s], a region was detected in the video (x=0.447, y=0.519, w=0.185, h=0.239, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A gentle self-soothing stroke along the left side of the jaw."
+        },
+        {
+          "id": "B",
+          "text": "An emphatic pointing hand gesture used to underscore a key point."
+        },
+        {
+          "id": "C",
+          "text": "A contemplative downward gaze directed towards the lower-left area."
+        },
+        {
+          "id": "D",
+          "text": "A tightly clenched fist suggesting some underlying emotional tension."
+        },
+        {
+          "id": "E",
+          "text": "An emphatic pointing gesture made with the person's right hand."
+        },
+        {
+          "id": "F",
+          "text": "A subtle, fading smile that transitions into a neutral expression."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. The specified bounding box at 12.8s covers the person's left hand as he transitions from a thumbs-up back to a pointing gesture, moving his index finger for emphasis while speaking.\n- Option A is a video-based distractor. This action (chin stroke) occurs, but at the beginning of the video (around 0s-4s) and in a different location (the chin/jaw area).\n- Option C is a video-based distractor. This action (downward gaze) also occurs at the beginning of the video and is located in the eye region, not the region specified.\n- Option D is a text-based distractor. The person's hand is relaxed and gesturing; it is never a clenched fist.\n- Option E is a near-miss distractor. The gesture is indeed an emphatic pointing gesture, but it is made with his left hand, not his right hand. This tests for fine-grained detail.\n- Option F is a video-based distractor. A fading smile occurs, but it happens much earlier (around 5.4s-7.3s) and is located in the mouth region."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "Identify the time and location where a gesture of general approval is transformed into a more specific, emphatic motion to highlight a final detail.",
+      "options": [
+        {
+          "id": "A",
+          "text": "[12.8s]  x=0.45, y=0.52, w=0.19, h=0.24"
+        },
+        {
+          "id": "B",
+          "text": "[1.2s]  x=0.46, y=0.52, w=0.12, h=0.09"
+        },
+        {
+          "id": "C",
+          "text": "[0.0s]  x=0.45, y=0.40, w=0.16, h=0.48"
+        },
+        {
+          "id": "D",
+          "text": "[7.3s]  x=0.39, y=0.31, w=0.19, h=0.35"
+        },
+        {
+          "id": "E",
+          "text": "[4.4s]  x=0.48, y=0.51, w=0.17, h=0.44"
+        },
+        {
+          "id": "F",
+          "text": "[0.9s]  x=0.43, y=0.36, w=0.15, h=0.10"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. The question asks to identify the transformation of a general approval gesture (the thumbs-up) into a specific, emphatic motion (the pointing gesture). This event occurs at 12.8s, and the provided coordinates correctly bound the hand performing this action.\n- Option B is a video-based distractor. This timestamp and region correspond to the slight, asymmetrical smile.\n- Option C is a video-based distractor. This timestamp and region correspond to the initial chin-stroking gesture.\n- Option D is a video-based distractor. This corresponds to the person's neutral facial expression in the middle of the thumbs-up gesture.\n- Option E is a near-miss distractor. This is a very strong distractor, as it shows the *initial* pointing gesture that begins the narrative, but not the *transformation* from a thumbs-up gesture.\n- Option F is a video-based distractor. This timestamp and region correspond to the person's downward gaze during the initial memory recall phase."
+    },
+    {
+      "category": "Counterfactual Reasoning",
+      "question": "If the person had NOT exhibited the behavior observed around [0.0s - 4.0s], which of the following personality assessments would be MOST affected?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Conscientiousness would rise, as this behavior is the primary sign of his spontaneous and unplanned communication style."
+        },
+        {
+          "id": "B",
+          "text": "Neuroticism would likely be lower, as this is the main evidence for initial self-consciousness or internal anxiety."
+        },
+        {
+          "id": "C",
+          "text": "Extraversion would decrease, given this specific action is the clearest demonstration of his outward social energy."
+        },
+        {
+          "id": "D",
+          "text": "Openness would increase, because the behavior is a key indicator of his conventional and concrete thinking process."
+        },
+        {
+          "id": "E",
+          "text": "Neuroticism would likely be higher, since the absence of this subtle action would suggest a stronger suppression of emotion."
+        },
+        {
+          "id": "F",
+          "text": "Agreeableness would be lower, as the action serves as the most direct evidence for his cooperative and pleasant demeanor."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. The behavior in [0.0s - 4.0s] includes gaze aversion and chin stroking. The analysis explicitly cites these actions as the 'subtle, initial cues that could indicate mild self-consciousness,' which is the core evidence for the Medium Neuroticism score. Without this evidence, he would appear much more composed from the start, weakening the case for that score and likely lowering it.\n- Option A is a text-based distractor. The Low Conscientiousness score is derived from the overall spontaneous *verbal* style, not this specific non-verbal action.\n- Option C is a video-based distractor. The evidence for his Extraversion score comes from the expressive gestures *after* 4.0s. This initial behavior is actually evidence for the introverted side of his personality.\n- Option D is a text-based distractor. The Low Openness score is based on the concrete story content and mainstream room decor, not this specific self-soothing gesture.\n- Option E is a near-miss distractor. It correctly identifies Neuroticism but proposes the wrong direction of change with flawed reasoning. The absence of an anxiety cue would suggest less anxiety, not more.\n- Option F is a text-based distractor. The Agreeableness score is better supported by his gentle smile and pleasant tone, not the chin-stroking gesture."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator06",
+      "version": 3,
+      "clues_total": 25,
+      "clues_correct": 13,
+      "clues_wrong_corrected": 10,
+      "clues_missing_skipped": 1,
+      "clues_bonus": 1
+    }
+  }
+}

@@ -1,0 +1,263 @@
+{
+  "video_id": "wBSf7anTC_g.002.mp4",
+  "video_path": "wBSf7anTC_g.002.mp4",
+  "transcription": "I'm going to come back in this video with the actual answers. Relax, it was like two minutes of your life, but anyways, without further ado let's check out what those questions are, and I'm going to try and ream through them real quick right here. I'm going to try and address twenty or so, but there were like-,",
+  "original_scores": {
+    "extraversion": 0.4672897196261683,
+    "agreeableness": 0.6813186813186812,
+    "conscientiousness": 0.7961165048543688,
+    "neuroticism": 0.7604166666666666,
+    "openness": 0.7777777777777777
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 15.19,
+      "description": "The subject maintains direct and steady eye contact with the camera throughout the clip. His eyebrows raise slightly for emphasis on words like \"actual answers\" (00:01) and \"relax\" (00:02). The corners of his mouth lift briefly in a slight smile while saying \"relax\" (00:02). For the remainder of the clip, his facial muscles are engaged in natural speech articulation with a generally neutral-to-pleasant expression.",
+      "bboxes": [
+        {
+          "frame_time": 4.942665,
+          "x": 0.3949013157894737,
+          "y": 0.2978947388498407,
+          "w": 0.18207236842105262,
+          "h": 0.05526315789473684,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 1.009417,
+          "x": 0.35345394736842106,
+          "y": 0.24526315990247224,
+          "w": 0.22351973684210527,
+          "h": 0.10789473684210527,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 2.001431,
+          "x": 0.4082236842105263,
+          "y": 0.4821052651656301,
+          "w": 0.11546052631578947,
+          "h": 0.0868421052631579,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 12.899551,
+          "x": 0.37417763157894735,
+          "y": 0.09263158095510382,
+          "w": 0.18355263157894738,
+          "h": 0.5342105263157895,
+          "note": "face human-annotated",
+          "region": "face"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 15.19,
+      "description": "The subject is seated, framed from the chest up, and leans slightly forward towards the microphone. His head moves with subtle nods and side-to-side shifts that are synchronized with his speech patterns and points of emphasis. His shoulders and upper body remain relatively still.",
+      "bboxes": [
+        {
+          "frame_time": 5.613342,
+          "x": 0.33865131578947366,
+          "y": 0.12947368621826172,
+          "w": 0.25164473684210525,
+          "h": 0.5421052631578948,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 5.613342,
+          "x": 0.2231907894736842,
+          "y": 0.5136842125340512,
+          "w": 0.5121710526315789,
+          "h": 0.12894736842105264,
+          "note": "pose human-annotated",
+          "region": "shoulders"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 5.48,
+      "description": "Speech is delivered at a moderate, conversational pace in a clear, mid-to-low pitch range. There's a slight increase in pitch and emphasis on the phrase \"actual answers.\" The tone becomes lighter on the word \"relax.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 5.48,
+      "end_time": 11.23,
+      "description": "The speech rate slightly increases as he says, \"let's check out what those questions are and I'm going to try and ream through them real quick right here.\" The volume and pitch remain consistent.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 11.23,
+      "end_time": 15.19,
+      "description": "The pace remains moderate to slightly fast. The audio ends abruptly with a slight pause and glottal stop on the word \"like-.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.19,
+      "description": "The subject is a light-skinned male with a shaved head, a short goatee, and is wearing black-framed glasses. He is wearing a black t-shirt with a partially visible red and white graphic. The setting is an indoor room with off-white walls. In the foreground to the left is a large, silver condenser microphone with a black pop filter. In the background, there is a white door, a window with white horizontal blinds, a lit floor lamp casting warm light, and the corner of a brown couch. The lighting on the subject is even and appears to come from a frontal source.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Medium",
+      "score": 0.47,
+      "rationale": "The subject's Extraversion score is in the Medium range. While creating a public video implies a degree of social comfort, other cues suggest a more moderate, rather than high, level of extraversion. His facial expressions are generally controlled, described as 'neutral to pleasant' rather than broadly emotive. His eyebrows remain stable, lacking the animated movement often seen in highly extraverted individuals. The vocal delivery is clear and direct but does not exhibit the high energy, rapid pace, or significant volume variations that typically characterize high extraversion. This balance of public engagement with a reserved demeanor supports a medium classification.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "High",
+      "score": 0.68,
+      "rationale": "The High Agreeableness score is supported by clear prosocial and rapport-building behaviors. The subject anticipates potential viewer impatience and proactively addresses it with the phrase 'Relax.' This is immediately softened by a brief smile and a lighter vocal tone, demonstrating a conscious effort to manage the audience's emotional state and maintain a positive social connection. This concern for the other's perspective and the use of affiliative cues (smiling, gentle tone) are strong indicators of high agreeableness.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Very High",
+      "score": 0.8,
+      "rationale": "The subject demonstrates characteristics of Very High Conscientiousness through his structured, goal-oriented communication. He clearly states the video's purpose ('come back... with the actual answers') and sets a specific, efficient agenda ('try and ream through them real quick,' 'address twenty or so'). The increase in his speech rate when outlining this plan further emphasizes his focus on task efficiency and achievement. This verbalization of a clear, organized plan is a classic behavioral marker for a highly conscientious individual.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "High",
+      "score": 0.76,
+      "rationale": "A High level of Neuroticism is suggested by the subject's apparent pre-occupation with potential negative audience reactions. His statement, 'Relax, it was like two minutes of your life,' is a pre-emptive defense against criticism, indicating an underlying anxiety about how he is being perceived. This social self-consciousness and anticipation of negative feedback are characteristic of individuals with higher neuroticism. The slight vocal hesitation and abrupt glottal stop at the end of the clip could also reflect a moment of self-monitoring or anxiety.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "High",
+      "score": 0.78,
+      "rationale": "The subject's behavior aligns with a High Openness score. The fundamental premise of a Q&A video is an exercise in intellectual engagement and the exchange of ideas. His articulate speech and use of vocal emphasis on phrases like 'actual answers' show a commitment to clarity and precision in communication. Furthermore, the brief upward-left eye gaze at 4.9s is a classic cue for memory recall or cognitive processing, suggesting he is actively engaged in his thoughts and formulating his statements, a behavior consistent with the intellectual curiosity inherent in Openness.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During [5.5s - 11.2s], the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "High Extraversion, based on his very talkative and animated style."
+        },
+        {
+          "id": "B",
+          "text": "Very High Conscientiousness, given his structured and efficient plan."
+        },
+        {
+          "id": "C",
+          "text": "High Agreeableness, due to the calming and prosocial viewer address."
+        },
+        {
+          "id": "D",
+          "text": "Low Neuroticism, because he presents a confident and steady demeanor."
+        },
+        {
+          "id": "E",
+          "text": "Low Conscientiousness, reflecting a disorganized and rambling speech."
+        },
+        {
+          "id": "F",
+          "text": "High Openness, evident from the thoughtful and articulate delivery."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. During this interval, the person's speech rate increases as he outlines a clear, goal-oriented plan ('try and ream through them real quick', 'address twenty or so'). This focus on structure and efficiency is a classic indicator of Very High Conscientiousness.\n- Option A is a text-based distractor. While he is talkative, his overall demeanor is controlled, not highly animated, which aligns more with medium extraversion.\n- Option C is a video-based distractor. The evidence for High Agreeableness (the 'Relax' comment and smile) occurs earlier, around 2.0s, not in this specific time window.\n- Option D is a text-based distractor. His preemptive defensiveness ('Relax, it was like two minutes of your life') actually suggests High Neuroticism, not low.\n- Option E is a near-miss distractor. It correctly identifies the trait of Conscientiousness but assesses its direction incorrectly; his speech is highly structured, not disorganized.\n- Option F is a video-based distractor. While his articulate delivery supports High Openness, this trait is demonstrated throughout the clip, whereas the specific behavior of outlining an efficient plan in this window is the strongest, most direct evidence for Conscientiousness."
+    },
+    {
+      "category": "Mixed Emotion Discrimination",
+      "question": "During [1.5s - 3.0s], the person's emotional state is best characterized as which of the following? Consider both verbal and non-verbal cues.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mild frustration mixed with a strong professional commitment."
+        },
+        {
+          "id": "B",
+          "text": "Reassuring warmth tempered by some social self-consciousness."
+        },
+        {
+          "id": "C",
+          "text": "Intellectual curiosity blended with focused task determination."
+        },
+        {
+          "id": "D",
+          "text": "Genuine amusement combined with a need for task progression."
+        },
+        {
+          "id": "E",
+          "text": "Calm detachment mixed with a feeling of resigned acceptance."
+        },
+        {
+          "id": "F",
+          "text": "Confident presentation paired with a hint of condescension."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. In this interval, the person says 'Relax' with a lighter vocal tone and a brief smile. This action is a prosocial attempt to manage the audience's emotional state, indicating reassuring warmth (High Agreeableness). However, the fact that he feels the need to preemptively defend the video's length reveals an underlying anxiety about being perceived negatively, indicating social self-consciousness (High Neuroticism).\n- Option A is a text-based distractor. There are no clear cues for frustration; his tone is placating, not irritated.\n- Option C is a video-based distractor. This emotional state better describes the later part of the video ([5.5s - 11.2s]) where he outlines his efficient plan, not this specific moment of social management.\n- Option D is a near-miss distractor. While a smile is present, 'amusement' is not the correct interpretation. The context suggests the emotion is more about social placation and reassurance rather than finding something funny.\n- Option E is a text-based distractor. His active engagement with the audience (smiling, speaking directly) contradicts the idea of detachment.\n- Option F is a text-based distractor. The act of reassuring the audience is contrary to condescension; it's an affiliative, not a hierarchical, gesture."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "At which timestamp and in which bounding box does a subtle head movement occur that synchronizes with the speaker's verbal emphasis and communicative rhythm?",
+      "options": [
+        {
+          "id": "A",
+          "text": "At [2.0s] in region (x=0.408, y=0.482, w=0.115, h=0.087)."
+        },
+        {
+          "id": "B",
+          "text": "At [5.6s] in region (x=0.339, y=0.129, w=0.252, h=0.542)."
+        },
+        {
+          "id": "C",
+          "text": "At [4.9s] in region (x=0.395, y=0.298, w=0.182, h=0.055)."
+        },
+        {
+          "id": "D",
+          "text": "At [5.6s] in region (x=0.223, y=0.514, w=0.512, h=0.129)."
+        },
+        {
+          "id": "E",
+          "text": "At [1.0s] in region (x=0.353, y=0.245, w=0.224, h=0.108)."
+        },
+        {
+          "id": "F",
+          "text": "At [12.9s] in region (x=0.374, y=0.093, w=0.184, h=0.534)."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. The observation notes explicitly describe head movements synchronized with speech patterns and provides a representative bounding box at 5.6s that encompasses the entire head (x=0.339, y=0.129, w=0.252, h=0.542). This option correctly identifies both the time and the spatial region for this behavior.\n- Option A is a video-based distractor. This timestamp and region correspond to the brief smile, not the head movement.\n- Option C is a video-based distractor. This timestamp and region correspond to the upward-left eye gaze, a different action in a different location.\n- Option D is a near-miss distractor. It has the correct timestamp (5.6s) but points to the bounding box for the shoulders, not the head.\n- Option E is a video-based distractor. This timestamp and region correspond to the stable eyebrows, not a head movement.\n- Option F is a text-based distractor. This is a general face bounding box at a different time, less specific to the described action of head movement for emphasis than the annotation at 5.6s."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator09",
+      "version": 2,
+      "clues_total": 11,
+      "clues_correct": 7,
+      "clues_wrong_corrected": 3,
+      "clues_missing_skipped": 1,
+      "clues_bonus": 0
+    }
+  }
+}

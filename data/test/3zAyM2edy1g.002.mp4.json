@@ -1,0 +1,313 @@
+{
+  "video_id": "3zAyM2edy1g.002.mp4",
+  "video_path": "3zAyM2edy1g.002.mp4",
+  "transcription": "Going on in my greenhouse, it's inevitable. It's an ongoing battle, but I lost that to mature size several suitable growth plants, [prsimacarpa 00:00:13]. I just now got ...",
+  "original_scores": {
+    "extraversion": 0.35514018691588783,
+    "agreeableness": 0.5824175824175825,
+    "conscientiousness": 0.4174757281553398,
+    "neuroticism": 0.2604166666666667,
+    "openness": 0.23333333333333334
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 15.54,
+      "description": "The subject's gaze is directed downward and slightly to his left throughout the video, as if reading. His eyebrows remain in a neutral position. His mouth moves naturally with his speech. His overall facial expression is neutral and focused, with no significant changes in muscle tension.",
+      "bboxes": [
+        {
+          "frame_time": 2.031689,
+          "x": 0.4027777777777778,
+          "y": 0.25674439523118675,
+          "w": 0.32253086419753085,
+          "h": 0.23593964334705075,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 9.287985,
+          "x": 0.46141975308641975,
+          "y": 0.24028348988139253,
+          "w": 0.2515432098765432,
+          "h": 0.12345679012345678,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 9.287985,
+          "x": 0.5061728395061729,
+          "y": 0.5996799233519001,
+          "w": 0.13580246913580246,
+          "h": 0.12071330589849108,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 12.840582,
+          "x": 0.4243827160493827,
+          "y": 0.32807498508029515,
+          "w": 0.279320987654321,
+          "h": 0.41975308641975306,
+          "note": "face human-annotated",
+          "region": "face"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 15.54,
+      "description": "The subject remains relatively still, with his head tilted slightly forward and down, consistent with his gaze. There are no other discernible body or head movements within the tight--frame shot of his head and shoulders.",
+      "bboxes": [
+        {
+          "frame_time": 2.132998,
+          "x": 0.36728395061728397,
+          "y": 0.012574299209238898,
+          "w": 0.35185185185185186,
+          "h": 0.8257887517146777,
+          "note": "human-annotated",
+          "region": "unknown"
+        },
+        {
+          "frame_time": 15.285439,
+          "x": 0.44135802469135804,
+          "y": 0.01806126765917031,
+          "w": 0.2932098765432099,
+          "h": 0.8998628257887518,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 4.72776,
+          "x": 0.4645061728395062,
+          "y": 0.2704618163560153,
+          "w": 0.2808641975308642,
+          "h": 0.252400548696845,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 6.046003,
+          "x": 0.43209876543209874,
+          "y": 0.015317783434204604,
+          "w": 0.2839506172839506,
+          "h": 0.7599451303155007,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 5.46,
+      "description": "Speech is delivered at a moderate, deliberate pace with a low, relatively flat pitch. The phrase \"ongoing battle\" has a slight downward inflection.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 5.46,
+      "end_time": 14.16,
+      "description": "The vocal delivery continues at a steady pace and low pitch, with slight pauses and filler sounds like \"uh\" before \"mature\" and \"several,\" and \"um\" before \"prismacarpa.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 14.39,
+      "end_time": 15.54,
+      "description": "The final phrase begins with a slightly higher pitch on \"So,\" before returning to the previous baseline.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.54,
+      "description": "The subject is an adult Black male with short, dark, curly hair. He is wearing a light gray fleece pullover with a red-trimmed collar. Red in-ear headphones are visible, with the wire hanging on his right side. He is indoors, in front of a large window with a light wood frame. Outside the window, bare winter trees are visible against a bright, overcast sky. The lighting is diffuse and comes from the front.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Low",
+      "score": 0.36,
+      "rationale": "The subject's Extraversion score is in the Low range. This is strongly supported by the behavioral data. His vocal delivery is low-pitched and deliberate, with a relatively flat intonation, lacking the energetic and varied modulation typical of high extraversion. His posture is still and contained, and his gaze is consistently directed downward and away, suggesting an internal focus or reading from a script rather than actively engaging an external audience. The absence of expressive gestures and animated facial expressions further points to a more reserved, introverted disposition.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Medium",
+      "score": 0.58,
+      "rationale": "A Medium level of Agreeableness is indicated by the score. The subject's neutral and relaxed facial expression, free from visible muscle tension, suggests a non-confrontational and composed demeanor. He does not display overt signs of warmth or effusiveness (markers of high Agreeableness), nor does he show any signs of irritability or impatience (markers of low Agreeableness). The steady, even-keeled vocal delivery and calm posture are consistent with an individual who maintains a balanced, moderate approach in social interactions.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Medium",
+      "score": 0.42,
+      "rationale": "The subject scores in the Medium range for Conscientiousness. His focused expression and the deliberate, measured pace of his speech suggest a thoughtful and organized approach. The content, which seems to follow a prepared line of thought (evidenced by the downward gaze as if reading), points towards planning. However, the inclusion of minor hesitations and filler words ('uh', 'um') before certain terms indicates a delivery that is not rigidly rehearsed. This balance between preparation and slight spontaneity aligns well with a moderate, rather than exceptionally high, level of conscientiousness.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Low",
+      "score": 0.26,
+      "rationale": "The subject's Low Neuroticism score is well-supported by the observations, which point to high emotional stability. Throughout the clip, his facial expression remains neutral and composed, with no indicators of stress, anxiety, or frustration. His body is relatively still, and his vocal tone is stable and low, without the quavering, rapid pace, or pitch variability often associated with heightened negative emotions. This calm and steady presentation is a classic behavioral marker for an individual low in Neuroticism.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "Low",
+      "score": 0.23,
+      "rationale": "A Low score for Openness is consistent with the subject's communication style. His vocal delivery is quite uniform and lacks significant emotional or tonal range, suggesting a more conventional and straightforward approach rather than an expressive or artistic one. The focused, downward gaze and factual nature of the content (a report on greenhouse plants) point to a preference for concrete, practical matters over abstract ideas or imaginative exploration. The overall presentation is grounded and direct, aligning with the characteristics of individuals with lower levels of Openness to Experience.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or head posture occur that is most relevant to their contained manner?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The specific interval between 0.5s and 1.5s."
+        },
+        {
+          "id": "B",
+          "text": "The specific interval between 3.0s and 4.0s."
+        },
+        {
+          "id": "C",
+          "text": "The specific interval between 14.0s and 15.0s."
+        },
+        {
+          "id": "D",
+          "text": "The specific interval between 5.5s and 6.5s."
+        },
+        {
+          "id": "E",
+          "text": "The specific interval between 8.8s and 9.8s."
+        },
+        {
+          "id": "F",
+          "text": "The specific interval between 11.0s and 12.0s."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Option D is correct because around 6.0s, the observation notes state, 'body and head slightly tilt to the right, accompanied by a nod.' This is the most distinct change in posture in an otherwise very static video, representing a subtle moment of emphasis within his contained manner. Options A, B, C, E, and F are all video-based distractors. They are valid time intervals within the video where the person is speaking but no notable change in expression or head posture occurs, testing whether the model can temporally locate the single most significant (though subtle) movement."
+    },
+    {
+      "category": "Temporal-Causal Reasoning",
+      "question": "Consider the sequence of behaviors observed across the video. Which of the following best describes the causal chain linking the person's actions at different moments?",
+      "options": [
+        {
+          "id": "A",
+          "text": "An emotional regulation display (early) causes verbal hesitations (mid), which demand renewed focus (late)."
+        },
+        {
+          "id": "B",
+          "text": "A reserved communication style (throughout) leads to internal focus (mid), causing controlled vocal pacing (late)."
+        },
+        {
+          "id": "C",
+          "text": "A need for precision (early) prompts verbal self-correction (mid), culminating in a display of reflection (late)."
+        },
+        {
+          "id": "D",
+          "text": "Sustained internal focus (throughout) causes controlled pacing (mid), creating a reserved communication style (overall)."
+        },
+        {
+          "id": "E",
+          "text": "External distraction (early) triggers a compensatory vocal adjustment (mid) and a return to concentration (late)."
+        },
+        {
+          "id": "F",
+          "text": "Sustained internal focus (throughout) causes controlled pacing (mid), signaling a high degree of clear assertiveness."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Option D is correct. The person consistently looks down (sustained internal focus) from start to finish. This focus leads to his measured, deliberate speech (controlled pacing). The overall impression created is a reserved, introverted style. Option B is a near-miss distractor with a reversed causal order; the internal focus causes the reserved style, not the other way around. Option F is another near-miss distractor that correctly identifies the first two links but makes an incorrect final inference; the style signals reservation, not assertiveness. Options A, C, and E are text-based distractors describing plausible psychological chains that do not match the events in the video."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 9.3s, a region was detected in the video (x=0.506, y=0.600, w=0.136, h=0.121, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A subtle frown indicating some degree of concern or disapproval."
+        },
+        {
+          "id": "B",
+          "text": "A generally still posture reflecting a calm and composed demeanor."
+        },
+        {
+          "id": "C",
+          "text": "A downward gaze directed slightly off-center towards the right."
+        },
+        {
+          "id": "D",
+          "text": "Natural mouth articulation and movement corresponding with speech."
+        },
+        {
+          "id": "E",
+          "text": "Tense jaw muscles and a tightly pursed lip posture indicating stress."
+        },
+        {
+          "id": "F",
+          "text": "A slight, suppressed smile suggesting a private sense of amusement."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Option D is correct. The specified coordinates at 9.3s frame the person's mouth. At this moment, he is speaking, and the observation log confirms his mouth is moving naturally with his words. Option C is a video-based distractor; it correctly describes the action of the eyes, but the bounding box is on the mouth. Option B is another video-based distractor describing the overall posture, not the specific action in the small box. Option E is a near-miss distractor; it correctly focuses on the mouth but describes tension, whereas the video shows relaxed movement for speech. Options A and F are text-based distractors; they describe plausible expressions in the mouth region that are not actually present in the video."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "The video shows a brief, subtle shift in head posture that accompanies the subject's speech. At which time and in which region does this specific action occur?",
+      "options": [
+        {
+          "id": "A",
+          "text": "This specific head action occurs at 2.1s, in region (x=0.432, y=0.015, w=0.284, h=0.760)."
+        },
+        {
+          "id": "B",
+          "text": "This specific head action occurs at 12.8s, in region (x=0.424, y=0.328, w=0.279, h=0.420)."
+        },
+        {
+          "id": "C",
+          "text": "This specific head action occurs at 6.0s, in region (x=0.465, y=0.270, w=0.281, h=0.252)."
+        },
+        {
+          "id": "D",
+          "text": "This specific head action occurs at 6.0s, in region (x=0.432, y=0.015, w=0.284, h=0.760)."
+        },
+        {
+          "id": "E",
+          "text": "This specific head action occurs at 15.3s, in region (x=0.441, y=0.018, w=0.293, h=0.900)."
+        },
+        {
+          "id": "F",
+          "text": "This specific head action occurs at 9.3s, in region (x=0.461, y=0.240, w=0.252, h=0.123)."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Option D is correct. The observation data explicitly notes at 6.0s a head tilt and nod within the bounding box (x=0.432, y=0.015, w=0.284, h=0.760). Option A is a video-based distractor with the correct region but the wrong time. Option C is a near-miss distractor with the correct time but the wrong region (it points to the eyes). Options B, E, and F are video-based distractors that are incorrect in both time and spatial region for the described action."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator08",
+      "version": 1,
+      "clues_total": 12,
+      "clues_correct": 9,
+      "clues_wrong_corrected": 3,
+      "clues_missing_skipped": 0,
+      "clues_bonus": 0
+    }
+  }
+}

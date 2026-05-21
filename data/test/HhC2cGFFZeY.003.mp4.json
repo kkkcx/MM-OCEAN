@@ -1,0 +1,472 @@
+{
+  "video_id": "HhC2cGFFZeY.003.mp4",
+  "video_path": "HhC2cGFFZeY.003.mp4",
+  "transcription": "I got ten hours, and I still woke up tired as fuck. I think that just part of being a teenager. Yeah, sleep is really important. You should try and get eight hours, but sometimes you can't. How far do you want to take-",
+  "original_scores": {
+    "extraversion": 0.4392523364485981,
+    "agreeableness": 0.5054945054945055,
+    "conscientiousness": 0.42718446601941745,
+    "neuroticism": 0.4479166666666667,
+    "openness": 0.5
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 1.9,
+      "description": "The subject's eyes are wide open, and their eyebrows are slightly raised. The mouth moves naturally with speech.",
+      "bboxes": [
+        {
+          "frame_time": 0.226248,
+          "x": 0.38898026315789475,
+          "y": 0.2531578967445775,
+          "w": 0.15986842105263158,
+          "h": 0.09736842105263158,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 0.226248,
+          "x": 0.3830592105263158,
+          "y": 0.2136842125340512,
+          "w": 0.16875,
+          "h": 0.07105263157894737,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 0.226248,
+          "x": 0.4052631578947368,
+          "y": 0.39526315990247224,
+          "w": 0.10953947368421053,
+          "h": 0.09473684210526316,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 1.9,
+      "end_time": 8.8,
+      "description": "The facial expression becomes more neutral. The eyebrows lower to a relaxed position, and the subject maintains direct eye contact with the camera.",
+      "bboxes": [
+        {
+          "frame_time": 2.059458,
+          "x": 0.3756578947368421,
+          "y": 0.2400000020077354,
+          "w": 0.15394736842105264,
+          "h": 0.29210526315789476,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 3.350548,
+          "x": 0.36973684210526314,
+          "y": 0.25842105463931436,
+          "w": 0.18207236842105262,
+          "h": 0.07631578947368421,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 7.135537,
+          "x": 0.3919407894736842,
+          "y": 0.25842105463931436,
+          "w": 0.1480263157894737,
+          "h": 0.10526315789473684,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 8.8,
+      "end_time": 11.5,
+      "description": "The subject's eyes briefly close as they dip their head. A slight smile forms, with the corners of the mouth pulling up slightly. The camera focus softens.",
+      "bboxes": [
+        {
+          "frame_time": 9.168466,
+          "x": 0.3815789473684211,
+          "y": 0.2900000020077354,
+          "w": 0.15986842105263158,
+          "h": 0.06842105263157895,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 10.345538,
+          "x": 0.43042763157894737,
+          "y": 0.39526315990247224,
+          "w": 0.10657894736842105,
+          "h": 0.10526315789473684,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 11.479115,
+          "x": 0.3815789473684211,
+          "y": 0.1900000020077354,
+          "w": 0.18651315789473685,
+          "h": 0.4026315789473684,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 11.5,
+      "end_time": 15.2,
+      "description": "The expression returns to a more neutral state as the focus sharpens. The eyebrows are slightly raised again as he begins to speak.",
+      "bboxes": [
+        {
+          "frame_time": 12.82906,
+          "x": 0.3756578947368421,
+          "y": 0.22947368621826172,
+          "w": 0.17171052631578948,
+          "h": 0.3131578947368421,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 13.447934,
+          "x": 0.3771381578947368,
+          "y": 0.19263158095510383,
+          "w": 0.16282894736842105,
+          "h": 0.08421052631578947,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 8.8,
+      "description": "The subject sits upright, facing the camera, framed from the chest up. The head remains relatively still, with minor movements synchronized with speech.",
+      "bboxes": [
+        {
+          "frame_time": 1.590042,
+          "x": 0.23355263157894737,
+          "y": 0.5557894756919459,
+          "w": 0.49144736842105263,
+          "h": 0.34210526315789475,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 1.590042,
+          "x": 0.359375,
+          "y": 0.09526315990247225,
+          "w": 0.21167763157894737,
+          "h": 0.5421052631578948,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 8.8,
+      "end_time": 11.5,
+      "description": "The subject's head nods downward slightly twice in quick succession.",
+      "bboxes": [
+        {
+          "frame_time": 11.329841,
+          "x": 0.3875,
+          "y": 0.05842105463931435,
+          "w": 0.18503289473684212,
+          "h": 0.5052631578947369,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 11.5,
+      "end_time": 15.2,
+      "description": "The subject returns to a still, upright posture, facing forward.",
+      "bboxes": [
+        {
+          "frame_time": 15.274856,
+          "x": 0.18026315789473685,
+          "y": 0.5426315809551038,
+          "w": 0.5092105263157894,
+          "h": 0.4052631578947368,
+          "note": "pose human-annotated",
+          "region": "torso"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 3.5,
+      "description": "Speech is delivered at a moderate pace. The phrase \"tired as fuck\" is slightly emphasized with a minor increase in volume.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 3.5,
+      "end_time": 8.8,
+      "description": "After a brief pause, the speaker continues at a steady pace and volume. The phrase \"really important\" is stressed, and there is a filled pause (\"um\") at 6.2.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 8.8,
+      "end_time": 11.5,
+      "description": "The word \"can't\" is uttered with a downward pitch inflection and a slightly breathy, laughing quality. A soft chuckle is audible at 10.3.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 11.5,
+      "end_time": 15.2,
+      "description": "The speech begins again at a slightly higher pitch, characteristic of starting a question.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.2,
+      "description": "The subject is a young, muscular, light-skinned male with short blondish hair tied back. He is wearing a grey athletic tank top. The setting is a bedroom with light blue-grey walls. Behind him and to his left is a bed with a red blanket and rumpled white sheets. To his right is a closed white door with a green and red piece of clothing or costume hanging on it. The lighting is soft and appears to be coming from the front.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 9.002447,
+      "end_time": 10.002447,
+      "description": "Subject shrugged",
+      "bboxes": [
+        {
+          "frame_time": 9.502447,
+          "x": 0.24391447368421051,
+          "y": 0.4584210546393144,
+          "w": 0.42335526315789473,
+          "h": 0.27631578947368424,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Medium",
+      "score": 0.44,
+      "rationale": "The subject's Extraversion is assessed as Medium. He demonstrates social engagement by maintaining direct eye contact and initiating a question with a higher, inviting pitch. However, these sociable behaviors are balanced by a more reserved physical presence. His posture remains upright and relatively still, with minimal head movement and no expansive gestures, which suggests he is not driven by a high need for external stimulation. This combination of direct engagement and physical composure is indicative of an ambiverted personality, comfortable in social settings but not overtly gregarious.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Medium",
+      "score": 0.51,
+      "rationale": "The subject's Agreeableness is rated as Medium. He displays pro-social tendencies by offering general advice ('sleep is really important. You should try and get eight hours') and exhibiting positive affect through a slight smile and chuckle. These cues suggest a cooperative and warm disposition. This is counterbalanced by his use of strong profanity ('tired as fuck') to express frustration, indicating a willingness to be blunt rather than strictly adhering to social politeness. This mix of empathetic advice and unfiltered expression supports a mid-range score.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Medium",
+      "score": 0.43,
+      "rationale": "The subject's Conscientiousness is assessed as Medium. He verbally acknowledges the importance of a structured habit ('sleep is really important'), which points to an awareness of responsibility and self-discipline. However, this is immediately followed by a statement of resignation ('but sometimes you can't'), punctuated by a shrug and a slight laugh. This combination suggests a flexible, rather than a rigidly disciplined, approach to duties. His controlled, upright posture reflects a sense of order, but the relaxed follow-through indicates he is not overly methodical, aligning with a medium score.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Medium",
+      "score": 0.45,
+      "rationale": "The subject's Neuroticism is rated as Medium. The clip begins with a clear expression of negative affect, as he voices frustration about his fatigue with vocal emphasis and profanity. This initial reactivity is an indicator of neuroticism. However, he demonstrates strong emotional regulation by quickly shifting to a neutral facial expression and a stable, moderate speaking tone. His ability to move on from the frustration, even showing a brief smile later, suggests he is not prone to dwelling on negative emotions. This balance between experiencing and effectively managing frustration is characteristic of a mid-range Neuroticism score.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "Medium",
+      "score": 0.5,
+      "rationale": "The subject's Openness is assessed as Medium. He engages in a moment of abstract self-reflection, generalizing his personal feeling of fatigue to a broader concept ('I think that just part of being a teenager'). This indicates a capacity for introspection and connecting personal experiences to larger ideas. However, the overall topic of conversation is conventional and his environment appears standard. There are no significant cues in his behavior, speech, or surroundings to suggest a strong engagement with aesthetic, unconventional, or complex intellectual pursuits, placing him squarely in the medium range for this trait.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During 3.5s - 8.8s, the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "High Extraversion"
+        },
+        {
+          "id": "B",
+          "text": "Low Conscientiousness"
+        },
+        {
+          "id": "C",
+          "text": "High Neuroticism"
+        },
+        {
+          "id": "D",
+          "text": "Low Openness"
+        },
+        {
+          "id": "E",
+          "text": "Medium Agreeableness"
+        },
+        {
+          "id": "F",
+          "text": "High Conscientiousness"
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "During this interval, the subject offers general, pro-social advice ('sleep is really important. You should try and get eight hours') while maintaining direct eye contact. This combination of offering helpful guidance and direct social engagement is a key indicator for Agreeableness. Since it's balanced by other blunt statements elsewhere, 'Medium' is the correct level. Option E is the correct answer. Option A is a text-based distractor; offering advice might sound extraverted, but his reserved posture throughout the video points away from a high rating. Option F is a near-miss distractor; acknowledging a good habit relates to Conscientiousness, but 'High' is incorrect as he later expresses resignation about following it. Option C is a video-based distractor; high neuroticism is suggested by behavior at the start of the video (0.0s-3.5s), not this segment. Option B and D are text-based distractors that are less supported by the specific actions in this time frame compared to Agreeableness."
+    },
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their Conscientiousness level?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[0.0s - 1.5s]"
+        },
+        {
+          "id": "B",
+          "text": "[2.0s - 3.5s]"
+        },
+        {
+          "id": "C",
+          "text": "[5.5s - 7.0s]"
+        },
+        {
+          "id": "D",
+          "text": "[12.5s - 14.0s]"
+        },
+        {
+          "id": "E",
+          "text": "[9.0s - 10.5s]"
+        },
+        {
+          "id": "F",
+          "text": "[4.0s - 5.5s]"
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The personality analysis for Conscientiousness notes that after stating an ideal habit, the subject shows resignation ('but sometimes you can't'), punctuated by a shrug and a slight laugh. This complex expression, signaling flexibility over rigid discipline, occurs between 9.0s and 10.5s, capturing the shrug, downward nod, and slight smile. This moment is the most direct evidence for his medium (not high) Conscientiousness. Option E is correct. Option A is a video-based distractor; this interval shows his initial frustration, which is more relevant to Neuroticism. Option C is a video-based distractor; this shows steady eye contact while giving advice, more relevant to Agreeableness. Option D is a video-based distractor; the eyebrow raise while starting a new question is more indicative of Extraversion. Options B and F are video-based distractors that show a neutral state, not a notable change relevant to Conscientiousness."
+    },
+    {
+      "category": "Mixed Emotion Discrimination",
+      "question": "During 8.8s - 11.5s, the person's emotional state is best characterized as which of the following? Consider both verbal and non-verbal cues.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Deep frustration tempered by forced politeness."
+        },
+        {
+          "id": "B",
+          "text": "Cynical disbelief mixed with detached sarcasm."
+        },
+        {
+          "id": "C",
+          "text": "Feigned regret tempered by underlying anxiety."
+        },
+        {
+          "id": "D",
+          "text": "Quiet disappointment mixed with wistful ideas."
+        },
+        {
+          "id": "E",
+          "text": "Resigned acceptance mixed with slight amusement."
+        },
+        {
+          "id": "F",
+          "text": "Mild irritation combined with a hint of fatigue."
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "In this segment, the person says, 'but sometimes you can't,' accompanied by a downward head nod, a brief eye closure, a shrug, and a slight smile with a chuckle. This combination of verbal content and non-verbal cues points to an acknowledgment of a reality that falls short of an ideal, but without significant distress. The smile and chuckle indicate a degree of lightheartedness or self-awareness about the situation. Therefore, 'Resigned acceptance mixed with slight amusement' is the most accurate description. Option E is correct. Option A is a near-miss distractor; there is acceptance, but not 'deep frustration' or 'forced' politeness. Option F is a video-based distractor; he mentions fatigue at the start of the video, but the emotion in this specific segment is not irritation. Options B, C, and D are text-based distractors; they are plausible negative-leaning interpretations of the words alone but are inconsistent with the amused, relaxed non-verbal cues."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 15.3s, a region was detected in the video (x=0.180, y=0.543, w=0.509, h=0.405, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The mouth moves naturally in sync with audible speech."
+        },
+        {
+          "id": "B",
+          "text": "The eyebrows are raised slightly as a question is initiated."
+        },
+        {
+          "id": "C",
+          "text": "The eyes close briefly during a downward head movement."
+        },
+        {
+          "id": "D",
+          "text": "The facial features settle into a neutral, calm expression."
+        },
+        {
+          "id": "E",
+          "text": "A still and upright upper body posture is maintained."
+        },
+        {
+          "id": "F",
+          "text": "The camera's focus momentarily softens the facial image."
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The provided bounding box at 15.3s covers the subject's chest and shoulders (torso region). At this moment, the observation log states, The subject returns to a still, upright posture, facing forward. Option E is the correct description of the action within this specific region. Option A describes the mouth, B describes the eyebrows, C describes the eyes, and D describes the whole face; all are video-based distractors from different, non-overlapping spatial regions. Option F is also a video-based distractor describing a camera effect, not an action by the person within the specified torso region."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "Which of the following timestamp and coordinate pairs best localizes the moment of initial, emphasized emotional expression?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[11.5s]  x=0.38, y=0.19, w=0.19, h=0.40"
+        },
+        {
+          "id": "B",
+          "text": "[11.3s]  x=0.39, y=0.06, w=0.19, h=0.51"
+        },
+        {
+          "id": "C",
+          "text": "[10.3s]  x=0.43, y=0.40, w=0.11, h=0.11"
+        },
+        {
+          "id": "D",
+          "text": "[9.2s]  x=0.38, y=0.29, w=0.16, h=0.07"
+        },
+        {
+          "id": "E",
+          "text": "[0.2s]   x=0.39, y=0.25, w=0.16, h=0.10"
+        },
+        {
+          "id": "F",
+          "text": "[15.3s]  x=0.18, y=0.54, w=0.51, h=0.41"
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The 'initial, emphasized emotional expression' occurs at the very beginning of the video (0.0s-1.9s) when the person says 'tired as fuck.' During this time, the observation log notes his eyes are wide open and eyebrows are slightly raised. Option E, at 0.2s, provides coordinates (x=0.39, y=0.25, w=0.16, h=0.10) that precisely frame the eye region during this moment of heightened expression, as documented in the [Expression] [0.0s - 1.9s] log. The other options are video-based distractors pointing to different actions at different times: A points to a moment the camera focus softens, B to a head nod, C to a slight smile, D to eye closure, and F to the torso posture."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator03",
+      "version": 1,
+      "clues_total": 21,
+      "clues_correct": 20,
+      "clues_wrong_corrected": 0,
+      "clues_missing_skipped": 0,
+      "clues_bonus": 1
+    }
+  }
+}

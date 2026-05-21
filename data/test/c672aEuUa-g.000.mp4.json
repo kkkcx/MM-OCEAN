@@ -1,0 +1,528 @@
+{
+  "video_id": "c672aEuUa-g.000.mp4",
+  "video_path": "c672aEuUa-g.000.mp4",
+  "transcription": "As far as learning how to use the Tarot, I think it was just practice, really. I started doing Tarot for myself and it was helping me with my spiritual-",
+  "original_scores": {
+    "extraversion": 0.4018691588785047,
+    "agreeableness": 0.4835164835164835,
+    "conscientiousness": 0.42718446601941745,
+    "neuroticism": 0.45833333333333337,
+    "openness": 0.4888888888888889
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 3.69,
+      "description": "The subject's eyebrows are slightly furrowed and then raised as she speaks, maintaining eye contact with the camera. Her mouth moves with her speech, and her overall expression is one of serious contemplation.",
+      "bboxes": [
+        {
+          "frame_time": 0.399528,
+          "x": 0.5599506578947369,
+          "y": 0.18508771595201995,
+          "w": 0.1450657894736842,
+          "h": 0.08947368421052632,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 1.075889,
+          "x": 0.5584703947368421,
+          "y": 0.25877192647833575,
+          "w": 0.13766447368421053,
+          "h": 0.06315789473684211,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 1.075889,
+          "x": 0.5836348684210526,
+          "y": 0.3640350843730726,
+          "w": 0.08289473684210527,
+          "h": 0.09473684210526316,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 1.075889,
+          "x": 0.5185032894736842,
+          "y": 0.1561403475309673,
+          "w": 0.196875,
+          "h": 0.34210526315789475,
+          "note": "face human-annotated",
+          "region": "face"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 3.69,
+      "end_time": 5.61,
+      "description": "She breaks eye contact, looking up and to her right. Her head tilts to her right. Her eyebrows raise, and her mouth forms a slight, asymmetrical purse, with the left corner pulling slightly down and the right corner up.",
+      "bboxes": [
+        {
+          "frame_time": 4.487891,
+          "x": 0.5007401315789474,
+          "y": 0.22456140016254625,
+          "w": 0.21907894736842107,
+          "h": 0.1368421052631579,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 4.487891,
+          "x": 0.4933388157894737,
+          "y": 0.10877192647833574,
+          "w": 0.23536184210526317,
+          "h": 0.4394736842105263,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 5.61,
+      "end_time": 15.05,
+      "description": "Her gaze returns to the camera, and her expression shifts to a more neutral, speaking state. She maintains direct eye contact as she continues to speak.",
+      "bboxes": [
+        {
+          "frame_time": 6.147255,
+          "x": 0.5333059210526315,
+          "y": 0.2429824527941252,
+          "w": 0.14950657894736843,
+          "h": 0.0868421052631579,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 6.147255,
+          "x": 0.5288651315789473,
+          "y": 0.20087718963623047,
+          "w": 0.16726973684210528,
+          "h": 0.28157894736842104,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 12.001329,
+          "x": 0.5688322368421053,
+          "y": 0.24561403174149363,
+          "w": 0.16430921052631578,
+          "h": 0.0868421052631579,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 3.69,
+      "description": "The subject is framed from the upper torso up, leaning slightly against a wall to her left. Her head remains relatively still with small movements corresponding to speech.",
+      "bboxes": [
+        {
+          "frame_time": 1.233892,
+          "x": 0.3482730263157895,
+          "y": 0.16403508437307257,
+          "w": 0.5328947368421053,
+          "h": 0.8157894736842105,
+          "note": "pose human-annotated",
+          "region": "torso"
+        },
+        {
+          "frame_time": 1.233892,
+          "x": 0.4888980263157895,
+          "y": 0.09035087384675679,
+          "w": 0.23832236842105264,
+          "h": 0.4368421052631579,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 3.69,
+      "end_time": 5.61,
+      "description": "Her head tilts back and to her right.",
+      "bboxes": [
+        {
+          "frame_time": 4.304117,
+          "x": 0.5273848684210526,
+          "y": 0.13771929489938836,
+          "w": 0.20723684210526316,
+          "h": 0.40789473684210525,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 5.61,
+      "end_time": 15.05,
+      "description": "Her head returns to an upright, forward-facing position, still leaning slightly against the wall. No hand gestures are visible.",
+      "bboxes": [
+        {
+          "frame_time": 6.929129,
+          "x": 0.5214638157894737,
+          "y": 0.11929824226780941,
+          "w": 0.196875,
+          "h": 0.4236842105263158,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 6.929129,
+          "x": 0.45041118421052634,
+          "y": 0.2614035054257042,
+          "w": 0.3330592105263158,
+          "h": 0.5578947368421052,
+          "note": "pose human-annotated",
+          "region": "torso"
+        },
+        {
+          "frame_time": 14.762785,
+          "x": 0.35419407894736843,
+          "y": 0.7614035054257041,
+          "w": 0.4988486842105263,
+          "h": 0.2026315789473684,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 3.69,
+      "description": "Speaks at a measured pace with a slightly breathy vocal quality. Pitch falls slightly at the end of the phrase \"...use the Tarot, I think...\".",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 3.69,
+      "end_time": 5.61,
+      "description": "A pause of approximately 2 seconds, followed by an audible inhalation.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 5.61,
+      "end_time": 7.42,
+      "description": "Resumes speaking with \"It was just practice, really.\" The word \"practice\" receives slight stress and a higher pitch.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 7.42,
+      "end_time": 15.05,
+      "description": "Continues speaking at a consistent pace and volume. The pitch remains relatively stable with a slight downward inflection at the end of the sentence.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.05,
+      "description": "The subject is a woman with fair skin and long, straight blonde hair. She is wearing a black, long-sleeved top. She is positioned indoors against a plain, light-colored wall. The lighting is warm and diffuse, creating soft shadows. The video has a warm, reddish tint.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 1.460888,
+      "end_time": 2.4608879999999997,
+      "description": "Subject appears to be wearing an earring in his left ear",
+      "bboxes": [
+        {
+          "frame_time": 1.960888,
+          "x": 0.6754111842105264,
+          "y": 0.4008771896362305,
+          "w": 0.03848684210526316,
+          "h": 0.1368421052631579,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Medium",
+      "score": 0.4,
+      "rationale": "The subject's behavior aligns with a Medium level of Extraversion. While her willingness to speak on camera and maintain periods of direct eye contact ([0.0s-3.7s], [5.6s-15.1s]) demonstrates social capability, other cues suggest a more reserved nature. Her posture is somewhat closed, leaning against a wall rather than actively engaging forward ([0.0s-3.7s]). Most notably, there is a complete absence of visible hand gestures, which are often used by highly extraverted individuals to add energy and emphasis to their communication. This blend of social engagement and physical containment supports a mid-range score.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Medium",
+      "score": 0.48,
+      "rationale": "The subject exhibits a Medium level of Agreeableness. Her overall demeanor is cooperative and non-confrontational, and her vocal tone is even and moderate. The thoughtful pause ([3.7s-5.6s]) and serious expression ([0.0s-3.7s]) indicate a genuine effort to provide a helpful and considered answer to the question. However, she does not display strong affiliative cues typical of high agreeableness, such as frequent smiling or nodding. Her expression is more pensive and neutral than overtly warm. This balance between being cooperative and being emotionally reserved fits a Medium score.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Medium",
+      "score": 0.43,
+      "rationale": "A Medium Conscientiousness rating is supported by the subject's deliberate communication style. The initial furrowed brow ([0.0s-3.7s]) and the distinct pause to break eye contact and look upwards ([3.7s-5.6s]) are classic indicators of careful thought and memory retrieval. This suggests she is striving for accuracy rather than giving an impulsive answer. She structures her thought process by pausing before delivering a clear, concise statement emphasizing 'practice' ([5.6s-7.4s]). This thoughtful approach is moderated by a relaxed physical posture, preventing a high rating and placing her firmly in the Medium range.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Medium",
+      "score": 0.46,
+      "rationale": "The subject's behavior indicates a Medium level of Neuroticism, suggesting a general state of emotional stability with subtle hints of tension. Her speech is delivered at a controlled, moderate pace, and her pause appears cognitive rather than anxiety-driven. This points towards emotional regulation. However, the slightly breathy quality in her voice at the start ([0.0s-3.7s]) and her intermittent gaze aversion ([12.0s]) can be subtle indicators of mild social stress or self-consciousness. This combination of calm control with minor signs of unease is characteristic of an individual in the mid-range of the Neuroticism spectrum.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "Medium",
+      "score": 0.49,
+      "rationale": "The subject's score of Medium on Openness is well-supported. The topic of discussion, Tarot, points to an interest in spiritual, abstract, or unconventional systems of thought. Her reflective communication style, characterized by a pensive expression ([0.0s-3.7s]) and a pause to look upward and introspect ([3.7s-5.6s]), is consistent with a person who engages with ideas. However, her explanation is very practical and grounded; she attributes her skill to 'practice,' a concrete and conventional method. This blending of an unconventional interest with a pragmatic explanation perfectly captures the essence of a Medium Openness score.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During 3.7s - 5.6s, the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A medium classification for the trait Conscientiousness."
+        },
+        {
+          "id": "B",
+          "text": "A high classification for the trait Conscientiousness."
+        },
+        {
+          "id": "C",
+          "text": "A medium classification for the trait Extraversion."
+        },
+        {
+          "id": "D",
+          "text": "A high classification for the a trait of Neuroticism."
+        },
+        {
+          "id": "E",
+          "text": "A low classification for the trait of Agreeableness."
+        },
+        {
+          "id": "F",
+          "text": "A medium classification for the trait of Openness."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The behavior at 3.7s-5.6s involves pausing, breaking eye contact, and looking up, which the analysis identifies as classic indicators of careful thought and memory retrieval. This directly supports a finding of Medium Conscientiousness, as she is taking time to formulate an accurate answer rather than being impulsive.\n\n- Option B is a near-miss distractor. While the behavior points to Conscientiousness, other cues like a relaxed posture prevent a 'High' rating, making 'Medium' more accurate.\n- Option C is a video-based distractor. The Medium Extraversion score is supported by other cues in the video (e.g., willingness to speak, periods of eye contact), not by this specific introspective pause.\n- Option D is a text-based distractor. A model might associate a pause and gaze aversion with anxiety (Neuroticism) from text alone, but visually, the pause appears cognitive and deliberate, not anxious.\n- Option E is a video-based distractor. One might misinterpret breaking eye contact as uncooperative (Low Agreeableness), but the context of thoughtful reflection makes this interpretation incorrect; her overall tone is cooperative.\n- Option F is a text-based distractor. While Openness is also rated Medium and involves introspection, the analysis connects this specific behavioral pause more strongly to the *process* of being careful (Conscientiousness) rather than the *content* of being open to ideas."
+    },
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their Conscientiousness level?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The time interval occurring from 3.7 to 5.6 seconds."
+        },
+        {
+          "id": "B",
+          "text": "The time interval occurring from 0.0 to 3.7 seconds."
+        },
+        {
+          "id": "C",
+          "text": "The time interval occurring from 5.6 to 7.4 seconds."
+        },
+        {
+          "id": "D",
+          "text": "The time interval occurring from 11.5 to 12.5 seconds."
+        },
+        {
+          "id": "E",
+          "text": "The time interval occurring from 7.5 to 9.0 seconds."
+        },
+        {
+          "id": "F",
+          "text": "The time interval occurring from 9.5 to 11.0 seconds."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The interval from 3.7s to 5.6s is when the subject pauses, breaks eye contact, and looks upward. This is the most significant non-verbal cue indicating a shift into a state of deliberate thought and memory retrieval, which is a core piece of evidence for their Medium Conscientiousness score.\n\n- Option B is a video-based distractor. This interval shows her initial pensive expression while speaking, but the key *change* into a distinct cognitive-retrieval state happens after 3.7s.\n- Option C is a video-based distractor. This is when she resumes speaking after her pause. It's a significant transition, but it's the result of the cognitive process, not the process itself.\n- Option D is a near-miss distractor. This interval captures another real but much more subtle gaze shift (looking down). It's a relevant detail but less pronounced and central to the Conscientiousness assessment than the main thinking pause.\n- Option E is a text-based distractor. This is an unremarkable interval of continuous speech without a notable facial expression change.\n- Option F is a text-based distractor. Similar to E, this is a plausible-sounding interval but does not contain a significant expression shift relevant to the trait."
+    },
+    {
+      "category": "Mixed Emotion Discrimination",
+      "question": "During 0.0s - 3.7s, the person's emotional state is best characterized as which of the following? Consider both verbal and non-verbal cues.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pensive concentration that is mixed with some slight self-awareness."
+        },
+        {
+          "id": "B",
+          "text": "Deep thoughtfulness that is tempered by feelings of full confidence."
+        },
+        {
+          "id": "C",
+          "text": "Annoyed focus that is mixed with an expression of some impatience."
+        },
+        {
+          "id": "D",
+          "text": "Anxious uncertainty that is tempered by a distinct desire to please."
+        },
+        {
+          "id": "E",
+          "text": "Mild confusion that is mixed with a small but visible hint of skepticism."
+        },
+        {
+          "id": "F",
+          "text": "Scholarly seriousness that is mixed with a bit of intellectual pride."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "In this interval, the subject has a serious, pensive expression with furrowed brows, suggesting concentration. She maintains eye contact, indicating engagement. Her voice is also noted as slightly breathy, which points to a mild level of self-awareness or social stress common in a recording setting. This combination is best described as pensive concentration with slight self-awareness.\n\n- Option B is a near-miss distractor. 'Deep thoughtfulness' is plausible, but 'full confidence' is contradicted by the slightly breathy quality of her voice, which suggests a lack of complete composure.\n- Option C is a video-based distractor. This is an incorrect negative interpretation of the furrowed brow; her overall calm demeanor and moderate vocal tone do not support 'annoyance' or 'impatience'.\n- Option D is a video-based distractor. 'Anxious uncertainty' is too strong a descriptor for the subtle cues present. While there's slight self-awareness, it doesn't rise to the level of anxiety or uncertainty.\n- Option E is a text-based distractor. While answering a question could involve confusion, her expression is focused and pensive, not confused or skeptical. There are no visual cues to support this.\n- Option F is a text-based distractor. 'Scholarly seriousness' is a plausible interpretation, but there are no visual or auditory cues (like a smirk or specific intonation) to support the presence of 'intellectual pride'."
+    },
+    {
+      "category": "Temporal-Causal Reasoning",
+      "question": "Consider the sequence of behaviors observed across the video. Which of the following best describes the causal chain linking the person's actions at different moments?",
+      "options": [
+        {
+          "id": "A",
+          "text": "An initial verbal attempt is followed by a non-verbal action for cognitive retrieval, enabling delivery of a more formulated and emphasized statement."
+        },
+        {
+          "id": "B",
+          "text": "A confident statement prompts a moment of self-doubt and correction, which then leads to the delivery of a much less certain concluding statement."
+        },
+        {
+          "id": "C",
+          "text": "A period of internal reflection causes a hesitant initial statement, which is then followed by a non-verbal gesture seeking social confirmation."
+        },
+        {
+          "id": "D",
+          "text": "An emotional regulation gesture manages initial anxiety, leading to calm speech which is then interrupted by a distraction causing a break in focus."
+        },
+        {
+          "id": "E",
+          "text": "A display of social dominance is followed by a performative gesture to assert credibility, culminating in a final statement designed to persuade."
+        },
+        {
+          "id": "F",
+          "text": "A moment of confusion leads to a non-verbal request for clarification, which is then resolved allowing the speaker to finish her primary point."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "This option accurately maps the video's abstract structure. The person starts speaking (initial verbal attempt: 0.0s-3.7s), then pauses and looks up to think (non-verbal action for cognitive retrieval: 3.7s-5.6s), which allows her to then deliver the core of her answer with vocal emphasis on 'practice' (formulated and emphasized statement: 5.6s-7.4s).\n\n- Option B is a near-miss distractor. It correctly identifies the three phases but misinterprets the causality and confidence levels. The initial statement isn't overly confident, the pause seems cognitive not doubtful, and the final statement is emphasized, not less certain.\n- Option C is a video-based distractor with reversed temporal order. The internal reflection (pause) happens in the middle, not at the beginning. The initial statement is not hesitant, and there is no gesture seeking social confirmation at the end.\n- Option D is a video-based distractor with an incorrect causal link. It misinterprets the cognitive pause as an 'emotional regulation gesture' for 'anxiety' and invents a 'distraction' that does not occur.\n- Option E is a text-based distractor. This describes a power-dynamic narrative (dominance, persuasion) that is completely at odds with the speaker's calm, reflective, and non-confrontational demeanor.\n- Option F is a text-based distractor. The speaker shows no signs of 'confusion' or 'requesting clarification'; her actions point toward internal thought formulation, not external seeking of information."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 6.1s, a region was detected in the video (x=0.533, y=0.243, w=0.150, h=0.087, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The person's gaze returns to a forward-facing position towards the camera."
+        },
+        {
+          "id": "B",
+          "text": "The person's eyebrows are furrowed slightly in a display of concentration."
+        },
+        {
+          "id": "C",
+          "text": "The person's mouth is moving to articulate words while they are speaking."
+        },
+        {
+          "id": "D",
+          "text": "The person's entire head is tilting slightly towards their right-hand side."
+        },
+        {
+          "id": "E",
+          "text": "The person's whole facial expression appears to be both serious and pensive."
+        },
+        {
+          "id": "F",
+          "text": "The person's upper torso can be seen leaning slightly against the background."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The provided coordinates at 6.1s precisely frame the subject's eyes. At this moment, immediately following her cognitive pause where she looked away, her gaze returns to the camera as she prepares to continue speaking. This is the most accurate description for the content of that specific bounding box.\n\n- Option B is a video-based distractor. The eyebrows furrow at a different time (0.0s-3.7s) and are located just above the specified bounding box.\n- Option C is a video-based distractor. The mouth is a different facial region, located below the specified bounding box.\n- Option D is a video-based distractor. The head tilt occurs at a different time (3.7s-5.6s), and this describes the motion of the entire head, not just the eye region.\n- Option E is a near-miss distractor. This describes the overall facial expression, which is too general. The question asks for the specific action within the small bounding box covering only the eyes. The 'serious and pensive' expression is also more prominent earlier in the video.\n- Option F is a video-based distractor. The torso is a completely different body part and is far outside the specified facial coordinates."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "At which of the following moments does the subject's overall facial expression most clearly convey a state of pensive and serious engagement while speaking?",
+      "options": [
+        {
+          "id": "A",
+          "text": "At time 4.5s, within the region (x=0.49, y=0.11, w=0.24, h=0.44)."
+        },
+        {
+          "id": "B",
+          "text": "At time 4.5s, within the region (x=0.50, y=0.22, w=0.22, h=0.14)."
+        },
+        {
+          "id": "C",
+          "text": "At time 1.1s, within the region (x=0.52, y=0.16, w=0.20, h=0.34)."
+        },
+        {
+          "id": "D",
+          "text": "At time 6.9s, within the region (x=0.45, y=0.26, w=0.33, h=0.56)."
+        },
+        {
+          "id": "E",
+          "text": "At time 12.0s, within the region (x=0.57, y=0.25, w=0.16, h=0.09)."
+        },
+        {
+          "id": "F",
+          "text": "At time 14.8s, within the region (x=0.35, y=0.76, w=0.50, h=0.20)."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The correct answer is C, which points to 1.1s and provides a bounding box covering the entire face. During this initial phase (0.0s-3.7s), the observation log explicitly states her expression is 'serious and pensive' while she is speaking and maintaining eye contact, matching the question perfectly.\n\n- Option A is a video-based distractor. At 4.5s, the person is in the middle of her cognitive pause, not speaking. The box covers her tilted head.\n- Option B is a near-miss distractor. This is also at 4.5s during the pause, but the box narrowly covers only her eyes as she looks up. She is not speaking, and it's not the whole face.\n- Option D is a video-based distractor. This timestamp and bounding box correspond to the subject's torso, which does not have a facial expression.\n- Option E is a near-miss distractor. At 12.0s, she is speaking, but the expression is more neutral, and she is looking down. The box also covers only her eyes, not the overall facial expression.\n- Option F is a video-based distractor. This timestamp and bounding box point to the lower part of the frame where hands might be, but none are visible. It is irrelevant to a facial expression."
+    },
+    {
+      "category": "Counterfactual Reasoning",
+      "question": "If the person had NOT exhibited the behavior observed around 3.7s - 5.6s, which of the following personality assessments would be MOST affected?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Conscientiousness might be rated lower, as this action is strong evidence for a deliberate, non-impulsive cognitive style."
+        },
+        {
+          "id": "B",
+          "text": "Conscientiousness might be rated higher, because the absence of this pause would imply a more confident and direct delivery."
+        },
+        {
+          "id": "C",
+          "text": "Extraversion assessment might increase, given that this introspective moment is a primary indicator of a more reserved nature."
+        },
+        {
+          "id": "D",
+          "text": "Agreeableness would likely decrease, as the pause shows a cooperative effort to formulate a useful and thoughtful response."
+        },
+        {
+          "id": "E",
+          "text": "Neuroticism would likely be rated lower, since the pause and gaze shift are interpreted as key signs of social discomfort."
+        },
+        {
+          "id": "F",
+          "text": "The Openness score would be unaffected, as it is based on the subject's unconventional topic choice, not this behavior."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The behavior from 3.7s to 5.6s is the distinct pause to look up and think. The personality analysis explicitly calls this a 'classic indicator of careful thought' and uses it as the primary evidence for Medium Conscientiousness, contrasting it with an impulsive response style. Removing this key behavior would significantly weaken the evidence for this trait, likely leading to a lower assessment.\n\n- Option B is a near-miss distractor. It identifies the correct trait but gets the direction of the effect wrong. In the context of the analysis, the pause is a positive indicator of Conscientiousness (deliberation), not a negative one (hesitation).\n- Option C is a text-based distractor. While the pause is an introspective (and thus not extraverted) moment, the primary evidence for Medium Extraversion comes from other cues like the lack of hand gestures and leaning posture. The effect would be minor compared to the effect on Conscientiousness.\n- Option D is a text-based distractor. Although the pause could be seen as cooperative, the Agreeableness score is based more on her overall calm and non-confrontational tone. This specific behavior is not the main pillar of that assessment.\n- Option E is a video-based distractor. The analysis explicitly states the pause appears 'cognitive rather than anxiety-driven'. Therefore, removing it would not impact the Neuroticism score in this way, as it was not considered a sign of discomfort to begin with.\n- Option F is a video-based distractor. This is incorrect because the analysis *does* cite the introspective pause as supporting evidence for Openness. While the topic is also key evidence, removing the behavioral cue would still affect the assessment."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator06",
+      "version": 2,
+      "clues_total": 23,
+      "clues_correct": 15,
+      "clues_wrong_corrected": 5,
+      "clues_missing_skipped": 2,
+      "clues_bonus": 1
+    }
+  }
+}

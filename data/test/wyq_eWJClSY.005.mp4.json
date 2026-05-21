@@ -1,0 +1,449 @@
+{
+  "video_id": "wyq_eWJClSY.005.mp4",
+  "video_path": "wyq_eWJClSY.005.mp4",
+  "transcription": "I guess original and rare, I guess you could say maybe, I don't know, I don't know, maybe the pink Bugatti maybe. I don't know, what do you guys think? What do you guys think, let me know in the comments down below, a pink, high pink rhine-,",
+  "original_scores": {
+    "extraversion": 0.3457943925233645,
+    "agreeableness": 0.5934065934065933,
+    "conscientiousness": 0.4563106796116505,
+    "neuroticism": 0.35416666666666663,
+    "openness": 0.4444444444444445
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 9.47,
+      "description": "Gaze is directed slightly to his left (viewer's right). Eyebrows remain in a neutral position with very slight, intermittent furrowing as he speaks. His mouth moves naturally with speech, with lips slightly parted, and he blinks at a normal rate.",
+      "bboxes": [
+        {
+          "frame_time": 0,
+          "x": 0.38453947368421054,
+          "y": 0.33421052631578946,
+          "w": 0.20131578947368423,
+          "h": 0.2,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 0,
+          "x": 0.3756578947368421,
+          "y": 0.3605263157894737,
+          "w": 0.2294407894736842,
+          "h": 0.1,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 0,
+          "x": 0.4230263157894737,
+          "y": 0.5763157894736842,
+          "w": 0.10657894736842105,
+          "h": 0.15,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 0,
+          "x": 0.3712171052631579,
+          "y": 0.35789473684210527,
+          "w": 0.20279605263157896,
+          "h": 0.16052631578947368,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 9.47,
+      "end_time": 15.65,
+      "description": "Gaze shifts to look directly at the camera. The corners of his mouth pull up and back into a smile, and his eyebrows raise slightly. His eyes widen slightly as he begins to smile. He performs a full-eyelid closure blink at 12.3 seconds. The smile is maintained for the remainder of the clip.",
+      "bboxes": [
+        {
+          "frame_time": 10.03249,
+          "x": 0.44375,
+          "y": 0.2631578947368421,
+          "w": 0.1524671052631579,
+          "h": 0.14736842105263157,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 10.262704,
+          "x": 0.4807565789473684,
+          "y": 0.48947368421052634,
+          "w": 0.10509868421052632,
+          "h": 0.10526315789473684,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 14.212695,
+          "x": 0.46595394736842105,
+          "y": 0.5394736842105263,
+          "w": 0.12286184210526316,
+          "h": 0.1,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 15.048736,
+          "x": 0.44967105263157897,
+          "y": 0.33157894736842103,
+          "w": 0.17023026315789475,
+          "h": 0.11578947368421053,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 12.328384,
+          "x": 0.4881578947368421,
+          "y": 0.5184210526315789,
+          "w": 0.1125,
+          "h": 0.11315789473684211,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 9.47,
+      "description": "The subject is sitting upright, seen from the upper torso. His head is oriented slightly toward his left (viewer's right). There is minimal body or head movement.",
+      "bboxes": [
+        {
+          "frame_time": 9.188603,
+          "x": 0.30608552631578945,
+          "y": 0.4921052631578947,
+          "w": 0.3774671052631579,
+          "h": 0.4342105263157895,
+          "note": "pose human-annotated",
+          "region": "torso"
+        },
+        {
+          "frame_time": 0,
+          "x": 0.3963815789473684,
+          "y": 0.1368421052631579,
+          "w": 0.21463815789473684,
+          "h": 0.6421052631578947,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 0,
+          "x": 0.3638157894736842,
+          "y": 0.2789473684210526,
+          "w": 0.2723684210526316,
+          "h": 0.5473684210526316,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 9.47,
+      "end_time": 15.65,
+      "description": "The subject's head turns to face the camera directly. He leans forward slightly toward the camera. His head makes small, rhythmic nodding motions that are synchronized with the cadence of his speech.",
+      "bboxes": [
+        {
+          "frame_time": 12.180536,
+          "x": 0.4585526315789474,
+          "y": 0.1868421052631579,
+          "w": 0.17763157894736842,
+          "h": 0.5157894736842106,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 12.180536,
+          "x": 0.24835526315789475,
+          "y": 0.4842105263157895,
+          "w": 0.49736842105263157,
+          "h": 0.45789473684210524,
+          "note": "pose human-annotated",
+          "region": "torso"
+        },
+        {
+          "frame_time": 12.180536,
+          "x": 0.4555921052631579,
+          "y": 0.2131578947368421,
+          "w": 0.19391447368421053,
+          "h": 0.42105263157894735,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 9.47,
+      "description": "Speech is delivered at a measured, somewhat hesitant pace with several short pauses between phrases. The pitch remains in a stable mid-range with a slightly falling intonation on phrases like \"I don't know.\" The volume is consistent.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 9.47,
+      "end_time": 15.65,
+      "description": "The speech rate increases, and the delivery becomes more energetic and direct. There is a noticeable upward pitch inflection on the questions \"what do you guys think?\". The volume increases slightly. Stress and a higher pitch are placed on the words \"pink\" and \"hot pink.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.65,
+      "description": "The subject is a young adult male with fair skin, light brown hair styled upwards, and a light mustache. He is wearing a plain black t-shirt. He is filmed from the chest up in what appears to be a bedroom. In the background, there is a bed with an orange comforter, a purple pillow with an orange tiger paw print, and other pillows. The wall behind him is decorated with several posters for the \"Call of Duty\" video game franchise. To the far left, a green curtain is visible, and to the right is a white door with a doorknob. The lighting is even and originates from the front.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Low",
+      "score": 0.35,
+      "rationale": "The subject's Low Extraversion is indicated by his initial reserved demeanor. In the first half of the clip, he exhibits signs of introversion such as an averted gaze and minimal body movement, suggesting a preference for internal processing over outward expression. His speech is hesitant and paced, reflecting thoughtfulness rather than social assertiveness. While he later turns to the camera with increased energy, this appears to be a functional shift to engage the audience for input rather than a baseline trait of high social energy, especially given his initial uncertainty.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Medium",
+      "score": 0.59,
+      "rationale": "The subject scores in the Medium range for Agreeableness. This is primarily supported by his shift to a pro-social, cooperative stance in the second half of the clip. He directly and warmly engages the audience by turning towards them, smiling, and explicitly asking for their opinions ('What do you guys think?'). This solicitation of feedback demonstrates a desire for connection and harmony. However, his initial neutral and reserved presentation balances this, suggesting a typically pleasant but not overly deferential disposition, consistent with a medium score.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Medium",
+      "score": 0.46,
+      "rationale": "A Medium Conscientiousness score is supported by the blend of dutiful and spontaneous behaviors. The subject is engaged in the task of creating a video, implying some level of commitment and planning. However, his response is clearly unscripted and improvisational, as evidenced by his verbal hesitation ('I guess... I don't know, maybe') and on-the-spot thinking. This lack of preparation and polish, combined with the act of completing the task itself, points to a middle ground between meticulousness and impulsivity.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Low",
+      "score": 0.35,
+      "rationale": "The subject's Low Neuroticism is demonstrated by his calm and emotionally stable response to uncertainty. When unable to formulate a definitive answer, he shows no signs of anxiety or frustration; his facial expression remains neutral, his blinking rate is normal, and his vocal tone is controlled. Instead of becoming flustered, he smoothly transitions to a constructive solution by engaging his audience. This resilience and lack of negative emotionality are hallmarks of low Neuroticism.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "Medium",
+      "score": 0.44,
+      "rationale": "The subject's Openness is rated as Medium. While he engages with a question about something 'original and rare' and offers a somewhat imaginative answer ('a pink Bugatti'), other cues suggest a more conventional side. His personal interests, as displayed by the 'Call of Duty' posters in his room, are very mainstream. Furthermore, his communication is direct and simple, and he quickly defaults to soliciting popular opinion from his audience rather than further exploring his own abstract ideas. This balance between engaging with novelty and adhering to convention supports a medium score.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During 0.0s - 9.5s, the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "High level of Openness"
+        },
+        {
+          "id": "B",
+          "text": "Low level of Neuroticism"
+        },
+        {
+          "id": "C",
+          "text": "High Agreeableness score"
+        },
+        {
+          "id": "D",
+          "text": "High Conscientiousness"
+        },
+        {
+          "id": "E",
+          "text": "Low level of Extraversion"
+        },
+        {
+          "id": "F",
+          "text": "Medium level of Openness"
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. The analysis states that the subject's initial reserved demeanor, averted gaze, minimal body movement, and hesitant speech in the first 9.5 seconds are primary indicators of Low Extraversion.\n- Option A is a text-based distractor. The subject is discussing something 'original and rare,' which might suggest Openness, but his hesitant behavior does not support a high level.\n- Option B is a near-miss distractor. His calm reaction to uncertainty does support Low Neuroticism, but the introverted cues (averted gaze, hesitant speech) are more prominent and defining behavioral patterns in this specific time segment, making Low Extraversion a more direct conclusion.\n- Option C is a video-based distractor. High Agreeableness is supported by his pro-social shift (smiling, asking for opinions) which occurs in the second half of the video (after 9.5s), not during the specified initial period.\n- Option D is a text-based distractor. A 'specific behavioral pattern' might imply conscientiousness, but the video shows improvisation and hesitation ('I don't know'), which contradicts a high level of this trait.\n- Option F is a text-based distractor. While his final Openness score is medium, the specific behaviors in this segment do not provide the primary evidence for it."
+    },
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their Agreeableness level?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[02.5s - 03.5s]"
+        },
+        {
+          "id": "B",
+          "text": "[05.0s - 06.0s]"
+        },
+        {
+          "id": "C",
+          "text": "[13.5s - 14.5s]"
+        },
+        {
+          "id": "D",
+          "text": "[08.5s - 09.5s]"
+        },
+        {
+          "id": "E",
+          "text": "[09.8s - 10.8s]"
+        },
+        {
+          "id": "F",
+          "text": "[11.8s - 12.8s]"
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. The personality analysis links Agreeableness to the subject's shift to a pro-social, cooperative stance. This transition begins around 9.8s-10.8s, where he turns his head to face the camera directly (10.0s) and his mouth corners begin to pull into a smile (10.3s).\n- Option A is a video-based distractor. This interval shows the subject in his initial state, speaking with a neutral expression and averted gaze, which is not the key change related to Agreeableness.\n- Option B is a text-based distractor. It is a plausible-looking time range within the video where no significant facial expression change occurs.\n- Option C is a video-based distractor. During this time, the smile is already fully formed and maintained. The question asks for the interval where the *change* occurs, not where the expression is held.\n- Option D is a near-miss distractor. This interval is immediately before the key change. It captures the end of his introverted phase but misses the onset of the pro-social expression itself.\n- Option F is a text-based distractor. It is another plausible-looking time range where the expression is already established, but no notable change takes place."
+    },
+    {
+      "category": "Mixed Emotion Discrimination",
+      "question": "During 9.5s - 15.7s, the person's emotional state is best characterized as which of the following? Consider both verbal and non-verbal cues.",
+      "options": [
+        {
+          "id": "A",
+          "text": "A feeling of deep satisfaction combined with joyful relief from pressure."
+        },
+        {
+          "id": "B",
+          "text": "A thoughtful hesitation about his idea mixed with quiet uncertainty."
+        },
+        {
+          "id": "C",
+          "text": "A surge of sudden inspiration mixed with some degree of playfulness."
+        },
+        {
+          "id": "D",
+          "text": "A feeling of confident assertion that is tempered by light amusement."
+        },
+        {
+          "id": "E",
+          "text": "A sense of amiable inquiry mixed with genuine curiosity toward others."
+        },
+        {
+          "id": "F",
+          "text": "A sense of hopeful optimism that is tempered with some soft nostalgia."
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. In this segment, the subject turns to the camera, smiles warmly (amiable), and directly asks the audience for their opinion ('What do you guys think?'), showing a clear desire for connection and input (inquiry, curiosity).\n- Option A is a text-based distractor. There are no cues in the video to suggest he was under pressure or is experiencing 'deep satisfaction' or 'relief'.\n- Option B is a video-based distractor. This accurately describes the emotional state of the *first* half of the video (0.0s - 9.5s), not the specified later segment.\n- Option C is a text-based distractor. While he is creative, 'surge of sudden inspiration' is too strong and doesn't capture the primary social engagement aspect of this time range.\n- Option D is a near-miss distractor. He appears confident and smiles, so 'confident assertion' and 'light amusement' are plausible. However, 'inquiry' and 'curiosity' better capture the explicit act of asking a question and seeking feedback, which is the main point of his action.\n- Option F is a text-based distractor. There are no visual or verbal cues to support the presence of nostalgia."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 0.0s, a region was detected in the video (x=0.42, y=0.58, w=0.11, h=0.15, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Rhythmic nodding of the head synchronized with speech."
+        },
+        {
+          "id": "B",
+          "text": "Maintaining an upright and still torso body posture."
+        },
+        {
+          "id": "C",
+          "text": "The initial muscular activation for forming a slight smile."
+        },
+        {
+          "id": "D",
+          "text": "A slight raising of the eyebrows for special emphasis."
+        },
+        {
+          "id": "E",
+          "text": "Neutral speech articulation with lips slightly parted."
+        },
+        {
+          "id": "F",
+          "text": "Directing the gaze fully towards the recording camera."
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. The specified coordinates (x=0.42, y=0.58, w=0.11, h=0.15) at 0.0s precisely frame the subject's mouth. At this moment, he is beginning to speak, and the observation log confirms his mouth is moving naturally for speech with lips slightly parted.\n- Option A is a video-based distractor. The rhythmic nodding occurs later in the video (around 12.2s) and is an action of the head, not the mouth region specified.\n- Option B is a near-miss distractor. The subject is maintaining an upright posture at this time, but the specified bounding box is tightly focused on the mouth, not the much larger torso region.\n- Option C is a video-based distractor. The onset of the smile happens in the correct region (mouth) but at a much later time (around 10.3s-14.2s).\n- Option D is a text-based distractor. This is based on negative evidence; the human-verified log confirms the subject's eyebrows remain neutral, and no raising for emphasis occurs.\n- Option F is a video-based distractor. The subject directs his gaze to the camera later (around 10.0s). At 0.0s, his gaze is averted, and this action pertains to the eyes, not the specified mouth region."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "Which of the following options correctly identifies the temporal and spatial location of the subject's developing smile as he engages the audience?",
+      "options": [
+        {
+          "id": "A",
+          "text": "At approximately 14.2s, within region (x=0.450, y=0.332, w=0.170, h=0.116)."
+        },
+        {
+          "id": "B",
+          "text": "At approximately 2.0s, within region (x=0.466, y=0.539, w=0.123, h=0.100)."
+        },
+        {
+          "id": "C",
+          "text": "At approximately 0.0s, within region (x=0.423, y=0.576, w=0.107, h=0.150)."
+        },
+        {
+          "id": "D",
+          "text": "At approximately 14.2s, within region (x=0.466, y=0.539, w=0.123, h=0.100)."
+        },
+        {
+          "id": "E",
+          "text": "At approximately 10.3s, within region (x=0.306, y=0.492, w=0.377, h=0.434)."
+        },
+        {
+          "id": "F",
+          "text": "At approximately 12.3s, within region (x=0.385, y=0.334, w=0.201, h=0.200)."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "The correct answer is D. The observation log specifically notes the developing smile with a bounding box at 14.2s located at (x=0.466, y=0.539, w=0.123, h=0.100), which frames his mouth.\n- Option A is a near-miss distractor. The timestamp is correct (14.2s is when he is smiling), but the bounding box corresponds to his eyes, not his mouth.\n- Option B is a near-miss distractor. The bounding box correctly identifies the mouth area where the smile appears, but the timestamp (2.0s) is from the initial phase of the video when his expression was neutral.\n- Option C is a video-based distractor. This option correctly identifies the time and location of his mouth during his initial neutral speech, which is a different action.\n- Option E is a text-based distractor. The timestamp 10.3s is when the smile begins, but the provided bounding box is for the torso, not the mouth.\n- Option F is a text-based distractor. The timestamp 12.3s is when he is smiling, but the provided bounding box is for his eyes at the very beginning of the clip."
+    },
+    {
+      "category": "Counterfactual Reasoning",
+      "question": "If the person had NOT exhibited the behavior observed around 9.5s - 12.5s, which of the following personality assessments would be MOST affected?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The Openness assessment would be affected, as his suggestion in this period is central to that trait's score."
+        },
+        {
+          "id": "B",
+          "text": "The Conscientiousness score would be affected, because his early verbal hesitation shows a lack of preparation."
+        },
+        {
+          "id": "C",
+          "text": "The Extraversion assessment would be altered, as this moment is a main indicator of his social assertiveness."
+        },
+        {
+          "id": "D",
+          "text": "The assessment of Agreeableness would likely increase, because the behavior showed a lack of independent thought."
+        },
+        {
+          "id": "E",
+          "text": "The assessment of Agreeableness would likely decrease, as this provides key evidence of pro-social inclinations."
+        },
+        {
+          "id": "F",
+          "text": "The Neuroticism score would change, because this action demonstrates a calculated response to internal anxiety."
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. The behavior in this interval (turning to the camera, smiling, directly asking for opinions) is the primary evidence for his Medium Agreeableness score, as it demonstrates a 'pro-social, cooperative stance' and a 'desire for connection and harmony'. Removing this behavior would remove the main support for that assessment, likely causing it to be rated lower.\n- Option A is a video-based distractor. The main verbal content related to Openness (the 'pink Bugatti' idea) occurs before this specific behavioral shift.\n- Option B is a video-based distractor. It refers to a behavior (verbal hesitation) from the wrong time segment (the beginning of the video) and connects it to the wrong trait in the context of the question.\n- Option C is a text-based distractor. While this behavior does involve social engagement, his Low Extraversion score is more strongly established by the introverted behaviors in the first half. Removing this segment would reinforce the low score rather than fundamentally altering the assessment.\n- Option D is a near-miss distractor. It correctly identifies the trait (Agreeableness) but proposes the wrong direction of change and provides flawed reasoning.\n- Option F is a text-based distractor. The personality analysis explicitly notes a *lack* of anxiety, making this reasoning contrary to the provided data."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator14",
+      "version": 3,
+      "clues_total": 20,
+      "clues_correct": 16,
+      "clues_wrong_corrected": 2,
+      "clues_missing_skipped": 2,
+      "clues_bonus": 0
+    }
+  }
+}

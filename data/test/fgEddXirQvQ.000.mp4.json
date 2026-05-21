@@ -1,0 +1,408 @@
+{
+  "video_id": "fgEddXirQvQ.000.mp4",
+  "video_path": "fgEddXirQvQ.000.mp4",
+  "transcription": "Steve-O asks, \"Which doctor is your favorite?\"",
+  "original_scores": {
+    "extraversion": 0.5607476635514019,
+    "agreeableness": 0.5714285714285714,
+    "conscientiousness": 0.5728155339805825,
+    "neuroticism": 0.59375,
+    "openness": 0.6888888888888889
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 4.4,
+      "description": "The subject's gaze is directed down and to her left, looking at a phone. Her mouth is open as she speaks, and her overall facial expression is neutral and focused on reading.",
+      "bboxes": [
+        {
+          "frame_time": 0.642999,
+          "x": 0.28092105263157896,
+          "y": 0.1768421072708933,
+          "w": 0.1480263157894737,
+          "h": 0.07368421052631578,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 1.655155,
+          "x": 0.002631578947368412,
+          "y": 0.6478947388498406,
+          "w": 0.23832236842105264,
+          "h": 0.3394736842105263,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 1.940368,
+          "x": 0.3327302631578947,
+          "y": 0.3110526335866828,
+          "w": 0.08733552631578947,
+          "h": 0.1368421052631579,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 2.748294,
+          "x": 0.30904605263157897,
+          "y": 0.04789473884984067,
+          "w": 0.18207236842105262,
+          "h": 0.42105263157894735,
+          "note": "face human-annotated",
+          "region": "face"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 4.4,
+      "end_time": 15.8,
+      "description": "Her gaze shifts directly to the camera. Her eyebrows raise and lower slightly in coordination with her speech, and her expression becomes more animated and engaged. She smiles briefly and maintains a conversational expression with natural mouth movements.",
+      "bboxes": [
+        {
+          "frame_time": 5.385415,
+          "x": 0.38009868421052634,
+          "y": 0.09263158095510382,
+          "w": 0.17763157894736842,
+          "h": 0.1,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 8.96186,
+          "x": 0.3223684210526316,
+          "y": 0.018947370428788034,
+          "w": 0.17763157894736842,
+          "h": 0.09210526315789473,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 9.69989,
+          "x": 0.34457236842105265,
+          "y": 0.026842107270893298,
+          "w": 0.21611842105263157,
+          "h": 0.41842105263157897,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 14.332878,
+          "x": 0.3046052631578947,
+          "y": 0.03473684411299856,
+          "w": 0.2412828947368421,
+          "h": 0.4236842105263158,
+          "note": "face human-annotated",
+          "region": "face"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 4.4,
+      "description": "The subject sits in a chair, holding a smartphone in her left hand while her head is tilted down to read from it.",
+      "bboxes": [
+        {
+          "frame_time": 2.274417,
+          "x": 0.1713815789473684,
+          "y": 0.4400000020077354,
+          "w": 0.6394736842105263,
+          "h": 0.5552631578947368,
+          "note": "human-annotated",
+          "region": "unknown"
+        },
+        {
+          "frame_time": 2.274417,
+          "x": 0.0381578947368421,
+          "y": 0.6268421072708933,
+          "w": 0.2042763157894737,
+          "h": 0.37105263157894736,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 2.868068,
+          "x": 0.2675986842105263,
+          "y": 0.005789475691945929,
+          "w": 0.24424342105263158,
+          "h": 0.45263157894736844,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 4.4,
+      "end_time": 7,
+      "description": "She lifts her head to face the camera, lowering the phone out of the frame.",
+      "bboxes": [
+        {
+          "frame_time": 4.842957,
+          "x": 0.3460526315789474,
+          "y": 0.0005263177972090872,
+          "w": 0.24572368421052632,
+          "h": 0.4421052631578947,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 7,
+      "end_time": 10.6,
+      "description": "She brings both hands to her upper chest in a self-referential gesture, with her fingertips lightly touching her collarbone area.",
+      "bboxes": [
+        {
+          "frame_time": 7.747227,
+          "x": 0.40230263157894736,
+          "y": 0.7294736862182617,
+          "w": 0.17319078947368421,
+          "h": 0.24473684210526317,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 10.6,
+      "end_time": 13.8,
+      "description": "She lowers her left hand and makes a sweeping, open-handed gesture to her right with her right hand, her head and torso turning slightly to follow the motion.",
+      "bboxes": [
+        {
+          "frame_time": 11.251565,
+          "x": 0.7486842105263158,
+          "y": 0.3505263177972091,
+          "w": 0.25131578947368416,
+          "h": 0.5710526315789474,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 12.83834,
+          "x": 0.3401315789473684,
+          "y": 0.026842107270893298,
+          "w": 0.20131578947368423,
+          "h": 0.4368421052631579,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 3.9,
+      "description": "Speech is delivered at a moderate, even pace as if reading a question. The pitch falls at the end of the sentence on the word \"favorite?\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 7.4,
+      "end_time": 10,
+      "description": "The words \"my favorite doctor\" and \"definitely\" are stressed with a slight increase in pitch and volume for emphasis.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 10.2,
+      "end_time": 15.8,
+      "description": "The speech rate becomes slightly faster and more fluid as she provides an explanation. The overall tone is conversational with natural pitch modulation.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.8,
+      "description": "The subject is a woman with long, reddish-brown hair, a fair complexion, and visible makeup. She is wearing a turquoise, long-sleeved, button-front shirt and rings on her fingers. She is sitting indoors in a light-colored, cushioned chair with a dark wood frame. The background is a curtain with a pattern of colorful vertical stripes (including green, yellow, pink, and blue) overlaid with a floral print. The lighting is bright and appears to be from a frontal source.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Medium",
+      "score": 0.56,
+      "rationale": "The subject's score falls into the Medium range. While she demonstrates social engagement by looking directly at the camera and adopting a 'lively' and 'conversational' expression while speaking, this is balanced by the initial period of inward focus while reading the question. Her use of vocal emphasis and hand gestures (placing hands on chest, sweeping gesture) indicates social energy, but the overall presentation is measured rather than overtly gregarious, aligning with a moderate level of extraversion.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Medium",
+      "score": 0.57,
+      "rationale": "The subject exhibits a Medium level of Agreeableness. Her willingness to engage directly with the question and the camera in a cooperative manner is a key indicator. Her 'conversational expression' and natural, non-confrontational tone suggest a baseline of social pleasantness. However, the interaction is straightforward and lacks overt displays of warmth, empathy, or prosocial emotion that would suggest a higher score, thus placing her firmly in the medium range.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Medium",
+      "score": 0.57,
+      "rationale": "The score of Medium for Conscientiousness is supported by the subject's structured approach to the task. She begins by carefully and with a 'neutral, focused' expression, reading the question from her phone. This deliberate action of ensuring she understands the prompt before responding demonstrates a methodical and task-oriented mindset. This behavior is a clear, albeit brief, indicator of diligence, justifying a medium score.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Medium",
+      "score": 0.59,
+      "rationale": "The subject's Neuroticism is rated as Medium. There is a potential, subtle indicator of self-consciousness in the self-referential gesture where she places both hands on her upper chest while beginning her answer. This can sometimes be a self-soothing or grounding behavior. However, this is counterbalanced by a generally stable and confident delivery: her gaze is direct, her speech is fluid, and her vocal tone is controlled. The absence of more overt signs of anxiety or emotional volatility keeps the score from being high.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "High",
+      "score": 0.69,
+      "rationale": "The subject's Openness is rated as High. This is primarily evidenced by her expressive and articulate communication style. Upon answering, her facial expression becomes 'lively and engaged,' and she uses dynamic gestures (sweeping hand motion) and varied vocal intonation to emphasize her points. This demonstrates a cognitive style that is imaginative and engaged in articulating personal preferences and ideas, which is a core facet of Openness to Experience.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During [0.0s - 4.4s], the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "High Neuroticism, indicated by the downward gaze which suggests a form of social avoidance or anxiety before speaking."
+        },
+        {
+          "id": "B",
+          "text": "Medium Conscientiousness, supported by the focused, deliberate act of reading the prompt to ensure full understanding."
+        },
+        {
+          "id": "C",
+          "text": "High Openness, demonstrated by the immediate engagement with technology to explore the new question being presented."
+        },
+        {
+          "id": "D",
+          "text": "High Conscientiousness, because the intense focus and neutral expression show a perfectionistic and diligent mindset."
+        },
+        {
+          "id": "E",
+          "text": "Medium Extraversion, as the person shows lively energy by using gestures to interact with the device being held."
+        },
+        {
+          "id": "F",
+          "text": "Low Agreeableness, suggested by the initial lack of direct eye contact, which can be interpreted as uncooperative."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. During 0.0s - 4.4s, the person is carefully reading the question from her phone with a neutral, focused expression. This methodical, task-oriented behavior is the primary evidence supporting a Medium Conscientiousness score.\n- Option A is a text-based distractor. A downward gaze can plausibly suggest anxiety, but in the video context, it is clearly for the purpose of reading, not social avoidance.\n- Option C is a text-based distractor. While she is using technology, the behavior itself (focused reading) is more indicative of conscientiousness than a general openness to new experiences.\n- Option D is a near-miss distractor. It correctly identifies Conscientiousness but overstates the evidence, labeling it as High. The behavior is methodical but not prolonged or intense enough to justify a High rating over a Medium one.\n- Option E is a video-based distractor. The lively energy and gestures occur *after* this period (e.g., 10.6s-13.8s) and are evidence for Openness and Extraversion, not what is happening during the initial reading phase.\n- Option F is a text-based distractor. The lack of eye contact is a plausible sign of low agreeableness in a different context, but here it is functionally necessary for reading the prompt."
+    },
+    {
+      "category": "Temporal-Causal Reasoning",
+      "question": "Consider the sequence of behaviors observed across the video. Which of the following best describes the causal chain linking the person's actions at different moments?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A self-referential gesture (7s) triggers a moment of reflection, causing a need for information seeking (2s), which then leads to an expressive explanation (11s)."
+        },
+        {
+          "id": "B",
+          "text": "Initial information intake (2s) leads to a self-referential cognitive anchor (7s), which then facilitates an expressive elaboration of her personal opinion (11s)."
+        },
+        {
+          "id": "C",
+          "text": "A period of expressive elaboration (11s) prompts a self-correcting gesture (7s) which is followed by a re-evaluation of the initial information intake (2s)."
+        },
+        {
+          "id": "D",
+          "text": "An outward display of social energy (11s) is used to compensate for initial uncertainty (2s), followed by a gesture of self-reassurance to confirm the response (7s)."
+        },
+        {
+          "id": "E",
+          "text": "The act of information intake (2s) directly causes the expressive hand gestures (11s), with the self-referential gesture (7s) serving as a concluding signal."
+        },
+        {
+          "id": "F",
+          "text": "Initial cognitive processing (2s) leads to a need for emotional grounding (7s), which in turn inhibits a more detailed or expressive explanation of her views (11s)."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. This option correctly maps the abstract behavioral sequence to the video events: (1) She first gathers information by reading the question (0-4.4s). (2) She then uses a self-referential gesture (hands to chest at ~7.7s) as she begins her answer, anchoring her opinion personally. (3) This leads into a more expressive elaboration with a sweeping hand gesture and vocal emphasis (~11.3s).\n- Option A is a distractor with reversed temporal order. The self-referential gesture (7s) happens *after* the information seeking (2s), not before.\n- Option C is a distractor with reversed temporal order. The entire sequence of events is described in the wrong order.\n- Option D is a text-based distractor. It posits a 'compensatory' motivation and 'uncertainty' that are not supported by the video; her delivery seems confident.\n- Option E is a near-miss distractor. It has the correct temporal order for two events but misinterprets the causality, suggesting the self-referential gesture is a 'concluding signal' when it actually initiates her answer.\n- Option F is a near-miss distractor. It correctly identifies the first two steps but incorrectly claims the grounding gesture *inhibits* expression, when the video shows it *facilitates* it."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around [12.8s], a region was detected in the video (x=0.340, y=0.027, w=0.201, h=0.437, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A lively and generally engaged facial expression"
+        },
+        {
+          "id": "B",
+          "text": "A slight head and torso turn following a motion"
+        },
+        {
+          "id": "C",
+          "text": "A sweeping hand gesture directed to the left side"
+        },
+        {
+          "id": "D",
+          "text": "A direct gaze shift looking towards the camera"
+        },
+        {
+          "id": "E",
+          "text": "Mobile eyebrows moving upward while speaking"
+        },
+        {
+          "id": "F",
+          "text": "A slightly parted mouth during a brief verbal pause"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. The provided bounding box at 12.8s covers the person's head and upper torso. At this specific moment, she is turning her head slightly to the left to follow her own hand gesture, which is the most prominent action occurring within that region. This is derived from the observation: 'Head and torso turn slightly to follow the movement'.\n- Option A is a video-based distractor. While her overall expression is engaged, this is a general description of her face. The most specific and prominent *action* within the box at this exact time is the head turn.\n- Option C is a video-based distractor. The sweeping hand gesture is happening concurrently, but it occurs outside this bounding box, which is focused on the head.\n- Option D is a video-based distractor. The gaze shift to the camera happened much earlier (around 4.4s); at 12.8s her gaze is stable and directed forward-left.\n- Option E is a video-based distractor. The eyebrows are within the bounding box, but their movement is a minor component of the overall action compared to the more significant head turn.\n- Option F is a near-miss distractor. The mouth is within the bounding box, but describing its state as 'parted during a pause' is less accurate and less prominent than the large-scale head motion that defines the action at this instant."
+    },
+    {
+      "category": "Counterfactual Reasoning",
+      "question": "If the person had NOT exhibited the behavior observed around [10.6s - 13.8s], which of the following personality assessments would be MOST affected?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Conscientiousness would decrease from Medium, as this moment provides a key contrast to her focused reading."
+        },
+        {
+          "id": "B",
+          "text": "Openness would decrease from High, because the dynamic gesturing and vocal variety are primary evidence for it."
+        },
+        {
+          "id": "C",
+          "text": "Extraversion would be unaffected, since her direct eye contact after 4.4s already establishes social energy."
+        },
+        {
+          "id": "D",
+          "text": "Neuroticism score would likely increase, because removing this confident gesture leaves the earlier self-touch as a stronger anxiety signal."
+        },
+        {
+          "id": "E",
+          "text": "Openness would increase from High, as the sweeping gesture could be seen as overly dramatic, and removing it would suggest more refined thoughts."
+        },
+        {
+          "id": "F",
+          "text": "Agreeableness would increase from Medium, because the large, sweeping gesture could be interpreted as being overly assertive or dismissive."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. The behavior during 10.6s - 13.8s includes the sweeping hand gesture and more fluid, varied speech. The personality analysis explicitly cites 'dynamic gestures' and 'varied vocal intonation' as the primary evidence for a High Openness score. Removing this evidence would significantly weaken the case for High Openness, likely causing it to be assessed as Medium.\n- Option A is a video-based distractor. It correctly identifies another behavior (focused reading) but misattributes the impact. Removing the gesture would not change the interpretation of the earlier, separate behavior related to Conscientiousness.\n- Option C is a text-based distractor. It makes a plausible argument, but the expressive gestures are also strong evidence for social energy, so removing them would likely affect the Extraversion score, making the claim 'unaffected' incorrect.\n- Option D is a plausible but secondary effect. While the Neuroticism score might be slightly reconsidered, the most *direct* and *significant* impact is on the trait for which the behavior is primary evidence (Openness).\n- Option E is a near-miss distractor. It correctly identifies Openness as the affected trait but argues for the wrong direction of change (increase instead of decrease) based on a misinterpretation of the gesture.\n- Option F is a text-based distractor. It presents a plausible but unsupported interpretation of the gesture as 'assertive' to argue for an impact on Agreeableness, which was rated based on other cues like conversational tone."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator09",
+      "version": 1,
+      "clues_total": 21,
+      "clues_correct": 16,
+      "clues_wrong_corrected": 3,
+      "clues_missing_skipped": 2,
+      "clues_bonus": 0
+    }
+  }
+}

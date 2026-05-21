@@ -1,0 +1,320 @@
+{
+  "video_id": "jrhvXPaXo-0.004.mp4",
+  "video_path": "jrhvXPaXo-0.004.mp4",
+  "transcription": "It grows everyday, so I'm sure it's gone up. I looked today; I had over 872,000 video views, so you guys are going to push me to ...",
+  "original_scores": {
+    "extraversion": 0.4299065420560748,
+    "agreeableness": 0.4395604395604395,
+    "conscientiousness": 0.5339805825242718,
+    "neuroticism": 0.46875,
+    "openness": 0.4666666666666667
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 15.15,
+      "description": "The subject's eyes and eyebrows are completely obscured by dark sunglasses throughout the video. The lower face appears relaxed, with the mouth moving naturally in sync with speech. There are no noticeable signs of tension in the jaw or around the mouth.",
+      "bboxes": [
+        {
+          "frame_time": 2.85804,
+          "x": 0.2698190789473684,
+          "y": 0.10087718963623046,
+          "w": 0.26644736842105265,
+          "h": 0.24736842105263157,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 2.85804,
+          "x": 0.22689144736842104,
+          "y": 0.22192982121517785,
+          "w": 0.2930921052631579,
+          "h": 0.3815789473684211,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 2.85804,
+          "x": 0.2698190789473684,
+          "y": 0.3429824527941252,
+          "w": 0.20279605263157896,
+          "h": 0.24210526315789474,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 2.85804,
+          "x": 0.28758223684210527,
+          "y": 0.36929824226780944,
+          "w": 0.18503289473684212,
+          "h": 0.24210526315789474,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 15.15,
+      "description": "The subject is seated in the driver's seat of a vehicle, facing the camera. Their posture is upright and stable. The head makes very small, subtle nods and slight turns that are synchronized with the cadence of their speech. The shoulders and upper torso remain still.",
+      "bboxes": [
+        {
+          "frame_time": 2.85804,
+          "x": 0.2165296052631579,
+          "y": 0.2798245580572831,
+          "w": 0.3819078947368421,
+          "h": 0.531578947368421,
+          "note": "human-annotated",
+          "region": "unknown"
+        },
+        {
+          "frame_time": 2.85804,
+          "x": 0.2165296052631579,
+          "y": 0.4403508738467568,
+          "w": 0.44703947368421054,
+          "h": 0.48157894736842105,
+          "note": "pose human-annotated",
+          "region": "torso"
+        },
+        {
+          "frame_time": 2.85804,
+          "x": 0.26833881578947366,
+          "y": 0.08771929489938836,
+          "w": 0.2886513157894737,
+          "h": 0.6868421052631579,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 2.85804,
+          "x": 0.25945723684210525,
+          "y": 0.17456140016254626,
+          "w": 0.2679276315789474,
+          "h": 0.5552631578947368,
+          "note": "pose human-annotated",
+          "region": "shoulders"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 2.6,
+      "description": "Speech is delivered at a moderate pace with a steady, even pitch, concluding with a slight downward inflection on the word \"up.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 3.78,
+      "end_time": 5,
+      "description": "The speaker uses the filler word \"um\" before continuing at a consistent pace.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 8,
+      "end_time": 10.15,
+      "description": "A distinct pause occurs after the phrase \"video views.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 10.15,
+      "end_time": 12.5,
+      "description": "The speech rate increases slightly, with a noticeable rise in pitch and stress on the phrase \"push me.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.15,
+      "description": "The subject is a person with fair skin and shoulder-length, straight, blonde hair. They are wearing dark sunglasses, a dark zip-up jacket, and a purple patterned collared shirt underneath. The setting is the interior of a car with a light-colored (beige or light grey) upholstery. Through the passenger-side window, a blurry outdoor scene with bare tree branches is visible. The lighting is diffuse and appears to be natural, ambient light from an overcast day.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Medium",
+      "score": 0.43,
+      "rationale": "The subject exhibits a mix of introverted and extraverted cues. Engaging an audience in a video format points towards social engagement. However, the physical presentation is highly contained and reserved—an upright, stable posture with minimal head or body movement. Furthermore, the use of sunglasses obscures the eyes, a critical channel for social expression, creating a barrier. The vocal delivery is mostly moderate and even, lacking the sustained high energy or broad intonation typical of high extraversion. This combination of social outreach with physical and vocal restraint supports a Medium score.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Medium",
+      "score": 0.44,
+      "rationale": "The subject's agreeableness is rated as Medium. Cues supporting agreeableness include a relaxed lower face and a generally even, non-confrontational vocal tone. However, there are countervailing factors. The sunglasses prevent the establishment of rapport through eye contact, which can be perceived as distant or unapproachable. The content, while addressed to 'you guys,' is fact-based and self-referential (reporting personal view counts) rather than being overtly focused on expressing warmth or building community. This neutral, matter-of-fact presentation, balanced between a calm demeanor and a lack of explicit warmth, is characteristic of a medium level of agreeableness.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Medium",
+      "score": 0.53,
+      "rationale": "The score indicates a Medium level of Conscientiousness. The subject demonstrates orderliness and goal orientation by tracking and reporting a specific, large number ('872,000 video views'), which is a strong indicator of this trait. The speech is also structured, presenting a claim and then providing data to support it. However, the presentation is not perfectly polished; the use of a filler word ('um') and the casual setting within a car suggest a degree of spontaneity rather than meticulous planning. This blend of data-driven, organized thought with a casual delivery style points to a medium level of conscientiousness.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Medium",
+      "score": 0.47,
+      "rationale": "The subject's behavioral cues suggest a Medium level of Neuroticism (or average emotional stability). Strong indicators of emotional stability are present: the lower face is relaxed, the posture is stable and upright, and the body is still, with no signs of fidgeting or nervous tension. The vocal tone is predominantly steady. However, minor cues such as the use of a filler word and a distinct pause could be interpreted as brief moments of hesitation or self-monitoring. The sunglasses also act as a shield, which can sometimes be used to manage social anxiety. The combination of overt physical calmness with these subtle signs of guardedness or slight verbal disfluency justifies a mid-range score.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "Medium",
+      "score": 0.47,
+      "rationale": "The subject's Openness is assessed as Medium. Participating in video creation for a public platform indicates a degree of comfort with new media and experiences. However, the content of the discussion is highly concrete and factual (view statistics), lacking the abstract, imaginative, or philosophical themes often associated with high openness. The physical setting (a car) and personal appearance are conventional. The subject is engaging in a modern activity but in a very grounded and straightforward manner, which aligns well with a personality that is neither highly resistant to nor actively seeking novel intellectual or aesthetic experiences.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During [3.8s - 8.0s], the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A high level of Extraversion due to the person's clear social presentation."
+        },
+        {
+          "id": "B",
+          "text": "A medium level of Conscientiousness due to the tracking of specific data."
+        },
+        {
+          "id": "C",
+          "text": "A high level of Conscientiousness due to the flawless delivery of facts."
+        },
+        {
+          "id": "D",
+          "text": "A low level of Neuroticism due to the speaker's completely stable tone."
+        },
+        {
+          "id": "E",
+          "text": "A medium level of Openness due to the use of a public video platform."
+        },
+        {
+          "id": "F",
+          "text": "A high level of Agreeableness due to sharing personal success with others."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. During this interval, the person states a precise number ('872,000 video views'), which is strong evidence for the Conscientious trait of being organized, goal-oriented, and data-driven. The analysis rates it as Medium, not High, due to other casual elements. Option A is a text-based distractor; speaking publicly suggests extraversion, but the specific act of quoting a number is more related to conscientiousness. Option C is a near-miss distractor; the trait is correct, but the analysis indicates a Medium level due to a filler word ('um') and casual setting, making 'High' incorrect. Option D is a video-based distractor; while the person's tone is stable (a real video cue), this specific behavior (quoting a number) is a much stronger indicator for Conscientiousness than for Neuroticism. Option E is a text-based distractor; using a video platform relates to Openness, but this is a general context, not the specific behavior in this time range. Option F is a text-based distractor; 'sharing success' might sound agreeable, but the action itself is a neutral, factual report, which is a better indicator for Conscientiousness."
+    },
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's expressive delivery occur that is most relevant to their Extraversion level?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[0.0s - 2.6s]"
+        },
+        {
+          "id": "B",
+          "text": "[10.2s - 12.5s]"
+        },
+        {
+          "id": "C",
+          "text": "[3.8s - 5.0s]"
+        },
+        {
+          "id": "D",
+          "text": "[8.0s - 10.2s]"
+        },
+        {
+          "id": "E",
+          "text": "[5.5s - 7.5s]"
+        },
+        {
+          "id": "F",
+          "text": "[13.0s - 15.0s]"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. The audio analysis notes that during [10.2s - 12.5s], the person's speech rate slightly increases and their vocal pitch rises noticeably, which represents a shift to a more energetic and expressive state relevant to Extraversion. Option A is a video-based distractor; this interval marks the beginning of speech, which is delivered at a moderate and stable pace, not a notable change. Option C is a video-based distractor; this interval contains the use of a filler word, which is a disfluency, not an expressive shift in energy. Option D is a video-based distractor; this interval contains a distinct pause, which is a cessation of expression rather than a change in it. Options E and F are text-based distractors representing plausible but incorrect time intervals within the video's duration."
+    },
+    {
+      "category": "Mixed Emotion Discrimination",
+      "question": "During [0.0s - 15.2s], the person's emotional state is best characterized as which of the following? Consider both verbal and non-verbal cues.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Joyful pride mixed with a sense of feigned, performative humility."
+        },
+        {
+          "id": "B",
+          "text": "Factual self-assurance tempered by a degree of personal detachment."
+        },
+        {
+          "id": "C",
+          "text": "Anxious reservation combined with a strong feeling of overcompensation."
+        },
+        {
+          "id": "D",
+          "text": "Calm professionalism tempered by a subtle undercurrent of boredom."
+        },
+        {
+          "id": "E",
+          "text": "Confident satisfaction mixed with an open invitation for connection."
+        },
+        {
+          "id": "F",
+          "text": "Guarded neutrality combined with a hint of apologetic hesitation."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. This option accurately captures the blend of cues. 'Factual self-assurance' is shown by the calm delivery of specific data. 'Personal detachment' is conveyed by the sunglasses, which obscure eye contact and create a social barrier, and the contained, motionless posture. Option A is a text-based distractor; pride is plausible given the topic, but there are no visual or auditory cues for joy or humility. Option C is a text-based distractor; while being on camera can cause anxiety, the person's relaxed lower face and stable posture contradict this. Option D is a video-based distractor; the still posture could be misinterpreted as boredom, but the vocal delivery is engaged. Option E is a near-miss distractor; 'confident satisfaction' is close, but the sunglasses actively prevent an 'open invitation for connection.' Option F is a near-miss distractor; 'guarded neutrality' is accurate, but 'apologetic hesitation' is an over-interpretation of the pause, which serves more as a rhetorical device."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around [2.9s], a region was detected in the video (x=0.217, y=0.440, w=0.447, h=0.482, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Subtle and rhythmic head movements that are synchronized with speech."
+        },
+        {
+          "id": "B",
+          "text": "An upright, stable, and largely motionless upper body and torso posture."
+        },
+        {
+          "id": "C",
+          "text": "A relaxed lower facial expression with no significant visible tension."
+        },
+        {
+          "id": "D",
+          "text": "Natural mouth articulations that correspond to all the spoken words."
+        },
+        {
+          "id": "E",
+          "text": "The overall contextual view of the subject seated inside of a vehicle."
+        },
+        {
+          "id": "F",
+          "text": "Stationary and completely still positioning of the person's shoulders."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. The provided coordinates (x=0.217, y=0.440, w=0.447, h=0.482) encompass the person's torso and upper body. The observation cue for this region states upright and stable posture. Options A, C, and D are video-based distractors; they describe real actions (head movement, relaxed face, mouth movement) but these occur in different bounding box regions (head, face, and mouth, respectively). Option E is a video-based distractor that describes the general scene rather than the specific action within the designated bounding box. Option F is a near-miss distractor; the shoulders are indeed still, but this description is less complete than option B, which accurately describes the state of the entire torso region specified by the coordinates."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator13",
+      "version": 2,
+      "clues_total": 13,
+      "clues_correct": 13,
+      "clues_wrong_corrected": 0,
+      "clues_missing_skipped": 0,
+      "clues_bonus": 0
+    }
+  }
+}

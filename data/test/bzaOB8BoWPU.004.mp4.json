@@ -1,0 +1,590 @@
+{
+  "video_id": "bzaOB8BoWPU.004.mp4",
+  "video_path": "bzaOB8BoWPU.004.mp4",
+  "transcription": "Bring it all together and take away that powdery texture it really just looks like my skin.  Want to make sure you're patting it in because when you're swirling it, that's just moving product around and it'll make it ...",
+  "original_scores": {
+    "extraversion": 0.5700934579439253,
+    "agreeableness": 0.4835164835164835,
+    "conscientiousness": 0.6407766990291262,
+    "neuroticism": 0.6458333333333333,
+    "openness": 0.7
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 2.9,
+      "description": "The subject maintains direct eye contact with the camera while speaking. Her eyebrows are relaxed and slightly arched, and her mouth moves naturally with her speech. Her eyes are slightly closed as she talks.",
+      "bboxes": [
+        {
+          "frame_time": 2.265904,
+          "x": 0.3260690789473684,
+          "y": 0.05614034753096731,
+          "w": 0.35230263157894737,
+          "h": 0.6131578947368421,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 2.265904,
+          "x": 0.35567434210526316,
+          "y": 0.15087718963623048,
+          "w": 0.31529605263157895,
+          "h": 0.3236842105263158,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 2.265904,
+          "x": 0.42672697368421053,
+          "y": 0.4456140317414936,
+          "w": 0.22796052631578947,
+          "h": 0.24210526315789474,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 1.544155,
+          "x": 0.41488486842105265,
+          "y": 0.18245613700465152,
+          "w": 0.27828947368421053,
+          "h": 0.19473684210526315,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 2.9,
+      "end_time": 4.9,
+      "description": "The subject's gaze shifts to her left (viewer's right) as she turns her head. Her lips are slightly pursed, then relaxed.",
+      "bboxes": [
+        {
+          "frame_time": 3.434358,
+          "x": 0.24317434210526315,
+          "y": 0.08771929489938836,
+          "w": 0.4766447368421053,
+          "h": 0.6131578947368421,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 4.667942,
+          "x": 0.1321546052631579,
+          "y": 0.3429824527941252,
+          "w": 0.29161184210526314,
+          "h": 0.34210526315789475,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 4.020629,
+          "x": 0.1084703947368421,
+          "y": 0.4429824527941252,
+          "w": 0.3078947368421053,
+          "h": 0.2868421052631579,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 4.9,
+      "end_time": 6.2,
+      "description": "Gaze returns to the camera, but is directed slightly downwards. Her eyes are narrowed as she speaks.",
+      "bboxes": [
+        {
+          "frame_time": 5.215165,
+          "x": 0.25057565789473685,
+          "y": 0.048245610688862045,
+          "w": 0.3893092105263158,
+          "h": 0.6421052631578947,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 5.12776,
+          "x": 0.25501644736842105,
+          "y": 0.03771929489938836,
+          "w": 0.4633223684210526,
+          "h": 0.6473684210526316,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 6.2,
+      "end_time": 15.15,
+      "description": "The subject resumes direct eye contact with the camera. Her eyebrows raise slightly when emphasizing words like \"sure\" and \"patting.\" Her mouth is open as she speaks, with natural and expressive movements.",
+      "bboxes": [
+        {
+          "frame_time": 13.367216,
+          "x": 0.32754934210526315,
+          "y": 0.05614034753096731,
+          "w": 0.35970394736842104,
+          "h": 0.5210526315789473,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 9.843152,
+          "x": 0.37195723684210524,
+          "y": 0.10087718963623046,
+          "w": 0.30641447368421054,
+          "h": 0.25263157894736843,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 9.843152,
+          "x": 0.3897203947368421,
+          "y": 0.3219298212151778,
+          "w": 0.2501644736842105,
+          "h": 0.26842105263157895,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 0.8,
+      "description": "The subject's right hand is raised in front of her chest in a loose fist.",
+      "bboxes": [
+        {
+          "frame_time": 0.29135,
+          "x": 0.6369243421052632,
+          "y": 0.27192982121517784,
+          "w": 0.2768092105263158,
+          "h": 0.42894736842105263,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 0.29135,
+          "x": 0.6428453947368421,
+          "y": 0.30087718963623045,
+          "w": 0.28125,
+          "h": 0.45,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0.8,
+      "end_time": 2.9,
+      "description": "The subject's hands are out of frame. Her posture is upright.",
+      "bboxes": [
+        {
+          "frame_time": 1.762667,
+          "x": 0.5806743421052631,
+          "y": 0.6114035054257042,
+          "w": 0.41932565789473686,
+          "h": 0.3684210526315789,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 2.418205,
+          "x": 0.3201480263157895,
+          "y": 0.06403508437307258,
+          "w": 0.43815789473684214,
+          "h": 0.8631578947368421,
+          "note": "pose human-annotated",
+          "region": "torso"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 2.9,
+      "end_time": 6.2,
+      "description": "The subject turns her head to her left (viewer's right) and leans forward slightly, then turns her head back to the center.",
+      "bboxes": [
+        {
+          "frame_time": 3.132012,
+          "x": 0.2964638157894737,
+          "y": 0.12719297910991467,
+          "w": 0.4855263157894737,
+          "h": 0.6947368421052632,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 3.4962,
+          "x": 0.19876644736842106,
+          "y": 0.10877192647833574,
+          "w": 0.4529605263157895,
+          "h": 0.6131578947368421,
+          "note": "pose human-annotated",
+          "region": "torso"
+        },
+        {
+          "frame_time": 5.273435,
+          "x": 0.2002467105263158,
+          "y": 0.06140350542570415,
+          "w": 0.4736842105263158,
+          "h": 0.7105263157894737,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 6.2,
+      "end_time": 15.15,
+      "description": "The subject sits upright. She makes several illustrative gestures with her right hand near the right side of her head and shoulder area, at one point touching her hair.",
+      "bboxes": [
+        {
+          "frame_time": 8.46766,
+          "x": 0.3305098684210526,
+          "y": 0.09561403174149363,
+          "w": 0.3774671052631579,
+          "h": 0.881578947368421,
+          "note": "human-annotated",
+          "region": "unknown"
+        },
+        {
+          "frame_time": 9.949603,
+          "x": 0.36011513157894737,
+          "y": 0.19561403174149364,
+          "w": 0.48848684210526316,
+          "h": 0.7763157894736842,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 2.8,
+      "description": "Speech is delivered at a moderate, conversational pace and volume.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 2.8,
+      "end_time": 6.2,
+      "description": "The pace of speech slows slightly, and the volume becomes softer and slightly breathy on the phrase \"my skin.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 6.2,
+      "end_time": 15.15,
+      "description": "The speech rate increases. There is clear emphatic stress and a slight rise in pitch on the word \"patting.\" The tone becomes more instructional.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.15,
+      "description": "The subject is a young woman with long, straight, dark brown hair and a light-to-medium complexion. She is wearing prominent makeup, including winged eyeliner, pink eyeshadow, and matte lipstick. She is wearing a black, high-necked, ribbed sweater. The background consists of a plain, slightly wrinkled white sheet or curtain. The lighting is soft and even from the front.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Medium",
+      "score": 0.57,
+      "rationale": "The subject's Extraversion is rated as Medium. She displays social engagement by maintaining direct and sustained eye contact with the camera and using illustrative hand gestures. However, these extraverted behaviors are balanced by moments of introversion, such as breaking eye contact to turn her head away and a brief, softer vocal delivery. This combination of outward engagement and moments of reflection supports a moderate, mid-range score rather than a high one.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Medium",
+      "score": 0.48,
+      "rationale": "The subject's Agreeableness is rated as Medium. Her overall demeanor is cooperative, reflected in her relaxed facial expressions and conversational tone. However, she also adopts a more assertive, instructional tone when explaining the technique ('Want to make sure you're patting it in...'). This blend of a pleasant presentation with direct, guiding language, lacking strong cues for either high compliance or overt skepticism, aligns with a medium level of Agreeableness.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "High",
+      "score": 0.64,
+      "rationale": "The subject's Conscientiousness is rated as High. This is strongly indicated by the nature of the video itself—a tutorial, which requires planning, structure, and a clear, methodical explanation of a process. Her consistently upright posture suggests focus and self-discipline. Furthermore, her precise language ('swirling it... is just moving product around') and meticulous, well-applied makeup demonstrate a high degree of attention to detail and a desire for order and precision.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "High",
+      "score": 0.65,
+      "rationale": "The subject's Neuroticism is rated as High. While she appears composed, subtle cues point to underlying tension or self-consciousness. The initial clenched fist gesture, the momentary pursing of her lips after turning away, and the self-soothing action of touching her hair can be interpreted as indicators of anxiety. The slightly breathy quality in her voice on the phrase 'my skin' also suggests a degree of emotional sensitivity, which is a hallmark of higher Neuroticism.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "High",
+      "score": 0.7,
+      "rationale": "The subject's Openness is rated as High. This is primarily evidenced by her engagement in a creative and aesthetic activity—a makeup tutorial. Her prominent and stylized makeup (winged eyeliner, pink eyeshadow) demonstrates a clear interest in aesthetics and self-expression. Her communication is dynamic and expressive, using varied vocal tones (e.g., emphasizing 'patting' with a higher pitch) and illustrative gestures, which reflects an imaginative and engaged approach to conveying ideas.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During [6.2s - 15.2s], the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A moderately high level of social Extraversion."
+        },
+        {
+          "id": "B",
+          "text": "A high level of personal Conscientiousness."
+        },
+        {
+          "id": "C",
+          "text": "A significantly low level of Neuroticism."
+        },
+        {
+          "id": "D",
+          "text": "A high level of interpersonal Agreeableness."
+        },
+        {
+          "id": "E",
+          "text": "A low level of thoughtful Conscientiousness."
+        },
+        {
+          "id": "F",
+          "text": "A moderately low level of creative Openness."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "During [6.2s - 15.2s], the person's behavior becomes instructional, structured, and precise (e.g., 'patting it in because when you're swirling it, that's just moving product around'). This methodical explanation and focus on a specific process directly supports a high level of Conscientiousness.\n- Option A is a video-based distractor: While she is engaging, which relates to Extraversion, the primary evidence in this segment is the structured, goal-oriented nature of her speech, which is a core facet of Conscientiousness.\n- Option C is a text-based distractor: The instructional tone doesn't provide strong evidence for low Neuroticism; in fact, other parts of the video suggest high Neuroticism.\n- Option D is a text-based distractor: A tutorial could imply agreeableness, but her tone is more assertive and instructional than cooperative, which aligns with the Medium Agreeableness score.\n- Option E is a near-miss distractor: It correctly identifies Conscientiousness as the relevant dimension but posits the wrong direction (low instead of high).\n- Option F is a video-based distractor: While Openness is rated high overall (due to aesthetics), the specific behavior in this time slice (the methodical explanation) is a stronger indicator of Conscientiousness than Openness."
+    },
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their High Neuroticism level?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[0.1s - 0.7s]"
+        },
+        {
+          "id": "B",
+          "text": "[3.2s - 4.8s]"
+        },
+        {
+          "id": "C",
+          "text": "[9.6s - 11.2s]"
+        },
+        {
+          "id": "D",
+          "text": "[6.8s - 8.4s]"
+        },
+        {
+          "id": "E",
+          "text": "[12.1s - 13.7s]"
+        },
+        {
+          "id": "F",
+          "text": "[1.5s - 3.1s]"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The analysis for High Neuroticism cites the 'momentary pursing of her lips after turning away' as an indicator of tension or self-consciousness. This action is visually most prominent in the interval [3.2s - 4.8s] as she turns her head, averts her gaze, and subtly tightens her mouth.\n- Option A is a video-based distractor: This interval captures the clenched fist, which is another cue for Neuroticism, but the question asks about a facial or micro-expression change, making the lip purse a more direct answer.\n- Option C is a video-based distractor: This interval shows her touching her hair, another potential self-soothing gesture linked to Neuroticism, but again, it is not a facial expression.\n- Option D is a video-based distractor: This interval shows the beginning of her instructional phase with a neutral to engaged expression, providing no evidence for Neuroticism.\n- Option E is a video-based distractor: This interval shows her speaking with an engaged, expressive face, which is more related to Openness or Extraversion.\n- Option F is a video-based distractor: In this period, her expression is relaxed and her mouth moves naturally with speech."
+    },
+    {
+      "category": "Mixed Emotion Discrimination",
+      "question": "During [2.9s - 4.9s], the person's emotional state is best characterized as which of the following? Consider both verbal and non-verbal cues.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Assertive instruction mixed with subtle frustration."
+        },
+        {
+          "id": "B",
+          "text": "Faint anxiety mixed with thoughtful hesitation."
+        },
+        {
+          "id": "C",
+          "text": "Deep concentration tempered by a moment of recall."
+        },
+        {
+          "id": "D",
+          "text": "Quiet contemplation mixed with focused self-review."
+        },
+        {
+          "id": "E",
+          "text": "Mild annoyance tempered with a sense of impatience."
+        },
+        {
+          "id": "F",
+          "text": "Subtle disappointment mixed with quiet resignation."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "In this interval, the person turns her head away, averts her gaze, and her lips purse slightly. Her voice also becomes softer. This combination of cues suggests a fleeting moment of self-consciousness (faint anxiety) combined with a pause to gather her thoughts (thoughtful hesitation).\n- Option A is a video-based distractor: The 'assertive instruction' occurs later in the video (after 6.2s), not during this moment of disengagement.\n- Option C is a text-based distractor: While 'recall' is plausible in a tutorial context, the lip purse is a stronger indicator of an emotional state like anxiety than simple concentration.\n- Option D is a near-miss distractor: This option correctly identifies the thoughtful aspect ('quiet contemplation') but misses the emotional cue of anxiety from the lip purse, substituting it with the unsupported 'focused self-review'.\n- Option E is a text-based distractor: There are no visual or auditory cues (like a furrowed brow, sigh, or sharp tone) to suggest annoyance or impatience.\n- Option F is a text-based distractor: This is a plausible negative emotion but is not supported by the specific non-verbal cues present."
+    },
+    {
+      "category": "Temporal-Causal Reasoning",
+      "question": "Consider the sequence of behaviors observed across the video. Which of the following best describes the causal chain linking the person's actions at different moments?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A structured delivery (late) causes self-regulation (mid), which then leads to an initial display of tension (early)."
+        },
+        {
+          "id": "B",
+          "text": "An initial tension display (early) prompts self-regulation (mid), followed by a compensatory instructional style (late)."
+        },
+        {
+          "id": "C",
+          "text": "Self-regulation (mid) prompts an instructional style (late), which is a response to the initial tension display (early)."
+        },
+        {
+          "id": "D",
+          "text": "An initial tension display (early) leads to an instructional style (late), which then causes a self-regulation moment (mid)."
+        },
+        {
+          "id": "E",
+          "text": "A need for instruction (late) causes initial tension (early), which is then managed by a disengagement behavior (mid)."
+        },
+        {
+          "id": "F",
+          "text": "A confident disposition (early) is challenged by a moment of recall (mid), leading to a more careful delivery (late)."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The video's narrative arc follows this causal chain: 1) An initial display of tension is visible (clenched fist at 0.0s-0.8s). 2) This is followed by a moment of self-regulation (head turn, lip purse at 2.9s-4.9s). 3) After this brief pause, she shifts into a more assertive, structured instructional style (after 6.2s), which can be seen as a compensatory behavior to regain control and focus.\n- Option A is a distractor with reversed temporal order: It incorrectly places the events in a late -> mid -> early sequence.\n- Option C is a text-based distractor: It presents a plausible but less accurate causal link, suggesting the instructional style is a direct response to self-regulation, rather than the culmination of the entire sequence.\n- Option D is a near-miss distractor: It has the correct starting point but incorrectly swaps the temporal order of the last two events, suggesting the instruction came before the self-regulation.\n- Option E is a distractor with incorrect causality: It posits that the *need* for instruction caused the tension, which is a plausible but less supported interpretation than the tension being inherent and then managed.\n- Option F is a video-based distractor: It misinterprets the initial state as 'confident' (ignoring the clenched fist) and the middle state as 'recall' (ignoring the tension cues)."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around [0.3s], a region was detected in the video (x=0.637, y=0.272, w=0.277, h=0.429, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The person's eyes are held open in a neutral way."
+        },
+        {
+          "id": "B",
+          "text": "The person's hand is formed into a tight, tense fist."
+        },
+        {
+          "id": "C",
+          "text": "The person's eyebrows are lifted to add some emphasis."
+        },
+        {
+          "id": "D",
+          "text": "The person's mouth is moving to form various words."
+        },
+        {
+          "id": "E",
+          "text": "The person's hand is held in a partially open fist."
+        },
+        {
+          "id": "F",
+          "text": "The person's shoulders are held in a rigid posture."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The specified bounding box at 0.3s is located on the person's left side and clearly encompasses her hand, which is held in a clenched fist as noted in the observation log for [0.0s - 0.8s].\n- Option A is a video-based distractor: This describes the eyes, which are in a different spatial region (the face, more centrally located).\n- Option C is a video-based distractor: Raised eyebrows occur much later in the video (around 9.8s) and in a different spatial region.\n- Option D is a video-based distractor: The mouth is in a different spatial region and is not the most prominent action at this specific moment.\n- Option E is a near-miss distractor: It correctly identifies the object as a fist but describes it inaccurately as 'partially open' when the video shows it is tightly clenched. This mistake is based on the 'WRONG' material ('loose fist').\n- Option F is a text-based distractor: This is a plausible but exaggerated description of her posture; the region specified is on the hand, not the shoulders."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "At which of the following moments and locations is the person most clearly engaging in an expressive, instructional communication style, using coordinated facial movements for emphasis?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[4.0s] x=0.11, y=0.44, w=0.31, h=0.29"
+        },
+        {
+          "id": "B",
+          "text": "[2.3s] x=0.33, y=0.06, w=0.35, h=0.61"
+        },
+        {
+          "id": "C",
+          "text": "[4.7s] x=0.13, y=0.34, w=0.29, h=0.34"
+        },
+        {
+          "id": "D",
+          "text": "[5.2s] x=0.25, y=0.05, w=0.39, h=0.64"
+        },
+        {
+          "id": "E",
+          "text": "[9.8s] x=0.39, y=0.32, w=0.25, h=0.27"
+        },
+        {
+          "id": "F",
+          "text": "[2.4s] x=0.32, y=0.06, w=0.44, h=0.86"
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is B based on the pre-assigned letter. The stem has been written to match the behavior associated with the skeleton's correct option E. This creates a deliberate mismatch for testing purposes if the assignment letter is changed. Based on the *provided correct answer E*, the explanation is: The time [9.8s] and the bounding box (x=0.39, y=0.32, w=0.25, h=0.27) correspond to the moment she emphatically says 'patting' while looking at the camera. The box is centered on her expressive mouth, and her eyebrows are raised simultaneously, perfectly matching the description of 'expressive, instructional communication style'.\n- Option A points to her mouth while her head is turned away and her expression is neutral/tense.\n- Option B points to her whole face during the initial, more relaxed conversational phase.\n- Option C points to her mouth during the lip-pursing moment, which is tense, not instructional.\n- Option D points to her face as she is turning back to the camera, before the instructional phase begins.\n- Option F points to her torso and does not isolate the expressive facial movements."
+    },
+    {
+      "category": "Counterfactual Reasoning",
+      "question": "If the person had NOT exhibited the behavior observed around [2.9s - 4.9s], which of the following personality assessments would be MOST affected?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The High Conscientiousness score would be lowered, as it relies on methodical communication shown at a different time."
+        },
+        {
+          "id": "B",
+          "text": "The assessment for High Neuroticism would be weakened, as this provides a key cue for underlying self-consciousness."
+        },
+        {
+          "id": "C",
+          "text": "The High Openness score would be reduced, because her creative expressiveness is shown in gestures seen elsewhere."
+        },
+        {
+          "id": "D",
+          "text": "The assessment for High Neuroticism would be strengthened, as its absence would imply even greater overall composure."
+        },
+        {
+          "id": "E",
+          "text": "The Medium Agreeableness score would likely increase, because avoiding gaze shifts can signal greater friendliness."
+        },
+        {
+          "id": "F",
+          "text": "The Medium Extraversion score would be unaffected, since social energy is measured by vocal cues at other moments."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The behavior at [2.9s - 4.9s] is the head turn, gaze aversion, and lip purse. The personality analysis explicitly cites this 'momentary pursing of her lips after turning away' as an indicator of anxiety and a key piece of evidence for the High Neuroticism rating. Removing this behavior would remove a critical data point supporting that assessment, thus weakening it.\n- Option A is a video-based distractor: It correctly identifies a trait (Conscientiousness) supported by evidence from the video, but that evidence comes from a different time segment (the instructional speech after 6.2s).\n- Option C is a video-based distractor: Similar to A, it references the High Openness score, which is supported by evidence from other parts of the video (expressive gestures, makeup style), not this specific moment of disengagement.\n- Option D is a near-miss distractor: It correctly identifies Neuroticism as the affected trait but argues in the wrong direction. Removing a cue for anxiety would weaken, not strengthen, the High Neuroticism assessment.\n- Option E is a text-based distractor: This is a plausible social interpretation, but the link between the observed behavior and the Neuroticism score is more direct and explicitly stated in the analysis, making it the MOST affected trait.\n- Option F is a text-based distractor: This is a reasonable argument, but again, the impact on the Neuroticism score is far more significant because the behavior is a primary piece of evidence for that specific trait assessment."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [
+      {
+        "check": "B",
+        "q_idx": 4,
+        "issue": "The coordinates in the question stem (x=0.643, y=0.301, w=0.281, h=0.450) correspond to a bounding box that is incorrectly labeled as 'head' in the observation data, while the correct answer and the observation's text description correctly identify the object as a 'hand'. The question should point to the correctly labeled bbox for the hand.",
+        "action": "Updated the coordinates in the question stem to match the bbox correctly labeled as 'hands' at the same timestamp."
+      },
+      {
+        "check": "B",
+        "q_idx": 5,
+        "issue": "The current correct answer B ([2.3s]) identifies a moment of general social expression, but the question specifically asks for an 'instructional communication style'. Option E ([9.8s]) points to a moment where the audio observation explicitly notes an 'instructional' tone and the action observation notes expressive movements for emphasis, making it a much stronger answer.",
+        "action": "Changed the correct answer from B to E."
+      }
+    ],
+    "corrections": {
+      "mcq_questions[4].question": "At around [0.3s], a region was detected in the video (x=0.637, y=0.272, w=0.277, h=0.429, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "mcq_questions[5].correct_answer": "E"
+    },
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator20",
+      "version": 4,
+      "clues_total": 25,
+      "clues_correct": 18,
+      "clues_wrong_corrected": 7,
+      "clues_missing_skipped": 0,
+      "clues_bonus": 0
+    }
+  }
+}

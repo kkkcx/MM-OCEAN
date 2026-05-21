@@ -1,0 +1,519 @@
+{
+  "video_id": "bj9kSmBeQRg.000.mp4",
+  "video_path": "bj9kSmBeQRg.000.mp4",
+  "transcription": "If I remember correctly, the color temperature is rated at approximately 5200K, which I tested independently with my own light meter and that was about correct. You don't want to look directly into it, because it will hurt your eyes.",
+  "original_scores": {
+    "extraversion": 0.7009345794392524,
+    "agreeableness": 0.8901098901098901,
+    "conscientiousness": 0.5922330097087379,
+    "neuroticism": 0.6979166666666666,
+    "openness": 0.811111111111111
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 4.93,
+      "description": "The subject maintains eye contact with the camera. Her eyebrows are slightly raised as she begins speaking, then lower to a neutral position. Her mouth moves naturally with her speech, and her overall facial expression is neutral and focused.",
+      "bboxes": [
+        {
+          "frame_time": 4.19269,
+          "x": 0.4126644736842105,
+          "y": 0.33157894736842103,
+          "w": 0.17615131578947368,
+          "h": 0.14473684210526316,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 4.004217,
+          "x": 0.4141447368421053,
+          "y": 0.2789473684210526,
+          "w": 0.18503289473684212,
+          "h": 0.1394736842105263,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 4.004217,
+          "x": 0.41118421052631576,
+          "y": 0.3026315789473684,
+          "w": 0.18207236842105262,
+          "h": 0.3263157894736842,
+          "note": "human-annotated",
+          "region": "unknown"
+        },
+        {
+          "frame_time": 4.004217,
+          "x": 0.43042763157894737,
+          "y": 0.4868421052631579,
+          "w": 0.13322368421052633,
+          "h": 0.15789473684210525,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 4.004217,
+          "x": 0.3993421052631579,
+          "y": 0.3,
+          "w": 0.19391447368421053,
+          "h": 0.34210526315789475,
+          "note": "face human-annotated",
+          "region": "face"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 4.93,
+      "end_time": 8.43,
+      "description": "After briefly obscuring her face, she reappears with her eyes squinted very tightly and eyebrows drawn down and together in a pained expression as she looks down at a bright light source.",
+      "bboxes": [
+        {
+          "frame_time": 7.546485,
+          "x": 0.33865131578947366,
+          "y": 0.29736842105263156,
+          "w": 0.26644736842105265,
+          "h": 0.40789473684210525,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 7.546485,
+          "x": 0.4037828947368421,
+          "y": 0.35789473684210527,
+          "w": 0.17319078947368421,
+          "h": 0.15263157894736842,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 7.546485,
+          "x": 0.4200657894736842,
+          "y": 0.3368421052631579,
+          "w": 0.11398026315789474,
+          "h": 0.16052631578947368,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 7.546485,
+          "x": 0.4037828947368421,
+          "y": 0.33157894736842103,
+          "w": 0.16875,
+          "h": 0.32894736842105265,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 7.546485,
+          "x": 0.3860197368421053,
+          "y": 0.33421052631578946,
+          "w": 0.20723684210526316,
+          "h": 0.33421052631578946,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 8.43,
+      "end_time": 14.51,
+      "description": "She continues to squint heavily, with visible tension in the muscles around her eyes and cheeks. Her mouth is slightly open and tense as she speaks, maintaining a pained expression from the bright light.",
+      "bboxes": [
+        {
+          "frame_time": 11.408129,
+          "x": 0.39342105263157895,
+          "y": 0.2736842105263158,
+          "w": 0.16875,
+          "h": 0.35,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 11.408129,
+          "x": 0.415625,
+          "y": 0.48947368421052634,
+          "w": 0.1169407894736842,
+          "h": 0.14736842105263157,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 11.408129,
+          "x": 0.3830592105263158,
+          "y": 0.2631578947368421,
+          "w": 0.1879934210526316,
+          "h": 0.3631578947368421,
+          "note": "face human-annotated",
+          "region": "face"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 4.93,
+      "description": "The subject sits facing forward, holding a large, rectangular, illuminated LED panel vertically in her left hand. She wears large headphones. Her head is mostly still.",
+      "bboxes": [
+        {
+          "frame_time": 2.260764,
+          "x": 0.014473684210526307,
+          "y": 0.2657894736842105,
+          "w": 0.18355263157894738,
+          "h": 0.5552631578947368,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 2.260764,
+          "x": 0.3327302631578947,
+          "y": 0.1394736842105263,
+          "w": 0.3537828947368421,
+          "h": 0.4710526315789474,
+          "note": "human-annotated",
+          "region": "unknown"
+        },
+        {
+          "frame_time": 2.260764,
+          "x": 0.38453947368421054,
+          "y": 0.1763157894736842,
+          "w": 0.24276315789473685,
+          "h": 0.5684210526315789,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 4.93,
+      "end_time": 6.93,
+      "description": "The subject lifts a large, brown, tri-fold display board from below the frame, briefly covering her face and the light panel.",
+      "bboxes": [
+        {
+          "frame_time": 6.962059,
+          "x": 0.16546052631578947,
+          "y": 0.15263157894736842,
+          "w": 0.6453947368421052,
+          "h": 0.7052631578947368,
+          "note": "face human-annotated",
+          "region": "face"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 6.93,
+      "end_time": 14.51,
+      "description": "She lowers the display board and repositions the LED panel to be horizontal, holding it just below her face and pointing the light upwards. Her head tilts down to look at it. She then uses her right hand to touch the illuminated strips on the panel.",
+      "bboxes": [
+        {
+          "frame_time": 10.44898,
+          "x": 0.29276315789473684,
+          "y": 0.8210526315789474,
+          "w": 0.28717105263157894,
+          "h": 0.17105263157894737,
+          "note": "human-annotated",
+          "region": "unknown"
+        },
+        {
+          "frame_time": 10.44898,
+          "x": 0.3875,
+          "y": 0.20526315789473684,
+          "w": 0.19391447368421053,
+          "h": 0.45789473684210524,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 13.509936,
+          "x": 0.38453947368421054,
+          "y": 0.29210526315789476,
+          "w": 0.196875,
+          "h": 0.3605263157894737,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 13.509936,
+          "x": 0.2957236842105263,
+          "y": 0.7736842105263158,
+          "w": 0.1613486842105263,
+          "h": 0.18947368421052632,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 9.07,
+      "description": "The subject speaks at a moderate, conversational pace and pitch. The pitch falls at the end of the first complete sentence.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 9.07,
+      "end_time": 14.51,
+      "description": "Her tone becomes cautionary. Volume increases slightly with emphasis on the word \"don't.\" Her voice takes on a slightly strained, higher-pitched quality as she says, \"because it will hurt your eyes.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 14.51,
+      "description": "The subject is a young woman with fair skin and long, dark brown, wavy hair. She is wearing a lime-green T-shirt and large, black, over-the-ear headphones. The setting is an indoor room, lit with a cool, bluish-purple light. To her right is a large-diaphragm condenser microphone in a shock mount. In the background, there is a shelving unit with books or records, and a purple wig is visible hanging on the upper right side.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "High",
+      "score": 0.7,
+      "rationale": "The subject's High Extraversion is demonstrated through her comfort and engagement while speaking directly to a camera, a behavior typical of individuals who are energized by social presentation. Her facial expressions are animated and highly communicative; she doesn't simply state that the light is bright, she performs the discomfort with an exaggerated pained expression and tense facial muscles. This outward and vivid display of an internal state is a hallmark of an extraverted individual's expressive emotional style.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Very High",
+      "score": 0.89,
+      "rationale": "A Very High level of Agreeableness is strongly indicated by the subject's unsolicited and emphatic warning to her audience. By saying, \"You don't want to look directly into it, because it will hurt your eyes,\" she displays clear prosocial concern and empathy. The shift in her vocal tone to a more cautious and sincere register, coupled with the physical demonstration of discomfort, reinforces the genuineness of her concern for others' well-being, a core component of agreeableness.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Medium",
+      "score": 0.59,
+      "rationale": "The subject exhibits a Medium level of Conscientiousness. She approaches the topic in an organized and factual manner, citing a specific technical detail (5200K color temperature) and noting that she performed her own verification (\"I tested independently with my own light meter\"). This reflects a degree of diligence and a commitment to accuracy. However, the overall presentation is straightforward and doesn't display the meticulousness or high level of detailed planning that would indicate a higher score, thus aligning well with the medium range.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "High",
+      "score": 0.7,
+      "rationale": "The subject's High Neuroticism is evidenced by the intensity and duration of her negative reaction to the unpleasant stimulus of the bright light. Her facial expression becomes one of significant pain, characterized by tightly squinted eyes, furrowed brows, and visible muscle tension. This is accompanied by a strained, higher-pitched vocal quality when describing the negative sensation. Individuals high in Neuroticism tend to experience and express negative emotions more acutely, and this pronounced, sustained reaction to discomfort is a clear behavioral marker.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "Very High",
+      "score": 0.81,
+      "rationale": "A Very High degree of Openness is inferred from the overall context and specific details. The act of creating technical review content suggests intellectual curiosity and an engagement with new technology. Furthermore, the environment, which includes a professional microphone and a purple wig in the background, points towards interests in aesthetics, creative expression, and potentially unconventional hobbies or performance arts. Her methodical approach of independently testing equipment also aligns with the investigative and curious nature characteristic of individuals high in Openness.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During 9.1s - 14.5s, the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Low Agreeableness, because her cautionary tone sounds quite sharp and stern."
+        },
+        {
+          "id": "B",
+          "text": "High Neuroticism, because her physical reaction shows a strong facial tension."
+        },
+        {
+          "id": "C",
+          "text": "High Conscientiousness, because she is giving a careful and detailed instruction."
+        },
+        {
+          "id": "D",
+          "text": "High Extraversion, because she uses a very strong and outwardly expressive display."
+        },
+        {
+          "id": "E",
+          "text": "Low Openness, because her focus narrows to avoiding the negative stimulus."
+        },
+        {
+          "id": "F",
+          "text": "Very High Agreeableness, because she offers a direct and unprompted prosocial warning."
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The correct answer is F. The primary behavior in this segment is the verbal warning, 'You don't want to look directly into it, because it will hurt your eyes.' This is a clear, unprompted act of concern for others' well-being, which is the core of the Agreeableness trait. Option A is a near-miss distractor; it correctly identifies the trait (Agreeableness) but misinterprets the vocal tone as sharpness rather than genuine concern, leading to the wrong direction (Low instead of High). Option B is a video-based distractor; while she does show signs of Neuroticism (facial tension) in this segment, the verbal warning is a more direct and defining piece of evidence for Agreeableness. Option C is a text-based distractor; giving instructions can be a conscientious act, but her motivation here is clearly empathetic concern, not just factual instruction. Option D is a video-based distractor; the expressive display supports Extraversion, but this is a general trait seen throughout the video, whereas the specific verbal warning in this segment is the single strongest indicator for Agreeableness. Option E is a text-based distractor that makes a plausible but incorrect assumption about her focus."
+    },
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their High Neuroticism level?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[1.5s - 2.5s]"
+        },
+        {
+          "id": "B",
+          "text": "[3.8s - 4.8s]"
+        },
+        {
+          "id": "C",
+          "text": "[5.5s - 6.5s]"
+        },
+        {
+          "id": "D",
+          "text": "[10.0s - 11.0s]"
+        },
+        {
+          "id": "E",
+          "text": "[13.0s - 14.0s]"
+        },
+        {
+          "id": "F",
+          "text": "[7.2s - 8.2s]"
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The correct answer is F. High Neuroticism is evidenced by the acute reaction to the bright light. The most significant *change* occurs when she lowers the display board and her face reappears, now showing a pained expression with tightly squinted eyes. This onset of the negative reaction happens within the [7.2s - 8.2s] interval. Option A is a video-based distractor showing her neutral, focused expression. Option B is a video-based distractor capturing a minor eyebrow raise during speech. Option C is a video-based distractor where her face is mostly obscured by the board. Option D is a near-miss distractor; her face shows the pained expression, but this is a moment of *sustaining* the expression, not the initial *change* or onset. Option E is a video-based distractor showing her looking down while still pained, but the primary expression change has already occurred."
+    },
+    {
+      "category": "Mixed Emotion Discrimination",
+      "question": "During 8.4s - 14.5s, the person's emotional state is best characterized as which of the following? Consider both verbal and non-verbal cues.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Apprehension about the review tempered by a show of feigned confidence."
+        },
+        {
+          "id": "B",
+          "text": "Frustration with the difficult task mixed with an air of reluctant duty."
+        },
+        {
+          "id": "C",
+          "text": "Regret about her topic choice mixed with feelings of anxious persistence."
+        },
+        {
+          "id": "D",
+          "text": "Mild irritation with the object tempered by a focused desire to finish."
+        },
+        {
+          "id": "E",
+          "text": "Annoyance at the faulty equipment tempered by a forced sense of obligation."
+        },
+        {
+          "id": "F",
+          "text": "Physical discomfort from the intense light mixed with genuine social concern."
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The correct answer is F. During this period, the person simultaneously displays strong non-verbal cues of physical discomfort (squinting, facial tension) due to the light, and verbal cues of prosocial behavior (the sincere warning to viewers). This combination is best described as discomfort mixed with concern. Option E is a near-miss distractor; it correctly identifies the negative and social components but mislabels them as 'annoyance' and 'obligation' rather than the more accurate 'discomfort' and 'concern'. Option D is a near-miss distractor, but 'mild irritation' understates the intensity of her physical reaction. Options A, B, and C are text-based distractors that posit plausible but unsupported emotional states for someone making a review video (e.g., apprehension, frustration, regret)."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 11.4s, a region was detected in the video (x=0.383, y=0.263, w=0.188, h=0.363, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Natural mouth movements related to the ongoing patterns of normal speech."
+        },
+        {
+          "id": "B",
+          "text": "A completely neutral facial posture indicating a brief moment of quiet repose."
+        },
+        {
+          "id": "C",
+          "text": "A precise hand gesture seen touching the device's lower control area or panel."
+        },
+        {
+          "id": "D",
+          "text": "Tightly squinted eyes being presented as the sole focus of the expression."
+        },
+        {
+          "id": "E",
+          "text": "Furrowed eyebrows that are suggesting a deep state of mental concentration."
+        },
+        {
+          "id": "F",
+          "text": "A pained facial expression being caused by the notable intensity of the light."
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The correct answer is F. The specified bounding box at 11.4s covers the person's entire face. At this moment, she is exhibiting a holistic expression of pain or discomfort from the bright light, characterized by squinted eyes, tense cheeks, and a tense mouth. Option D is a near-miss distractor; the eyes are indeed tightly squinted, but the bounding box covers the entire face, not just the eyes, making the overall 'pained expression' a more complete description. Option E is a video-based distractor that correctly identifies a feature (furrowed brows) but misinterprets its meaning as concentration instead of pain. Option C is a video-based distractor referencing a real action (touching the panel) but one that occurs with a different body part in a different location. Options A and B are video-based distractors describing expressions from a different time segment (0-4.9s)."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "At which of the following time points and locations does the person display a sudden, strong, involuntary negative facial reaction immediately after a visual obstruction is removed?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[2.3s]  x=0.38, y=0.18, w=0.24, h=0.57"
+        },
+        {
+          "id": "B",
+          "text": "[4.0s]  x=0.41, y=0.30, w=0.18, h=0.33"
+        },
+        {
+          "id": "C",
+          "text": "[13.5s]  x=0.30, y=0.77, w=0.16, h=0.19"
+        },
+        {
+          "id": "D",
+          "text": "[2.3s]  x=0.01, y=0.27, w=0.18, h=0.56"
+        },
+        {
+          "id": "E",
+          "text": "[4.0s]  x=0.40, y=0.30, w=0.19, h=0.34"
+        },
+        {
+          "id": "F",
+          "text": "[7.5s]  x=0.40, y=0.33, w=0.17, h=0.33"
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The correct answer is F. The question asks to identify the moment of a sudden negative reaction after a visual obstruction is removed. This happens at around 7.5s, when she lowers a display board and immediately squints in pain from the bright light. The bounding box correctly frames her face showing this pained expression. Option A shows her neutral head pose early in the video. Options B and E show her neutral face just before the obstruction is raised. Option C shows her hand touching the panel much later in the video. Option D shows her hand holding the LED panel at the beginning of the clip."
+    },
+    {
+      "category": "Counterfactual Reasoning",
+      "question": "If the person had NOT exhibited the behavior observed around 9.1s - 14.5s, which of the following personality assessments would be MOST affected?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Conscientiousness might shift lower, as this behavior is a key sign of a responsible presentation."
+        },
+        {
+          "id": "B",
+          "text": "Neuroticism would shift from High to Low because the primary evidence for reactivity comes from that moment."
+        },
+        {
+          "id": "C",
+          "text": "Openness would shift from Very High to Medium as it shows a less complete exploration of the item's features."
+        },
+        {
+          "id": "D",
+          "text": "Extraversion would shift from High to Medium because the main display of animated expression happens in that segment."
+        },
+        {
+          "id": "E",
+          "text": "Agreeableness would stay Very High because her helpful demeanor is established throughout the entire clip."
+        },
+        {
+          "id": "F",
+          "text": "Agreeableness would shift from Very High to Low because the primary evidence for prosocial concern comes from that moment."
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The correct answer is F. The behavior in this segment includes the explicit verbal warning to the audience. This prosocial act is cited as the primary, defining evidence for the 'Very High Agreeableness' rating. Without it, there would be no strong evidence for this trait, causing the score to drop significantly. Option B is a strong near-miss distractor; the pained expression in this segment is indeed the main evidence for High Neuroticism. However, the verbal warning is a more discrete and singular piece of evidence, making its removal have a more definitive impact on the Agreeableness score. Option D is a video-based distractor; while the expression is animated (Extraversion), her general on-camera presence also supports this trait, so its removal would be less impactful than for Agreeableness. Option A is a text-based distractor; the key evidence for Conscientiousness comes earlier, with the mention of independent testing. Option E is a near-miss that argues in the wrong direction."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator14",
+      "version": 2,
+      "clues_total": 24,
+      "clues_correct": 22,
+      "clues_wrong_corrected": 2,
+      "clues_missing_skipped": 0,
+      "clues_bonus": 0
+    }
+  }
+}

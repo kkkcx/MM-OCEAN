@@ -1,0 +1,454 @@
+{
+  "video_id": "KmHe8urs3LI.004.mp4",
+  "video_path": "KmHe8urs3LI.004.mp4",
+  "transcription": "It was fun nonetheless. I can remember I didn't play it correctly. I didn't sing either. It was just guitar, me with sheet music in front of me, it was fun. I got to do it and my music teacher.",
+  "original_scores": {
+    "extraversion": 0.36448598130841126,
+    "agreeableness": 0.4945054945054945,
+    "conscientiousness": 0.3883495145631068,
+    "neuroticism": 0.53125,
+    "openness": 0.5444444444444444
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 5,
+      "description": "The subject's gaze is directed slightly to his left, towards the camera. His eyebrows are slightly lowered and drawn together, and his mouth is slightly open as he speaks. The corners of his mouth are neutral.",
+      "bboxes": [
+        {
+          "frame_time": 2.5,
+          "x": 0.40674342105263156,
+          "y": 0.11105263358668277,
+          "w": 0.31529605263157895,
+          "h": 0.7894736842105263,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 1.425151,
+          "x": 0.3756578947368421,
+          "y": 0.22157894937615646,
+          "w": 0.253125,
+          "h": 0.15789473684210525,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 2.013942,
+          "x": 0.40230263157894736,
+          "y": 0.4900000020077354,
+          "w": 0.18651315789473685,
+          "h": 0.16578947368421051,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 3.186754,
+          "x": 0.3963815789473684,
+          "y": 0.47157894937615646,
+          "w": 0.19391447368421053,
+          "h": 0.1763157894736842,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 5,
+      "end_time": 8.78,
+      "description": "The subject's eyebrows remain slightly lowered. He squints his eyes slightly as he says, \"I didn't sing either.\"",
+      "bboxes": [
+        {
+          "frame_time": 7.729537,
+          "x": 0.39786184210526315,
+          "y": 0.20842105463931435,
+          "w": 0.2546052631578947,
+          "h": 0.19473684210526315,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 7.608991,
+          "x": 0.4052631578947368,
+          "y": 0.10842105463931435,
+          "w": 0.2546052631578947,
+          "h": 0.6078947368421053,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 8.78,
+      "end_time": 12.28,
+      "description": "The subject's gaze shifts down and to his right as if in thought. His eyes close completely for a moment and then reopen. The corners of his mouth lift very slightly as he says, \"it was fun.\"",
+      "bboxes": [
+        {
+          "frame_time": 10.505403,
+          "x": 0.3519736842105263,
+          "y": 0.11631579148141961,
+          "w": 0.30197368421052634,
+          "h": 0.6578947368421053,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 12.32564,
+          "x": 0.4052631578947368,
+          "y": 0.268947370428788,
+          "w": 0.225,
+          "h": 0.18157894736842106,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 10.314519,
+          "x": 0.4082236842105263,
+          "y": 0.4636842125340512,
+          "w": 0.15986842105263158,
+          "h": 0.25263157894736843,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 12.28,
+      "end_time": 15.15,
+      "description": "The subject's gaze returns towards the camera. His expression returns to a neutral state as he continues speaking.",
+      "bboxes": [
+        {
+          "frame_time": 12.982797,
+          "x": 0.3875,
+          "y": 0.05842105463931435,
+          "w": 0.27828947368421053,
+          "h": 0.7236842105263158,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 14.661589,
+          "x": 0.4274671052631579,
+          "y": 0.12421052832352487,
+          "w": 0.2501644736842105,
+          "h": 0.5578947368421052,
+          "note": "face human-annotated",
+          "region": "face"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 15.15,
+      "description": "The subject is seated, leaning slightly back and to his right. His head is mostly still, with minor movements corresponding to his speech. His shoulders are relaxed and slightly slumped.",
+      "bboxes": [
+        {
+          "frame_time": 4.066947,
+          "x": 0.39786184210526315,
+          "y": 0.11105263358668277,
+          "w": 0.36414473684210524,
+          "h": 0.8,
+          "note": "human-annotated",
+          "region": "unknown"
+        },
+        {
+          "frame_time": 5.325413,
+          "x": 0.36973684210526314,
+          "y": 0.09263158095510382,
+          "w": 0.27828947368421053,
+          "h": 0.6684210526315789,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 7.494238,
+          "x": 0.26167763157894736,
+          "y": 0.38210526516563015,
+          "w": 0.5432565789473685,
+          "h": 0.44473684210526315,
+          "note": "pose human-annotated",
+          "region": "shoulders"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 3.01,
+      "description": "The subject speaks at a moderate pace with a relatively even pitch and volume.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 3.01,
+      "end_time": 5.03,
+      "description": "His pitch drops slightly on the word \"correctly.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 5.03,
+      "end_time": 8.13,
+      "description": "He places slight stress on the word \"didn't\" in the phrase \"I didn't sing either.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 8.13,
+      "end_time": 12.16,
+      "description": "His speech rate slows slightly as he says, \"me with sheet music in front of me.\" There is a brief pause before he says, \"it was fun.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 12.16,
+      "end_time": 15.15,
+      "description": "The pace of his speech increases slightly as he continues the sentence.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.15,
+      "description": "The subject is a male with fair skin, dark brown hair, and a short beard. He is wearing a burgundy short-sleeved t-shirt with a graphic on the front. The setting is indoors, likely a bedroom, with a white wardrobe visible on the left and a plain, light-colored wall behind him. A picture frame is partially visible on the far right. The lighting is warm and comes from a source in front of the subject.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 14.794653,
+      "end_time": 15.794653,
+      "description": "There are black items on the wardrobe.",
+      "bboxes": [
+        {
+          "frame_time": 15.294653,
+          "x": 0.02335526315789473,
+          "y": 0.0005263177972090872,
+          "w": 0.2856907894736842,
+          "h": 0.2,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Low",
+      "score": 0.36,
+      "rationale": "The subject's Low Extraversion is indicated by a reserved and low-energy presentation. His physical posture is static and relaxed (leaning back, shoulders slumped, minimal head movement), which is contrary to the animated physicality often seen in extraverts. His speech is delivered at a moderate, relatively uniform pace and volume, lacking the vocal dynamism and projection typical of social engagement. This suggests an inward focus rather than an outward projection of energy.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Medium",
+      "score": 0.49,
+      "rationale": "The subject exhibits a Medium level of Agreeableness through a balanced emotional presentation. While his baseline expression is neutral, he displays a brief, subtle smile when recalling a pleasant aspect of the memory (\"it was fun\"), indicating a capacity for warmth. His self-deprecating comments (\"I didn't play it correctly\") are stated factually rather than seeking sympathy, reflecting a moderate, rather than high, concern for social harmony and self-presentation. This mix of subtle pro-social cues and emotional neutrality supports a mid-range score.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Low",
+      "score": 0.39,
+      "rationale": "A Low Conscientiousness score is supported by the subject's casual demeanor and the content of his recollection. His relaxed, slightly slumped posture suggests a less structured and disciplined approach. Furthermore, he openly admits to not performing a task correctly in the past, reflecting a relaxed attitude towards perfection and achievement. The narrative is delivered in a spontaneous, unscripted manner, which aligns with a lower tendency for meticulous planning and organization.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Medium",
+      "score": 0.53,
+      "rationale": "The subject's Medium Neuroticism is demonstrated by a combination of subtle stress indicators and emotional coping. His eyebrows are consistently slightly furrowed and drooping, a common nonverbal sign of underlying worry or tension. Verbally, he focuses on his performance flaws (\"I didn't play it correctly. I didn't sing either\"), a form of self-criticism linked to Neuroticism. However, he effectively regulates this negative reflection by concluding that the experience was positive (\"It was fun nonetheless\"), preventing the negative emotion from dominating and thus justifying a score in the medium range.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "Medium",
+      "score": 0.54,
+      "rationale": "A Medium level of Openness is inferred from the subject's engagement with an aesthetic experience. He is reflecting on playing a musical instrument, which indicates an appreciation for the arts. His downward gaze and slowed speech when describing the scene (\"me with sheet music in front of me\") suggest he is introspectively re-living the memory, a cognitive style associated with Openness. The experience itself is conventional, and he does not use abstract or metaphorical language, which places his level of Openness in the moderate, rather than high, range.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During 8.8s - 12.3s, the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "High Openness to Experience"
+        },
+        {
+          "id": "B",
+          "text": "Low level of Extraversion"
+        },
+        {
+          "id": "C",
+          "text": "Medium score in Neuroticism"
+        },
+        {
+          "id": "D",
+          "text": "High level of Agreeableness"
+        },
+        {
+          "id": "E",
+          "text": "Medium Openness to Experience"
+        },
+        {
+          "id": "F",
+          "text": "Low level of Conscientiousness"
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. During this interval, the subject's downward gaze, eye closure, and slight smile while recalling a memory are key indicators of introspection and re-living an aesthetic experience, which strongly supports a medium level of Openness. \nOption A is a near-miss distractor; while the behavior indicates Openness, the conventional nature of the memory makes 'High' an overstatement.\nOption B is a video-based distractor; Low Extraversion is supported by his static posture and flat vocal tone throughout the video, not specifically by the introspective actions in this particular time segment.\nOption C is a video-based distractor; Medium Neuroticism is supported by his furrowed brows and self-criticism seen in an earlier segment (0.0s-8.8s).\nOption D is a text-based distractor; the mention of a smile might suggest Agreeableness, but the context is internal reflection, not social interaction, making this inference incorrect.\nOption F is a text-based distractor; Low Conscientiousness is inferred from his admission of poor performance, not from this moment of positive recall."
+    },
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their Medium Neuroticism level?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[10.0s - 11.2s]"
+        },
+        {
+          "id": "B",
+          "text": "[6.8s - 8.0s]"
+        },
+        {
+          "id": "C",
+          "text": "[11.8s - 13.0s]"
+        },
+        {
+          "id": "D",
+          "text": "[4.5s - 5.7s]"
+        },
+        {
+          "id": "E",
+          "text": "[0.9s - 2.1s]"
+        },
+        {
+          "id": "F",
+          "text": "[13.9s - 15.1s]"
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. The personality analysis links Medium Neuroticism to 'subtle stress indicators' like his 'consistently slightly furrowed and drooping' eyebrows and his verbal 'self-criticism'. The interval [0.9s - 2.1s] is when he begins his self-critical statement ('I didn't play it correctly') and exhibits the noted furrowed brows, making it the most relevant moment.\nOption A is a video-based distractor; this interval captures his slight smile, which is related to Openness or Agreeableness, not Neuroticism.\nOption B is a video-based distractor; this interval contains a slight eye squint, which is less directly tied to the core reasoning for Neuroticism (self-criticism, tension) than the earlier brow furrowing.\nOption C is a near-miss distractor; this is when his eyes close for reflection. While eye closure can sometimes indicate stress, in this context it's more clearly linked to introspective recall (Openness).\nOption D is a text-based distractor; it's a plausible-sounding interval with no significant expression change relevant to Neuroticism.\nOption F is a text-based distractor; this interval shows his face returning to neutral after the narrative, which doesn't provide evidence for Neuroticism."
+    },
+    {
+      "category": "Mixed Emotion Discrimination",
+      "question": "During 8.8s - 12.3s, the person's emotional state is best characterized as which of the following? Consider both verbal and non-verbal cues.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Joyful nostalgia mixed with a sense of mild amusement."
+        },
+        {
+          "id": "B",
+          "text": "Anxious self-critique mixed with a bit of cautious hope."
+        },
+        {
+          "id": "C",
+          "text": "Confident pride tempered by an explicitly humble demeanor."
+        },
+        {
+          "id": "D",
+          "text": "Social warmth mixed with some clear communicative eagerness."
+        },
+        {
+          "id": "E",
+          "text": "Quiet satisfaction tempered by thoughtful introspective recall."
+        },
+        {
+          "id": "F",
+          "text": "Bittersweet reflection mixed with a subtle sense of relief."
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. In this interval, the subject's gaze shifts down, his eyes close, and a slight smile appears as he says 'it was fun'. This combination reflects an internal, reflective state. 'Quiet satisfaction' captures the subtle smile, while 'introspective recall' accurately describes the non-verbal cues of looking away and closing his eyes.\nOption A is a near-miss distractor; 'Joyful' is too strong for the very subtle expression, and 'amusement' is not as precise as 'satisfaction' in this context.\nOption B is a video-based distractor; this emotional state better describes the earlier part of the video (e.g., 0s-5s) where he discusses his mistakes with furrowed brows.\nOption C is a text-based distractor; the subject's overall demeanor is reserved, and he just admitted to a poor performance, making 'confident pride' an unsupported inference.\nOption D is a text-based distractor; the subject's cues (downcast eyes, quiet tone) point to an internal state, not outward 'social warmth' or 'communicative eagerness'.\nOption F is a near-miss distractor; while 'bittersweet reflection' is plausible, the visual evidence leans more toward positive satisfaction than a mix of positive and negative feelings, and there is no evidence for 'relief'."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 4.1s, a region was detected in the video (x=0.398, y=0.111, w=0.364, h=0.800, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Direct eye contact is being re-established with the camera."
+        },
+        {
+          "id": "B",
+          "text": "The eyebrows are slightly lowered, suggesting some concern."
+        },
+        {
+          "id": "C",
+          "text": "The mouth is slightly open as part of ongoing speaking."
+        },
+        {
+          "id": "D",
+          "text": "Relaxed and slightly slumped shoulders are visible clearly."
+        },
+        {
+          "id": "E",
+          "text": "A relaxed posture, leaning back and slightly to one side."
+        },
+        {
+          "id": "F",
+          "text": "A neutral facial expression is held while talking steadily."
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. The provided bounding box is large, covering the subject's entire upper body and head. The most holistic and prominent description for this entire region at 4.1s is his overall posture, which is relaxed and leaning backward and to his right, as noted in the observation log.\nOption A is a video-based distractor; direct eye contact is re-established later, around 13.0s, not at 4.1s.\nOptions B, C, and D are near-miss distractors. While the eyebrows are lowered, the mouth is open, and the shoulders are slumped *within* this large bounding box at 4.1s, these describe specific parts. The overall posture (Option E) is the most prominent and encompassing description for the specified region as a whole.\nOption F is a video-based distractor; his face becomes neutral again toward the end of the video (around 14.7s), not at this point where he is showing subtle signs of tension."
+    },
+    {
+      "category": "Counterfactual Reasoning",
+      "question": "If the person had NOT exhibited the behavior observed around 1.0s - 8.1s, which of the following personality assessments would be MOST affected?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Neuroticism would shift from Medium to High, as lacking self-correction could suggest a notable lack of self-awareness."
+        },
+        {
+          "id": "B",
+          "text": "Conscientiousness would shift from Low to Medium, since this admission is a key indicator of his relaxed view on tasks."
+        },
+        {
+          "id": "C",
+          "text": "Agreeableness would be lowered, because admitting fault can be interpreted as a primary pro-social, rapport-building act."
+        },
+        {
+          "id": "D",
+          "text": "Openness would decrease, because the later introspection is thematically linked to the initial critical self-assessment."
+        },
+        {
+          "id": "E",
+          "text": "Neuroticism would shift from Medium to Low, as the key verbal evidence for his self-critical tendencies would be absent."
+        },
+        {
+          "id": "F",
+          "text": "Extraversion would be rated higher, since the self-focused speech is a strong indicator of his general inward orientation."
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. The behavior in this interval is the verbal self-criticism ('I didn't play it correctly. I didn't sing either'). The personality analysis explicitly states: 'Verbally, he focuses on his performance flaws... a form of self-criticism linked to Neuroticism.' Removing this key verbal evidence would significantly weaken the case for Medium Neuroticism, likely causing the assessment to shift lower.\nOption A is a near-miss distractor; it correctly identifies the trait (Neuroticism) but proposes the wrong direction of change and uses flawed reasoning.\nOption B is a text-based distractor; while the admission does relate to Low Conscientiousness, the analysis ties the self-critical aspect more strongly to Neuroticism, making Neuroticism the *most* affected trait.\nOption C is a text-based distractor; interpreting the statement as primarily pro-social (Agreeableness) is a plausible but incorrect reading, as the tone is more factual and self-reflective.\nOption D is a video-based distractor; it incorrectly connects a behavior from a different time (the introspection at 8.8s-12.3s) as being dependent on the earlier statement.\nOption F is a text-based distractor; Low Extraversion is primarily evidenced by his static posture and vocal tone throughout the clip, not just the content of this specific statement."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator11",
+      "version": 1,
+      "clues_total": 22,
+      "clues_correct": 19,
+      "clues_wrong_corrected": 1,
+      "clues_missing_skipped": 1,
+      "clues_bonus": 1
+    }
+  }
+}

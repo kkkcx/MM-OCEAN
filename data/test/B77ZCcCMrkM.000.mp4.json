@@ -1,0 +1,443 @@
+{
+  "video_id": "B77ZCcCMrkM.000.mp4",
+  "video_path": "B77ZCcCMrkM.000.mp4",
+  "transcription": "I just normally wash it. I don't know how to explain it but it's kind of like the difference between, for a woman, I've never tried fake nails, so bad example, the difference between getting fake nails or just growing your nails. When you get fake nail-",
+  "original_scores": {
+    "extraversion": 0.7196261682242993,
+    "agreeableness": 0.7142857142857143,
+    "conscientiousness": 0.8349514563106796,
+    "neuroticism": 0.7916666666666667,
+    "openness": 0.8222222222222221
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 2.1,
+      "description": "The subject maintains a direct gaze at the camera with a neutral-to-concerned expression. Her brows are slightly furrowed as she speaks.",
+      "bboxes": [
+        {
+          "frame_time": 1.057757,
+          "x": 0.47927631578947366,
+          "y": 0.11631579148141961,
+          "w": 0.20575657894736843,
+          "h": 0.4473684210526316,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 1.655445,
+          "x": 0.48223684210526313,
+          "y": 0.11894737042878803,
+          "w": 0.20131578947368423,
+          "h": 0.1394736842105263,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 2.1,
+      "end_time": 6.8,
+      "description": "Her gaze shifts up and to her right as she thinks. Her eyebrows raise slightly, and her mouth is held in a neutral position before she resumes speaking and looks back at the camera.",
+      "bboxes": [
+        {
+          "frame_time": 2.448165,
+          "x": 0.49407894736842106,
+          "y": 0.09789473884984067,
+          "w": 0.3819078947368421,
+          "h": 0.5157894736842106,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 5.076334,
+          "x": 0.5384868421052632,
+          "y": 0.1636842125340512,
+          "w": 0.1805921052631579,
+          "h": 0.17105263157894737,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 5.508419,
+          "x": 0.5088815789473684,
+          "y": 0.3636842125340512,
+          "w": 0.13322368421052633,
+          "h": 0.11842105263157894,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 6.766182,
+          "x": 0.4911184210526316,
+          "y": 0.1636842125340512,
+          "w": 0.19539473684210526,
+          "h": 0.44473684210526315,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 6.8,
+      "end_time": 10,
+      "description": "A slight, brief smile appears as she says, \"I've never tried fake nails,\" which transitions into a more defined, self-deprecating smile on the words \"bad example.\"",
+      "bboxes": [
+        {
+          "frame_time": 8.057827,
+          "x": 0.48223684210526313,
+          "y": 0.437368423060367,
+          "w": 0.15542763157894737,
+          "h": 0.12631578947368421,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 10,
+      "end_time": 15.33,
+      "description": "Her expression returns to a neutral, explanatory state, and she re-establishes direct eye contact with the camera.",
+      "bboxes": [
+        {
+          "frame_time": 12.162575,
+          "x": 0.46151315789473685,
+          "y": 0.1636842125340512,
+          "w": 0.21019736842105263,
+          "h": 0.45263157894736844,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 14.280358,
+          "x": 0.47039473684210525,
+          "y": 0.1268421072708933,
+          "w": 0.196875,
+          "h": 0.43157894736842106,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 4.9,
+      "description": "The subject sits upright, facing forward. Her head is mostly still, with minor movements accompanying her speech. Her hands are not visible.",
+      "bboxes": [
+        {
+          "frame_time": 0.9242,
+          "x": 0.4733552631578947,
+          "y": 0.16631579148141962,
+          "w": 0.20723684210526316,
+          "h": 0.45,
+          "note": "human-annotated",
+          "region": "unknown"
+        },
+        {
+          "frame_time": 4.534688,
+          "x": 0.4644736842105263,
+          "y": 0.11894737042878803,
+          "w": 0.20279605263157896,
+          "h": 0.45526315789473687,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 4.9,
+      "end_time": 6.5,
+      "description": "She raises her right hand and briefly touches the right side of her long black hair.",
+      "bboxes": [
+        {
+          "frame_time": 5.299996,
+          "x": 0.662828947368421,
+          "y": 0.14526315990247224,
+          "w": 0.11990131578947369,
+          "h": 0.3157894736842105,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 6.5,
+      "end_time": 9.9,
+      "description": "Her hand moves down and out of the frame. Her head remains still.",
+      "bboxes": [
+        {
+          "frame_time": 6.5,
+          "x": 0.8197368421052632,
+          "y": 0.7847368441129986,
+          "w": 0.1802631578947368,
+          "h": 0.21052631578947367,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 8.199999,
+          "x": 0.4407894736842105,
+          "y": 0.18473684411299857,
+          "w": 0.2042763157894737,
+          "h": 0.4473684210526316,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 9.9,
+      "end_time": 10.5,
+      "description": "She gives a very slight, quick side-to-side head shake.",
+      "bboxes": [
+        {
+          "frame_time": 10.520369,
+          "x": 0.5,
+          "y": 0.16631579148141962,
+          "w": 0.21907894736842107,
+          "h": 0.4236842105263158,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 10.5,
+      "end_time": 15.33,
+      "description": "Her right hand re-enters the frame from the bottom right, gesturing with fingers slightly spread as she makes a point.",
+      "bboxes": [
+        {
+          "frame_time": 15.315315,
+          "x": 0.6924342105263158,
+          "y": 0.3847368441129986,
+          "w": 0.23832236842105264,
+          "h": 0.4421052631578947,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 2,
+      "description": "The subject speaks at a moderate pace and volume, with a brief pause filled by \"um\" before she continues.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 2,
+      "end_time": 10.2,
+      "description": "Her speech rate remains conversational. There's a slight laugh-like, breathy exhalation in her voice on the words \"bad example.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 10.2,
+      "end_time": 15.33,
+      "description": "The pace and volume remain consistent as she continues her explanation.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.33,
+      "description": "The subject is a woman with fair skin, long, straight black hair with a center part, and prominent makeup, including dark, defined eyebrows, red and black eyeshadow, and neutral-toned lipstick. She is wearing a dark sleeveless top and a silver-toned necklace with a dark, intricate pendant. The setting is an indoor room with soft lighting. In the background to her left, there is a decorative metal stand holding a red glass hanging lantern, with purple candle holders on the table below. The rest of the background is softly out of focus but appears to be a living area.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 14.815315,
+      "end_time": 15.815315,
+      "description": "On the left is the window with clothes hanging on it",
+      "bboxes": [
+        {
+          "frame_time": 15.315315,
+          "x": 0.8108552631578948,
+          "y": 0.11105263358668277,
+          "w": 0.16875,
+          "h": 0.32105263157894737,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    },
+    {
+      "dimension": "Background",
+      "start_time": 1.678471,
+      "end_time": 2.678471,
+      "description": "There is a door behind the right side with picture cabinets hanging on both sides of the door",
+      "bboxes": [
+        {
+          "frame_time": 2.178471,
+          "x": 0.2557565789473684,
+          "y": 0.016315791481419612,
+          "w": 0.12286184210526316,
+          "h": 0.5894736842105263,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "High",
+      "score": 0.72,
+      "rationale": "The subject displays key markers of high Extraversion through her socially confident communication style. She maintains direct and consistent eye contact with the camera, a sign of social engagement. Her use of illustrative hand gestures ([10.5s-15.3s]) to emphasize her points and the expressive, conversational tone of her voice indicate an outward projection of energy and a comfort in being the focus of attention.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "High",
+      "score": 0.71,
+      "rationale": "High Agreeableness is suggested by the subject's cooperative and non-defensive communication. When she recognizes a flaw in her analogy, she openly states it's a \"bad example\" and accompanies this with a slight laugh in her voice ([2.0s-10.2s]) and a brief, good-natured smile ([6.8s-10.0s]). This self-aware and friendly self-correction fosters a positive rapport and demonstrates a concern for clear, harmonious interaction.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Very High",
+      "score": 0.83,
+      "rationale": "The subject's Very High Conscientiousness is evident in her diligent approach to both her communication and personal presentation. She actively strives for precision in her explanation, pausing to think ([2.1s-6.8s]) and verbally self-correcting her analogy to ensure clarity. Furthermore, her polished appearance, characterized by noticeable and carefully applied makeup and a coordinated necklace, suggests a high degree of forethought and attention to detail.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "High",
+      "score": 0.79,
+      "rationale": "Indicators of High Neuroticism are present in subtle cues of self-consciousness and mild tension. The brief gesture of touching her hair while thinking ([4.9s-6.5s]) can be interpreted as a self-soothing behavior to manage the slight stress of formulating a thought on camera. Her quick verbal self-criticism (\"bad example\") reveals a heightened awareness of her own performance and a sensitivity to potential missteps.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "Very High",
+      "score": 0.82,
+      "rationale": "The subject's Very High Openness is reflected in her engagement with abstract thought and her aesthetic expression. Her attempt to create a novel analogy requires intellectual creativity, and her upward gaze while thinking ([2.1s-6.8s]) is a classic sign of accessing abstract ideas. Additionally, her distinct personal style—including bold eyeshadow choices and an intricate pendant—and the artistically curated background elements suggest a strong appreciation for aesthetics and novel experiences.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During 10.5s - 15.3s, the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "High level of the Extraversion personality dimension."
+        },
+        {
+          "id": "B",
+          "text": "Low level of the Conscientiousness personality trait."
+        },
+        {
+          "id": "C",
+          "text": "Low level of the Extraversion personality dimension."
+        },
+        {
+          "id": "D",
+          "text": "High level of the Openness personality dimension."
+        },
+        {
+          "id": "E",
+          "text": "High level of the Neuroticism personality dimension."
+        },
+        {
+          "id": "F",
+          "text": "Low level of the Agreeableness personality trait."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The behavior in this interval is the use of illustrative hand gestures to emphasize a point. This is a primary indicator of social engagement and an outward projection of energy, which are core facets of Extraversion.\n- Option B is a text-based distractor; the subject's overall behavior suggests high, not low, Conscientiousness.\n- Option C is a near-miss distractor; it correctly identifies the relevant personality dimension (Extraversion) but points in the wrong direction (Low instead of High).\n- Option D is a video-based distractor; High Openness is supported by other behaviors in the video, such as the upward gaze while thinking (2.1s - 6.8s), not the hand gestures in this specific interval.\n- Option E is a video-based distractor; High Neuroticism is supported by the self-soothing hair touch (4.9s - 6.5s), a different behavior at a different time.\n- Option F is a text-based distractor; the subject's self-correction and smile suggest high, not low, Agreeableness."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 2.4s, a region was detected in the video (x=0.494, y=0.098, w=0.382, h=0.516, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "An upward and rightward shift of the person's visual gaze."
+        },
+        {
+          "id": "B",
+          "text": "A subtle raising of the eyebrows occurring during a pause."
+        },
+        {
+          "id": "C",
+          "text": "A neutral and mostly closed mouth position with no smile."
+        },
+        {
+          "id": "D",
+          "text": "A swift and slight turn of the head toward the left side."
+        },
+        {
+          "id": "E",
+          "text": "A return to a neutral, explanatory facial expression."
+        },
+        {
+          "id": "F",
+          "text": "An upright posture with the head directly facing forward."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The specified bounding box at 2.4s covers the upper part of the subject's face. At this moment, the most significant action within this region is her eyes shifting up and to the right as she begins to think of an analogy.\n- Option B is a near-miss distractor; her eyebrows do raise slightly, but this is a secondary action to the more prominent gaze shift, which is the primary indicator of cognitive access in this context.\n- Option C is a video-based distractor; the mouth is in a different region of the face (lower down) than the specified bounding box.\n- Option D is a video-based distractor; the head turn occurs at a different time (around 10.5s), not at 2.4s.\n- Option E is a video-based distractor; the return to a neutral face occurs later in the video (around 12.2s).\n- Option F is a text-based distractor; at 2.4s her head is tilted and her gaze is averted, so she is not directly facing forward."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "The subject uses an illustrative hand motion to add emphasis to her verbal explanation. At which of the following moments and locations does this specific action occur?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[2.4s]  x=0.49, y=0.10, w=0.38, h=0.52"
+        },
+        {
+          "id": "B",
+          "text": "[8.2s]  x=0.44, y=0.18, w=0.20, h=0.45"
+        },
+        {
+          "id": "C",
+          "text": "[15.3s]  x=0.69, y=0.38, w=0.24, h=0.44"
+        },
+        {
+          "id": "D",
+          "text": "[0.9s]  x=0.47, y=0.17, w=0.21, h=0.45"
+        },
+        {
+          "id": "E",
+          "text": "[5.3s]  x=0.66, y=0.15, w=0.12, h=0.32"
+        },
+        {
+          "id": "F",
+          "text": "[12.2s]  x=0.46, y=0.16, w=0.21, h=0.45"
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The illustrative hand gesture used for emphasis occurs towards the end of the video. Option C correctly identifies the timestamp (15.3s) and the spatial location (a bounding box on the right side of the frame where the hand appears) for this action.\n- Option A is a video-based distractor; this time and location correspond to the subject's upward gaze, not a hand motion.\n- Option B is a video-based distractor; this time and location show the subject's head while she is speaking, with no hand gesture visible.\n- Option D is a video-based distractor; this time and location show the subject's initial neutral, seated position.\n- Option E is a near-miss distractor; this captures the *other* hand gesture, where she briefly touches her hair, which is a self-soothing gesture, not an illustrative one for emphasis.\n- Option F is a video-based distractor; this time and location show her face in a neutral, explanatory state after the self-correction, but before the main gesture."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator11",
+      "version": 1,
+      "clues_total": 24,
+      "clues_correct": 18,
+      "clues_wrong_corrected": 2,
+      "clues_missing_skipped": 2,
+      "clues_bonus": 2
+    }
+  }
+}

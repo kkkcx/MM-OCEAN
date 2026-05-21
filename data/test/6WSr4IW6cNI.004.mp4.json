@@ -1,0 +1,281 @@
+{
+  "video_id": "6WSr4IW6cNI.004.mp4",
+  "video_path": "6WSr4IW6cNI.004.mp4",
+  "transcription": "You probably get up to around 40, something around that range. $40 a day so you could definitely do the math on that and add that up. It's very expensive, it-",
+  "original_scores": {
+    "extraversion": 0.28037383177570097,
+    "agreeableness": 0.4505494505494505,
+    "conscientiousness": 0.4368932038834952,
+    "neuroticism": 0.4166666666666667,
+    "openness": 0.4666666666666667
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 2.4,
+      "description": "The subject maintains direct eye contact with the camera, speaking with his mouth open. His eyebrows are in a neutral to slightly lowered position.",
+      "bboxes": [
+        {
+          "frame_time": 1.2,
+          "x": 0.4008223684210526,
+          "y": 0.3236842105263158,
+          "w": 0.17023026315789475,
+          "h": 0.05789473684210526,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 1.2,
+          "x": 0.45707236842105264,
+          "y": 0.4368421052631579,
+          "w": 0.07993421052631579,
+          "h": 0.11052631578947368,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 2.4,
+      "end_time": 9.7,
+      "description": "His eyebrows raise and lower as he speaks for emphasis. His upper lip pulls up to show his teeth when pronouncing words like 'forty' and 'math'.",
+      "bboxes": [
+        {
+          "frame_time": 9.7,
+          "x": 0.4407894736842105,
+          "y": 0.4789473684210526,
+          "w": 0.11842105263157895,
+          "h": 0.11578947368421053,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 9.7,
+      "end_time": 15.5,
+      "description": "His eyes widen and eyebrows raise as he begins speaking about the total cost. The expression becomes more intense, with his mouth opening wider and more tension visible around the mouth as he says 'very expensive'.",
+      "bboxes": [
+        {
+          "frame_time": 14.908718,
+          "x": 0.33865131578947366,
+          "y": 0.29210526315789476,
+          "w": 0.23092105263157894,
+          "h": 0.2789473684210526,
+          "note": "human-annotated",
+          "region": "unknown"
+        },
+        {
+          "frame_time": 14.908718,
+          "x": 0.3756578947368421,
+          "y": 0.30526315789473685,
+          "w": 0.17171052631578948,
+          "h": 0.06578947368421052,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 14.908718,
+          "x": 0.3919407894736842,
+          "y": 0.24473684210526317,
+          "w": 0.14950657894736843,
+          "h": 0.3263157894736842,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 15.315315,
+          "x": 0.44375,
+          "y": 0.45,
+          "w": 0.10065789473684211,
+          "h": 0.1,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 15.5,
+      "description": "The subject is seated, framed from the chest up, facing the camera. He makes small, intermittent forward and backward head nods that are synchronized with his speech.",
+      "bboxes": [
+        {
+          "frame_time": 8.338231,
+          "x": 0.2143092105263158,
+          "y": 0.618421052631579,
+          "w": 0.6320723684210526,
+          "h": 0.16578947368421051,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 8.338231,
+          "x": 0.40230263157894736,
+          "y": 0.23684210526315788,
+          "w": 0.18207236842105262,
+          "h": 0.3763157894736842,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 2.8,
+      "description": "Speech is delivered at a moderate pace with a low-pitched, resonant voice.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 2.8,
+      "end_time": 6.8,
+      "description": "Slight emphasis is placed on the phrase 'around forty' and 'forty dollars a day' through a minor increase in volume.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 6.8,
+      "end_time": 11.9,
+      "description": "The pace remains moderate. Vocal stress is placed on the words 'math' and 'add that up'.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 11.9,
+      "end_time": 15.5,
+      "description": "Volume and pitch both increase noticeably to emphasize the phrase 'very expensive'.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.5,
+      "description": "The subject is a large, muscular Caucasian male with a goatee. He is wearing a black beanie with a white logo of a muscular figure, a black t-shirt over a hooded garment, and a small lavalier microphone clipped to his shirt. The setting is an indoor gym with a plain beige wall in the background. Out-of-focus gym equipment, including dumbbells on a rack and a vertical black machine, is visible behind him. A red and white 'Shaw Strength' logo is in the bottom-left corner. From 00:09.7 to 00:15.5, green text overlays appear on the upper right, stating '$900 - $1200 = 1 Month' and '$10k - $15k = 1 Year'.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Low",
+      "score": 0.28,
+      "rationale": "The subject's Extraversion is rated as Low. His communication style is reserved, characterized by a moderate speaking pace and a deep, steady vocal tone. Physical expressiveness is minimal, limited to small, synchronized head nods rather than expansive gestures or significant body movement. While he uses vocal emphasis to highlight a point, this appears to be a controlled, deliberate technique for informational clarity rather than an expression of high social energy or spontaneous emotionality. This contained demeanor is consistent with a lower level of extraversion.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Medium",
+      "score": 0.45,
+      "rationale": "The subject's Agreeableness is rated as Medium. He adopts a cooperative and helpful stance by directly addressing the camera with steady eye contact and providing straightforward, factual information. His facial expressions remain relaxed and free of tension, even when discussing a topic like high expenses, indicating a generally pleasant and non-antagonistic disposition. This balanced, engaged, and calm demeanor supports a mid-range Agreeableness score.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Medium",
+      "score": 0.44,
+      "rationale": "The subject's Conscientiousness is rated as Medium. He demonstrates an orderly and practical approach by providing a structured, data-driven response, breaking down costs to a daily figure ('$40 a day') and encouraging a logical next step ('do the math'). The presence of a lavalier microphone suggests a degree of preparation and attention to the quality of his presentation. This disciplined communication style aligns with a medium level of conscientiousness.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Medium",
+      "score": 0.42,
+      "rationale": "The subject's Neuroticism is rated as Medium, indicating a generally stable emotional disposition. Throughout the clip, he maintains a calm and composed demeanor, evidenced by steady eye contact and a relaxed facial expression. Notably, when discussing a potentially stressful topic—high costs—observers confirmed a lack of physical tension in his face and around his mouth. His speech is delivered at a measured pace, free from common indicators of anxiety, supporting a score on the emotionally stable side of the spectrum.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "Medium",
+      "score": 0.47,
+      "rationale": "The subject's Openness is rated as Medium. He shows a willingness to engage and share information by participating in the video. However, his communication style is highly pragmatic and concrete, focusing on specific figures ('around 40') and practical actions ('do the math'). This straightforward, fact-based approach, grounded in a conventional gym setting, suggests a preference for tangible reality over abstract or imaginative exploration, which is consistent with a mid-range Openness score.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 8.3s, a region was detected in the video (x=0.214, y=0.618, w=0.632, h=0.166, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Widened eyes showing emphasis on a significant verbal point."
+        },
+        {
+          "id": "B",
+          "text": "An open mouth expression revealing a total lack of tension."
+        },
+        {
+          "id": "C",
+          "text": "A steady and composed upper body posture indicating control."
+        },
+        {
+          "id": "D",
+          "text": "Tense hands gesturing slightly to emphasize the calculation."
+        },
+        {
+          "id": "E",
+          "text": "A subtle furrowing of the brows suggesting concentration."
+        },
+        {
+          "id": "F",
+          "text": "A relaxed facial expression maintained throughout the speech."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The provided bounding box at 8.3s covers the person's upper torso, including his chest and stationary hands/arms. The video shows him sitting still with a stable posture in this region, not making any active gestures. Therefore, 'a steady and composed upper body posture' is the most accurate description of the content within that specific box.\n- Options A, B, and F are video-based distractors. These actions (widened eyes, open mouth, relaxed face) occur in the video but are located in the facial region, which is outside the specified bounding box.\n- Option D is a near-miss distractor. It correctly identifies the body region (hands/upper body) but incorrectly describes the action. The hands are steady and composed, not tense or gesturing.\n- Option E is a text-based distractor. It describes an action (furrowing brows) that does not occur in the video, based on negative evidence."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "At which time and location does the person use a non-verbal cue to underscore a key conclusion in their statement?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[1.2s] at x=0.457, y=0.437, w=0.080, h=0.111"
+        },
+        {
+          "id": "B",
+          "text": "[14.9s] at x=0.376, y=0.305, w=0.172, h=0.066"
+        },
+        {
+          "id": "C",
+          "text": "[14.9s] at x=0.214, y=0.618, w=0.632, h=0.166"
+        },
+        {
+          "id": "D",
+          "text": "[8.3s] at x=0.402, y=0.237, w=0.182, h=0.376"
+        },
+        {
+          "id": "E",
+          "text": "[4.5s] at x=0.376, y=0.305, w=0.172, h=0.066"
+        },
+        {
+          "id": "F",
+          "text": "[12.1s] at x=0.850, y=0.150, w=0.100, h=0.100"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The key conclusion is 'very expensive', which is delivered with emphasis around 14.9s. The primary non-verbal cue for this emphasis is the widening of his eyes. The bounding box in option B correctly isolates the eye region at that specific timestamp.\n- Option A is a video-based distractor. This timestamp and bounding box correspond to his mouth while speaking at the beginning of the video, not the final emphasis.\n- Option C is a near-miss distractor. It has the correct timestamp for the emphasis but the wrong location, pointing to his stationary chest instead of his expressive face.\n- Option D is a video-based distractor. This corresponds to his head nodding earlier in the video, which is a continuous action, not the specific cue for the final conclusion.\n- Option E is a near-miss distractor. It correctly identifies the location (the eyes) but at the wrong time, before the concluding statement and its associated emphasis.\n- Option F is a text-based distractor. The coordinates point to an irrelevant area of the frame where no significant action occurs."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator18",
+      "version": 1,
+      "clues_total": 17,
+      "clues_correct": 10,
+      "clues_wrong_corrected": 4,
+      "clues_missing_skipped": 3,
+      "clues_bonus": 0
+    }
+  }
+}

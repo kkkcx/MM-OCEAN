@@ -1,0 +1,569 @@
+{
+  "video_id": "FSBBbxNi0iU.000.mp4",
+  "video_path": "FSBBbxNi0iU.000.mp4",
+  "transcription": "So you might do like, spinning in one direction for 4, squeeze, break and then go in the other direction. Any off body trick, you could do 4 of those moves in one direction, and then 4 in the other. If you check out some youtube ...",
+  "original_scores": {
+    "extraversion": 0.4953271028037384,
+    "agreeableness": 0.7362637362637363,
+    "conscientiousness": 0.5728155339805825,
+    "neuroticism": 0.53125,
+    "openness": 0.5555555555555556
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 0.69,
+      "description": "The subject's eyes are closed, and her mouth is slightly open as she speaks.",
+      "bboxes": [
+        {
+          "frame_time": 0.484323,
+          "x": 0.3638157894736842,
+          "y": 0.21894737042878804,
+          "w": 0.2205592105263158,
+          "h": 0.12631578947368421,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 0.484323,
+          "x": 0.4644736842105263,
+          "y": 0.3636842125340512,
+          "w": 0.05921052631578948,
+          "h": 0.0868421052631579,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 0.69,
+      "end_time": 7.37,
+      "description": "Eyes are open, looking directly at the camera. Eyebrows remain in a neutral position. Her mouth moves naturally with her speech.",
+      "bboxes": [
+        {
+          "frame_time": 1.712662,
+          "x": 0.4230263157894737,
+          "y": 0.2610526335866828,
+          "w": 0.15986842105263158,
+          "h": 0.08157894736842106,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 1.712662,
+          "x": 0.4511513157894737,
+          "y": 0.23210526516563015,
+          "w": 0.14950657894736843,
+          "h": 0.060526315789473685,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 5.499279,
+          "x": 0.4585526315789474,
+          "y": 0.3505263177972091,
+          "w": 0.0680921052631579,
+          "h": 0.08157894736842106,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 7.37,
+      "end_time": 8.87,
+      "description": "Her eyes widen slightly, and her eyebrows raise as she looks forward. Her mouth opens slightly into an 'o' shape.",
+      "bboxes": [
+        {
+          "frame_time": 7.448805,
+          "x": 0.43338815789473684,
+          "y": 0.2400000020077354,
+          "w": 0.13766447368421053,
+          "h": 0.08947368421052632,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 7.448805,
+          "x": 0.43042763157894737,
+          "y": 0.18473684411299857,
+          "w": 0.1287828947368421,
+          "h": 0.08421052631578947,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 7.448805,
+          "x": 0.4674342105263158,
+          "y": 0.34526315990247225,
+          "w": 0.10805921052631579,
+          "h": 0.13421052631578947,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 8.87,
+      "end_time": 13.88,
+      "description": "The facial expression returns to a neutral state, with eyes looking forward at the camera.",
+      "bboxes": [
+        {
+          "frame_time": 9.778433,
+          "x": 0.43486842105263157,
+          "y": 0.15578947569194593,
+          "w": 0.12434210526315789,
+          "h": 0.3236842105263158,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 9.778433,
+          "x": 0.4200657894736842,
+          "y": 0.25842105463931436,
+          "w": 0.15394736842105264,
+          "h": 0.06842105263157895,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 13.88,
+      "end_time": 15.31,
+      "description": "The subject's gaze shifts up and to her left (viewer's right). Her eyebrows knit together slightly.",
+      "bboxes": [
+        {
+          "frame_time": 14.54602,
+          "x": 0.3830592105263158,
+          "y": 0.2531578967445775,
+          "w": 0.17171052631578948,
+          "h": 0.06842105263157895,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 14.54602,
+          "x": 0.38009868421052634,
+          "y": 0.2136842125340512,
+          "w": 0.17319078947368421,
+          "h": 0.060526315789473685,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 1.95,
+      "description": "The subject stands with her arms slightly bent and her hands held out to her sides at waist level, palms facing up.",
+      "bboxes": [
+        {
+          "frame_time": 1.182666,
+          "x": 0.30608552631578945,
+          "y": 0.49263158095510384,
+          "w": 0.37450657894736844,
+          "h": 0.4921052631578947,
+          "note": "human-annotated",
+          "region": "unknown"
+        },
+        {
+          "frame_time": 1.182666,
+          "x": 0.1506578947368421,
+          "y": 0.6347368441129986,
+          "w": 0.6853618421052632,
+          "h": 0.3263157894736842,
+          "note": "human-annotated",
+          "region": "arms"
+        },
+        {
+          "frame_time": 1.182666,
+          "x": 0.08848684210526316,
+          "y": 0.6294736862182617,
+          "w": 0.24572368421052632,
+          "h": 0.28421052631578947,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 1.95,
+      "end_time": 4.29,
+      "description": "She lowers her hands slightly and brings them closer together in front of her torso, making small, illustrative gestures.",
+      "bboxes": [
+        {
+          "frame_time": 3.12,
+          "x": 0.2957236842105263,
+          "y": 0.6847368441129985,
+          "w": 0.5240131578947369,
+          "h": 0.3,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 3.12,
+          "x": 0.35345394736842106,
+          "y": 0.5136842125340512,
+          "w": 0.3404605263157895,
+          "h": 0.41842105263157897,
+          "note": "pose human-annotated",
+          "region": "torso"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 4.29,
+      "end_time": 6.78,
+      "description": "The left hand makes a small, circular gesture, while the right hand remains relatively still.",
+      "bboxes": [
+        {
+          "frame_time": 5.255932,
+          "x": 0.3726973684210526,
+          "y": 0.5689473704287881,
+          "w": 0.25164473684210525,
+          "h": 0.3447368421052632,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 6.78,
+      "end_time": 8.95,
+      "description": "She raises both hands out to her sides again, palms up, in a shrugging motion.",
+      "bboxes": [
+        {
+          "frame_time": 8.187856,
+          "x": 0.02779605263157894,
+          "y": 0.7794736862182617,
+          "w": 0.8851973684210527,
+          "h": 0.20526315789473684,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 8.187856,
+          "x": 0.2986842105263158,
+          "y": 0.5005263177972091,
+          "w": 0.3759868421052632,
+          "h": 0.1394736842105263,
+          "note": "pose human-annotated",
+          "region": "shoulders"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 8.95,
+      "end_time": 11.23,
+      "description": "She brings her hands forward again. The right hand makes a small, repetitive gesture, slightly curling the fingers inward.",
+      "bboxes": [
+        {
+          "frame_time": 9.861449,
+          "x": 0.14769736842105263,
+          "y": 0.6478947388498406,
+          "w": 0.7608552631578948,
+          "h": 0.3263157894736842,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 9.861449,
+          "x": 0.1225328947368421,
+          "y": 0.5478947388498406,
+          "w": 0.3004934210526316,
+          "h": 0.3605263157894737,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 11.23,
+      "end_time": 13.83,
+      "description": "With both hands in front of her, she makes small, alternating up-and-down motions with loosely clenched fists.",
+      "bboxes": [
+        {
+          "frame_time": 11.958999,
+          "x": 0.13289473684210526,
+          "y": 0.6215789493761564,
+          "w": 0.26052631578947366,
+          "h": 0.25526315789473686,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 11.958999,
+          "x": 0.3504934210526316,
+          "y": 0.11105263358668277,
+          "w": 0.18651315789473685,
+          "h": 0.3105263157894737,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 13.83,
+      "end_time": 15.31,
+      "description": "She brings her hands together in front of her chest, clasping them, and tilts her head slightly back and to her right.",
+      "bboxes": [
+        {
+          "frame_time": 14.271075,
+          "x": 0.39786184210526315,
+          "y": 0.7110526335866828,
+          "w": 0.17615131578947368,
+          "h": 0.2131578947368421,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 14.404407,
+          "x": 0.41710526315789476,
+          "y": 0.2163157914814196,
+          "w": 0.23092105263157894,
+          "h": 0.4131578947368421,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 1.25,
+      "description": "The word \"out\" is spoken with a slightly breathy quality and falling pitch.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 1.25,
+      "end_time": 6.78,
+      "description": "The speech is delivered at a moderate pace. There are brief pauses before and after the phrase \"squeeze, break,\" which is spoken with a slightly higher pitch.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 6.78,
+      "end_time": 8.94,
+      "description": "The pitch rises slightly on the phrase \"or any off-body trick.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 8.94,
+      "end_time": 13.56,
+      "description": "The pace of speech is consistent. The word \"four\" receives slight stress each time it is spoken.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 13.56,
+      "end_time": 15.31,
+      "description": "The speech rate slows slightly, and the pitch rises on the final words, \"YouTube tuto...\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.31,
+      "description": "A female-presenting person with a fair complexion and short, asymmetrical hair dyed with shades of purple and blue. She is wearing a black top under a loose-fitting black and white patterned outer garment. The background is a solid, bright pink wall. The lighting is bright and even, casting minimal shadows.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Medium",
+      "score": 0.5,
+      "rationale": "The subject's score falls in the Medium range. While she is actively communicating and using illustrative hand gestures to engage her audience (e.g., circular motion at 4.3s, extending hands with palms up at 6.8s), her overall energy level is moderate. Her speech has a measured, consistent pace rather than being rapid or overly boisterous. This balance between expressive communication and a controlled pace supports a medium classification, indicating someone who is comfortable with social expression but not necessarily driven by high levels of social stimulation.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "High",
+      "score": 0.74,
+      "rationale": "The subject scores High in Agreeableness. Her primary activity in the video is instructional, a prosocial behavior aimed at helping others learn a skill. This cooperative and helpful stance is a strong indicator of high agreeableness. This is further supported by her open body language, such as extending her hands with palms up ([0.0s-1.9s], [6.8s-8.9s]), a gesture often associated with sincerity and a non-threatening demeanor. Her calm and encouraging vocal tone reinforces this assessment.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Medium",
+      "score": 0.57,
+      "rationale": "The subject's Conscientiousness is rated as Medium. She demonstrates orderliness and deliberation by providing a structured, step-by-step explanation ('spinning in one direction for 4, squeeze, break and then go in the other direction'). Her speech is clear and methodical, emphasizing key numbers ('four'). However, the overall presentation is informal, and she trails off at the end ('YouTube tuto...'), suggesting a more spontaneous than meticulously planned approach. This combination of structured thinking within an informal context aligns well with a medium score.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Medium",
+      "score": 0.53,
+      "rationale": "The subject scores in the Medium range for Neuroticism, indicating good emotional stability. Throughout the clip, her demeanor is calm and composed. Her hand gestures are purposeful and controlled, not fidgety or anxious. Her vocal delivery is steady, without signs of stress or wavering. While she displays moments of expressiveness for emphasis (e.g., raised eyebrows at 7.4s), these appear controlled and intentional rather than being reactions to stress. The absence of negative emotional indicators suggests she is not high in Neuroticism, placing her in the stable, medium range.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "Medium",
+      "score": 0.56,
+      "rationale": "The subject's Openness is rated as Medium. There are strong cues towards high Openness in her aesthetic choices: the unconventional, dyed hair (purple and blue) and the vibrant pink background suggest an appreciation for aesthetics and a non-conformist streak. However, her communication style is very practical and concrete, focusing on the mechanics of an action rather than abstract concepts. This balance between an unconventional visual presentation and a grounded, practical communication style supports a medium rating.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During 0.0s - 1.9s, the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "High Extraversion, based on her consistent use of animated hand gestures."
+        },
+        {
+          "id": "B",
+          "text": "Low Agreeableness, as her instructional tone can imply a rigid mindset."
+        },
+        {
+          "id": "C",
+          "text": "High Conscientiousness, evident from her precise and structured speech."
+        },
+        {
+          "id": "D",
+          "text": "High Openness, primarily due to her unique aesthetic and appearance."
+        },
+        {
+          "id": "E",
+          "text": "Low Neuroticism, shown by her steady vocal delivery and calm poise."
+        },
+        {
+          "id": "F",
+          "text": "High Agreeableness, demonstrated by her open, non-threatening posture."
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The behavior at 0.0s-1.9s involves extending her hands to the sides with palms up, an open and receptive gesture. The personality analysis explicitly links this to High Agreeableness, calling it 'open body language... associated with sincerity and a non-threatening demeanor.'\n- Option A is a text-based distractor. While she does gesture, the specific gesture is more indicative of agreeableness than extraversion, and her overall energy is rated as medium.\n- Option B is a near-miss distractor. It correctly identifies the trait of Agreeableness but suggests the wrong direction (Low instead of High).\n- Option C is a video-based distractor. The subject does show signs of conscientiousness later (e.g., methodical speech), but the specific gesture in this time frame is not the primary evidence for it.\n- Option D is a video-based distractor. Her appearance does support Openness, but this is a separate channel of information from the body language observed at 0.0s-1.9s.\n- Option E is a text-based distractor. Her calm poise is indeed evidence for Low Neuroticism (Medium in the analysis), but this specific open-palm gesture is a stronger, more direct signal for Agreeableness."
+    },
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their communicative emphasis?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[0.0s - 0.7s]"
+        },
+        {
+          "id": "B",
+          "text": "[1.9s - 4.3s]"
+        },
+        {
+          "id": "C",
+          "text": "[4.3s - 6.8s]"
+        },
+        {
+          "id": "D",
+          "text": "[13.9s - 15.3s]"
+        },
+        {
+          "id": "E",
+          "text": "[6.8s - 7.3s]"
+        },
+        {
+          "id": "F",
+          "text": "[7.4s - 8.9s]"
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The interval 7.4s - 8.9s contains the most significant expressive change for emphasis: her eyes widen, her eyebrows raise, and her mouth forms an 'o' shape as she says 'any off-body trick.' This is a clear non-verbal cue to engage the audience and highlight a point.\n- Option A is a video-based distractor. A real change occurs (eyes open), but it's part of starting to speak, not a specific point of emphasis.\n- Option B is a text-based distractor. It's a period of speech, so an expression is plausible, but the observation log shows no notable change.\n- Option C is a text-based distractor. Similar to B, speech occurs, but the facial expression remains relatively stable.\n- Option D is a video-based distractor. A real gaze shift happens here, but it signals thought retrieval as she trails off, not communicative emphasis.\n- Option E is a near-miss distractor. It is temporally very close to the correct event but misses the onset of the key expression change at 7.4s."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 7.4s, a region was detected in the video (x=0.430, y=0.185, w=0.129, h=0.084, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A slightly opened mouth forming a specific shape for enunciation."
+        },
+        {
+          "id": "B",
+          "text": "An expressive and engaging facial set directed toward the camera."
+        },
+        {
+          "id": "C",
+          "text": "A neutral and relaxed brow line showing no particular tension."
+        },
+        {
+          "id": "D",
+          "text": "A subtle squint of the eyes suggesting an effort at recall."
+        },
+        {
+          "id": "E",
+          "text": "A slight furrowing of the brows indicating some concentration."
+        },
+        {
+          "id": "F",
+          "text": "A look of focused emphasis communicated via the raised eyebrows."
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The specified bounding box at 7.4s precisely frames the person's eyebrows. At this moment, the observation log confirms Eyebrows raised, looking forward, which is a clear non-verbal cue for emphasis.\n- Option A is a video-based distractor. Her mouth is indeed open at 7.4s, but this action occurs outside the specified bounding box, which is higher up on the face.\n- Option B is a video-based distractor. This describes a real facial expression from a different time segment (around 9.8s).\n- Option C is a text-based distractor. It describes a plausible state for eyebrows but is the opposite of what is happening at this moment of emphasis.\n- Option D is a text-based distractor. There is no squinting observed, and the bounding box is not over the eyes.\n- Option E is a near-miss distractor. It correctly identifies the body part (eyebrows) but describes the wrong action (furrowing instead of raising), which is a common error pattern."
+    },
+    {
+      "category": "Counterfactual Reasoning",
+      "question": "If the person had NOT exhibited the behavior observed around 4.3s - 6.8s, which of the following personality assessments would be MOST affected?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Extraversion would decrease, as this gesture is a primary display of social energy."
+        },
+        {
+          "id": "B",
+          "text": "Openness score would be less certain, as this gesture is a cue for her artistry."
+        },
+        {
+          "id": "C",
+          "text": "Neuroticism score would rise, as this gesture may mask some underlying anxiety."
+        },
+        {
+          "id": "D",
+          "text": "Conscientiousness would be assessed as higher, making her seem more organized."
+        },
+        {
+          "id": "E",
+          "text": "Agreeableness would be lower, as the gesture at [0.0s-1.9s] shows cooperation."
+        },
+        {
+          "id": "F",
+          "text": "Conscientiousness would be assessed as lower, as the evidence for method is lost."
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The behavior at 4.3s - 6.8s is the 'right hand makes a circle,' a specific, methodical gesture illustrating her point. The analysis cites her 'structured, step-by-step explanation' and 'clear and methodical' speech as key evidence for her Medium Conscientiousness score. Removing this illustrative, orderly gesture would remove the strongest piece of evidence for that trait, likely leading to a lower assessment.\n- Option A is a text-based distractor. The gesture could be linked to Extraversion, but it's more specific to orderliness, and other cues support her Medium Extraversion score.\n- Option B is a text-based distractor. While gestures can be creative, her Openness score is primarily based on her aesthetic choices (hair, background), not this specific action.\n- Option C is a text-based distractor offering an unsubstantiated psychological interpretation.\n- Option D is a near-miss distractor. It correctly identifies the relevant trait (Conscientiousness) but posits the wrong direction of change (higher instead of lower).\n- Option E is a video-based distractor. It correctly identifies a trait (Agreeableness) and its evidence (the gesture at 0.0s-1.9s) but misattributes it to the time period specified in the question."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator09",
+      "version": 1,
+      "clues_total": 33,
+      "clues_correct": 25,
+      "clues_wrong_corrected": 7,
+      "clues_missing_skipped": 1,
+      "clues_bonus": 0
+    }
+  }
+}

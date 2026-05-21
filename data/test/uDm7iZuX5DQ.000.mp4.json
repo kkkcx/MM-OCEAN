@@ -1,0 +1,473 @@
+{
+  "video_id": "uDm7iZuX5DQ.000.mp4",
+  "video_path": "uDm7iZuX5DQ.000.mp4",
+  "transcription": "Suddenly it exploded to one thousand, so I don't know what happened. I guess Ruby and Karoko, but-",
+  "original_scores": {
+    "extraversion": 0.4485981308411215,
+    "agreeableness": 0.4945054945054945,
+    "conscientiousness": 0.4466019417475728,
+    "neuroticism": 0.4375,
+    "openness": 0.43333333333333335
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 3.87,
+      "description": "The subject's gaze is directed slightly to his right, away from the camera. His eyebrows are neutral, and his mouth moves naturally with his speech.",
+      "bboxes": [
+        {
+          "frame_time": 0.2625,
+          "x": 0.48297697368421055,
+          "y": 0.3350877159520199,
+          "w": 0.23092105263157894,
+          "h": 0.16052631578947368,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 2.070836,
+          "x": 0.4208059210526316,
+          "y": 0.26403508437307255,
+          "w": 0.2856907894736842,
+          "h": 0.12105263157894737,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 0.2625,
+          "x": 0.5392269736842106,
+          "y": 0.5771929791099146,
+          "w": 0.15394736842105264,
+          "h": 0.2,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 3.87,
+      "end_time": 8.24,
+      "description": "The subject's eyes widen significantly, and his eyebrows raise symmetrically. His mouth opens wide in a shape of surprise or disbelief. His gaze shifts to look directly at the camera around 5.8 seconds.",
+      "bboxes": [
+        {
+          "frame_time": 5.891675,
+          "x": 0.43264802631578947,
+          "y": 0.21140350542570416,
+          "w": 0.30197368421052634,
+          "h": 0.15526315789473685,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 5.891675,
+          "x": 0.45929276315789475,
+          "y": 0.566666663320441,
+          "w": 0.20723684210526316,
+          "h": 0.20526315789473684,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 5.804175,
+          "x": 0.45041118421052634,
+          "y": 0.31140350542570416,
+          "w": 0.2575657894736842,
+          "h": 0.15,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 8.24,
+      "end_time": 13.82,
+      "description": "The expression of surprise subsides. His eyebrows lower to a neutral position, and his eyes are less wide. He turns his head and directs his gaze to his left. His mouth movements are relaxed and follow his speech.",
+      "bboxes": [
+        {
+          "frame_time": 8.670723,
+          "x": 0.4015625,
+          "y": 0.2614035054257042,
+          "w": 0.27088815789473686,
+          "h": 0.5236842105263158,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 9.420848,
+          "x": 0.41488486842105265,
+          "y": 0.2798245580572831,
+          "w": 0.29161184210526314,
+          "h": 0.11578947368421053,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 9.420848,
+          "x": 0.4296875,
+          "y": 0.36929824226780944,
+          "w": 0.2723684210526316,
+          "h": 0.12894736842105264,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 10.711278,
+          "x": 0.39120065789473685,
+          "y": 0.040350873846756785,
+          "w": 0.3226973684210526,
+          "h": 0.8421052631578947,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 10.711278,
+          "x": 0.45485197368421054,
+          "y": 0.37456140016254624,
+          "w": 0.2649671052631579,
+          "h": 0.1631578947368421,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 11.375017,
+          "x": 0.5288651315789473,
+          "y": 0.6587719264783357,
+          "w": 0.18503289473684212,
+          "h": 0.17894736842105263,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 13.82,
+      "end_time": 15.1,
+      "description": "The surprised expression returns. His eyes widen again, and his eyebrows raise as he looks forward.",
+      "bboxes": [
+        {
+          "frame_time": 14.291689,
+          "x": 0.43560855263157894,
+          "y": 0.2929824527941252,
+          "w": 0.26200657894736845,
+          "h": 0.5973684210526315,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 14.918773,
+          "x": 0.4208059210526316,
+          "y": 0.40614034753096734,
+          "w": 0.2679276315789474,
+          "h": 0.15789473684210525,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 3.87,
+      "description": "The subject sits upright, with his head and torso remaining relatively still. No hand gestures are visible.",
+      "bboxes": [
+        {
+          "frame_time": 1.608878,
+          "x": 0.37935855263157897,
+          "y": 0.10350876858359889,
+          "w": 0.3375,
+          "h": 0.7552631578947369,
+          "note": "human-annotated",
+          "region": "unknown"
+        },
+        {
+          "frame_time": 3.004171,
+          "x": 0.3615953947368421,
+          "y": 0.05350876858359889,
+          "w": 0.33009868421052635,
+          "h": 0.7578947368421053,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 0.857893,
+          "x": 0.6117598684210527,
+          "y": 0.7429824527941252,
+          "w": 0.3882401315789473,
+          "h": 0.25,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 3.87,
+      "end_time": 7.54,
+      "description": "The subject quickly raises both hands to shoulder level with his palms facing forward and fingers splayed in a large, expressive gesture.",
+      "bboxes": [
+        {
+          "frame_time": 4.025006,
+          "x": 0,
+          "y": 0.4324561370046515,
+          "w": 1,
+          "h": 0.5657894736842105,
+          "note": "pose human-annotated",
+          "region": "shoulders"
+        },
+        {
+          "frame_time": 4.735534,
+          "x": 0.08330592105263157,
+          "y": 0.21140350542570416,
+          "w": 0.8985197368421053,
+          "h": 0.6210526315789474,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 8.87,
+      "end_time": 11.71,
+      "description": "The subject turns his head to his left. His right hand rises into the frame with the palm facing up in an illustrative gesture.",
+      "bboxes": [
+        {
+          "frame_time": 10.146983,
+          "x": 0.37195723684210524,
+          "y": 0.066666663320441,
+          "w": 0.33898026315789476,
+          "h": 0.8236842105263158,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 13.82,
+      "end_time": 15.1,
+      "description": "The subject turns his head back to the center and raises both hands quickly to frame his face, with palms facing inward.",
+      "bboxes": [
+        {
+          "frame_time": 14.233355,
+          "x": 0.41192434210526313,
+          "y": 0.10350876858359889,
+          "w": 0.28273026315789473,
+          "h": 0.7710526315789473,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 14.233355,
+          "x": 0,
+          "y": 0.23771929489938837,
+          "w": 0.29753289473684214,
+          "h": 0.7578947368421053,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 14.510439,
+          "x": 0.3689967105263158,
+          "y": 0.2403508738467568,
+          "w": 0.3626644736842105,
+          "h": 0.6657894736842105,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 14.641689,
+          "x": 0.25501644736842105,
+          "y": 0.26403508437307255,
+          "w": 0.6513157894736842,
+          "h": 0.6736842105263158,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 3.2,
+      "description": "Speech is delivered at a moderate pace. The word \"exploded\" is emphasized with a notable increase in pitch and volume.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 3.2,
+      "end_time": 8.1,
+      "description": "The pace slows slightly. The phrase \"I don't know what happened\" is spoken with a higher overall pitch and increased volume, conveying an emphatic tone. There is a slight hesitation and repetition on the word \"I\" at the beginning of the phrase.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 8.1,
+      "end_time": 12,
+      "description": "The speaker's pitch and volume return to a baseline, conversational level. The word \"but-\" at the end of the phrase is clipped short.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.1,
+      "description": "The subject is a young, dark-skinned male with short black hair and a small amount of facial hair on his chin and upper lip. He is wearing a white crew-neck t-shirt. The setting is an indoor room with white walls and several white shelves behind him. The shelves are densely packed with collectible figurines in their original packaging, primarily Nintendo Amiibos and other video game merchandise. A figurine of Goku from Dragon Ball Z is visible on a lower shelf to the camera's right. The lighting is even and appears to be coming from the front.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Medium",
+      "score": 0.45,
+      "rationale": "The subject's score indicates a Medium level of Extraversion. He demonstrates social expressiveness through animated gestures, such as raising his hands to his shoulders ([3.9s]) and framing his face ([13.8s]), and through vocal modulation for emphasis (louder on the word 'exploded'). However, these outward displays are balanced by more reserved behaviors, such as averting his gaze to the side ([0.0s, 10.7s]) rather than maintaining constant camera contact. This combination of expressive moments with periods of relative stillness and indirect gaze supports a moderate, rather than high, level of extraversion.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Medium",
+      "score": 0.49,
+      "rationale": "The subject's Agreeableness is in the Medium range. Throughout the clip, his expressions are open and his demeanor appears non-confrontational. Even when displaying a strong emotion of surprise, with eyebrows raised and mouth open ([3.9s]), it comes across as a genuine reaction to his narrative rather than hostility or irritation. The absence of negative affect cues like scowling or a tense jaw, combined with a baseline of relaxed and natural facial movements ([8.2s-13.8s]), is consistent with an individual who is neither exceptionally compliant nor disagreeable.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Medium",
+      "score": 0.45,
+      "rationale": "The score of 0.45 places Conscientiousness in the Medium category. The strongest evidence for conscientious behavior is environmental: the background reveals shelves densely packed with collectible figures, many in their original packaging. This implies a high degree of organization, care, and long-term dedication. However, his verbal delivery, which ends abruptly on a truncated word ('but-'), suggests a more spontaneous and less meticulously planned communication style. This blend of systematic, orderly behavior in his personal interests with a more casual presentation style aligns with a Medium Conscientiousness score.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Medium",
+      "score": 0.44,
+      "rationale": "The subject's Medium Neuroticism score is supported by his display of appropriate emotional regulation. He exhibits a strong, pronounced reaction of surprise ([3.9s-8.2s]), which is contextually fitting for the story he is telling. Critically, he demonstrates emotional stability by quickly returning to a neutral baseline, as seen when the 'surprise expression fades' and his facial muscles relax ([8.2s-13.8s]). While there is a slight hesitation in his speech ([3.2s]), his ability to manage and move on from a heightened emotional state without signs of lingering anxiety or distress is indicative of a moderate, stable temperament.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "Medium",
+      "score": 0.43,
+      "rationale": "A Medium level of Openness is strongly suggested by the subject's environment. The background is filled with a large, curated collection of figures from video games (Nintendo Amiibo) and anime (Dragon Ball Z). This demonstrates a deep engagement with and appreciation for fantasy worlds, creative media, and niche interests, which are key facets of Openness. His animated storytelling style, using expressive gestures and facial expressions to convey the feeling of the event, further points to an appreciation for aesthetics and emotional experience. This evidence points to a mind that is receptive to imaginative and novel concepts.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their Medium Neuroticism level?",
+      "options": [
+        {
+          "id": "A",
+          "text": "8.2s - 9.4s"
+        },
+        {
+          "id": "B",
+          "text": "3.9s - 5.9s"
+        },
+        {
+          "id": "C",
+          "text": "0.0s - 2.1s"
+        },
+        {
+          "id": "D",
+          "text": "13.8s - 15.1s"
+        },
+        {
+          "id": "E",
+          "text": "9.5s - 11.4s"
+        },
+        {
+          "id": "F",
+          "text": "6.0s - 8.1s"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. The Medium Neuroticism score is supported by effective emotional regulation. The interval [8.2s - 9.4s] is when the strong surprise expression begins to fade, his eyebrows lower, and his face returns to a neutral state, directly demonstrating this regulatory process.\n\n- Option B is a video-based distractor. This interval marks the *onset* of the surprise expression, which is the emotional event itself, not the regulation of it.\n- Option C is a video-based distractor. This is the initial baseline period, showing no significant emotional change relevant to regulation.\n- Option D is a video-based distractor. This interval shows the *reappearance* of a surprised look, which is an emotional expression, not the calming-down phase that indicates stability.\n- Option E is a near-miss distractor. This interval occurs just *after* the main regulatory change has happened; the face is already returning to neutral, so this is not the interval of the change itself.\n- Option F is a text-based distractor, as this represents the peak of the expression rather than a change indicative of emotional stability; it is a period of sustained emotion."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 1.6s, a region was detected in the video (x=0.379, y=0.104, w=0.338, h=0.755, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Maintaining an upright and relatively still body posture."
+        },
+        {
+          "id": "B",
+          "text": "Symmetrically raising the eyebrows in a sign of surprise."
+        },
+        {
+          "id": "C",
+          "text": "Turning the entire head toward the left side of the frame."
+        },
+        {
+          "id": "D",
+          "text": "Relaxed mouth movements that are corresponding to speech."
+        },
+        {
+          "id": "E",
+          "text": "Framing the face completely with both hands in a gesture."
+        },
+        {
+          "id": "F",
+          "text": "A neutral eye expression characterized by normal openness."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. The specified bounding box at 1.6s covers the person's torso and head. At this moment, he is sitting upright and is relatively still, establishing his baseline posture before the main expressive gestures occur. This description accurately reflects the content of that specific spatial region at that time.\n\n- Option B is a video-based distractor. The eyebrows are raised much later in the video, around 5.9s, not at 1.6s.\n- Option C is a video-based distractor. The head turn to the left occurs later, around 10.1s.\n- Option D is a near-miss distractor. While his mouth is moving with speech at 1.6s, the large bounding box covers his entire upper body, making the overall posture the most prominent and defining action, not the subtle mouth movement.\n- Option E is a video-based distractor. He frames his face with his hands at the very end of the clip, around 14.5s.\n- Option F is a text-based distractor. The box is too large to be just about his eye expression, and a more specific box would be needed to isolate that feature."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "Which of the following timestamp and bounding box combinations best captures the peak of the person's expressive reaction of surprise, specifically focusing on the facial region showing the most deviation from a neutral state?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[9.4s]  x=0.43, y=0.37, w=0.27, h=0.13"
+        },
+        {
+          "id": "B",
+          "text": "[0.3s]  x=0.48, y=0.34, w=0.23, h=0.16"
+        },
+        {
+          "id": "C",
+          "text": "[5.8s]  x=0.45, y=0.31, w=0.26, h=0.15"
+        },
+        {
+          "id": "D",
+          "text": "[14.2s]  x=0.00, y=0.24, w=0.30, h=0.76"
+        },
+        {
+          "id": "E",
+          "text": "[8.7s]  x=0.40, y=0.26, w=0.27, h=0.52"
+        },
+        {
+          "id": "F",
+          "text": "[5.9s]  x=0.46, y=0.57, w=0.21, h=0.21"
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The correct answer is F. The question asks for the peak expressive moment of surprise, focusing on the facial region with the most deviation. At [5.9s], his surprise is at its maximum, and the bounding box (x=0.46, y=0.57, w=0.21, h=0.21) is tightly focused on his widely open mouth, which is the most significant facial deviation from his neutral state.\n\n- Option A is a video-based distractor. This timestamp and box capture his eyes *after* the surprise has faded and he is turning his head.\n- Option B is a video-based distractor. This captures his eyes during his initial baseline state, which is neutral, not the peak of an expression.\n- Option C is a near-miss distractor. At 5.8s, his surprise is building, and this box is on his eyes. However, the open mouth at 5.9s represents a greater deviation and is the peak of the expression.\n- Option D is a video-based distractor. This captures his hands being raised at a different moment entirely.\n- Option E is a video-based distractor. This captures his full face as the expression is *fading*, not at its peak."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator17",
+      "version": 1,
+      "clues_total": 35,
+      "clues_correct": 24,
+      "clues_wrong_corrected": 4,
+      "clues_missing_skipped": 7,
+      "clues_bonus": 0
+    }
+  }
+}

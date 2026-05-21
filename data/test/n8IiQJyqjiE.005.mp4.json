@@ -1,0 +1,537 @@
+{
+  "video_id": "n8IiQJyqjiE.005.mp4",
+  "video_path": "n8IiQJyqjiE.005.mp4",
+  "transcription": "More and more and more, so I can't just be that absolutely normal kid smoking week that's not really distinguishable, because I don't have like a super distinguishable face or anything like that. I know I kind of look ridiculous, but I kind of like it. I love my beard, so ...",
+  "original_scores": {
+    "extraversion": 0.5981308411214954,
+    "agreeableness": 0.6923076923076923,
+    "conscientiousness": 0.5339805825242718,
+    "neuroticism": 0.8229166666666667,
+    "openness": 0.811111111111111
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 6.51,
+      "description": "The subject maintains direct eye contact with the camera. His eyebrows are slightly raised as he speaks, and his mouth moves in a neutral manner corresponding to his speech.",
+      "bboxes": [
+        {
+          "frame_time": 3.883947,
+          "x": 0.4393092105263158,
+          "y": 0.20842105463931435,
+          "w": 0.12434210526315789,
+          "h": 0.09210526315789473,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 3.883947,
+          "x": 0.44671052631578945,
+          "y": 0.17421052832352488,
+          "w": 0.10805921052631579,
+          "h": 0.06578947368421052,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 3.883947,
+          "x": 0.45707236842105264,
+          "y": 0.33210526516563016,
+          "w": 0.09325657894736843,
+          "h": 0.07631578947368421,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 6.51,
+      "end_time": 9.98,
+      "description": "His eyebrows raise higher and his eyes widen slightly as he emphasizes his words. He keeps his gaze directed at the camera.",
+      "bboxes": [
+        {
+          "frame_time": 8.660585,
+          "x": 0.4008223684210526,
+          "y": 0.20578947569194592,
+          "w": 0.14210526315789473,
+          "h": 0.07368421052631578,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 8.660585,
+          "x": 0.4230263157894737,
+          "y": 0.24526315990247224,
+          "w": 0.11842105263157895,
+          "h": 0.0868421052631579,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 8.660585,
+          "x": 0.39786184210526315,
+          "y": 0.24263158095510381,
+          "w": 0.14358552631578947,
+          "h": 0.09210526315789473,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 9.98,
+      "end_time": 15.53,
+      "description": "The subject's face transitions into a broad smile, showing his upper teeth. His cheeks are raised, and his eyes squint slightly at the corners. The smile is maintained for several seconds before relaxing slightly as he finishes his sentence.",
+      "bboxes": [
+        {
+          "frame_time": 10.707605,
+          "x": 0.44819078947368424,
+          "y": 0.2663157914814196,
+          "w": 0.07845394736842105,
+          "h": 0.08157894736842106,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 10.707605,
+          "x": 0.3993421052631579,
+          "y": 0.13473684411299855,
+          "w": 0.13914473684210527,
+          "h": 0.24473684210526317,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 10.707605,
+          "x": 0.3993421052631579,
+          "y": 0.1505263177972091,
+          "w": 0.14358552631578947,
+          "h": 0.0868421052631579,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 11.549271,
+          "x": 0.4629934210526316,
+          "y": 0.36894737042878806,
+          "w": 0.10065789473684211,
+          "h": 0.0868421052631579,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 15.306958,
+          "x": 0.45263157894736844,
+          "y": 0.10842105463931435,
+          "w": 0.14210526315789473,
+          "h": 0.26842105263157895,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 6.64,
+      "description": "The subject sits at a desk, leaning slightly forward. His hands are at the bottom edge of the frame, making small, illustrative gestures with open palms as he speaks.",
+      "bboxes": [
+        {
+          "frame_time": 0.963079,
+          "x": 0.3371710526315789,
+          "y": 0.36631579148141963,
+          "w": 0.36414473684210524,
+          "h": 0.22894736842105262,
+          "note": "pose human-annotated",
+          "region": "torso"
+        },
+        {
+          "frame_time": 1.76447,
+          "x": 0.2868421052631579,
+          "y": 0.537368423060367,
+          "w": 0.4899671052631579,
+          "h": 0.3684210526315789,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 6.64,
+      "end_time": 9.98,
+      "description": "He raises both hands to chest level, palms facing inward, and moves them outward in a symmetrical gesture to emphasize his words.",
+      "bboxes": [
+        {
+          "frame_time": 7.383817,
+          "x": 0.29276315789473684,
+          "y": 0.4663157914814196,
+          "w": 0.40707236842105265,
+          "h": 0.25526315789473686,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 9.98,
+      "end_time": 12.48,
+      "description": "His hands move up higher, near his face, and he makes a quick, expansive gesture outward with both hands as he smiles broadly.",
+      "bboxes": [
+        {
+          "frame_time": 12.48,
+          "x": 0.25723684210526315,
+          "y": 0.5110526335866827,
+          "w": 0.49144736842105263,
+          "h": 0.26842105263157895,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 12.48,
+      "end_time": 15.53,
+      "description": "He lowers his hands back toward the desk and clasps them in front of him, shrugging his shoulders slightly as he finishes speaking.",
+      "bboxes": [
+        {
+          "frame_time": 14.620525,
+          "x": 0.3860197368421053,
+          "y": 0.8136842125340512,
+          "w": 0.17763157894736842,
+          "h": 0.09736842105263158,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 14.620525,
+          "x": 0.34309210526315786,
+          "y": 0.3768421072708933,
+          "w": 0.3330592105263158,
+          "h": 0.14473684210526316,
+          "note": "pose human-annotated",
+          "region": "shoulders"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 5.09,
+      "description": "Speech is delivered at a moderate and consistent pace with a stable pitch.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 5.09,
+      "end_time": 9.94,
+      "description": "The subject's speech rate increases slightly, and his pitch rises for emphasis on the words \"super distinguishable face.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 9.94,
+      "end_time": 12.38,
+      "description": "The subject's voice becomes higher in pitch and louder, with a breathy, laugh-like quality on the word \"ridiculous.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 12.38,
+      "end_time": 15.53,
+      "description": "The speech rate slows down. His pitch remains elevated but melodic, with a distinct rise on the word \"love\" for emphasis before falling at the end of the phrase.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.53,
+      "description": "The subject is a young man with reddish-brown hair and a full beard, seated indoors. He is wearing a light green, short-sleeved, button-up shirt with a bright pink pocket. The wall behind him is covered with a whiteboard decorated with numerous stickers related to cannabis culture and brands. On the desk in front of him are various glass bongs, a torch lighter, a grinder, and a black jar with a cannabis bud on top. The scene is well-lit with bright, even frontal lighting.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "High",
+      "score": 0.6,
+      "rationale": "The subject's High Extraversion is demonstrated through his engaging and expressive communication style. He maintains direct and consistent eye contact with the camera, leans forward in an engaged posture, and utilizes frequent, lively hand gestures with open palms. His vocal delivery is dynamic, featuring variations in speed, pitch, and volume to add emphasis, alongside a broad, genuine smile. These behaviors collectively indicate social confidence and an outward focus of energy, characteristic of extraverted individuals.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "High",
+      "score": 0.69,
+      "rationale": "A High level of Agreeableness is supported by the subject's warm and pro-social demeanor. He displays a broad Duchenne smile—indicated by raised cheeks and crinkling around the eyes—which signals genuine positive emotion and friendliness. This is complemented by self-deprecating humor ('I know I kind of look ridiculous'), immediately softened by a positive affirmation ('but I kind of like it') and a slight shrug. This combination creates an approachable and non-confrontational presence, typical of individuals who value social harmony.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Medium",
+      "score": 0.53,
+      "rationale": "The evidence for Conscientiousness is mixed, supporting a Medium score. The act of setting up to record a video implies a degree of forethought and goal-oriented behavior. However, the background, which is cluttered with numerous stickers and various items, suggests a lower level of orderliness in his personal environment. This contrast between the structured nature of his communication and the unstructured state of his surroundings points to a moderate, rather than high or low, level of this trait.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Very High",
+      "score": 0.82,
+      "rationale": "The subject's Very High score in Neuroticism is primarily revealed through the content of his speech, which is heavily focused on self-conscious evaluation and social comparison ('I can't just be that absolutely normal kid,' 'I don't have like a super distinguishable face'). This verbalization of insecurity is a direct marker of the trait. The accompanying anxiety is subtly expressed through slightly raised eyebrows and widened eyes. Furthermore, his use of a high-pitched, laugh-like tone on the word 'ridiculous' appears to be a coping mechanism, using humor to deflect from his negative self-appraisal.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "Very High",
+      "score": 0.81,
+      "rationale": "Very High Openness is strongly evident in the subject's embrace of a non-conventional aesthetic and identity. His distinct personal style and his statement 'I know I kind of look ridiculous, but I kind of like it' show an appreciation for uniqueness over conformity. The environment, curated with paraphernalia from a specific subculture, indicates an engagement with alternative values and ideas. The introspective nature of his monologue, where he publicly analyzes his own identity, further reflects a high level of intellectual curiosity and comfort with abstract concepts, which are hallmarks of Openness.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During 0.0s - 6.6s, the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A significantly high level of the Agreeableness trait."
+        },
+        {
+          "id": "B",
+          "text": "A distinctively low level of the trait of Openness."
+        },
+        {
+          "id": "C",
+          "text": "A moderately high level of the Extraversion trait."
+        },
+        {
+          "id": "D",
+          "text": "A medium level of the Conscientiousness dimension."
+        },
+        {
+          "id": "E",
+          "text": "A particularly low level of the Neuroticism trait."
+        },
+        {
+          "id": "F",
+          "text": "A particularly high level of the Neuroticism trait."
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The correct answer is F. During this period, the subject's speech content is focused on social comparison and feelings of inadequacy ('I can't just be that absolutely normal kid', 'not really distinguishable'), which is a primary indicator of high Neuroticism (emotional instability and self-consciousness).\n\n- Option A is a text-based distractor. The topic of social comparison might seem related to Agreeableness, but the anxious nature of the comparison points to Neuroticism, not a desire for social harmony.\n- Option B is a text-based distractor. Discussing being 'normal' vs. 'distinguishable' textually relates to Openness, but the verbal content expresses anxiety about the topic, which is a Neuroticism cue.\n- Option C is a video-based distractor. The subject does exhibit extraverted behaviors (e.g., direct eye contact) during this time, but the specific verbal content is the most salient behavioral pattern and points most directly to Neuroticism.\n- Option D is a video-based distractor. The cluttered background, visible throughout the clip, supports a Medium Conscientiousness score, but the question asks about the active behavioral pattern (speech), not the static environment.\n- Option E is a near-miss distractor. It correctly identifies Neuroticism as the relevant dimension but gets the direction wrong. The self-conscious verbalizations are evidence for high, not low, Neuroticism."
+    },
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their Agreeableness level?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[0.5s - 1.5s]"
+        },
+        {
+          "id": "B",
+          "text": "[3.5s - 4.5s]"
+        },
+        {
+          "id": "C",
+          "text": "[6.5s - 7.5s]"
+        },
+        {
+          "id": "D",
+          "text": "[14.5s - 15.5s]"
+        },
+        {
+          "id": "E",
+          "text": "[9.0s - 10.0s]"
+        },
+        {
+          "id": "F",
+          "text": "[10.2s - 11.2s]"
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The correct answer is F. The time interval [10.2s - 11.2s] captures the onset of a broad Duchenne smile (raised cheeks, crinkled eyes), a key non-verbal cue for genuine warmth and friendliness, which are core facets of high Agreeableness.\n\n- Option A is a text-based distractor, representing a plausible but incorrect early moment in the video where no such expression occurs.\n- Option D is a text-based distractor, representing a plausible but incorrect late moment where the smile is relaxing, not forming.\n- Option B is a video-based distractor. During this time, the person's facial expression is relatively neutral as they maintain eye contact; there is no significant change relevant to Agreeableness.\n- Option C is a video-based distractor. At this time, the eyebrows raise and eyes widen, which is a real expression change but is more related to emphasis and anxiety (Neuroticism) than the pro-social cues of Agreeableness.\n- Option E is a near-miss distractor. This interval is immediately before the smile begins, testing for precise temporal localization. The key change happens just after this moment."
+    },
+    {
+      "category": "Mixed Emotion Discrimination",
+      "question": "During 9.9s - 12.4s, the person's emotional state is best characterized as which of the following? Consider both verbal and non-verbal cues.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Confident joy tempered by a sense of thoughtful and reflective disposition."
+        },
+        {
+          "id": "B",
+          "text": "Anxious uncertainty mixed with a pronounced desire for external validation."
+        },
+        {
+          "id": "C",
+          "text": "Forced enthusiasm mixed with a clear feeling of underlying frustration."
+        },
+        {
+          "id": "D",
+          "text": "Calm satisfaction tempered by a quiet mood of thoughtful introspection."
+        },
+        {
+          "id": "E",
+          "text": "Pure, uninhibited joy mixed with a triumphant sense of self-expression."
+        },
+        {
+          "id": "F",
+          "text": "Self-deprecating humor mixed with an undercurrent of genuine amusement."
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The correct answer is F. In this segment, the subject says 'I know I kind of look ridiculous' with a high-pitched, laugh-like tone and a broad smile, followed by 'but I kind of like it.' This combination directly reflects self-deprecating humor (acknowledging the 'ridiculous' look) mixed with genuine amusement and self-acceptance (the smile and positive follow-up).\n\n- Option A is a text-based distractor. It describes a plausible positive state but misses the key self-deprecating and humorous elements that define this specific moment.\n- Option C is a text-based distractor. This describes a plausible performance state, but the Duchenne smile appears genuine, contradicting 'forced enthusiasm', and there are no cues for frustration.\n- Option B is a video-based distractor. This emotion is more characteristic of the first few seconds of the video (0-6s), where he expresses anxiety about not being distinguishable. By 9.9s, his emotion has shifted.\n- Option D is a video-based distractor. This state better describes the final moments of the video (after 12.4s), where his speech slows and he calmly states 'I love my beard.'\n- Option E is a near-miss distractor. It correctly identifies the positive, joyful component (amusement) but misses the critical nuance of 'self-deprecating humor' that frames the emotion. His joy is not 'pure' but is a reaction to his own perceived ridiculousness."
+    },
+    {
+      "category": "Temporal-Causal Reasoning",
+      "question": "Consider the sequence of behaviors observed across the video. Which of the following best describes the causal chain linking the person's actions at different moments?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A display of confident boasting triggers audience-focused clarification, followed by a humble apology for the initial display of arrogance."
+        },
+        {
+          "id": "B",
+          "text": "A verbal expression of social anxiety leads to a statement of preference, which then prompts a subsequent self-deprecating humorous remark."
+        },
+        {
+          "id": "C",
+          "text": "A display of positive self-acceptance prompts some self-deprecating humor, which then causes a subsequent feeling of social anxiety."
+        },
+        {
+          "id": "D",
+          "text": "An initial display of social engagement leads to a performative emotional expression, followed by quiet disengagement from the audience."
+        },
+        {
+          "id": "E",
+          "text": "An attempt at humor fails to land, causing awkward self-correction, which is then followed by a defensive justification of the original statement."
+        },
+        {
+          "id": "F",
+          "text": "An initial expression of social anxiety leads to a self-deprecating coping mechanism, resolving into a statement of positive self-acceptance."
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The correct answer is F. This accurately maps the video's narrative arc: 1) He begins by expressing social anxiety about not being 'distinguishable' (0-6s). 2) He then uses a self-deprecating coping mechanism by calling his look 'ridiculous' with a laugh (9-11s). 3) This resolves into a positive self-affirmation with 'but I kind of like it' and 'I love my beard' (11-15s).\n\n- Option A is a text-based distractor. It describes a plausible social script that is the opposite of what happens; the subject shows insecurity, not boasting.\n- Option E is a text-based distractor. It describes another plausible but incorrect social script; the humor appears successful and leads to resolution, not failure and defensiveness.\n- Option C is a video-based distractor with reversed temporal order. The social anxiety comes first and causes the humor, not the other way around.\n- Option D is a video-based distractor with incorrect causality. While there is social engagement and an emotional expression (the smile), the final state is one of confident resolution, not disengagement.\n- Option B is a near-miss distractor. It contains the correct elements but scrambles the causal link. The self-deprecating humor is the *coping mechanism* that *leads to* the positive statement, not a remark that is *prompted by* it."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 11.5s, a region was detected in the video (x=0.463, y=0.369, w=0.101, h=0.087, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A neutral mouth expression while briefly listening to an off-screen cue."
+        },
+        {
+          "id": "B",
+          "text": "Widened eyes that are being used to communicate a specific point of emphasis."
+        },
+        {
+          "id": "C",
+          "text": "Raised eyebrows that are indicating a moment of heightened emotional stress."
+        },
+        {
+          "id": "D",
+          "text": "A relaxed mouth shape shown immediately after finishing a complete sentence."
+        },
+        {
+          "id": "E",
+          "text": "Hands moving outward to complete a broad, open and symmetrical gesture."
+        },
+        {
+          "id": "F",
+          "text": "A broad and sustained smile that is being held for several full seconds."
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The correct answer is F. The specified bounding box at 11.5s precisely covers the subject's mouth area. At this moment, he is holding the wide smile that began around 10.7s after saying he looks 'ridiculous' but 'likes it'.\n\n- Option A is a text-based distractor. It describes a plausible action, but at 11.5s the person is actively smiling and speaking, not neutral or listening.\n- Option B is a video-based distractor. The eyes are part of the smile (crinkling at the corners), but they are not 'widened for emphasis,' and the bounding box is on the mouth, not the eyes.\n- Option C is a video-based distractor. The eyebrows are raised earlier in the clip (around 8.7s) but not at this moment, and the bounding box is not on the forehead.\n- Option E is a video-based distractor. A broad hand gesture does occur around this time (peaking at 12.5s), but the bounding box is on the face, not the hands/torso region.\n- Option D is a near-miss distractor. The mouth does relax after he finishes his sentence, but this happens later (around 15.3s), not at 11.5s where the smile is still being held."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "At which of the following timestamp and bounding box combinations does the subject exhibit a peak moment of expressive energy, simultaneously involving both facial and manual communication channels?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[8.7s]  x=0.40, y=0.24, w=0.14, h=0.09"
+        },
+        {
+          "id": "B",
+          "text": "[14.6s]  x=0.34, y=0.38, w=0.33, h=0.14"
+        },
+        {
+          "id": "C",
+          "text": "[3.9s]  x=0.45, y=0.17, w=0.11, h=0.07"
+        },
+        {
+          "id": "D",
+          "text": "[14.6s]  x=0.39, y=0.81, w=0.18, h=0.10"
+        },
+        {
+          "id": "E",
+          "text": "[8.7s]  x=0.40, y=0.21, w=0.14, h=0.07"
+        },
+        {
+          "id": "F",
+          "text": "[12.5s]  x=0.26, y=0.51, w=0.49, h=0.27"
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The correct answer is F. The question asks for a peak moment involving both facial and manual channels. At 12.5s, the subject is smiling broadly while simultaneously making a large, expansive gesture with both hands to emphasize his point. The provided bounding box correctly covers this expansive hand gesture.\n\n- Option A is a video-based distractor. This timestamp and bounding box correspond to the subject's eyes, which are widened for emphasis, but it does not capture the manual gesture.\n- Option B is a video-based distractor. This corresponds to a slight shoulder shrug at the end of his speech, which is a low-energy movement, not a peak of expression.\n- Option C is a video-based distractor. This captures the eyebrows during a period of neutral expression and lacks any significant manual action.\n- Option D is a video-based distractor. This shows the hands crossed and resting on the table, a state of low expressive energy.\n- Option E is a near-miss distractor. It points to the same time as A (8.7s) but focuses on the eyebrows. This moment shows facial expression but lacks the simultaneous, high-energy hand gesture required by the question."
+    },
+    {
+      "category": "Counterfactual Reasoning",
+      "question": "If the person had NOT exhibited the behavior observed around 10.0s - 12.5s, which of the following personality assessments would be MOST affected?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The Agreeableness score would remain unchanged, as it is determined mainly by consistent and direct eye contact throughout the duration."
+        },
+        {
+          "id": "B",
+          "text": "The Extraversion score would be lower, as the key hand gestures supporting social confidence are observed at a much later time point."
+        },
+        {
+          "id": "C",
+          "text": "The Conscientiousness score would be higher, since the behavior implies a distinct lack of thoughtful or planned self-presentation."
+        },
+        {
+          "id": "D",
+          "text": "The Neuroticism score would be lower, as the clearest sign of emotional instability is the anxious self-evaluation at the very start."
+        },
+        {
+          "id": "E",
+          "text": "The Openness score would likely be higher, since the behavior suggests some self-doubt which is contrary to intellectual curiosity."
+        },
+        {
+          "id": "F",
+          "text": "The Openness score would likely be lower because this moment is primary evidence for his embrace of a non-conventional aesthetic."
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The correct answer is F. The behavior from 10.0s-12.5s includes the statement 'I know I kind of look ridiculous, but I kind of like it.' This is the single strongest piece of evidence for Very High Openness, as it explicitly demonstrates an appreciation for uniqueness over conformity. Removing it would significantly weaken the foundation for this assessment.\n\n- Option A is a text-based distractor. This is incorrect; the Duchenne smile that occurs during this exact time is a key piece of evidence for Agreeableness, so removing the behavior would affect the score.\n- Option C is a text-based distractor. It makes an unsupported causal link. The evidence for Conscientiousness (medium) comes from the organized act of recording vs. the disorganized background, which is unrelated to this statement.\n- Option B is a video-based distractor. Evidence for Extraversion (eye contact, expressive voice) is present from the very beginning of the clip, so the score is not dependent on later gestures.\n- Option D is a video-based distractor. While the anxious speech at the start is a key indicator for Neuroticism, the analysis also cites the laugh-like tone on 'ridiculous' during the 10-12s segment as a neurotic coping mechanism. However, the Openness score is *more* critically dependent on this specific moment of self-acceptance than the Neuroticism score, which has other strong support.\n- Option E is a near-miss distractor. It correctly identifies Openness as the affected trait but gets the direction and reasoning wrong. Embracing a 'ridiculous' look is a sign of high, not low, Openness."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator11",
+      "version": 1,
+      "clues_total": 25,
+      "clues_correct": 22,
+      "clues_wrong_corrected": 0,
+      "clues_missing_skipped": 3,
+      "clues_bonus": 0
+    }
+  }
+}

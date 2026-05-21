@@ -1,0 +1,399 @@
+{
+  "video_id": "50gokPvvMs8.004.mp4",
+  "video_path": "50gokPvvMs8.004.mp4",
+  "transcription": "... good, lovely, emotional book. So, yeah, would have to say that one. Next question, \"Who's your favorite classic and/or now writing German author?\"",
+  "original_scores": {
+    "extraversion": 0.4953271028037384,
+    "agreeableness": 0.6923076923076923,
+    "conscientiousness": 0.5825242718446602,
+    "neuroticism": 0.34374999999999994,
+    "openness": 0.41111111111111115
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 3.42,
+      "description": "The subject looks directly at the camera, their eyebrows are slightly raised and their mouth is open as they speak. The corners of their mouth lift slightly into a smile while talking.",
+      "bboxes": [
+        {
+          "frame_time": 3.075913,
+          "x": 0.3882401315789474,
+          "y": 0.2798245580572831,
+          "w": 0.23240131578947368,
+          "h": 0.1368421052631579,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 3.075913,
+          "x": 0.39120065789473685,
+          "y": 0.26403508437307255,
+          "w": 0.21907894736842107,
+          "h": 0.09473684210526316,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 3.075913,
+          "x": 0.4474506578947368,
+          "y": 0.46140350542570413,
+          "w": 0.12582236842105263,
+          "h": 0.11842105263157894,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 3.075913,
+          "x": 0.4415296052631579,
+          "y": 0.45877192647833576,
+          "w": 0.12730263157894736,
+          "h": 0.1368421052631579,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 3.42,
+      "end_time": 6.31,
+      "description": "The smile fades as they continue speaking, and their lips press together briefly at the end of their sentence. Their gaze remains on the camera.",
+      "bboxes": [
+        {
+          "frame_time": 3.42,
+          "x": 0.43264802631578947,
+          "y": 0.45877192647833576,
+          "w": 0.22796052631578947,
+          "h": 0.18947368421052632,
+          "note": "human-annotated",
+          "region": "unknown"
+        },
+        {
+          "frame_time": 3.42,
+          "x": 0.4385690789473684,
+          "y": 0.4824561370046515,
+          "w": 0.12582236842105263,
+          "h": 0.11842105263157894,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 3.42,
+          "x": 0.4474506578947368,
+          "y": 0.4535087685835989,
+          "w": 0.11842105263157895,
+          "h": 0.15,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 3.42,
+          "x": 0.3941611842105263,
+          "y": 0.23771929489938837,
+          "w": 0.22648026315789474,
+          "h": 0.1736842105263158,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 6.31,
+      "end_time": 14.88,
+      "description": "The subject's expression becomes more neutral and focused as they begin the next topic. Their gaze shifts slightly downwards as if reading, and their eyebrows remain in a neutral position while their mouth moves to articulate the words.",
+      "bboxes": [
+        {
+          "frame_time": 6.31,
+          "x": 0.4104440789473684,
+          "y": 0.3271929791099147,
+          "w": 0.19391447368421053,
+          "h": 0.35,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 6.31,
+          "x": 0.3941611842105263,
+          "y": 0.34561403174149363,
+          "w": 0.21611842105263157,
+          "h": 0.1394736842105263,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 6.31,
+          "x": 0.3852796052631579,
+          "y": 0.3350877159520199,
+          "w": 0.22203947368421054,
+          "h": 0.15,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 6.31,
+          "x": 0.4563322368421053,
+          "y": 0.5692982422678095,
+          "w": 0.09917763157894736,
+          "h": 0.11052631578947368,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 14.88,
+      "description": "The subject sits in an upright position, facing forward. Their head makes very small, subtle movements that are synchronized with their speech. From 00:08 onwards, there is a very slight downward tilt of the head as they appear to read text from the lower portion of the screen.",
+      "bboxes": [
+        {
+          "frame_time": 11.435013,
+          "x": 0.2328125,
+          "y": 0.5245614001625463,
+          "w": 0.5521381578947369,
+          "h": 0.4710526315789474,
+          "note": "human-annotated",
+          "region": "unknown"
+        },
+        {
+          "frame_time": 11.435013,
+          "x": 0.35419407894736843,
+          "y": 0.06929824226780941,
+          "w": 0.3182565789473684,
+          "h": 0.6868421052631579,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 11.435013,
+          "x": 0.4208059210526316,
+          "y": 0.2824561370046515,
+          "w": 0.22648026315789474,
+          "h": 0.1736842105263158,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 2.21,
+      "description": "The words \"good, lovely, emotional book\" are spoken with a slightly higher, melodic pitch and a moderate pace.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 2.21,
+      "end_time": 5.25,
+      "description": "The subject's speech slows slightly, and the pitch drops on the phrase \"So, yeah,\" before continuing with a falling intonation on \"would have to say that one.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 5.25,
+      "end_time": 7.82,
+      "description": "After a brief pause, the subject speaks the phrase \"Next question\" with clear enunciation.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 7.82,
+      "end_time": 14.88,
+      "description": "The subject's vocal cadence becomes more rhythmic and even-paced as they read the question aloud. The pitch is relatively level, with slight pauses after \"classic\" and \"and/or,\" ending with a downward intonation on \"German author?\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 14.88,
+      "description": "The subject is a person with fair skin, long brown hair, and glasses, wearing a black sweater over a purple collared shirt. They are in an indoor setting, likely a home office, with a large white shelving unit behind them filled with books, binders, and a purple storage box. The books on the right side of the shelf are arranged in a rainbow color order. The room is well-lit from the front, and the floor is light-colored wood. At 00:08, a white comment box from a social media platform appears at the bottom of the screen.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Medium",
+      "score": 0.5,
+      "rationale": "The subject's Extraversion level is Medium. While participating in a public-facing Q&A video indicates a degree of sociability, the overall energy level is contained. An initial warm smile and slightly raised eyebrows suggest social engagement, but this expressiveness fades as the subject transitions to the next task. The vocal tone becomes more measured and flat when reading the question, and physical gestures are minimal and subtle. This balance between engaging in a social act and maintaining a controlled, less animated demeanor supports a moderate Extraversion score.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "High",
+      "score": 0.69,
+      "rationale": "The subject scores High on Agreeableness. This is evidenced by a warm and cooperative presentation. They begin by smiling while speaking and use positive, pro-social language ('good, lovely, emotional book'). The vocal tone is pleasant and calm throughout the segment. There are no indicators of skepticism or irritability; the subject appears friendly and willing to engage with the audience's questions, which is a hallmark of high Agreeableness.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Medium",
+      "score": 0.58,
+      "rationale": "The subject's Conscientiousness is rated as Medium. Strong evidence for orderliness is present in the background, specifically the large, well-organized bookshelf with books arranged by rainbow color—a clear sign of attention to detail and systemization. Behaviorally, the subject demonstrates task focus by sitting upright, clearly finishing one question, pausing, and then methodically reading the next. This structured approach, combined with the highly organized personal environment, points towards conscientious traits, though the relaxed speaking style ('So, yeah') moderates it from a very high level.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Low",
+      "score": 0.34,
+      "rationale": "The subject exhibits Low Neuroticism. Throughout the video, they maintain a calm and stable emotional state. Their posture is upright and relaxed, and their speech is clear and steady without signs of anxiety like stammering or fidgeting. Even when transitioning between topics, the subject remains composed. The downward glances are clearly associated with the task of reading a prompt, not with nervousness or social discomfort. This emotional stability and lack of visible stress are characteristic of low Neuroticism.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "Medium",
+      "score": 0.41,
+      "rationale": "The subject's Openness is assessed as Medium. The primary indicators are environmental: a home filled with books suggests intellectual curiosity and an interest in ideas. Furthermore, organizing books by 'rainbow color' demonstrates an aesthetic sensibility, a facet of Openness. However, the subject's communication style in this clip is quite direct and conventional, using simple descriptors ('good, lovely, emotional') rather than abstract or imaginative language. This straightforward expression tempers the strong cues from their environment, resulting in a Medium score.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During 3.4s - 6.3s, the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Low Agreeableness, as seen in the social withdrawal cues."
+        },
+        {
+          "id": "B",
+          "text": "High Neuroticism, indicated by the sudden change of topic."
+        },
+        {
+          "id": "C",
+          "text": "Low Openness to Experience, shown by the rigid task focus."
+        },
+        {
+          "id": "D",
+          "text": "High Extraversion, reflected in their expressive demeanor."
+        },
+        {
+          "id": "E",
+          "text": "Low Extraversion, evidenced by a reduction in social energy."
+        },
+        {
+          "id": "F",
+          "text": "Medium Conscientiousness, supported by methodical task-switching."
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The correct answer is F. During 3.4s - 6.3s, the person's smile fades and their expression becomes neutral and focused as they prepare to read the next question. This methodical transition from a social task to an information-processing task is a key indicator of Conscientiousness (task-focus, orderliness).\n- Option A is a near-miss distractor. While the smile fades (a form of social withdrawal), the underlying motivation is task-switching, not unfriendliness, making Conscientiousness a better fit than low Agreeableness.\n- Option B is a text-based distractor. A 'sudden change' might sound like a neurotic trait, but the video shows the change is calm, controlled, and task-oriented, not anxious.\n- Option C is a text-based distractor. 'Rigid task focus' sounds plausible for low Openness, but this behavior is more directly about the process of being organized and diligent (Conscientiousness).\n- Option D is a video-based distractor. It describes the behavior from the preceding segment (0.0s - 3.4s), where the person was smiling warmly, which is the opposite of the behavior in the specified time range.\n- Option E is a near-miss distractor. The behavior does involve a reduction in social energy, which relates to Extraversion. However, the most salient aspect is the purposeful, organized shift in attention, which is a core facet of Conscientiousness."
+    },
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their shift from social engagement to task focus?",
+      "options": [
+        {
+          "id": "A",
+          "text": "00.8s - 02.9s"
+        },
+        {
+          "id": "B",
+          "text": "06.5s - 08.6s"
+        },
+        {
+          "id": "C",
+          "text": "08.8s - 10.9s"
+        },
+        {
+          "id": "D",
+          "text": "11.1s - 13.2s"
+        },
+        {
+          "id": "E",
+          "text": "13.4s - 14.8s"
+        },
+        {
+          "id": "F",
+          "text": "03.4s - 06.3s"
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The correct answer is F. The observation notes for this period state that the 'smile gradually disappears' and their expression becomes 'more neutral and focused'. This is the key transitional moment where the socially engaged expression (high Agreeableness/Extraversion cues) fades and is replaced by a task-oriented expression (Conscientiousness cue).\n- Option A is a video-based distractor. During this period, the person is smiling consistently while talking; there is no notable change.\n- Options B, C, D, and E are all video-based distractors. These intervals occur after the transition is complete, during which the person maintains a stable, neutral, focused expression while reading the next question."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 3.1s, a region was detected in the video (x=0.388, y=0.280, w=0.232, h=0.137, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A brief downward glance away from the viewer or camera."
+        },
+        {
+          "id": "B",
+          "text": "Mouth movements that are associated with clear speech."
+        },
+        {
+          "id": "C",
+          "text": "Eyebrows that are held in a relaxed and neutral pose."
+        },
+        {
+          "id": "D",
+          "text": "A neutral and focused facial expression is seen overall."
+        },
+        {
+          "id": "E",
+          "text": "An upright posture with the subject's body facing forward."
+        },
+        {
+          "id": "F",
+          "text": "A direct and steady gaze maintained towards the camera."
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The correct answer is F. The specified coordinates (x=0.388, y=0.280) at 3.1s precisely frame the subject's eyes. The observation log for the [0.0s-3.4s] period confirms that in this region, the subject 'looks directly at the camera' ('Subject looks directly into the camera').\n- Option A is a near-miss distractor. This action (a downward glance) does occur, but at a different time (around 3.4s-6.3s) and is therefore incorrect for the specified timestamp.\n- Option B is a video-based distractor. This describes the mouth region, which is located lower on the face than the specified bounding box.\n- Option C is a video-based distractor. While the eyebrows are near the specified region, the box is centered on the eyes. Furthermore, the eyebrows are slightly raised at this moment, not neutral.\n- Option D is a video-based distractor. This describes the entire face at a different time (after 6.3s); at 3.1s, the expression is a warm smile, not neutral.\n- Option E is a video-based distractor. This describes the subject's overall posture, which is far outside the small bounding box focused on the eyes."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "At which moment is the subject's gaze directed downward in a manner that indicates a shift to a new task, such as reading a prompt from a screen?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[3.1s] (x=0.39, y=0.28, w=0.23, h=0.14)"
+        },
+        {
+          "id": "B",
+          "text": "[3.1s] (x=0.44, y=0.46, w=0.13, h=0.12)"
+        },
+        {
+          "id": "C",
+          "text": "[11.4s] (x=0.42, y=0.28, w=0.23, h=0.17)"
+        },
+        {
+          "id": "D",
+          "text": "[6.3s] (x=0.46, y=0.57, w=0.10, h=0.11)"
+        },
+        {
+          "id": "E",
+          "text": "[6.3s] (x=0.39, y=0.25, w=0.22, h=0.15)"
+        },
+        {
+          "id": "F",
+          "text": "[6.3s] (x=0.39, y=0.35, w=0.22, h=0.14)"
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The correct answer is F. The observation log for the [6.3s - 14.9s] period notes that at the start of this interval, 'their gaze shifts slightly downward, as if reading' ('Their eyes move slightly downward, as if they are reading'). The timestamp 6.3s and the provided coordinates (x=0.39, y=0.35, w=0.22, h=0.14) correctly identify this specific action in the eye region.\n- Option A is a video-based distractor. It shows the correct eye region but at the wrong time (3.1s), when the person is looking directly at the camera.\n- Option B is a video-based distractor. It is the correct time for looking at the camera, but the coordinates point to the mouth region.\n- Option C is a video-based distractor. This is a head region bbox from a later time (11.4s) while the person is already reading, not the specific moment of the gaze shift.\n- Option D is a video-based distractor. It has the correct timestamp for the gaze shift (6.3s), but the coordinates point to the mouth region.\n- Option E is a near-miss distractor. It has the correct timestamp (6.3s) and is in the correct general area, but the y-coordinate is slightly too high, pointing to the forehead/eyebrow area rather than the eyes themselves."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator13",
+      "version": 2,
+      "clues_total": 20,
+      "clues_correct": 19,
+      "clues_wrong_corrected": 1,
+      "clues_missing_skipped": 0,
+      "clues_bonus": 0
+    }
+  }
+}

@@ -1,0 +1,494 @@
+{
+  "video_id": "L5kpy0SA7os.001.mp4",
+  "video_path": "L5kpy0SA7os.001.mp4",
+  "transcription": "I was so excited when I finally got it and I was annoyed when I didn't have it and tried to think, well can I make it come faster? Trust me, you will get period at some point in the next few years. Your period will start and just enjoy the amount of time that you.",
+  "original_scores": {
+    "extraversion": 0.35514018691588783,
+    "agreeableness": 0.6483516483516484,
+    "conscientiousness": 0.4077669902912622,
+    "neuroticism": 0.3125,
+    "openness": 0.34444444444444444
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 1.1,
+      "description": "The speaker's mouth is open in an 'o' shape and her eyes are slightly widened as she looks at the camera.",
+      "bboxes": [
+        {
+          "frame_time": 0.22031,
+          "x": 0.4511513157894737,
+          "y": 0.3131578947368421,
+          "w": 0.13470394736842106,
+          "h": 0.08947368421052632,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 1.1,
+      "end_time": 7.4,
+      "description": "The speaker's expression becomes neutral, with natural mouth movements corresponding to her speech. Her eyebrows remain relatively level.",
+      "bboxes": [
+        {
+          "frame_time": 1.1,
+          "x": 0.41118421052631576,
+          "y": 0.22105263157894736,
+          "w": 0.13766447368421053,
+          "h": 0.29736842105263156,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 1.1,
+          "x": 0.43782894736842104,
+          "y": 0.4342105263157895,
+          "w": 0.08733552631578947,
+          "h": 0.10789473684210527,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 1.1,
+          "x": 0.3993421052631579,
+          "y": 0.2710526315789474,
+          "w": 0.1613486842105263,
+          "h": 0.060526315789473685,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 7.4,
+      "end_time": 9.5,
+      "description": "The speaker raises her eyebrows slightly while maintaining direct eye contact with the camera.",
+      "bboxes": [
+        {
+          "frame_time": 7.761725,
+          "x": 0.39342105263157895,
+          "y": 0.3026315789473684,
+          "w": 0.1569078947368421,
+          "h": 0.07368421052631578,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 7.795619,
+          "x": 0.4200657894736842,
+          "y": 0.35526315789473684,
+          "w": 0.12138157894736842,
+          "h": 0.07368421052631578,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 9.5,
+      "end_time": 15.1,
+      "description": "The speaker's expression returns to a neutral, conversational state, with her gaze fixed on the camera.",
+      "bboxes": [
+        {
+          "frame_time": 9.5,
+          "x": 0.43782894736842104,
+          "y": 0.21052631578947367,
+          "w": 0.11990131578947369,
+          "h": 0.3368421052631579,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 14.591366,
+          "x": 0.42598684210526316,
+          "y": 0.33157894736842103,
+          "w": 0.15838815789473684,
+          "h": 0.06315789473684211,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 1.3,
+      "description": "The speaker sits upright, touching her upper left chest with her left hand.",
+      "bboxes": [
+        {
+          "frame_time": 0,
+          "x": 0.4052631578947368,
+          "y": 0.6868421052631579,
+          "w": 0.16875,
+          "h": 0.18157894736842106,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 1.3,
+      "end_time": 7.5,
+      "description": "The speaker lowers her left hand out of frame and makes several small, illustrative gestures with her right hand at the bottom edge of the frame.",
+      "bboxes": [
+        {
+          "frame_time": 1.3,
+          "x": 0.3875,
+          "y": 0.631578947368421,
+          "w": 0.24424342105263158,
+          "h": 0.3394736842105263,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 7.5,
+      "end_time": 9.5,
+      "description": "The speaker raises her right hand to shoulder height, palm facing forward with fingers extended and held together.",
+      "bboxes": [
+        {
+          "frame_time": 7.5,
+          "x": 0.2868421052631579,
+          "y": 0.5052631578947369,
+          "w": 0.16875,
+          "h": 0.21578947368421053,
+          "note": "pose human-annotated",
+          "region": "shoulders"
+        },
+        {
+          "frame_time": 8.371817,
+          "x": 0.20986842105263157,
+          "y": 0.5736842105263158,
+          "w": 0.20575657894736843,
+          "h": 0.2894736842105263,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 9.5,
+      "end_time": 13.5,
+      "description": "She lowers her right hand and continues to make small gestures near her lap, pointing with her index finger at one point.",
+      "bboxes": [
+        {
+          "frame_time": 9.5,
+          "x": 0.30904605263157897,
+          "y": 0.8631578947368421,
+          "w": 0.17763157894736842,
+          "h": 0.12368421052631579,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 13.5,
+      "end_time": 14.7,
+      "description": "Her right hand makes a small, downward sweeping motion.",
+      "bboxes": [
+        {
+          "frame_time": 13.5,
+          "x": 0.4230263157894737,
+          "y": 0.7105263157894737,
+          "w": 0.13470394736842106,
+          "h": 0.14736842105263157,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 1.5,
+      "description": "Speech begins at a moderate pace, with a slight rise in pitch and stress on the word \"so\".",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 1.5,
+      "end_time": 7.3,
+      "description": "The speaker's pace is conversational and slightly faster, with a steady pitch.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 7.3,
+      "end_time": 8.1,
+      "description": "The phrase \"Trust me\" is spoken deliberately, at a slightly slower pace and with increased stress.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 8.1,
+      "end_time": 15.1,
+      "description": "The speaker's pace returns to a moderate, conversational rhythm with a steady pitch and volume.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.1,
+      "description": "The speaker is a young woman with fair skin and dark brown hair pulled back in a ponytail. She is wearing a dark green, scoop-neck t-shirt. She is sitting in a bedroom with pale green walls. Behind her and to her left is a dark wood wardrobe with mirrored sliding doors. A warm-toned ceiling light is visible at the top of the frame. She appears to be sitting on a bed with a white and green patterned duvet. To her right, the top of a laptop or tablet screen is visible.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Low",
+      "score": 0.36,
+      "rationale": "The subject's score indicates a Low level of Extraversion. This is behaviorally supported by a communication style that is more reserved than socially dominant. Her vocal delivery is stable and conversational, lacking the high energy and volume often seen in extraverts. Her gestures are described as 'small' and contained within her personal space, rather than broad and expansive. While she engages the camera directly, her predominant facial expression is neutral, suggesting a more measured emotional expressiveness, which is consistent with an introverted temperament.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "High",
+      "score": 0.65,
+      "rationale": "The subject scores High in Agreeableness, a trait demonstrated through her clear prosocial and trust-building behaviors. The very act of offering advice and sharing a personal, reassuring story is indicative of an empathetic and cooperative nature. This is reinforced by specific nonverbal cues: at the beginning, she touches her chest while describing her feelings, a gesture of sincerity. When she says 'Trust me,' she uses a slower, emphasized vocal tone and an open-palm gesture, both classic signals used to establish rapport and convey honesty.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Medium",
+      "score": 0.41,
+      "rationale": "The subject's Medium Conscientiousness is reflected in her structured yet informal communication. She delivers a coherent and purposeful message, staying on topic and maintaining focus, as evidenced by her steady eye contact with the camera and clear, conversational speech. This indicates a degree of organization and self-discipline. However, the relaxed, conversational delivery and informal bedroom setting suggest a style that is competent and effective without being overly rigid or formal, aligning well with a mid-range score on this dimension.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Low",
+      "score": 0.31,
+      "rationale": "The subject's Low Neuroticism score is strongly supported by her high degree of emotional stability throughout the clip. Even when discussing past feelings of annoyance, her demeanor remains calm and composed. Her vocal tone is stable, without quavering or signs of stress. Her physical movements are controlled and deliberate, lacking any indicators of anxiety such as fidgeting or nervous tics. Her ability to discuss a personal topic with a consistently calm and neutral expression points to a resilient and emotionally secure disposition.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "Low",
+      "score": 0.34,
+      "rationale": "The subject's Low score in Openness is consistent with her focus on a concrete and practical topic. Her communication is grounded in a common personal experience, offering straightforward advice rather than exploring abstract ideas or complex concepts. Her vocabulary is direct, and her delivery is conventional for a vlogging format. The absence of metaphorical language, intellectual novelty, or unconventional expressions suggests a cognitive style that prioritizes the familiar and tangible over the abstract and imaginative.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During [7.4s - 9.5s], the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "High Extraversion, based on a socially engaging and assertive vocal delivery."
+        },
+        {
+          "id": "B",
+          "text": "High Conscientiousness, shown by the purposeful and organized phrasing."
+        },
+        {
+          "id": "C",
+          "text": "Low Neuroticism, indicated by the confident and steady hand gesturing."
+        },
+        {
+          "id": "D",
+          "text": "High Neuroticism, reflecting a subtle need to over-emphasize a key point."
+        },
+        {
+          "id": "E",
+          "text": "High Agreeableness, demonstrated by a vocal and gestural appeal for rapport."
+        },
+        {
+          "id": "F",
+          "text": "Low Openness, evidenced by her use of conventional and direct language."
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. During this interval, the person says 'Trust me' with a slower, emphasized vocal tone, raised eyebrows, direct eye contact, and an open-palm gesture. The personality analysis explicitly links these trust-building behaviors to High Agreeableness.\n\n- Option A is a text-based distractor. While engaging, her overall style is reserved, not assertive, which aligns with her Low Extraversion score.\n- Option B is a text-based distractor. The behavior is about building rapport, not demonstrating organization, which is the core of Conscientiousness.\n- Option C is a video-based distractor. Low Neuroticism is a correct trait for her, but it is supported by her *overall* calm demeanor throughout the video, not this specific, active trust-building gesture.\n- Option D is a near-miss distractor. It correctly identifies the emphatic nature of the behavior but misinterprets it as a sign of anxiety (High Neuroticism) rather than a prosocial signal of sincerity (High Agreeableness).\n- Option F is a video-based distractor. Her Low Openness is supported by the practical content of her speech, which is a different channel of information from the specific socio-emotional gestures used at this moment."
+    },
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their High Agreeableness level?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[0.0s - 1.1s]"
+        },
+        {
+          "id": "B",
+          "text": "[1.1s - 2.5s]"
+        },
+        {
+          "id": "C",
+          "text": "[4.0s - 5.5s]"
+        },
+        {
+          "id": "D",
+          "text": "[13.5s - 14.7s]"
+        },
+        {
+          "id": "E",
+          "text": "[7.4s - 9.5s]"
+        },
+        {
+          "id": "F",
+          "text": "[9.5s - 11.0s]"
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. The interval [7.4s - 9.5s] is when the speaker says 'Trust me', accompanied by a slight eyebrow raise and direct eye contact. This combination is a key non-verbal signal of sincerity and trust-building, which is the primary evidence for her High Agreeableness.\n\n- Option A is a video-based distractor. A real change occurs here (eyes widen), but she is looking at a screen, not the audience, making it less relevant to interpersonal Agreeableness.\n- Option B is a video-based distractor. This marks the moment her expression becomes neutral after the initial segment, a transition rather than a key expressive event for Agreeableness.\n- Option C is a text-based distractor. This interval contains no notable expression changes; her face is in a neutral, conversational state.\n- Option D is a text-based distractor. This interval is plausible as it's near the end of her sentence, but no significant facial expression change is noted here, only a small hand gesture.\n- Option F is a near-miss distractor. This interval immediately follows the correct one and marks the moment her expression returns to neutral. It's close in time but captures the offset of the key expression, not the expression itself."
+    },
+    {
+      "category": "Temporal-Causal Reasoning",
+      "question": "Consider the sequence of behaviors observed across the video. Which of the following best describes the causal chain linking the person's actions at different moments?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Anxious self-monitoring is followed by a compensatory gesture of confidence, finally resolving into a relaxed and conversational state of mind."
+        },
+        {
+          "id": "B",
+          "text": "A sustained reassuring message is followed by a direct trust-building display, which is then justified by a gesture recalling a past emotion."
+        },
+        {
+          "id": "C",
+          "text": "An initial attempt to appear energetic results in broad gestures, which then require self-correction to a calmer and more neutral demeanor."
+        },
+        {
+          "id": "D",
+          "text": "A gesture grounds sincerity, followed by sustained reassurance, which then culminates in a final trust-building vocal emphasis for added effect."
+        },
+        {
+          "id": "E",
+          "text": "An initial self-referential gesture grounds a memory, which motivates a prosocial trust display, leading to a sustained reassuring message."
+        },
+        {
+          "id": "F",
+          "text": "A moment of neutral expression transitions into a display of emotional vulnerability, which subsequently causes a sudden shift to an assertive tone."
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. This option accurately maps the video's abstract structure: 1) She begins by touching her chest while recalling a past feeling (0.0s-1.3s), grounding the memory. 2) This personal story serves as the basis for her advice, motivating the prosocial trust-building display ('Trust me' at 7.4s-9.5s). 3) This leads into the conclusion of her advice, delivered in a sustained, reassuring manner (9.5s-15.1s).\n\n- Option A is a text-based distractor. There is no evidence of anxiety or compensatory gestures; her demeanor is consistently calm.\n- Option B is a video-based distractor with reversed temporal order. The reassuring message follows the trust-building display, and the memory gesture is at the beginning, not the end.\n- Option C is a text-based distractor. Her gestures are small and contained, not broad, and she does not appear to be trying to be energetic.\n- Option D is a near-miss distractor. It has the correct elements but the wrong temporal order for the last two links. The trust-building emphasis occurs *before* the sustained delivery of the final reassuring message, not as a culmination after it.\n- Option F is a text-based distractor. Her tone is never assertive, and there is no display of emotional vulnerability; her expression remains composed."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around [7.8s], a region was detected in the video (x=0.393, y=0.303, w=0.157, h=0.074, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A steady and direct gaze fixed upon the camera."
+        },
+        {
+          "id": "B",
+          "text": "A transition toward a more neutral facial expression."
+        },
+        {
+          "id": "C",
+          "text": "A small, downward sweeping motion of the right hand."
+        },
+        {
+          "id": "D",
+          "text": "A subtle but noticeable curvature of the eyebrows."
+        },
+        {
+          "id": "E",
+          "text": "A slight, deliberate arching of the eyebrows."
+        },
+        {
+          "id": "F",
+          "text": "Natural mouth movements for clear articulation."
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. The specified bounding box at 7.8s precisely covers the eyebrow region. The observation log for [7.4s - 9.5s] states, the speaker slightly raises her eyebrows. 'A slight, deliberate arching of the eyebrows' is the most accurate description of this action.\n\n- Option A is a video-based distractor. This action (direct gaze) is happening simultaneously, but it occurs in the eye region, which is below the specified bounding box.\n- Option B is a video-based distractor. This describes a behavior from a different time segment ([1.1s - 7.4s]).\n- Option C is a video-based distractor. This describes a hand gesture from a different time segment ([13.5s - 14.7s]) and a completely different body region.\n- Option D is a near-miss distractor. It correctly identifies the body part (eyebrows) but describes a different action ('curvature') that is noted at a different time ([1.1s - 7.4s]). The action at 7.8s is a raise or arch, not a curve.\n- Option F is a text-based distractor. While her mouth is moving, this occurs in a different facial region far below the specified bounding box."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "The speaker uses a series of small, contained hand motions near her lap to subtly illustrate the point she is making verbally. At which timestamp and bounding box does this particular illustrative gesturing primarily occur?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[13.5s] x=0.42, y=0.71, w=0.13, h=0.15"
+        },
+        {
+          "id": "B",
+          "text": "[8.4s] x=0.21, y=0.57, w=0.21, h=0.29"
+        },
+        {
+          "id": "C",
+          "text": "[14.6s] x=0.43, y=0.33, w=0.16, h=0.06"
+        },
+        {
+          "id": "D",
+          "text": "[7.5s] x=0.29, y=0.51, w=0.17, h=0.22"
+        },
+        {
+          "id": "E",
+          "text": "[1.3s] x=0.39, y=0.63, w=0.24, h=0.34"
+        },
+        {
+          "id": "F",
+          "text": "[9.5s] x=0.44, y=0.21, w=0.12, h=0.34"
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. The question describes small, contained, illustrative hand motions. The observation log for [1.3s - 7.5s] notes the speaker lowers her left hand out of frame and makes a few small illustrative gestures with her right hand near the bottom of the frame. The timestamp and bounding box in option E correspond to the beginning of this action.\n\n- Option A is a video-based distractor. It correctly identifies a hand gesture, but it's a 'small downward sweep', not a series of illustrative motions.\n- Option B is a video-based distractor. This is the open-palm gesture used for emphasis while saying 'Trust me', a different type of gesture.\n- Option C is a video-based distractor. This bounding box covers the eyes, not the hands.\n- Option D is a video-based distractor. This corresponds to the moment her left hand is raised to shoulder height, which is the opposite of a low, contained gesture.\n- Option F is a video-based distractor. This bounding box covers the face during a neutral expression, not a hand gesture."
+    },
+    {
+      "category": "Counterfactual Reasoning",
+      "question": "If the person had NOT exhibited the behavior observed around [7.4s - 9.5s], which of the following personality assessments would be MOST affected?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Extraversion would be rated even lower, as removing this socially engaging moment would make her reserved nature more apparent across the interaction."
+        },
+        {
+          "id": "B",
+          "text": "Conscientiousness would be rated lower, as this behavior is critical evidence for her ability to structure a persuasive and organized argument."
+        },
+        {
+          "id": "C",
+          "text": "The Low Neuroticism score would be weakened, because her calm and confident demeanor is established mainly during this short, emphatic interval."
+        },
+        {
+          "id": "D",
+          "text": "Agreeableness would shift from High to Low, as this specific action is the main behavior that supports a cooperative and trusting interpretation."
+        },
+        {
+          "id": "E",
+          "text": "The assessment for Agreeableness would be less certain, as this moment provides key evidence for prosocial, trust-building intentions."
+        },
+        {
+          "id": "F",
+          "text": "Openness would likely be rated higher, because the absence of this conventional gesture might suggest a more unconventional communication style."
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. The behavior at [7.4s-9.5s] is the 'Trust me' vocalization, open-palm gesture, and direct gaze. The personality analysis identifies this as a classic trust-building behavior and the strongest single piece of evidence for her High Agreeableness. Removing it would not necessarily reverse the score but would make the 'High' assessment much weaker and less certain.\n\n- Option A is a video-based distractor. While the moment is engaging, her overall Low Extraversion is established by her reserved posture and conversational tone throughout. Removing this one moment would have less impact than on Agreeableness.\n- Option B is a text-based distractor. Her Conscientiousness is supported by the coherent narrative of her entire speech, not this specific socio-emotional gesture.\n- Option C is a video-based distractor. Her Low Neuroticism is demonstrated by her consistent calm demeanor *throughout the entire video*, not just in this single moment. Its removal would not significantly weaken the assessment.\n- Option D is a near-miss distractor. It correctly identifies that Agreeableness is the affected trait, but it overstates the impact. It's unlikely her score would flip from 'High' to 'Low', as other cues (like sharing a personal story to help) also support agreeableness. The score would become less confident, not inverted.\n- Option F is a text-based distractor. This reasoning is speculative and convoluted; removing a conventional gesture does not automatically imply an unconventional style or impact the Openness score, which is based on her concrete topic choice."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator04",
+      "version": 1,
+      "clues_total": 20,
+      "clues_correct": 14,
+      "clues_wrong_corrected": 5,
+      "clues_missing_skipped": 1,
+      "clues_bonus": 0
+    }
+  }
+}

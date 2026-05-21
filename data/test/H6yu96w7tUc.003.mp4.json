@@ -1,0 +1,414 @@
+{
+  "video_id": "H6yu96w7tUc.003.mp4",
+  "video_path": "H6yu96w7tUc.003.mp4",
+  "transcription": "Part of the day, like 3 or 4 hours of the day; sunlight pours in through the windows and they get really bright in there. It's been tricky. A lot of the fish that I add to the eat Algae, that helps a little bit, I had a lot of ...",
+  "original_scores": {
+    "extraversion": 0.4953271028037384,
+    "agreeableness": 0.6923076923076923,
+    "conscientiousness": 0.5825242718446602,
+    "neuroticism": 0.42708333333333337,
+    "openness": 0.5444444444444444
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 2.9,
+      "description": "The subject maintains a neutral expression while looking directly at the camera. His eyebrows raise slightly as he speaks.",
+      "bboxes": [
+        {
+          "frame_time": 0,
+          "x": 0.36233552631578947,
+          "y": 0.19473684210526315,
+          "w": 0.1450657894736842,
+          "h": 0.31842105263157894,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 0,
+          "x": 0.35641447368421053,
+          "y": 0.16052631578947368,
+          "w": 0.15838815789473684,
+          "h": 0.35789473684210527,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 0,
+          "x": 0.3638157894736842,
+          "y": 0.12894736842105264,
+          "w": 0.1569078947368421,
+          "h": 0.19210526315789472,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 2.9,
+      "end_time": 3.7,
+      "description": "The subject's gaze briefly shifts towards his raised left hand before returning to the camera. His eyebrows remain slightly raised.",
+      "bboxes": [
+        {
+          "frame_time": 3.413449,
+          "x": 0.10032894736842105,
+          "y": 0.27631578947368424,
+          "w": 0.19539473684210526,
+          "h": 0.5105263157894737,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 3.413449,
+          "x": 0.4052631578947368,
+          "y": 0.18157894736842106,
+          "w": 0.1524671052631579,
+          "h": 0.14210526315789473,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 3.7,
+      "end_time": 8.7,
+      "description": "His expression remains relatively neutral, with natural mouth movements accompanying his speech. He maintains direct eye contact with the camera and blinks normally.",
+      "bboxes": [
+        {
+          "frame_time": 8.701537,
+          "x": 0.3238486842105263,
+          "y": 0.26052631578947366,
+          "w": 0.22351973684210527,
+          "h": 0.14473684210526316,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 7.589477,
+          "x": 0.359375,
+          "y": 0.41578947368421054,
+          "w": 0.1125,
+          "h": 0.11052631578947368,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 8.085758,
+          "x": 0.3282894736842105,
+          "y": 0.28157894736842104,
+          "w": 0.15838815789473684,
+          "h": 0.11315789473684211,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 8.7,
+      "end_time": 9.5,
+      "description": "As he says \"tricky,\" his eyebrows lower slightly and his mouth corners pull down momentarily.",
+      "bboxes": [
+        {
+          "frame_time": 8.7,
+          "x": 0.3460526315789474,
+          "y": 0.4052631578947368,
+          "w": 0.15098684210526317,
+          "h": 0.14736842105263157,
+          "note": "human-annotated",
+          "region": "unknown"
+        },
+        {
+          "frame_time": 8.7,
+          "x": 0.3549342105263158,
+          "y": 0.39210526315789473,
+          "w": 0.11842105263157895,
+          "h": 0.15263157894736842,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 9.5,
+      "end_time": 15.02,
+      "description": "The subject's expression returns to a neutral state. He continues to look at the camera with natural mouth movements and blinking.",
+      "bboxes": [
+        {
+          "frame_time": 11.403826,
+          "x": 0.3712171052631579,
+          "y": 0.24210526315789474,
+          "w": 0.18207236842105262,
+          "h": 0.15,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 11.403826,
+          "x": 0.3786184210526316,
+          "y": 0.25,
+          "w": 0.15098684210526317,
+          "h": 0.2868421052631579,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 2.9,
+      "description": "The subject is sitting, facing the camera. His shoulders and head are mostly stationary, with slight movements as he speaks. His hands are below the frame.",
+      "bboxes": [
+        {
+          "frame_time": 0,
+          "x": 0.3786184210526316,
+          "y": 0.24473684210526317,
+          "w": 0.13470394736842106,
+          "h": 0.26052631578947366,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 0,
+          "x": 0.34309210526315786,
+          "y": 0.10789473684210527,
+          "w": 0.2294407894736842,
+          "h": 0.55,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 2.110125,
+          "x": 0.2143092105263158,
+          "y": 0.7605263157894737,
+          "w": 0.5314144736842106,
+          "h": 0.22105263157894736,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 2.9,
+      "end_time": 3.7,
+      "description": "He raises his right hand into the frame to about shoulder height, palm open and facing forward, in an illustrative gesture.",
+      "bboxes": [
+        {
+          "frame_time": 3.474414,
+          "x": 0.0544407894736842,
+          "y": 0.3526315789473684,
+          "w": 0.2131578947368421,
+          "h": 0.4131578947368421,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 3.474414,
+          "x": 0.11809210526315789,
+          "y": 0.29210526315789476,
+          "w": 0.3167763157894737,
+          "h": 0.4052631578947368,
+          "note": "pose human-annotated",
+          "region": "shoulders"
+        },
+        {
+          "frame_time": 3.474414,
+          "x": 0.0662828947368421,
+          "y": 0.32894736842105265,
+          "w": 0.20279605263157896,
+          "h": 0.4605263157894737,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 3.7,
+      "end_time": 15.02,
+      "description": "He lowers his right hand out of the frame and remains in a seated position, facing forward.",
+      "bboxes": [
+        {
+          "frame_time": 3.910229,
+          "x": 0.3667763157894737,
+          "y": 0.781578947368421,
+          "w": 0.23832236842105264,
+          "h": 0.19736842105263158,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 3.910229,
+          "x": 0.3712171052631579,
+          "y": 0.1631578947368421,
+          "w": 0.1569078947368421,
+          "h": 0.3763157894736842,
+          "note": "pose human-annotated",
+          "region": "torso"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 8.7,
+      "description": "The subject speaks at a moderate and consistent pace with a clear, even tone. There is a slight rise in pitch on the phrase \"three or four hours\" and on the word \"bright.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 8.7,
+      "end_time": 9.2,
+      "description": "His pace slows slightly, and his pitch lowers on the word \"tricky.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 9.2,
+      "end_time": 15.02,
+      "description": "The subject's speech returns to a moderate pace and even pitch.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.02,
+      "description": "The subject is a middle-aged male with fair skin, brown hair, glasses, a mustache, and sideburns. He is wearing a grey t-shirt with a \"WALT DISNEY WORLD\" logo. He is in an indoor setting with a light-colored wall behind him. Two large, brightly lit aquariums filled with green plants are positioned behind him. A framed picture hangs on the wall above the left aquarium. The lighting is diffuse and comes from the front.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Medium",
+      "score": 0.5,
+      "rationale": "The subject's Extraversion is assessed as Medium. His willingness to speak directly to a camera and maintain consistent eye contact indicates social confidence. He uses an illustrative hand gesture ([2.9s-3.7s]) and moderate vocal modulation to engage the audience, which are markers of extraverted tendencies. However, these behaviors are balanced by a generally still posture and a predominantly neutral facial expression, suggesting a more moderate, rather than high, level of social energy and outward expressiveness.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "High",
+      "score": 0.69,
+      "rationale": "The subject scores High in Agreeableness, which is reflected in his calm and approachable demeanor. His speech has a clear and even tone, fostering a cooperative and pleasant interaction. The slight raising of his eyebrows ([0.0s-3.7s]) suggests an open and engaged listening posture. When mentioning a problem ('tricky'), his facial expression and vocal tone shift congruently ([8.7s-9.5s]), indicating sincerity and emotional genuineness rather than guardedness, a hallmark of agreeable individuals.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Medium",
+      "score": 0.58,
+      "rationale": "The subject's Conscientiousness is rated as Medium. His speech is coherent and structured, systematically explaining a problem with his aquariums and the solutions he has tried. This demonstrates organized, goal-directed thinking. Furthermore, the background reveals two large, well-maintained aquariums, which implies the diligence and commitment required for a complex hobby. The evidence points to a competent and orderly individual, but without stronger cues of meticulousness or long-term planning, the score remains in the medium range.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Medium",
+      "score": 0.43,
+      "rationale": "The subject's Neuroticism score is in the Medium range. His overall presentation is calm and stable, characterized by steady eye contact and a consistent speaking pace, which are indicators of low neuroticism. However, he shows a clear, albeit brief, reaction to a negative stimulus: when he says the word 'tricky,' his mouth corners pull down ([8.7s-9.5s]) and his vocal pitch lowers ([8.7s-9.2s]). This contained but noticeable emotional reactivity, followed by a quick return to baseline, supports a moderate rather than very low score.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "Medium",
+      "score": 0.54,
+      "rationale": "The subject's Openness is assessed as Medium. This is primarily inferred from his engagement in a creative and complex hobby—maintaining two large, planted aquariums. This activity suggests an appreciation for aesthetics and a curiosity for natural systems. His willingness to share his experiences on this topic further supports a degree of openness. However, his communicative style is straightforward and concrete, lacking the abstract or imaginative language often associated with individuals scoring very high on this trait.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 7.6s, a region was detected in the video (x=0.359, y=0.416, w=0.113, h=0.111, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Natural mouth articulations during his continued speech."
+        },
+        {
+          "id": "B",
+          "text": "A return to a generally neutral facial expression overall."
+        },
+        {
+          "id": "C",
+          "text": "A direct and consistent gaze maintained toward the camera."
+        },
+        {
+          "id": "D",
+          "text": "The slight upward arching of the eyebrows during talk."
+        },
+        {
+          "id": "E",
+          "text": "A mostly static posture of the person's head and neck."
+        },
+        {
+          "id": "F",
+          "text": "An open-palmed gesture used for making an illustration."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. The provided coordinates at 7.6s precisely frame the person's mouth. At this moment, he is in the middle of speaking, and the observation log confirms Natural mouth movement accompanies his speech. 'Natural mouth articulations' is an accurate label for this action.\n- Option B is a video-based distractor. While his overall expression is neutral, this option describes the whole face, not the specific action happening within the small bounding box around the mouth.\n- Option C is a video-based distractor. This describes the eyes, which are located above the specified bounding box.\n- Option D is a video-based distractor. This describes the eyebrows, which are also located well above the specified bounding box.\n- Option E is a video-based distractor. This describes the general posture of the head, a much larger region than the specified bounding box around the mouth.\n- Option F is a near-miss distractor. This describes the hand gesture, which is a real event from the video, but it occurs at a different time (around 3.5s) and in a different location."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "Select the timestamp and bounding box that best captures a moment of baseline neutral expression while the person is speaking coherently.",
+      "options": [
+        {
+          "id": "A",
+          "text": "[8.7s]  x=0.32, y=0.26, w=0.22, h=0.14"
+        },
+        {
+          "id": "B",
+          "text": "[0.0s]  x=0.36, y=0.16, w=0.16, h=0.36"
+        },
+        {
+          "id": "C",
+          "text": "[3.9s]  x=0.37, y=0.16, w=0.16, h=0.38"
+        },
+        {
+          "id": "D",
+          "text": "[3.4s]  x=0.10, y=0.28, w=0.20, h=0.51"
+        },
+        {
+          "id": "E",
+          "text": "[0.0s]  x=0.34, y=0.11, w=0.23, h=0.55"
+        },
+        {
+          "id": "F",
+          "text": "[3.5s]  x=0.05, y=0.35, w=0.21, h=0.41"
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is A. The question asks for a moment of neutral expression during coherent speech. The observation log for [3.7s - 8.7s] states, 'His expression is relatively neutral... He maintains direct eye contact.' The frame at 8.7s, with a bounding box covering the central facial features, is an ideal representation of this state just before the 'tricky' micro-expression.\n- Option B is a video-based distractor. This box at 0.0s isolates the head but is from the very start, which is a good candidate but less representative of the 'during speech' phase than the 8.7s frame.\n- Option C is a video-based distractor. This box at 3.9s also captures the head during a neutral phase, but the box in A is better centered on the expressive facial region.\n- Option D is a video-based distractor. This box at 3.4s incorrectly captures the person's gaze shifting towards his hand, which is not a 'baseline neutral expression'.\n- Option E is a video-based distractor. This box at 0.0s is very large, covering the head and shoulders, not just the facial expression.\n- Option F is a video-based distractor. This box at 3.5s incorrectly captures the illustrative hand gesture, not the facial expression."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [
+      {
+        "check": "B",
+        "q_idx": 5,
+        "issue": "The correct answer 'A' identifies timestamp [8.7s] as a moment of 'baseline neutral expression'. However, the observation records state that a negative emotional expression (mouth corners pulling down) begins at 8.7s. Option 'E' provides a timestamp [0.0s] and a corresponding bounding box for the head, which is correctly identified as a period of neutral expression.",
+        "action": "Changed correct_answer from A to E."
+      }
+    ],
+    "corrections": {
+      "mcq_questions[5].correct_answer": "E"
+    },
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator14",
+      "version": 1,
+      "clues_total": 26,
+      "clues_correct": 23,
+      "clues_wrong_corrected": 1,
+      "clues_missing_skipped": 2,
+      "clues_bonus": 0
+    }
+  }
+}

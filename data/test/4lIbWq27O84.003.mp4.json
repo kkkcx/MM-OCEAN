@@ -1,0 +1,573 @@
+{
+  "video_id": "4lIbWq27O84.003.mp4",
+  "video_path": "4lIbWq27O84.003.mp4",
+  "transcription": "Where I walk in an area where I can't see counter tops, or desks, or chairs, or anything like that, it's completely out of my line of sight. So I kind of glance around and then I walk forward very carefully and it makes me walk not quite as accurate as I do.",
+  "original_scores": {
+    "extraversion": 0.5046728971962617,
+    "agreeableness": 0.6483516483516484,
+    "conscientiousness": 0.6019417475728155,
+    "neuroticism": 0.6145833333333333,
+    "openness": 0.5666666666666667
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 5.4,
+      "description": "Subject maintains direct eye contact with the camera. His facial expression is neutral, with eyebrows in a relaxed position. His mouth moves naturally with his speech.",
+      "bboxes": [
+        {
+          "frame_time": 1.163401,
+          "x": 0.3882401315789474,
+          "y": 0.18771929489938835,
+          "w": 0.15838815789473684,
+          "h": 0.1,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 1.872631,
+          "x": 0.4163651315789474,
+          "y": 0.18508771595201995,
+          "w": 0.1524671052631579,
+          "h": 0.2736842105263158,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 2.477042,
+          "x": 0.3971217105263158,
+          "y": 0.14824561068886205,
+          "w": 0.140625,
+          "h": 0.08421052631578947,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 2.477042,
+          "x": 0.4208059210526316,
+          "y": 0.3061403475309673,
+          "w": 0.08881578947368421,
+          "h": 0.08947368421052632,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 5.4,
+      "end_time": 8.57,
+      "description": "His eyes widen and eyebrows raise significantly as he describes his line of sight. His mouth is slightly open.",
+      "bboxes": [
+        {
+          "frame_time": 6.849228,
+          "x": 0.37935855263157897,
+          "y": 0.2324561370046515,
+          "w": 0.1169407894736842,
+          "h": 0.06315789473684211,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 6.830107,
+          "x": 0.39120065789473685,
+          "y": 0.3587719264783357,
+          "w": 0.09177631578947369,
+          "h": 0.05263157894736842,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 8.57,
+      "end_time": 15.15,
+      "description": "The eyebrows return to a neutral, slightly tensed position. He maintains direct eye contact with a focused expression as he continues speaking.",
+      "bboxes": [
+        {
+          "frame_time": 12.46895,
+          "x": 0.3527138157894737,
+          "y": 0.19561403174149364,
+          "w": 0.1480263157894737,
+          "h": 0.08947368421052632,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 12.963848,
+          "x": 0.3615953947368421,
+          "y": 0.17192982121517783,
+          "w": 0.12730263157894736,
+          "h": 0.09736842105263158,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 13.492952,
+          "x": 0.3852796052631579,
+          "y": 0.14561403174149362,
+          "w": 0.13322368421052633,
+          "h": 0.25526315789473686,
+          "note": "face human-annotated",
+          "region": "face"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 5.4,
+      "description": "The subject stands, visible from the mid-torso up. He gestures with both hands in front of his chest, moving them in small, illustrative motions.",
+      "bboxes": [
+        {
+          "frame_time": 2.766924,
+          "x": 0.2964638157894737,
+          "y": 0.53508771595202,
+          "w": 0.2901315789473684,
+          "h": 0.45263157894736844,
+          "note": "human-annotated",
+          "region": "unknown"
+        },
+        {
+          "frame_time": 3.290764,
+          "x": 0.12179276315789472,
+          "y": 0.8271929791099146,
+          "w": 0.5417763157894737,
+          "h": 0.17105263157894737,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 5.4,
+      "end_time": 8.57,
+      "description": "He raises both hands to frame the sides of his face, with palms facing inward and fingers spread, to visually represent a narrow field of vision.",
+      "bboxes": [
+        {
+          "frame_time": 6.392682,
+          "x": 0.21208881578947367,
+          "y": 0.27456140016254627,
+          "w": 0.36562500000000003,
+          "h": 0.3263157894736842,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 6.392682,
+          "x": 0.2298519736842105,
+          "y": 0.31140350542570416,
+          "w": 0.3330592105263158,
+          "h": 0.24210526315789474,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 6.660053,
+          "x": 0.28314144736842106,
+          "y": 0.2403508738467568,
+          "w": 0.2738486842105263,
+          "h": 0.2131578947368421,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 8.57,
+      "end_time": 15.15,
+      "description": "He lowers his hands, making a series of smaller gestures. First, his right hand moves slightly forward, then his left hand gestures forward and away to his left. He brings both hands back toward his chest to emphasize his final point before the left hand gestures outward again.",
+      "bboxes": [
+        {
+          "frame_time": 11.564406,
+          "x": 0.10106907894736841,
+          "y": 0.648245610688862,
+          "w": 0.4307565789473684,
+          "h": 0.3157894736842105,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 10.741444,
+          "x": 0.04629934210526315,
+          "y": 0.5403508738467567,
+          "w": 0.31529605263157895,
+          "h": 0.3894736842105263,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 13.45988,
+          "x": 0.25057565789473685,
+          "y": 0.7587719264783357,
+          "w": 0.2886513157894737,
+          "h": 0.2026315789473684,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 11.80148,
+          "x": 0.11883223684210525,
+          "y": 0.7824561370046516,
+          "w": 0.4618421052631579,
+          "h": 0.2131578947368421,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 15.105241,
+          "x": 0.3023848684210526,
+          "y": 0.18508771595201995,
+          "w": 0.2546052631578947,
+          "h": 0.5,
+          "note": "human-annotated",
+          "region": "unknown"
+        },
+        {
+          "frame_time": 13.431871,
+          "x": 0.05666118421052631,
+          "y": 0.6824561370046516,
+          "w": 0.3582236842105263,
+          "h": 0.2736842105263158,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 4.87,
+      "description": "The subject speaks at a moderate pace with a relatively stable pitch and volume.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 4.87,
+      "end_time": 6.8,
+      "description": "Pitch rises and volume increases slightly to place emphasis on the word \"completely.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 6.8,
+      "end_time": 11.53,
+      "description": "The speech rate slows slightly, and he makes a brief pause of approximately 0.4 seconds after \"sight.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 11.53,
+      "end_time": 15.15,
+      "description": "The speaking pace remains deliberate. He places slight vocal stress on the phrase \"not quite as accurate.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.15,
+      "description": "The subject is a bald, fair-skinned male, wearing a black t-shirt, with a visible tattoo on his left forearm. He is in an indoor room with red walls, heavily decorated with Star Wars memorabilia. Visible items include a life-size Stormtrooper costume, a C-3PO figure, a lit BB-8 droid, a large R2-D2 themed lamp, a Han Solo cardboard cutout, and a Kenner poster. The lighting is from the front, with a strong, warm light source from the R2-D2 lamp on the right side of the frame.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 14.67693,
+      "end_time": 15.67693,
+      "description": "He is a Star Wars fan as the room is decorated with lots of Star Wars memorabilia.",
+      "bboxes": [
+        {
+          "frame_time": 15.17693,
+          "x": 0.10699013157894736,
+          "y": 0.166666663320441,
+          "w": 0.7223684210526315,
+          "h": 0.6605263157894737,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Medium",
+      "score": 0.5,
+      "rationale": "The subject's profile aligns with a Medium level of Extraversion, indicating a balance of introverted and extraverted traits (ambiversion). His use of frequent, illustrative hand gestures and vocal modulation to emphasize points demonstrates an outward-directed energy common in extraversion. However, this is counterbalanced by the consistent avoidance of direct eye contact and a generally neutral or concentrated facial expression, behaviors more commonly associated with introversion or a lower need for intense social stimulation.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "High",
+      "score": 0.65,
+      "rationale": "The subject scores High in Agreeableness, which is supported by his cooperative communication style. He makes a concerted effort to be understood, using clear, illustrative gestures—such as framing his face to visually represent a narrow field of vision—to help the listener share his experience. His deliberate, non-confrontational speech and willingness to share a personal vulnerability indicate a desire to build rapport and foster mutual understanding, which are hallmark behaviors of highly agreeable individuals.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "High",
+      "score": 0.6,
+      "rationale": "A High level of Conscientiousness is evident in the subject's structured and deliberate communication. His narrative is presented logically, outlining a situation, the resulting careful action, and the consequence. Audio cues confirm this thoughtful approach, noting a deliberate pace and intentional pauses. This methodical and considered manner of expression reflects a high degree of orderliness and thoughtfulness in his cognitive process, a core aspect of conscientiousness.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "High",
+      "score": 0.61,
+      "rationale": "The subject's High Neuroticism is primarily revealed through the content of his speech. He chooses to describe a situation that evokes caution, anxiety, and a perceived lack of accuracy ('walk forward very carefully,' 'not quite as accurate'). This focus on potential vulnerability and negative outcomes is a classic indicator of a neurotic disposition. This is further supported by non-verbal cues such as a 'slightly tense' state in his eyebrows and a persistent aversion of his gaze, which can physically manifest underlying feelings of anxiety or self-consciousness.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "Medium",
+      "score": 0.57,
+      "rationale": "The subject's Medium Openness is strongly indicated by the environment he has curated. The extensive collection of fantasy memorabilia (Star Wars) reveals a deep appreciation for and immersion in a world of imagination and complex narratives. His communication style also supports this, as he uses creative, illustrative gestures to convey an internal state. While these behaviors point to an imaginative mind, the personal and concrete nature of his monologue, focused on a physical sensation rather than abstract ideas, tempers the rating to a Medium level, suggesting a balance between imaginative pursuits and practical concerns.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During [5.4s - 8.6s], the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "High Extraversion, based on the use of energetic and outward-directed gesticulation."
+        },
+        {
+          "id": "B",
+          "text": "High Conscientiousness, given the careful and precise nature of the hand movements."
+        },
+        {
+          "id": "C",
+          "text": "High Openness, as this creative visual metaphor suggests a very imaginative thought process."
+        },
+        {
+          "id": "D",
+          "text": "High Neuroticism, since this specific gesture highlights a core source of personal anxiety."
+        },
+        {
+          "id": "E",
+          "text": "High Agreeableness, as the gesture aims to cooperatively aid a listener's understanding."
+        },
+        {
+          "id": "F",
+          "text": "Low Neuroticism, because the gesture is controlled and demonstrates an emotionally stable mindset."
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. During this interval, the person uses his hands to frame his face, visually illustrating the concept of a narrow field of vision he is describing. This action is a deliberate, cooperative effort to help the listener understand and share his experience, which is a key indicator of high Agreeableness.\n- Option A is a text-based distractor. While gesturing can be linked to extraversion, the primary intent here is clarification, not social energy, and his overall profile is Medium Extraversion.\n- Option B is a video-based distractor. The subject is rated High Conscientiousness, but this is supported by his structured speech and deliberate pacing throughout the video, not this specific illustrative gesture.\n- Option C is a near-miss distractor. The gesture is creative, which could relate to Openness. However, its primary function is cooperative communication (Agreeableness) rather than expressing an abstract idea (Openness), making Agreeableness a more direct fit.\n- Option D is a video-based distractor. The subject is rated High Neuroticism, but that trait is evidenced by his verbal content about inaccuracy and tense eyebrows later, not by this specific illustrative gesture.\n- Option F is a text-based distractor. It makes a plausible but incorrect inference that a controlled gesture must mean low neuroticism, which contradicts the overall personality analysis."
+    },
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their High Neuroticism level?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[1.5s - 2.5s]"
+        },
+        {
+          "id": "B",
+          "text": "[3.0s - 4.0s]"
+        },
+        {
+          "id": "C",
+          "text": "[6.5s - 7.5s]"
+        },
+        {
+          "id": "D",
+          "text": "[9.0s - 10.0s]"
+        },
+        {
+          "id": "E",
+          "text": "[12.0s - 13.0s]"
+        },
+        {
+          "id": "F",
+          "text": "[0.5s - 1.5s]"
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. Around 6.8s, as he describes his limited line of sight (a source of vulnerability), his eyes visibly widen. This change directly corresponds to the verbal content that underpins the High Neuroticism assessment, marking a key shift in expression related to the theme of caution and anxiety.\n- Option A is a video-based distractor. In this period, his face is neutral and his mouth moves with speech, but there is no notable emotional expression change.\n- Option B is a video-based distractor. In this interval, his hands are gesturing, but his facial expression remains stable and does not show a significant change.\n- Option D is a video-based distractor. This marks the transition back to a neutral/concentrated state after the illustrative gesture, which is less of a distinct expressive event.\n- Option E is a near-miss distractor. During this time, his eyebrows are in a 'slightly tense' state, which is relevant to Neuroticism. However, the question asks for a *change*, and this interval represents a sustained state, not the moment of transition.\n- Option F is a video-based distractor. Here, his gaze shifts right, but this is a subtle action and not a prominent change in his core facial expression."
+    },
+    {
+      "category": "Mixed Emotion Discrimination",
+      "question": "During [8.6s - 15.2s], the person's emotional state is best characterized as which of the following? Consider both verbal and non-verbal cues.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Deep-seated anxiety mixed with an undertone of personal frustration."
+        },
+        {
+          "id": "B",
+          "text": "Sudden surprise tempered by a brief but clear sense of confusion."
+        },
+        {
+          "id": "C",
+          "text": "Social discomfort combined with a subtle desire for a connection."
+        },
+        {
+          "id": "D",
+          "text": "Resigned sadness combined with a faint and overarching note of weariness."
+        },
+        {
+          "id": "E",
+          "text": "Mild apprehension tempered by a period of focused self-analysis."
+        },
+        {
+          "id": "F",
+          "text": "Regretful nostalgia combined with a very subtle hint of bitterness."
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. In this segment, the subject describes the consequence of his condition ('not quite as accurate'). His eyebrows are slightly tense, his expression is concentrated, and his speech is deliberate. This combination reflects 'mild apprehension' about the vulnerability he is describing, tempered by the controlled, 'focused self-analysis' evident in his conscientious delivery.\n- Option A is a near-miss distractor. While anxiety is present, 'deep-seated' and 'frustration' are too strong. His expression is controlled and focused, not overtly frustrated.\n- Option B is a video-based distractor. The 'surprise' (widened eyes) occurred in the preceding time segment [5.4s - 8.6s] and is not characteristic of this period.\n- Option C is a text-based distractor. 'Social discomfort' might be inferred from the averted gaze, but the topic is about a physical, not social, challenge, making this interpretation less likely.\n- Option D is a text-based distractor. While the topic has negative undertones, his expression and vocal energy appear deliberate and focused, not sad or weary.\n- Option F is a text-based distractor. The content of his speech is about a present-tense experience, not a past memory, making 'nostalgia' and 'bitterness' irrelevant."
+    },
+    {
+      "category": "Temporal-Causal Reasoning",
+      "question": "Consider the sequence of behaviors observed across the video. Which of the following best describes the causal chain linking the person's actions at different moments?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A confident assertion (~4s) requires a later self-correction (~6s), which then culminates in a display of intellectual humility (~13s)."
+        },
+        {
+          "id": "B",
+          "text": "A vulnerable disclosure (~13s) prompts a clarifying gesture (~6s) that provides context for an earlier narrative statement (~4s)."
+        },
+        {
+          "id": "C",
+          "text": "An initial narrative setup (~4s) triggers an anxious physical reaction (~6s), which is then justified by a final rationalization (~13s)."
+        },
+        {
+          "id": "D",
+          "text": "A narrative premise (~4s) leads to a self-soothing gesture (~6s) used to manage the stress of a subsequent vulnerable disclosure (~13s)."
+        },
+        {
+          "id": "E",
+          "text": "A narrative setup (~4s) prompts a clarifying gesture (~6s) to visually contextualize the vulnerable disclosure that follows later (~13s)."
+        },
+        {
+          "id": "F",
+          "text": "A social bid (~4s) is met with perceived judgment, causing a defensive posture (~6s) and then a quick deflection to a new topic (~13s)."
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. The person first sets up the narrative premise of walking in an area with unseen obstacles (~4s). This leads him to make an illustrative gesture (framing his face at ~6s) to clarify the experience for the listener. This clarification then provides the necessary context for his final point, a vulnerable disclosure about walking less accurately (~13s). The chain is: Premise → Clarification → Consequence/Disclosure.\n- Option A is a text-based distractor. The tone is never one of high confidence, and the gesture is an illustration, not a correction.\n- Option B is a distractor with reversed temporal order. It incorrectly places the disclosure (~13s) as the cause of the earlier gesture (~6s).\n- Option C is a distractor with incorrect causality. It misinterprets the illustrative gesture (~6s) as an 'anxious reaction' rather than a deliberate act of communication.\n- Option D is a near-miss distractor. It correctly identifies the temporal order but misinterprets the illustrative gesture (~6s) as a 'self-soothing' behavior. The gesture is clearly directed outward to the listener, not inward for self-comfort.\n- Option F is a text-based distractor. There is no evidence of perceived judgment, defensiveness, or a change of topic in the video."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around [11.6s], a region was detected in the video (x=0.101, y=0.648, w=0.431, h=0.316, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Natural mouth movement that is consistent with the subject's ongoing speech."
+        },
+        {
+          "id": "B",
+          "text": "Eyebrows held in what appears to be a mostly relaxed and neutral position."
+        },
+        {
+          "id": "C",
+          "text": "A quick, subtle aversion of the speaker's gaze away from the camera lens."
+        },
+        {
+          "id": "D",
+          "text": "Two hands held up on both sides of the face to create a framing gesture."
+        },
+        {
+          "id": "E",
+          "text": "A series of small and highly illustrative gestures made with both of the hands."
+        },
+        {
+          "id": "F",
+          "text": "A single, emphatic hand gesture that is used to emphasize one final point."
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. The specified bounding box at 11.6s covers the lower-central area of the frame where the person's hands are located. At this moment, he is actively using his hands to make a series of small, illustrative gestures to accompany his speech, which is precisely what is captured in the region.\n- Option A is a video-based distractor. The mouth is moving, but it is located in a different region (the face, higher up) than the specified bounding box.\n- Option B is a video-based distractor. The eyebrows are visible, but they are in the upper facial region, outside the specified bounding box.\n- Option C is a video-based distractor. The gaze aversion occurs in the eye region, which is located higher in the frame and not within this bounding box.\n- Option D is a video-based distractor. The gesture of framing the face occurs earlier in the video (around 6.4s), not at 11.6s.\n- Option F is a near-miss distractor. An emphatic hand gesture to make a final point *does* occur, but it happens later, around 15.1s. The action at 11.6s is part of a series of smaller, preceding gestures."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "Throughout the clip, the individual uses several gestures to structure his narrative. Which timestamp and bounding box combination best isolates the specific gesture used to add emphasis to his concluding statement?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[12.5s]  x=0.35, y=0.20, w=0.15, h=0.09"
+        },
+        {
+          "id": "B",
+          "text": "[6.4s]  x=0.21, y=0.27, w=0.37, h=0.33"
+        },
+        {
+          "id": "C",
+          "text": "[13.0s]  x=0.36, y=0.17, w=0.13, h=0.10"
+        },
+        {
+          "id": "D",
+          "text": "[6.7s]  x=0.28, y=0.24, w=0.27, h=0.21"
+        },
+        {
+          "id": "E",
+          "text": "[15.1s]  x=0.30, y=0.19, w=0.25, h=0.50"
+        },
+        {
+          "id": "F",
+          "text": "[2.5s]  x=0.40, y=0.15, w=0.14, h=0.08"
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. The question asks to identify the gesture that emphasizes his concluding statement. At 15.1s, as he finishes his point, he makes a final, definitive gesture that is captured by this bounding box. This action serves as the non-verbal punctuation to his verbal conclusion.\n- Option A points to the subject's eyebrows while they are in a tense state.\n- Option B points to the gesture where he frames his face, which occurs in the middle of his narrative, not at the conclusion.\n- Option C points to the subject's eyes as he averts his gaze.\n- Option D points to a slightly different moment of the face-framing gesture, which is not the concluding emphasis.\n- Option F points to the subject's eyebrows while they are in a relaxed state at the beginning of the video."
+    },
+    {
+      "category": "Counterfactual Reasoning",
+      "question": "If the person had NOT exhibited the behavior observed around [8.6s - 15.2s], which of the following personality assessments would be MOST affected?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Agreeableness would shift from High to Medium, as sharing this personal vulnerability is a primary sign of his cooperative, rapport-building intent."
+        },
+        {
+          "id": "B",
+          "text": "Conscientiousness would decrease, as this portion of his narrative reveals a significant lack of organized thought and clear, deliberate structure."
+        },
+        {
+          "id": "C",
+          "text": "Openness would increase from Medium, as removing this practical concern would lend more weight to the imaginative aspects of his environment."
+        },
+        {
+          "id": "D",
+          "text": "Neuroticism's assessment would be affected, as the tense eyebrow expression in this period is the key indicator of his underlying anxiety."
+        },
+        {
+          "id": "E",
+          "text": "Neuroticism would shift from High to a lower level, as the verbal admission of inaccuracy is the strongest evidence for his stated vulnerability."
+        },
+        {
+          "id": "F",
+          "text": "Extraversion would shift from Medium to Low, because this moment of open verbal sharing is a key indicator of his outward social energy."
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. The behavior in this segment includes the crucial verbal statement, '...it makes me walk not quite as accurate as I do.' This focus on potential vulnerability and negative outcomes is the primary evidence cited for the High Neuroticism rating. Removing this behavior would remove the strongest support for this trait assessment, likely causing it to be revised downward.\n- Option A is a text-based distractor. The strongest evidence for Agreeableness is the illustrative gesture at [5.4s - 8.6s], which would remain, so the assessment would be less affected.\n- Option B is a text-based distractor that makes a false claim; this part of the narrative is the logical conclusion of his structured point, so removing it wouldn't imply a lack of structure.\n- Option C is a video-based distractor. The evidence for Openness (the room decor) is static and independent of this behavior; removing the behavior wouldn't change the evidence for Openness.\n- Option D is a near-miss distractor. It correctly identifies the trait (Neuroticism) and time, but it incorrectly pinpoints the 'tense eyebrow expression' as the *key* indicator. The verbal content is cited as the primary evidence, making it more significant than the subtle eyebrow tension.\n- Option F is a text-based distractor. The Extraversion score is a balance of gestures and gaze aversion; removing this verbal component would have a minimal impact compared to its effect on the Neuroticism score."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator06",
+      "version": 1,
+      "clues_total": 27,
+      "clues_correct": 18,
+      "clues_wrong_corrected": 7,
+      "clues_missing_skipped": 1,
+      "clues_bonus": 1
+    }
+  }
+}

@@ -1,0 +1,352 @@
+{
+  "video_id": "B-OJ_xZILLg.004.mp4",
+  "video_path": "B-OJ_xZILLg.004.mp4",
+  "transcription": "... is sold to you best? (sigh) Hang on. I'll read the rest of it before, actually let me just expand-there we go-ah, this is a good way of doing it since it means the more popular-",
+  "original_scores": {
+    "extraversion": 0.30841121495327106,
+    "agreeableness": 0.25274725274725274,
+    "conscientiousness": 0.31067961165048547,
+    "neuroticism": 0.3125,
+    "openness": 0.2
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 15.34,
+      "description": "The subject's gaze is consistently directed down and to his right, away from the camera. His mouth moves in sync with his speech. His overall facial expression remains neutral and focused, with no significant movement in his eyebrows or other facial muscles, apart from a brief mouth closure and opening during a sigh around 00:03.",
+      "bboxes": [
+        {
+          "frame_time": 6.822338,
+          "x": 0.529320987654321,
+          "y": 0.28692272170580957,
+          "w": 0.20679012345679013,
+          "h": 0.3100137174211248,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 8.107241,
+          "x": 0.5925925925925926,
+          "y": 0.6106538602517629,
+          "w": 0.18518518518518517,
+          "h": 0.2825788751714678,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 8.107241,
+          "x": 0.5555555555555556,
+          "y": 0.17992683693214698,
+          "w": 0.22839506172839505,
+          "h": 0.7901234567901234,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 3.049579,
+          "x": 0.5308641975308642,
+          "y": 0.6380887025014199,
+          "w": 0.18055555555555555,
+          "h": 0.31824417009602196,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 12.109315,
+          "x": 0.595679012345679,
+          "y": 0.32258801663036374,
+          "w": 0.1111111111111111,
+          "h": 0.2716049382716049,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 15.34,
+      "description": "The subject is filmed from the chest up in a profile view. His head is turned to his right and remains in a fixed position throughout the clip, with only minor movements related to speech.",
+      "bboxes": [
+        {
+          "frame_time": 12.109315,
+          "x": 0.24074074074074073,
+          "y": 0.03452217300896455,
+          "w": 0.5108024691358025,
+          "h": 0.9327846364883402,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 12.109315,
+          "x": 0.27469135802469136,
+          "y": 0.0564700468086902,
+          "w": 0.5123456790123457,
+          "h": 0.8806584362139918,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 1.48,
+      "description": "Speech is delivered at a moderate pace with a falling pitch on the word \"best\".",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 2.87,
+      "end_time": 3.75,
+      "description": "A soft, breathy sigh is audible, followed by a pause.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 5.48,
+      "end_time": 10.74,
+      "description": "The subject speaks at a moderate, even pace and pitch, with a brief hesitation at the beginning. The phrase \"there we go\" is spoken slightly faster with a more dynamic pitch.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 11.23,
+      "end_time": 15.34,
+      "description": "Speech resumes at a steady, moderate pace and stable pitch.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.34,
+      "description": "The subject is a young man with dark skin, short black hair, and a short beard. He is wearing a white shirt with a dark collar. He is in an indoor setting with dim lighting. The background features white shelves filled with a large collection of boxed action figures and collectibles. A small Dragon Ball Z figurine is visible on a wooden surface in the lower-left corner.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Low",
+      "score": 0.31,
+      "rationale": "The subject's score indicates Low Extraversion. This is strongly supported by his reserved demeanor. His persistent gaze aversion, keeping his eyes down and away from the camera, is a classic sign of introversion and discomfort with social focus. Furthermore, his minimal body and head movement, coupled with a generally neutral facial expression, suggest a low level of social energy. His speech is moderate and even, rather than loud or boisterous, reinforcing the assessment of an introverted temperament.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Low",
+      "score": 0.25,
+      "rationale": "The subject scores Low in Agreeableness. This is evidenced by his detached, task-focused presentation. His facial expression remains neutral and focused on his screen, lacking affiliative signals like smiling or softened features that would indicate a stronger orientation toward social harmony. The soft sigh can be interpreted as a subtle expression of impatience with the task, prioritizing procedural correctness over maintaining a consistently pleasant social front, which is characteristic of lower Agreeableness.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Low",
+      "score": 0.31,
+      "rationale": "The score points to Low Conscientiousness. This is reflected in the subject's apparently spontaneous and unprepared approach to the task. The need to pause and adjust the text on-screen ('Hang on... let me just expand') suggests a lack of meticulous preparation. A highly conscientious individual would likely have ensured all materials were in order prior to starting. This on-the-fly problem-solving indicates a more flexible and less structured work style, consistent with a lower conscientiousness score.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Low",
+      "score": 0.31,
+      "rationale": "The subject's Low Neuroticism score is consistent with his high degree of emotional stability. When faced with a minor technical hurdle, his reaction is calm and measured—a soft sigh followed by a practical solution. There are no indicators of anxiety, stress, or significant frustration in his voice or facial expression. His stable vocal pitch and relaxed, neutral demeanor throughout the clip demonstrate a capacity to handle minor setbacks without emotional reactivity.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "Low",
+      "score": 0.2,
+      "rationale": "The subject scores Low in Openness to Experience. This is supported by his highly pragmatic and conventional behavior in the clip. His verbalizations are direct and task-oriented, focused on the mechanics of the process ('this is a good way of doing it') rather than exploring ideas or using imaginative language. His affect is consistently neutral and lacks the expressive dynamism often associated with high openness. While his background of collectibles may suggest interests in fantasy, his active behaviors in this context are concrete and grounded, aligning with the low score.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During 2.9s - 8.0s, the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A considerably low level of Conscientiousness."
+        },
+        {
+          "id": "B",
+          "text": "A significantly high level of Extraversion."
+        },
+        {
+          "id": "C",
+          "text": "A substantially high level of Neuroticism."
+        },
+        {
+          "id": "D",
+          "text": "A markedly low level of Extraversion."
+        },
+        {
+          "id": "E",
+          "text": "A notably high level of Agreeableness."
+        },
+        {
+          "id": "F",
+          "text": "A considerably low level of Openness."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. During this interval, the person sighs softly (2.9s), pauses, and then says 'Hang on... let me just expand' (starting around 5.5s). This sequence demonstrates a lack of meticulous preparation and an on-the-fly adjustment to the task, which is a key behavioral indicator for Low Conscientiousness.\n\n- Option B is a text-based distractor. One might associate speaking with extraversion, but the person's overall demeanor (gaze aversion, reserved tone) throughout the video points strongly to Low Extraversion.\n- Option C is a near-miss distractor. The sigh could be misinterpreted as a sign of stress or anxiety (High Neuroticism), but the person's overall calm demeanor and efficient problem-solving suggest emotional stability (Low Neuroticism) instead.\n- Option D is a video-based distractor. While the person does exhibit Low Extraversion, the primary evidence for this trait is the persistent gaze aversion seen throughout the entire video, not the specific problem-solving actions in this particular time segment.\n- Option E is a text-based distractor. High Agreeableness would likely involve more socially oriented cues (e.g., smiling, reassuring tone), which are absent here. The person's behavior is task-focused and detached.\n- Option F is a video-based distractor. The person is assessed as having Low Openness, but this is supported by his pragmatic language, not by the act of adjusting the screen."
+    },
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their Low Agreeableness level?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[02.8s - 03.9s]"
+        },
+        {
+          "id": "B",
+          "text": "[00.5s - 01.6s]"
+        },
+        {
+          "id": "C",
+          "text": "[05.7s - 06.8s]"
+        },
+        {
+          "id": "D",
+          "text": "[08.2s - 09.3s]"
+        },
+        {
+          "id": "E",
+          "text": "[11.0s - 12.1s]"
+        },
+        {
+          "id": "F",
+          "text": "[14.1s - 15.2s]"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. The interval [02.8s - 03.9s] captures the soft, audible sigh and the corresponding brief mouth movement. This micro-expression is interpreted in the personality analysis as a subtle sign of impatience with the task, which is a key indicator supporting the Low Agreeableness assessment.\n\n- Option B is a video-based distractor. During this interval, the person is speaking the word 'best?', which involves normal articulatory movement but not a distinct micro-expression relevant to agreeableness.\n- Option C is a video-based distractor. This interval captures the person beginning to speak after a pause. His facial expression remains neutral and focused.\n- Option D is a near-miss distractor. This interval covers the phrase 'there we go', which has a slightly more dynamic tone but is not accompanied by a notable facial micro-expression of emotion; it's a verbal self-confirmation.\n- Option E is a video-based distractor. In this period, the person is speaking with a neutral and focused expression, showing no significant emotional change.\n- Option F is a video-based distractor. This interval is at the very end of the clip, where the person's expression remains consistently neutral and task-focused."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 12.1s, a region was detected in the video (x=0.275, y=0.056, w=0.512, h=0.881, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A stable head posture that is consistently oriented to the side."
+        },
+        {
+          "id": "B",
+          "text": "Eyes maintaining a steady, downward and sideways gaze direction."
+        },
+        {
+          "id": "C",
+          "text": "A generally neutral and focused expression across the whole face."
+        },
+        {
+          "id": "D",
+          "text": "A very subtle frowning expression showing deep concentration."
+        },
+        {
+          "id": "E",
+          "text": "A slight, continuous nodding motion suggesting engagement."
+        },
+        {
+          "id": "F",
+          "text": "Articulatory mouth movements synchronized with verbal output."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. The provided bounding box covers the person's entire head. According to the observation log, the head is 'turned to the right and remains in a fixed position throughout the clip'. Option A accurately describes this overall posture and lack of significant movement.\n\n- Option B is a video-based distractor. While true that the eyes have a downward/sideways gaze, this describes a sub-region (the eyes) within the larger head bounding box and doesn't capture the state of the entire region (the head's posture).\n- Option C is a near-miss distractor. The facial expression is indeed neutral and focused. However, 'stable head posture' is a more comprehensive description for the entire head region, as it includes the head's orientation in space, which is a primary feature noted in the observations.\n- Option D is a text-based distractor. The observation log explicitly states 'eyebrows or other facial muscles show no significant movement', contradicting the idea of a frown.\n- Option E is a text-based distractor. The video shows the person's head is very still, not nodding. This describes a behavior that does not occur.\n- Option F is a video-based distractor. The mouth is moving with speech, but like the eyes, this describes the action of a small part of the head, not the overall state of the head region specified by the large bounding box."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "At which specific moment and location does the person display a brief, non-verbal oral gesture indicative of a minor emotional or cognitive shift?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[03.0s] at region (x=0.531, y=0.638, w=0.181, h=0.318)"
+        },
+        {
+          "id": "B",
+          "text": "[08.1s] at region (x=0.593, y=0.611, w=0.185, h=0.283)"
+        },
+        {
+          "id": "C",
+          "text": "[06.8s] at region (x=0.529, y=0.287, w=0.207, h=0.310)"
+        },
+        {
+          "id": "D",
+          "text": "[03.0s] at region (x=0.596, y=0.323, w=0.111, h=0.272)"
+        },
+        {
+          "id": "E",
+          "text": "[12.1s] at region (x=0.275, y=0.056, w=0.512, h=0.881)"
+        },
+        {
+          "id": "F",
+          "text": "[01.3s] at region (x=0.531, y=0.638, w=0.181, h=0.318)"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. The question asks for a non-verbal oral gesture indicating a shift. The sigh at ~3.0s fits this description perfectly. The provided timestamp and bounding box correctly localize the mouth during this brief, non-speech event.\n\n- Option B is a video-based distractor. This correctly localizes the mouth, but at 8.1s, the person is speaking ('there we go'), so the mouth movement is verbal, not the non-verbal gesture requested.\n- Option C is a video-based distractor. This correctly identifies a facial feature (the eyes) but is the wrong body part for an 'oral gesture'.\n- Option D is a near-miss distractor. It has the correct timestamp for the sigh (3.0s), but the bounding box is incorrect, pointing to the eyebrow region rather than the mouth.\n- Option E is a video-based distractor. The timestamp is much later in the video, and the bounding box covers the entire head, not a specific oral gesture.\n- Option F is a near-miss distractor. It has the correct bounding box for the mouth, but the timestamp (1.3s) is wrong; at this moment, the person is speaking normally."
+    },
+    {
+      "category": "Counterfactual Reasoning",
+      "question": "If the person had NOT exhibited the behavior observed around 5.0s - 10.0s, which of the following personality assessments would be MOST affected?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The Low Extraversion assessment would be less certain, as this period contains key evidence of social gaze avoidance, a primary indicator of introversion."
+        },
+        {
+          "id": "B",
+          "text": "The Low Agreeableness score would be much less definitive, as the main sign of subtle impatience is directly observed during that particular time interval."
+        },
+        {
+          "id": "C",
+          "text": "The Low Conscientiousness rating would be weakened, since the clearest example of his on-the-fly problem-solving happens within this specified time frame."
+        },
+        {
+          "id": "D",
+          "text": "The assessment of Low Extraversion would shift from Low to High, because lacking this behavior would imply strong social confidence and direct engagement."
+        },
+        {
+          "id": "E",
+          "text": "The Low Neuroticism assessment would lose its basis, as his calm and steady problem-solving response is most apparent in this specific time segment."
+        },
+        {
+          "id": "F",
+          "text": "The Low Openness score would need major revision, as the pragmatic, task-focused language used in this period is central to that trait's final assessment."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The correct answer is A. The most prominent and consistent behavior throughout the video, including the 5.0s-10.0s window, is the persistent downward and away gaze. This gaze aversion is cited as the strongest evidence for Low Extraversion. Removing this behavior would significantly weaken the foundation for that specific trait assessment, making it less certain.\n\n- Option B is a video-based distractor. The key behavior for Low Agreeableness (the sigh) occurs around 3.0s, which is outside the specified 5.0s-10.0s window.\n- Option C is a video-based distractor. While the person is problem-solving in this window ('let me just expand'), the evidence for Low Conscientiousness is the entire sequence starting with the sigh at 3s. Furthermore, the gaze aversion is a more continuous and defining behavior of this specific interval.\n- Option D is a near-miss distractor. It correctly identifies the trait (Extraversion) but makes an incorrect and overly strong claim about the effect. Removing evidence for 'Low' does not automatically prove 'High'; it simply reduces the confidence in the 'Low' assessment.\n- Option E is a text-based distractor. The assessment of Low Neuroticism is primarily based on his calm reaction to the hurdle at ~3s, not his general speaking demeanor between 5s and 10s.\n- Option F is a text-based distractor. While his language is pragmatic, this is true for the entire clip. The visual behavior of gaze aversion in this window is more specific and impactful on the Extraversion score than the verbal content is on the Openness score."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [
+      {
+        "check": "A",
+        "q_idx": 6,
+        "issue": "The correct answer 'A' claims the 5s-10s interval contains key evidence for Low Extraversion (gaze avoidance). However, the observation notes state that gaze avoidance is persistent throughout the entire clip, not specific to this interval. The behavior that IS specific to this interval is the on-the-fly adjustment ('let me just expand'), which is the primary evidence cited for the Low Conscientiousness score. Therefore, option C is the logically correct answer.",
+        "action": "Changed correct_answer from 'A' to 'C'."
+      }
+    ],
+    "corrections": {
+      "mcq_questions[6].correct_answer": "C"
+    },
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator08",
+      "version": 1,
+      "clues_total": 12,
+      "clues_correct": 11,
+      "clues_wrong_corrected": 1,
+      "clues_missing_skipped": 0,
+      "clues_bonus": 0
+    }
+  }
+}

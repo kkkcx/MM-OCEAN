@@ -1,0 +1,316 @@
+{
+  "video_id": "j5fXaXrNPoA.002.mp4",
+  "video_path": "j5fXaXrNPoA.002.mp4",
+  "transcription": "... when someone was criticizing me, or being a bit rude, or maybe having prejudice about what it is to be vegan. I think, also, now it's much more accepted to be vegan than it was just eight years ago, so I hardly ever-",
+  "original_scores": {
+    "extraversion": 0.37383177570093457,
+    "agreeableness": 0.4505494505494505,
+    "conscientiousness": 0.6019417475728155,
+    "neuroticism": 0.4791666666666667,
+    "openness": 0.5555555555555556
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 15.02,
+      "description": "The subject maintains direct eye contact with the camera throughout. Their eyebrows are in a neutral-to-slightly-raised position. The mouth moves naturally with speech, with lips slightly pursed at the end of some words. There are several blinks at a normal pace.",
+      "bboxes": [
+        {
+          "frame_time": 8.842614,
+          "x": 0.3734567901234568,
+          "y": 0.2540009110062211,
+          "w": 0.1388888888888889,
+          "h": 0.10425240054869685,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 12.122647,
+          "x": 0.36419753086419754,
+          "y": 0.24577045833132394,
+          "w": 0.15895061728395063,
+          "h": 0.05212620027434842,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 7.381978,
+          "x": 0.404320987654321,
+          "y": 0.3966620907044378,
+          "w": 0.07561728395061729,
+          "h": 0.04938271604938271,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 12.536132,
+          "x": 0.38425925925925924,
+          "y": 0.25125742678125534,
+          "w": 0.11574074074074074,
+          "h": 0.09053497942386832,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 15.02,
+      "description": "The subject is shown from the chest up, facing the camera. Their left hand holds a clear glass mug. Their right hand gestures continuously to emphasize their speech; the hand is mostly open, palm facing upwards or inwards, moving in small, fluid arcs. The head has very subtle side-to-side and nodding movements that follow the rhythm of the speech.",
+      "bboxes": [
+        {
+          "frame_time": 12.536132,
+          "x": 0.32098765432098764,
+          "y": 0.059213531033655904,
+          "w": 0.24382716049382716,
+          "h": 0.9407864689663441,
+          "note": "human-annotated",
+          "region": "unknown"
+        },
+        {
+          "frame_time": 12.536132,
+          "x": 0.27469135802469136,
+          "y": 0.7149062608004597,
+          "w": 0.2345679012345679,
+          "h": 0.2850937391995403,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 2.433921,
+          "x": 0.4799382716049383,
+          "y": 0.5887059864520372,
+          "w": 0.23919753086419754,
+          "h": 0.3731138545953361,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 4.568256,
+          "x": 0.3410493827160494,
+          "y": 0.048239594133793084,
+          "w": 0.19598765432098766,
+          "h": 0.532235939643347,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 6.22,
+      "description": "Speech is delivered at a moderate, even pace with a clear, mid-range pitch. There is slight emphasis and a rise in pitch on the words \"criticizing\" and \"rude.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 8.01,
+      "end_time": 14.88,
+      "description": "The speaking pace remains moderate. The pitch rises on \"much more accepted\" and falls slightly on \"eight years ago.\" The phrase \"hardly ever-\" is cut off at the end of the segment.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.02,
+      "description": "The subject is a person with fair skin and short, bleached-blonde hair pulled back into a small top knot. They have distinct black winged eyeliner. They are wearing a black tank top under a loose white short-sleeved shirt. A small black lavalier microphone is clipped to the tank top. The background consists of a draped, wrinkled white sheet. The lighting is bright and cool-toned, creating a high-key effect.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Low",
+      "score": 0.37,
+      "rationale": "The subject's Extraversion is rated as Low. Although they are recording a video for an audience, their demeanor is more reserved and reflective. The vocal delivery is at a moderate, even pace, lacking the high energy and rapid speech often associated with high extraversion. While the left hand gestures, the right hand remains occupied holding a glass, which can limit expressive range and act as a self-regulating behavior. The gestures themselves are described as 'small and fluid arcs,' suggesting controlled energy rather than broad, expansive movements.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Medium",
+      "score": 0.45,
+      "rationale": "The subject's Agreeableness is rated as Medium. When discussing a topic of social friction (criticism, rudeness), their tone is measured and non-confrontational. The use of open-handed gestures with the palm facing inward or upward is a pro-social cue that signals a cooperative and non-threatening stance. However, they are direct in their description of negative behavior, and the slight tightening of the lips at the end of some words may indicate a controlled response rather than the full emotional accommodation characteristic of very high agreeableness.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "High",
+      "score": 0.6,
+      "rationale": "The subject's Conscientiousness is rated as High. The setup for the video demonstrates clear forethought and preparation. The use of a lavalier microphone indicates attention to technical quality, and the creation of a deliberate, neutral background suggests a planned approach. The subject's speech is articulate and structured, logically connecting past personal experiences with broader societal acceptance over time. This methodical communication and attention to detail in presentation are strong indicators of a conscientious personality.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Medium",
+      "score": 0.48,
+      "rationale": "The subject's Neuroticism is rated as Medium. They are discussing an emotionally sensitive topic involving past criticism and prejudice. The constant, subtle eye movements suggest they are actively accessing memory and engaging in internal processing, which can be linked to emotional sensitivity. Additionally, holding a glass can serve as a grounding object to manage the mild stress of the topic. However, their overall emotional expression is well-regulated, with a steady voice and calm posture, indicating they are not overwhelmed by anxiety, thus placing them in the medium range.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "Medium",
+      "score": 0.56,
+      "rationale": "The subject's Openness is rated as Medium. The willingness to discuss a non-mainstream lifestyle (veganism) and its social implications reflects an engagement with alternative ideas. Their distinct personal aesthetic, including bleached hair and prominent eyeliner, signals an appreciation for self-expression. However, the presentation format is a conventional 'talking head' style, and the environment is simple and unadorned. The conversation is a personal reflection rather than a deeply abstract or intellectual exploration, suggesting a moderate level of openness.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During [0.0s - 15.0s], the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A high level of personal Agreeableness and social grace."
+        },
+        {
+          "id": "B",
+          "text": "A high level of personal Extraversion and social energy."
+        },
+        {
+          "id": "C",
+          "text": "A high level of personal Neuroticism and emotionality."
+        },
+        {
+          "id": "D",
+          "text": "A low level of personal Conscientiousness and planning."
+        },
+        {
+          "id": "E",
+          "text": "A high level of personal Conscientiousness and foresight."
+        },
+        {
+          "id": "F",
+          "text": "A low level of personal Extraversion and social presence."
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. The analysis highlights High Conscientiousness based on evidence of clear preparation: the deliberate neutral background, use of a lavalier microphone for audio quality, and articulate, structured speech. These elements, visible throughout the clip, point to foresight and methodical planning.\n\n- Option A is a text-based distractor. The person discusses social friction (criticism) in a measured way, which might suggest Agreeableness, but the analysis rates it as Medium, not High, due to controlled responses.\n- Option B is a text-based distractor. The act of recording a video for an audience might imply Extraversion, but the visual and vocal cues (moderate pace, controlled gestures, reserved demeanor) contradict this and point to low extraversion.\n- Option C is a video-based distractor. The person discusses a stressful topic and uses a grounding object (the glass), which are signs related to Neuroticism. However, their overall calm regulation points to a medium, not high, level, and the evidence for planning (Conscientiousness) is stronger.\n- Option D is a near-miss distractor. It correctly identifies the relevant personality dimension (Conscientiousness) but suggests the opposite direction (Low), directly contradicting the strong visual evidence of planning and preparation.\n- Option F is a video-based distractor. The analysis does conclude the person has Low Extraversion. However, the question asks what is *most directly* supported. The evidence for meticulous planning and setup (Conscientiousness) is a more prominent and defining behavioral pattern across the clip than the evidence for low energy."
+    },
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their Medium Agreeableness level?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[2.0s - 2.8s]"
+        },
+        {
+          "id": "B",
+          "text": "[4.2s - 5.0s]"
+        },
+        {
+          "id": "C",
+          "text": "[9.7s - 10.5s]"
+        },
+        {
+          "id": "D",
+          "text": "[12.1s - 12.9s]"
+        },
+        {
+          "id": "E",
+          "text": "[7.1s - 7.9s]"
+        },
+        {
+          "id": "F",
+          "text": "[0.5s - 1.3s]"
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. The personality analysis notes that a 'slight tightening of the lips at the end of some words may indicate a controlled response rather than the full emotional accommodation characteristic of very high agreeableness.' This controlled response is a key indicator of their Medium Agreeableness. The observation log places a bounding box on the mouth at 7.4s, noting this exact behavior as they finish the phrase '...prejudice about what it is to be vegan.'\n\n- Option A is a video-based distractor. This interval covers a prominent hand gesture used for emphasis at 2.4s, which is a real event but related more to Extraversion or communication style than the specific facial cue for controlled emotion.\n- Option B is a video-based distractor. This interval corresponds to a subtle head nod observed around 4.6s, which follows the rhythm of speech but is not the key micro-expression indicating emotional control.\n- Option C is a video-based distractor. During this time, the speaker's pitch rises on 'much more accepted,' indicating a shift in topic, but it does not contain the specific micro-expression of lip tightening.\n- Option D is a video-based distractor. This interval covers a normal eye blink observed around 12.5s, which is a natural action and not the specific cue of emotional regulation mentioned in the analysis.\n- Option F is a text-based distractor. This interval marks the beginning of their speech, which is a plausible location for an expression, but the key micro-expression related to the controlled response occurs later when discussing the specific prejudice."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 8.8s, a region was detected in the video (x=0.373, y=0.254, w=0.139, h=0.104, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A subtle, rhythmic nodding motion of the entire head region."
+        },
+        {
+          "id": "B",
+          "text": "Direct and sustained eye contact with the camera's lens."
+        },
+        {
+          "id": "C",
+          "text": "An open-handed gesture being used for verbal emphasis now."
+        },
+        {
+          "id": "D",
+          "text": "Slightly raised eyebrows indicating a moment of questioning."
+        },
+        {
+          "id": "E",
+          "text": "A shifting and searching eye gaze, moving around the area."
+        },
+        {
+          "id": "F",
+          "text": "A momentary, rapid, and complete closing of the eyelids."
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. The provided bounding box at 8.8s isolates the person's eyes. The observation log for the eyes explicitly states: The subject's eyes move up, down, left, and right throughout the process. This corresponds to a shifting and searching gaze, likely as they access memory or formulate thoughts.\n\n- Option A is a video-based distractor. A head nod is observed, but the specified bounding box is too small and positioned too low to contain the entire head's motion; it specifically targets the eyes.\n- Option B is a near-miss distractor. It correctly identifies the body part (eyes) but describes the opposite behavior. The 'Near-Miss Distractor Material' explicitly corrects the AI error of 'direct eye contact' to 'eyes moving around.'\n- Option C is a video-based distractor. Hand gestures occur, but they are located in the lower half of the frame, far outside the specified facial bounding box.\n- Option D is a video-based distractor. The eyebrows are just above the specified bounding box. While eyebrow movement is observed, it is not the action occurring *within* the given coordinates.\n- Option F is a near-miss distractor. Blinking is a real action involving the eyes, but the primary, continuous action described for this segment is gaze shifting, not a discrete blink."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "Which of the following options correctly identifies the time and location of a small, fluid, open-handed gesture used for emphasis?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Time: 8.8s, Bbox: [x=0.373, y=0.254, w=0.139, h=0.104]"
+        },
+        {
+          "id": "B",
+          "text": "Time: 4.6s, Bbox: [x=0.341, y=0.048, w=0.196, h=0.532]"
+        },
+        {
+          "id": "C",
+          "text": "Time: 7.4s, Bbox: [x=0.404, y=0.397, w=0.076, h=0.049]"
+        },
+        {
+          "id": "D",
+          "text": "Time: 12.5s, Bbox: [x=0.275, y=0.715, w=0.235, h=0.285]"
+        },
+        {
+          "id": "E",
+          "text": "Time: 2.4s, Bbox: [x=0.480, y=0.589, w=0.239, h=0.373]"
+        },
+        {
+          "id": "F",
+          "text": "Time: 12.5s, Bbox: [x=0.480, y=0.589, w=0.239, h=0.373]"
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "The correct answer is E. The observation log states: '[hands] The left hand constantly gestures to emphasize what they are saying...bbox@2.4s: x=0.480,y=0.589,w=0.239,h=0.373'. This entry precisely matches the description of a small, fluid hand gesture and provides the exact time and coordinates listed in option E.\n\n- Option A is a video-based distractor. These coordinates and timestamp correspond to the location of the person's eyes as they shift their gaze.\n- Option B is a video-based distractor. These coordinates and timestamp correspond to the person's head as it makes a subtle movement.\n- Option C is a video-based distractor. These coordinates and timestamp correspond to the person's mouth as their lips tighten slightly.\n- Option D is a near-miss distractor. It has the correct timestamp for a gesture, but the bounding box corresponds to the *right* hand holding the glass, not the *left* hand performing the emphatic gesture. This is a subtle spatial error.\n- Option F is a near-miss distractor. It uses the correct bounding box for the left hand's gesture, but it pairs it with an incorrect timestamp (12.5s), making it a temporal error."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [
+      {
+        "check": "B",
+        "q_idx": 5,
+        "issue": "The correct answer (E) points to the time and location of the subject's right hand holding a glass, but the question asks for the location of an 'open-handed gesture used for emphasis'. According to the observation records, the gesturing is done by the left hand, whose coordinates match option D, but at a different timestamp (12.5s).",
+        "action": "Corrected the timestamp in option D to match the observation record for the gesturing hand and designated it as the new correct answer."
+      }
+    ],
+    "corrections": {
+      "mcq_questions[5].options[3].text": "Time: 12.5s, Bbox: [x=0.275, y=0.715, w=0.235, h=0.285]",
+      "mcq_questions[5].correct_answer": "D"
+    },
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator08",
+      "version": 1,
+      "clues_total": 11,
+      "clues_correct": 5,
+      "clues_wrong_corrected": 6,
+      "clues_missing_skipped": 0,
+      "clues_bonus": 0
+    }
+  }
+}

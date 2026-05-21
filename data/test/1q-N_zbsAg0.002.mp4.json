@@ -1,0 +1,350 @@
+{
+  "video_id": "1q-N_zbsAg0.002.mp4",
+  "video_path": "1q-N_zbsAg0.002.mp4",
+  "transcription": "I would say psychology. I've always been interested in all those kind of things about human beings, emotions and feelings. Anything like that. I think ...",
+  "original_scores": {
+    "extraversion": 0.5981308411214954,
+    "agreeableness": 0.5824175824175825,
+    "conscientiousness": 0.4660194174757281,
+    "neuroticism": 0.4791666666666667,
+    "openness": 0.5
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 1.95,
+      "description": "The subject's gaze is directed up and to her right. Her eyebrows are slightly raised and her mouth is open as she speaks.",
+      "bboxes": [
+        {
+          "frame_time": 0.785859,
+          "x": 0.2624177631578947,
+          "y": 0.13245613700465153,
+          "w": 0.2945723684210526,
+          "h": 0.1736842105263158,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 1.21025,
+          "x": 0.3157072368421053,
+          "y": 0.12719297910991467,
+          "w": 0.18207236842105262,
+          "h": 0.10526315789473684,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 1.132149,
+          "x": 0.3201480263157895,
+          "y": 0.4008771896362305,
+          "w": 0.2042763157894737,
+          "h": 0.12631578947368421,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 1.95,
+      "end_time": 2.75,
+      "description": "Her gaze shifts slightly down and toward the center before returning to the upper right. Her eyebrows lower slightly.",
+      "bboxes": [
+        {
+          "frame_time": 2.049998,
+          "x": 0.28758223684210527,
+          "y": 0.12456140016254626,
+          "w": 0.24276315789473685,
+          "h": 0.15263157894736842,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 2.75,
+      "end_time": 11.2,
+      "description": "She maintains her gaze upwards and to her right, with a consistently contemplative expression as she speaks.",
+      "bboxes": [
+        {
+          "frame_time": 3.902769,
+          "x": 0.27870065789473686,
+          "y": 0.22456140016254625,
+          "w": 0.26644736842105265,
+          "h": 0.1868421052631579,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 6.827537,
+          "x": 0.29498355263157894,
+          "y": 0.12719297910991467,
+          "w": 0.22351973684210527,
+          "h": 0.5421052631578948,
+          "note": "face human-annotated",
+          "region": "face"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 11.2,
+      "end_time": 15.18,
+      "description": "Her gaze shifts down and to the center, looking directly forward. Her facial muscles remain relaxed.",
+      "bboxes": [
+        {
+          "frame_time": 14.467474,
+          "x": 0.3068256578947368,
+          "y": 0.2324561370046515,
+          "w": 0.21759868421052633,
+          "h": 0.15263157894736842,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 14.351035,
+          "x": 0.2935032894736842,
+          "y": 0.2140350843730726,
+          "w": 0.24868421052631579,
+          "h": 0.4868421052631579,
+          "note": "face human-annotated",
+          "region": "face"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 15.18,
+      "description": "The subject is shown from the chest up. Her head remains tilted slightly to her left throughout the clip with minimal other movement.",
+      "bboxes": [
+        {
+          "frame_time": 3.458914,
+          "x": 0.2609375,
+          "y": 0.2035087685835989,
+          "w": 0.28717105263157894,
+          "h": 0.7894736842105263,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 3.458914,
+          "x": 0.21356907894736843,
+          "y": 0.2035087685835989,
+          "w": 0.5269736842105264,
+          "h": 0.781578947368421,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 2.2,
+      "description": "The subject speaks at a moderate pace, with a rising pitch on the word \"psychology.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 2.2,
+      "end_time": 8,
+      "description": "The speech becomes slightly more hesitant, with a filled pause (\"um\") at 4.5 seconds. The tone is reflective.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 8,
+      "end_time": 15.18,
+      "description": "The speech rate returns to a moderate, steady pace. The pitch remains relatively level with a slight rise on listed items like \"emotions\" and \"feelings.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.18,
+      "description": "The subject is a young woman with brown skin, dark eyes, and dark, shoulder-length hair. She is wearing a light grey hooded sweatshirt over a grey t-shirt, with a silver necklace and a pearl pendant. The setting is an indoor room with warm lighting from the front left. A white wall and a white wardrobe with a patterned mirror are visible in the background. On the far left, a lamp on a nightstand can be seen.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 14.80195,
+      "end_time": 15.80195,
+      "description": "The subject has dark eyes with obvious dark circles under the eyes.",
+      "bboxes": [
+        {
+          "frame_time": 15.30195,
+          "x": 0.27870065789473686,
+          "y": 0.2403508738467568,
+          "w": 0.2886513157894737,
+          "h": 0.1394736842105263,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "High",
+      "score": 0.6,
+      "rationale": "The subject's score is at the lower boundary of the High range. This is supported by her willingness to engage and express personal interests articulately in a social context. Her use of vocal modulation, such as the rising intonation on the word 'psychology,' adds a degree of social energy to her speech. While her physical posture is relatively static and her delivery is thoughtful rather than boisterous, her overall composure and clear communication style are indicative of the social confidence associated with extraversion.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Medium",
+      "score": 0.58,
+      "rationale": "The subject's Medium Agreeableness is strongly suggested by the content of her speech. Her stated interest in 'psychology,' 'human beings, emotions and feelings' reflects a fundamental curiosity and concern for the internal states of others. This is behaviorally complemented by her calm demeanor and relaxed facial muscles, which project a cooperative and non-confrontational attitude. The score does not enter the high range as there is an absence of more overt affiliative cues like smiling or nodding.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Medium",
+      "score": 0.47,
+      "rationale": "A Medium level of Conscientiousness is inferred from the subject's deliberate communication style. The hesitation observed around the 3-second mark, including a filled pause ('um') and a reflective tone, suggests she is taking care to structure her thoughts before speaking, which points to a methodical rather than impulsive nature. Her thoughtful facial expression throughout the clip further supports this interpretation of careful consideration. The score remains medium as the clip lacks stronger evidence of organization or goal-directed behavior.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Medium",
+      "score": 0.48,
+      "rationale": "The subject scores in the Medium range for Neuroticism based on a combination of conflicting cues. The notable dark circles under her eyes can be a physical indicator of stress or fatigue. Furthermore, a brief moment of hesitation in her speech could suggest mild self-consciousness. However, these indicators are balanced by strong evidence of emotional stability, including relaxed facial muscles, a steady head position, and a vocal delivery that quickly regains a calm and even pace. This mixture of subtle tension and overt composure justifies a medium rating.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "Medium",
+      "score": 0.5,
+      "rationale": "The subject's Medium Openness is primarily demonstrated by her intellectual curiosity. Her choice to discuss an interest in psychology and abstract concepts like 'emotions and feelings' is a hallmark of this trait. This internal focus is corroborated by her physical behavior; the prolonged, upward-and-left gaze and generally thoughtful facial expression indicate deep cognitive processing and introspection. The score is categorized as Medium because, while the interest is clear, the expression itself does not contain particularly novel or creative language within this short segment.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their Medium Openness level?",
+      "options": [
+        {
+          "id": "A",
+          "text": "0.0s - 1.9s"
+        },
+        {
+          "id": "B",
+          "text": "1.9s - 2.8s"
+        },
+        {
+          "id": "C",
+          "text": "3.0s - 4.0s"
+        },
+        {
+          "id": "D",
+          "text": "6.5s - 7.5s"
+        },
+        {
+          "id": "E",
+          "text": "11.2s - 12.2s"
+        },
+        {
+          "id": "F",
+          "text": "14.0s - 15.0s"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. The analysis links Medium Openness to intellectual curiosity and deep cognitive processing, which is physically demonstrated by her upward-and-left gaze. The interval [0.0s - 1.9s] is when this key behavior—the shift of the eyes upward and to the left, along with a slight eyebrow raise—is initiated. This change marks the beginning of the cognitive retrieval process central to the Openness assessment.\n\n- Option B is a video-based distractor. It marks when her eyebrows lower slightly, a real but less significant change compared to the initial gaze shift for Openness.\n- Option C is a video-based distractor. This interval contains a verbal hesitation, which is more relevant to the Conscientiousness assessment than Openness.\n- Option D is a text-based distractor. No significant facial expression change occurs during this period; her pensive expression is stable.\n- Option E is a near-miss distractor. This interval marks another significant change: her gaze returns forward. While relevant, the *initiation* of the cognitive gaze (A) is a stronger piece of evidence for establishing the trait of Openness than the conclusion of the gaze.\n- Option F is a text-based distractor. Her face is relaxed and stable during this time, with no notable changes."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 14.4s, a region was detected in the video (x=0.294, y=0.214, w=0.249, h=0.487, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A relaxed facial posture showing no discernible muscle tension."
+        },
+        {
+          "id": "B",
+          "text": "A sustained leftward head tilt maintained throughout the video."
+        },
+        {
+          "id": "C",
+          "text": "An upward-and-right directed gaze indicating cognitive search."
+        },
+        {
+          "id": "D",
+          "text": "The mouth slightly open in the process of verbal articulation."
+        },
+        {
+          "id": "E",
+          "text": "A subtle but noticeable smile forming at the corners of the lips."
+        },
+        {
+          "id": "F",
+          "text": "A slight lowering of the eyebrows, suggesting some concentration."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. The specified bounding box at 14.4s covers the central part of the person's face. The observation notes for this period [11.2s - 15.2s] state that 'Her facial muscles remain relaxed,' which corresponds directly to this option.\n\n- Option B is a near-miss distractor. While the person does have a leftward head tilt, the provided bounding box is specifically focused on the facial region, not the entire head and its posture.\n- Option C is a near-miss distractor based on an AI error pattern. The actual gaze for most of the video is up and left, not right, and by 14.4s, her gaze is forward, not upward.\n- Option D is a video-based distractor. The mouth is open during speech earlier in the video (e.g., around 1.1s), but at 14.4s, she is not speaking and her mouth is closed.\n- Option E is a text-based distractor. It describes a plausible expression, but observation confirms there is no smile present in the video.\n- Option F is a video-based distractor. The eyebrows lower slightly at 1.9s, not at 14.4s, and this bbox is larger than just the eyebrow region."
+    },
+    {
+      "category": "Counterfactual Reasoning",
+      "question": "If the person had NOT exhibited the behavior observed around 2.2s - 8.0s, which of the following personality assessments would be MOST affected?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The Medium Openness score would be less supported, as this period has the strongest evidence of intellectual curiosity."
+        },
+        {
+          "id": "B",
+          "text": "The High Extraversion score would be undermined, as her vocal energy during this period is a key marker of confidence."
+        },
+        {
+          "id": "C",
+          "text": "The Medium Agreeableness score would be unchanged, as it relies on her relaxed facial expression not verbal statements."
+        },
+        {
+          "id": "D",
+          "text": "The Medium Openness score would likely increase, because the hesitation in this period suggests some intellectual doubt."
+        },
+        {
+          "id": "E",
+          "text": "The Medium Conscientiousness score would be less justified, because this is the main indicator of organized thinking."
+        },
+        {
+          "id": "F",
+          "text": "The Medium Neuroticism score would decrease, as the hesitation here is the primary evidence for self-consciousness."
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The personality analysis for Medium Conscientiousness is primarily based on the subject's deliberate communication style, specifically citing 'the hesitation observed around the 3-second mark' as evidence that she is taking care to structure her thoughts. Without this hesitant behavior, the main justification for the Medium Conscientiousness score would be removed. While the hesitation is also mentioned as a minor cue for Neuroticism, it is the central piece of evidence for Conscientiousness, making that assessment the most affected."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [
+      {
+        "check": "A",
+        "q_idx": 6,
+        "issue": "The selected correct answer (A) is less supported by the personality analyses than option E. The rationale for Medium Conscientiousness relies centrally on the hesitant behavior in the 2.2s-8.0s interval ('hesitation observed around the 3-second mark') as its main piece of evidence for methodical thinking. The rationale for Openness (implicated in option A) has other, stronger evidence (speech content, upward gaze). Therefore, removing the hesitation would most significantly affect the Conscientiousness assessment.",
+        "action": "Changed the correct answer from A to E and added a clarifying explanation."
+      }
+    ],
+    "corrections": {
+      "mcq_questions[6].correct_answer": "E",
+      "mcq_questions[6].explanation": "The personality analysis for Medium Conscientiousness is primarily based on the subject's deliberate communication style, specifically citing 'the hesitation observed around the 3-second mark' as evidence that she is taking care to structure her thoughts. Without this hesitant behavior, the main justification for the Medium Conscientiousness score would be removed. While the hesitation is also mentioned as a minor cue for Neuroticism, it is the central piece of evidence for Conscientiousness, making that assessment the most affected."
+    },
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator10",
+      "version": 1,
+      "clues_total": 17,
+      "clues_correct": 11,
+      "clues_wrong_corrected": 3,
+      "clues_missing_skipped": 2,
+      "clues_bonus": 1
+    }
+  }
+}

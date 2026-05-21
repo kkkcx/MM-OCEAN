@@ -1,0 +1,343 @@
+{
+  "video_id": "-ZP25UpJeJ4.000.mp4",
+  "video_path": "-ZP25UpJeJ4.000.mp4",
+  "transcription": "Went a lot of money, like 400 quid for that and then however much for the software, something like Sony Vega size, maybe a bit smaller. A lot of money, and also the other problem is time I spent-",
+  "original_scores": {
+    "extraversion": 0.39252336448598135,
+    "agreeableness": 0.7032967032967032,
+    "conscientiousness": 0.6019417475728155,
+    "neuroticism": 0.4895833333333333,
+    "openness": 0.6
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 2.1,
+      "description": "The subject maintains direct eye contact with the camera. His eyebrows are slightly raised and drawn together, and his lips are parted as he begins to speak.",
+      "bboxes": [
+        {
+          "frame_time": 0.243652,
+          "x": 0.3667763157894737,
+          "y": 0.32421052832352487,
+          "w": 0.17467105263157895,
+          "h": 0.12631578947368421,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 0.243652,
+          "x": 0.36233552631578947,
+          "y": 0.2821052651656301,
+          "w": 0.16726973684210528,
+          "h": 0.09210526315789473,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 0.069615,
+          "x": 0.3963815789473684,
+          "y": 0.4768421072708933,
+          "w": 0.09177631578947369,
+          "h": 0.1394736842105263,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 2.1,
+      "end_time": 9.41,
+      "description": "His expression transitions to a more neutral state, with eyebrows relaxing. The eyebrows then raise again slightly on the phrase \"Sony Vegas.\"",
+      "bboxes": [
+        {
+          "frame_time": 8.649663,
+          "x": 0.34457236842105265,
+          "y": 0.28473684411299854,
+          "w": 0.17615131578947368,
+          "h": 0.3526315789473684,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 8.893316,
+          "x": 0.34309210526315786,
+          "y": 0.32947368621826173,
+          "w": 0.18947368421052632,
+          "h": 0.09210526315789473,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 8.562645,
+          "x": 0.34901315789473686,
+          "y": 0.30052631779720906,
+          "w": 0.1805921052631579,
+          "h": 0.11315789473684211,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 9.41,
+      "end_time": 11.21,
+      "description": "The eyebrows raise significantly and the inner corners pull up as he speaks, conveying emphasis. The corners of his mouth pull slightly downwards.",
+      "bboxes": [
+        {
+          "frame_time": 10.99917,
+          "x": 0.34457236842105265,
+          "y": 0.3110526335866828,
+          "w": 0.15986842105263158,
+          "h": 0.10263157894736842,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 10.99917,
+          "x": 0.35789473684210527,
+          "y": 0.5452631599024722,
+          "w": 0.10213815789473685,
+          "h": 0.07894736842105263,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 11.21,
+      "end_time": 15.33,
+      "description": "His eyebrows lower back into a slightly furrowed, pensive expression. Gaze remains steady towards the camera.",
+      "bboxes": [
+        {
+          "frame_time": 13.313868,
+          "x": 0.3401315789473684,
+          "y": 0.3531578967445775,
+          "w": 0.1480263157894737,
+          "h": 0.09736842105263158,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 15.3153,
+          "x": 0.3460526315789474,
+          "y": 0.3426315809551038,
+          "w": 0.17023026315789475,
+          "h": 0.12631578947368421,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 15.33,
+      "description": "The subject is seated, framed from the chest up, leaning slightly forward toward the camera. His head remains relatively still, with minor nods and tilts that are synchronized with his speech.",
+      "bboxes": [
+        {
+          "frame_time": 15.3153,
+          "x": 0.24391447368421051,
+          "y": 0.11105263358668277,
+          "w": 0.4633223684210526,
+          "h": 0.8157894736842105,
+          "note": "pose human-annotated",
+          "region": "torso"
+        },
+        {
+          "frame_time": 6.966564,
+          "x": 0.3105263157894737,
+          "y": 0.0768421072708933,
+          "w": 0.2960526315789474,
+          "h": 0.5657894736842105,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 1.54,
+      "end_time": 2.76,
+      "description": "Pitch rises and stress is placed on the phrase \"a lot of money\".",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 5.42,
+      "end_time": 6.8,
+      "description": "Speech rate increases on the phrase \"something like Sony Vegas\".",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 9.54,
+      "end_time": 10.45,
+      "description": "The phrase \"a lot of money\" is spoken with increased emphasis and a slightly louder volume.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.33,
+      "description": "The subject is a young adult male with fair skin, dark brown spiky hair, and glasses with dark frames. He is wearing a dark olive-green collared jacket. The setting is an indoor room with off-white walls. To his right is a prominent movie poster for \"Reservoir Dogs.\" To his left, a wooden cabinet, a black speaker, a white plastic storage unit, and the neck of a bass guitar are visible. A dark jacket is draped over the chair behind him. The lighting is even and appears to originate from the front.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 6.18304,
+      "end_time": 7.18304,
+      "description": "The subject began to raise his hands upward due to excitement.",
+      "bboxes": [
+        {
+          "frame_time": 6.68304,
+          "x": 0.3327302631578947,
+          "y": 0.8268421072708932,
+          "w": 0.2294407894736842,
+          "h": 0.16842105263157894,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    },
+    {
+      "dimension": "Background",
+      "start_time": 7.29688,
+      "end_time": 8.29688,
+      "description": "The subject leans forward and closes the eyes while pulling down the eyebrows.",
+      "bboxes": [
+        {
+          "frame_time": 7.79688,
+          "x": 0.2631578947368421,
+          "y": 0.10842105463931435,
+          "w": 0.41891447368421053,
+          "h": 0.6815789473684211,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Low",
+      "score": 0.39,
+      "rationale": "The subject's Low Extraversion score is consistent with his contained and reserved demeanor. He initiates the segment by averting his gaze ([0.0s-2.1s]), a common behavior in individuals who are more internally focused. His body language is not expansive; he remains seated with relatively still head and torso movement throughout. While he uses vocal intonation and occasional gestures ([6.2s-7.2s]) for emphasis, these appear to be controlled, deliberate communicative acts rather than spontaneous bursts of high energy, which aligns with a lower extraversion profile.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "High",
+      "score": 0.7,
+      "rationale": "The High Agreeableness rating is supported by the subject's engaging and cooperative posture. He leans forward towards the camera ([0.0s-15.3s]), a non-verbal cue that signals a desire to connect with the audience. His facial expressions, even when discussing 'problems', lack any hostility or contempt. For instance, the combination of raised eyebrows and a slight upturn of the mouth ([9.4s-11.2s]) when stressing a point creates a sense of shared understanding rather than conflict, which is characteristic of a highly agreeable temperament.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "High",
+      "score": 0.6,
+      "rationale": "The subject's High Conscientiousness is reflected in his structured communication and focused demeanor. He methodically lays out the issues he is discussing ('money' and 'time'). His facial expressions, particularly the furrowed brows indicating concentration ([11.2s-15.3s]) and his steady gaze, suggest a deliberate and thoughtful approach to his topic. The content itself, which details a significant investment of resources into a task, further points to the goal-oriented and diligent nature associated with this trait.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Medium",
+      "score": 0.49,
+      "rationale": "The Medium Neuroticism score is consistent with the subject's controlled expression of concern. He repeatedly emphasizes negative aspects like the high cost, using stressed tones and facial expressions that signal distress (e.g., knitted brows at [0.0s-2.1s], pained emphasis at [9.4s-11.2s]). This focus on problems indicates a sensitivity to stressors. However, these emotions are well-regulated and channeled for communicative purposes; he does not display overt signs of anxiety like fidgeting or trembling, placing him in the mid-range for emotional stability.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "High",
+      "score": 0.6,
+      "rationale": "The High Openness score is strongly indicated by environmental cues. The subject's personal space displays a 'Reservoir Dogs' poster, suggesting an appreciation for specific, and often non-mainstream, cinematic art. The presence of a bass guitar points to an interest in musical expression. His engagement in the act of video production itself, discussing software like 'Sony Vegas', shows an affinity for creative technologies and ideas. This combination of aesthetic and intellectual interests is a hallmark of an individual high in Openness to Experience.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During 9.4s - 11.2s, the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "High Agreeableness, demonstrated through an expressive effort to create connection and shared understanding."
+        },
+        {
+          "id": "B",
+          "text": "Low Extraversion, indicated by the brief and controlled nature of the emotional expression during this segment."
+        },
+        {
+          "id": "C",
+          "text": "High Conscientiousness, shown through the intense focus and concentration conveyed by the facial expression."
+        },
+        {
+          "id": "D",
+          "text": "High Openness, suggested by the creative and unconventional way the person communicates their complex point."
+        },
+        {
+          "id": "E",
+          "text": "High Neuroticism, because the behavior clearly signals significant underlying distress about the topic discussed."
+        },
+        {
+          "id": "F",
+          "text": "Low Agreeableness, as the person's expression at this time indicates a subtle challenge to the audience."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. During 9.4s - 11.2s, the subject raises his eyebrows with inner corners pulled up and slightly turns his mouth corners up while emphasizing a point. The personality analysis notes this creates a 'sense of shared understanding rather than conflict,' which is a hallmark of High Agreeableness.\n\n- Option B is a video-based distractor. The subject does exhibit signs of Low Extraversion (e.g., initial gaze aversion from 0.0s-2.1s), but the specific expression at 9.4s-11.2s is more about social connection (Agreeableness) than energy level (Extraversion).\n- Option C is a text-based distractor. While he discusses financial matters which can relate to Conscientiousness, the specific expression is more social and emotive rather than a direct indicator of structured, goal-oriented behavior.\n- Option D is a video-based distractor. High Openness is inferred from background cues like the movie poster and guitar, not from this particular behavioral pattern.\n- Option E is a near-miss distractor. The expression does convey concern, which relates to Neuroticism. However, its primary function here is social and connective, making High Agreeableness a stronger and more direct interpretation of the behavior's intent.\n- Option F is a near-miss distractor. It correctly identifies the Agreeableness dimension but interprets the expression in the wrong direction; the cues point towards connection, not confrontation."
+    },
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their High Agreeableness level?",
+      "options": [
+        {
+          "id": "A",
+          "text": "9.4s - 11.2s"
+        },
+        {
+          "id": "B",
+          "text": "0.0s - 2.1s"
+        },
+        {
+          "id": "C",
+          "text": "6.2s - 7.2s"
+        },
+        {
+          "id": "D",
+          "text": "11.2s - 15.3s"
+        },
+        {
+          "id": "E",
+          "text": "7.3s - 8.3s"
+        },
+        {
+          "id": "F",
+          "text": "2.1s - 5.0s"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. The interval from 9.4s - 11.2s is when the subject has a significant eyebrow raise and slight smile while emphasizing a point. The analysis explicitly links this to High Agreeableness, stating it 'creates a sense of shared understanding.'\n\n- Option B (0.0s - 2.1s) is a video-based distractor. This interval shows initial gaze aversion and knitted brows, which is more relevant to Low Extraversion and Medium Neuroticism, not High Agreeableness.\n- Option C (6.2s - 7.2s) is a video-based distractor. This period captures a hand gesture, which adds emphasis but is less specific to the agreeableness-related facial cue.\n- Option D (11.2s - 15.3s) is a video-based distractor. This interval features lowered, thoughtful brows, which is more indicative of High Conscientiousness (concentration) than High Agreeableness.\n- Option E (7.3s - 8.3s) is a video-based distractor. This shows the subject leaning forward with eyes closed briefly, a sign of emphasis but not the key expression for agreeableness.\n- Option F (2.1s - 5.0s) is a near-miss distractor. During this time, the expression is transitioning to a more neutral state, which is not the key moment of expressive connection that defines High Agreeableness in this clip."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator03",
+      "version": 1,
+      "clues_total": 18,
+      "clues_correct": 13,
+      "clues_wrong_corrected": 3,
+      "clues_missing_skipped": 0,
+      "clues_bonus": 2
+    }
+  }
+}

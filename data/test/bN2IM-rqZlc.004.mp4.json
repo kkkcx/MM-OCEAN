@@ -1,0 +1,452 @@
+{
+  "video_id": "bN2IM-rqZlc.004.mp4",
+  "video_path": "bN2IM-rqZlc.004.mp4",
+  "transcription": "No, usually I always plan from real projects [inaudible 00:00:37] I'm working on.",
+  "original_scores": {
+    "extraversion": 0.2897196261682243,
+    "agreeableness": 0.4945054945054945,
+    "conscientiousness": 0.5242718446601942,
+    "neuroticism": 0.20833333333333331,
+    "openness": 0.33333333333333337
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 1.2,
+      "description": "The subject's gaze is directed down and to his left. His face is relaxed and his mouth is slightly open before closing.",
+      "bboxes": [
+        {
+          "frame_time": 0,
+          "x": 0.3682565789473684,
+          "y": 0.36894737042878806,
+          "w": 0.1569078947368421,
+          "h": 0.11578947368421053,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 0,
+          "x": 0.37417763157894735,
+          "y": 0.27157894937615645,
+          "w": 0.19539473684210526,
+          "h": 0.3973684210526316,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 1.025795,
+          "x": 0.40674342105263156,
+          "y": 0.5557894756919459,
+          "w": 0.1125,
+          "h": 0.08157894736842106,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 1.2,
+      "end_time": 6.5,
+      "description": "The subject's gaze shifts up towards the camera as he speaks. His eyebrows remain neutral and his mouth moves with his speech.",
+      "bboxes": [
+        {
+          "frame_time": 2.48625,
+          "x": 0.3401315789473684,
+          "y": 0.4163157914814196,
+          "w": 0.18651315789473685,
+          "h": 0.0868421052631579,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 3.946704,
+          "x": 0.36233552631578947,
+          "y": 0.3478947388498407,
+          "w": 0.19095394736842106,
+          "h": 0.1,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 5.68534,
+          "x": 0.3875,
+          "y": 0.5900000020077354,
+          "w": 0.1125,
+          "h": 0.10263157894736842,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 6.5,
+      "end_time": 15.5,
+      "description": "Gaze returns to a downward and left direction. His facial muscles appear relaxed and neutral. He blinks naturally.",
+      "bboxes": [
+        {
+          "frame_time": 7.722392,
+          "x": 0.3667763157894737,
+          "y": 0.40578947569194596,
+          "w": 0.18503289473684212,
+          "h": 0.0868421052631579,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 8.016135,
+          "x": 0.35789473684210527,
+          "y": 0.3900000020077354,
+          "w": 0.18207236842105262,
+          "h": 0.32105263157894737,
+          "note": "face human-annotated",
+          "region": "face"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 15.5,
+      "description": "The subject sits in a black office chair, facing forward. His head remains mostly still with a slight downward tilt. His shoulders are relaxed and stationary throughout the clip. No upper body or hand gestures are visible.",
+      "bboxes": [
+        {
+          "frame_time": 1.475026,
+          "x": 0.2824013157894737,
+          "y": 0.09263158095510382,
+          "w": 0.4011513157894737,
+          "h": 0.6736842105263158,
+          "note": "human-annotated",
+          "region": "unknown"
+        },
+        {
+          "frame_time": 10.607033,
+          "x": 0.33865131578947366,
+          "y": 0.1900000020077354,
+          "w": 0.27532894736842106,
+          "h": 0.6210526315789474,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 10.607033,
+          "x": 0.23799342105263158,
+          "y": 0.5847368441129985,
+          "w": 0.5018092105263158,
+          "h": 0.37894736842105264,
+          "note": "pose human-annotated",
+          "region": "shoulders"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 1.2,
+      "description": "Starts with a low-pitched, soft vocalization \"Hmm,\" followed by the word \"no\" with a falling intonation.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 1.2,
+      "end_time": 8.5,
+      "description": "Speech is delivered at a moderate, even pace and consistent volume. There is a brief hesitation and repetition of the word \"from.\" The pitch contour is mostly flat, with a slight downward inflection at the end of the final sentence.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 8.5,
+      "end_time": 15.5,
+      "description": "The speaker is silent. A low-level, steady ambient hum is audible in the background.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.5,
+      "description": "The subject is a man with a fair complexion and short, dark hair in a buzz cut. He is wearing a white crew-neck t-shirt. He is seated indoors in what appears to be a workshop or lab. Behind him is a long white workbench cluttered with electronic components, tools, and wires. Windows with closed blinds are visible behind the bench. Under the bench, two blue recycling bins are on the left, and cardboard boxes, a silver computer tower, and a pink bin with cables are on the right. The lighting is bright and diffuse.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Low",
+      "score": 0.29,
+      "rationale": "The subject's behavior indicates a low level of Extraversion. His vocal delivery is subdued, characterized by a soft, low-pitched start and a consistently flat intonation, lacking the energetic modulation typical of extraverts. His physical demeanor is contained, with a still head and relaxed, motionless shoulders, suggesting low social energy. Furthermore, his gaze is frequently averted downwards and to the sides, indicating a focus on internal thought processing rather than sustained, outward social engagement.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Medium",
+      "score": 0.49,
+      "rationale": "The subject's Medium Agreeableness is supported by his calm and non-confrontational presentation. Throughout the clip, his facial muscles and shoulders remain relaxed, and his eyebrows are neutral, indicating a lack of antagonism or skepticism. His vocal tone is even and soft. While not overtly expressive or warm, this cooperative and placid demeanor is consistent with an individual who is moderately agreeable and easygoing in social interactions.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Medium",
+      "score": 0.52,
+      "rationale": "A Medium Conscientiousness score is supported by the content and delivery of the subject's speech. He explicitly states, \"usually I always plan from real projects,\" which directly references planning and a systematic approach to work. His speech is delivered at a moderate, even pace, with a brief hesitation, suggesting thoughtful consideration rather than impulsivity. This deliberate communication style aligns with a moderately conscientious disposition focused on diligence and carefulness.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Low",
+      "score": 0.21,
+      "rationale": "The subject displays strong indicators of low Neuroticism, reflecting high emotional stability. His physical state is consistently calm, with relaxed facial muscles and still shoulders, showing a complete absence of physical tension, fidgeting, or anxiety. His voice is steady in volume and pace, without any tremors or signs of nervousness. This overall composure under observation points to a low level of emotional reactivity and stress.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "Low",
+      "score": 0.33,
+      "rationale": "The subject's Low Openness is suggested by his practical focus and conventional communication style. His statement about planning from \"real projects\" indicates a preference for concrete, applied work rather than abstract or theoretical ideas, a common trait in individuals with lower Openness. This is further supported by his subdued demeanor and flat vocal intonation, which lack the expressive curiosity and dynamism often seen in individuals who are high in this trait.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During 0.0s - 15.5s, the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly and consistently supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "High level of Openness"
+        },
+        {
+          "id": "B",
+          "text": "High level of Extraversion"
+        },
+        {
+          "id": "C",
+          "text": "Low level of Agreeableness"
+        },
+        {
+          "id": "D",
+          "text": "High level of Neuroticism"
+        },
+        {
+          "id": "E",
+          "text": "High level of Conscientiousness"
+        },
+        {
+          "id": "F",
+          "text": "Low level of Neuroticism"
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The correct answer is F. The person's consistently relaxed facial muscles, still shoulders, and steady vocal tone throughout the entire clip are strong indicators of emotional stability, which corresponds to Low Neuroticism.\n- Option A is a text-based distractor. The workshop-like background might suggest creativity, but the person's practical speech and subdued demeanor actually support Low Openness.\n- Option B is a video-based distractor. The visual evidence (averted gaze, low vocal energy, stillness) directly contradicts the traits of High Extraversion.\n- Option C is a near-miss distractor. The person's calm and reserved nature could be misinterpreted as being uncooperative (Low Agreeableness), but his non-confrontational demeanor is more indicative of Medium Agreeableness.\n- Option D is a near-miss distractor. It correctly identifies the Neuroticism dimension but gets the direction wrong; the evidence points to stability (Low), not instability (High).\n- Option E is a text-based distractor. While the person mentions 'planning,' which is related to Conscientiousness, this single verbal cue is not as pervasive as the non-verbal cues for emotional stability, and his overall behavior supports a medium, not high, score."
+    },
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression occur that is most relevant to their low Extraversion level, signaling a shift away from social engagement?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[0.0s - 1.5s]"
+        },
+        {
+          "id": "B",
+          "text": "[2.0s - 3.5s]"
+        },
+        {
+          "id": "C",
+          "text": "[4.5s - 6.0s]"
+        },
+        {
+          "id": "D",
+          "text": "[9.0s - 10.5s]"
+        },
+        {
+          "id": "E",
+          "text": "[11.5s - 13.0s]"
+        },
+        {
+          "id": "F",
+          "text": "[6.5s - 8.0s]"
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The correct answer is F. Around 6.5s, after finishing his statement, the person's gaze shifts downwards and to the right, marking a clear disengagement from the camera and a return to an internal-focused state, which is a key indicator of introversion (Low Extraversion).\n- Option A is a video-based distractor. This interval shows his initial state of averted gaze, but the question asks for a *change*.\n- Option B is a video-based distractor. This is the interval where his gaze shifts *up* to the camera, representing social engagement, which is the opposite of the behavior described in the question stem.\n- Option C is a text-based distractor. This is a plausible-sounding interval during the middle of his speech, but no significant expression change relevant to disengagement occurs here.\n- Option D is a near-miss distractor. In this interval, his gaze is already averted; the shift away from the camera has already completed, so it is not the interval where the change *occurs*.\n- Option E is a text-based distractor. This is another plausible interval during the silent period, but the expression is static."
+    },
+    {
+      "category": "Mixed Emotion Discrimination",
+      "question": "During 0.0s - 1.2s, the person's emotional state is best characterized as which of the following? Consider both verbal and non-verbal cues.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Deep concentration tinged with some frustration"
+        },
+        {
+          "id": "B",
+          "text": "Weary resignation combined with detached boredom"
+        },
+        {
+          "id": "C",
+          "text": "Mild confusion tempered by thoughtful hesitation"
+        },
+        {
+          "id": "D",
+          "text": "Focused engagement paired with self-consciousness"
+        },
+        {
+          "id": "E",
+          "text": "Subtle disagreement mixed with polite deference"
+        },
+        {
+          "id": "F",
+          "text": "Pensive reflection mixed with calm neutrality"
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The correct answer is F. In this initial moment, the person says a soft \"Hmm, no\" while his gaze is downcast and his face is relaxed. This combination strongly suggests an internal cognitive process (pensive reflection) without any emotional agitation (calm neutrality).\n- Option A is a text-based distractor. While he may be concentrating, there are no visual or auditory cues to support the presence of frustration.\n- Option B is a text-based distractor. The terms 'weary' and 'boredom' imply stronger negative affects than are supported by his relaxed and neutral demeanor.\n- Option C is a near-miss distractor. 'Thoughtful hesitation' is plausible, but 'confusion' is an over-interpretation of his reflective state; he seems to be retrieving a known answer, not struggling with a lack of understanding.\n- Option D is a video-based distractor. This describes his state later in the video (1.2s - 6.5s) when he looks at the camera ('focused engagement'), not his initial state of averted gaze.\n- Option E is a near-miss distractor. While he says 'no' (disagreement), his relaxed non-verbals do not suggest a social dynamic of deference or opposition; the moment is more cognitive than social."
+    },
+    {
+      "category": "Temporal-Causal Reasoning",
+      "question": "Consider the sequence of behaviors observed across the video. Which of the following best describes the causal chain linking the person's actions at different moments?",
+      "options": [
+        {
+          "id": "A",
+          "text": "External stimulus processing causes an expressive emotional reaction, concluding with a phase of neutral observation of the surroundings."
+        },
+        {
+          "id": "B",
+          "text": "A period of social disengagement prompts direct communication, which is then followed by cognitive processing to formulate the answer."
+        },
+        {
+          "id": "C",
+          "text": "An attempt at emotional regulation is followed by a compensatory display of confidence, which then resolves into self-monitoring."
+        },
+        {
+          "id": "D",
+          "text": "A moment of uncertainty triggers a prepared verbal response, which is then followed by a period of anxious self-assessment afterward."
+        },
+        {
+          "id": "E",
+          "text": "Thoughtful planning leads to social engagement, which is followed by a period of processing the social feedback from the interaction."
+        },
+        {
+          "id": "F",
+          "text": "Internal cognitive retrieval prompts direct social communication, which is concluded by a deliberate disengagement to a baseline state."
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The correct answer is F. This option accurately models the sequence: 1) The person starts with averted gaze, indicating internal thought to retrieve an answer. 2) This leads to him looking at the camera to deliver the answer (social communication). 3) He concludes by looking away again, disengaging and returning to his baseline.\n- Option A is a text-based distractor. The person's reaction is cognitive, not an 'expressive emotional reaction', and he doesn't end by observing his surroundings.\n- Option B is a video-based distractor with reversed temporal order. The cognitive processing happens *before* communication, not after.\n- Option C is a text-based distractor with wrong causality. It misinterprets the motives; his calm is a baseline, not 'regulation', and his speech is factual, not a 'compensatory display'.\n- Option D is a text-based distractor. It makes unsupported assumptions about 'uncertainty', 'prepared response', and 'anxious self-assessment'.\n- Option E is a near-miss distractor. The first two links are correct, but the final link is wrong. He does not appear to be 'processing social feedback'; he simply concludes his thought and disengages."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 10.6s, a region was detected in the video (x=0.238, y=0.585, w=0.502, h=0.379, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Gaze that is actively moving upward to engage directly with the camera."
+        },
+        {
+          "id": "B",
+          "text": "A general facial expression of relaxed neutrality and calm composure."
+        },
+        {
+          "id": "C",
+          "text": "Eyebrows remaining in a completely neutral and unexpressive position."
+        },
+        {
+          "id": "D",
+          "text": "Minor mouth movements which are associated with verbal articulation."
+        },
+        {
+          "id": "E",
+          "text": "The subject's general posture, sitting upright in a standard office chair."
+        },
+        {
+          "id": "F",
+          "text": "A state of physical stillness and relaxation in the upper torso area."
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The correct answer is F. The provided coordinates (x=0.238, y=0.585, w=0.502, h=0.379) at 10.6s correspond to the person's shoulders and upper torso. The observation data confirms that his shoulders are relaxed and still throughout the video, which is accurately described by this option.\n- Option A is a video-based distractor. This action occurs in the eye region (a different location) and at a different time (around 2.5s).\n- Option B is a video-based distractor. This describes the face region, which is located above the specified bounding box.\n- Option C is a video-based distractor. This describes the eyebrow region, a small area within the face and not covered by the target bounding box.\n- Option D is a video-based distractor. This describes the mouth, which is not in the specified region, and occurs earlier when he is speaking.\n- Option E is a near-miss distractor. While the shoulders are part of his overall posture, this option is too general. The bounding box specifically isolates the upper torso, making 'stillness and relaxation in the upper torso' a more precise description than 'general posture'."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "The subject briefly shifts from an internal-focused state to one of direct social engagement. Which option correctly identifies the time and location of the key facial feature signaling this shift?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Timestamp 1.0s, BBox (x=0.407, y=0.556, w=0.113, h=0.082)"
+        },
+        {
+          "id": "B",
+          "text": "Timestamp 10.6s, BBox (x=0.339, y=0.190, w=0.275, h=0.621)"
+        },
+        {
+          "id": "C",
+          "text": "Timestamp 7.7s, BBox (x=0.367, y=0.406, w=0.185, h=0.087)"
+        },
+        {
+          "id": "D",
+          "text": "Timestamp 0.0s, BBox (x=0.374, y=0.272, w=0.195, h=0.397)"
+        },
+        {
+          "id": "E",
+          "text": "Timestamp 2.5s, BBox (x=0.388, y=0.590, w=0.113, h=0.103)"
+        },
+        {
+          "id": "F",
+          "text": "Timestamp 2.5s, BBox (x=0.340, y=0.416, w=0.187, h=0.087)"
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The correct answer is F. The shift to social engagement is signaled when the subject looks up at the camera. This action is documented at 2.5s, and the provided bounding box correctly isolates the eye region at that moment.\n- Option A is a video-based distractor. This identifies the mouth region at the beginning of the video, not the eyes during the engagement shift.\n- Option B is a video-based distractor. This is a wide shot of the head at 10.6s, when the subject is silent and disengaged.\n- Option C is a near-miss distractor. It correctly identifies the eye region but at the wrong time (7.7s), when the subject is looking *away* from the camera, signaling disengagement.\n- Option D is a video-based distractor. This identifies the face at the very start of the clip, before the engagement shift occurs.\n- Option E is a near-miss distractor. It has the correct timestamp (2.5s) but the wrong location (the mouth), while the key signal for this specific shift is in the eyes."
+    },
+    {
+      "category": "Counterfactual Reasoning",
+      "question": "If the person had NOT exhibited the behavior observed around 1.2s - 6.5s, which of the following personality assessments would be MOST affected?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Extraversion would be less certain, as this period provides the clearest evidence of his reserved and socially unexpressive tendencies."
+        },
+        {
+          "id": "B",
+          "text": "Agreeableness would likely increase, as his verbal response, while calm, represents a more assertive behavior than his silence."
+        },
+        {
+          "id": "C",
+          "text": "Openness would be harder to assess, since this verbal content is the primary indicator for his practical, concrete thinking style."
+        },
+        {
+          "id": "D",
+          "text": "Neuroticism would be less supported, because the steady vocal delivery in this segment is a key sign of his overall emotional stability."
+        },
+        {
+          "id": "E",
+          "text": "Conscientiousness would be rated higher, because removing his spoken thoughts would imply a more deliberate and careful internal process."
+        },
+        {
+          "id": "F",
+          "text": "Conscientiousness would be less supported, as this segment contains the primary verbal evidence for his systematic, planning-oriented approach."
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The correct answer is F. The behavior in this interval is the person stating, \"usually I always plan from real projects.\" The personality analysis explicitly uses this statement as the primary evidence for Medium Conscientiousness. Removing this verbal content would eliminate the most direct evidence for this trait, making the assessment much weaker or less supported.\n- Option A is a text-based distractor. This period shows social *engagement* (looking at camera, speaking), not withdrawal. The Low Extraversion score is based on his overall quiet demeanor, not just this period.\n- Option B is a text-based distractor with flawed logic. Removing a calmly delivered, factual statement would not logically make him seem more agreeable.\n- Option C is a strong text-based distractor. The statement also supports Low Openness. However, the link to Conscientiousness (the word 'plan') is more direct and foundational to that assessment, making it the *most* affected trait.\n- Option D is a video-based distractor. While his calm voice here supports Low Neuroticism, the assessment is more strongly based on his consistent physical composure (relaxed muscles, stillness) throughout the entire video. Removing this segment would have a minimal impact.\n- Option E is a near-miss distractor. It correctly identifies the Conscientiousness trait but proposes the wrong direction of change with flawed reasoning."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator05",
+      "version": 1,
+      "clues_total": 17,
+      "clues_correct": 14,
+      "clues_wrong_corrected": 1,
+      "clues_missing_skipped": 2,
+      "clues_bonus": 0
+    }
+  }
+}

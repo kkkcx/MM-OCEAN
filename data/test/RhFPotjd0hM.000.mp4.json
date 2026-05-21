@@ -1,0 +1,314 @@
+{
+  "video_id": "RhFPotjd0hM.000.mp4",
+  "video_path": "RhFPotjd0hM.000.mp4",
+  "transcription": "Down below and if you want to ensure that your question makes it into the video, I would ask that you post it by 6PM pacific time on February the 10th.",
+  "original_scores": {
+    "extraversion": 0.20560747663551404,
+    "agreeableness": 0.3846153846153846,
+    "conscientiousness": 0.24271844660194175,
+    "neuroticism": 0.2395833333333333,
+    "openness": 0.22222222222222224
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 2.39,
+      "description": "The man maintains direct eye contact with the camera. His eyebrows are in a neutral, relaxed position. His mouth moves naturally with his speech, and the corners of his lips pull up slightly as he finishes speaking. His eyes are open normally.",
+      "bboxes": [
+        {
+          "frame_time": 0.027828,
+          "x": 0.4415296052631579,
+          "y": 0.3429824527941252,
+          "w": 0.18355263157894738,
+          "h": 0.11842105263157894,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 0.0974,
+          "x": 0.4208059210526316,
+          "y": 0.25087718963623046,
+          "w": 0.2338815789473684,
+          "h": 0.15526315789473685,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 1.75784,
+          "x": 0.4622532894736842,
+          "y": 0.5824561370046515,
+          "w": 0.1169407894736842,
+          "h": 0.1,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 0.46381,
+          "x": 0.4341282894736842,
+          "y": 0.32456140016254625,
+          "w": 0.19391447368421053,
+          "h": 0.15526315789473685,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 2.39,
+      "description": "The man is framed from the upper chest up and remains relatively still. His head makes a very slight, slow forward nod as he says the final word.",
+      "bboxes": [
+        {
+          "frame_time": 0.551933,
+          "x": 0.3009046052631579,
+          "y": 0.11929824226780941,
+          "w": 0.43223684210526314,
+          "h": 0.8789473684210526,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 1.771754,
+          "x": 0.36011513157894737,
+          "y": 0.06929824226780941,
+          "w": 0.35526315789473684,
+          "h": 0.7763157894736842,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 2.200778,
+          "x": 0.3290296052631579,
+          "y": 0.06140350542570415,
+          "w": 0.41151315789473686,
+          "h": 0.7342105263157894,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 0.85,
+      "description": "The word \"doing\" is spoken with a falling intonation.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 1.34,
+      "end_time": 2.39,
+      "description": "The phrase \"Be blessed\" is spoken at a slightly softer volume and lower pitch, with a distinct falling intonation on the word \"blessed\".",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 2.39,
+      "description": "The subject is a bald man with a full reddish-brown beard and sideburns, wearing a bright blue t-shirt. He is indoors in a room with light-colored walls. To his left, a black shelving unit is filled with media cases. To his right, a wall clock, a white door, and the top of an acoustic guitar are visible. The lighting is warm and appears to come from the front.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 1.9380950000000001,
+      "end_time": 2.938095,
+      "description": "White letter print on T-shirt",
+      "bboxes": [
+        {
+          "frame_time": 2.438095,
+          "x": 0.3482730263157895,
+          "y": 0.8745614001625462,
+          "w": 0.3167763157894737,
+          "h": 0.12105263157894737,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Low",
+      "score": 0.21,
+      "rationale": "The subject's Low Extraversion score is supported by his composed and energetically reserved demeanor. He remains relatively still throughout the clip, lacking the expansive gestures and high physical animation typical of extraverts. Furthermore, the observed vocal cues, such as a falling intonation and softer volume, suggest a calm and subdued delivery rather than a boisterous or attention-seeking one. While making a video involves an audience, his controlled, low-key presentation style is more indicative of an individual who is comfortable in structured, low-stimulation environments.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Low",
+      "score": 0.38,
+      "rationale": "The subject's Agreeableness is rated Low. This is reflected in his direct and task-oriented communication style. The verbal content is focused on conveying a clear rule (a deadline) rather than on building social harmony. While he offers minimal affiliative cues like a slight smile at the end of a phrase and a subtle head tilt, these are not pronounced. The overall impression is one of a reserved, matter-of-fact individual who prioritizes straightforwardness over overt displays of warmth or a desire to please.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Low",
+      "score": 0.24,
+      "rationale": "The score for Conscientiousness is Low. Although the act of setting a clear deadline suggests planning, the subject's overall presentation reflects a more casual and less meticulously ordered approach. He is dressed informally in a t-shirt and is filming in what appears to be a personal room with a cluttered bookshelf, rather than a curated, professional setting. This informal execution and relaxed environment suggest a lower drive for order, perfectionism, and disciplined self-presentation, which is consistent with lower conscientiousness.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Low",
+      "score": 0.24,
+      "rationale": "The subject's Low Neuroticism is strongly indicated by his calm and stable presence. He maintains consistent, direct eye contact with the camera and his body is relaxed and still, free from any nervous fidgeting or self-soothing behaviors. His vocal delivery is steady and his facial expression is composed. These behaviors collectively point to a high degree of emotional stability and a lack of anxiety or self-consciousness in this communication setting.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "Low",
+      "score": 0.22,
+      "rationale": "The subject scores Low on Openness. This is supported by his pragmatic communication and conventional demeanor. His speech is direct and logistical, focusing on concrete details (time, date) rather than exploring abstract ideas or using imaginative language. His facial expressions are contained and do not convey a wide range of complex emotions or intellectual curiosity. The overall presentation is grounded and straightforward, which aligns with a more traditional and less exploratory cognitive style.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During 0.0s - 2.4s, the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "High degree of Extraversion"
+        },
+        {
+          "id": "B",
+          "text": "Low level of Openness"
+        },
+        {
+          "id": "C",
+          "text": "Low degree of Neuroticism"
+        },
+        {
+          "id": "D",
+          "text": "High level of Agreeableness"
+        },
+        {
+          "id": "E",
+          "text": "High degree of Conscientiousness"
+        },
+        {
+          "id": "F",
+          "text": "Low level of Agreeableness"
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The person's calm, stable presence, steady eye contact, and lack of any nervous fidgeting throughout the clip are the most direct and pervasive behavioral evidence for Low Neuroticism. Option A is a near-miss distractor because the person's behavior actually supports the opposite, Low Extraversion. Options B and F are video-based distractors; while the analysis supports Low Openness and Low Agreeableness, these are inferred more from verbal content and a direct communication style rather than the overarching physical pattern of calmness. Options D and E are text-based distractors; one might assume making a video requires agreeableness or that setting a deadline implies conscientiousness, but the visual evidence contradicts these assumptions."
+    },
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their Low Agreeableness level?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[0.0s - 0.3s]"
+        },
+        {
+          "id": "B",
+          "text": "[0.5s - 0.8s]"
+        },
+        {
+          "id": "C",
+          "text": "[1.7s - 2.0s]"
+        },
+        {
+          "id": "D",
+          "text": "[1.1s - 1.4s]"
+        },
+        {
+          "id": "E",
+          "text": "[0.8s - 1.1s]"
+        },
+        {
+          "id": "F",
+          "text": "[2.1s - 2.4s]"
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Around 1.8s, as the person finishes speaking, the corners of his mouth lift slightly. This subtle, minimal affiliative cue, occurring at the end of a direct, task-oriented statement, is a key non-verbal detail relevant to the Low Agreeableness assessment, which notes a reserved rather than overtly warm style. The other time intervals do not contain this specific, subtle expressive shift."
+    },
+    {
+      "category": "Mixed Emotion Discrimination",
+      "question": "During 0.0s - 2.4s, the person's emotional state is best characterized as which of the following? Consider both verbal and non-verbal cues.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Deep concentration mixed with a sense of focused urgency"
+        },
+        {
+          "id": "B",
+          "text": "Friendly amusement tempered by a feeling of mild surprise"
+        },
+        {
+          "id": "C",
+          "text": "Calm assertiveness tempered by a hint of polite warmth"
+        },
+        {
+          "id": "D",
+          "text": "Reserved formality mixed with a feeling of social distance"
+        },
+        {
+          "id": "E",
+          "text": "Anxious concern tempered by an effort at calm reassurance"
+        },
+        {
+          "id": "F",
+          "text": "Mild irritation mixed with a desire for quick resolution"
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The person's state is best described as calm assertiveness (direct gaze, clear logistical speech) tempered by polite warmth (slight smile and head tilt at the end). Option D is a near-miss distractor; 'reserved' is accurate, but 'formality' and 'social distance' miss the direct engagement and subtle affiliative cues. Option B is a video-based distractor; it correctly identifies positive-leaning visual cues (raised eyebrows, smile) but misinterprets them as amusement/surprise instead of calm engagement. Options A, E, and F are text-based distractors that posit emotional states (urgency, anxiety, irritation) that might be plausible in the context of giving instructions but are directly contradicted by the person's composed and stable non-verbal behavior."
+    },
+    {
+      "category": "Counterfactual Reasoning",
+      "question": "If the person had NOT exhibited the behavior observed around 0.0s - 2.4s, which of the following personality assessments would be MOST affected?",
+      "options": [
+        {
+          "id": "A",
+          "text": "His Low Openness score would be less certain, as the behavior is integral to his pragmatic and conventional communication style."
+        },
+        {
+          "id": "B",
+          "text": "The Low Extraversion assessment would be less supported, since his physical stillness is a key sign of his reserved character."
+        },
+        {
+          "id": "C",
+          "text": "The Low Neuroticism assessment would be weakened, as his stable presence is the principal evidence for emotional stability."
+        },
+        {
+          "id": "D",
+          "text": "The Low Agreeableness rating would be less credible, since his calm demeanor is crucial for interpreting his direct speech."
+        },
+        {
+          "id": "E",
+          "text": "His Low Conscientiousness score would be less secure, because this behavior indicates a more relaxed approach to his task."
+        },
+        {
+          "id": "F",
+          "text": "The Neuroticism score would have to be rated High, because the absence of this calm behavior implies strong inner anxiety."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The behavior observed throughout the clip is a calm, stable physical presence with no signs of anxiety. This is the strongest and most direct evidence for the Low Neuroticism assessment. Removing this evidence would most significantly weaken that specific conclusion. Option F is a near-miss distractor; it correctly identifies Neuroticism as the affected trait but makes an overly strong claim that the score would 'have to be rated High', whereas it would more accurately become uncertain. Option B is a video-based distractor; while his stillness also supports Low Extraversion, the lack of anxiety cues is an even more specific and primary indicator for Low Neuroticism. Options A, D, and E are text-based distractors that connect the behavior to other traits (Openness, Agreeableness, Conscientiousness) for which the primary evidence actually lies elsewhere (e.g., in verbal content or background details)."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator19",
+      "version": 1,
+      "clues_total": 11,
+      "clues_correct": 8,
+      "clues_wrong_corrected": 2,
+      "clues_missing_skipped": 0,
+      "clues_bonus": 1
+    }
+  }
+}

@@ -1,0 +1,384 @@
+{
+  "video_id": "CESTtNvDpww.002.mp4",
+  "video_path": "CESTtNvDpww.002.mp4",
+  "transcription": "The questions are two of them. See these? These are my fingers. These are my eyes. No, so there's two questions",
+  "original_scores": {
+    "extraversion": 0.6728971962616823,
+    "agreeableness": 0.7802197802197802,
+    "conscientiousness": 0.5922330097087379,
+    "neuroticism": 0.6979166666666666,
+    "openness": 0.5222222222222223
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 5.82,
+      "description": "The subject maintains direct eye contact with the camera throughout, displaying a consistent, wide, open-mouthed smile. The corners of her mouth are pulled upward and back, her cheeks are raised, and there is slight crinkling at the outer corners of her eyes. Her eyebrows remain in a relaxed, neutral position.",
+      "bboxes": [
+        {
+          "frame_time": 2.170811,
+          "x": 0.41488486842105265,
+          "y": 0.28771929489938836,
+          "w": 0.16578947368421054,
+          "h": 0.12894736842105264,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 2.170811,
+          "x": 0.4415296052631579,
+          "y": 0.3929824527941252,
+          "w": 0.09325657894736843,
+          "h": 0.11842105263157894,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 2.170811,
+          "x": 0.4459703947368421,
+          "y": 0.40614034753096734,
+          "w": 0.09917763157894736,
+          "h": 0.0868421052631579,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 2.170811,
+          "x": 0.4178453947368421,
+          "y": 0.33771929489938834,
+          "w": 0.1569078947368421,
+          "h": 0.09210526315789473,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 2.170811,
+          "x": 0.41192434210526313,
+          "y": 0.4008771896362305,
+          "w": 0.13026315789473683,
+          "h": 0.11578947368421053,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 2.170811,
+          "x": 0.4208059210526316,
+          "y": 0.2535087685835989,
+          "w": 0.1450657894736842,
+          "h": 0.09210526315789473,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 5.82,
+      "description": "The subject is seated, facing forward towards the camera. Her head remains mostly stationary, with minor, natural movements synced with her speech. Her shoulders are relaxed and her torso is still. No hand gestures are visible.",
+      "bboxes": [
+        {
+          "frame_time": 0.932739,
+          "x": 0.3704769736842105,
+          "y": 0.2298245580572831,
+          "w": 0.22203947368421054,
+          "h": 0.3157894736842105,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 3.07731,
+          "x": 0.4104440789473684,
+          "y": 0.216666663320441,
+          "w": 0.17911184210526315,
+          "h": 0.34210526315789475,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 4.603255,
+          "x": 0.3497532894736842,
+          "y": 0.5061403475309673,
+          "w": 0.3819078947368421,
+          "h": 0.2631578947368421,
+          "note": "pose human-annotated",
+          "region": "shoulders"
+        },
+        {
+          "frame_time": 2.322531,
+          "x": 0.30386513157894735,
+          "y": 0.6140350843730725,
+          "w": 0.4677631578947368,
+          "h": 0.3131578947368421,
+          "note": "pose human-annotated",
+          "region": "torso"
+        },
+        {
+          "frame_time": 2.322531,
+          "x": 0.22837171052631577,
+          "y": 0.6956140317414936,
+          "w": 0.6542763157894737,
+          "h": 0.28421052631578947,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 5.27,
+      "description": "The subject speaks at a moderate pace with a consistently cheerful and relatively high-pitched, melodic tone. There is a slight rising intonation on \"watching\" and a standard falling intonation at the end of the final sentence, \"next week.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 5.82,
+      "description": "The subject is a woman with wavy, shoulder-length blonde hair and a light complexion. She is wearing a light gray cowl-neck hoodie with white drawstrings. The setting is an indoor room, likely a home office. Behind her is a dark wood desk. On the desk, an open black instrument case (resembling a violin or viola case), a table lamp with a cream-colored shade, a framed picture, and a box for the video game \"The Witcher\" are visible. A taller dark wood cabinet is on the far right. The wall behind her is a light color, with a white dry-erase board on the left and a corkboard in the center. A red YouTube \"Subscribe\" button is overlaid in the top right corner of the frame.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 5.026349,
+      "end_time": 6.026349,
+      "description": "There is a red wooden cabinet behind the subject on the left",
+      "bboxes": [
+        {
+          "frame_time": 5.526349,
+          "x": 0.8722861842105264,
+          "y": 0.11140350542570415,
+          "w": 0.1277138157894736,
+          "h": 0.7763157894736842,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "High",
+      "score": 0.67,
+      "rationale": "The subject exhibits several key indicators of High Extraversion. Her consistent, wide, Duchenne smile and direct eye contact with the camera demonstrate social confidence and positive emotionality. Her use of illustrative hand gestures and a consistently pleasant, melodic vocal tone suggest an energetic and expressive nature. This outward projection of energy and comfort in a communicative setting strongly supports the high score.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "High",
+      "score": 0.78,
+      "rationale": "The subject's high level of Agreeableness is strongly conveyed through her non-verbal cues. She maintains a genuine, warm smile throughout the clip, with relaxed eyebrows and shoulders, which creates an approachable and friendly demeanor. Her pleasant and melodic vocal tone further reinforces this perception of warmth and cooperation. The humorous way she handles her own verbal slip, without any sign of frustration, is also indicative of a good-natured and harmonious disposition.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Medium",
+      "score": 0.59,
+      "rationale": "The subject displays a medium level of Conscientiousness. Her direct, seated posture facing the camera indicates a purposeful and organized approach to the task of recording. Furthermore, her immediate self-correction after a verbal misstep ('No, so there's two questions') reveals an attention to detail and a desire for clarity. However, her overall relaxed and natural presentation lacks the rigidity or meticulousness that would suggest a higher level of this trait, placing her squarely in the medium range.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "High",
+      "score": 0.7,
+      "rationale": "Despite her positive outward expression, the high Neuroticism score is evidenced by the brief moment of cognitive disfluency. The verbal slip ('See these? These are my fingers. These are my eyes. No...') suggests a degree of self-consciousness or performance anxiety. Individuals with higher neuroticism are often more aware of and reactive to their own mistakes. The immediate, slightly flustered self-correction, even while smiling, can be seen as a mechanism to manage the minor social awkwardness caused by the error, a common behavior associated with this trait.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "Medium",
+      "score": 0.52,
+      "rationale": "The subject's Openness is assessed as Medium. The background objects, including a musical instrument case and a video game box, suggest a diversity of interests and an appreciation for aesthetics and fantasy. However, her communication style in this segment is concrete and straightforward, without the use of abstract language, complex ideas, or imaginative expressions that would typify a higher level of Openness. This combination of varied interests with conventional expression supports a medium score.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During 1.5s - 4.0s, the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "High Conscientiousness, as the rapid correction displays a clear desire for communicative accuracy."
+        },
+        {
+          "id": "B",
+          "text": "Low Agreeableness, as the phrase \"No, so...\" could be interpreted as overly blunt or dismissive."
+        },
+        {
+          "id": "C",
+          "text": "High Neuroticism, because the flustered self-correction suggests a sensitivity to making errors."
+        },
+        {
+          "id": "D",
+          "text": "High Extraversion, because the subject remains expressive and energetic throughout the verbal misstep."
+        },
+        {
+          "id": "E",
+          "text": "Low Openness, as the direct and simple correction lacks any form of imaginative or abstract phrasing."
+        },
+        {
+          "id": "F",
+          "text": "Medium Conscientiousness, given that the correction is made but lacks meticulous over-elaboration."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. The personality analysis highlights the verbal slip and immediate, slightly flustered self-correction as the primary evidence for High Neuroticism, interpreting it as a sign of self-consciousness or performance anxiety.\n\n- Option A is a near-miss distractor. The self-correction does support Medium Conscientiousness, but the analysis links the *emotional reaction* to the mistake (the flustered nature) more strongly to Neuroticism than to Conscientiousness.\n- Option B is a text-based distractor. Without seeing the warm, smiling delivery, the text \"No, so...\" could be misinterpreted as blunt, suggesting low agreeableness, which is incorrect.\n- Option D is a video-based distractor. The subject is indeed extraverted, but this specific behavior (self-correction of an error) is not the primary evidence for Extraversion. Her overall smile and tone support that trait more directly.\n- Option E is a text-based distractor. It makes a plausible-sounding link between simple language and low Openness, but this is not the primary evidence used in the analysis for that trait.\n- Option F is a video-based distractor. While her Conscientiousness score is Medium, the key insight from this specific behavioral sequence is the emotional self-management aspect, which is central to Neuroticism."
+    },
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does the behavior most indicative of the subject's assessed Neuroticism level occur?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[0.2s - 0.9s]"
+        },
+        {
+          "id": "B",
+          "text": "[1.5s - 2.2s]"
+        },
+        {
+          "id": "C",
+          "text": "[3.1s - 3.8s]"
+        },
+        {
+          "id": "D",
+          "text": "[4.5s - 5.2s]"
+        },
+        {
+          "id": "E",
+          "text": "[5.3s - 5.8s]"
+        },
+        {
+          "id": "F",
+          "text": "[2.3s - 3.0s]"
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. The analysis for High Neuroticism is based on the cognitive disfluency and subsequent self-correction. The time interval [3.1s - 3.8s] precisely captures the moment of change: the end of the verbal error (\"...my eyes.\") and the immediate start of the correction (\"No, so there's two questions\"), which is the key behavioral evidence for the trait assessment.\n\n- Option A is a video-based distractor. This is the beginning of the video where her expression is already formed and stable.\n- Option B is a video-based distractor. This interval covers the beginning of the verbal slip but not the critical moment of realization and correction.\n- Option D is a video-based distractor. This interval shows her finishing her sentence with a stable, friendly smile, not a notable change relevant to Neuroticism.\n- Option E is a text-based distractor, representing a plausible but incorrect interval at the very end of the clip.\n- Option F is a near-miss distractor. This interval is in the middle of the verbal slip, just before the key self-correction occurs, making it almost correct but missing the critical moment of change."
+    },
+    {
+      "category": "Temporal-Causal Reasoning",
+      "question": "Consider the sequence of behaviors observed across the video. Which of the following best describes the causal chain linking the person's actions at different moments?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A self-corrective action leads to a cognitive error, which then prompts a display of social engagement."
+        },
+        {
+          "id": "B",
+          "text": "A phase of social engagement is followed by a deliberate joke, then explained by a clarifying remark."
+        },
+        {
+          "id": "C",
+          "text": "Social engagement is interrupted by a cognitive error, triggering a self-corrective act for clarity."
+        },
+        {
+          "id": "D",
+          "text": "A display of emotion causes a cognitive error, which is then ignored to maintain social engagement."
+        },
+        {
+          "id": "E",
+          "text": "A period of reflection prompts a statement, later followed by a display of warm social engagement."
+        },
+        {
+          "id": "F",
+          "text": "An expressive gesture leads to a cognitive error, causing a postural shift to change the main topic."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. This option accurately represents the sequence of events in the video in abstract terms. The subject starts with 'social engagement' (smiling at the camera), is interrupted by a 'cognitive error' (the verbal slip), which immediately 'triggers a self-corrective act' (\"No, so there's two questions\") to restore 'clarity'.\n\n- Option A is a distractor with reversed temporal order. The cognitive error precedes the self-correction, not the other way around.\n- Option B is a near-miss distractor. It correctly identifies the sequence of engagement -> event -> clarification, but incorrectly labels the cognitive error as a 'deliberate joke'.\n- Option D is a distractor with wrong causality. The cognitive error is not ignored; it is actively corrected.\n- Option E is a text-based distractor. The sequence of reflection -> statement -> engagement does not match the observed events.\n- Option F is a distractor with an incorrect causal link. The hand gestures happen concurrently with speech but do not cause the cognitive error."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 2.2s, a region was detected in the video (x=0.415, y=0.288, w=0.166, h=0.129, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A relaxed and neutral shoulder posture is maintained steadily."
+        },
+        {
+          "id": "B",
+          "text": "An open-mouth smile with its corners clearly raised upward."
+        },
+        {
+          "id": "C",
+          "text": "A direct and steady gaze is directed straight at the camera."
+        },
+        {
+          "id": "D",
+          "text": "A forward-facing and overall stable head position is present."
+        },
+        {
+          "id": "E",
+          "text": "An illustrative and expressive hand gesture is being displayed."
+        },
+        {
+          "id": "F",
+          "text": "A neutral and relaxed eyebrow position is being held without."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. The provided bounding box coordinates at 2.2s (x=0.415, y=0.288, w=0.166, h=0.129) precisely frame the subject's eyes. The observation notes for this region state that the subject maintains direct and sustained eye contact with the camera throughout the video.\n\n- Option A is a video-based distractor. This describes the shoulders, which are outside the specified bounding box.\n- Option B is a video-based distractor. This describes the mouth, which is located below the specified bounding box.\n- Option D is a video-based distractor. This describes the entire head, whereas the bounding box is much smaller and specifically isolates the eye region.\n- Option E is a video-based distractor. The hands are located in the lower portion of the frame, far from the specified bounding box.\n- Option F is a near-miss distractor. This describes the eyebrows, which are located just above the specified eye region, making it a spatially close but incorrect answer."
+    },
+    {
+      "category": "Counterfactual Reasoning",
+      "question": "If the person had NOT exhibited the behavior observed around 1.5s - 4.0s, which of the following personality assessments would be MOST affected?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Conscientiousness would decrease, as the self-correction is a key display of diligence and precision."
+        },
+        {
+          "id": "B",
+          "text": "Extraversion would remain high, as her social energy is consistently demonstrated in other moments."
+        },
+        {
+          "id": "C",
+          "text": "Neuroticism would be less supported, as this moment provides the main clue for performance anxiety."
+        },
+        {
+          "id": "D",
+          "text": "Neuroticism would increase, as the absence of the error would imply more internal performance pressure."
+        },
+        {
+          "id": "E",
+          "text": "Openness would be unchanged, since evidence for this trait is derived from objects in the background."
+        },
+        {
+          "id": "F",
+          "text": "Agreeableness would be less certain, as handling the mistake humorously suggests a good-natured spirit."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. The behavior in this interval is the verbal slip and flustered self-correction. The personality analysis explicitly cites this as the primary evidence for the High Neuroticism score, linking it to 'self-consciousness or performance anxiety.' Removing this behavior would remove the main justification for this assessment, thus affecting it the most.\n\n- Option A is a near-miss distractor. The behavior does support Medium Conscientiousness, but it is not the *sole* or *primary* evidence. Her organized presentation also supports it. The impact on the Neuroticism score, which hinges almost entirely on this event, would be greater.\n- Option B is a text-based distractor. While the statement is correct (Extraversion is supported by her smile, tone, etc.), it answers 'what would be least affected' rather than 'most affected', making it an incorrect choice.\n- Option D is a near-miss distractor. It correctly identifies Neuroticism as the affected trait but posits the wrong direction of change.\n- Option E is a text-based distractor. Similar to B, this statement is factually correct (Openness evidence is from the background) but irrelevant to the question of which trait would be most affected by the *behavior's absence*.\n- Option F is a video-based distractor. Her Agreeableness is mainly supported by her consistent warm smile and tone throughout the clip, not just this one incident. Therefore, the impact on the Agreeableness score would be minor compared to the impact on Neuroticism."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [
+      {
+        "check": "B",
+        "q_idx": 1,
+        "issue": "The question asks for a 'notable change in the person's facial expression' relevant to Neuroticism. However, the personality rationale for Neuroticism is based on a verbal slip and cognitive disfluency, not a specific change in facial expression. The observation records describe a consistent smile throughout this period.",
+        "action": "Reworded the question to focus on the general 'behavior' indicative of Neuroticism, rather than a specific facial expression change that is not documented."
+      }
+    ],
+    "corrections": {
+      "mcq_questions[1].question": "At which time interval does the behavior most indicative of the subject's assessed Neuroticism level occur?"
+    },
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator06",
+      "version": 1,
+      "clues_total": 14,
+      "clues_correct": 11,
+      "clues_wrong_corrected": 2,
+      "clues_missing_skipped": 0,
+      "clues_bonus": 1
+    }
+  }
+}

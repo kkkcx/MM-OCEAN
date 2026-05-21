@@ -1,0 +1,471 @@
+{
+  "video_id": "HJkoeB_F4c4.004.mp4",
+  "video_path": "HJkoeB_F4c4.004.mp4",
+  "transcription": "This is so strange, and a lot of people don't understand it. I never have to touch up my roots. I don't know what it is. I think it's the shade that my natural hair is. My hair is naturally like a light, ashy brown. No matter what hair color I get-",
+  "original_scores": {
+    "extraversion": 0.4953271028037384,
+    "agreeableness": 0.30769230769230765,
+    "conscientiousness": 0.5825242718446602,
+    "neuroticism": 0.4479166666666667,
+    "openness": 0.6555555555555556
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 3.4,
+      "description": "The subject maintains eye contact with the camera while speaking. Her eyebrows are slightly raised and her lips move naturally with her speech. Her overall expression is engaged and conversational.",
+      "bboxes": [
+        {
+          "frame_time": 1.363729,
+          "x": 0.41192434210526313,
+          "y": 0.11140350542570415,
+          "w": 0.21611842105263157,
+          "h": 0.1631578947368421,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 1.409366,
+          "x": 0.3986019736842105,
+          "y": 0.06403508437307258,
+          "w": 0.23536184210526317,
+          "h": 0.12894736842105264,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 1.718965,
+          "x": 0.4755756578947368,
+          "y": 0.3429824527941252,
+          "w": 0.12286184210526316,
+          "h": 0.14210526315789473,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 2.257962,
+          "x": 0.4415296052631579,
+          "y": 0.06140350542570415,
+          "w": 0.21463815789473684,
+          "h": 0.4710526315789474,
+          "note": "face human-annotated",
+          "region": "face"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 3.4,
+      "end_time": 5.7,
+      "description": "Her eyebrows raise higher and her eyes widen slightly as she speaks more emphatically, with her head nodding subtly in rhythm with her speech.",
+      "bboxes": [
+        {
+          "frame_time": 4.807275,
+          "x": 0.4652138157894737,
+          "y": 0.0798245580572831,
+          "w": 0.2131578947368421,
+          "h": 0.12105263157894737,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 3.525335,
+          "x": 0.4977796052631579,
+          "y": 0.17192982121517783,
+          "w": 0.20279605263157896,
+          "h": 0.13157894736842105,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 5.462812,
+          "x": 0.46373355263157895,
+          "y": 0.03508771595201994,
+          "w": 0.22351973684210527,
+          "h": 0.5605263157894737,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 6.8,
+      "end_time": 12.2,
+      "description": "Her gaze shifts briefly to her upper left as she speaks. Her expression becomes more neutral and descriptive. She purses her lips after the word \"brown.\"",
+      "bboxes": [
+        {
+          "frame_time": 8.856189,
+          "x": 0.42820723684210527,
+          "y": 0.12456140016254626,
+          "w": 0.18503289473684212,
+          "h": 0.12368421052631579,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 9.235795,
+          "x": 0.4178453947368421,
+          "y": 0.04298245279412521,
+          "w": 0.21611842105263157,
+          "h": 0.48947368421052634,
+          "note": "face human-annotated",
+          "region": "face"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 12.2,
+      "end_time": 14.8,
+      "description": "Her eyebrows raise significantly and her eyes widen again, adding emphasis to her words.",
+      "bboxes": [
+        {
+          "frame_time": 12.440645,
+          "x": 0.48297697368421055,
+          "y": 0.03245613700465152,
+          "w": 0.20131578947368423,
+          "h": 0.12368421052631579,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 13.208716,
+          "x": 0.48297697368421055,
+          "y": 0.08508771595201994,
+          "w": 0.23240131578947368,
+          "h": 0.12105263157894737,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 14.8,
+      "description": "The subject is sitting and holding the camera in her right hand, creating a selfie-style shot. Throughout the clip, her left hand is raised in the frame, palm facing inward. Her thumb and index finger are held together in a precise, circular gesture while her other three fingers are extended. She moves this hand subtly to emphasize her words.",
+      "bboxes": [
+        {
+          "frame_time": 0.923746,
+          "x": 0.733141447368421,
+          "y": 0.516666663320441,
+          "w": 0.266858552631579,
+          "h": 0.48157894736842105,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 0.923746,
+          "x": 0.05814144736842104,
+          "y": 0.5061403475309673,
+          "w": 0.26052631578947366,
+          "h": 0.4868421052631579,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 0.923746,
+          "x": 0.06998355263157893,
+          "y": 0.5614035054257042,
+          "w": 0.24868421052631579,
+          "h": 0.4026315789473684,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 1.060794,
+          "x": 0,
+          "y": 0.5403508738467567,
+          "w": 0.33898026315789476,
+          "h": 0.45789473684210524,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 3,
+      "description": "Speech is delivered at a moderate, conversational pace. The pitch rises slightly on \"so\" and falls at the end of the sentence on \"it.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 3,
+      "end_time": 6.7,
+      "description": "The speech rate increases slightly. Stress is placed on the word \"never\" through a rise in pitch and volume.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 6.7,
+      "end_time": 12.2,
+      "description": "The pace slows down, becoming more measured and thoughtful. A soft, wet lip-smack sound is audible at the end of the phrase.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 12.2,
+      "end_time": 14.8,
+      "description": "The pace accelerates again with a higher overall pitch, and increased stress is placed on the word \"what.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 14.8,
+      "description": "The subject is a young woman with a light skin tone and long, damp-looking ombre hair, transitioning from brown roots to blonde ends. She is wearing makeup and a silver necklace. Her attire consists of a light-blue ribbed sweater over a white top with lace trim. She is indoors, in what appears to be a living room or bedroom with bright, even lighting. In the background, a small black-and-white dog sits on a white textured blanket. A wooden dresser, a white shelving unit, a large cardboard box, and a vase of flowers are also visible.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Medium",
+      "score": 0.5,
+      "rationale": "The subject's Extraversion score is in the Medium range. She demonstrates social confidence by self-filming and speaking directly to an audience, maintaining consistent eye contact and an engaged, conversational expression. Her use of vocal emphasis and hand gestures to underscore her points indicates social expressiveness. However, this is balanced by periods of slower, more thoughtful speech and a relatively contained, rather than expansive, use of physical space. This combination of outward engagement and measured delivery supports a moderate, not high, level of Extraversion.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Low",
+      "score": 0.31,
+      "rationale": "A Low Agreeableness score is suggested by the subject's communication style, which is direct and self-focused rather than overtly warm or harmony-seeking. She is presenting a personal observation as a matter-of-fact point. The consistent use of a precise, specific hand gesture (thumb and forefinger in a circle) aligns with a focus on articulating a point accurately, rather than on building interpersonal rapport. The absence of affiliative cues like smiling reinforces a more independent and straightforward, rather than accommodating, stance.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Medium",
+      "score": 0.58,
+      "rationale": "The subject's Medium Conscientiousness is reflected in her structured attempt to analyze and explain a personal trait. Her speech follows a logical progression from observation to hypothesis ('I think it's the shade...'). The persistent, precise hand gesture she employs suggests a deliberate and orderly thought process, as this gesture is often used to signify a specific, well-defined point. The brief upward glance can also be interpreted as a moment of careful memory recall. The informal setting and the sentence trailing off at the end keep this from being a high score, indicating a moderate level of organization.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Medium",
+      "score": 0.45,
+      "rationale": "A Medium level of Neuroticism is indicated by subtle signs of self-monitoring and fluctuating emotional intensity. The subject begins by framing her experience as 'so strange,' which implies a degree of self-consciousness. Her vocal delivery shifts in pace and intensity, speeding up for emphasis ('never') and then slowing to a more pensive rate, which can reflect an active internal state. While these cues suggest some emotional sensitivity, her overall composure, steady gaze, and lack of overt anxiety markers place her firmly in the medium, not high, range for this trait.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "High",
+      "score": 0.66,
+      "rationale": "The subject's High score in Openness is strongly supported by the content and style of her communication. She is engaged in introspection, questioning and theorizing about a personal peculiarity, which demonstrates intellectual curiosity. Her expressive use of facial cues (raised eyebrows, widened eyes) and varied vocal intonation indicates an appreciation for nuance and a complex inner life. Furthermore, her brief upward-right gaze is a classic cue for accessing or constructing abstract thoughts and ideas, a cognitive pattern strongly associated with individuals high in Openness.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their High Openness level?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[0.9s - 2.2s]"
+        },
+        {
+          "id": "B",
+          "text": "[3.5s - 4.8s]"
+        },
+        {
+          "id": "C",
+          "text": "[5.7s - 7.0s]"
+        },
+        {
+          "id": "D",
+          "text": "[12.3s - 13.6s]"
+        },
+        {
+          "id": "E",
+          "text": "[8.5s - 9.8s]"
+        },
+        {
+          "id": "F",
+          "text": "[1.7s - 3.0s]"
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. The personality analysis identifies the upward-right gaze as a key indicator of High Openness, linked to abstract thought and introspection. The observation log notes this specific behavior occurs around 8.9s, which falls squarely within the [8.5s - 9.8s] interval.\n\n- Option A is a video-based distractor. This interval covers the initial engaged expression (raised brows, eye contact), which relates more to Extraversion.\n- Option B is a video-based distractor. This interval captures the widening of the eyes for emphasis on the word 'never,' which is an expressive cue but not the primary evidence for Openness.\n- Option C is a text-based distractor. This is a transitional period in the video with no notable facial expression changes noted in the observation log, making it a plausible but incorrect choice.\n- Option D is a video-based distractor. This interval shows the eyebrows raising and eyes widening again for emphasis at the end, a behavior more related to social expressiveness than the specific cognitive cue for Openness.\n- Option F is a near-miss distractor. It is another slice of the initial engagement phase, close in time to other events but not capturing the specific gaze shift related to Openness."
+    },
+    {
+      "category": "Mixed Emotion Discrimination",
+      "question": "During 0.0s - 3.4s, the person's emotional state is best characterized as which of the following? Consider both verbal and non-verbal cues.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Puzzled amusement balanced by a feeling of self-consciousness."
+        },
+        {
+          "id": "B",
+          "text": "Forthright assertion mixed with a hint of quiet contemplation."
+        },
+        {
+          "id": "C",
+          "text": "Mild surprise blended with an effort to build audience rapport."
+        },
+        {
+          "id": "D",
+          "text": "Warm friendliness tempered by a subtle feeling of reservation."
+        },
+        {
+          "id": "E",
+          "text": "Engaged curiosity mixed with a desire to articulate a clear point."
+        },
+        {
+          "id": "F",
+          "text": "Intellectual confidence blended with an understated sense of humor."
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. In this initial segment, the person makes direct eye contact, has slightly raised eyebrows, and a conversational tone. She introduces a topic as 'strange', indicating curiosity. Her overall expression is described as 'engaged and conversational', aligning perfectly with a state of engaged curiosity and a desire to explain.\n\n- Option A is a text-based distractor. While she says the topic is 'strange', her expression is not one of amusement or strong self-consciousness; it is controlled and communicative.\n- Option B is a video-based distractor. The 'forthright assertion' is present, but the 'quiet contemplation' is a distinct phase that happens later in the video (around 6.8s-12.2s).\n- Option C is a near-miss distractor. The slightly raised brows might be misinterpreted as mild surprise, but the overall context is introductory and explanatory, not reactive. The primary goal is explaining, not just rapport-building.\n- Option D is a text-based distractor. Her style is direct and self-focused, not overtly 'warm' or 'friendly', and she shows no signs of reservation.\n- Option F is a text-based distractor. While she speaks with some confidence, there are no verbal or non-verbal cues that indicate any sense of humor."
+    },
+    {
+      "category": "Temporal-Causal Reasoning",
+      "question": "Consider the sequence of behaviors observed across the video. Which of the following best describes the causal chain linking the person's actions at different moments?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A cognitive search [6-12s] leads to a declarative statement [0-3s] and then an emphatic reinforcement [3-6s]."
+        },
+        {
+          "id": "B",
+          "text": "Emphatic reinforcement [3-6s] prompts social withdrawal [6-12s], followed by a compensatory gesture [12-14.8s]."
+        },
+        {
+          "id": "C",
+          "text": "A declarative statement [0-3s] leads to a cognitive search [6-12s] and then an emphatic restatement [3-6s]."
+        },
+        {
+          "id": "D",
+          "text": "Self-monitoring [0-3s] is followed by a defensive justification [3-6s] and emotional regulation [6-12s]."
+        },
+        {
+          "id": "E",
+          "text": "A declarative statement [0-3s] leads to emphatic reinforcement [3-6s] and a subsequent cognitive search [6-12s]."
+        },
+        {
+          "id": "F",
+          "text": "An expressive gesture [0-14.8s] causes a tonal shift [3-6s] and then focused eye contact [0-3.4s] for effect."
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. The video follows a logical sequence: she first makes a declarative statement about her hair being 'strange' [0-3s], then emphasizes a key part of it ('never have to touch up') [3-6s], which then causes her to pause and search for a reason ('I think it's the shade...') [6-12s].\n\n- Option A is a video-based distractor with a reversed temporal order. The cognitive search happens after the statement, not before it.\n- Option B is a near-miss distractor. It misinterprets the causality and nature of the behaviors. The cognitive search is not 'social withdrawal', and the re-engagement is not 'compensatory'.\n- Option C is a video-based distractor with an incorrect temporal order. The emphatic reinforcement [3-6s] happens before the cognitive search [6-12s], not after it.\n- Option D is a text-based distractor. It uses plausible psychological terms ('self-monitoring', 'defensive justification') that do not accurately describe the observed behaviors in the video.\n- Option F is a video-based distractor with incorrect causality. The gesture is concurrent with her speech, not a cause of the tonal shift, and it incorrectly reverses the temporal order of the tonal shift and the initial eye contact."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 1.4s, a region was detected in the video (x=0.399, y=0.064, w=0.235, h=0.129, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A brief, upward-right shift in the person's gaze."
+        },
+        {
+          "id": "B",
+          "text": "A subtle, rhythmic nod of the head while speaking."
+        },
+        {
+          "id": "C",
+          "text": "A visible shift to a neutral, descriptive expression."
+        },
+        {
+          "id": "D",
+          "text": "A sharp, emphatic raising of both of the eyebrows."
+        },
+        {
+          "id": "E",
+          "text": "A slight, conversational lift of the person's brows."
+        },
+        {
+          "id": "F",
+          "text": "A relaxed and completely neutral position of the brow."
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. The provided coordinates at 1.4s perfectly frame the person's eyebrows. The observation log for the interval [0.0s - 3.4s] explicitly states, Her eyebrows are slightly raised, matching the description of a slight, conversational lift.\n\n- Option A is a video-based distractor. The upward-right gaze shift occurs in the eye region, not the eyebrow region, and at a much later time (around 8.9s).\n- Option B is a video-based distractor. The head nod occurs later (around 5.5s), and the bounding box would encompass the entire head, not just the brows.\n- Option C is a video-based distractor. The shift to a neutral face occurs later (around 9.2s) and describes the whole face, not just the action in this specific eyebrow region.\n- Option D is a near-miss distractor. A sharp, emphatic raising of the brows occurs, but it happens later at 12.4s to add emphasis. The action at 1.4s is much more subtle and conversational.\n- Option F is a near-miss distractor. This describes a different brow state (relaxed) which is observed at a different time (around 4.8s)."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "Which of the following options correctly identifies the moment and location of a behavior associated with thoughtful recall or constructing an idea?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The action is seen at 3.5s in the area defined by {x=0.498, y=0.172}."
+        },
+        {
+          "id": "B",
+          "text": "The action is seen at 1.1s in the area defined by {x=0.000, y=0.540}."
+        },
+        {
+          "id": "C",
+          "text": "The action is seen at 8.9s in the area defined by {x=0.070, y=0.561}."
+        },
+        {
+          "id": "D",
+          "text": "The action is seen at 12.4s in the area defined by {x=0.483, y=0.032}."
+        },
+        {
+          "id": "E",
+          "text": "The action is seen at 8.9s in the area defined by {x=0.428, y=0.125}."
+        },
+        {
+          "id": "F",
+          "text": "The action is seen at 8.9s in the area defined by {x=0.428, y=0.517}."
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. The behavior of thoughtful recall is indicated by the upward-right gaze shift. The observation log explicitly pinpoints this action at 8.9s with the bounding box x=0.428, y=0.125, w=0.185, h=0.124, which is in the eye region. Option E correctly identifies both the time and the location.\n\n- Option A is a video-based distractor. This time and location correspond to the eyes widening for emphasis, not thoughtful recall.\n- Option B is a video-based distractor. This time and location correspond to the hand gesture, not a facial expression related to recall.\n- Option C is a near-miss distractor. The time (8.9s) is correct, but the location points to the hand gesture region, not the eye region where the cognitive cue occurs.\n- Option D is a video-based distractor. This time and location correspond to the eyebrows raising for emphasis at the end of the video, not the gaze shift associated with recall.\n- Option F is a near-miss distractor. It has the correct time and x-coordinate but an incorrect y-coordinate, placing the region of interest on her chest/shoulder area instead of her eyes."
+    },
+    {
+      "category": "Counterfactual Reasoning",
+      "question": "If the person had NOT exhibited the behavior observed around 6.8s - 12.2s, which of the following personality assessments would be MOST affected?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The score for Agreeableness would shift higher, as this moment is the main indicator of her direct, assertive communication style."
+        },
+        {
+          "id": "B",
+          "text": "The Conscientiousness rating would be lower, as this is the primary segment showing a structured attempt to recall information."
+        },
+        {
+          "id": "C",
+          "text": "Extraversion's score would be much lower, because this quiet period provides a crucial balance to her overall social energy."
+        },
+        {
+          "id": "D",
+          "text": "The assessment for Openness would increase, because this particular behavior suggests confusion rather than confident creativity."
+        },
+        {
+          "id": "E",
+          "text": "Openness would be assessed as lower, as this moment provides the strongest evidence for an introspective, abstract thought process."
+        },
+        {
+          "id": "F",
+          "text": "The Neuroticism assessment would change, since this behavior is a clear example of managing performance anxiety effectively."
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. The behavior in this interval is the upward-right gaze and pensive expression, which the analysis identifies as the strongest evidence for High Openness, linking it to intellectual curiosity and abstract thought. Removing this key piece of evidence would significantly weaken the case for a High Openness score, likely causing it to be assessed as lower.\n\n- Option A is a text-based distractor. The evidence for Low Agreeableness (directness) comes from her overall tone and the persistent hand gesture, not from this specific pensive moment. Removing this moment would not change the Agreeableness score.\n- Option B is a video-based distractor. While this is a moment of thought, the analysis links her Conscientiousness more to her logical speech progression and precise hand gesture, not this specific gaze behavior.\n- Option C is a text-based distractor with flawed reasoning. Removing a quiet, introverted moment would, if anything, make her appear more consistently extraverted, potentially increasing the Extraversion score, not lowering it.\n- Option D is a near-miss distractor. It correctly identifies Openness as the affected trait but gets the direction of change and the reasoning wrong. The behavior is interpreted as a sign of high, not low, Openness, so removing it would decrease the score.\n- Option F is a text-based distractor. This behavior is a sign of cognitive processing, not anxiety management. Evidence for her Medium Neuroticism score comes from vocal shifts at other times."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator17",
+      "version": 1,
+      "clues_total": 24,
+      "clues_correct": 15,
+      "clues_wrong_corrected": 5,
+      "clues_missing_skipped": 4,
+      "clues_bonus": 0
+    }
+  }
+}

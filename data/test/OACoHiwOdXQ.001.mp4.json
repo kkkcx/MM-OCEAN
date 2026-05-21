@@ -1,0 +1,382 @@
+{
+  "video_id": "OACoHiwOdXQ.001.mp4",
+  "video_path": "OACoHiwOdXQ.001.mp4",
+  "transcription": "It's fair game for questioning. Make sure you ask the questions that are going to serve you most deeply. Once again, information wise, it's tomorrow night, that's Thursday the 2nd. It is at 9PM UK time.",
+  "original_scores": {
+    "extraversion": 0.36448598130841126,
+    "agreeableness": 0.5824175824175825,
+    "conscientiousness": 0.6990291262135921,
+    "neuroticism": 0.5625,
+    "openness": 0.4777777777777778
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 6.13,
+      "description": "Subject maintains direct eye contact with the camera. His mouth opens wide while speaking. His eyebrows are mostly neutral, with a slight upward movement on the word \"questions.\" He blinks naturally at 0.77 and 3.63 seconds.",
+      "bboxes": [
+        {
+          "frame_time": 0.946393,
+          "x": 0.40896381578947366,
+          "y": 0.2692982422678094,
+          "w": 0.23092105263157894,
+          "h": 0.14473684210526316,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 1.190624,
+          "x": 0.45929276315789475,
+          "y": 0.48771929489938837,
+          "w": 0.1125,
+          "h": 0.10526315789473684,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 0,
+          "x": 0.41192434210526313,
+          "y": 0.23508771595201994,
+          "w": 0.20575657894736843,
+          "h": 0.11052631578947368,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 5.296753,
+          "x": 0.3941611842105263,
+          "y": 0.27192982121517784,
+          "w": 0.21759868421052633,
+          "h": 0.14473684210526316,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 6.13,
+      "end_time": 15.13,
+      "description": "The subject's eyebrows raise slightly as he says \"Once again.\" He briefly furrows his brow while saying \"Thursday.\" He blinks at 11.23 and 13.23 seconds. His gaze remains fixed on the camera.",
+      "bboxes": [
+        {
+          "frame_time": 6.640021,
+          "x": 0.4178453947368421,
+          "y": 0.24561403174149363,
+          "w": 0.18651315789473685,
+          "h": 0.10263157894736842,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 10.517183,
+          "x": 0.43560855263157894,
+          "y": 0.2403508738467568,
+          "w": 0.16875,
+          "h": 0.14210526315789473,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 11.173553,
+          "x": 0.4178453947368421,
+          "y": 0.24561403174149363,
+          "w": 0.19095394736842106,
+          "h": 0.17894736842105263,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 14.211173,
+          "x": 0.41192434210526313,
+          "y": 0.26403508437307255,
+          "w": 0.19095394736842106,
+          "h": 0.11842105263157894,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 15.13,
+      "description": "The subject is framed from the chest up and remains relatively still throughout the video. His head performs very subtle nods that are in sync with his speech rhythm. His shoulders are level and relaxed.",
+      "bboxes": [
+        {
+          "frame_time": 2.106659,
+          "x": 0.3734375,
+          "y": 0.05350876858359889,
+          "w": 0.32861842105263156,
+          "h": 0.9342105263157895,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 3.66346,
+          "x": 0.3808388157894737,
+          "y": 0.05087718963623047,
+          "w": 0.28125,
+          "h": 0.9315789473684211,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 7.296391,
+          "x": 0.18544407894736842,
+          "y": 0.7140350843730726,
+          "w": 0.6675986842105264,
+          "h": 0.28157894736842104,
+          "note": "pose human-annotated",
+          "region": "shoulders"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 6.13,
+      "description": "Speech is delivered at a moderate pace with a clear, even tone. There is a slight emphasis and increase in pitch on the phrase \"serve you most deeply.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 6.13,
+      "end_time": 15.13,
+      "description": "The speaker maintains a consistent volume and pace. He places slight stress on \"tomorrow night\" and clearly enunciates \"Thursday the second\" and \"9 PM UK time.\" The pitch falls at the end of the final sentence.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.13,
+      "description": "The subject is a man with fair skin and short, dark, spiky hair. He is wearing a dark grey hooded sweatshirt over a lighter grey t-shirt. The setting is an indoor room with white walls. On the wall to his left, there are three vertically oriented, framed artworks. An overhead fluorescent light fixture is visible on the ceiling. To his right is a doorway leading to another room, where a window with blinds and a tripod are visible. A tall, dark decorative item, possibly a plant or vase, is in the far right of the frame.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Low",
+      "score": 0.36,
+      "rationale": "The subject's Extraversion is rated as Low. This is supported by his composed and controlled demeanor. His body remains relatively still, and his vocal delivery is measured and even-paced, lacking the expansive gestures and rapid, energetic speech often associated with high extraversion. While he maintains direct eye contact, in the context of a direct-to-camera address, this reflects focus and preparedness rather than a strong drive for social engagement. The overall presentation is more reserved and task-oriented than socially exuberant.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Medium",
+      "score": 0.58,
+      "rationale": "The subject's Agreeableness is assessed as Medium. His cooperative nature is evident in the helpful framing of his message, encouraging the audience to 'ask the questions that are going to serve you most deeply.' His relaxed posture and clear, even vocal tone create an approachable, non-confrontational atmosphere. However, the interaction remains formal and task-focused, without the effusive warmth or overt smiling that would suggest a very high level of Agreeableness.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "High",
+      "score": 0.7,
+      "rationale": "The subject's Conscientiousness is rated High. This is strongly indicated by his structured and deliberate communication style. He presents information clearly and precisely, repeating key details ('Once again...') to ensure the audience is well-informed. His speech is well-paced and articulate, and his nonverbal cues, such as direct eye contact and subtle, reinforcing head nods, project an air of preparedness and focus. The overall impression is that of a diligent and organized individual who is goal-oriented and attentive to detail.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Medium",
+      "score": 0.56,
+      "rationale": "The subject's Neuroticism is rated as Medium. He displays significant emotional stability, evidenced by his relaxed shoulders, steady vocal delivery, and normal blink rate. He appears calm and in control of the situation. However, the presence of slightly furrowed eyebrows at times and his very still, controlled posture suggest a degree of focused intensity or managed tension, rather than complete, carefree relaxation. This balance between overt composure and subtle signs of self-monitoring aligns with a moderate level of Neuroticism.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "Medium",
+      "score": 0.48,
+      "rationale": "The subject's Openness is assessed as Medium. The primary evidence is the use of the phrase 'serve you most deeply,' which suggests a preference for depth and meaning over purely superficial information, a characteristic associated with Openness. The presence of framed art in his background also points to a potential appreciation for aesthetics. However, his overall presentation, from his conventional attire to the straightforward nature of his message, does not strongly indicate a high degree of intellectual curiosity or a desire for novel experiences, placing him in the medium range for this trait.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their High Conscientiousness level?",
+      "options": [
+        {
+          "id": "A",
+          "text": "3.4s - 3.9s"
+        },
+        {
+          "id": "B",
+          "text": "0.5s - 1.0s"
+        },
+        {
+          "id": "C",
+          "text": "6.4s - 6.9s"
+        },
+        {
+          "id": "D",
+          "text": "8.0s - 8.5s"
+        },
+        {
+          "id": "E",
+          "text": "11.0s - 11.5s"
+        },
+        {
+          "id": "F",
+          "text": "10.3s - 10.8s"
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The correct answer is F. Around 10.5s, the person briefly raises his eyebrows while saying 'Thursday'. This micro-expression serves to emphasize a specific, crucial detail, which reflects a conscientious effort to ensure the information is clearly received and understood.\n\n- Option A is a video-based distractor. This interval contains a natural eye blink (at 3.63s), which is related to general composure (Neuroticism) but is not a specific emphatic gesture related to Conscientiousness.\n- Option B is a video-based distractor. This interval contains the first natural eye blink (at 0.77s), which is not an indicator of conscientiousness.\n- Option C is a video-based distractor. This interval captures the eyebrow raise on 'Once again' (at 6.6s). While also a sign of emphasis, the eyebrow raise at 10.5s on 'Thursday' is a more granular and precise point of clarification, making it slightly more relevant to high conscientiousness.\n- Option D is a text-based distractor. This interval is plausible as it falls within his speech, but there are no notable or recorded micro-expressions occurring during this specific time.\n- Option E is a near-miss distractor. This interval is immediately after the correct event and captures a blink (at 11.23s), but it misses the preceding eyebrow raise which is the key indicator of conscientious emphasis."
+    },
+    {
+      "category": "Mixed Emotion Discrimination",
+      "question": "During 0s - 6s, the person's emotional state is best characterized as which of the following? Consider both verbal and non-verbal cues.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Passionate conviction mixed with a sense of urgent pleading toward his audience."
+        },
+        {
+          "id": "B",
+          "text": "Nervous apprehension that is carefully tempered by a layer of forced composure."
+        },
+        {
+          "id": "C",
+          "text": "Scholarly confidence mixed with a subtle hint of condescension for the topic."
+        },
+        {
+          "id": "D",
+          "text": "Informative clarity tempered by a feeling of detached, routine repetition."
+        },
+        {
+          "id": "E",
+          "text": "Controlled seriousness that is mixed with a feeling of slight impatience."
+        },
+        {
+          "id": "F",
+          "text": "Focused intensity that is combined with a feeling of instructive guidance."
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The correct answer is F. In this segment, the person maintains direct eye contact and has slightly furrowed brows (focused intensity), while his verbal content is encouraging and helpful ('serve you most deeply'), reflecting instructive guidance. This combination accurately captures the nuanced emotional state.\n\n- Option A is a text-based distractor. His vocal tone is measured and calm, not passionate or urgent.\n- Option B is a text-based distractor. He appears composed and in control; there are no clear indicators of nervousness like fidgeting or a wavering voice.\n- Option C is a text-based distractor. While he is confident, there are no non-verbal cues (like a smirk or dismissive tone) to suggest condescension.\n- Option D is a video-based distractor. This description better fits the second half of the video (6s-15s) where he is repeating logistical information, rather than the initial, more encouraging framing.\n- Option E is a near-miss distractor. It correctly identifies the 'controlled seriousness' or 'focused intensity', but there is no evidence of impatience in his pacing, tone, or gestures."
+    },
+    {
+      "category": "Temporal-Causal Reasoning",
+      "question": "Consider the sequence of behaviors observed across the video. Which of the following best describes the causal chain linking the person's actions at different moments?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Initial engagement is followed by structured clarification, which in turn leads to a self-monitoring display."
+        },
+        {
+          "id": "B",
+          "text": "A compensatory display for nervousness leads to a phase of intellectual elaboration, followed by social withdrawal."
+        },
+        {
+          "id": "C",
+          "text": "A period of reflective thought gives way to spontaneous emotional expression, culminating in a request for feedback."
+        },
+        {
+          "id": "D",
+          "text": "Conclusive signaling prompts an initial engagement, which is then followed by a period of structured clarification."
+        },
+        {
+          "id": "E",
+          "text": "Initial engagement leads to emotional regulation, which then causes the person to engage in conclusive signaling."
+        },
+        {
+          "id": "F",
+          "text": "An initial engagement display transitions into a structured clarification phase, which concludes with a signal of completion."
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The correct answer is F. This accurately describes the video's flow: He begins with an engaging statement encouraging deep questions (initial engagement, ~0-6s), then transitions to providing clear, repeated logistical details (structured clarification, ~6-12s), and finishes with a falling intonation that signals the end of the message (signal of completion, ~12-15s).\n\n- Option A is a near-miss distractor. The first two links are correct (engagement -> clarification), but the final behavior is a signal of completion, not a display of self-monitoring (like fixing hair or adjusting posture).\n- Option B is a video-based distractor. The abstract labels do not map to the video content; he does not appear nervous, and the conclusion is not social withdrawal.\n- Option C is a text-based distractor. The speaker's delivery is scripted and controlled, not reflective or spontaneous, and he does not request feedback.\n- Option D is a distractor with reversed temporal order. It incorrectly places the conclusive signal at the beginning of the causal chain.\n- Option E is a near-miss distractor. It correctly identifies the first and last stages but inserts an incorrect intermediate step. There is no clear evidence of an emotional regulation event between the engagement and the conclusion."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 5.3s, a region was detected in the video (x=0.39, y=0.27, w=0.22, h=0.15, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A pronounced mouth movement during speech."
+        },
+        {
+          "id": "B",
+          "text": "A relaxed and stable shoulder positioning."
+        },
+        {
+          "id": "C",
+          "text": "A subtle head nod synchronized with speech."
+        },
+        {
+          "id": "D",
+          "text": "A steady and direct gaze into the camera."
+        },
+        {
+          "id": "E",
+          "text": "A slight upward twitch of the eyebrows."
+        },
+        {
+          "id": "F",
+          "text": "A natural and periodic eye blink is seen."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "The correct answer is F. The specified bounding box at 5.3s precisely covers the subject's eyes. The observation log for this period notes a natural blink at 3.63s, and re-examining the video at 5.3s confirms another blink occurs. This is the most prominent action within that specific region at that time.\n\n- Option A is a video-based distractor. This describes the mouth, which is located below the specified bounding box.\n- Option B is a video-based distractor. This describes the shoulders, which are well outside the specified bounding box.\n- Option C is a video-based distractor. This describes the entire head's movement, not the specific action localized within the eye region defined by the bounding box.\n- Option D is a near-miss distractor. While the person does maintain a steady gaze throughout the video, the most specific, discrete *action* happening within the box at that moment is the blink, not the static state of gazing.\n- Option E is a video-based distractor. Eyebrow movements occur at other times (e.g., around 0.0s and 10.5s), but the specified bounding box is focused on the eyes, not the brows above them."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "The speaker uses a specific, brief facial movement to add emphasis to a key piece of information. Which option correctly identifies both the timing and location of this emphatic gesture?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Time: 3.7s, Bbox: (x=0.38, y=0.05, w=0.28, h=0.93)"
+        },
+        {
+          "id": "B",
+          "text": "Time: 1.2s, Bbox: (x=0.46, y=0.49, w=0.11, h=0.11)"
+        },
+        {
+          "id": "C",
+          "text": "Time: 10.5s, Bbox: (x=0.46, y=0.49, w=0.11, h=0.11)"
+        },
+        {
+          "id": "D",
+          "text": "Time: 6.6s, Bbox: (x=0.44, y=0.24, w=0.17, h=0.14)"
+        },
+        {
+          "id": "E",
+          "text": "Time: 8.0s, Bbox: (x=0.50, y=0.30, w=0.20, h=0.15)"
+        },
+        {
+          "id": "F",
+          "text": "Time: 10.5s, Bbox: (x=0.44, y=0.24, w=0.17, h=0.14)"
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The correct answer is F. The most distinct emphatic gesture is the brief eyebrow raise while saying 'Thursday' to highlight this specific detail. The observation log confirms this occurs at 10.5s with a bounding box covering the eyebrows, which matches this option's coordinates.\n\n- Option A is a video-based distractor. This time and bbox correspond to a subtle head nod, not a facial micro-expression for emphasis.\n- Option B is a video-based distractor. This time and bbox correspond to a mouth movement during speech, which is a normal part of articulation, not a specific emphatic gesture.\n- Option C is a near-miss distractor. The time (10.5s) is correct, but the bounding box points to the mouth area, not the eyebrows where the emphatic gesture occurs.\n- Option D is a near-miss distractor. This option correctly identifies the eyebrow region with a similar bbox but points to the wrong time (6.6s), which corresponds to the eyebrow raise on 'Once again', a different moment of emphasis.\n- Option E is a text-based distractor. There is no specific emphatic gesture recorded at this time or location in the video."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [
+      {
+        "check": "B",
+        "q_idx": 4,
+        "issue": "The correct answer 'F' states that a blink is seen around 5.3s. However, the observation log does not mention a blink at this time (it mentions blinks at 0.77s and 3.63s). The log does state that the subject 'maintains direct eye contact' throughout this period, which corresponds to option 'D'. The provided bounding box is a correct match for the 'eyes' region at 5.29s.",
+        "action": "Changed correct_answer from 'F' to 'D'."
+      }
+    ],
+    "corrections": {
+      "mcq_questions[4].correct_answer": "D"
+    },
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator16",
+      "version": 2,
+      "clues_total": 14,
+      "clues_correct": 12,
+      "clues_wrong_corrected": 2,
+      "clues_missing_skipped": 0,
+      "clues_bonus": 0
+    }
+  }
+}

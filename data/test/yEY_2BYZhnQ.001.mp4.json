@@ -1,0 +1,609 @@
+{
+  "video_id": "yEY_2BYZhnQ.001.mp4",
+  "video_path": "yEY_2BYZhnQ.001.mp4",
+  "transcription": "A card. Basically, it's something that you give to people at a casting so that they can remember you. A lot of times they'll like write little notes on the side of the card. A lot of times you'll see like three piles, and typically that's like, one piles the yes ...",
+  "original_scores": {
+    "extraversion": 0.5327102803738318,
+    "agreeableness": 0.5274725274725275,
+    "conscientiousness": 0.7669902912621359,
+    "neuroticism": 0.6875,
+    "openness": 0.7666666666666666
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 9.77,
+      "description": "Gaze is directed at the camera. Eyebrows are slightly raised, and facial expression is neutral and engaged while speaking. Mouth movements are consistent with speech.",
+      "bboxes": [
+        {
+          "frame_time": 2.969714,
+          "x": 0.5044407894736842,
+          "y": 0.10052631779720908,
+          "w": 0.16430921052631578,
+          "h": 0.12368421052631579,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 3.183791,
+          "x": 0.4837171052631579,
+          "y": 0.0400000020077354,
+          "w": 0.1924342105263158,
+          "h": 0.42894736842105263,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 4.421332,
+          "x": 0.5399671052631579,
+          "y": 0.29526315990247226,
+          "w": 0.10213815789473685,
+          "h": 0.14473684210526316,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 9.77,
+      "end_time": 11.57,
+      "description": "A wide smile forms, showing teeth, as the eyes widen slightly and eyebrows raise higher.",
+      "bboxes": [
+        {
+          "frame_time": 10.894536,
+          "x": 0.48963815789473686,
+          "y": 0.30052631779720906,
+          "w": 0.1613486842105263,
+          "h": 0.1394736842105263,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 10.930583,
+          "x": 0.48223684210526313,
+          "y": 0.14263158095510384,
+          "w": 0.17023026315789475,
+          "h": 0.11578947368421053,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 10.930583,
+          "x": 0.47483552631578946,
+          "y": 0.08473684411299856,
+          "w": 0.17911184210526315,
+          "h": 0.1,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 11.57,
+      "end_time": 15.17,
+      "description": "The smile transitions back to a neutral speaking expression, with gaze maintained on the camera. Eyebrows lower to a slightly raised position.",
+      "bboxes": [
+        {
+          "frame_time": 13.567818,
+          "x": 0.5,
+          "y": 0.29526315990247226,
+          "w": 0.12286184210526316,
+          "h": 0.1,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 15.14601,
+          "x": 0.4733552631578947,
+          "y": 0.1400000020077354,
+          "w": 0.18947368421052632,
+          "h": 0.0868421052631579,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 15.14601,
+          "x": 0.48223684210526313,
+          "y": 0.07421052832352487,
+          "w": 0.18355263157894738,
+          "h": 0.0868421052631579,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 0.94,
+      "description": "Subject holds up a stack of white cards, showing the front cover which features a black and white photo.",
+      "bboxes": [
+        {
+          "frame_time": 0.919376,
+          "x": 0.04259868421052631,
+          "y": 0.12157894937615646,
+          "w": 0.421875,
+          "h": 0.7368421052631579,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0.94,
+      "end_time": 2.18,
+      "description": "She quickly flips through the cards with her right hand, revealing the backs, before holding them up again.",
+      "bboxes": [
+        {
+          "frame_time": 2.18,
+          "x": 0.23207236842105264,
+          "y": 0.16631579148141962,
+          "w": 0.41595394736842106,
+          "h": 0.8157894736842105,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 2.18,
+          "x": 0.0381578947368421,
+          "y": 0.22421052832352487,
+          "w": 0.49736842105263157,
+          "h": 0.6552631578947369,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 2.18,
+      "end_time": 6.84,
+      "description": "She holds the stack of cards steady with both hands in front of her chest.",
+      "bboxes": [
+        {
+          "frame_time": 6.84,
+          "x": 0.05148026315789473,
+          "y": 0.19526315990247226,
+          "w": 0.42039473684210527,
+          "h": 0.7105263157894737,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 6.84,
+      "end_time": 8.16,
+      "description": "She briefly pulls her right hand away from the cards to make a small, illustrative gesture while speaking, then returns it to the cards.",
+      "bboxes": [
+        {
+          "frame_time": 7.59634,
+          "x": 0.18026315789473685,
+          "y": 0.4452631599024722,
+          "w": 0.25164473684210525,
+          "h": 0.41842105263157897,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 7.59634,
+          "x": 0.4911184210526316,
+          "y": 0.28473684411299854,
+          "w": 0.10361842105263158,
+          "h": 0.11842105263157894,
+          "note": "human-annotated",
+          "region": "unknown"
+        },
+        {
+          "frame_time": 8.16,
+          "x": 0.3001644736842105,
+          "y": 0.2663157914814196,
+          "w": 0.19391447368421053,
+          "h": 0.35,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 8.16,
+      "end_time": 10.32,
+      "description": "She holds the cards steady again with both hands.",
+      "bboxes": [
+        {
+          "frame_time": 9.35022,
+          "x": 0.12697368421052632,
+          "y": 0.5478947388498406,
+          "w": 0.4485197368421053,
+          "h": 0.3526315789473684,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 10.32,
+      "end_time": 11.5,
+      "description": "As she smiles, she gestures with her right hand, moving it outward to her right with an open palm.",
+      "bboxes": [
+        {
+          "frame_time": 10.950848,
+          "x": 0.49703947368421053,
+          "y": 0.27947368621826174,
+          "w": 0.1569078947368421,
+          "h": 0.1631578947368421,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 10.950848,
+          "x": 0.5399671052631579,
+          "y": 0.768947370428788,
+          "w": 0.27976973684210527,
+          "h": 0.22631578947368422,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 11.5,
+      "end_time": 15.17,
+      "description": "She brings her right hand back towards the center, continuing to gesture with her palm open and slightly upward while holding the cards with her left hand.",
+      "bboxes": [
+        {
+          "frame_time": 11.986957,
+          "x": 0.36085526315789473,
+          "y": 0.4900000020077354,
+          "w": 0.3537828947368421,
+          "h": 0.37105263157894736,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 11.986957,
+          "x": 0.1299342105263158,
+          "y": 0.5321052651656302,
+          "w": 0.1998355263157895,
+          "h": 0.3526315789473684,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 9.58,
+      "description": "Speech is delivered at a moderate, consistent pace with a clear, informative tone. Pitch is relatively stable with natural intonation.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 9.58,
+      "end_time": 15.17,
+      "description": "The speech rate slightly increases and the pitch becomes more varied and animated, with a slight laugh in the voice on \"a lot of times.\" A brief pause occurs after the word \"like\" at 13.3.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.17,
+      "description": "The subject is a young woman with long, dark brown hair, fair skin, and noticeable makeup including dark magenta lipstick and defined eye makeup. She is wearing a light grey or beige long-sleeved top. Her nails are painted a light, neutral color. The setting is an indoor room, with a curtain decorated with out-of-focus, warm-toned string lights in the background. The lighting is soft and focused on the subject.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0.010915000000000008,
+      "end_time": 1.010915,
+      "description": "The subject is a young woman with long, dark brown hair, fair skin, and noticeable makeup including dark magenta lipstick and defined eye makeup. She is wearing a light grey or beige long-sleeved top. Her nails are painted a light, neutral color. The setting is an indoor room, with a curtain decorated with out-of-focus, warm-toned string lights in the background. The lighting is soft and focused on the subject.",
+      "bboxes": [
+        {
+          "frame_time": 0.510915,
+          "x": 0.15657894736842104,
+          "y": 0.16105263358668276,
+          "w": 0.3848684210526316,
+          "h": 0.6947368421052632,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Medium",
+      "score": 0.53,
+      "rationale": "The subject's Extraversion score is in the Medium range. She demonstrates social engagement by speaking directly to the camera and using hand gestures to explain her points. A warm, broad smile appears at 9.8s, indicating social expressiveness. However, her overall energy is measured rather than exuberant. For a significant portion of the video, her facial expression remains neutral and focused, and her vocal pace is moderate. This balance between moments of social warmth and a controlled, informative demeanor is characteristic of an individual with a medium level of Extraversion.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Medium",
+      "score": 0.53,
+      "rationale": "The subject scores in the Medium range for Agreeableness. Her cooperative nature is evident as she clearly explains a concept to her audience in an informative and helpful manner. Her brief but genuine smile and generally pleasant vocal tone suggest an affiliative intent. However, her demeanor is primarily task-oriented and professional, maintaining a certain psychological distance rather than being overly warm or demonstrative. This blend of cooperative communication with a focused, neutral presentation aligns with a moderate level of Agreeableness.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "High",
+      "score": 0.77,
+      "rationale": "The subject's High Conscientiousness is supported by several behavioral cues. Her explanation is highly structured and logical, moving from defining the object (a card) to its specific use in a casting environment. Her speech is clear, articulate, and consistently paced, indicating preparation. Furthermore, her well-maintained appearance, including distinct makeup and neat nails, suggests a high degree of attention to detail and orderliness. The entire presentation feels purposeful and well-organized, reflecting the diligent and goal-oriented nature of a highly conscientious individual.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "High",
+      "score": 0.69,
+      "rationale": "A High level of Neuroticism is suggested by subtle indicators of self-consciousness and nervous energy. The subject consistently holds the cards in front of her chest, a behavior which can serve as a physical barrier or a grounding mechanism in a potentially stressful situation like being on camera. Towards the end of the clip, her vocal pace slightly increases and contains a hint of nervous laughter ('a lot of times'), which often signals heightened self-monitoring. While outwardly composed, these subtle cues point to an undercurrent of tension, consistent with a higher level of Neuroticism.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "High",
+      "score": 0.77,
+      "rationale": "The subject's High Openness is reflected in both the content and her personal expression. The topic itself, revolving around the casting process, belongs to the creative and artistic domain. Her personal aesthetic, characterized by defined, stylistic makeup and a curated background with decorative lights, demonstrates an appreciation for aesthetics and self-expression. Her ability to articulate an industry-specific concept clearly for a general audience shows intellectual curiosity and a capacity for abstract communication, which are key facets of Openness.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During 0.0s - 9.6s, the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "High Agreeableness, as shown by her helpful and instructive tone."
+        },
+        {
+          "id": "B",
+          "text": "Low Neuroticism, as indicated by her calm and steady composure."
+        },
+        {
+          "id": "C",
+          "text": "High Extraversion, as supported by her very direct and engaging speech."
+        },
+        {
+          "id": "D",
+          "text": "Low Conscientiousness, given the informal, artistic subject matter."
+        },
+        {
+          "id": "E",
+          "text": "High Openness, due to the creative and aesthetic nature of the topic."
+        },
+        {
+          "id": "F",
+          "text": "High Conscientiousness, demonstrated by her methodical and clear talk."
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The correct answer is F. The personality analysis highlights that the subject's clear, articulate, and structured explanation of the card's purpose is a primary indicator of High Conscientiousness. Option A is a text-based distractor; while her tone is helpful, her demeanor is more professional and task-oriented than warmly agreeable. Option C is a video-based distractor; the evidence for Extraversion (broad smile, increased vocal energy) appears later, after 9.8s. The period in question is characterized by a more moderate and measured energy. Option D is a near-miss distractor; it correctly identifies the trait dimension but in the wrong direction, confusing the creative topic with a lack of orderliness, whereas the delivery itself is very orderly. Option B is a text-based distractor; her outward composure could be misinterpreted as low neuroticism, but other cues (holding cards as a barrier) throughout the video suggest otherwise. Option E is a video-based distractor; while the topic is relevant to Openness, the *behavioral pattern* of structured, logical explanation is a much more direct signal of Conscientiousness."
+    },
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their Extraversion level?",
+      "options": [
+        {
+          "id": "A",
+          "text": "0.1s - 1.9s"
+        },
+        {
+          "id": "B",
+          "text": "2.2s - 4.0s"
+        },
+        {
+          "id": "C",
+          "text": "6.8s - 8.2s"
+        },
+        {
+          "id": "D",
+          "text": "8.3s - 9.7s"
+        },
+        {
+          "id": "E",
+          "text": "12.0s - 13.8s"
+        },
+        {
+          "id": "F",
+          "text": "9.8s - 11.6s"
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The correct answer is F. The personality analysis for Extraversion explicitly points to the warm, broad smile that appears at 9.8s as a key indicator of social expressiveness. The observation log confirms this period (9.8s - 11.6s) as when her mouth forms a wide smile, her eyes widen, and her eyebrows raise. Option A is a video-based distractor; this is when she first presents the card, which is an action, not a significant facial expression change. Option C is a video-based distractor; this interval contains a small hand gesture, not a facial micro-expression. Option D is a near-miss distractor; it captures the moment immediately *before* the smile, making it temporally close but incorrect. Option E is another near-miss distractor; this is the period when the smile is fading, which is a change, but the peak expression relevant to Extraversion occurs in the correct interval."
+    },
+    {
+      "category": "Mixed Emotion Discrimination",
+      "question": "During 9.6s - 15.2s, the person's emotional state is best characterized as which of the following? Consider both verbal and non-verbal cues.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Creative pride that is mixed with a sense of humble reflection."
+        },
+        {
+          "id": "B",
+          "text": "Excitement about her topic that is tempered by some anticipation."
+        },
+        {
+          "id": "C",
+          "text": "Spontaneous joy being actively tempered by a professional focus."
+        },
+        {
+          "id": "D",
+          "text": "Deep concentration on her subject mixed with a slight amusement."
+        },
+        {
+          "id": "E",
+          "text": "Confident self-assurance that is mixed with some relaxed humor."
+        },
+        {
+          "id": "F",
+          "text": "Professional engagement that is actively mixed with social warmth."
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The correct answer is F. In this segment, the subject's demeanor shifts. She smiles broadly (social warmth) and her voice becomes more lively with a hint of laughter, while still continuing her explanation (professional engagement). The personality analyses for both Agreeableness and Extraversion support this blend of task-oriented communication with moments of social expressiveness. Option D is a video-based distractor; 'focused concentration' better describes the first half of the video (0-9.6s) rather than this more expressive segment. Options A and B are text-based distractors; they are plausible emotional states for someone discussing their profession but are not as well-supported by the specific combination of vocal and facial cues as option F. Option C is a near-miss distractor; while there is joy/warmth and professionalism, 'tempered' suggests one is suppressing the other, whereas the video shows them co-existing. Option E is another near-miss; 'relaxed humor' is inaccurate given the analysis notes the laughter could be a sign of nervous energy (High Neuroticism), not relaxation."
+    },
+    {
+      "category": "Temporal-Causal Reasoning",
+      "question": "Consider the sequence of behaviors observed across the video. Which of the following best describes the causal chain linking the person's actions at different moments?",
+      "options": [
+        {
+          "id": "A",
+          "text": "An early social display causes a shift to task-focused behavior, followed by a late moment of self-correction."
+        },
+        {
+          "id": "B",
+          "text": "A mid-video self-monitoring act leads to a compensatory gesture, which is then followed by a late verbal clarification."
+        },
+        {
+          "id": "C",
+          "text": "An initial expressive gesture leads to a sustained increase in vocal energy, culminating in a late shift of posture."
+        },
+        {
+          "id": "D",
+          "text": "A late display of emotional vulnerability triggers a verbal hesitation, preceded by an early period of steady focus."
+        },
+        {
+          "id": "E",
+          "text": "An early verbal mistake prompts a brief non-verbal apology, followed by a mid-video attempt to regain composure."
+        },
+        {
+          "id": "F",
+          "text": "An initial task-focused state is altered by a social cue, causing a brief expressive display and a fast regulation."
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The correct answer is F. The video shows an initial period of controlled, task-focused explanation (0-9.6s). This is interrupted when the verbal content becomes more social ('a lot of times'), which acts as a cue. This cue triggers a brief, warm social expression (the smile at 9.8s). This expressive display is then quickly regulated as she returns to a more neutral speaking expression (from 11.6s onwards). Option A describes a reversed temporal order; the task-focused behavior comes first. Option B is a text-based distractor using plausible jargon but not reflecting the video's events. Option C is a near-miss distractor; there is an increase in vocal energy, but it's not sustained and doesn't culminate in a postural shift. Option D has incorrect causality; the expressive display is warmth, not vulnerability, and it doesn't trigger hesitation. Option E is a text-based distractor; there is no observable verbal mistake or apology signal."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 10.9s, a region was detected in the video (x=0.482, y=0.143, w=0.170, h=0.116, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A neutral, engaged facial expression during speech."
+        },
+        {
+          "id": "B",
+          "text": "A smile transitioning back to a neutral mouth posture."
+        },
+        {
+          "id": "C",
+          "text": "The eyebrows lowering to a more relaxed, natural state."
+        },
+        {
+          "id": "D",
+          "text": "The action of presenting a stack of white cards to viewer."
+        },
+        {
+          "id": "E",
+          "text": "Quickly flipping through the back side of several cards."
+        },
+        {
+          "id": "F",
+          "text": "A subtle but distinct widening motion of both the eyes."
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The correct answer is F. The provided coordinates at 10.9s precisely frame the subject's eyes. The observation log for the period [9.8s - 11.6s] states that her eyes slightly widen as part of a broad smile. Option F is the most accurate description of the action within that specific bounding box. Option A is a video-based distractor describing the overall face from an earlier segment (0.0s-9.8s). Option C is a near-miss distractor; it describes the eyebrows, which are adjacent to the eyes, but from a later time segment (11.6s-15.2s) when the expression is relaxing. Option B is a video-based distractor describing the mouth during a later time segment (11.6s-15.2s). Options D and E are video-based distractors describing hand and object manipulations from completely different parts of the video and different spatial locations."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "Which of the following options points to a moment when the person's facial expression has reset to a neutral, task-focused state after their brief smile?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[11.0s]  x=0.50, y=0.28, w=0.16, h=0.16"
+        },
+        {
+          "id": "B",
+          "text": "[2.2s]  x=0.04, y=0.22, w=0.50, h=0.66"
+        },
+        {
+          "id": "C",
+          "text": "[11.0s]  x=0.54, y=0.77, w=0.28, h=0.23"
+        },
+        {
+          "id": "D",
+          "text": "[4.4s]  x=0.54, y=0.30, w=0.10, h=0.14"
+        },
+        {
+          "id": "E",
+          "text": "[9.4s]  x=0.13, y=0.55, w=0.45, h=0.35"
+        },
+        {
+          "id": "F",
+          "text": "[15.1s]  x=0.47, y=0.14, w=0.19, h=0.09"
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The correct answer is F. The question asks to identify the moment the expression resets to neutral after a peak social expression. The peak expression (the smile) occurs around 10-11s. The observation log for [11.6s - 15.2s] describes the smile transitioning back, eyes remaining on camera, and eyebrows lowering. The timestamp and coordinates in option F, [15.1s] x=0.47, y=0.14, w=0.19, h=0.09, capture the eye/eyebrow region at the end of this transition, perfectly matching the description. Option A is a near-miss distractor; it shows the mouth during the peak of the smile, not the reset phase. Option C is a video-based distractor showing the hand gesture during the smile. Options B and E are video-based distractors showing her holding the cards. Option D is a video-based distractor showing her mouth during the initial neutral speaking phase, long before the peak expression."
+    },
+    {
+      "category": "Counterfactual Reasoning",
+      "question": "If the person had NOT exhibited the behavior observed around 9.6s - 15.2s, which of the following personality assessments would be MOST affected?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Conscientiousness would seem lower, since that moment shows a highly articulate and prepared delivery."
+        },
+        {
+          "id": "B",
+          "text": "Openness may be assessed as Medium, as this part is crucial for showing her unique aesthetic sense."
+        },
+        {
+          "id": "C",
+          "text": "Extraversion would seem lower, as that vocal energy is a primary indicator of her social engagement."
+        },
+        {
+          "id": "D",
+          "text": "Agreeableness would seem higher, as that vocal wavering could be seen as a lack of social warmth."
+        },
+        {
+          "id": "E",
+          "text": "Neuroticism might be assessed as Low, because that moment contains the only indicator of self-consciousness."
+        },
+        {
+          "id": "F",
+          "text": "Neuroticism may be assessed as Medium, because a key indicator of her nervous energy would be absent."
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The correct answer is F. The behavior in this period includes an increased vocal pace and a 'hint of nervous laughter,' which the personality analysis cites as a key indicator for High Neuroticism, suggesting self-consciousness or nervous energy. Removing this evidence would significantly weaken the case for a High score. Option A is a video-based distractor; the primary evidence for Conscientiousness comes from the structured speech in the *first* part of the video (0-9.6s). Option B is a text-based distractor; Openness is supported by her overall aesthetic and topic, not just this one moment. Option C is a strong near-miss distractor; this moment does show extraverted behavior, but the smile is also strong evidence, so removing the vocal energy would weaken the score but perhaps not as much as it would for Neuroticism, for which this is a more unique cue. Option E is a near-miss that overstates the case; the score would likely fall to Medium, not Low, as holding the cards is another potential indicator. The word 'only' makes it incorrect. Option D makes an illogical claim."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [
+      {
+        "check": "B",
+        "q_idx": 5,
+        "issue": "The question asks for the moment the facial expression 'begins to reset', but the correct answer's timestamp (15.1s) points to the moment when the expression has already fully reset to neutral. The reset actually begins around 11.57s. The question stem is factually inconsistent with the timestamp in the correct answer.",
+        "action": "Modified the question stem to ask for a moment when the expression *has reset*, making the correct answer factually accurate."
+      }
+    ],
+    "corrections": {
+      "mcq_questions[5].question": "Which of the following options points to a moment when the person's facial expression has reset to a neutral, task-focused state after their brief smile?"
+    },
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator11",
+      "version": 1,
+      "clues_total": 26,
+      "clues_correct": 21,
+      "clues_wrong_corrected": 3,
+      "clues_missing_skipped": 1,
+      "clues_bonus": 1
+    }
+  }
+}

@@ -1,0 +1,377 @@
+{
+  "video_id": "-agCXYgb7pI.002.mp4",
+  "video_path": "-agCXYgb7pI.002.mp4",
+  "transcription": "You can call it OCDs and all those things, but yeah, guys generally tend to relax. Again, different guys do different things. Someone might get up late. For me, I still get up around the same time after my-",
+  "original_scores": {
+    "extraversion": 0.47663551401869164,
+    "agreeableness": 0.7252747252747254,
+    "conscientiousness": 0.5145631067961165,
+    "neuroticism": 0.59375,
+    "openness": 0.5444444444444444
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 15.19,
+      "description": "The subject maintains a direct and steady gaze toward the camera. His facial expression is largely neutral and composed. His eyebrows remain in a relaxed position, and his mouth moves naturally in sync with his speech. He blinks at normal intervals.",
+      "bboxes": [
+        {
+          "frame_time": 0,
+          "x": 0.41118421052631576,
+          "y": 0.21578947368421053,
+          "w": 0.13766447368421053,
+          "h": 0.10263157894736842,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 0,
+          "x": 0.41118421052631576,
+          "y": 0.21578947368421053,
+          "w": 0.13322368421052633,
+          "h": 0.21578947368421053,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 3.466392,
+          "x": 0.3993421052631579,
+          "y": 0.1736842105263158,
+          "w": 0.1569078947368421,
+          "h": 0.12631578947368421,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 3.466392,
+          "x": 0.4185855263157895,
+          "y": 0.34210526315789475,
+          "w": 0.09325657894736843,
+          "h": 0.12894736842105264,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 4.060284,
+          "x": 0.43338815789473684,
+          "y": 0.24736842105263157,
+          "w": 0.12730263157894736,
+          "h": 0.1,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 15.19,
+      "description": "The subject is seated upright in a chair, with his upper torso and head visible. His posture is stable with no significant shifts. His head remains mostly still, with only minor, subtle nods that punctuate his speech.",
+      "bboxes": [
+        {
+          "frame_time": 4.060284,
+          "x": 0.2587171052631579,
+          "y": 0.5789473684210527,
+          "w": 0.4011513157894737,
+          "h": 0.4,
+          "note": "human-annotated",
+          "region": "unknown"
+        },
+        {
+          "frame_time": 4.060284,
+          "x": 0.2113486842105263,
+          "y": 0.5578947368421052,
+          "w": 0.5565789473684211,
+          "h": 0.4394736842105263,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 4.060284,
+          "x": 0.2720394736842105,
+          "y": 0.4052631578947368,
+          "w": 0.39671052631578946,
+          "h": 0.37105263157894736,
+          "note": "pose human-annotated",
+          "region": "torso"
+        },
+        {
+          "frame_time": 4.060284,
+          "x": 0.38009868421052634,
+          "y": 0.06842105263157895,
+          "w": 0.20575657894736843,
+          "h": 0.42894736842105263,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0.5,
+      "end_time": 4.1,
+      "description": "Speaks at a moderate pace with a clear, even volume. The pitch contour is generally flat with a slight fall at the end of the phrase 'and all those things'.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 4.2,
+      "end_time": 4.7,
+      "description": "A brief pause followed by the filler sound 'uhm'.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 4.7,
+      "end_time": 10.9,
+      "description": "Resumes speaking at a consistent pace and volume. The pitch remains in a mid-to-low range with natural intonation.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 10.9,
+      "end_time": 11.2,
+      "description": "A brief filler 'Uh' is audible.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 11.2,
+      "end_time": 15.19,
+      "description": "A brief filler 'Uh' is audible.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.19,
+      "description": "The subject is a man with a shaved head, a short beard, and a light-brown skin tone. He is wearing a red, quarter-zip polo shirt with 'McDowell's No.1' and a 'Royal Challengers Bangalore' team logo on the chest. He also wears a gold-colored choker necklace. The setting is a shaded outdoor patio with tall bamboo stalks and other green plants in the background. A dark brown wicker chair, a green patio umbrella, and a professional camera are partially visible. A 'Royal Challengers WEB TV' logo is superimposed in the top-right corner.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Medium",
+      "score": 0.48,
+      "rationale": "The subject's Extraversion score is rated Medium. While participating in an interview and maintaining direct eye contact suggests social comfort, other cues indicate a more reserved nature. His stable posture, minimal head movement, and a generally flat pitch contour lack the expressive dynamism and high energy typical of high extraversion. This combination of social engagement with a controlled, composed demeanor aligns with a mid-range score.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "High",
+      "score": 0.73,
+      "rationale": "The subject's Agreeableness is rated High. His entire demeanor appears non-confrontational and pleasant. This is evidenced by his composed facial expression, relaxed eyebrows, and a calm, even vocal tone. The stable, open posture further contributes to an impression of approachability and cooperation, which are key indicators of high agreeableness.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Medium",
+      "score": 0.51,
+      "rationale": "The subject's Conscientiousness is rated Medium. There are indicators of both disciplined and relaxed tendencies. His upright posture and the mention of a consistent routine ('get up around the same time') point towards orderliness. However, his relaxed posture (leaning back) and use of verbal fillers suggest a less rigid or meticulously planned approach. This balance between structure and casualness supports a mid-range Conscientiousness score.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Medium",
+      "score": 0.59,
+      "rationale": "The subject's Neuroticism score is rated Medium, reflecting conflicting behavioral cues. The relatively fast blinking rate is a potential indicator of internal anxiety or stress. However, this is strongly counterbalanced by overt signs of emotional stability, including a composed facial expression, relaxed posture, and a steady vocal delivery. This suggests an individual who may experience some anxiety but maintains a high degree of external emotional control, which is characteristic of a medium neuroticism level.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "Medium",
+      "score": 0.54,
+      "rationale": "The subject's Openness is rated Medium. He demonstrates cognitive flexibility by acknowledging different viewpoints ('different guys do different things') before stating his own. However, his communication style is more practical than abstract. The flat pitch contour and stable, composed physical presence do not suggest the intellectual curiosity or expressive imagination characteristic of high openness. This blend of consideration for alternatives within a conventional expressive style is consistent with a medium score.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During 0.0s - 15.2s, the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "High level of Agreeableness, reflecting a calm and non-confrontational style."
+        },
+        {
+          "id": "B",
+          "text": "Low level of Agreeableness, indicating a more guarded or oppositional posture."
+        },
+        {
+          "id": "C",
+          "text": "High level of Neuroticism, suggested by signs of underlying nervous energy."
+        },
+        {
+          "id": "D",
+          "text": "High level of Conscientiousness, based on evidence of a structured routine."
+        },
+        {
+          "id": "E",
+          "text": "Low level of Openness, due to a highly conventional communication approach."
+        },
+        {
+          "id": "F",
+          "text": "Low level of Extraversion, shown by a reserved and composed physical presence."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. Throughout the video, the person maintains a composed facial expression, relaxed eyebrows, and a calm, even vocal tone, which are strong indicators of high Agreeableness. Option B is a near-miss distractor; it correctly identifies the relevant personality dimension (Agreeableness) but proposes the incorrect direction (Low instead of High). Option C is a video-based distractor; while there is fast blinking which could indicate nervousness (related to Neuroticism), it is counterbalanced by many other calming cues, and the evidence for Agreeableness is more consistent and prominent. Option D is a video-based distractor; it references the person's mention of a consistent routine, a real detail, but his relaxed posture and verbal fillers contradict a 'High' Conscientiousness rating. Options E and F are text-based distractors; they describe plausible personality traits for an interview subject but are not the most strongly supported dimensions by the collective visual and auditory evidence."
+    },
+    {
+      "category": "Mixed Emotion Discrimination",
+      "question": "During 0.0s - 15.2s, the person's emotional state is best characterized as which of the following? Consider both verbal and non-verbal cues.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Composed thoughtfulness mixed with a degree of subtle internal alertness."
+        },
+        {
+          "id": "B",
+          "text": "Relaxed confidence which is tempered by a phase of mild contemplation."
+        },
+        {
+          "id": "C",
+          "text": "Suppressed frustration that is mixed with an exterior of forced politeness."
+        },
+        {
+          "id": "D",
+          "text": "Anxious uncertainty which is mixed with a strong underlying desire to please."
+        },
+        {
+          "id": "E",
+          "text": "Detached indifference that is tempered by a clear sense of professional duty."
+        },
+        {
+          "id": "F",
+          "text": "Hesitant introspection that is mixed with a style of careful articulation."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. The person's steady posture, calm tone, and neutral expression suggest 'composed thoughtfulness'. However, the fast blinking rate and direct eye contact suggest an underlying cognitive load or 'subtle internal alertness', making this the most accurate mixed emotion. Option B is a near-miss distractor; it's close, but 'relaxed confidence' might overstate his emotional state, as the blinking suggests something other than pure relaxation. 'Composed' is more accurate. Option C is a video-based distractor; it incorrectly interprets the neutral expression and blinking as signs of 'suppressed frustration' when there is no other evidence (like jaw tension) to support this. Options D, E, and F are text-based distractors; they represent plausible emotional states for an interview context but do not align as well with the specific combination of visual cues (e.g., he does not appear uncertain, detached, or hesitant)."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 0.0s, a region was detected in the video (x=0.411, y=0.216, w=0.133, h=0.216, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A generally neutral and composed facial expression is clearly visible."
+        },
+        {
+          "id": "B",
+          "text": "An upright posture being maintained against the back of the chair."
+        },
+        {
+          "id": "C",
+          "text": "Relaxed eyebrows indicating a notable lack of any visible concern."
+        },
+        {
+          "id": "D",
+          "text": "Subtle mouth movements which are synchronized with his vocal speech."
+        },
+        {
+          "id": "E",
+          "text": "A rapid blinking rate suggesting a state of high cognitive workload."
+        },
+        {
+          "id": "F",
+          "text": "A completely relaxed and tension-free facial state is being shown."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. The provided coordinates (x=0.411, y=0.216, w=0.133, h=0.216) at 0.0s precisely frame the person's face. The observation log for this region describes his expression as generally neutral and composed. Option F is a near-miss distractor; it correctly identifies the facial region but overstates the case with 'completely tension-free,' which is contradicted by other cues like the fast blinking. Options C, D, and E are video-based distractors; they describe real features (eyebrows, mouth, eyes) that are within or near the target bounding box but are more specific sub-regions, whereas the question asks for the most prominent expression of the entire specified region (the face). Option B is a video-based distractor from a completely different spatial region (the torso), testing for precise spatial awareness."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "Which option correctly identifies the location and timing of the person's largely stable head posture, used as a baseline for his speech?",
+      "options": [
+        {
+          "id": "A",
+          "text": "At [4.1s], within the region defined by (x=0.380, y=0.068, w=0.206, h=0.429)."
+        },
+        {
+          "id": "B",
+          "text": "At [4.1s], within the region defined by (x=0.272, y=0.405, w=0.397, h=0.371)."
+        },
+        {
+          "id": "C",
+          "text": "At [3.5s], within the region defined by (x=0.419, y=0.342, w=0.093, h=0.129)."
+        },
+        {
+          "id": "D",
+          "text": "At [9.0s], within the region defined by (x=0.380, y=0.068, w=0.206, h=0.429)."
+        },
+        {
+          "id": "E",
+          "text": "At [0.0s], within the region defined by (x=0.411, y=0.216, w=0.138, h=0.103)."
+        },
+        {
+          "id": "F",
+          "text": "At [6.5s], within the region defined by (x=0.150, y=0.150, w=0.200, h=0.200)."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. The observation log explicitly provides a bounding box for the stable head at 4.1s with these exact coordinates. Option B is a near-miss distractor; it has the correct timestamp but provides the bounding box for the torso, not the head. This tests for precise spatial discrimination. Option D is also a near-miss distractor; it has the correct bounding box for the head but an incorrect timestamp (though the posture is stable throughout, 4.1s is the reference time). Options C and E are video-based distractors; they point to other real, annotated features (mouth and eyes, respectively) at different timestamps. Option F is a text-based distractor using arbitrary coordinates and a time that do not correspond to any specific annotated feature."
+    },
+    {
+      "category": "Counterfactual Reasoning",
+      "question": "If the person had NOT exhibited the behavior observed around 4.0s - 4.3s, which of the following personality assessments would be MOST affected?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Neuroticism might be assessed as Low, as a primary indicator of potential internal anxiety would be absent from the data."
+        },
+        {
+          "id": "B",
+          "text": "Agreeableness would shift from High to Medium, as this moment is a key display of cooperative non-verbal gesturing."
+        },
+        {
+          "id": "C",
+          "text": "Conscientiousness would shift from Medium to High, because the action could signal a temporary lack of disciplined focus."
+        },
+        {
+          "id": "D",
+          "text": "Neuroticism might be assessed as High, because its absence would strongly imply an overcompensation for hidden anxiety."
+        },
+        {
+          "id": "E",
+          "text": "The Openness assessment would be much less certain, since that specific behavior is crucial for evaluating creative thought."
+        },
+        {
+          "id": "F",
+          "text": "Extraversion would likely increase, because that specific action can be interpreted as a sign of social introversion."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The correct answer is A. The behavior around 4.1s is the fast blinking. The personality analysis explicitly states this cue is a potential indicator of anxiety that counterbalances other signs of emotional stability, leading to a Medium Neuroticism score. Removing this cue would remove the main evidence against Low Neuroticism. Option D is a near-miss distractor; it correctly identifies that Neuroticism is the affected trait but reasons about the direction of the change incorrectly. Removing a sign of anxiety would lower, not raise, the Neuroticism score. Option B is a video-based distractor; it incorrectly links the blinking behavior to Agreeableness, a trait supported by other cues throughout the video (like calm tone and posture). Options C, E, and F are text-based distractors; they posit connections between the blinking and other traits (Conscientiousness, Openness, Extraversion) that are not supported by the personality analysis logic and are less direct than the link to Neuroticism."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [
+      {
+        "check": "A",
+        "q_idx": 6,
+        "issue": "The correct answer is 'A', which links the behavior around 4.0-4.3s (a verbal filler) to the Neuroticism score. However, the provided personality analyses explicitly link 'verbal fillers' to the Medium Conscientiousness score, while the Neuroticism score is justified based on the 'blinking rate'. According to the provided rationales, removing the verbal filler would logically impact the Conscientiousness assessment, making option 'C' the most consistent answer.",
+        "action": "Changed correct_answer from 'A' to 'C'."
+      }
+    ],
+    "corrections": {
+      "mcq_questions[6].correct_answer": "C"
+    },
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator14",
+      "version": 1,
+      "clues_total": 15,
+      "clues_correct": 13,
+      "clues_wrong_corrected": 2,
+      "clues_missing_skipped": 0,
+      "clues_bonus": 0
+    }
+  }
+}

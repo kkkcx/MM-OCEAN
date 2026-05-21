@@ -1,0 +1,486 @@
+{
+  "video_id": "-4J4xkfN5cI.002.mp4",
+  "video_path": "-4J4xkfN5cI.002.mp4",
+  "transcription": "It's a really nice name in general, and Eleanor is kind of a soft kind of name and I think I would suit it. That's what I choose my name to. Number 3: If you could go back in time and give yourself a younger [inaudible 00:00:15], and what would it be?",
+  "original_scores": {
+    "extraversion": 0.4579439252336449,
+    "agreeableness": 0.3626373626373627,
+    "conscientiousness": 0.33980582524271846,
+    "neuroticism": 0.37499999999999994,
+    "openness": 0.5222222222222223
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 8.8,
+      "description": "The subject maintains direct eye contact with the camera. Her mouth is open in a smile as she speaks at the beginning, transitioning to a more neutral, thoughtful expression with natural mouth movements following her speech. Her eyebrows remain in a relaxed, neutral position.",
+      "bboxes": [
+        {
+          "frame_time": 2.968801,
+          "x": 0.31866776315789475,
+          "y": 0.12456140016254626,
+          "w": 0.14654605263157894,
+          "h": 0.10263157894736842,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 0.530305,
+          "x": 0.33643092105263156,
+          "y": 0.3035087685835989,
+          "w": 0.11842105263157895,
+          "h": 0.10789473684210527,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 0.861026,
+          "x": 0.3290296052631579,
+          "y": 0.05350876858359889,
+          "w": 0.1879934210526316,
+          "h": 0.37894736842105264,
+          "note": "human-annotated",
+          "region": "unknown"
+        },
+        {
+          "frame_time": 1.748062,
+          "x": 0.30830592105263155,
+          "y": 0.08771929489938836,
+          "w": 0.1924342105263158,
+          "h": 0.32894736842105265,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 5.393348,
+          "x": 0.3689967105263158,
+          "y": 0.2824561370046515,
+          "w": 0.0962171052631579,
+          "h": 0.10789473684210527,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 0.923039,
+          "x": 0.3349506578947368,
+          "y": 0.13771929489938836,
+          "w": 0.140625,
+          "h": 0.05789473684210526,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 8.8,
+      "end_time": 13.6,
+      "description": "The subject's gaze shifts down and to her left, looking at a phone. Her mouth is slightly parted, and her expression is concentrated as she reads from the screen.",
+      "bboxes": [
+        {
+          "frame_time": 9.469135,
+          "x": 0.36751644736842104,
+          "y": 0.19035087384675678,
+          "w": 0.11546052631578947,
+          "h": 0.08947368421052632,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 8.8,
+          "x": 0.18100328947368421,
+          "y": 0.21929824226780942,
+          "w": 0.3034539473684211,
+          "h": 0.5973684210526315,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 11.311575,
+          "x": 0.3734375,
+          "y": 0.31140350542570416,
+          "w": 0.09769736842105263,
+          "h": 0.12105263157894737,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 12.20285,
+          "x": 0.22393092105263157,
+          "y": 0.15350876858359888,
+          "w": 0.27532894736842106,
+          "h": 0.6736842105263158,
+          "note": "face human-annotated",
+          "region": "face"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 13.6,
+      "end_time": 15.1,
+      "description": "Her gaze returns to the camera. Her eyebrows raise slightly as she finishes her sentence.",
+      "bboxes": [
+        {
+          "frame_time": 14.768606,
+          "x": 0.36455592105263157,
+          "y": 0.14824561068886205,
+          "w": 0.15098684210526317,
+          "h": 0.13157894736842105,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 15.136962,
+          "x": 0.3349506578947368,
+          "y": 0.058771926478335734,
+          "w": 0.16578947368421054,
+          "h": 0.1868421052631579,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 8.8,
+      "description": "The subject sits upright, with her upper body visible. Her head is mostly still, with small, subtle nods accompanying her speech.",
+      "bboxes": [
+        {
+          "frame_time": 0,
+          "x": 0.26389802631578946,
+          "y": 0.03771929489938836,
+          "w": 0.3256578947368421,
+          "h": 0.7868421052631579,
+          "note": "pose human-annotated",
+          "region": "torso"
+        },
+        {
+          "frame_time": 1.106165,
+          "x": 0.27129934210526313,
+          "y": 0.0798245580572831,
+          "w": 0.33009868421052635,
+          "h": 0.6210526315789474,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 8.8,
+      "end_time": 13.6,
+      "description": "She raises her left hand, bringing an orange-cased phone into the frame. Her head tilts down to look at the screen.",
+      "bboxes": [
+        {
+          "frame_time": 8.966665,
+          "x": 0.22837171052631577,
+          "y": 0.6324561370046515,
+          "w": 0.16875,
+          "h": 0.23684210526315788,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 8.951203,
+          "x": 0.35567434210526316,
+          "y": 0.15877192647833574,
+          "w": 0.16578947368421054,
+          "h": 0.3131578947368421,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 13.6,
+      "end_time": 15.1,
+      "description": "She tilts her head back up to face the camera while continuing to hold the phone in her left hand, which is lowered slightly.",
+      "bboxes": [
+        {
+          "frame_time": 14.736503,
+          "x": 0.34679276315789476,
+          "y": 0.12456140016254626,
+          "w": 0.19539473684210526,
+          "h": 0.37894736842105264,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 14.030829,
+          "x": 0.13955592105263157,
+          "y": 0.6456140317414937,
+          "w": 0.28717105263157894,
+          "h": 0.16842105263157894,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 8.8,
+      "description": "Speech is delivered at a moderate, conversational pace. The pitch is in a mid-to-high range with natural, varied intonation, particularly on the words \"nice name in general.\" The volume is consistent.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 8.8,
+      "end_time": 15.1,
+      "description": "The speech rate slows slightly and becomes more metered, consistent with reading aloud. The pitch contour becomes flatter until the final phrase, \"what would it be?\", which has a distinct rising intonation.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.1,
+      "description": "The subject is a young girl with fair skin and long, light-brown hair. She is wearing a white short-sleeved top with a textured pattern on the chest. The setting is a bedroom with light blue walls. To her left is a white dresser with crystal-style knobs, on which sits a leopard-print box, a pink bag, and other small items. To her right is a white metal bed frame with a floral-patterned pillow and comforter. The lighting is soft and even.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 10.392742,
+      "end_time": 11.392742,
+      "description": "The girl is holding a mobile phone with a colorful mobile phone case. The mobile phone case has an orange background with blue, red, white and other color patterns. She holds it naturally with her fingers and wears a thin black bracelet on her wrist.",
+      "bboxes": [
+        {
+          "frame_time": 10.892742,
+          "x": 0.24317434210526315,
+          "y": 0.5824561370046515,
+          "w": 0.23980263157894738,
+          "h": 0.3394736842105263,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Medium",
+      "score": 0.46,
+      "rationale": "The subject's Extraversion score is in the Medium range. While her willingness to speak directly to the camera and maintain eye contact shows a capacity for social engagement, her overall demeanor is reserved. Her energy is moderate, with minimal gestures (subtle head nods) and a facial expression that quickly shifts from a brief smile to a more neutral, pensive state. This balance between social participation and a contained, non-expansive presentation aligns with a medium level of extraversion, rather than high sociability or pronounced introversion.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Low",
+      "score": 0.36,
+      "rationale": "The subject's behavior is consistent with a Low level of Agreeableness. Her expression is primarily neutral and task-focused rather than overtly warm or friendly. The initial smile is fleeting, and she does not display strong affiliative cues aimed at building rapport. Her vocal tone is conversational but lacks the pronounced softness or accommodating modulation often seen in highly agreeable individuals. This suggests a more straightforward, less people-pleasing orientation.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Low",
+      "score": 0.34,
+      "rationale": "A Low Conscientiousness score is supported by the subject's seemingly spontaneous and less-prepared approach to the task. She reads the question directly from a phone during the recording, rather than having it memorized, which suggests a casual and flexible methodology over meticulous planning. A minor verbal stumble further indicates a more relaxed, less perfectionistic style, which is characteristic of lower conscientiousness.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Low",
+      "score": 0.37,
+      "rationale": "The subject displays strong indicators of emotional stability, consistent with a Low Neuroticism score. Throughout the clip, she maintains a calm and composed demeanor. Her posture is upright yet relaxed, and her vocal delivery is steady, without signs of anxiety such as wavering pitch or excessive speed. Her movements are deliberate and controlled, lacking any nervous fidgeting, which suggests she is comfortable and at ease in the recording situation.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "Medium",
+      "score": 0.52,
+      "rationale": "The subject's Openness is rated as Medium. She demonstrates engagement with abstract and imaginative questions ('If you could go back in time...'). Her transition into a 'pensive' facial expression and the use of varied, natural intonation indicate a thoughtful consideration of the prompts. However, her overall presentation remains conventional and grounded. This balance between engaging in imaginative thought and maintaining a straightforward demeanor supports a mid-range score for Openness.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During 8.8s - 13.6s, the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Low Conscientiousness, given the visible reliance on an external aid mid-task."
+        },
+        {
+          "id": "B",
+          "text": "High Conscientiousness, because she uses a specific tool to ensure task accuracy."
+        },
+        {
+          "id": "C",
+          "text": "Low Agreeableness, as she breaks direct eye contact and disengages socially."
+        },
+        {
+          "id": "D",
+          "text": "Medium Extraversion, reflecting a balance of internal focus and social presence."
+        },
+        {
+          "id": "E",
+          "text": "High Neuroticism, shown by a need to check prepared notes due to uncertainty."
+        },
+        {
+          "id": "F",
+          "text": "Low Openness, indicating a strong preference for structured, given questions."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The analysis explicitly links the behavior of reading from the phone to Low Conscientiousness, stating it suggests a 'casual and flexible methodology over meticulous planning.'\n- Option B is a near-miss distractor. It correctly identifies the trait (Conscientiousness) and the behavior (using a tool) but misinterprets the direction, claiming it shows high planning when it actually shows a lack of prior preparation.\n- Option C is a text-based distractor. Breaking eye contact could plausibly relate to Agreeableness, but the video shows the reason is instrumental (reading), not social aversion, and other cues support Low Agreeableness more strongly.\n- Option D is a video-based distractor. The overall assessment is Medium Extraversion, but this specific time segment of disengagement is not the primary evidence for it; the evidence comes from the balance of behaviors across the entire clip.\n- Option E is a text-based distractor. It provides a plausible-sounding link between using notes and Neuroticism (anxiety), but the analysis explicitly states she appears calm and scores low on Neuroticism.\n- Option F is a text-based distractor. It links the behavior to Openness, but this moment is not the primary evidence for that trait's assessment."
+    },
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their Medium Openness level?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[1.5s - 2.5s]"
+        },
+        {
+          "id": "B",
+          "text": "[0.0s - 1.0s]"
+        },
+        {
+          "id": "C",
+          "text": "[5.0s - 6.0s]"
+        },
+        {
+          "id": "D",
+          "text": "[8.8s - 9.8s]"
+        },
+        {
+          "id": "E",
+          "text": "[11.0s - 12.0s]"
+        },
+        {
+          "id": "F",
+          "text": "[14.5s - 15.1s]"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Around 1.7s, the observation log notes her expression shifts from a brief smile to a more 'neutral, pensive state.' This thoughtful expression is cited as evidence for her Medium Openness score.\n- Option B is a video-based distractor. This interval captures her initial smile, which is more relevant to social engagement (Extraversion/Agreeableness) than to her pensive, open state.\n- Option C is a video-based distractor. During this period, her expression is stable and neutral while she speaks; no significant change relevant to Openness occurs.\n- Option D is a video-based distractor. This marks the moment she looks down at her phone, a behavior linked to Conscientiousness, not Openness.\n- Option E is a video-based distractor. This is in the middle of her reading from the phone, showing an expression of concentration, not the thoughtful shift relevant to Openness.\n- Option F is a near-miss distractor. This interval captures her looking back at the camera and raising her eyebrows, which is an expressive change, but it signals a questioning state rather than the core thoughtful/pensive state linked to her Openness score."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 9.5s, a region was detected in the video (x=0.368, y=0.190, w=0.115, h=0.089, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A focused gaze directed downwards toward a hand-held object."
+        },
+        {
+          "id": "B",
+          "text": "A direct gaze that is returning to face the camera directly."
+        },
+        {
+          "id": "C",
+          "text": "A very slight and subtle parting of the lips while listening."
+        },
+        {
+          "id": "D",
+          "text": "The natural mouth and jaw motion that occurs during speech."
+        },
+        {
+          "id": "E",
+          "text": "A clear facial expression shift towards a more pensive state."
+        },
+        {
+          "id": "F",
+          "text": "A subtle raising of the eyebrows at the end of a question."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The provided coordinates at 8.8s encompass the area where the person's head is tilted down and her hand brings a phone into view. The dominant action within this large bounding box is her looking at the phone screen, which corresponds to a focused gaze on a held object.\n- Option B is a video-based distractor. This describes an action from a different time segment (around 13.6s-14.8s).\n- Option C is a near-miss distractor. While her mouth is slightly parted during this time, the bounding box is large and encompasses her eyes and head tilt, making the 'focused gaze' the most prominent and defining action of the entire region, not just the mouth.\n- Option D is a video-based distractor. This describes mouth motion from the first segment (0.0s-8.8s), not the reading segment.\n- Option E is a video-based distractor. This describes the expression change that happens much earlier in the video (around 1.7s).\n- Option F is a video-based distractor. This describes the eyebrow movement at the very end of the clip (around 15.1s)."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "Which of the following timestamp and coordinate pairs best captures the moment of focused reading, characterized by a downward gaze, parted lips, and engagement with an external object?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[11.3s] x=0.37, y=0.31, w=0.10, h=0.12"
+        },
+        {
+          "id": "B",
+          "text": "[5.4s] x=0.37, y=0.28, w=0.10, h=0.11"
+        },
+        {
+          "id": "C",
+          "text": "[15.1s] x=0.33, y=0.06, w=0.17, h=0.19"
+        },
+        {
+          "id": "D",
+          "text": "[0.0s] x=0.26, y=0.04, w=0.33, h=0.79"
+        },
+        {
+          "id": "E",
+          "text": "[0.9s] x=0.33, y=0.14, w=0.14, h=0.06"
+        },
+        {
+          "id": "F",
+          "text": "[9.0s] x=0.23, y=0.63, w=0.17, h=0.24"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The time 11.3s falls directly within the period she is reading from the phone (8.8s-13.6s). The coordinates x=0.37, y=0.31, w=0.10, h=0.12 correspond to a tight bounding box on her slightly parted mouth as she reads, a key feature of the described state.\n- Option B is a video-based distractor. This timestamp and bbox capture her mouth while she is speaking to the camera, not while she is reading.\n- Option C is a video-based distractor. This timestamp and bbox capture her face at the very end of the video, where her eyebrows are raised in a questioning expression.\n- Option D is a video-based distractor. This is a wide shot of her torso at the beginning of the video.\n- Option E is a video-based distractor. This timestamp and bbox isolate her eyebrows during the initial speaking portion, while they are in a neutral state.\n- Option F is a near-miss distractor. This timestamp is correct (during the reading phase), but the bbox focuses on her hand holding the phone, not the facial features (gaze, lips) described in the question stem."
+    },
+    {
+      "category": "Counterfactual Reasoning",
+      "question": "If the person had NOT exhibited the behavior observed around 8.8s - 13.6s, which of the following personality assessments would be MOST affected?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Conscientiousness would likely be assessed as higher, since the main evidence for a less-prepared approach would then be entirely absent."
+        },
+        {
+          "id": "B",
+          "text": "Agreeableness would seem higher, because maintaining uninterrupted eye contact is a key affiliative signal for social connection."
+        },
+        {
+          "id": "C",
+          "text": "Neuroticism would be rated lower, since referencing a prompt can be misinterpreted as a sign of performance anxiety and a lack of calm."
+        },
+        {
+          "id": "D",
+          "text": "Extraversion would shift from Medium to High, because the direct engagement from the first segment would not have been interrupted at all."
+        },
+        {
+          "id": "E",
+          "text": "Openness assessment would be weakened, as finding the next question without a prompt requires more imaginative personal engagement."
+        },
+        {
+          "id": "F",
+          "text": "Conscientiousness would be assessed as lower, because she might have appeared more flustered without the external aid to guide her."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The personality analysis directly cites the behavior of reading from a phone (8.8s-13.6s) as the primary evidence for Low Conscientiousness, as it suggests a lack of prior preparation. Removing this behavior would remove the strongest evidence for that specific trait assessment, likely causing it to be rated higher.\n- Option B is a text-based distractor. It's plausible that uninterrupted eye contact would affect Agreeableness, but her low score was also based on a neutral expression and vocal tone, so removing the phone-reading would have less impact on this trait compared to Conscientiousness.\n- Option C is a text-based distractor. This links the behavior to Neuroticism, but the analysis states she appears calm and scores low on this trait, so removing the behavior wouldn't significantly alter an already low assessment.\n- Option D is a video-based distractor. The Medium Extraversion score is based on her overall moderate energy and reserved demeanor, not just this one interruption. Its removal would not be enough to shift the score to High.\n- Option E is a video-based distractor. The Openness assessment was based on her pensive expression and thoughtful tone, which occurred in other parts of the video, not her use of a phone.\n- Option F is a near-miss distractor. It correctly identifies the trait (Conscientiousness) but suggests the wrong direction of change and for a speculative reason (she 'might have appeared more flustered'), which is not grounded in observed behavior."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [
+      {
+        "check": "B",
+        "q_idx": 4,
+        "issue": "The bounding box coordinates provided in the question (x=0.181, y=0.219, ...) correspond to the person's hand holding a phone, as per the observation data. However, the correct answer describes the person's gaze, an action performed by the eyes/face, which is not located within the specified bounding box.",
+        "action": "Corrected the timestamp and bounding box coordinates in the question to point to the person's eyes during the action, aligning the question with the correct answer."
+      }
+    ],
+    "corrections": {
+      "mcq_questions[4].question": "At around 9.5s, a region was detected in the video (x=0.368, y=0.190, w=0.115, h=0.089, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?"
+    },
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator10",
+      "version": 1,
+      "clues_total": 22,
+      "clues_correct": 18,
+      "clues_wrong_corrected": 3,
+      "clues_missing_skipped": 0,
+      "clues_bonus": 1
+    }
+  }
+}

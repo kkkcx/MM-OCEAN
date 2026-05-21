@@ -1,0 +1,467 @@
+{
+  "video_id": "5xA5iKk4v6w.000.mp4",
+  "video_path": "5xA5iKk4v6w.000.mp4",
+  "transcription": "Because every girl is beautiful, and I'm tired of the way our society pushes it on girls to make them think that they're not beautiful, because every girl is beautiful. That just really makes me mad.",
+  "original_scores": {
+    "extraversion": 0.39252336448598135,
+    "agreeableness": 0.3626373626373627,
+    "conscientiousness": 0.5048543689320388,
+    "neuroticism": 0.42708333333333337,
+    "openness": 0.4888888888888889
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 3.49,
+      "description": "The subject maintains direct gaze with the camera, eyebrows are slightly raised, and the mouth moves naturally with speech in a neutral-to-positive expression.",
+      "bboxes": [
+        {
+          "frame_time": 0,
+          "x": 0.4737654320987654,
+          "y": 0.23388203017832648,
+          "w": 0.13734567901234568,
+          "h": 0.1646090534979424,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 0,
+          "x": 0.47530864197530864,
+          "y": 0.2421124828532236,
+          "w": 0.12962962962962962,
+          "h": 0.09053497942386832,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 0,
+          "x": 0.4861111111111111,
+          "y": 0.3737997256515775,
+          "w": 0.0787037037037037,
+          "h": 0.10150891632373114,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 3.49,
+      "end_time": 7.82,
+      "description": "The eyebrows lower slightly and draw together. A slight tension appears around the mouth and jaw as the subject speaks with more emphasis.",
+      "bboxes": [
+        {
+          "frame_time": 7.82,
+          "x": 0.4645061728395062,
+          "y": 0.22839506172839505,
+          "w": 0.12962962962962962,
+          "h": 0.07681755829903979,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 7.82,
+          "x": 0.43209876543209874,
+          "y": 0.18449931412894377,
+          "w": 0.21604938271604937,
+          "h": 0.6008230452674898,
+          "note": "human-annotated",
+          "region": "unknown"
+        },
+        {
+          "frame_time": 7.82,
+          "x": 0.4675925925925926,
+          "y": 0.3299039780521262,
+          "w": 0.11728395061728394,
+          "h": 0.1673525377229081,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 7.82,
+      "end_time": 11.69,
+      "description": "The expression softens as the eyebrows relax and raise slightly. The gaze remains steady and direct.",
+      "bboxes": [
+        {
+          "frame_time": 9.754999,
+          "x": 0.4583333333333333,
+          "y": 0.19547325102880658,
+          "w": 0.13425925925925927,
+          "h": 0.11248285322359397,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 9.754999,
+          "x": 0.4567901234567901,
+          "y": 0.16803840877914952,
+          "w": 0.14506172839506173,
+          "h": 0.32098765432098764,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 11.69,
+          "x": 0.4537037037037037,
+          "y": 0.22016460905349794,
+          "w": 0.1404320987654321,
+          "h": 0.13168724279835392,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 11.69,
+      "end_time": 14.15,
+      "description": "The eyebrows lower and pull together more distinctly. The lips press together briefly, and the jaw tenses, creating an expression of frustration.",
+      "bboxes": [
+        {
+          "frame_time": 14.15,
+          "x": 0.4645061728395062,
+          "y": 0.18998628257887518,
+          "w": 0.11265432098765432,
+          "h": 0.31275720164609055,
+          "note": "face human-annotated",
+          "region": "face"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 3.49,
+      "description": "The subject stands with a stable posture, framed from the chest up. The head has minor, subtle movements that correspond with speech. The hands are mostly out of frame.",
+      "bboxes": [
+        {
+          "frame_time": 0,
+          "x": 0.29012345679012347,
+          "y": 0.11316872427983539,
+          "w": 0.5092592592592593,
+          "h": 0.8868312757201646,
+          "note": "pose human-annotated",
+          "region": "torso"
+        },
+        {
+          "frame_time": 0,
+          "x": 0.2962962962962963,
+          "y": 0.04458161865569273,
+          "w": 0.4691358024691358,
+          "h": 0.9554183813443072,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 0,
+          "x": 0.3966049382716049,
+          "y": 0.09670781893004116,
+          "w": 0.24382716049382716,
+          "h": 0.46364883401920437,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 1.02313,
+          "x": 0.2361111111111111,
+          "y": 0.7030178326474623,
+          "w": 0.30709876543209874,
+          "h": 0.2969821673525377,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 3.49,
+      "end_time": 11.69,
+      "description": "The subject's hands enter the bottom of the frame to make small, illustrative gestures. The right hand, often with an open palm, moves slightly more than the left to emphasize points.",
+      "bboxes": [
+        {
+          "frame_time": 7.59,
+          "x": 0.1882716049382716,
+          "y": 0.7441700960219478,
+          "w": 0.25462962962962965,
+          "h": 0.25582990397805216,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 7.59,
+          "x": 0.18055555555555555,
+          "y": 0.7304526748971193,
+          "w": 0.2808641975308642,
+          "h": 0.2695473251028807,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 11.69,
+      "end_time": 14.15,
+      "description": "The hands are lowered out of the frame as the subject finishes their statement. The body and head remain relatively still.",
+      "bboxes": [
+        {
+          "frame_time": 14.15,
+          "x": 0.2916666666666667,
+          "y": 0.8237311385459534,
+          "w": 0.4861111111111111,
+          "h": 0.17626886145404663,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 14.15,
+          "x": 0.36728395061728397,
+          "y": 0.15706447187928668,
+          "w": 0.3595679012345679,
+          "h": 0.8429355281207134,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0.64,
+      "end_time": 3.4,
+      "description": "Speech is delivered at a moderate pace and volume with a relatively stable pitch.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 3.4,
+      "end_time": 9.88,
+      "description": "The speech rate increases slightly, and the volume rises. Stress and a higher pitch are placed on the word \"tired\".",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 9.88,
+      "end_time": 11.69,
+      "description": "The pace becomes more deliberate, with a falling intonation at the end of the sentence.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 11.69,
+      "end_time": 14.15,
+      "description": "The words \"really\" and \"mad\" are stressed with increased volume. The pitch on \"mad\" is lower and more forceful, concluding the statement.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.15,
+      "description": "The subject is a young, light-skinned male with brown hair styled up at the front. He is wearing a red and black plaid button-up shirt over a white T-shirt. He is in a bedroom with light-colored walls. Behind him and to his right are dark wooden shelves displaying trophies, a blue ribbon, and other small objects. A white, circular smoke detector is on the wall above the shelves. To his left is a doorway to another room. The lighting is even and appears to be from a source in front of the subject.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 13.65,
+      "end_time": 14.65,
+      "description": "The subject kept looking down",
+      "bboxes": [
+        {
+          "frame_time": 14.15,
+          "x": 0.42592592592592593,
+          "y": 0.10493827160493827,
+          "w": 0.19135802469135801,
+          "h": 0.35390946502057613,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Low",
+      "score": 0.39,
+      "rationale": "The subject's Extraversion is rated as Low. Despite addressing the camera directly, his overall physical presentation is contained. His posture is stable and his body remains relatively still, lacking the broad, energetic movements characteristic of high extraversion. The hand gestures used are small, illustrative, and kept low in the frame, serving to explain his point rather than to energize the space. This reserved and controlled use of body language, even when discussing a passionate topic, aligns with a more introverted disposition.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Low",
+      "score": 0.36,
+      "rationale": "The subject's Agreeableness is rated as Low. This is primarily evidenced by his direct and unfiltered expression of negative emotion. He explicitly states, \"That just really makes me mad.\" This verbal declaration is supported by nonverbal cues: his eyebrows lower and knit together, and his vocal delivery becomes lower and more forceful on the word \"mad.\" Individuals with lower agreeableness are more inclined to express anger and frustration directly, rather than suppressing these feelings to maintain social harmony.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Medium",
+      "score": 0.5,
+      "rationale": "The subject's Conscientiousness is rated as Medium. He presents a structured and coherent point, indicating a degree of organized thought. His speech becomes more deliberate and paced towards the end, suggesting a controlled delivery. Furthermore, the background, which includes organized shelves with trophies and ribbons, hints at a history of goal-setting and achievement. However, the delivery is driven more by emotional conviction than by a detached, meticulously planned script, which moderates the score away from the higher end of the spectrum.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Medium",
+      "score": 0.43,
+      "rationale": "The subject's Neuroticism is rated as Medium. He displays clear emotional reactivity to the topic, as seen in the increase in his vocal speed and volume, and the shift in his facial expression to one of frustration (e.g., lowered eyebrows, slight mouth tension). This indicates a sensitivity to emotional triggers. However, he effectively manages this emotional response. His eye contact remains steady, his posture is stable, and he concludes his statement with force and clarity rather than becoming overwhelmed. This balance of feeling emotion and maintaining control is characteristic of a medium level of neuroticism.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "Medium",
+      "score": 0.49,
+      "rationale": "The subject's Openness is rated as Medium. He engages with an abstract social issue—societal beauty standards—and expresses a critical perspective on it. This willingness to challenge a social norm reflects a degree of independent thought. However, the argument is expressed through personal emotion (\"makes me mad\") rather than a complex or highly intellectual framework. The topic itself, while important, is a relatively common point of social critique. This combination of engaging with abstract ideas in a personally-grounded and conventional way supports a medium score.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During 11.7s - 14.2s, the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "High Neuroticism, indicated by a strong and unmanaged emotional reaction to the topic being discussed."
+        },
+        {
+          "id": "B",
+          "text": "Low Agreeableness, demonstrated by the direct and unfiltered verbal and non-verbal expression of anger."
+        },
+        {
+          "id": "C",
+          "text": "High Extraversion, shown by the forceful and energetic vocal delivery used to emphasize the final point."
+        },
+        {
+          "id": "D",
+          "text": "Medium Conscientiousness, supported by the organized and deliberate structure of his concluding statement."
+        },
+        {
+          "id": "E",
+          "text": "High Agreeableness, evidenced by the clear concern for the well-being and feelings of others in society."
+        },
+        {
+          "id": "F",
+          "text": "Low Openness, suggested by the tendency to react with personal emotion rather than abstract reasoning."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. During 11.7s - 14.2s, the person explicitly states, 'That just really makes me mad,' accompanied by a frustrated expression and forceful tone. This direct expression of negative emotion, particularly anger, is a classic behavioral marker for Low Agreeableness. \n\nOption A is a near-miss distractor. While he shows an emotional reaction (related to Neuroticism), the analysis notes he remains controlled, which is why the overall score is Medium, not High. The direct expression of anger is more specific to Agreeableness.\nOption C is a text-based distractor. The vocal delivery is forceful, but the overall body language throughout the video is contained and still, leading to a Low Extraversion score.\nOption D is a video-based distractor. While the person's argument has some structure (supporting Medium Conscientiousness), this specific time segment's primary feature is emotional expression, not organized thought.\nOption E is a near-miss distractor. It correctly identifies the pro-social content of his speech but misinterprets it as high agreeableness; the *style* of expression (direct anger) is the key indicator for personality, and it points to Low Agreeableness.\nOption F is a text-based distractor. The use of personal emotion is noted in the Openness analysis, but it supports a Medium score, not a Low one, and the Agreeableness evidence in this clip is far more direct."
+    },
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their Agreeableness level?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[0.8s - 1.8s]"
+        },
+        {
+          "id": "B",
+          "text": "[3.5s - 4.5s]"
+        },
+        {
+          "id": "C",
+          "text": "[8.1s - 9.1s]"
+        },
+        {
+          "id": "D",
+          "text": "[12.4s - 13.4s]"
+        },
+        {
+          "id": "E",
+          "text": "[2.0s - 3.0s]"
+        },
+        {
+          "id": "F",
+          "text": "[10.2s - 11.2s]"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. Around 3.5s, there is a distinct shift from a relatively neutral/positive expression to one showing frustration. The observation log notes that between 3.5s and 7.8s, the eyebrows lower and knit together, and tension appears around the mouth. This change is the first clear non-verbal indicator of the negative affect that defines his Low Agreeableness score.\n\nOption A is a video-based distractor. During this time, the expression is stable and neutral as he begins speaking.\nOption C is a video-based distractor. During this period, his expression is actually softening and relaxing slightly after the peak of his emphasis, which is a different (and less relevant) change.\nOption D is a video-based distractor. At this point, the frustrated expression is already fully established and held; the critical *change* occurred much earlier.\nOption E is a near-miss distractor. This interval is just before the major transition, making it almost correct but missing the onset of the key expression change.\nOption F is a video-based distractor. In this interval, his expression is relatively stable and direct as he prepares for his final statement."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 7.6s, a region was detected in the video (x=0.188, y=0.744, w=0.255, h=0.256, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A stable and relatively motionless upper torso."
+        },
+        {
+          "id": "B",
+          "text": "A small, illustrative hand gesture to add emphasis."
+        },
+        {
+          "id": "C",
+          "text": "A direct and steady gaze maintained with the camera."
+        },
+        {
+          "id": "D",
+          "text": "A general softening of the overall facial muscles."
+        },
+        {
+          "id": "E",
+          "text": "A neutral mouth movement associated with speech."
+        },
+        {
+          "id": "F",
+          "text": "A slight and subtle raising of the brow region."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. The provided coordinates (y=0.744) point to the lower portion of the frame. At 7.6s, the observation log confirms that the person's hands have entered the frame and are making small, illustrative gestures. The description 'A small, illustrative hand gesture' correctly identifies this action.\n\nOption A is a video-based distractor. The torso is stable, but it is located in the center of the frame (around y=0.5), not in the specified lower region.\nOption C is a video-based distractor. The eyes are maintaining direct contact, but they are located in the upper-central part of the frame (around y=0.25), far from the specified bbox.\nOption D is a video-based distractor. The facial muscles are tense at this moment, not softening, and are located in the wrong spatial region (head).\nOption E is a video-based distractor. The mouth is moving, but it is part of the face in the upper-central region, not in the lower region indicated by the coordinates.\nOption F is a video-based distractor. The eyebrows are tensed and lowered at this moment, not raised, and are located on the face, outside the specified bbox."
+    },
+    {
+      "category": "Counterfactual Reasoning",
+      "question": "If the person had NOT exhibited the behavior observed around 11.7s - 14.2s, which of the following personality assessments would be MOST affected?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Neuroticism would shift from Medium to Low, as the primary display of emotional reactivity would be absent."
+        },
+        {
+          "id": "B",
+          "text": "Agreeableness would shift from Low to Medium, as the key evidence for expressing direct anger would be removed."
+        },
+        {
+          "id": "C",
+          "text": "Conscientiousness would shift from Medium to High, because removing the emotional part makes the argument seem planned."
+        },
+        {
+          "id": "D",
+          "text": "Extraversion would shift from Low to Medium, since this segment contains the most energetic and engaging behavior."
+        },
+        {
+          "id": "E",
+          "text": "Openness would shift from Medium to Low, because the critique of a social norm would lose its emotional weight."
+        },
+        {
+          "id": "F",
+          "text": "Agreeableness would shift from Low to High, since its absence would imply a strong desire for social harmony."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. The behavior from 11.7s to 14.2s consists of the explicit statement 'That just really makes me mad' and a frustrated expression. This is the most direct and unambiguous evidence for the Low Agreeableness rating. Without this key behavior, the assessment would lack its strongest support, likely raising the score to a more neutral, Medium level.\n\nOption A is a text-based distractor. While this segment shows reactivity (Neuroticism), the vocal escalation and facial tension from 3.5s onwards also provide evidence for Medium Neuroticism, so removing the end would not necessarily drop the score to Low.\nOption C is a video-based distractor. The Conscientiousness score is based on the argument's structure and the organized background, which are independent of the final emotional expression.\nOption D is a text-based distractor. The delivery is forceful, but it's still part of an overall contained and low-energy physical presentation. Removing it wouldn't be enough to change the Low Extraversion assessment.\nOption E is a text-based distractor. The critique of a social norm (evidence for Openness) is established in the preceding sentences; the final statement is an emotional reaction to it, not the critique itself.\nOption F is a near-miss distractor. It correctly identifies Agreeableness as the affected trait but makes too strong a claim. The absence of this behavior would remove negative evidence, not necessarily provide strong positive evidence for a High score; a shift to Medium is the most logical outcome."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator15",
+      "version": 1,
+      "clues_total": 27,
+      "clues_correct": 23,
+      "clues_wrong_corrected": 0,
+      "clues_missing_skipped": 3,
+      "clues_bonus": 1
+    }
+  }
+}

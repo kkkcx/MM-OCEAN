@@ -1,0 +1,401 @@
+{
+  "video_id": "NVvKBE5FTMk.003.mp4",
+  "video_path": "NVvKBE5FTMk.003.mp4",
+  "transcription": "Holdernessvideos.",
+  "original_scores": {
+    "extraversion": 0.4579439252336449,
+    "agreeableness": 0.6043956043956044,
+    "conscientiousness": 0.6601941747572816,
+    "neuroticism": 0.65625,
+    "openness": 0.6888888888888889
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 2.76,
+      "description": "The subject looks to his right, then briefly closes his eyes as he turns his head to face the camera. His facial expression is neutral as he speaks.",
+      "bboxes": [
+        {
+          "frame_time": 0.969171,
+          "x": 0.4208059210526316,
+          "y": 0.03245613700465152,
+          "w": 0.2723684210526316,
+          "h": 0.7526315789473684,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 2.76,
+      "end_time": 5.48,
+      "description": "Looking directly at the camera, his eyebrows raise slightly and a small smile forms as he speaks. He then returns to a more neutral expression.",
+      "bboxes": [
+        {
+          "frame_time": 4.753067,
+          "x": 0.41192434210526313,
+          "y": 0.2324561370046515,
+          "w": 0.2590460526315789,
+          "h": 0.46842105263157896,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 5.48,
+      "end_time": 7.82,
+      "description": "His eyes close for a moment, and he then looks down and to his right, away from the camera. His lips are slightly pursed in thought.",
+      "bboxes": [
+        {
+          "frame_time": 7.774808,
+          "x": 0.3941611842105263,
+          "y": 0.03245613700465152,
+          "w": 0.3123355263157895,
+          "h": 0.7684210526315789,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 7.82,
+      "end_time": 12.35,
+      "description": "He turns back to the camera, raising his eyebrows slightly with a small, brief smile before his expression neutralizes. He blinks slowly.",
+      "bboxes": [
+        {
+          "frame_time": 10.890555,
+          "x": 0.3971217105263158,
+          "y": 0.08245613700465153,
+          "w": 0.28273026315789473,
+          "h": 0.7078947368421052,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 12.35,
+      "end_time": 13.56,
+      "description": "The subject's gaze shifts down and to his right, with a neutral facial expression.",
+      "bboxes": [
+        {
+          "frame_time": 12.75418,
+          "x": 0.40008223684210525,
+          "y": 0.014035084373072574,
+          "w": 0.28273026315789473,
+          "h": 0.7973684210526316,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 13.56,
+      "end_time": 15.3,
+      "description": "He looks back up towards the camera, his expression engaged and his mouth slightly open as he finishes his sentence.",
+      "bboxes": [
+        {
+          "frame_time": 13.787909,
+          "x": 0.3882401315789474,
+          "y": 0.03245613700465152,
+          "w": 0.29753289473684214,
+          "h": 0.7631578947368421,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 15.3,
+      "description": "The subject is shown from the chest up, remaining in a stationary seated or standing position throughout the video. His head movements are the primary action, turning from side to side and tilting slightly as he speaks.",
+      "bboxes": [
+        {
+          "frame_time": 10.271973,
+          "x": 0.3423519736842105,
+          "y": 0.008771926478335731,
+          "w": 0.36562500000000003,
+          "h": 0.9842105263157894,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 8,
+      "description": "Speech is delivered at a moderate, conversational pace. The word \"phenomenal\" at 00:03 is slightly emphasized with a subtle rise in pitch. There is a slight downward inflection on the word \"perfectly\" at the end of the phrase.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 8,
+      "end_time": 15.3,
+      "description": "The vocal tone remains consistent and even. The word \"phenomenal\" is again slightly emphasized at 00:11. His pace quickens slightly on the final phrase, \"you just feel like a million bucks,\" which is delivered with a slightly higher and more enthusiastic pitch.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.3,
+      "description": "The subject is a young man with a tan complexion and dark hair styled in a fade with length on top. He has a short, groomed beard and mustache, and well-defined eyebrows. He appears to be wearing foundation and eye makeup. He is wearing a dark, collared shirt with a white polka-dot pattern. The background is a solid, neutral light grey wall. The lighting is soft and even, originating from the front.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Medium",
+      "score": 0.46,
+      "rationale": "The subject's Extraversion is rated Medium. While speaking directly to the camera implies social engagement, this is counterbalanced by introverted cues. His energy level is moderate, reflected in a conversational speech pace and limited physical action. He frequently breaks eye contact to look down and to the side, and his smiles are small and brief rather than broad and sustained. This mix of direct address with reserved expressiveness supports a mid-range score.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "High",
+      "score": 0.6,
+      "rationale": "The subject scores High in Agreeableness. This is demonstrated through a consistently pleasant and cooperative demeanor. His use of small smiles and slightly raised eyebrows when looking at the camera conveys warmth and approachability. The vocal tone is conversational and lacks any harshness, suggesting a friendly and non-confrontational communication style. These behaviors collectively create an impression of a person who is easygoing and keen to establish a positive connection.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "High",
+      "score": 0.66,
+      "rationale": "A High level of Conscientiousness is strongly indicated by the subject's meticulous presentation. His appearance is highly groomed, including styled hair, a neat beard, and the use of makeup, which suggests careful preparation and attention to detail. The controlled, stationary posture and deliberate, conversational speech pace further indicate a thoughtful and organized approach. The entire presentation feels planned and executed with care, which are hallmark behaviors of this trait.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "High",
+      "score": 0.66,
+      "rationale": "The subject's High Neuroticism score is reflected in subtle signs of self-consciousness and managed tension. A key indicator is the frequent aversion of his gaze, where he repeatedly looks down and away from the camera. This behavior, in a direct-address context, often signals discomfort or social anxiety. His expressions are mostly neutral and controlled, and he blinks slowly at one point, which can be interpreted as attempts to regulate internal stress while on camera. These cues point to a heightened sensitivity to the pressure of the situation.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "High",
+      "score": 0.69,
+      "rationale": "The subject demonstrates a High level of Openness, primarily through an attention to aesthetics and a willingness for self-expression. His careful grooming, styled hair, and the use of makeup suggest a developed aesthetic sense. The choice to engage in a direct-to-camera video itself shows an openness to sharing ideas and experiences. Furthermore, the use of a slightly emphasized, descriptive word like 'phenomenal' hints at an appreciation for nuance and a more articulate form of expression, which are characteristic of this trait.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During 5.5s - 7.8s, the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "High Agreeableness, due to the warm and inviting non-verbal gestures."
+        },
+        {
+          "id": "B",
+          "text": "High Neuroticism, indicated by signs of self-consciousness or anxiety."
+        },
+        {
+          "id": "C",
+          "text": "Low Conscientiousness, suggesting a lack of preparation or control."
+        },
+        {
+          "id": "D",
+          "text": "High Extraversion, demonstrated by an energetic and outgoing presence."
+        },
+        {
+          "id": "E",
+          "text": "Low Neuroticism, shown by a calm and completely unbothered demeanor."
+        },
+        {
+          "id": "F",
+          "text": "High Openness, as the action reflects deep aesthetic consideration."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The behavior at 5.5s-7.8s is closing his eyes and looking down and away from the camera. The personality analysis identifies frequent gaze aversion as a key indicator of discomfort or social anxiety, supporting a High Neuroticism score.\n- Option A is a video-based distractor; warm gestures like smiling occur at other times (e.g., 2.8s-5.5s) and support Agreeableness, but not during this specific interval.\n- Option C is a text-based distractor; the subject's overall appearance suggests high, not low, conscientiousness, and this specific action doesn't relate to that trait.\n- Option D is a text-based distractor; looking away from the camera is typically a sign of introversion or social discomfort, not extraversion.\n- Option E is a near-miss distractor; it correctly identifies the relevant personality dimension (Neuroticism) but gets the direction wrong. The behavior suggests high, not low, neuroticism.\n- Option F is a text-based distractor; while the subject scores high on Openness due to aesthetic choices, this particular gaze shift is not direct evidence of it."
+    },
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their high level of Agreeableness?",
+      "options": [
+        {
+          "id": "A",
+          "text": "12.3s - 13.6s"
+        },
+        {
+          "id": "B",
+          "text": "0.0s - 2.8s"
+        },
+        {
+          "id": "C",
+          "text": "2.8s - 5.5s"
+        },
+        {
+          "id": "D",
+          "text": "5.5s - 7.8s"
+        },
+        {
+          "id": "E",
+          "text": "8.5s - 10.0s"
+        },
+        {
+          "id": "F",
+          "text": "3.8s - 4.8s"
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The personality analysis links the subject's High Agreeableness to his small smiles and warm, approachable demeanor. The most direct evidence of this is the small smile and eyebrow raise that occurs between 2.8s and 5.5s.\n- Option A is a video-based distractor; during this time, his expression is neutral as he looks down and to the left.\n- Option B is a video-based distractor; this interval features a neutral expression while looking left, not an agreeable one.\n- Option D is a video-based distractor; this is when he briefly closes his eyes and looks down, which is more relevant to Neuroticism than Agreeableness.\n- Option E is a text-based distractor; this interval shows his expression neutralizing after a brief smile, it's not the onset of the key expression.\n- Option F is a near-miss distractor; this is a narrower time range that falls within the correct answer, but the full expression change starts earlier at 2.8s, making C the more complete interval."
+    },
+    {
+      "category": "Temporal-Causal Reasoning",
+      "question": "Consider the sequence of behaviors observed across the video. Which of the following best describes the causal chain linking the person's actions at different moments?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A self-regulatory gaze shift prompts an initial social display, leading to a controlled verbal statement."
+        },
+        {
+          "id": "B",
+          "text": "A moment of aesthetic self-assessment leads to a compensatory gesture, which resolves into a neutral pose."
+        },
+        {
+          "id": "C",
+          "text": "An initial social display is followed by a self-regulatory gaze aversion, culminating in renewed engagement."
+        },
+        {
+          "id": "D",
+          "text": "A display of intellectual authority is followed by a gesture of inclusivity, which aims to build audience rapport."
+        },
+        {
+          "id": "E",
+          "text": "A confident statement prompts a moment of self-satisfaction, which is corrected by a display of humility."
+        },
+        {
+          "id": "F",
+          "text": "An external stimulus triggers an emotional response, which is then suppressed, leading to a neutral expression."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "This option correctly abstracts the observed pattern: he engages the camera with a smile (social display, e.g., 2.8s-5.5s), then looks away (self-regulatory gaze aversion, e.g., 5.5s-7.8s), and then looks back toward the camera to continue (renewed engagement, e.g., 7.8s-12.3s).\n- Option A is a temporal reversal distractor; the gaze shift follows the social display, it does not prompt it.\n- Option B is a video-based distractor; it references real traits (aesthetic sense from Openness/Conscientiousness) but imposes a causal chain that isn't supported by the sequence of actions.\n- Option D is a text-based distractor; the subject's tone is conversational, not authoritative, making this psychological chain irrelevant.\n- Option E is a near-miss distractor; the sequence might seem plausible, but the interpretation of the behaviors as 'self-satisfaction' and 'humility' is incorrect. The gaze aversion is better explained by self-consciousness (Neuroticism).\n- Option F is a text-based distractor; it describes a generic psychological process without accurately reflecting the specific back-and-forth engagement pattern seen in the video."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 1.0s, a region was detected in the video (x=0.421, y=0.032, w=0.272, h=0.753, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A slight, warm smile accompanied by the raising of his eyebrows."
+        },
+        {
+          "id": "B",
+          "text": "A stationary upper body posture with the head tilting slightly."
+        },
+        {
+          "id": "C",
+          "text": "A neutral expression with gaze directed downward and to the left."
+        },
+        {
+          "id": "D",
+          "text": "An engaged expression with a slightly open mouth to start speaking."
+        },
+        {
+          "id": "E",
+          "text": "A momentary eye closure before glancing downward and to the left."
+        },
+        {
+          "id": "F",
+          "text": "A neutral expression with gaze directed downward and to the right."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The bounding box at 1.0s corresponds to the observation [0.0s-2.8s], where the subject looks to his left with a neutral facial expression while speaking. Option C is the most accurate description of this action.\n- Option A is a video-based distractor; this behavior occurs later, between 2.8s and 5.5s.\n- Option B is a video-based distractor; this describes the overall posture for the entire video, not the specific facial expression in the box at 1.0s.\n- Option D is a video-based distractor; this better describes the very end of the video, around 13.6s-15.3s.\n- Option E is a video-based distractor; the eye closure and downward glance happen between 5.5s and 7.8s.\n- Option F is a near-miss distractor; it correctly identifies the neutral expression and downward gaze but incorrectly states the direction is to the right. The video clearly shows him looking to his left."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "Which timestamp and bounding box best captures the subject's general framing, showing him from the chest up in a relatively stationary position?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[7.8s]  x=0.39, y=0.03, w=0.31, h=0.77"
+        },
+        {
+          "id": "B",
+          "text": "[1.0s]  x=0.42, y=0.03, w=0.27, h=0.75"
+        },
+        {
+          "id": "C",
+          "text": "[10.3s]  x=0.34, y=0.01, w=0.37, h=0.98"
+        },
+        {
+          "id": "D",
+          "text": "[13.8s]  x=0.39, y=0.03, w=0.30, h=0.76"
+        },
+        {
+          "id": "E",
+          "text": "[4.8s]  x=0.41, y=0.23, w=0.26, h=0.47"
+        },
+        {
+          "id": "F",
+          "text": "[12.8s]  x=0.40, y=0.01, w=0.28, h=0.80"
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The question asks for the bounding box that represents the overall 'chest up' framing. The bbox at 10.3s (w=0.37, h=0.98) is the widest and tallest of the options, encompassing the most of the subject's upper body, which aligns with the description in the stem. All other options are tighter shots focused more exclusively on the face.\n- Options A, B, D, E, and F are all valid bounding boxes from the video but represent tighter framings on the face at different moments, rather than the overall 'chest up' posture described."
+    },
+    {
+      "category": "Counterfactual Reasoning",
+      "question": "If the person had NOT exhibited the behavior observed around 5.5s - 7.8s, which of the following personality assessments would be MOST affected?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The High Agreeableness rating would likely be reduced, as this is a key moment of cooperative signaling."
+        },
+        {
+          "id": "B",
+          "text": "The High Neuroticism score would be less certain, as this action is a primary indicator of social anxiety."
+        },
+        {
+          "id": "C",
+          "text": "The High Conscientiousness score would be lower, because this is a sign of deliberate, careful thought."
+        },
+        {
+          "id": "D",
+          "text": "The High Neuroticism rating would be strengthened, because its absence implies greater internal composure."
+        },
+        {
+          "id": "E",
+          "text": "The High Openness score would be diminished, as this behavior reflects a capacity for deep self-reflection."
+        },
+        {
+          "id": "F",
+          "text": "The Medium Extraversion rating would shift higher, as this is the main indicator of his introverted side."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The behavior at 5.5s-7.8s is the gaze aversion (closing eyes, looking down and away). The analysis explicitly states: 'A key indicator [for High Neuroticism] is the frequent aversion of his gaze... often signals discomfort or social anxiety.' Removing this key piece of evidence would significantly weaken the foundation for the High Neuroticism assessment.\n- Option A is a video-based distractor; the behavior is gaze aversion, which is the opposite of cooperative signaling. Cooperative signals (smiles) occur at other times.\n- Option C is a text-based distractor; the Conscientiousness score is based on grooming and appearance, not this specific gaze shift.\n- Option D is a near-miss distractor; it correctly identifies the trait (Neuroticism) but gets the direction of change wrong. Removing a sign of anxiety would weaken, not strengthen, the High Neuroticism assessment.\n- Option E is a text-based distractor; the Openness score is based on aesthetic sense, not this specific action, which is better interpreted as a sign of anxiety.\n- Option F is a text-based distractor; while gaze aversion is an introverted cue, the Medium Extraversion score also depends on his moderate energy and brief smiles, so removing this one moment wouldn't necessarily cause a major shift."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator19",
+      "version": 3,
+      "clues_total": 10,
+      "clues_correct": 6,
+      "clues_wrong_corrected": 4,
+      "clues_missing_skipped": 0,
+      "clues_bonus": 0
+    }
+  }
+}

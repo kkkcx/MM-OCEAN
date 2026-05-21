@@ -1,0 +1,531 @@
+{
+  "video_id": "mZQP06F94u8.000.mp4",
+  "video_path": "mZQP06F94u8.000.mp4",
+  "transcription": "The PS4 is doing an amazing job. It's a great console. The PS3 was a good console. Not as good as a PS4, but also good. I also play come PC games.",
+  "original_scores": {
+    "extraversion": 0.4953271028037384,
+    "agreeableness": 0.5164835164835165,
+    "conscientiousness": 0.47572815533980584,
+    "neuroticism": 0.5104166666666666,
+    "openness": 0.4666666666666667
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 1.4,
+      "description": "Gaze is directed towards the camera. Eyebrows are in a neutral position, then raise slightly as he speaks.",
+      "bboxes": [
+        {
+          "frame_time": 0.604759,
+          "x": 0.35419407894736843,
+          "y": 0.34824561068886206,
+          "w": 0.196875,
+          "h": 0.06842105263157895,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 1.13458,
+          "x": 0.3260690789473684,
+          "y": 0.23771929489938837,
+          "w": 0.21167763157894737,
+          "h": 0.11052631578947368,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 1.13458,
+          "x": 0.3053453947368421,
+          "y": 0.2298245580572831,
+          "w": 0.2723684210526316,
+          "h": 0.12368421052631579,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 1.4,
+      "end_time": 2.7,
+      "description": "Eyebrows raise significantly, and the eyes widen.",
+      "bboxes": [
+        {
+          "frame_time": 1.741497,
+          "x": 0.3615953947368421,
+          "y": 0.33245613700465154,
+          "w": 0.16578947368421054,
+          "h": 0.07368421052631578,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 1.741497,
+          "x": 0.3290296052631579,
+          "y": 0.25087718963623046,
+          "w": 0.2042763157894737,
+          "h": 0.11842105263157894,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 2.7,
+      "end_time": 5.07,
+      "description": "The wide-eyed expression is held, and the eyebrows remain high.",
+      "bboxes": [
+        {
+          "frame_time": 4.620771,
+          "x": 0.4060032894736842,
+          "y": 0.29561403174149364,
+          "w": 0.15986842105263158,
+          "h": 0.33421052631578946,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 4.585088,
+          "x": 0.4074835526315789,
+          "y": 0.2692982422678094,
+          "w": 0.17319078947368421,
+          "h": 0.10263157894736842,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 5.07,
+      "end_time": 6.7,
+      "description": "The expression softens as the eyebrows lower. The subject then squints slightly and purses his lips.",
+      "bboxes": [
+        {
+          "frame_time": 5.807082,
+          "x": 0.37639802631578945,
+          "y": 0.2771929791099147,
+          "w": 0.18947368421052632,
+          "h": 0.10526315789473684,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 6.679175,
+          "x": 0.4060032894736842,
+          "y": 0.25877192647833575,
+          "w": 0.1317434210526316,
+          "h": 0.35,
+          "note": "face human-annotated",
+          "region": "face"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 6.7,
+      "end_time": 8.2,
+      "description": "Expression returns to a more neutral state. The subject blinks.",
+      "bboxes": [
+        {
+          "frame_time": 7.363791,
+          "x": 0.39120065789473685,
+          "y": 0.2850877159520199,
+          "w": 0.16875,
+          "h": 0.3,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 8.169169,
+          "x": 0.43116776315789473,
+          "y": 0.3587719264783357,
+          "w": 0.16726973684210528,
+          "h": 0.06315789473684211,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 8.2,
+      "end_time": 10.43,
+      "description": "The subject squints his eyes slightly while speaking, then briefly glances down and to his left before returning his gaze to the camera.",
+      "bboxes": [
+        {
+          "frame_time": 9.860523,
+          "x": 0.36455592105263157,
+          "y": 0.2850877159520199,
+          "w": 0.17467105263157895,
+          "h": 0.060526315789473685,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 10.398149,
+          "x": 0.3971217105263158,
+          "y": 0.3035087685835989,
+          "w": 0.15986842105263158,
+          "h": 0.10263157894736842,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 10.43,
+      "end_time": 12.2,
+      "description": "The expression becomes more neutral. He blinks.",
+      "bboxes": [
+        {
+          "frame_time": 11.368874,
+          "x": 0.43264802631578947,
+          "y": 0.29561403174149364,
+          "w": 0.140625,
+          "h": 0.11842105263157894,
+          "note": "face human-annotated",
+          "region": "face"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 12.2,
+      "end_time": 15,
+      "description": "Eyebrows raise slightly as he speaks, and his gaze remains steady on the camera.",
+      "bboxes": [
+        {
+          "frame_time": 13.040445,
+          "x": 0.41192434210526313,
+          "y": 0.2798245580572831,
+          "w": 0.16282894736842105,
+          "h": 0.29473684210526313,
+          "note": "human-annotated",
+          "region": "unknown"
+        },
+        {
+          "frame_time": 13.040445,
+          "x": 0.42672697368421053,
+          "y": 0.20877192647833573,
+          "w": 0.18355263157894738,
+          "h": 0.1368421052631579,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 14.659399,
+          "x": 0.4015625,
+          "y": 0.3298245580572831,
+          "w": 0.13766447368421053,
+          "h": 0.06842105263157895,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 15,
+      "description": "The subject is sitting, framed from the chest up. His head bobs and sways slightly in rhythm with his speech throughout the clip.",
+      "bboxes": [
+        {
+          "frame_time": 0.499364,
+          "x": 0.2890625,
+          "y": 0.16929824226780943,
+          "w": 0.3626644736842105,
+          "h": 0.6868421052631579,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 0.499364,
+          "x": 0.3497532894736842,
+          "y": 0.15877192647833574,
+          "w": 0.19835526315789473,
+          "h": 0.4605263157894737,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 2.2,
+      "description": "Speech is delivered at a moderate pace with a level pitch, rising in pitch on the word \"amazing.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 2.2,
+      "end_time": 5,
+      "description": "After a brief pause and a quiet \"uh,\" the words \"great console\" are spoken with increased volume and higher pitch for emphasis.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 5,
+      "end_time": 8,
+      "description": "The speech rate slows slightly. The phrase \"good console\" is delivered with a downward pitch contour.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 8,
+      "end_time": 11.2,
+      "description": "The phrase \"Not as good as the PS4\" is spoken at a slightly lower volume and pitch. The final word \"good\" has a slightly rising inflection.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 11.2,
+      "end_time": 15,
+      "description": "The speech rate returns to a moderate pace with a stable pitch.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15,
+      "description": "The subject is a young male with short brown hair and a light skin tone. He is wearing a grey hooded sweatshirt with a blue hood lining, blue drawstrings, and the word \"wesc\" in blue text across the chest. He is in an indoor setting, likely a bedroom, with a striped curtain visible to the left and posters on the off-white wall behind him to the right. A spherical black microphone with a red indicator light is positioned to his left. A red and grey patterned object, possibly a bedspread, is visible in the bottom right. The scene is evenly lit from the front.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 10.558931,
+      "end_time": 11.558931,
+      "description": "Subject's face is longer",
+      "bboxes": [
+        {
+          "frame_time": 11.058931,
+          "x": 0.40896381578947366,
+          "y": 0.15877192647833574,
+          "w": 0.15098684210526317,
+          "h": 0.4473684210526316,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Medium",
+      "score": 0.5,
+      "rationale": "The subject's behavior presents a mixture of extraverted and introverted indicators, justifying a Medium score. On one hand, the act of recording a video for an audience, coupled with the use of expressive vocal tones (pitch changes for emphasis) and facial gestures (raised eyebrows, widened eyes), suggests a degree of social energy and a desire to engage others. On the other hand, a strong counter-indicator is the consistent gaze aversion; the subject frequently looks down and away from the camera, which is more characteristic of introversion or social reservation. This balance between expressive communication and avoidant eye contact supports a moderate level of Extraversion.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Medium",
+      "score": 0.52,
+      "rationale": "The subject exhibits a moderately agreeable demeanor. His tone is generally positive and non-confrontational when praising the consoles. His facial expressions are congruent with his statements, showing enthusiasm that resolves back to a neutral, pleasant state. However, the analysis is constrained by the monologue format, which limits opportunities to observe key agreeable behaviors like empathy or cooperation. Furthermore, he makes a direct, critical comparison ('Not as good as a PS4'), indicating a willingness to state a clear, unvarnished opinion rather than being overly accommodating. This balance between a pleasant disposition and directness supports a Medium Agreeableness score.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Medium",
+      "score": 0.48,
+      "rationale": "Evidence for Conscientiousness is balanced, leading to a Medium rating. The subject's monologue is structured logically, moving from one console to the next and then to a related topic, which indicates a degree of organized thought. The use of a dedicated microphone also suggests some level of preparation. However, the delivery is not highly polished; the speech is moderately paced, contains a filler word ('uh'), and the intermittent downward gaze suggests he is formulating thoughts as he speaks rather than reciting a rehearsed script. This combination of structured thinking and spontaneous delivery points to a medium level of conscientiousness.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Medium",
+      "score": 0.51,
+      "rationale": "The subject displays conflicting cues regarding emotional stability, which is characteristic of a Medium Neuroticism score. The most salient potential indicator of neuroticism is the persistent aversion of his gaze from the camera, which can be a sign of self-consciousness or social anxiety. However, this is counteracted by a generally stable emotional presentation. His vocal tone is controlled, he modulates his expression for emphasis without becoming emotionally dysregulated, and there are no overt signs of anxiety like fidgeting or trembling. The presence of a key anxiety indicator (gaze aversion) balanced by overall emotional control makes a medium rating the most appropriate assessment.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "Medium",
+      "score": 0.47,
+      "rationale": "The subject's behavior suggests a moderate level of Openness. Engaging in the expressive act of creating and sharing a video opinion demonstrates a willingness to engage with new forms of communication and self-expression. However, the topic—mainstream video game consoles—is conventional and does not venture into abstract, complex, or unconventional territory. His language is direct and descriptive rather than imaginative or metaphorical. This combination of engaging in a creative medium while discussing a conventional topic supports a Medium score for Openness.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their Neuroticism level?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[1.4s - 2.4s]"
+        },
+        {
+          "id": "B",
+          "text": "[5.1s - 6.1s]"
+        },
+        {
+          "id": "C",
+          "text": "[12.5s - 13.5s]"
+        },
+        {
+          "id": "D",
+          "text": "[9.5s - 10.5s]"
+        },
+        {
+          "id": "E",
+          "text": "[7.8s - 8.8s]"
+        },
+        {
+          "id": "F",
+          "text": "[0.2s - 1.2s]"
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "The correct answer is D. The personality analysis identifies gaze aversion as a key indicator of potential self-consciousness or social anxiety, which are facets of Neuroticism. In the interval [9.5s - 10.5s], immediately after making a critical comparison ('Not as good as the PS4'), the person squints slightly and then directs his gaze down and to the left, away from the camera. This specific sequence is the most salient micro-expression related to the Neuroticism assessment. Option E is a near-miss distractor as it captures a blink right before this event, which is a less significant cue. Options A, B, and C are video-based distractors; they point to other significant expression changes (A: eyebrow raise, B: expression softening, C: slight eyebrow raise), but these are more closely related to expressing enthusiasm (Extraversion) or emotional transition, not the self-conscious cues linked to Neuroticism. Option F is also a video-based distractor, capturing the initial downward gaze, but the *change* in gaze following a critical statement is more significant for analysis."
+    },
+    {
+      "category": "Mixed Emotion Discrimination",
+      "question": "During [8.0s - 11.2s], the person's emotional state is best characterized as which of the following? Consider both verbal and non-verbal cues.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Enthusiastic endorsement mixed with genuine excitement."
+        },
+        {
+          "id": "B",
+          "text": "Assertive confidence mixed with dismissive judgment."
+        },
+        {
+          "id": "C",
+          "text": "Personal doubt combined with hesitant communication."
+        },
+        {
+          "id": "D",
+          "text": "Critical assessment tempered by diplomatic qualification."
+        },
+        {
+          "id": "E",
+          "text": "Mild disappointment balanced with forced enthusiasm."
+        },
+        {
+          "id": "F",
+          "text": "Deep contemplation mixed with intellectual uncertainty."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "The correct answer is D. In this segment, the person says, 'Not as good as the PS4, but also good.' His vocal tone lowers and his gaze shifts away. This combination of verbal and non-verbal cues points to a nuanced state: 'Critical assessment' captures the direct comparison 'Not as good', while 'tempered by diplomatic qualification' accurately reflects the follow-up 'but also good' and the subdued, non-confrontational delivery. Option B is a near-miss distractor because while there is confidence, the term 'dismissive judgment' is too strong and doesn't account for the qualifying statement. Option E is also a near-miss; 'mild disappointment' is plausible, but 'forced enthusiasm' is incorrect as the tone for 'but also good' is downward and neutral, not enthusiastic. Option A is a video-based distractor describing the emotion from an earlier segment ([2.7s - 5.1s]) when discussing the PS4. Options C and F are text-based distractors; the person's statement is a clear judgment, not indicative of doubt or uncertainty."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around [0.6s], a region was detected in the video (x=0.354, y=0.348, w=0.197, h=0.068, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A return to a more neutral facial expression."
+        },
+        {
+          "id": "B",
+          "text": "A subtle lowering of the person's eyebrows."
+        },
+        {
+          "id": "C",
+          "text": "A slight tightening of the lips in thought."
+        },
+        {
+          "id": "D",
+          "text": "A downward and averted gaze from the camera."
+        },
+        {
+          "id": "E",
+          "text": "A direct and steady gaze at the camera lens."
+        },
+        {
+          "id": "F",
+          "text": "A sustained wide-eyed and alert expression."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "The correct answer is D. The provided coordinates at 0.6s specifically frame the person's eyes. At this moment, at the very beginning of the video, his gaze is directed downwards and away from the camera, as noted in the observation log. Option E is a near-miss distractor; it correctly identifies the body part (eyes) but describes the opposite action, which is a common error pattern ('Look towards the camera' vs. 'Look down'). Options A, B, and F are video-based distractors; they describe real actions from the video but they occur in different time segments (A: ~7.4s, B: ~5.8s, F: ~4.6s) and/or in different spatial regions (B refers to the eyebrows, which are above this bounding box). Option C is a text-based distractor based on a hallucinated behavior (pinched lips) that does not occur in the video."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "At which of the following time and location coordinates does the person's expression transition to a more neutral state, accompanied by an eye blink?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[0.5s]  x=0.29, y=0.17, w=0.36, h=0.69"
+        },
+        {
+          "id": "B",
+          "text": "[14.7s]  x=0.40, y=0.33, w=0.14, h=0.07"
+        },
+        {
+          "id": "C",
+          "text": "[0.5s]  x=0.35, y=0.16, w=0.20, h=0.46"
+        },
+        {
+          "id": "D",
+          "text": "[11.4s]  x=0.43, y=0.30, w=0.14, h=0.12"
+        },
+        {
+          "id": "E",
+          "text": "[1.1s]  x=0.33, y=0.24, w=0.21, h=0.11"
+        },
+        {
+          "id": "F",
+          "text": "[8.2s]  x=0.43, y=0.36, w=0.17, h=0.06"
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "The correct answer is D. The observation log for [10.4s - 12.2s] states, 'Expression becomes more neutral, he blinks.' The coordinates provided in option D, at timestamp 11.4s, accurately frame the facial region during this specific event. Option F is a near-miss distractor; it also captures a blink at 8.2s, but the overall facial state at that moment is not the same neutral transition described in the question. Option A is a video-based distractor showing the entire upper body at the start. Option B shows the eyes averted at the end of the video. Option C shows the head at the beginning. Option E shows the eyebrows raising in the first second. A model must correctly identify both the specific action and the correct time and place it occurs."
+    },
+    {
+      "category": "Counterfactual Reasoning",
+      "question": "If the person had NOT exhibited the behavior observed around [9.8s - 10.8s], which of the following personality assessments would be MOST affected?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Conscientiousness would be assessed as higher, as the behavior hints at a momentary lapse in structured presentation."
+        },
+        {
+          "id": "B",
+          "text": "Openness would be assessed as lower, since the action can be interpreted as a retreat from expressive self-disclosure."
+        },
+        {
+          "id": "C",
+          "text": "Extraversion would be assessed as much higher, because this avoidant cue is a primary counter-indicator to social energy."
+        },
+        {
+          "id": "D",
+          "text": "Neuroticism might be assessed as lower, as this moment provides a key indicator of potential self-consciousness."
+        },
+        {
+          "id": "E",
+          "text": "Neuroticism might be assessed as higher, because removing a coping behavior could imply a greater internal struggle."
+        },
+        {
+          "id": "F",
+          "text": "Agreeableness might be rated lower, because this is where he shows hesitation right after a critical commentary."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "The correct answer is D. The behavior in this interval is a distinct gaze aversion (looking down and left) immediately following a critical statement. The personality analysis explicitly states, 'The most salient potential indicator of neuroticism is the persistent aversion of his gaze, which can be a sign of self-consciousness or social anxiety.' Removing this key piece of evidence would significantly weaken the argument for a Medium Neuroticism score, likely causing it to be assessed as lower. Option C is a very strong near-miss distractor. The analysis also links gaze aversion to Extraversion (as a counter-indicator). However, the wording 'most salient' points to Neuroticism as the *primary* trait affected. Option E is another near-miss distractor, identifying the correct trait but reasoning in the opposite direction. Option F is a video-based distractor, misinterpreting the behavior as 'hesitation' and incorrectly linking it to Agreeableness. Options A and B are text-based distractors, creating plausible but weaker causal links to Conscientiousness and Openness."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator06",
+      "version": 1,
+      "clues_total": 30,
+      "clues_correct": 21,
+      "clues_wrong_corrected": 4,
+      "clues_missing_skipped": 4,
+      "clues_bonus": 1
+    }
+  }
+}

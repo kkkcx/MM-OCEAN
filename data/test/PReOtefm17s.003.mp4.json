@@ -1,0 +1,444 @@
+{
+  "video_id": "PReOtefm17s.003.mp4",
+  "video_path": "PReOtefm17s.003.mp4",
+  "transcription": "I can still remember playing that game with my Dad and my friends and I was so bad at that game and the graphics were so bad but I didn't care because 2K is love, 2K is life, right? The next questions comes from Caucasian Cactus, and he asks, \"How tall are you? Wondering.\"",
+  "original_scores": {
+    "extraversion": 0.5981308411214954,
+    "agreeableness": 0.6373626373626373,
+    "conscientiousness": 0.5242718446601942,
+    "neuroticism": 0.625,
+    "openness": 0.6444444444444444
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 0.51,
+      "description": "The subject's eyes are mostly closed as if blinking slowly or looking down, then begin to open.",
+      "bboxes": [
+        {
+          "frame_time": 0.23308,
+          "x": 0.34087171052631576,
+          "y": 0.24561403174149363,
+          "w": 0.44703947368421054,
+          "h": 0.4026315789473684,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 0.305917,
+          "x": 0.3334703947368421,
+          "y": 0.30087718963623045,
+          "w": 0.40707236842105265,
+          "h": 0.3736842105263158,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 0.51,
+      "end_time": 10.98,
+      "description": "The subject looks directly forward. His eyebrows remain in a neutral position with slight, natural movements corresponding to his speech. His eyes blink normally. The mouth moves naturally with speech.",
+      "bboxes": [
+        {
+          "frame_time": 6.58451,
+          "x": 0.4030427631578947,
+          "y": 0.2535087685835989,
+          "w": 0.4011513157894737,
+          "h": 0.531578947368421,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 4.578257,
+          "x": 0.35419407894736843,
+          "y": 0.2692982422678094,
+          "w": 0.35970394736842104,
+          "h": 0.21052631578947367,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 4.578257,
+          "x": 0.37195723684210524,
+          "y": 0.38245613700465153,
+          "w": 0.32417763157894736,
+          "h": 0.1736842105263158,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 4.578257,
+          "x": 0.40896381578947366,
+          "y": 0.6271929791099147,
+          "w": 0.21463815789473684,
+          "h": 0.19473684210526315,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 10.98,
+      "end_time": 15,
+      "description": "The subject's gaze shifts downwards. A slight, closed-mouth smile forms as he appears to be reading.",
+      "bboxes": [
+        {
+          "frame_time": 12.35324,
+          "x": 0.3260690789473684,
+          "y": 0.33245613700465154,
+          "w": 0.4174342105263158,
+          "h": 0.37894736842105264,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 12.35324,
+          "x": 0.3527138157894737,
+          "y": 0.33245613700465154,
+          "w": 0.32861842105263156,
+          "h": 0.5578947368421052,
+          "note": "human-annotated",
+          "region": "unknown"
+        },
+        {
+          "frame_time": 13.037913,
+          "x": 0.34679276315789476,
+          "y": 0.6798245580572831,
+          "w": 0.3049342105263158,
+          "h": 0.21052631578947367,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 13.037913,
+          "x": 0.3290296052631579,
+          "y": 0.6561403475309673,
+          "w": 0.3167763157894737,
+          "h": 0.2736842105263158,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 0.51,
+      "description": "The subject's head is tilted slightly down and forward.",
+      "bboxes": [
+        {
+          "frame_time": 0.355578,
+          "x": 0.29054276315789473,
+          "y": 0.22719297910991468,
+          "w": 0.5106907894736842,
+          "h": 0.631578947368421,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0.51,
+      "end_time": 10.98,
+      "description": "The subject lifts his head to an upright, forward-facing position. He remains seated, with only minor head movements accompanying his speech.",
+      "bboxes": [
+        {
+          "frame_time": 2.010804,
+          "x": 0.36751644736842104,
+          "y": 0.24824561068886206,
+          "w": 0.35674342105263157,
+          "h": 0.6,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 2.010804,
+          "x": 0.2964638157894737,
+          "y": 0.2561403475309673,
+          "w": 0.6394736842105263,
+          "h": 0.7342105263157894,
+          "note": "pose human-annotated",
+          "region": "torso"
+        },
+        {
+          "frame_time": 4.6616,
+          "x": 0.3260690789473684,
+          "y": 0.1561403475309673,
+          "w": 0.4588815789473684,
+          "h": 0.8394736842105263,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 10.98,
+      "end_time": 15,
+      "description": "The subject's head tilts down as he looks towards the bottom of the screen.",
+      "bboxes": [
+        {
+          "frame_time": 12.576499,
+          "x": 0.31422697368421054,
+          "y": 0.17456140016254626,
+          "w": 0.45592105263157895,
+          "h": 0.8157894736842105,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 12.576499,
+          "x": 0.30830592105263155,
+          "y": 0.17456140016254626,
+          "w": 0.3907894736842105,
+          "h": 0.7,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0.16,
+      "end_time": 9.95,
+      "description": "The subject speaks at a moderate, conversational pace and volume. There is a slight increase in pitch and emphasis on the phrases \"so bad at that game\" and \"so bad\". Pitch rises slightly at the end of the question \"right?\".",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 10.89,
+      "end_time": 15,
+      "description": "The subject's speech continues at a consistent pace and volume as he reads the text on screen.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15,
+      "description": "The subject is a young male with light skin and styled brown hair. He is wearing a dark grey t-shirt. He is sitting in a black office chair in an indoor room with blue walls. The room is dimly lit, with a prominent light source in front of him (likely a monitor) casting a blueish tint on his face. Visible in the background are posters, a framed picture of a city skyline at night (St. Louis), and a dark blue Indiana Pacers flag.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 14.8153,
+      "end_time": 15.8153,
+      "description": "A dark blue Indiana Pacers flag suggests the subject is an NBA fan",
+      "bboxes": [
+        {
+          "frame_time": 15.3153,
+          "x": 0.06258223684210526,
+          "y": 0.116666663320441,
+          "w": 0.27828947368421053,
+          "h": 0.49473684210526314,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    },
+    {
+      "dimension": "Background",
+      "start_time": 14.8153,
+      "end_time": 15.8153,
+      "description": "The poster style of the background can infer that the subject is a person who loves life.",
+      "bboxes": [
+        {
+          "frame_time": 15.3153,
+          "x": 0.21356907894736843,
+          "y": 0.066666663320441,
+          "w": 0.6898026315789474,
+          "h": 0.45789473684210524,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "High",
+      "score": 0.6,
+      "rationale": "The subject scores High in Extraversion. This is supported by his choice of activity—creating a Q&A video, which is an inherently social and audience-focused endeavor. His vocal delivery is expressive, with noticeable pitch modulation on phrases like \"so bad\" to add emotional emphasis. He also directly engages the audience with the tag question \"right?\", seeking connection and affirmation. This combination of seeking social interaction and employing an expressive communication style is characteristic of individuals high in extraversion.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "High",
+      "score": 0.64,
+      "rationale": "The subject's High Agreeableness is evidenced by his cooperative and pleasant demeanor. The entire premise of a Q&A video is collaborative, responding positively to audience requests. A key nonverbal cue is the slight smile that appears as he reads the next question, which signals warmth and social affability. His overall expression and tone are relaxed and non-confrontational, consistent with the prosocial and trusting nature of high agreeableness.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Medium",
+      "score": 0.52,
+      "rationale": "The score of Medium for Conscientiousness is appropriate. The subject demonstrates goal-directed behavior by preparing for and executing a structured video format, reading questions sequentially from a screen. This indicates a degree of planning and orderliness. However, the overall setting is casual (dim lighting, personal room) and the delivery is conversational rather than formally scripted, which moderates the evidence for high conscientiousness. This balance between structure and spontaneity aligns with a medium level of this trait.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "High",
+      "score": 0.62,
+      "rationale": "A High Neuroticism score is supported by subtle indicators of self-consciousness and negative affect. The subject's eyes frequently dart from side to side while speaking, a behavior often associated with social anxiety or cognitive load under perceived scrutiny (i.e., being on camera). Furthermore, his repeated, emphatic self-criticism about being \"so bad at that game\" can be interpreted as a form of self-deprecating rumination, a common manifestation of neuroticism.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "High",
+      "score": 0.64,
+      "rationale": "The subject's High Openness is demonstrated through his creative expression and curated personal environment. Engaging in video creation is a form of self-expression. More significantly, his background is deliberately decorated with items reflecting his interests and identity (posters, a city photo, a sports flag), indicating an appreciation for aesthetics. His use of a popular meme phrase (\"2K is love, 2K is life\") shows an engagement with contemporary culture, and his nostalgic storytelling reflects an active imagination and value placed on past emotional experiences.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their Agreeableness level?",
+      "options": [
+        {
+          "id": "A",
+          "text": "0.2s - 0.9s"
+        },
+        {
+          "id": "B",
+          "text": "3.3s - 4.0s"
+        },
+        {
+          "id": "C",
+          "text": "12.8s - 13.5s"
+        },
+        {
+          "id": "D",
+          "text": "9.4s - 10.1s"
+        },
+        {
+          "id": "E",
+          "text": "11.0s - 11.7s"
+        },
+        {
+          "id": "F",
+          "text": "7.0s - 7.7s"
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. The analysis for High Agreeableness specifically cites the 'slight smile that appears as he reads the next question' as a key nonverbal cue signaling warmth and social affability. The observation log localizes this smile at 13.0s, which falls directly within the 12.8s - 13.5s interval.\n\n- Option A is a video-based distractor. This interval captures the initial eye-opening at the very beginning of the video, which is not directly related to Agreeableness.\n- Option B is a video-based distractor. This interval corresponds to when he says 'so bad,' a moment more relevant to Neuroticism (self-criticism) than Agreeableness.\n- Option D is a video-based distractor. This is when he asks the tag question 'right?,' which is a key indicator for Extraversion (audience engagement).\n- Option E is a near-miss distractor. This interval captures the moment his eyes move downward to read the screen, which immediately *precedes* the smile. It's temporally close but does not contain the key expression itself.\n- Option F is a text-based distractor. It represents a plausible time range within the video but corresponds to a period of neutral speech with no specific, notable micro-expression relevant to Agreeableness."
+    },
+    {
+      "category": "Temporal-Causal Reasoning",
+      "question": "Consider the sequence of behaviors observed across the video. Which of the following best describes the causal chain linking the person's actions at different moments?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A positive display prompts task-switching, which then causes expressive social disclosure."
+        },
+        {
+          "id": "B",
+          "text": "Self-monitoring behavior leads to a compensatory display, then a direct audience query."
+        },
+        {
+          "id": "C",
+          "text": "Social disclosure leads to task-switching behavior, which prompts a positive affective display."
+        },
+        {
+          "id": "D",
+          "text": "Social disclosure causes a negative display, which is masked by a task-switching action."
+        },
+        {
+          "id": "E",
+          "text": "Task-switching is followed by disclosure, which is interrupted by a positive affective display."
+        },
+        {
+          "id": "F",
+          "text": "Disengagement prompts social disclosure, which then leads to a self-regulatory action."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. This option correctly maps the macro-sequence of the video. First, the person engages in storytelling (social disclosure, 0.5-11s). This concludes, causing him to look down to read the next question (task-switching behavior, ~11s). Reading the new user question then prompts a slight smile (a positive affective display, ~13s).\n\n- Option A is a near-miss distractor with a reversed temporal order. The positive display (smile) happens last, it does not prompt the other actions.\n- Option B is a video-based distractor. This describes a plausible micro-sequence *within* the first part of the video (darting eyes -> expressive voice -> 'right?'), but it does not describe the overarching causal chain connecting the video's major segments.\n- Option D is a text-based distractor. It posits a negative display and masking behavior, neither of which is observed.\n- Option E is a near-miss distractor. It has the correct elements but scrambles the causal links; task-switching *enables* the next disclosure, it isn't just followed by it, and the positive display is a *result*, not an interruption.\n- Option F is a text-based distractor. The video begins with engagement, not disengagement, making the initial premise incorrect."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 4.7s, a region was detected in the video (x=0.326, y=0.156, w=0.459, h=0.839, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A subtle smile forming on the lips while he is speaking."
+        },
+        {
+          "id": "B",
+          "text": "Natural head motion that is accompanying his vocal speech."
+        },
+        {
+          "id": "C",
+          "text": "A completely fixed and forward-facing head position."
+        },
+        {
+          "id": "D",
+          "text": "A clear and distinct downward shift of the subject's gaze."
+        },
+        {
+          "id": "E",
+          "text": "Focused concentration while he is silently reading text."
+        },
+        {
+          "id": "F",
+          "text": "Gaze is directed toward the monitor's bottom-left area."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. The specified bounding box at 4.7s covers the person's entire head region. The observation log for this time frame (0.5s - 11.0s) states there are slight head movements accompanying his speech. Therefore, 'Natural head motion' is the most accurate description of the prominent action within that large bounding box.\n\n- Option A is a video-based distractor. A smile is observed, but it appears much later in the video, around 13.0s.\n- Option C is a near-miss distractor. This is incorrect because the observation log explicitly mentions slight movements. It also contradicts the observed side-to-side eye darts during this period, which would be inconsistent with a perfectly fixed head.\n- Option D is a video-based distractor. A downward gaze shift occurs, but it happens later, around 11.0s - 12.4s, when he begins to read.\n- Option E is a video-based distractor. The person is speaking and telling a story at 4.7s, not silently reading.\n- Option F is a video-based distractor. The gaze shifts to the lower-left, but this happens later (around 12.6s) when he is reading from the screen."
+    },
+    {
+      "category": "Counterfactual Reasoning",
+      "question": "If the person had NOT exhibited the behavior observed around 3.0s - 5.0s, which of the following personality assessments would be MOST affected?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Extraversion would shift from High to Medium because his social energy is mainly in this moment."
+        },
+        {
+          "id": "B",
+          "text": "Agreeableness would decrease, as this moment is the main indicator of his cooperative nature."
+        },
+        {
+          "id": "C",
+          "text": "Neuroticism would likely be assessed as lower, as this segment has key self-critical remarks."
+        },
+        {
+          "id": "D",
+          "text": "Openness assessment would be reduced, as this behavior is crucial for showing his imagination."
+        },
+        {
+          "id": "E",
+          "text": "Neuroticism would be assessed as higher, because its absence would indicate suppression."
+        },
+        {
+          "id": "F",
+          "text": "Conscientiousness would increase, because the behavior suggests a distraction from the task."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. The behavior in the 3.0s - 5.0s interval includes the repeated, emphatic self-criticism 'so bad at that game' and 'so bad'. The personality analysis explicitly cites this as a key indicator of High Neuroticism, interpreting it as self-deprecating rumination. Removing this specific verbal content would eliminate one of the two primary pieces of evidence for this trait, thus likely lowering the assessment.\n\n- Option A is a text-based distractor. High Extraversion is supported by multiple cues, including his expressive delivery throughout the segment and the tag question 'right?' at the end. The behavior at 3-5s is not the sole source of this assessment.\n- Option B is a video-based distractor. The main evidence for High Agreeableness comes from the smile observed much later, around 13.0s. The behavior at 3-5s is unrelated to this trait assessment.\n- Option D is a text-based distractor. High Openness is supported by the general act of creative video-making and the background decor, not specifically by the self-critical remarks.\n- Option E is a near-miss distractor. It correctly identifies the trait (Neuroticism) but proposes the wrong direction of change based on a speculative and unsupported psychological interpretation (suppression).\n- Option F is a text-based distractor. It makes a weak and indirect link between the behavior and Conscientiousness; the primary interpretation relates to emotional stability, not task focus."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator20",
+      "version": 3,
+      "clues_total": 21,
+      "clues_correct": 14,
+      "clues_wrong_corrected": 5,
+      "clues_missing_skipped": 0,
+      "clues_bonus": 2
+    }
+  }
+}

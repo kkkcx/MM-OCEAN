@@ -1,0 +1,439 @@
+{
+  "video_id": "JJxLsbLQlIE.001.mp4",
+  "video_path": "JJxLsbLQlIE.001.mp4",
+  "transcription": "I just wan to say thank you for all the sweet words and comments on all my videos. You guys are so sweet and if you didn't win this give away, don't worry, I am going to be doing another giveaway very soon. I want to incorporate giveaways more into my channel because I like giving back. I think that.",
+  "original_scores": {
+    "extraversion": 0.6822429906542057,
+    "agreeableness": 0.6043956043956044,
+    "conscientiousness": 0.5533980582524272,
+    "neuroticism": 0.625,
+    "openness": 0.8555555555555554
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 11.511,
+      "description": "The woman maintains direct eye contact with the camera, her eyebrows slightly raised and her mouth in a smile as she speaks. Her eyes briefly glance upwards and to her right at 0:02. Her expression is open and engaged.",
+      "bboxes": [
+        {
+          "frame_time": 2.670295,
+          "x": 0.5111019736842105,
+          "y": 0.1771929791099147,
+          "w": 0.20575657894736843,
+          "h": 0.18157894736842106,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 0.608125,
+          "x": 0.46817434210526315,
+          "y": 0.08508771595201994,
+          "w": 0.2412828947368421,
+          "h": 0.17894736842105263,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 2.755689,
+          "x": 0.4622532894736842,
+          "y": 0.12456140016254626,
+          "w": 0.26052631578947366,
+          "h": 0.4842105263157895,
+          "note": "face human-annotated",
+          "region": "face"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 11.511,
+      "end_time": 13.563,
+      "description": "Her eyebrows raise slightly higher as she speaks, and she maintains her smile and direct gaze.",
+      "bboxes": [
+        {
+          "frame_time": 12.319017,
+          "x": 0.4740953947368421,
+          "y": 0.07719297910991468,
+          "w": 0.24572368421052632,
+          "h": 0.18157894736842106,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 13.563,
+      "end_time": 15.602,
+      "description": "Her expression becomes slightly more neutral as she pauses. Her eyes close briefly at 0:14 before she resumes speaking.",
+      "bboxes": [
+        {
+          "frame_time": 14.312067,
+          "x": 0.4208059210526316,
+          "y": 0.1403508738467568,
+          "w": 0.28421052631578947,
+          "h": 0.4842105263157895,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 14.001848,
+          "x": 0.4474506578947368,
+          "y": 0.2061403475309673,
+          "w": 0.2501644736842105,
+          "h": 0.1368421052631579,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 15.234398,
+          "x": 0.44449013157894735,
+          "y": 0.09824561068886205,
+          "w": 0.28273026315789473,
+          "h": 0.5105263157894737,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 11.244,
+      "description": "The woman sits facing the camera with her hands clasped at the bottom of the frame, making small movements. Her head nods slightly in rhythm with her speech.",
+      "bboxes": [
+        {
+          "frame_time": 0.218512,
+          "x": 0.46817434210526315,
+          "y": 0.898245610688862,
+          "w": 0.20723684210526316,
+          "h": 0.09736842105263158,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 4.660855,
+          "x": 0.4622532894736842,
+          "y": 0.08771929489938836,
+          "w": 0.2590460526315789,
+          "h": 0.5289473684210526,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 11.244,
+      "end_time": 13.269,
+      "description": "She unclasps her hands and raises them towards her upper chest in an open, illustrative gesture.",
+      "bboxes": [
+        {
+          "frame_time": 12.547248,
+          "x": 0.2046875,
+          "y": 0.5719298212151779,
+          "w": 0.7756578947368421,
+          "h": 0.36578947368421055,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 13.269,
+      "end_time": 15.602,
+      "description": "She lowers her hands out of the frame and her head remains still.",
+      "bboxes": [
+        {
+          "frame_time": 13.877538,
+          "x": 0.13807565789473683,
+          "y": 0.7482456106888621,
+          "w": 0.8185855263157895,
+          "h": 0.24736842105263157,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 15.211297,
+          "x": 0.4533717105263158,
+          "y": 0.10087718963623046,
+          "w": 0.33898026315789476,
+          "h": 0.5210526315789473,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 6.072,
+      "description": "Speech is delivered at a moderately fast pace with a clear, friendly tone. The pitch has a varied, melodic contour, rising slightly on \"sweet words\" and \"so sweet.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 6.072,
+      "end_time": 13.563,
+      "description": "The speech rate remains consistent. Pitch rises on \"very soon\" and again on \"giving back,\" adding emphasis to these phrases.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 13.563,
+      "end_time": 15.602,
+      "description": "There is a brief pause after \"giving back,\" followed by a slightly lower pitch and slower pace for the final phrase \"So I think that.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.602,
+      "description": "The subject is a young woman with a light skin tone, long dark brown hair, and dark eyebrows. She is wearing black-framed glasses and a black short-sleeved top. She is in an indoor setting, likely a bedroom, with a pink wall. To her left is a small, lit, white artificial Christmas tree. Behind her are decorative string lights. She appears to be sitting on a bed with a black and white patterned covering. The lighting is soft and frontal.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 13.31102,
+      "end_time": 14.31102,
+      "description": "There is a box on the bed behind and the Christmas tree is decorated with colorful ornaments",
+      "bboxes": [
+        {
+          "frame_time": 13.81102,
+          "x": 0.013733552631578938,
+          "y": 0.10087718963623046,
+          "w": 0.9858552631578947,
+          "h": 0.5947368421052631,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "High",
+      "score": 0.68,
+      "rationale": "The subject's High Extraversion score is supported by her engaging and expressive communication style. She directly addresses an audience ('You guys are so sweet'), a behavior typical of those energized by social interaction. Her non-verbal cues, such as an 'open and engaging' facial expression, head nodding along with her speech, and using an 'open, indicative gesture' with her hands, all signal social confidence and a desire to connect. Furthermore, her vocal delivery is dynamic, with melodic variation and emphasis on certain phrases, a technique often used by extraverted individuals to maintain listener engagement.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "High",
+      "score": 0.6,
+      "rationale": "The High Agreeableness rating is strongly evidenced by the prosocial content of her speech. She explicitly expresses gratitude ('thank you for all the sweet words') and altruistic intentions ('I like giving back'). This verbal warmth is reinforced by her 'clear and friendly' vocal tone and an 'open and engaging' facial expression. These congruent verbal and non-verbal signals point to a cooperative and compassionate disposition, which are core facets of high agreeableness.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Medium",
+      "score": 0.55,
+      "rationale": "The Medium Conscientiousness score is reflected in the subject's organized, goal-directed behavior. Creating a video with a clear purpose (thanking followers, announcing a giveaway) demonstrates planning and dutifulness. Her speech is delivered at a moderate and consistent pace, suggesting a degree of deliberation rather than impulsivity. While she is clearly organized enough to produce this content, there is an absence of cues suggesting exceptionally high levels of orderliness or rigid planning, placing her comfortably in the medium range.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "High",
+      "score": 0.62,
+      "rationale": "Despite her outward friendliness, subtle behavioral cues support a High Neuroticism score. The subject displays repeated instances of eye closure and avoids sustained, direct eye contact with the camera, which can be indicators of social anxiety or self-consciousness. Her initially clasped hands making small movements may function as a self-soothing gesture to manage nervous energy. Finally, the brief pause and subsequent drop in vocal pitch at the very end of her thought ('I think that.') suggest a momentary lapse in confidence, consistent with the self-doubt often associated with neuroticism.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "Very High",
+      "score": 0.86,
+      "rationale": "The Very High Openness score is strongly indicated by the subject's creative self-expression and aesthetic choices. The act of creating and publishing video content is itself a creative endeavor. More revealing is her curated environment, which serves as her set; using her personal space with unconventional decorative elements like a lit artificial Christmas tree and string lights demonstrates an appreciation for aesthetics and a non-traditional sensibility. This construction of a unique visual background for her audience is a hallmark of an imaginative individual who values artistic and personal expression.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During 11.2s - 13.3s, the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "High Extraversion, reflecting social confidence and expressiveness."
+        },
+        {
+          "id": "B",
+          "text": "High Agreeableness, indicating prosocial and altruistic intentions."
+        },
+        {
+          "id": "C",
+          "text": "Low Neuroticism, showing a state of emotional stability and calm."
+        },
+        {
+          "id": "D",
+          "text": "High Conscientiousness, implying a deliberate and organized mindset."
+        },
+        {
+          "id": "E",
+          "text": "Low Openness to Experience, suggesting a preference for tradition."
+        },
+        {
+          "id": "F",
+          "text": "High Neuroticism, due to self-conscious and anxious mannerisms."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. During 11.2s - 13.3s, the person unclasps her hands and makes a large, open gesture while speaking. This expressive, socially-oriented gesticulation is a strong indicator of High Extraversion, as it signals social confidence and a desire to connect with an audience. Option B is a near-miss distractor; while the verbal content is about 'giving back' (Agreeableness), the physical gesture itself is more directly a signal of an extraverted communication style. Option C is a near-miss distractor; the gesture could imply confidence (low neuroticism), but its primary function in this social context is expressiveness, making Extraversion a better fit. Options D and E are text-based distractors as the gesture has no direct link to Conscientiousness or Openness. Option F is a video-based distractor; while she shows signs of Neuroticism at other times (e.g., clasped hands at the start), this specific open gesture contradicts it."
+    },
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their Neuroticism level?",
+      "options": [
+        {
+          "id": "A",
+          "text": "0.5s - 0.9s"
+        },
+        {
+          "id": "B",
+          "text": "2.6s - 3.0s"
+        },
+        {
+          "id": "C",
+          "text": "4.6s - 5.0s"
+        },
+        {
+          "id": "D",
+          "text": "12.4s - 12.8s"
+        },
+        {
+          "id": "E",
+          "text": "8.1s - 8.5s"
+        },
+        {
+          "id": "F",
+          "text": "13.9s - 14.3s"
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The correct answer is F. The personality analysis links High Neuroticism to cues of self-consciousness like eye closure. Around 14.0s, the person briefly closes her eyes as she pauses and her vocal pitch drops, suggesting a momentary lapse in confidence, which is a key indicator for Neuroticism. Option B is a video-based distractor; there is an eye closure around 2.7s, but the one at 14.0s is more significant as it's coupled with a verbal pause and tonal shift. Options A, C, and D are video-based distractors that point to other distinct actions: an eyebrow raise (A), a head nod (C), and a hand gesture (D), which are not the primary evidence for Neuroticism. Option E is a text-based distractor pointing to a less eventful moment in the video."
+    },
+    {
+      "category": "Temporal-Causal Reasoning",
+      "question": "Consider the sequence of behaviors observed across the video. Which of the following best describes the causal chain linking the person's actions at different moments?",
+      "options": [
+        {
+          "id": "A",
+          "text": "An initial self-soothing behavior (0-11s) enables a more open prosocial display (11-13s), which is followed by a brief moment of self-monitoring (14-15s)."
+        },
+        {
+          "id": "B",
+          "text": "A display of high confidence (0-11s) causes a shift to a more reserved posture (11-13s) as a result of an external distraction not visible in the frame (14-15s)."
+        },
+        {
+          "id": "C",
+          "text": "A period of calm reflection (0-11s) is interrupted by an expressive outburst (11-13s), which then immediately returns to a state of complete emotional neutrality (14-15s)."
+        },
+        {
+          "id": "D",
+          "text": "A prosocial display (0-11s) leads to a state of anxious self-monitoring (11-13s), which is then resolved by a final, confident closing statement and gesture (14-15s)."
+        },
+        {
+          "id": "E",
+          "text": "An attempt at audience engagement (0-11s) falters, requiring a compensatory gesture (11-13s) to regain attention before a planned pause for emphasis occurs (14-15s)."
+        },
+        {
+          "id": "F",
+          "text": "A planned, rehearsed gesture sequence begins with a neutral pose (0-11s), moves to an emphatic gesture (11-13s), and concludes with a final thought-gathering pause (14-15s)."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. The sequence begins with clasped hands and eye closures (self-soothing/regulation), which allows her to manage any anxiety and proceed to a more confident, open hand gesture (prosocial display). This expressive peak is followed by a pause and another eye closure (self-monitoring/confidence dip). Option D is a video-based distractor with reversed temporal order; the prosocial display occurs in the middle, not at the beginning. Option F is a near-miss distractor; it correctly identifies the sequence of actions but misinterprets the cause, attributing it to a neutral plan rather than acknowledging the underlying emotional regulation and anxiety cues. Option B is a text-based distractor that incorrectly interprets the initial behavior as high confidence. Option C is a near-miss distractor that mischaracterizes the initial state as 'calm reflection' instead of anxious self-regulation. Option E is a text-based distractor that invents a narrative of failure and compensation not supported by the video."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 14.3s, a region was detected in the video (x=0.421, y=0.140, w=0.284, h=0.484, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A briefly neutral facial expression during a pause in speech."
+        },
+        {
+          "id": "B",
+          "text": "An open facial expression indicating social warmth and engagement."
+        },
+        {
+          "id": "C",
+          "text": "A rhythmic nodding motion of the head to add speech emphasis."
+        },
+        {
+          "id": "D",
+          "text": "A momentary and complete closure of the eyes suggesting focus."
+        },
+        {
+          "id": "E",
+          "text": "A slight, expressive upward movement of the person's eyebrows."
+        },
+        {
+          "id": "F",
+          "text": "An open gesture with the hands to emphasize a prosocial point."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. The specified bounding box at 14.3s covers the person's face. At this moment, she is in the middle of a pause, and her expression has momentarily lost its active engagement and become neutral. Option D is a near-miss distractor; a complete eye closure happens just before this moment (at 14.0s), but by 14.3s, the dominant state within the facial region is neutrality. Options B, C, E, and F are all video-based distractors; they describe real actions (engaging expression, head nod, eyebrow raise, hand gesture) that occur at different times or in different locations in the video, not within the specified bounding box at 14.3s."
+    },
+    {
+      "category": "Counterfactual Reasoning",
+      "question": "If the specific environmental details observed around 13.3s - 14.3s were absent from the entire video, which of the following personality assessments would be MOST affected?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Openness would decrease, as this evidence for aesthetic appreciation and creativity would be removed."
+        },
+        {
+          "id": "B",
+          "text": "Agreeableness would increase, as a plain setting would better focus the viewer on her warm message."
+        },
+        {
+          "id": "C",
+          "text": "Extraversion would not change, as it is based on her dynamic speech and expressive hand gestures."
+        },
+        {
+          "id": "D",
+          "text": "Neuroticism would decrease, as a simpler setting would imply a higher degree of social confidence."
+        },
+        {
+          "id": "E",
+          "text": "Conscientiousness would remain stable, since the score is derived from her organized speech patterns."
+        },
+        {
+          "id": "F",
+          "text": "Openness would increase, as a minimalist background would suggest a greater focus on abstract ideas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. The personality analysis explicitly states that the Very High Openness score is 'strongly indicated' by her 'curated environment' (Christmas tree, string lights), which demonstrates an 'appreciation for aesthetics and a non-traditional sensibility'. Removing this key piece of evidence would significantly weaken the argument for a high Openness score. Option F is a near-miss distractor; it correctly identifies the trait but gets the direction of change wrong with faulty reasoning. Options C and E are text-based distractors; they are correct statements about what supports the Extraversion and Conscientiousness scores, but they fail to answer which assessment would be *most affected* by the counterfactual change. Options B and D are near-miss distractors that link the environment to the wrong traits (Agreeableness, Neuroticism) with plausible-sounding but incorrect causal logic."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [
+      {
+        "check": "B",
+        "q_idx": 5,
+        "issue": "The distractors are not properly differentiated from the correct answer. Option E ([0.6s] x=0.47, y=0.09, w=0.24, h=0.18) also correctly identifies an instance of the described behavior (an eyebrow raise for engagement, noted in the observation log at 0.608s), making it a second valid answer alongside the designated correct answer A.",
+        "action": "Change the timestamp in option E to a time when this specific behavior does not occur, thus making it a valid distractor."
+      }
+    ],
+    "corrections": {
+      "mcq_questions[5].options[4].text": "[9.5s] x=0.47, y=0.09, w=0.24, h=0.18"
+    },
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator06",
+      "version": 1,
+      "clues_total": 20,
+      "clues_correct": 14,
+      "clues_wrong_corrected": 2,
+      "clues_missing_skipped": 3,
+      "clues_bonus": 1
+    }
+  }
+}

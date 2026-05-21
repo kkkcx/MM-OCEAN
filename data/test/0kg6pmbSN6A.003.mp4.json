@@ -1,0 +1,415 @@
+{
+  "video_id": "0kg6pmbSN6A.003.mp4",
+  "video_path": "0kg6pmbSN6A.003.mp4",
+  "transcription": "So check him out. He's a really cool dude, he's a really cool guy. Check his videos out, subscribe to him, like all of his videos and all of that stuff.",
+  "original_scores": {
+    "extraversion": 0.35514018691588783,
+    "agreeableness": 0.30769230769230765,
+    "conscientiousness": 0.2912621359223301,
+    "neuroticism": 0.32291666666666663,
+    "openness": 0.26666666666666666
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 14.77,
+      "description": "The subject maintains direct eye contact with the low-angle camera. His eyebrows remain in a neutral-to-slightly-raised position, and his mouth moves naturally with his speech. His overall facial expression is relaxed and conversational.",
+      "bboxes": [
+        {
+          "frame_time": 0,
+          "x": 0.42450657894736843,
+          "y": 0.3557894756919459,
+          "w": 0.21167763157894737,
+          "h": 0.14210526315789473,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 1.947272,
+          "x": 0.3786184210526316,
+          "y": 0.2610526335866828,
+          "w": 0.24276315789473685,
+          "h": 0.1763157894736842,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 3.077386,
+          "x": 0.4407894736842105,
+          "y": 0.5268421072708933,
+          "w": 0.18947368421052632,
+          "h": 0.15263157894736842,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 12.328502,
+          "x": 0.39342105263157895,
+          "y": 0.2768421072708933,
+          "w": 0.28125,
+          "h": 0.4342105263157895,
+          "note": "face human-annotated",
+          "region": "face"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 1.76,
+      "description": "The subject's head is framed from the chest up against a brick wall. His head remains relatively still.",
+      "bboxes": [
+        {
+          "frame_time": 0,
+          "x": 0.36973684210526314,
+          "y": 0.11631579148141961,
+          "w": 0.36414473684210524,
+          "h": 0.7210526315789474,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 0.104331,
+          "x": 0.3786184210526316,
+          "y": 0.09789473884984067,
+          "w": 0.34342105263157896,
+          "h": 0.7947368421052632,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 1.76,
+      "end_time": 2.7,
+      "description": "The subject's right hand enters the frame from the bottom left, fingers slightly splayed, in a small illustrative gesture before moving out of frame.",
+      "bboxes": [
+        {
+          "frame_time": 2.121406,
+          "x": 0.13289473684210526,
+          "y": 0.6136842125340511,
+          "w": 0.17467105263157895,
+          "h": 0.3684210526315789,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 2.538732,
+          "x": 0.12697368421052632,
+          "y": 0.737368423060367,
+          "w": 0.30641447368421054,
+          "h": 0.2578947368421053,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 4.54,
+      "end_time": 5.92,
+      "description": "The subject makes a thumbs-up gesture with his right hand, bringing it briefly into the center of the frame before lowering it.",
+      "bboxes": [
+        {
+          "frame_time": 5.494791,
+          "x": 0.13289473684210526,
+          "y": 0.5636842125340512,
+          "w": 0.22796052631578947,
+          "h": 0.41842105263157897,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 5.546956,
+          "x": 0.14029605263157893,
+          "y": 0.7163157914814197,
+          "w": 0.16282894736842105,
+          "h": 0.2631578947368421,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 9.06,
+      "end_time": 10.04,
+      "description": "The subject's right hand re-enters the frame from the bottom left, making another small, open-handed illustrative gesture.",
+      "bboxes": [
+        {
+          "frame_time": 9.407221,
+          "x": 0.12549342105263156,
+          "y": 0.4268421072708933,
+          "w": 0.14358552631578947,
+          "h": 0.5684210526315789,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0.5,
+      "end_time": 14.13,
+      "description": "The subject speaks at a moderate, conversational pace in a mid-to-low pitch range. There is a slight rising intonation and emphasis on the words \"really cool dude\" and \"really cool guy.\" Short pauses occur between phrases, such as after \"check his videos out\" and \"subscribe to him.\" The overall volume is consistent.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 14.77,
+      "description": "The subject is a young man with dark hair, a unibrow, a mustache, and a slight beard. He is wearing a light gray zip-up hoodie with gray lettering over a gray high-necked shirt. He appears to be outdoors, standing in front of a light-tan brick wall. The lighting is diffuse, suggesting an overcast day.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 13.828189,
+      "end_time": 14.828189,
+      "description": "The subject glanced to the right",
+      "bboxes": [
+        {
+          "frame_time": 14.328189,
+          "x": 0.39786184210526315,
+          "y": 0.27947368621826174,
+          "w": 0.20279605263157896,
+          "h": 0.1868421052631579,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Low",
+      "score": 0.36,
+      "rationale": "The subject's Extraversion is rated as Low. While engaging in a social act of promotion, his nonverbal cues suggest a reserved temperament. His vocal delivery is at a moderate pace and medium-low pitch, lacking the loud volume and high energy typical of high extraversion. His head remains relatively still, and his gestures, though present, are described as 'small' and are used intermittently rather than in a continuously animated fashion. This contained physical and vocal energy is characteristic of individuals on the lower end of the extraversion spectrum.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Low",
+      "score": 0.31,
+      "rationale": "The subject's score indicates Low Agreeableness. This assessment, while seemingly at odds with the supportive content of his speech, is based on his nonverbal delivery. A highly agreeable individual would typically supplement pro-social statements with warm, affiliative cues like broad smiles or a very warm vocal tone. Instead, the subject's facial expression is relaxed and conversational but largely neutral, and his vocal intonation shows only 'slight' emphasis. This reserved emotional expression, a disconnect from the explicitly agreeable message, points to a more guarded or less outwardly compassionate nature consistent with lower agreeableness.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Low",
+      "score": 0.29,
+      "rationale": "The subject's Conscientiousness is rated as Low. This is supported by the overall spontaneity and lack of formal structure in his presentation. The setting is a casual outdoor space with a simple brick wall, suggesting an impromptu recording rather than a planned one. His speech concludes with the imprecise phrase 'and all of that stuff,' which indicates a lack of detailed planning and a more disorganized communication style. The brief glance away at the end can also be interpreted as a momentary lapse in disciplined focus, which aligns with the flexible and less structured approach of individuals low in conscientiousness.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Low",
+      "score": 0.32,
+      "rationale": "The subject scores Low on Neuroticism, indicating high emotional stability. This is strongly supported by his calm and controlled demeanor throughout the video. His facial expression is noted as 'relaxed,' and he maintains steady, direct eye contact with the camera, a sign of confidence and comfort. His speech is delivered at a consistent volume and moderate pace, free from the vocal tremors, stammering, or rapid pace often associated with anxiety. The absence of fidgeting or tense posture further corroborates a state of emotional resilience and low negative affect.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "Low",
+      "score": 0.27,
+      "rationale": "The subject's Openness is rated as Low. This is reflected in his conventional presentation and concrete communication style. His language is direct and practical ('subscribe to him, like all of his videos') without any use of abstract concepts, metaphor, or complex vocabulary. His appearance (a standard hoodie and turtleneck) and the simple, unadorned background are conventional. The entire clip lacks artistic or intellectual flourishes, instead presenting a straightforward message in a familiar way, which is characteristic of individuals who prefer the practical and conventional over the novel and abstract.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During 10.5s - 12.0s, the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "High Agreeableness"
+        },
+        {
+          "id": "B",
+          "text": "High Extraversion"
+        },
+        {
+          "id": "C",
+          "text": "Low Conscientiousness"
+        },
+        {
+          "id": "D",
+          "text": "Low Neuroticism"
+        },
+        {
+          "id": "E",
+          "text": "High Conscientiousness"
+        },
+        {
+          "id": "F",
+          "text": "Low Extraversion"
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The correct answer identifies that the verbal cue in this segment ('and all of that stuff') is the strongest evidence for Low Conscientiousness, as it indicates a disorganized and unplanned communication style. Option A is a text-based distractor; the supportive words could suggest high agreeableness, but the overall nonverbal delivery contradicts this. Option B is a text-based distractor; speaking to a camera might seem extraverted, but the low energy and reserved demeanor point to low extraversion. Option D is a video-based distractor; while the person is low in neuroticism, this trait is supported by his overall calm demeanor throughout the video, not this specific verbal cue. Option E is a near-miss distractor, as it correctly identifies the relevant trait (Conscientiousness) but gets the direction wrong. Option F is a video-based distractor; the person is low in extraversion, but the evidence for that is his contained energy and small gestures, not this specific verbal phrase."
+    },
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their Low Conscientiousness level?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[0.0s - 1.0s]"
+        },
+        {
+          "id": "B",
+          "text": "[1.8s - 2.8s]"
+        },
+        {
+          "id": "C",
+          "text": "[13.8s - 14.8s]"
+        },
+        {
+          "id": "D",
+          "text": "[4.5s - 5.9s]"
+        },
+        {
+          "id": "E",
+          "text": "[9.1s - 10.1s]"
+        },
+        {
+          "id": "F",
+          "text": "[3.0s - 4.0s]"
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The correct interval captures the brief glance away from the camera at the very end. The personality analysis notes this can be interpreted as a momentary lapse in disciplined focus, which is a subtle cue supporting Low Conscientiousness. Option A is a video-based distractor showing the initial, neutral expression. Option B is a video-based distractor corresponding to the first hand gesture. Option D is a video-based distractor covering the thumbs-up gesture. Option E is a video-based distractor showing the second hand gesture. Option F is a video-based distractor focused on mouth movement during speech. None of these other intervals contain a change in expression that is as relevant to a lapse in focus."
+    },
+    {
+      "category": "Mixed Emotion Discrimination",
+      "question": "During 0.5s - 14.1s, the person's emotional state is best characterized as which of the following? Consider both verbal and non-verbal cues.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Enthusiastic endorsement tempered by a hint of modesty."
+        },
+        {
+          "id": "B",
+          "text": "Calm indifference mixed with a subtle feeling of disinterest."
+        },
+        {
+          "id": "C",
+          "text": "Detached supportiveness mixed with some casual earnestness."
+        },
+        {
+          "id": "D",
+          "text": "Reserved confidence tempered by some genuine sincerity."
+        },
+        {
+          "id": "E",
+          "text": "Passionate advocacy combined with a confident personal appeal."
+        },
+        {
+          "id": "F",
+          "text": "Mild amusement combined with a feeling of clear obligation."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "This option correctly captures the dichotomy between the supportive verbal message ('supportiveness', 'earnestness') and the reserved, neutral non-verbal delivery ('detached', 'casual'), which aligns with the Low Agreeableness and Low Extraversion ratings. Option A is a text-based distractor; 'enthusiastic' is suggested by the words but not supported by the low-energy delivery. Option B is a video-based distractor that overemphasizes the neutral affect ('indifference', 'disinterest') while ignoring the supportive content of the speech. Option D is a near-miss distractor; it's very close, but 'detached supportiveness' better captures the specific disconnect noted in the agreeableness analysis than 'reserved confidence' does. Option E is a text-based distractor; 'passionate' is a plausible interpretation of the transcript but is directly contradicted by the calm visual presentation. Option F is a near-miss distractor as 'obligation' is a plausible interpretation, but 'amusement' is not supported by any evidence."
+    },
+    {
+      "category": "Temporal-Causal Reasoning",
+      "question": "Consider the sequence of behaviors observed across the video. Which of the following best describes the causal chain linking the person's actions at different moments?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A confident opening triggers an energetic delivery, culminating in a strong, persuasive call to action at the video's conclusion."
+        },
+        {
+          "id": "B",
+          "text": "A final lapse of attention prompts reinforcing gestures to regain credibility, following an initially hesitant vocal performance."
+        },
+        {
+          "id": "C",
+          "text": "An initial reserved affect is followed by compensatory gestures, then gives way to a lapse in structured communication and focus."
+        },
+        {
+          "id": "D",
+          "text": "A baseline neutral expression is punctuated by an emphatic gesture, followed by a return to the same state of calm, focused delivery."
+        },
+        {
+          "id": "E",
+          "text": "The use of hand gestures throughout serves to maintain audience engagement, established by an initially warm facial expression."
+        },
+        {
+          "id": "F",
+          "text": "A carefully planned speech begins with direct address, is supported by persuasive gestures, and concludes by repeating the main point."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "This option correctly maps the video's progression: the initial low-energy, reserved delivery (low extraversion/agreeableness) is supplemented by gestures (like the thumbs-up) to add emphasis, and finally concludes with disorganized speech and a gaze shift (low conscientiousness). Option A is a text-based distractor; it describes a plausible persuasive speech arc but is contradicted by the low-energy delivery in the video. Option B is a video-based distractor with reversed temporal order, incorrectly placing the final lapse of attention as the cause for earlier gestures. Option D is a near-miss distractor; it correctly identifies the neutral expression and the gesture but incorrectly claims a return to 'focused delivery,' ignoring the final disorganized speech and gaze aversion. Option E is a video-based distractor with wrong causality; the facial expression is not 'warm,' and the gestures are better interpreted as compensation for low affect rather than maintenance of existing engagement. Option F is a text-based distractor that incorrectly assumes the speech was 'carefully planned,' which is contrary to the evidence for low conscientiousness."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "The video contains a brief moment where the subject's focus is momentarily diverted from the camera. At which time and location does this specific event occur?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[2.1s] @ (x=0.133, y=0.614, w=0.175, h=0.368)"
+        },
+        {
+          "id": "B",
+          "text": "[5.5s] @ (x=0.133, y=0.564, w=0.228, h=0.418)"
+        },
+        {
+          "id": "C",
+          "text": "[14.3s] @ (x=0.398, y=0.279, w=0.203, h=0.187)"
+        },
+        {
+          "id": "D",
+          "text": "[9.4s] @ (x=0.125, y=0.427, w=0.144, h=0.568)"
+        },
+        {
+          "id": "E",
+          "text": "[3.1s] @ (x=0.441, y=0.527, w=0.189, h=0.153)"
+        },
+        {
+          "id": "F",
+          "text": "[1.9s] @ (x=0.379, y=0.261, w=0.243, h=0.176)"
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "This option correctly identifies the exact time and location of the eye region during the brief glance to the right side, which is the only moment the subject's focus is diverted. All other options are video-based distractors that represent real, detected events but do not match the described behavior. Option A is the first hand gesture. Option B is the thumbs-up gesture. Option D is the second hand gesture. Option E is the mouth during speech. Option F is the eyebrow region during a moment of neutral expression."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [
+      {
+        "check": "B",
+        "q_idx": 0,
+        "issue": "The timestamp [6.5s - 8.5s] is factually incorrect. The behavior relevant to the correct answer (Low Conscientiousness) is the phrase 'and all of that stuff', which is spoken later, around the 11-second mark, not during the specified interval.",
+        "action": "Corrected the timestamp in the question stem to point to the correct event."
+      },
+      {
+        "check": "B",
+        "q_idx": 6,
+        "issue": "This question's premise is factually inaccurate as it relies on the same incorrect timestamp [6.5s - 8.5s] from question 0.",
+        "action": "Corrected the timestamp in the question stem to match the correction made in question 0, ensuring the counterfactual premise is accurate."
+      }
+    ],
+    "corrections": {
+      "mcq_questions[0].question": "During 10.5s - 12.0s, the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "mcq_questions[6].question": "If the person had NOT exhibited the behavior observed around 10.5s - 12.0s, which of the following personality assessments would be MOST affected?"
+    },
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator03",
+      "version": 1,
+      "clues_total": 14,
+      "clues_correct": 13,
+      "clues_wrong_corrected": 0,
+      "clues_missing_skipped": 0,
+      "clues_bonus": 1
+    }
+  }
+}

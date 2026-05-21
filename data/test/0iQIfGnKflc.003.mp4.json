@@ -1,0 +1,444 @@
+{
+  "video_id": "0iQIfGnKflc.003.mp4",
+  "video_path": "0iQIfGnKflc.003.mp4",
+  "transcription": "I would love to do a sequel to Power Glove. I would absolutely love to do a sequel to that, but I don't really think that's going to be possible right now because it's going to cost a lot and, yeah.",
+  "original_scores": {
+    "extraversion": 0.5233644859813085,
+    "agreeableness": 0.4615384615384615,
+    "conscientiousness": 0.5922330097087379,
+    "neuroticism": 0.6770833333333334,
+    "openness": 0.611111111111111
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 4.97,
+      "description": "The subject speaks directly to the camera, but his eyes and eyebrows are obscured by sunglasses. His mouth moves naturally with his speech, with the corners of his lips in a neutral position.",
+      "bboxes": [
+        {
+          "frame_time": 0.888999,
+          "x": 0.3504934210526316,
+          "y": 0.16631579148141962,
+          "w": 0.3049342105263158,
+          "h": 0.5342105263157895,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 0.888999,
+          "x": 0.36233552631578947,
+          "y": 0.2900000020077354,
+          "w": 0.30641447368421054,
+          "h": 0.19736842105263158,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 2.862137,
+          "x": 0.45263157894736844,
+          "y": 0.487368423060367,
+          "w": 0.15542763157894737,
+          "h": 0.1631578947368421,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 4.97,
+      "end_time": 6.88,
+      "description": "As he says \"absolutely love,\" the corners of his lips pull slightly upward and outward into a smile.",
+      "bboxes": [
+        {
+          "frame_time": 6.578985,
+          "x": 0.46595394736842105,
+          "y": 0.49526315990247227,
+          "w": 0.19391447368421053,
+          "h": 0.16842105263157894,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 6.88,
+      "end_time": 13.78,
+      "description": "His expression returns to a more neutral state, with his mouth forming shapes consistent with his speech.",
+      "bboxes": [
+        {
+          "frame_time": 8.14428,
+          "x": 0.35345394736842106,
+          "y": 0.11631579148141961,
+          "w": 0.3730263157894737,
+          "h": 0.7263157894736842,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 8.14428,
+          "x": 0.43486842105263157,
+          "y": 0.49789473884984065,
+          "w": 0.13914473684210527,
+          "h": 0.08421052631578947,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 13.78,
+      "end_time": 15.28,
+      "description": "After a brief pause, he says \"yeah\" and his mouth forms a brief, slight smile before coming to rest slightly open.",
+      "bboxes": [
+        {
+          "frame_time": 14.918105,
+          "x": 0.38453947368421054,
+          "y": 0.5084210546393143,
+          "w": 0.2042763157894737,
+          "h": 0.14210526315789473,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 15.306958,
+          "x": 0.4644736842105263,
+          "y": 0.49263158095510384,
+          "w": 0.17171052631578948,
+          "h": 0.16842105263157894,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 15.28,
+      "description": "The subject is framed from the chest up, facing the camera. He makes very subtle, small forward nods that are synchronized with the emphasis in his speech patterns. From 7.9 to 9.2, he makes a very slight side-to-side head shake while saying \"I don't really think that's going to be possible.\"",
+      "bboxes": [
+        {
+          "frame_time": 0.733922,
+          "x": 0.28092105263157896,
+          "y": 0.12947368621826172,
+          "w": 0.5092105263157894,
+          "h": 0.8447368421052631,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 0.733922,
+          "x": 0.3475328947368421,
+          "y": 0.11631579148141961,
+          "w": 0.3493421052631579,
+          "h": 0.618421052631579,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 2.471763,
+          "x": 0.3756578947368421,
+          "y": 0.10578947569194593,
+          "w": 0.2694078947368421,
+          "h": 0.631578947368421,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 9.21445,
+          "x": 0.2646381578947368,
+          "y": 0.16631579148141962,
+          "w": 0.4544407894736842,
+          "h": 0.5684210526315789,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 4,
+      "description": "Speech is at a moderate pace and even pitch, with a slight downward inflection at the end of the sentence.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 4,
+      "end_time": 6.5,
+      "description": "The word \"absolutely\" is stressed with increased volume and a slightly higher pitch, and the pace of speech quickens slightly, conveying emphasis.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 6.5,
+      "end_time": 13.5,
+      "description": "The word \"but\" is spoken at a lower pitch, marking a tonal shift. The subsequent phrase is delivered at a steady, moderate pace and pitch, with slight stress on the word \"lot.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 13.5,
+      "end_time": 15.28,
+      "description": "There is a brief pause after \"and.\" The word \"yeah\" is spoken with a slightly breathy quality and a falling intonation.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.28,
+      "description": "A young, light-skinned male with short brown hair is shown outdoors. He is wearing a blue and green checkered button-down shirt over a white t-shirt and has on dark sunglasses. The setting appears to be a backyard, with a blurred background of green grass and trees. To the left of the frame, the pole and edge of a patio umbrella are visible. The lighting is natural daylight.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Medium",
+      "score": 0.52,
+      "rationale": "The subject exhibits a moderate level of Extraversion. His willingness to engage directly with the camera and his expressive vocal tone when stating he would 'absolutely love' to do a sequel indicate social confidence and positive emotional expression. However, this is balanced by a generally measured pace of speech and subtle physical gestures (minor head nods), rather than broad, expansive movements. This combination of social engagement with a controlled energy level is characteristic of an individual in the medium range of the extraversion spectrum.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Medium",
+      "score": 0.46,
+      "rationale": "The subject's Agreeableness is in the Medium range. He demonstrates affiliative behavior by responding positively and warmly to the implied request, using enthusiastic language ('absolutely love') and a brief smile. He avoids a blunt refusal, instead framing the issue around external, practical constraints ('it's going to cost a lot'). This approach shows a desire to maintain social harmony. Yet, he is direct in stating the reality of the situation, reflecting a balance between being cooperative and being straightforward, which aligns with a medium Agreeableness score.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Medium",
+      "score": 0.59,
+      "rationale": "A Medium level of Conscientiousness is indicated by the subject's structured and pragmatic thought process. He presents a well-organized response: first stating his personal desire, then immediately following with a logical, reality-based assessment of the obstacles. This methodical approach ('I would love to... but... it's going to cost a lot') reflects a degree of deliberation and practical-mindedness. While the context doesn't reveal traits like orderliness, his articulate and clear communication points to an organized cognitive style consistent with this score.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "High",
+      "score": 0.68,
+      "rationale": "The subject's Neuroticism is assessed as High. Although his overt expression is composed, subtle cues point to underlying negative emotionality. The sunglasses may act as a social buffer, reducing the emotional exposure of direct eye contact. More tellingly, there is a distinct tonal shift from the high-energy, positive statement to a more subdued, problem-focused explanation. The final, breathy 'yeah' after a pause has a quality of resignation, suggesting a tendency to dwell on disappointment or difficulties. This rapid pivot to and subtle emphasis on the negative aspects of the situation is characteristic of higher Neuroticism.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "High",
+      "score": 0.61,
+      "rationale": "The subject scores High on Openness, primarily evidenced by the content of his discussion. His genuine, expressed enthusiasm ('absolutely love') for a creative project ('a sequel to Power Glove') demonstrates a strong appreciation for artistic and imaginative endeavors. This engagement with creative pursuits is a core facet of Openness. His participation in a Q&A format further suggests a receptiveness to novel ideas and interactions, reinforcing the assessment of a personality that is open to aesthetic and creative experiences.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During 13.5s - 15.3s, the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "High Neuroticism, indicated by the brief pause and resigned final vocalization."
+        },
+        {
+          "id": "B",
+          "text": "Low Conscientiousness, suggested by the somewhat hesitant and disorganized end."
+        },
+        {
+          "id": "C",
+          "text": "High Openness, shown by his overall willingness to engage in creative discussion."
+        },
+        {
+          "id": "D",
+          "text": "Medium Agreeableness, reflecting a polite and balanced concluding statement."
+        },
+        {
+          "id": "E",
+          "text": "Low Neuroticism, which is supported by a calm and controlled final utterance."
+        },
+        {
+          "id": "F",
+          "text": "High Extraversion, supported by the energetic and expressive tone at the end."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. The personality analysis identifies the pause and breathy 'yeah' at the end as a quality of resignation, suggesting a tendency to dwell on disappointment, which is a key indicator for High Neuroticism.\n- Option B is a text-based distractor; one could interpret the pause as disorganization without seeing the resigned quality of the non-verbal cues.\n- Option C is a video-based distractor; High Openness is supported by behavior in the video, but from the earlier segment (around 5.0s-6.9s) where he expresses enthusiasm, not this final moment.\n- Option D is a video-based distractor; Medium Agreeableness is supported by the overall framing of his answer, but not by the specific emotional cue in this time range.\n- Option E is a near-miss distractor; it correctly identifies Neuroticism as the relevant trait but interprets the direction incorrectly. The vocal cue is one of resignation, not calmness.\n- Option F is a text-based distractor; the energy level at the very end is subdued, not high, making this contrary to the visual evidence."
+    },
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their assessed high level of Openness?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[5.0s - 6.9s]"
+        },
+        {
+          "id": "B",
+          "text": "[0.0s - 2.0s]"
+        },
+        {
+          "id": "C",
+          "text": "[2.5s - 4.5s]"
+        },
+        {
+          "id": "D",
+          "text": "[7.9s - 9.2s]"
+        },
+        {
+          "id": "E",
+          "text": "[10.1s - 12.1s]"
+        },
+        {
+          "id": "F",
+          "text": "[13.8s - 15.3s]"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. The personality analysis for High Openness is primarily based on his 'genuine, expressed enthusiasm' for the creative project. This enthusiasm is visibly expressed through the smile that forms between 5.0s and 6.9s as he says 'absolutely love'.\n- Option B is a video-based distractor; during this interval, his expression is neutral as he begins speaking.\n- Option C is a video-based distractor; this interval contains subtle head nods synchronized with speech, but no significant emotional expression change.\n- Option D is a near-miss distractor; this is a key moment where he states the project isn't possible, but his facial expression is neutral, not indicative of Openness.\n- Option E is a text-based distractor; this interval is simply part of his explanation with no notable expression change.\n- Option F is a video-based distractor; this interval contains a brief, slight smile with the word 'yeah', but the smile in option A is the primary evidence for his strong creative enthusiasm."
+    },
+    {
+      "category": "Temporal-Causal Reasoning",
+      "question": "Consider the sequence of behaviors observed across the video. Which of the following best describes the causal chain linking the person's actions at different moments?",
+      "options": [
+        {
+          "id": "A",
+          "text": "An initial affective display leads to cognitive reframing, which culminates in an emotional regulation signal."
+        },
+        {
+          "id": "B",
+          "text": "An emotional regulation signal prompts cognitive reframing, which is then followed by an initial affective display."
+        },
+        {
+          "id": "C",
+          "text": "Initial affective display prompts direct verbal negation, which then culminates in a clear display of frustration."
+        },
+        {
+          "id": "D",
+          "text": "A social engagement cue leads to internal monologue expression, which finally results in a performative agreement."
+        },
+        {
+          "id": "E",
+          "text": "An expression of confidence leads to a presentation of facts, which then culminates in a summary of conviction."
+        },
+        {
+          "id": "F",
+          "text": "The initial affective display is followed by an emotional regulation signal, which then prompts cognitive reframing."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. This option accurately maps the abstract sequence to the video's events: 1) 'Initial affective display' (the smile and enthusiastic tone for 'absolutely love'), leads to 2) 'cognitive reframing' (the 'but...' statement shifting to practical obstacles), which culminates in 3) an 'emotional regulation signal' (the resigned, breathy 'yeah').\n- Option B is a distractor with reversed temporal order.\n- Option C is a near-miss distractor; the negation is framed indirectly ('I don't really think that's going to be possible'), not as a direct 'no', and the final emotion is resignation, not frustration.\n- Option D is a text-based distractor; the terms are plausible but don't fit the emotional arc, especially 'performative agreement' which is the opposite of what happens.\n- Option E is a text-based distractor; this frames the sequence as a confident argument, but the video shows a decrease in positive affect, not a build-up of conviction.\n- Option F is a distractor with the correct temporal order but wrong causality, incorrectly placing the final emotional signal before the cognitive reframing."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 0.9s, a region was detected in the video (x=0.362, y=0.290, w=0.306, h=0.197, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Eyes and upper brow are obscured from view by the person's dark eyewear."
+        },
+        {
+          "id": "B",
+          "text": "Mouth corners are being held in a generally neutral, unsmiling position."
+        },
+        {
+          "id": "C",
+          "text": "Facial muscles are relaxing to form a more neutral overall expression."
+        },
+        {
+          "id": "D",
+          "text": "A subtle, synchronized head nod is being performed along with his speech."
+        },
+        {
+          "id": "E",
+          "text": "The person's lips are just beginning to form a brief, slight final smile."
+        },
+        {
+          "id": "F",
+          "text": "Eyes are exhibiting a direct and clearly focused gaze toward the camera."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. The provided coordinates (x=0.362, y=0.290) and dimensions (w=0.306, h=0.197) precisely frame the area of the person's eyes and eyebrows at 0.9s. The most prominent and undeniable feature in this specific region is that it is covered by sunglasses.\n- Option B is a video-based distractor; this describes the mouth region, which is outside the specified bounding box.\n- Option C is a video-based distractor; this describes a change in the overall face at a different time (around 6.9s), not the static feature in the specified box at 0.9s.\n- Option D is a video-based distractor; this describes a head movement (a different body region) that occurs later in the video (around 2.5s).\n- Option E is a video-based distractor; this describes a mouth action (different body region) that occurs at the very end of the video (around 14.9s).\n- Option F is a near-miss distractor; while the person is likely looking at the camera, the visible content within the bbox is the sunglasses obscuring the eyes, not the gaze itself."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "At which moment and in which specific facial region does the subject most clearly exhibit a non-verbal cue of positive affect and enthusiasm?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Time: ~6.6s; Bbox: [x=0.466, y=0.495, w=0.194, h=0.168]"
+        },
+        {
+          "id": "B",
+          "text": "Time: ~8.1s; Bbox: [x=0.435, y=0.498, w=0.139, h=0.084]"
+        },
+        {
+          "id": "C",
+          "text": "Time: ~2.5s; Bbox: [x=0.376, y=0.106, w=0.269, h=0.632]"
+        },
+        {
+          "id": "D",
+          "text": "Time: ~14.9s; Bbox: [x=0.385, y=0.508, w=0.204, h=0.142]"
+        },
+        {
+          "id": "E",
+          "text": "Time: ~6.6s; Bbox: [x=0.348, y=0.116, w=0.349, h=0.618]"
+        },
+        {
+          "id": "F",
+          "text": "Time: ~0.9s; Bbox: [x=0.362, y=0.290, w=0.306, h=0.197]"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. This option correctly identifies the time (~6.6s) and bounding box for the mouth when the person smiles while saying 'absolutely love.' This is the strongest and clearest expression of enthusiasm in the video.\n- Option B is a video-based distractor; it points to the mouth region, but at a time (~8.1s) when the expression is neutral.\n- Option C is a video-based distractor; it points to the head during a subtle nod, not a clear expression of positive affect.\n- Option D is a near-miss distractor; this correctly identifies another smile at ~14.9s, but it's a slighter, more resigned smile compared to the enthusiastic one at 6.6s.\n- Option E is a near-miss distractor; it has the correct time (~6.6s) for the smile, but the bounding box is for the entire head, not the specific facial region where the expression occurs.\n- Option F is a text-based distractor; it points to the sunglasses at the beginning of the video, which is irrelevant to an expression of enthusiasm."
+    },
+    {
+      "category": "Counterfactual Reasoning",
+      "question": "If the person had NOT exhibited the behavior observed around 5.0s - 6.9s, which of the following personality assessments would be MOST affected?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The High Openness assessment would be weakened, as the strongest evidence of his creative enthusiasm is lost."
+        },
+        {
+          "id": "B",
+          "text": "The Medium Agreeableness score would drop, because this moment provides the core evidence for his cooperation."
+        },
+        {
+          "id": "C",
+          "text": "The High Neuroticism score would increase, since a key moment of positive emotional balance would be gone."
+        },
+        {
+          "id": "D",
+          "text": "The High Openness assessment would be strengthened, as the response would appear more measured and serious."
+        },
+        {
+          "id": "E",
+          "text": "The Medium Conscientiousness score would fall, as the moment shows a capacity for focused, joyful thought."
+        },
+        {
+          "id": "F",
+          "text": "The Medium Extraversion score would be less certain, given this is a major indicator of his social energy."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. The behavior from 5.0s to 6.9s is the smile and enthusiastic vocal tone when saying 'absolutely love'. The personality analysis explicitly states that the High Openness score is 'primarily evidenced by the content of his discussion' and his 'genuine, expressed enthusiasm... for a creative project'. Removing this specific behavior would remove the core evidence for this trait assessment.\n- Option B is a text-based distractor; the evidence for Agreeableness is more about how he frames the refusal later, not this initial enthusiasm.\n- Option C is a video-based distractor; while removing a positive moment might seem to increase the weight of negative ones, the evidence for Neuroticism (the tonal shift and resigned 'yeah') exists independently. Openness is more directly and uniquely tied to the 5.0s-6.9s behavior.\n- Option D is a near-miss distractor; it correctly identifies Openness as the affected trait but proposes the wrong direction of change.\n- Option E is a text-based distractor; while one could argue a link, it's not the primary trait supported by this evidence according to the provided analysis.\n- Option F is a near-miss distractor; this is a plausible alternative, as the moment does support Extraversion. However, the link to Openness (enthusiasm for a *creative* endeavor) is more specific and central to that trait's assessment than it is to the broader trait of Extraversion, which is also supported by his general talkativeness."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator09",
+      "version": 2,
+      "clues_total": 17,
+      "clues_correct": 14,
+      "clues_wrong_corrected": 3,
+      "clues_missing_skipped": 0,
+      "clues_bonus": 0
+    }
+  }
+}

@@ -1,0 +1,349 @@
+{
+  "video_id": "-N6QKrbnaDs.003.mp4",
+  "video_path": "-N6QKrbnaDs.003.mp4",
+  "transcription": "I don't want to be attached to previous stories that I've done. I don't think I'm going to keep the name. It's going to be a different name, a different story with similar characters, tortoise and greyhoundwill definitely be there. No, not [inaudible 00:00:14] ...",
+  "original_scores": {
+    "extraversion": 0.3457943925233645,
+    "agreeableness": 0.3406593406593406,
+    "conscientiousness": 0.31067961165048547,
+    "neuroticism": 0.3645833333333333,
+    "openness": 0.5111111111111111
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 3.4,
+      "description": "The subject maintains a direct gaze toward the camera. His eyebrows are in a neutral position, and his mouth moves naturally as he speaks.",
+      "bboxes": [
+        {
+          "frame_time": 1.233117,
+          "x": 0.34087171052631576,
+          "y": 0.41140350542570414,
+          "w": 0.28717105263157894,
+          "h": 0.1736842105263158,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 2.159417,
+          "x": 0.33643092105263156,
+          "y": 0.3771929791099147,
+          "w": 0.22351973684210527,
+          "h": 0.10789473684210527,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 0.955177,
+          "x": 0.41932565789473686,
+          "y": 0.6745614001625463,
+          "w": 0.1169407894736842,
+          "h": 0.10526315789473684,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 3.4,
+      "end_time": 4.1,
+      "description": "The subject's eyes close in a slow, deliberate blink.",
+      "bboxes": [
+        {
+          "frame_time": 4.140122,
+          "x": 0.36307565789473684,
+          "y": 0.4429824527941252,
+          "w": 0.22351973684210527,
+          "h": 0.09210526315789473,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 4.1,
+      "end_time": 12.8,
+      "description": "He re-establishes direct eye contact with the camera. His expression remains largely neutral, with his eyes widening slightly as he speaks.",
+      "bboxes": [
+        {
+          "frame_time": 5.933883,
+          "x": 0.36455592105263157,
+          "y": 0.4008771896362305,
+          "w": 0.23092105263157894,
+          "h": 0.15,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 8.696798,
+          "x": 0.3112664473684211,
+          "y": 0.2903508738467568,
+          "w": 0.3226973684210526,
+          "h": 0.5105263157894737,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 8.691717,
+          "x": 0.3660361842105263,
+          "y": 0.37456140016254624,
+          "w": 0.22203947368421054,
+          "h": 0.1368421052631579,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 12.8,
+      "end_time": 15.6,
+      "description": "His eyes narrow slightly, and the corners of his mouth pull down slightly as he says \"No.\"",
+      "bboxes": [
+        {
+          "frame_time": 13.33996,
+          "x": 0.3290296052631579,
+          "y": 0.44824561068886204,
+          "w": 0.24868421052631579,
+          "h": 0.3736842105263158,
+          "note": "human-annotated",
+          "region": "unknown"
+        },
+        {
+          "frame_time": 13.33996,
+          "x": 0.3290296052631579,
+          "y": 0.42719297910991466,
+          "w": 0.24572368421052632,
+          "h": 0.11315789473684211,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 15.6,
+      "description": "The subject is seated, facing forward in the frame. His head remains mostly still, with very slight, subtle nods and turns that are synchronized with his speech.",
+      "bboxes": [
+        {
+          "frame_time": 0.767657,
+          "x": 0.1484375,
+          "y": 0.4535087685835989,
+          "w": 0.6453947368421052,
+          "h": 0.5342105263157895,
+          "note": "human-annotated",
+          "region": "unknown"
+        },
+        {
+          "frame_time": 8.638576,
+          "x": 0.31866776315789475,
+          "y": 0.2061403475309673,
+          "w": 0.33009868421052635,
+          "h": 0.5973684210526315,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 5.4,
+      "description": "The subject speaks at a moderate pace in a mid-to-low pitch range. There is a slight downward intonation at the end of his sentences.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 5.4,
+      "end_time": 12.6,
+      "description": "The pace remains consistent. There is slight vocal stress and a minor pitch increase on the words \"different\" and \"definitely.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 12.6,
+      "end_time": 14.1,
+      "description": "The word \"No\" is delivered with a sharp, falling intonation and slightly increased volume, followed by a brief pause.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.6,
+      "description": "The subject is a young man with a fair complexion and dark, wavy hair. He is wearing a white, novelty fleece hat with long bunny-like ears, a dark grey t-shirt, and white in-ear headphones. He is indoors in a room with a slanted ceiling, suggesting an attic. The wall behind him has vertical wood paneling on the bottom half and is painted white on the top. To the subject's left, a framed picture hangs on the wall, and a bedside lamp and water bottle are visible on a table next to a bed with grey bedding. To his right, a desk holds some miscellaneous items. The scene is lit from the front with soft, even lighting.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 13.656652,
+      "end_time": 14.656652,
+      "description": "The subject wears white wired headphones, and the desk lamp on the left side of the room is white.",
+      "bboxes": [
+        {
+          "frame_time": 14.156652,
+          "x": 0.009292763157894728,
+          "y": 0.4456140317414936,
+          "w": 0.7075657894736842,
+          "h": 0.55,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Low",
+      "score": 0.35,
+      "rationale": "The subject's Low Extraversion is evidenced by his reserved physical demeanor. He remains largely still, with head movements described as 'very slight' and 'subtle.' His vocal delivery is steady, at a medium pace and in a mid-to-low pitch range, lacking the broad, energetic intonation typical of high extraversion. While he maintains eye contact, moments of looking away and a slow, deliberate eye closure suggest a more reflective, internal processing style rather than an outwardly focused, socially expressive one.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Low",
+      "score": 0.34,
+      "rationale": "A Low Agreeableness score is indicated by the subject's direct and task-focused communication style. His facial expression remains consistently neutral, lacking pro-social cues like smiling. The most salient behavior is his delivery of the word 'No,' which is described as sharp, with a falling intonation and increased volume, and is accompanied by a slight squint of the eyes. This combination suggests a critical, decisive, and uncompromising stance, prioritizing his own ideas over social harmony.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Low",
+      "score": 0.31,
+      "rationale": "The subject's Low Conscientiousness is supported by environmental and stylistic cues. His choice of attire, particularly the whimsical 'white novelty fleece hat with long rabbit ears,' indicates a preference for playfulness and spontaneity over formality and convention. Furthermore, the observation of 'miscellaneous items on a desk' in his background suggests a relaxed approach to order and organization, which is inconsistent with high conscientiousness.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Low",
+      "score": 0.36,
+      "rationale": "The subject exhibits strong indicators of emotional stability, corresponding to a Low Neuroticism score. His demeanor is calm and composed throughout the clip. He maintains a steady posture with minimal movement, showing no signs of fidgeting or restlessness. His facial expressions are relaxed and predominantly neutral, and his vocal delivery is consistent and controlled, free from the wavering or tension that would suggest anxiety or stress.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "Medium",
+      "score": 0.51,
+      "rationale": "A Medium score for Openness is well-supported. The primary evidence lies in his unconventional choice of attire—the novelty rabbit-ear hat—which signals a comfort with non-conformity and a playful imagination. The content of his speech, which revolves around creating new stories and characters ('tortoise and greyhound') and deliberately detaching from past work, directly reflects an engagement with abstract, creative, and novel ideas. His verbal emphasis on the word 'different' further underscores an appreciation for new experiences.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During 12.8s - 15.6s, the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The personality trait of Low Agreeableness."
+        },
+        {
+          "id": "B",
+          "text": "The personality trait of High Extraversion."
+        },
+        {
+          "id": "C",
+          "text": "The personality trait of Low Conscientiousness."
+        },
+        {
+          "id": "D",
+          "text": "The personality trait of Medium Openness."
+        },
+        {
+          "id": "E",
+          "text": "The personality trait of High Neuroticism."
+        },
+        {
+          "id": "F",
+          "text": "The personality trait of High Agreeableness."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. During this interval, the subject says 'No' sharply with a falling intonation, increased volume, and a slight eye squint. This combination of verbal and non-verbal cues indicates a direct, critical, and uncompromising stance, which is a strong indicator for Low Agreeableness.\n- Option B is a text-based distractor. The increased volume might be misinterpreted as social energy, but the overall demeanor is reserved, not extraverted.\n- Option C is a video-based distractor. Low Conscientiousness is supported by the messy desk and novelty hat, not by the behavior in this specific time segment.\n- Option D is a video-based distractor. Medium Openness is supported by the hat and creative speech content, but not by the sharp 'No' at this moment.\n- Option E is a text-based distractor. A sharp utterance could be seen as emotional reactivity (High Neuroticism), but the subject's overall calm demeanor contradicts this.\n- Option F is a near-miss distractor. It correctly identifies the relevant trait (Agreeableness) but gets the direction wrong; the behavior is characteristic of low, not high, agreeableness."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 13.3s, a region was detected in the video (x=0.329, y=0.427, w=0.246, h=0.113, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A slight narrowing of the eyes, indicating focused thought."
+        },
+        {
+          "id": "B",
+          "text": "A neutral positioning of the eyebrows, showing calmness."
+        },
+        {
+          "id": "C",
+          "text": "The subject's head remaining mostly still and composed."
+        },
+        {
+          "id": "D",
+          "text": "A natural movement of the mouth during verbalization."
+        },
+        {
+          "id": "E",
+          "text": "A generally neutral overall facial posture and expression."
+        },
+        {
+          "id": "F",
+          "text": "The subject's torso being oriented squarely to the front."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. The provided coordinates at 13.3s perfectly frame the subject's eyes. At this moment, as he says 'No', his eyes visibly narrow or squint, which is the most prominent action within that specific bounding box.\n- Option B is a video-based distractor. The eyebrows are indeed neutral, but they are located above the specified bounding box, testing for precise spatial localization.\n- Option C is a video-based distractor. The head is still, but this describes the entire head region, not the specific action within the smaller eye-focused bounding box.\n- Option D is a video-based distractor. The mouth is moving, but it is located below the specified bounding box.\n- Option E is a video-based distractor. While the overall expression is largely neutral, the specific action in the box is the squint, a deviation from neutral. This tests for fine-grained action recognition over general state.\n- Option F is a near-miss distractor. This describes the subject's overall posture, which is a much larger region and not the specific micro-expression contained within the given coordinates."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "At which time and location does the subject demonstrate a brief, deliberate moment of disengagement from direct eye contact that suggests internal processing?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Time=4.1s, Bbox=(x=0.363, y=0.443, w=0.224, h=0.092)"
+        },
+        {
+          "id": "B",
+          "text": "Time=13.3s, Bbox=(x=0.329, y=0.427, w=0.246, h=0.113)"
+        },
+        {
+          "id": "C",
+          "text": "Time=1.2s, Bbox=(x=0.341, y=0.411, w=0.287, h=0.174)"
+        },
+        {
+          "id": "D",
+          "text": "Time=8.7s, Bbox=(x=0.311, y=0.290, w=0.323, h=0.511)"
+        },
+        {
+          "id": "E",
+          "text": "Time=4.1s, Bbox=(x=0.336, y=0.377, w=0.224, h=0.108)"
+        },
+        {
+          "id": "F",
+          "text": "Time=1.0s, Bbox=(x=0.419, y=0.675, w=0.117, h=0.105)"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. The question asks for a 'deliberate moment of disengagement'. At 4.1s, the subject performs a slow, intentional eye closure, which fits this description perfectly. The provided bounding box correctly targets the eye region at that exact moment.\n- Option B is a video-based distractor. This time and location correspond to the eye squint while saying 'No'. This is an act of emphasis, not disengagement for internal processing.\n- Option C is a video-based distractor. This captures the initial glance away. While it is a form of disengagement, the slow closure in A is more 'deliberate' and sustained, making it a better fit for the described behavior.\n- Option D is a video-based distractor. This bbox covers the entire face during the middle of his speech, where he maintains direct eye contact, which is the opposite of the described behavior.\n- Option E is a near-miss distractor. The time is correct (4.1s), but the bounding box is placed too high, covering the eyebrows and forehead rather than the eyes that are performing the action.\n- Option F is a text-based distractor. This points to the mouth region early in the video, which is irrelevant to eye contact or disengagement."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator06",
+      "version": 1,
+      "clues_total": 17,
+      "clues_correct": 14,
+      "clues_wrong_corrected": 1,
+      "clues_missing_skipped": 1,
+      "clues_bonus": 1
+    }
+  }
+}

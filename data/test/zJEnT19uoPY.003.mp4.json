@@ -1,0 +1,428 @@
+{
+  "video_id": "zJEnT19uoPY.003.mp4",
+  "video_path": "zJEnT19uoPY.003.mp4",
+  "transcription": "Guess, like a combination of documentary and narrative film. I don't know much about it, but I did, I went on Hulu on the Criterion Hulu Plus channel, they do have available to stream The Spirit of the Beehive and-",
+  "original_scores": {
+    "extraversion": 0.5607476635514019,
+    "agreeableness": 0.7692307692307692,
+    "conscientiousness": 0.5825242718446602,
+    "neuroticism": 0.5416666666666666,
+    "openness": 0.6888888888888889
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 4.83,
+      "description": "The subject maintains direct eye contact with the camera while speaking. His eyebrows are slightly raised, and his mouth moves in a natural, expressive manner corresponding to his speech.",
+      "bboxes": [
+        {
+          "frame_time": 0,
+          "x": 0.4185855263157895,
+          "y": 0.25,
+          "w": 0.10509868421052632,
+          "h": 0.04473684210526316,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 0,
+          "x": 0.40674342105263156,
+          "y": 0.21842105263157896,
+          "w": 0.12434210526315789,
+          "h": 0.05,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 0,
+          "x": 0.4274671052631579,
+          "y": 0.3631578947368421,
+          "w": 0.07845394736842105,
+          "h": 0.07105263157894737,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 4.83,
+      "end_time": 5.5,
+      "description": "The subject's eyes briefly look down and to his left as his hand moves across his forehead, breaking eye contact with the camera.",
+      "bboxes": [
+        {
+          "frame_time": 5.549829,
+          "x": 0.4674342105263158,
+          "y": 0.2789473684210526,
+          "w": 0.062171052631578946,
+          "h": 0.04736842105263158,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 5.549829,
+          "x": 0.3475328947368421,
+          "y": 0.16842105263157894,
+          "w": 0.1524671052631579,
+          "h": 0.10789473684210527,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 5.549829,
+          "x": 0.4600328947368421,
+          "y": 0.25526315789473686,
+          "w": 0.062171052631578946,
+          "h": 0.07631578947368421,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 5.5,
+      "end_time": 15.57,
+      "description": "He re-establishes direct eye contact with the camera. His eyebrows remain in a neutral to slightly raised position, and his expression is engaged as he continues to speak.",
+      "bboxes": [
+        {
+          "frame_time": 7.962002,
+          "x": 0.415625,
+          "y": 0.23157894736842105,
+          "w": 0.1125,
+          "h": 0.08421052631578947,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 7.962002,
+          "x": 0.41118421052631576,
+          "y": 0.19736842105263158,
+          "w": 0.1287828947368421,
+          "h": 0.08421052631578947,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 7.962002,
+          "x": 0.3815789473684211,
+          "y": 0.1736842105263158,
+          "w": 0.16282894736842105,
+          "h": 0.31842105263157894,
+          "note": "face human-annotated",
+          "region": "face"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 2.6,
+      "description": "Visible from the chest up, the subject sits facing the camera. He gestures with both hands in front of him, palms open, moving in sync with his speech.",
+      "bboxes": [
+        {
+          "frame_time": 2.208483,
+          "x": 0.46595394736842105,
+          "y": 0.48157894736842105,
+          "w": 0.3182565789473684,
+          "h": 0.5131578947368421,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 2.6,
+      "end_time": 4.8,
+      "description": "His hands lower out of the frame, and his posture is still.",
+      "bboxes": [
+        {
+          "frame_time": 2.6,
+          "x": 0.2557565789473684,
+          "y": 0.5631578947368421,
+          "w": 0.4263157894736842,
+          "h": 0.42894736842105263,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 2.6,
+          "x": 0.2350328947368421,
+          "y": 0.48947368421052634,
+          "w": 0.42483552631578947,
+          "h": 0.5078947368421053,
+          "note": "pose human-annotated",
+          "region": "torso"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 4.8,
+      "end_time": 5.53,
+      "description": "He raises his right hand and sweeps it across his forehead and through his hair.",
+      "bboxes": [
+        {
+          "frame_time": 5.42666,
+          "x": 0.39786184210526315,
+          "y": 0.14210526315789473,
+          "w": 0.15098684210526317,
+          "h": 0.14736842105263157,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 5.510643,
+          "x": 0.36973684210526314,
+          "y": 0.13157894736842105,
+          "w": 0.11398026315789474,
+          "h": 0.2026315789473684,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 5.53,
+      "end_time": 7.7,
+      "description": "He lowers his hand slightly before raising it again to point with his index finger to his right (viewer's left).",
+      "bboxes": [
+        {
+          "frame_time": 5.9454,
+          "x": 0.23207236842105264,
+          "y": 0.5842105263157895,
+          "w": 0.39671052631578946,
+          "h": 0.4026315789473684,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 7.247462,
+          "x": 0.48963815789473686,
+          "y": 0.5131578947368421,
+          "w": 0.39226973684210525,
+          "h": 0.47368421052631576,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 7.7,
+      "end_time": 11.13,
+      "description": "He lowers his hands out of view, maintaining a stable, forward-facing posture.",
+      "bboxes": [
+        {
+          "frame_time": 10.771465,
+          "x": 0.2587171052631579,
+          "y": 0.5394736842105263,
+          "w": 0.5032894736842105,
+          "h": 0.45263157894736844,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 10.771465,
+          "x": 0.20542763157894736,
+          "y": 0.14473684210526316,
+          "w": 0.5743421052631579,
+          "h": 0.8526315789473684,
+          "note": "pose human-annotated",
+          "region": "torso"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 11.13,
+      "end_time": 12.8,
+      "description": "He raises his right hand again in a larger, open-palmed gesture to emphasize a point.",
+      "bboxes": [
+        {
+          "frame_time": 12.842681,
+          "x": 0.5547697368421053,
+          "y": 0.4,
+          "w": 0.2930921052631579,
+          "h": 0.5947368421052631,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 12.8,
+      "end_time": 15.57,
+      "description": "His hands are lowered out of frame as he continues speaking.",
+      "bboxes": [
+        {
+          "frame_time": 15.3153,
+          "x": 0.19654605263157895,
+          "y": 0.7105263157894737,
+          "w": 0.5817434210526315,
+          "h": 0.28157894736842104,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 3.49,
+      "description": "The subject speaks at a moderate, conversational pace with a neutral pitch.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 3.49,
+      "end_time": 4.52,
+      "description": "He pauses briefly with a filler word, \"um,\" then speaks the words \"I did\" with a slightly higher pitch and increased stress for emphasis.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 4.52,
+      "end_time": 9.47,
+      "description": "His speech returns to a steady pace and volume. The word \"do\" is slightly stressed with a rise in pitch.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 9.47,
+      "end_time": 15.57,
+      "description": "He enunciates the film title clearly, with a slightly falling intonation at the end of the phrase.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.57,
+      "description": "The subject is a young man with dark, wavy hair and fair skin, wearing a black t-shirt with a white and grey graphic of a face in a goggle-eyed mask surrounded by lightning. He is in an indoor setting, seated in front of large, light-wood bookshelves that are filled with a vast collection of DVDs and Blu-rays. The lighting is bright and even, originating from the front.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Medium",
+      "score": 0.56,
+      "rationale": "The subject's Extraversion score is in the Medium range. He demonstrates social confidence through sustained, direct eye contact with the camera and the use of expressive, synchronized hand gestures to emphasize his points. This suggests comfort in a communicative setting. However, his vocal delivery is at a moderate, conversational pace rather than being overtly energetic or boisterous. This balance between expressive engagement and a controlled pace of speech supports a Medium, rather than High, classification.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "High",
+      "score": 0.77,
+      "rationale": "A High level of Agreeableness is indicated by the subject's pro-social and non-confrontational demeanor. He maintains consistent eye contact and a generally open facial expression, with slightly raised eyebrows that signal engagement and receptiveness. His vocal tone is neutral and conversational, aimed at clear and cooperative communication. Furthermore, the use of open-palm gestures suggests a desire to build rapport with the audience, which is a key behavioral marker for high Agreeableness.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Medium",
+      "score": 0.58,
+      "rationale": "The subject's Conscientiousness is assessed as Medium. Strong evidence for diligence is found in the background, where a large and meticulously organized collection of films suggests a systematic and orderly approach to his interests. His speech is also focused and articulate as he attempts to provide specific information. However, the presence of a filler word ('um') and a brief moment of hesitation involving a hand-to-forehead gesture indicate a more natural, less rigidly controlled presentation, tempering the score from High to Medium.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Medium",
+      "score": 0.54,
+      "rationale": "The Medium Neuroticism score is supported by a mix of composure and subtle signs of self-consciousness. For the majority of the clip, the subject appears calm, maintaining a stable posture and steady eye contact. However, a brief but notable sequence where he breaks eye contact, looks down, and simultaneously touches his forehead is a classic 'adapter' or self-soothing gesture. This behavior suggests a momentary flicker of cognitive stress or social unease, preventing a 'Low' rating and placing him squarely in the Medium range.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "High",
+      "score": 0.69,
+      "rationale": "The subject scores High on Openness, which is strongly supported by the content of his discussion and his environment. He speaks articulately about an art-house film ('The Spirit of the Beehive') and references the Criterion channel, indicating a sophisticated taste for intellectually and aesthetically complex art. The extensive library of films behind him serves as a clear testament to a deep intellectual curiosity and aesthetic appreciation. This profound engagement with an artistic domain is a primary indicator of high Openness to Experience.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During [4.8s - 5.5s], the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "High Extraversion due to his expressive, outward-facing demeanor."
+        },
+        {
+          "id": "B",
+          "text": "Low Conscientiousness due to a brief, unplanned mental lapse."
+        },
+        {
+          "id": "C",
+          "text": "High Openness stemming from his deep intellectual engagement."
+        },
+        {
+          "id": "D",
+          "text": "High Agreeableness reflected in his cooperative communication."
+        },
+        {
+          "id": "E",
+          "text": "Low Neuroticism, seen in his calm recovery from a minor thought."
+        },
+        {
+          "id": "F",
+          "text": "Medium Neuroticism, revealed through a brief self-soothing motion."
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The behavior at [4.8s - 5.5s] is a brief gaze break and a hand-to-forehead gesture, which is a classic self-soothing adapter. This indicates a momentary flicker of cognitive stress or social unease, providing the primary evidence for a Medium Neuroticism score.\n\n- Option A is a video-based distractor; his expressive demeanor is evident elsewhere but not in this specific moment of self-monitoring.\n- Option B is a text-based distractor; while the behavior involves a 'lapse', it is more strongly indicative of Neuroticism (stress response) than low Conscientiousness (disorganization).\n- Option C is a video-based distractor; High Openness is supported by his speech content and background throughout the video, not this specific gesture.\n- Option D is a video-based distractor; High Agreeableness is supported by his open gestures and direct eye contact at other times, whereas this moment involves a break in contact.\n- Option E is a near-miss distractor; it correctly identifies the relevant trait (Neuroticism) but gets the direction wrong. The gesture is evidence *for* some neuroticism, not a lack of it."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "The person performs a synchronized, two-handed illustrative gesture with open palms to complement his verbal explanation. At which timestamp and location does this specific action occur?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[2.2s]  x=0.47, y=0.48, w=0.32, h=0.51"
+        },
+        {
+          "id": "B",
+          "text": "[8.0s]  x=0.42, y=0.23, w=0.11, h=0.08"
+        },
+        {
+          "id": "C",
+          "text": "[5.5s]  x=0.46, y=0.26, w=0.06, h=0.08"
+        },
+        {
+          "id": "D",
+          "text": "[15.3s]  x=0.20, y=0.71, w=0.58, h=0.28"
+        },
+        {
+          "id": "E",
+          "text": "[0.0s]  x=0.43, y=0.36, w=0.08, h=0.07"
+        },
+        {
+          "id": "F",
+          "text": "[8.0s]  x=0.41, y=0.20, w=0.13, h=0.08"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The question describes the action from the observation log [0.0s - 2.6s]: He gestures with both hands in front of him, palms up, synchronized with his speech. Option A provides the correct timestamp (2.2s, within the range) and bounding box for this two-handed gesture.\n\n- Option B is a video-based distractor; this coordinate at 8.0s isolates the eyes during a moment of direct gaze.\n- Option C is a video-based distractor; this coordinate at 5.5s isolates the eyes during the gaze break.\n- Option D is a video-based distractor; this coordinate at 15.3s captures the hands moving out of the frame, not the illustrative gesture.\n- Option E is a video-based distractor; this coordinate at 0.0s isolates the mouth as it moves during speech.\n- Option F is a video-based distractor; this coordinate at 8.0s isolates the eyebrows."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator18",
+      "version": 1,
+      "clues_total": 26,
+      "clues_correct": 21,
+      "clues_wrong_corrected": 4,
+      "clues_missing_skipped": 1,
+      "clues_bonus": 0
+    }
+  }
+}

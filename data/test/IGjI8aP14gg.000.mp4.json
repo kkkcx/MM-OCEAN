@@ -1,0 +1,515 @@
+{
+  "video_id": "IGjI8aP14gg.000.mp4",
+  "video_path": "IGjI8aP14gg.000.mp4",
+  "transcription": "That happens to me a lot. I'm just saying if you self-diagnose yourself without going to a doctor, and the doctor actually diagnosing you with something, you need help. Like you need-",
+  "original_scores": {
+    "extraversion": 0.4018691588785047,
+    "agreeableness": 0.5274725274725275,
+    "conscientiousness": 0.3495145631067961,
+    "neuroticism": 0.46875,
+    "openness": 0.5333333333333333
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 2.89,
+      "description": "The subject maintains direct eye contact with the camera. Her eyebrows are slightly raised, and the corners of her mouth are slightly upturned as she speaks.",
+      "bboxes": [
+        {
+          "frame_time": 2.871898,
+          "x": 0.32310855263157895,
+          "y": 0.34824561068886206,
+          "w": 0.14210526315789473,
+          "h": 0.12105263157894737,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 2.092587,
+          "x": 0.3497532894736842,
+          "y": 0.30087718963623045,
+          "w": 0.1569078947368421,
+          "h": 0.10789473684210527,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 2.092587,
+          "x": 0.36751644736842104,
+          "y": 0.4824561370046515,
+          "w": 0.12286184210526316,
+          "h": 0.11315789473684211,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 2.89,
+      "end_time": 8.93,
+      "description": "The subject's expression becomes more neutral. The slight upturn of her mouth corners disappears. She continues to hold a direct gaze and blinks naturally.",
+      "bboxes": [
+        {
+          "frame_time": 4.994755,
+          "x": 0.35419407894736843,
+          "y": 0.3271929791099147,
+          "w": 0.18207236842105262,
+          "h": 0.29473684210526313,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 4.994755,
+          "x": 0.3941611842105263,
+          "y": 0.5008771896362305,
+          "w": 0.09917763157894736,
+          "h": 0.08421052631578947,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 8.657379,
+          "x": 0.3290296052631579,
+          "y": 0.4377192948993884,
+          "w": 0.18651315789473685,
+          "h": 0.0868421052631579,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 8.93,
+      "end_time": 11.48,
+      "description": "The subject's eyebrows raise high, and her eyes widen slightly. Her mouth opens wider as she speaks, creating a more intense and emphatic expression.",
+      "bboxes": [
+        {
+          "frame_time": 11.041217,
+          "x": 0.33199013157894736,
+          "y": 0.2692982422678094,
+          "w": 0.18651315789473685,
+          "h": 0.1368421052631579,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 11.48,
+      "end_time": 15.33,
+      "description": "The eyebrows lower to a slightly raised, neutral position. The subject's expression is direct and focused as she continues speaking, maintaining eye contact.",
+      "bboxes": [
+        {
+          "frame_time": 12.202467,
+          "x": 0.37195723684210524,
+          "y": 0.3035087685835989,
+          "w": 0.140625,
+          "h": 0.10789473684210527,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 12.202467,
+          "x": 0.3453125,
+          "y": 0.26403508437307255,
+          "w": 0.17023026315789475,
+          "h": 0.3368421052631579,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 12.202467,
+          "x": 0.35419407894736843,
+          "y": 0.31140350542570416,
+          "w": 0.16726973684210528,
+          "h": 0.10789473684210527,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 8.93,
+      "description": "The subject sits upright, facing the camera. Her head is mostly still, with small, subtle movements that synchronize with her speech. Her hands and arms are not visible in the frame.",
+      "bboxes": [
+        {
+          "frame_time": 1.180365,
+          "x": 0.3897203947368421,
+          "y": 0.27456140016254627,
+          "w": 0.140625,
+          "h": 0.3105263157894737,
+          "note": "human-annotated",
+          "region": "unknown"
+        },
+        {
+          "frame_time": 1.074389,
+          "x": 0.35419407894736843,
+          "y": 0.23771929489938837,
+          "w": 0.18355263157894738,
+          "h": 0.3894736842105263,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 3.247215,
+          "x": 0.1573190789473684,
+          "y": 0.5903508738467568,
+          "w": 0.15542763157894737,
+          "h": 0.38421052631578945,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 8.93,
+      "end_time": 11.48,
+      "description": "The subject quickly raises both arms from below the frame to shoulder height. She holds her hands with fingers loosely curled and pulls them down slightly in a sharp, emphatic gesture.",
+      "bboxes": [
+        {
+          "frame_time": 10.456716,
+          "x": 0.1129111842105263,
+          "y": 0.25877192647833575,
+          "w": 0.5654605263157895,
+          "h": 0.4421052631578947,
+          "note": "pose human-annotated",
+          "region": "shoulders"
+        },
+        {
+          "frame_time": 10.456716,
+          "x": 0.17360197368421051,
+          "y": 0.2561403475309673,
+          "w": 0.4810855263157895,
+          "h": 0.35,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 11.48,
+      "end_time": 15.33,
+      "description": "The subject lowers her arms. Her right hand briefly comes into the frame to make a small, open-palmed gesture toward the camera.",
+      "bboxes": [
+        {
+          "frame_time": 12.14242,
+          "x": 0.06258223684210526,
+          "y": 0.5903508738467568,
+          "w": 0.6838815789473685,
+          "h": 0.4,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 12.953774,
+          "x": 0,
+          "y": 0.48508771595201994,
+          "w": 0.10657894736842105,
+          "h": 0.19736842105263158,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 4.42,
+      "description": "The subject speaks at a moderate pace and volume. Her pitch is in a mid-range, with a slight upward inflection on the phrase \"a lot.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 4.42,
+      "end_time": 11.54,
+      "description": "The subject's speech rate remains moderate. There is a notable rise in pitch and a slight increase in volume for emphasis on the word \"you\" at 00:11, followed by the phrase \"need help.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 11.54,
+      "end_time": 15.33,
+      "description": "The pitch and volume return to a baseline moderate level. The speech rate is steady.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.33,
+      "description": "The subject is a young person with light-colored eyes and a fair complexion. She has short, reddish-brown hair, which is mostly covered by a black beanie. She is wearing a black choker with a silver-colored rectangular detail, small stud earrings, and a dark blue long-sleeved sweatshirt. The setting is an indoor room with pink walls. Behind her are dark wooden closet doors decorated with pictures. To the viewer's left is a wall with a mounted television and framed artwork. To the viewer's right are white shelves holding various objects and a bed. The lighting is bright and even, coming from the front.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 14.80195,
+      "end_time": 15.80195,
+      "description": "There is a lamp at the top of the room",
+      "bboxes": [
+        {
+          "frame_time": 15.30195,
+          "x": 0.592516447368421,
+          "y": 0.011403505425704154,
+          "w": 0.1169407894736842,
+          "h": 0.15,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Medium",
+      "score": 0.4,
+      "rationale": "The subject's Extraversion is assessed as Medium. While she engages the camera directly and uses emphatic hand gestures and vocal stress to communicate her point, which are signs of social expressiveness, this is counterbalanced by behaviors suggesting a more moderate level. These include moments of gaze aversion, such as closing her eyes at the beginning and looking away to the side later, which can indicate a degree of introverted processing or social self-consciousness. Her facial expressions are relatively controlled and do not become overly animated, even during her emphatic point. This mixture of outward expression and subtle withdrawal supports a medium score.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Medium",
+      "score": 0.53,
+      "rationale": "The subject's score places her in the Medium range for Agreeableness. This is reflected in the contrast between her delivery and her message. While her initial expression has soft features like slightly upturned mouth corners, and her overall tone is not hostile, the content of her speech is direct and critical ('you need help'). This willingness to state a blunt, judgmental opinion, rather than phrasing it more gently to maintain social harmony, indicates she is not high in Agreeableness. The score reflects an individual who can be direct and firm in her opinions without necessarily being antagonistic or uncooperative.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Low",
+      "score": 0.35,
+      "rationale": "The subject's Conscientiousness is rated as Low. This assessment is primarily based on the communication style. The statement is a broad, definitive generalization delivered without nuance or supporting arguments. This suggests a more impulsive or less deliberative cognitive style, which is characteristic of lower conscientiousness. A highly conscientious individual would likely present such a strong opinion with more structure, qualification, or careful reasoning. The communication feels spontaneous and reactive rather than planned and methodical.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Medium",
+      "score": 0.47,
+      "rationale": "The subject's Neuroticism is rated as Medium. She displays a clear emotional investment in her topic, evidenced by the sharp increase in pitch and volume and the accompanying emphatic hand gestures. This indicates a degree of emotional reactivity. However, these signals are contained and she quickly returns to a neutral baseline in expression and vocal tone. Furthermore, subtle cues like the initial eye closure could be interpreted as a minor manifestation of social anxiety or discomfort. The ability to express but also effectively regulate this emotional response, without becoming flustered, is consistent with a medium level of Neuroticism.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "Medium",
+      "score": 0.53,
+      "rationale": "The subject's Openness is assessed as Medium. While it's difficult to gauge this trait from a short segment, we can make some inferences. The subject is engaging with an abstract social topic (the validity of self-diagnosis), showing a capacity for this type of discourse. However, the perspective she offers is highly conventional, appealing to the authority of a doctor and dismissing other possibilities. This adherence to a standard, black-and-white viewpoint is less indicative of high Openness, which is often characterized by a greater appreciation for nuance, complexity, and unconventional ideas. Therefore, a medium score is appropriate.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During 8.9s - 11.5s, the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A high level of Agreeableness and social conformity is strongly shown."
+        },
+        {
+          "id": "B",
+          "text": "A low level of Extraversion and social withdrawal is clearly indicated."
+        },
+        {
+          "id": "C",
+          "text": "A high level of Openness to new ideas and concepts is displayed here."
+        },
+        {
+          "id": "D",
+          "text": "A low level of Conscientiousness and impulse control is demonstrated."
+        },
+        {
+          "id": "E",
+          "text": "A high level of Neuroticism and emotional instability is made evident."
+        },
+        {
+          "id": "F",
+          "text": "A medium level of Neuroticism and emotional reactivity is supported."
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The correct answer is F. During this interval, the subject shows a sharp increase in pitch and volume, along with emphatic hand gestures. This emotional reactivity is a core indicator for the Neuroticism dimension. The analysis rates it as Medium because the reactivity is present but also quickly contained.\n- Option A is a text-based distractor; the critical tone of the message suggests lower, not higher, Agreeableness.\n- Option B is a video-based distractor; behaviors supporting lower Extraversion (like gaze aversion) occur at other times (e.g., 12.2s), not during this highly expressive moment.\n- Option C is a text-based distractor; discussing a topic is not sufficient evidence for high Openness, and the conventional viewpoint expressed suggests against it.\n- Option D is a text-based distractor; while the statement could be seen as impulsive (low Conscientiousness), the emotional *delivery* is more direct evidence for Neuroticism.\n- Option E is a near-miss distractor; the reactivity is observable, but it is quickly regulated, making 'Medium' a more accurate assessment than 'High'."
+    },
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their Neuroticism level?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[1.9s - 2.3s]"
+        },
+        {
+          "id": "B",
+          "text": "[4.8s - 5.2s]"
+        },
+        {
+          "id": "C",
+          "text": "[8.5s - 8.9s]"
+        },
+        {
+          "id": "D",
+          "text": "[12.0s - 12.4s]"
+        },
+        {
+          "id": "E",
+          "text": "[2.7s - 3.1s]"
+        },
+        {
+          "id": "F",
+          "text": "[10.8s - 11.2s]"
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The correct answer is F. The time interval [10.8s - 11.2s] captures the peak of the subject's emotional emphasis, including the eyebrow raise at 11.0s and the vocal stress on the word \"you.\" This moment of heightened emotional reactivity is the most direct piece of evidence for the Medium Neuroticism rating.\n- Options A, B, C, D, and E are all video-based distractors. They correspond to other real facial or gestural events in the video (A: mouth corner upturn, B: face becomes neutral, C: direct gaze continues, D: gaze shifts right, E: initial eye closure), but none of these are as centrally important to the assessment of emotional reactivity (Neuroticism) as the emphatic moment captured in F."
+    },
+    {
+      "category": "Mixed Emotion Discrimination",
+      "question": "During 0.0s - 2.9s, the person's emotional state is best characterized as which of the following? Consider both verbal and non-verbal cues.",
+      "options": [
+        {
+          "id": "A",
+          "text": "A state of open contempt that is clearly mixed with feelings of genuine anger."
+        },
+        {
+          "id": "B",
+          "text": "Anxious uncertainty which appears to be combined with a show of forced confidence."
+        },
+        {
+          "id": "C",
+          "text": "A sense of focused seriousness that is mixed with an expression of quiet resolve."
+        },
+        {
+          "id": "D",
+          "text": "Frustrated annoyance from the situation that is blended with deep disappointment."
+        },
+        {
+          "id": "E",
+          "text": "Righteous indignation which has been carefully tempered by a strong sense of duty."
+        },
+        {
+          "id": "F",
+          "text": "A feeling of dismissive judgment that is tempered by a noticeable hint of amusement."
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The correct answer is F. In this initial phase, the subject's slightly upturned mouth corners suggest a hint of amusement or casualness, while the content ('That happens to me a lot. I'm just saying...') sets up a judgmental statement. The closed eyes and slightly raised brows add to a complex, dismissive attitude.\n- Option A is a near-miss distractor; it correctly identifies a negative valence, but 'open contempt' and 'genuine anger' are too strong for the subtle cues present.\n- Option B is a near-miss distractor; while one could argue for some form of confidence, the cues do not strongly support 'anxious uncertainty'.\n- Option C is a video-based distractor; this description better fits the subject's expression later in the video, around 12.2s, where she is direct and focused.\n- Option D is a text-based distractor; it's a plausible negative emotional blend, but the visual cues don't specifically support frustration or disappointment.\n- Option E is a text-based distractor; this is a plausible emotional state for someone making a critical judgment, but it's not well-supported by the non-verbal cues in this specific time range."
+    },
+    {
+      "category": "Temporal-Causal Reasoning",
+      "question": "Consider the sequence of behaviors observed across the video. Which of the following best describes the causal chain linking the person's actions at different moments?",
+      "options": [
+        {
+          "id": "A",
+          "text": "An emphatic display causes a direct assertion, which is then followed by an affiliative signal."
+        },
+        {
+          "id": "B",
+          "text": "Disengagement prompts a display to compensate for a weak assertion made moments beforehand."
+        },
+        {
+          "id": "C",
+          "text": "An initial assertion is followed by disengagement and then a concluding emotional display."
+        },
+        {
+          "id": "D",
+          "text": "A moment of self-doubt is followed by overcompensation and then a display of clear regret."
+        },
+        {
+          "id": "E",
+          "text": "An attempt at regulation precedes a direct assertion that ends with a final affiliative signal."
+        },
+        {
+          "id": "F",
+          "text": "An opening affiliative signal leads to an assertion, which is then reinforced by an emphatic display."
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The correct answer is F. The video follows this causal pattern: the initial soft expression (affiliative signal, 0-2.9s) serves as an entry into the topic, which then transitions into the core argument (direct assertion, 2.9-8.9s), and is finally punctuated by a spike in vocal tone and hand gestures (emphatic display, 8.9-11.5s) to reinforce the point.\n- Option A is a video-based distractor with a reversed temporal order; the assertion comes before the emphatic display, not after.\n- Option B is a text-based distractor with incorrect causality; the emphatic display is not compensatory, and the initial assertion isn't weak.\n- Option C is a near-miss distractor that gets the elements but scrambles the temporal order of the last two stages.\n- Option D is a text-based distractor; the behaviors observed (confidence, assertion, emphasis) do not align with the abstract concepts of self-doubt and regret.\n- Option E is a video-based distractor with incorrect causality; the final gaze aversion is a signal of disengagement, not a concluding affiliative signal, and the initial behavior is not primarily regulatory."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 3.2s, a region was detected in the video (x=0.157, y=0.590, w=0.155, h=0.384, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The overall facial expression is observed to be shifting to a neutral state."
+        },
+        {
+          "id": "B",
+          "text": "The slight upturn of the mouth's corners is seen to fade from the expression."
+        },
+        {
+          "id": "C",
+          "text": "Direct eye contact with the camera is maintained, with some natural blinking."
+        },
+        {
+          "id": "D",
+          "text": "The subject's eyebrows are positioned in a state of being slightly raised."
+        },
+        {
+          "id": "E",
+          "text": "The subject's torso is positioned in what appears to be an upright posture."
+        },
+        {
+          "id": "F",
+          "text": "A preparatory hand-raising gesture is clearly made by the subject's left arm."
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The correct answer is F. The provided coordinates at 3.2s specifically bound the subject's left hand and forearm as she begins to raise them in a gesture. The description 'preparatory hand-raising gesture' accurately reflects this action.\n- Options A, B, C, and D are all video-based distractors. They describe real events occurring around the same time but in different spatial regions (the face, mouth, eyes, and eyebrows respectively), not within the specified bounding box.\n- Option E is a near-miss distractor; while the torso is in the lower part of the frame, the specified bbox is more precisely focused on the moving hand and arm, making F a more accurate description of the action within that specific region."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "At which time and location does the subject make a sharp, emphatic gesture with both hands to underscore a verbal point?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[1.1s] x=0.35, y=0.24, w=0.18, h=0.39"
+        },
+        {
+          "id": "B",
+          "text": "[2.1s] x=0.35, y=0.30, w=0.16, h=0.11"
+        },
+        {
+          "id": "C",
+          "text": "[3.2s] x=0.16, y=0.59, w=0.16, h=0.38"
+        },
+        {
+          "id": "D",
+          "text": "[2.1s] x=0.37, y=0.48, w=0.12, h=0.11"
+        },
+        {
+          "id": "E",
+          "text": "[5.0s] x=0.35, y=0.33, w=0.18, h=0.29"
+        },
+        {
+          "id": "F",
+          "text": "[10.5s] x=0.17, y=0.26, w=0.48, h=0.35"
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The correct answer is F. The coordinates at 10.5s correctly bound the large, two-handed gesture that the subject makes to emphasize the phrase \"you need help.\" This gesture is the most prominent and emphatic one in the video.\n- Option A is a video-based distractor that localizes the head region during normal speech.\n- Option B is a video-based distractor that localizes the eyebrows during the initial, milder expression.\n- Option C is a video-based distractor that localizes the left hand as it is being raised, but before the main emphatic gesture.\n- Option D is a video-based distractor that localizes the mouth during the initial phase of speaking.\n- Option E is a video-based distractor that localizes the face after it has shifted to a more neutral expression."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator06",
+      "version": 1,
+      "clues_total": 25,
+      "clues_correct": 13,
+      "clues_wrong_corrected": 8,
+      "clues_missing_skipped": 3,
+      "clues_bonus": 1
+    }
+  }
+}

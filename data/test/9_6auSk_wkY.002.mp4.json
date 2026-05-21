@@ -1,0 +1,420 @@
+{
+  "video_id": "9_6auSk_wkY.002.mp4",
+  "video_path": "9_6auSk_wkY.002.mp4",
+  "transcription": "I love traveling. So the best day would be traveling somewhere exotic because I like places I've never been and going to Fiji, how about Fiji, oo Fiji, oh the beach.",
+  "original_scores": {
+    "extraversion": 0.6448598130841123,
+    "agreeableness": 0.6043956043956044,
+    "conscientiousness": 0.5631067961165048,
+    "neuroticism": 0.6458333333333333,
+    "openness": 0.6
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 3.84,
+      "description": "The subject maintains direct eye contact with the camera. Her eyebrows are in a neutral position, and her mouth moves naturally with her speech.",
+      "bboxes": [
+        {
+          "frame_time": 1.295385,
+          "x": 0.42154605263157896,
+          "y": 0.24473684210526317,
+          "w": 0.11546052631578947,
+          "h": 0.09210526315789473,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 0,
+          "x": 0.44375,
+          "y": 0.25526315789473686,
+          "w": 0.14358552631578947,
+          "h": 0.039473684210526314,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 0,
+          "x": 0.49851973684210527,
+          "y": 0.41842105263157897,
+          "w": 0.08881578947368421,
+          "h": 0.07368421052631578,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 3.84,
+      "end_time": 5,
+      "description": "The subject's eyebrows raise significantly and her mouth opens wide as she speaks, revealing dental braces.",
+      "bboxes": [
+        {
+          "frame_time": 4.42,
+          "x": 0.4511513157894737,
+          "y": 0.24210526315789474,
+          "w": 0.13914473684210527,
+          "h": 0.04736842105263158,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 5,
+          "x": 0.4911184210526316,
+          "y": 0.3815789473684211,
+          "w": 0.07401315789473685,
+          "h": 0.10789473684210527,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 5,
+      "end_time": 7.77,
+      "description": "Her facial expression returns to a more relaxed, neutral state while she continues to speak and maintain eye contact with the camera.",
+      "bboxes": [
+        {
+          "frame_time": 5,
+          "x": 0.44967105263157897,
+          "y": 0.23684210526315788,
+          "w": 0.14210526315789473,
+          "h": 0.3026315789473684,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 5,
+          "x": 0.4511513157894737,
+          "y": 0.2736842105263158,
+          "w": 0.13914473684210527,
+          "h": 0.08157894736842106,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 7.77,
+      "end_time": 9.05,
+      "description": "The subject tilts her head slightly to her left, smiles, and her mouth forms the word \"Bye\".",
+      "bboxes": [
+        {
+          "frame_time": 8.177122,
+          "x": 0.4393092105263158,
+          "y": 0.2131578947368421,
+          "w": 0.16430921052631578,
+          "h": 0.3026315789473684,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 8.834935,
+          "x": 0.4955592105263158,
+          "y": 0.3526315789473684,
+          "w": 0.0962171052631579,
+          "h": 0.0868421052631579,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 7.85,
+      "description": "The subject sits upright, facing the camera. Her hands are occasionally visible at the bottom of the frame, making small illustrative gestures.",
+      "bboxes": [
+        {
+          "frame_time": 3.925,
+          "x": 0.3549342105263158,
+          "y": 0.5631578947368421,
+          "w": 0.3582236842105263,
+          "h": 0.1631578947368421,
+          "note": "human-annotated",
+          "region": "unknown"
+        },
+        {
+          "frame_time": 1.558511,
+          "x": 0.30904605263157897,
+          "y": 0.8184210526315789,
+          "w": 0.43963815789473687,
+          "h": 0.1763157894736842,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 7.85,
+      "end_time": 9.05,
+      "description": "The subject raises her right hand with an open palm and performs a slow waving gesture towards the camera.",
+      "bboxes": [
+        {
+          "frame_time": 8.45,
+          "x": 0.19654605263157895,
+          "y": 0.5947368421052631,
+          "w": 0.20575657894736843,
+          "h": 0.23684210526315788,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 3.81,
+      "description": "The subject speaks at a moderate pace with a relatively even pitch and volume.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 3.81,
+      "end_time": 5.02,
+      "description": "The subject's speech rate increases slightly. Her voice becomes louder with a higher pitch, particularly on the word \"and.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 5.02,
+      "end_time": 8.32,
+      "description": "Speech returns to a moderate pace and volume. The pitch falls at the end of the sentence.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 8.32,
+      "end_time": 9.05,
+      "description": "The word \"Bye\" is spoken softly with a distinct falling intonation.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 9.05,
+      "description": "The subject is a young woman with fair skin and long, wavy brown hair. She is wearing a black short-sleeved t-shirt and a necklace. The setting is an indoor room, likely a bedroom, with a wall behind her covered in numerous posters and pictures, many featuring surfing themes and the band McFly. A grey metal bed frame is visible on the left side of the frame, and a decorative pillow with text is visible on the right. The lighting is soft and even from the front.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "High",
+      "score": 0.64,
+      "rationale": "The subject exhibits several key indicators of high Extraversion. Her consistent, direct eye contact and outward-facing posture show comfort in a socially expressive context. Her vocal delivery is dynamic, marked by a significant increase in pitch and volume when discussing an exciting topic ([3.8s-5.0s]). This, combined with the use of small illustrative hand gestures, points to a high level of social energy and a tendency to outwardly express positive emotions, which are classic markers of an extraverted personality.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "High",
+      "score": 0.6,
+      "rationale": "A High level of Agreeableness is supported by the subject's warm and friendly demeanor. She maintains a generally relaxed and pleasant facial expression throughout the clip. Crucially, the segment concludes with affiliative social signals: a head tilt, a smile, and a slow, open-palmed wave to the camera ([7.8s-9.1s]). These non-verbal cues are indicative of a cooperative and prosocial orientation, consistent with high Agreeableness.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Medium",
+      "score": 0.56,
+      "rationale": "The subject's Conscientiousness is assessed as Medium. She demonstrates focus on the task by sitting upright and addressing the camera directly, suggesting a degree of dutifulness. However, there is a lack of strong cues for high conscientiousness, such as meticulousness or organization. The background, filled with numerous personal posters, reflects more of an expressive style than a highly ordered environment. This balance between task focus and a relaxed approach to order aligns with a mid-range score.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "High",
+      "score": 0.65,
+      "rationale": "While the subject presents a positive affect, her High Neuroticism score is evidenced by her heightened emotional reactivity. The sudden and intense shift from a neutral conversational tone to a state of high excitement ([3.8s-5.0s])—involving significantly raised eyebrows, a wide-open mouth, and a sharp increase in vocal pitch—demonstrates a high degree of emotional sensitivity. This rapid and pronounced emotional fluctuation, even if positive, is characteristic of the emotional volatility associated with high Neuroticism.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "High",
+      "score": 0.6,
+      "rationale": "The subject's High Openness is strongly indicated by the content of her speech. She explicitly states a love for travel and a preference for 'exotic' places she has 'never been,' which directly reflects a desire for novel experiences. This is further corroborated by her environment; the walls are decorated with posters related to music (McFly) and an adventurous activity (surfing), suggesting an appreciation for aesthetics, culture, and unconventional experiences, all of which are core facets of the Openness dimension.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During [3.8s - 5.0s], the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "High Agreeableness from her warm and inviting demeanor"
+        },
+        {
+          "id": "B",
+          "text": "Low Conscientiousness from the generally casual setting"
+        },
+        {
+          "id": "C",
+          "text": "High Neuroticism from the intense emotional reactivity"
+        },
+        {
+          "id": "D",
+          "text": "High Extraversion from the outward display of social energy"
+        },
+        {
+          "id": "E",
+          "text": "High Openness from the expressed strong desire for novelty"
+        },
+        {
+          "id": "F",
+          "text": "Low Agreeableness from the abrupt shift in vocal dynamics"
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. The analysis notes that the sudden, intense shift in vocal tone and facial expression during this interval is a sign of heightened emotional sensitivity and volatility, which is a core feature of High Neuroticism.\n- Option A is a video-based distractor; High Agreeableness is supported by evidence (the smile and wave) but from a different time segment ([7.8s - 9.1s]).\n- Option B is a text-based distractor; it connects a plausible idea (casualness and low conscientiousness) but the specific behavior at [3.8s - 5.0s] is about emotion, not organization.\n- Option D is a near-miss distractor. This behavior also supports High Extraversion (outwardly expressing positive emotion), but the *reactivity* and *volatility* of the shift are more specific indicators for Neuroticism as described in the analysis.\n- Option E is a video-based distractor; High Openness is supported by the verbal content about travel and the background posters, not the emotional expression in this specific time range.\n- Option F is a text-based distractor. It correctly identifies the vocal shift but draws an incorrect conclusion about Agreeableness; this emotional expression is not indicative of low agreeableness."
+    },
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their High Agreeableness level?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[3.8s - 5.0s]"
+        },
+        {
+          "id": "B",
+          "text": "[0.0s - 1.5s]"
+        },
+        {
+          "id": "C",
+          "text": "[7.8s - 9.1s]"
+        },
+        {
+          "id": "D",
+          "text": "[5.0s - 6.5s]"
+        },
+        {
+          "id": "E",
+          "text": "[7.0s - 8.3s]"
+        },
+        {
+          "id": "F",
+          "text": "[2.0s - 3.5s]"
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. The personality analysis explicitly identifies the head tilt, smile, and slow, open-palmed wave during [7.8s - 9.1s] as the key affiliative social signals that support a High Agreeableness assessment.\n- Option A is a video-based distractor. This interval contains the peak emotional excitement (raised eyebrows, open mouth), which is primary evidence for High Extraversion and High Neuroticism, not Agreeableness.\n- Option B is a video-based distractor. This interval shows the subject establishing a neutral, baseline expression and eye contact, which is not the most significant evidence for High Agreeableness.\n- Option D is a video-based distractor. This is the period when her expression returns to neutral after the excitement, a real event but not the key evidence for Agreeableness.\n- Option E is a near-miss distractor. This time range is immediately before the key affiliative signals begin, but it misses the actual head tilt and wave which are the crucial evidence.\n- Option F is a text-based distractor, representing a period of standard, neutral speech that is less significant for personality assessment than the other moments."
+    },
+    {
+      "category": "Temporal-Causal Reasoning",
+      "question": "Consider the sequence of behaviors observed across the video. Which of the following best describes the causal chain linking the person's actions at different moments?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A display of social anxiety is compensated for by an emotional outburst, concluding with self-conscious monitoring."
+        },
+        {
+          "id": "B",
+          "text": "A friendly disengagement gesture prompts an internal emotional reflection, which then causes a neutral self-presentation."
+        },
+        {
+          "id": "C",
+          "text": "An initial neutral self-presentation is followed by an expressive emotional reaction, concluding with a social disengagement signal."
+        },
+        {
+          "id": "D",
+          "text": "An external prompt triggers an emotional reaction, which leads to focused thought, followed by a neutral concluding statement."
+        },
+        {
+          "id": "E",
+          "text": "A persuasive argument builds to an emotional crescendo for emphasis, and ends with a specific call-to-action hand gesture."
+        },
+        {
+          "id": "F",
+          "text": "A moment of cognitive dissonance is followed by recalibration and a physical gesture indicating a moment of final dismissal."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. This option accurately maps the video's abstract structure: she starts with a neutral, calm demeanor ([0.0s-3.8s]), then has a strong emotional reaction triggered by the thought of travel ([3.8s-5.0s]), and finishes with a socially appropriate and friendly closing gesture ([7.8s-9.1s]).\n- Option A is a video-based distractor that misinterprets the causality and nature of each stage; her start is neutral, not anxious, and her end is friendly, not self-conscious.\n- Option B is a distractor with reversed temporal order. It claims the end gesture causes the middle emotional state, which is incorrect.\n- Option D is a near-miss distractor. It has the correct temporal order but makes a critical error in causality: the emotional reaction is triggered by an *internal* stimulus (the thought of Fiji), not an external prompt. The conclusion is also friendly, not neutral.\n- Option E is a text-based distractor. It describes a plausible but incorrect scenario (a formal speech) that does not match the spontaneous nature of the video.\n- Option F is a text-based distractor. It uses psychological jargon ('cognitive dissonance') that does not apply to the simple, positive emotional arc shown in the video."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around [8.4s], a region was detected in the video (x=0.197, y=0.595, w=0.206, h=0.237, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Natural mouth movement corresponding to articulate speech"
+        },
+        {
+          "id": "B",
+          "text": "The subject's eyebrows held in a neutral, relaxed state"
+        },
+        {
+          "id": "C",
+          "text": "A slow, open-palmed waving gesture directed at the camera"
+        },
+        {
+          "id": "D",
+          "text": "The facial expression returning to a more relaxed condition"
+        },
+        {
+          "id": "E",
+          "text": "An upright body posture facing directly toward the camera"
+        },
+        {
+          "id": "F",
+          "text": "Maintaining direct and consistent eye contact with the camera"
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. The specified coordinates at [8.4s] precisely frame the subject's right hand as she is making a slow, open-palmed wave towards the camera.\n- Option A is a video-based distractor; this describes the mouth region during speech, not the region in the bounding box.\n- Option B is a video-based distractor; this describes the eyebrow region at the start of the video, which is spatially distinct from the hand gesture.\n- Option D is a near-miss distractor. This describes the overall face at a different time, but the question asks about the specific action within the given bounding box, which isolates the hand.\n- Option E is a text-based distractor describing her general posture, not a specific action in the localized region.\n- Option F is a video-based distractor; this describes the eye region, located higher up in the frame than the specified bounding box."
+    },
+    {
+      "category": "Counterfactual Reasoning",
+      "question": "If the person had NOT exhibited the behavior observed around [7.8s - 9.1s], which of the following personality assessments would be MOST affected?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Neuroticism would likely increase, as withholding a standard social closing could be interpreted as a sign of social anxiety."
+        },
+        {
+          "id": "B",
+          "text": "Extraversion would be rated lower, as that segment contains the most compelling evidence for her overall social engagement."
+        },
+        {
+          "id": "C",
+          "text": "Agreeableness would be harder to assess as High, as the affiliative closing gestures from that period provide key evidence."
+        },
+        {
+          "id": "D",
+          "text": "Openness assessment would be weakened, since her creative expression is most apparent in the gestures of that final moment."
+        },
+        {
+          "id": "E",
+          "text": "Conscientiousness would be assessed as higher, because the closing would then appear more task-focused and less emotional."
+        },
+        {
+          "id": "F",
+          "text": "Agreeableness would shift from High to Low, as omitting a friendly closing implies a more negative social disposition."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. The behavior at [7.8s - 9.1s] consists of a head tilt, smile, and wave. The analysis explicitly states these 'affiliative social signals' are 'indicative of a cooperative and prosocial orientation, consistent with high Agreeableness.' Removing this behavior would remove the strongest evidence, making a 'High' assessment difficult to support.\n- Option A is a text-based distractor; it presents a plausible but speculative interpretation rather than addressing the direct impact of removing the primary evidence for an existing assessment.\n- Option B is a video-based distractor. The strongest evidence for High Extraversion (social energy) comes from the excited vocal and facial expressions earlier in the video ([3.8s - 5.0s]), not the closing wave.\n- Option D is a video-based distractor. The evidence for Openness comes from the verbal content (love of travel) and background, not the closing gesture.\n- Option E is a text-based distractor. The link between this gesture and Conscientiousness is very weak, so its absence would have little to no effect on that trait's assessment.\n- Option F is a near-miss distractor. It correctly identifies Agreeableness but makes an overly strong claim. The absence of a positive signal (the wave) does not automatically confirm the presence of a strong negative trait; it simply weakens the evidence for the positive one. Option C's phrasing ('harder to assess as High') is more accurate."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator18",
+      "version": 1,
+      "clues_total": 17,
+      "clues_correct": 14,
+      "clues_wrong_corrected": 3,
+      "clues_missing_skipped": 0,
+      "clues_bonus": 0
+    }
+  }
+}

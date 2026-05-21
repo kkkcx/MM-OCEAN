@@ -1,0 +1,602 @@
+{
+  "video_id": "Se3Gts4u1vs.002.mp4",
+  "video_path": "Se3Gts4u1vs.002.mp4",
+  "transcription": "... [and 00:00:15] erase the duplicate material, all that sort of stuff to hide stuff that I got wrong or I didn't mean and I corrected myself later. I might do a little technical edit to get rid of that. They won't know any of that. Right?",
+  "original_scores": {
+    "extraversion": 0.5700934579439253,
+    "agreeableness": 0.7692307692307692,
+    "conscientiousness": 0.5436893203883495,
+    "neuroticism": 0.5625,
+    "openness": 0.711111111111111
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 1.7,
+      "description": "Subject looks directly at the camera, eyebrows in a neutral position. Mouth moves naturally with speech.",
+      "bboxes": [
+        {
+          "frame_time": 1.7,
+          "x": 0.3712171052631579,
+          "y": 0.10052631779720908,
+          "w": 0.1805921052631579,
+          "h": 0.41578947368421054,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 0.583328,
+          "x": 0.4407894736842105,
+          "y": 0.14526315990247224,
+          "w": 0.15542763157894737,
+          "h": 0.14473684210526316,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 1.198491,
+          "x": 0.3638157894736842,
+          "y": 0.27157894937615645,
+          "w": 0.1169407894736842,
+          "h": 0.14473684210526316,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 1.7,
+      "end_time": 5.4,
+      "description": "Eyebrows lift slightly and stay raised. Gaze remains on the camera. A slight tension appears around the mouth as it forms a subtle smile-like shape.",
+      "bboxes": [
+        {
+          "frame_time": 3.797416,
+          "x": 0.3549342105263158,
+          "y": 0.13473684411299855,
+          "w": 0.16282894736842105,
+          "h": 0.10263157894736842,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 3.797416,
+          "x": 0.34901315789473686,
+          "y": 0.08210526516563015,
+          "w": 0.16875,
+          "h": 0.39210526315789473,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 5.4,
+      "end_time": 7.3,
+      "description": "Eyebrows lower back to a neutral position. The subject's gaze shifts to his left (viewer's right) to follow his hand gesture.",
+      "bboxes": [
+        {
+          "frame_time": 6.290012,
+          "x": 0.3771381578947368,
+          "y": 0.11105263358668277,
+          "w": 0.18651315789473685,
+          "h": 0.2026315789473684,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 7.3,
+          "x": 0.3549342105263158,
+          "y": 0.12947368621826172,
+          "w": 0.23092105263157894,
+          "h": 0.34210526315789475,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 7.3,
+          "x": 0,
+          "y": 0.5400000020077355,
+          "w": 0.2590460526315789,
+          "h": 0.45526315789473687,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 7.3,
+      "end_time": 10.8,
+      "description": "The subject's gaze returns to the camera. His eyebrows raise slightly and his eyes widen briefly as he points. His lips are slightly parted.",
+      "bboxes": [
+        {
+          "frame_time": 8.19362,
+          "x": 0.3638157894736842,
+          "y": 0.07157894937615646,
+          "w": 0.19835526315789473,
+          "h": 0.38421052631578945,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 8.571924,
+          "x": 0.3712171052631579,
+          "y": 0.1531578967445775,
+          "w": 0.1879934210526316,
+          "h": 0.11578947368421053,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 9.248957,
+          "x": 0.3963815789473684,
+          "y": 0.31631579148141964,
+          "w": 0.17467105263157895,
+          "h": 0.12368421052631579,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 10.8,
+      "end_time": 14.3,
+      "description": "His expression returns to a more neutral state, with eyebrows slightly raised as he speaks. He maintains direct eye contact.",
+      "bboxes": [
+        {
+          "frame_time": 12.696348,
+          "x": 0.34457236842105265,
+          "y": 0.08736842306036698,
+          "w": 0.18651315789473685,
+          "h": 0.39210526315789473,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 12.696348,
+          "x": 0.3712171052631579,
+          "y": 0.13210526516563015,
+          "w": 0.15098684210526317,
+          "h": 0.10789473684210527,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 14.238341,
+          "x": 0.3401315789473684,
+          "y": 0.12157894937615646,
+          "w": 0.15986842105263158,
+          "h": 0.3368421052631579,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 14.3,
+      "end_time": 15,
+      "description": "At the word \"Right?\" his eyebrows raise significantly, and his eyes widen, holding the expression as the segment ends.",
+      "bboxes": [
+        {
+          "frame_time": 15.048103,
+          "x": 0.45707236842105264,
+          "y": 0.1900000020077354,
+          "w": 0.14950657894736843,
+          "h": 0.11052631578947368,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 1.5,
+      "description": "The subject is sitting, facing the camera. His hands are near the bottom of the frame, with his right hand making a small, pointing gesture.",
+      "bboxes": [
+        {
+          "frame_time": 1.340907,
+          "x": 0.32088815789473685,
+          "y": 0.08736842306036698,
+          "w": 0.19539473684210526,
+          "h": 0.5105263157894737,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 1.340907,
+          "x": 0.41118421052631576,
+          "y": 0.8505263177972091,
+          "w": 0.1480263157894737,
+          "h": 0.14473684210526316,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 1.5,
+      "end_time": 5.4,
+      "description": "His hands come together and clasp near his chest level, making small illustrative movements in sync with his speech.",
+      "bboxes": [
+        {
+          "frame_time": 2.696912,
+          "x": 0.39786184210526315,
+          "y": 0.7005263177972091,
+          "w": 0.18207236842105262,
+          "h": 0.24210526315789474,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 2.696912,
+          "x": 0.23059210526315788,
+          "y": 0.5268421072708933,
+          "w": 0.4055921052631579,
+          "h": 0.46842105263157896,
+          "note": "pose human-annotated",
+          "region": "torso"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 5.4,
+      "end_time": 7.3,
+      "description": "He raises his right hand and makes a large, sweeping gesture from the center of his body outwards to his left (viewer's right). His head and torso turn slightly to follow the gesture.",
+      "bboxes": [
+        {
+          "frame_time": 6.206966,
+          "x": 0.002631578947368412,
+          "y": 0.7321052651656301,
+          "w": 0.15838815789473684,
+          "h": 0.2631578947368421,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 6.35,
+          "x": 0.30904605263157897,
+          "y": 0.02947368621826172,
+          "w": 0.2634868421052632,
+          "h": 0.6578947368421053,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 9.4,
+      "end_time": 10.8,
+      "description": "He raises his right hand and points his index finger forward and slightly up towards the camera.",
+      "bboxes": [
+        {
+          "frame_time": 10.374195,
+          "x": 0.3401315789473684,
+          "y": 0.3636842125340512,
+          "w": 0.18503289473684212,
+          "h": 0.3368421052631579,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 10.374195,
+          "x": 0.34309210526315786,
+          "y": 0.3531578967445775,
+          "w": 0.16282894736842105,
+          "h": 0.30526315789473685,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 10.8,
+      "end_time": 15,
+      "description": "He lowers his hands out of the frame and remains seated upright, with a slight head tilt to his left at the very end.",
+      "bboxes": [
+        {
+          "frame_time": 12.658008,
+          "x": 0.13289473684210526,
+          "y": 0.8294736862182617,
+          "w": 0.5092105263157894,
+          "h": 0.16842105263157894,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 12.295553,
+          "x": 0.3371710526315789,
+          "y": 0.07421052832352487,
+          "w": 0.22796052631578947,
+          "h": 0.4105263157894737,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 6.8,
+      "description": "Speech is delivered at a moderately fast pace with even volume. Pitch rises slightly on \"duplicate material\" and again on \"hide stuff.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 6.8,
+      "end_time": 10.8,
+      "description": "The pace remains quick. Stress is placed on the word \"wrong\" and \"later,\" with a slight increase in volume.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 10.8,
+      "end_time": 13.2,
+      "description": "Slight emphasis and increase in pitch on the phrase \"technical edit.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15,
+      "description": "The subject is a man with short, dark hair, appearing in an indoor workshop or electronics lab. He is wearing a grey t-shirt with a white schematic diagram of a 555 timer IC. Behind him, to his right (viewer's left), are metal shelves filled with electronic test equipment, including oscilloscopes and power supplies. To his left (viewer's right) is a large white magnetic board with hand-drawn circuit diagrams, text reading \"PRECISION PEAK DETECTOR,\" markers, and a whiteboard eraser. The lighting is bright and even.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Medium",
+      "score": 0.57,
+      "rationale": "The subject's Extraversion score is rated as Medium. He is socially engaged, as evidenced by filming a video for an audience and maintaining direct eye contact with the camera for the majority of the segment. His use of varied and illustrative hand gestures (e.g., a large sweeping motion from 5.4s-7.3s, pointing at 9.4s-10.8s) and a moderately fast speaking pace suggest social energy. However, his overall demeanor is controlled and focused on the topic, lacking the high-energy, effusive expressiveness typical of very high extraversion, thus supporting a medium classification.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "High",
+      "score": 0.77,
+      "rationale": "A High level of Agreeableness is indicated. The core content of his speech is an act of transparency; he is openly explaining his process of correcting mistakes to his audience. This effort to build trust and rapport is a hallmark of agreeableness. His facial expressions, particularly the frequent but subtle raising of his eyebrows ([1.7s-5.4s], [7.3s-10.8s]), signal engagement and an open, non-confrontational communicative intent. His overall tone is informative and cooperative rather than authoritative, consistent with someone who values a harmonious relationship with their viewers.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Medium",
+      "score": 0.54,
+      "rationale": "The subject's Conscientiousness is assessed as Medium. His verbal content directly addresses his methodical work process, discussing the need to perform a 'technical edit' to 'erase the duplicate material' and correct what he 'got wrong.' This reflects a clear concern for order, quality, and diligence. The background, an organized electronics lab with neatly arranged equipment and a clear diagram on a whiteboard, further suggests a preference for structure. The score remains in the medium range as his focus is on a practical, corrective process rather than a display of rigid perfectionism.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Medium",
+      "score": 0.56,
+      "rationale": "A Medium Neuroticism score is supported by a mix of cues. On one hand, the subject appears calm and emotionally stable, maintaining steady eye contact and controlled gestures. On the other hand, the very topic of his monologue—a focus on his own mistakes ('stuff that I got wrong') and how his audience will perceive his work ('They won't know any of that')—reveals a degree of self-consciousness and concern over evaluation. This verbalized awareness of potential flaws points to a level of neuroticism that is present but well-managed, preventing a lower or higher classification.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "High",
+      "score": 0.71,
+      "rationale": "The High Openness score is strongly supported by the subject's environment and self-presentation. He is situated in an electronics workshop, surrounded by complex technical equipment and a whiteboard with a detailed circuit diagram ('PRECISION PEAK DETECTOR'). His T-shirt, featuring a schematic of a 555 timer IC, serves as a clear marker of his identity being tied to intellectual and technical interests. The act of creating and narrating a video within this specialized domain demonstrates intellectual curiosity and a desire to engage with and share complex ideas, which are core characteristics of high openness.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During 6.8s - 10.8s, the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A high degree of personal Extraversion"
+        },
+        {
+          "id": "B",
+          "text": "A low level of the trait Agreeableness"
+        },
+        {
+          "id": "C",
+          "text": "A strong indication of Conscientiousness"
+        },
+        {
+          "id": "D",
+          "text": "A high exhibition of personal Openness"
+        },
+        {
+          "id": "E",
+          "text": "A low measure of the trait Neuroticism"
+        },
+        {
+          "id": "F",
+          "text": "A medium level of the trait Neuroticism"
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The correct answer is F. During this interval, the subject explicitly discusses things he 'got wrong' and his process for correcting them, revealing a degree of self-consciousness and concern over evaluation. This verbalized awareness of potential flaws supports a Medium Neuroticism score, as it's present but well-managed.\n\n- Option A is a video-based distractor. High Extraversion is supported by gestures elsewhere in the video (e.g., the large sweep at 5.4s), but this specific interval's verbal content points more directly to Neuroticism.\n- Option B is a near-miss distractor. It misinterprets the self-correction as defensiveness, which would imply Low Agreeableness. The actual tone is cooperative, making this incorrect.\n- Option C is a text-based distractor. The topic of correcting mistakes sounds highly related to Conscientiousness, but the *emotional* undertone of worrying about getting things 'wrong' is more indicative of Neuroticism.\n- Option D is a video-based distractor. High Openness is strongly supported by the subject's environment (lab, schematics) throughout the video, but not by the specific self-evaluative statement in this time range.\n- Option E is a near-miss distractor. It correctly identifies Neuroticism as the relevant trait but suggests the wrong direction (Low). His calm demeanor might suggest low neuroticism, but his verbal content indicates a medium level."
+    },
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their Agreeableness level?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[00:00.6s - 00:01.3s]"
+        },
+        {
+          "id": "B",
+          "text": "[00:01.8s - 00:02.5s]"
+        },
+        {
+          "id": "C",
+          "text": "[00:05.4s - 00:06.1s]"
+        },
+        {
+          "id": "D",
+          "text": "[00:07.3s - 00:08.0s]"
+        },
+        {
+          "id": "E",
+          "text": "[00:09.5s - 00:10.2s]"
+        },
+        {
+          "id": "F",
+          "text": "[00:14.3s - 00:15.0s]"
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The correct answer is F. The personality analysis notes that frequent but subtle eyebrow raises signal an open, non-confrontational communicative intent, a hallmark of High Agreeableness. The observation log states that at 14.3s-15.0s, the 'eyebrows [are] significantly raised,' marking the most pronounced instance of this key agreeableness cue.\n\n- Option A is a video-based distractor. This interval shows a neutral expression at the very beginning, before the key expressive cues for agreeableness appear.\n- Option B is a video-based distractor. This interval marks the beginning of the first eyebrow raise, but the change at 14.3s is described as more 'significant'.\n- Option C is a video-based distractor. This marks the moment his eyebrows lower and he looks away, a change in expression but one less directly tied to the positive, engaging cues of agreeableness.\n- Option D is a video-based distractor. This interval shows the start of the second eyebrow raise, but again, the one at 14.3s is the most notable.\n- Option E is a video-based distractor. This interval shows the pointing gesture, which is more related to Extraversion or emphasis, not the core cues for Agreeableness."
+    },
+    {
+      "category": "Mixed Emotion Discrimination",
+      "question": "During 7.3s - 10.8s, the person's emotional state is best characterized as which of the following? Consider both verbal and non-verbal cues.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hesitant uncertainty mixed with a subtle need for viewer validation."
+        },
+        {
+          "id": "B",
+          "text": "Confident authority tempered by a slight hint of condescension."
+        },
+        {
+          "id": "C",
+          "text": "Annoyed frustration mixed with an overriding sense of resignation."
+        },
+        {
+          "id": "D",
+          "text": "Defensive justification tempered by a direct appeal for sympathy."
+        },
+        {
+          "id": "E",
+          "text": "Creative excitement mixed with a fear of being misunderstood."
+        },
+        {
+          "id": "F",
+          "text": "Scholarly precision tempered by a hint of self-consciousness."
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The correct answer is F. In this segment, the subject discusses correcting things he 'got wrong.' His tone is methodical and clear (scholarly precision), reflecting Conscientiousness and Openness. However, the explicit mention of his own mistakes, combined with direct eye contact and a pointing gesture for emphasis, introduces a mild element of self-awareness or self-consciousness, reflecting Medium Neuroticism. The blend is informative yet slightly self-evaluative.\n\n- Option A is a near-miss distractor. It correctly identifies a hint of self-awareness but frames it as 'hesitant uncertainty,' which is inaccurate; his delivery is confident and clear.\n- Option B is a near-miss distractor. It captures his confidence but misinterprets it as 'authority' and adds 'condescension,' which is contradicted by the cooperative and transparent tone that supports High Agreeableness.\n- Option C is a text-based distractor. The words 'got wrong' might imply frustration, but his calm demeanor and controlled expressions do not support this interpretation.\n- Option D is a text-based distractor. This is an unsupported negative interpretation of his words. His tone is explanatory, not defensive or seeking sympathy.\n- Option E is a video-based distractor. It references the creative/technical setting but misattributes the emotion. The focus here is on correction and process, not on enthusiastic creation."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 1.3s, a region was detected in the video (x=0.411, y=0.851, w=0.148, h=0.145, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A subtle raising motion observed in the eyebrows."
+        },
+        {
+          "id": "B",
+          "text": "A direct and re-engaged gaze toward the camera."
+        },
+        {
+          "id": "C",
+          "text": "A slight parting of the lips during articulation."
+        },
+        {
+          "id": "D",
+          "text": "A facial expression shifting to a neutral state."
+        },
+        {
+          "id": "E",
+          "text": "A slight turning of the head and upper torso area."
+        },
+        {
+          "id": "F",
+          "text": "A small, illustrative pointing hand gesture."
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The correct answer is F. The provided coordinates (y=0.851) correspond to the bottom portion of the video frame. The observation log for 0.0s - 1.5s confirms that at this time, 'his hands are at the bottom of the frame, with his right hand making a small pointing gesture.' This matches the location and description.\n\n- Option A is a video-based distractor. An eyebrow raise occurs, but at a different time (starting at 1.7s) and in a different spatial region (the upper part of the face, around y=0.15).\n- Option B is a video-based distractor. The subject's gaze is on the camera, but this is an action of the eyes, located in the upper-middle region of the frame, not at y=0.851.\n- Option C is a video-based distractor. The lips part during speech, but this occurs in the mouth region, which is spatially distinct from the low-y coordinate of the hand gesture.\n- Option D is a video-based distractor. A shift to a neutral expression happens later in the video (around 10.8s) and involves the entire face, not just the area in the bounding box.\n- Option E is a video-based distractor. The head turn happens later (around 6.3s) and involves the head and torso, which are in a different spatial location."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "Identify the moment and location where the subject's facial expression combines a re-engaged gaze with subtle eyebrow and mouth cues to emphasize a point.",
+      "options": [
+        {
+          "id": "A",
+          "text": "[6.3s] x=0.38, y=0.11, w=0.19, h=0.20"
+        },
+        {
+          "id": "B",
+          "text": "[6.2s] x=0.00, y=0.73, w=0.16, h=0.26"
+        },
+        {
+          "id": "C",
+          "text": "[3.8s] x=0.35, y=0.08, w=0.17, h=0.39"
+        },
+        {
+          "id": "D",
+          "text": "[12.3s] x=0.34, y=0.07, w=0.23, h=0.41"
+        },
+        {
+          "id": "E",
+          "text": "[1.2s] x=0.36, y=0.27, w=0.12, h=0.14"
+        },
+        {
+          "id": "F",
+          "text": "[9.2s] x=0.40, y=0.32, w=0.17, h=0.12"
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The correct answer is F. The question asks for the moment of emphasis combining re-engaged gaze, eyebrow, and mouth cues. This occurs between 7.3s and 10.8s, where his gaze returns to the camera, his eyebrows raise slightly, and his lips part as he points and says he 'got wrong.' The timestamp 9.2s falls squarely within this period, and the bounding box correctly localizes his mouth, a key part of the expressive cluster.\n\n- Option A is a video-based distractor. At 6.3s, his gaze is shifting *away* from the camera to follow his hand, not re-engaging.\n- Option B is a video-based distractor. At 6.2s, the bounding box is on his hand during the sweeping gesture, not his face.\n- Option C is a video-based distractor. At 3.8s, his eyebrows are raised and his gaze is on the camera, but this is during the initial, less emphatic part of his explanation, and the mouth is not specifically noted as being part of the emphasis.\n- Option D is a video-based distractor. At 12.3s, his expression is returning to a more neutral state after the main point has been made.\n- Option E is a video-based distractor. At 1.2s, he is speaking with a neutral expression at the beginning of the clip, before the key moment of emphasis."
+    },
+    {
+      "category": "Counterfactual Reasoning",
+      "question": "If the person had NOT exhibited the behavior observed around 5.4s - 7.3s, which of the following personality assessments would be MOST affected?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Conscientiousness would be rated higher, since its removal would make his overall presentation feel more orderly and less dramatic."
+        },
+        {
+          "id": "B",
+          "text": "Agreeableness score would be rated lower, as the gesture visually reinforces his highly cooperative and transparent explanation."
+        },
+        {
+          "id": "C",
+          "text": "Openness assessment would be much weaker, as that gesture is clearly tied to his explanation of the complex technical process."
+        },
+        {
+          "id": "D",
+          "text": "Neuroticism would be less certain, as the outward gesture serves to counteract the verbal focus on his personal mistakes."
+        },
+        {
+          "id": "E",
+          "text": "Extraversion would be rated higher, since the absence of such a large movement would make his communication more reserved."
+        },
+        {
+          "id": "F",
+          "text": "Extraversion would be rated lower, as this gesture is a key indicator of his social energy and expressive communication style."
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The correct answer is F. The behavior from 5.4s-7.3s is the large, sweeping hand gesture. The personality analysis for Medium Extraversion explicitly cites 'varied and illustrative hand gestures (e.g., a large sweeping motion from 5.4s-7.3s)' as evidence for social energy. Removing this prominent piece of evidence would significantly weaken the case for his extraversion level, likely causing it to be rated lower.\n\n- Option A is a text-based distractor. While removing the gesture might seem to make the presentation more 'orderly,' the Conscientiousness rating is primarily based on his verbal content about editing and the organized background, not this gesture.\n- Option B is a text-based distractor. The High Agreeableness rating is based on his verbal transparency and open facial expressions. While the gesture is part of his explanation, it is not the primary evidence for his cooperativeness.\n- Option C is a video-based distractor. The gesture illustrates 'hiding stuff,' not the technical process itself. The Openness rating is based on his environment (lab, schematics) and technical t-shirt, which would be unaffected.\n- Option D is a video-based distractor. It draws a speculative link between the gesture and Neuroticism. The evidence for Neuroticism comes from his direct verbal statements about getting things wrong, which is a much stronger and more direct indicator.\n- Option E is a near-miss distractor. It correctly identifies Extraversion as the affected trait but posits the wrong direction of change. Removing an expressive, energetic behavior would decrease, not increase, an Extraversion rating."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator11",
+      "version": 1,
+      "clues_total": 36,
+      "clues_correct": 29,
+      "clues_wrong_corrected": 0,
+      "clues_missing_skipped": 7,
+      "clues_bonus": 0
+    }
+  }
+}

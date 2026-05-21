@@ -1,0 +1,507 @@
+{
+  "video_id": "IL5VgGakSNw.004.mp4",
+  "video_path": "IL5VgGakSNw.004.mp4",
+  "transcription": "Rounding it here to [inaudible 00:00:16] interviews or gameplay demos, we'll have to see. If you guys have any questions that you would like answered surrounding that, just go and ask those either down below or through the forum. We'll see what we can do guys. Yeah, this is a big thing; sort of popped up in the last few days actually, but yeah it's happening ...",
+  "original_scores": {
+    "extraversion": 0.37383177570093457,
+    "agreeableness": 0.5824175824175825,
+    "conscientiousness": 0.5242718446601942,
+    "neuroticism": 0.5208333333333334,
+    "openness": 0.7444444444444444
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 6.8,
+      "description": "The subject maintains a direct gaze at the camera with a relaxed facial expression. His eyebrows raise slightly in sync with his speech, particularly at the beginning of phrases. His mouth moves naturally as he speaks.",
+      "bboxes": [
+        {
+          "frame_time": 2.435341,
+          "x": 0.4861111111111111,
+          "y": 0.25857338820301784,
+          "w": 0.11419753086419752,
+          "h": 0.07133058984910837,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 2.435341,
+          "x": 0.4722222222222222,
+          "y": 0.22839506172839505,
+          "w": 0.1558641975308642,
+          "h": 0.06310013717421124,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 6.895441,
+          "x": 0.4398148148148148,
+          "y": 0.08299039780521263,
+          "w": 0.1867283950617284,
+          "h": 0.48010973936899864,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 3.4,
+          "x": 0.5046296296296297,
+          "y": 0.38477366255144035,
+          "w": 0.08487654320987655,
+          "h": 0.09327846364883402,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 6.8,
+      "end_time": 8.4,
+      "description": "The subject's gaze briefly shifts down and to the sides, following his hand gestures, before returning to the camera. His facial expression remains neutral and engaged.",
+      "bboxes": [
+        {
+          "frame_time": 8.4,
+          "x": 0.24382716049382716,
+          "y": 0.5795610425240055,
+          "w": 0.20679012345679013,
+          "h": 0.3292181069958848,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 7.6,
+          "x": 0.470679012345679,
+          "y": 0.22016460905349794,
+          "w": 0.1558641975308642,
+          "h": 0.3100137174211248,
+          "note": "face human-annotated",
+          "region": "face"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 8.4,
+      "end_time": 15.2,
+      "description": "The subject re-establishes and maintains direct eye contact with the camera. His eyebrows lift slightly around 11.0 seconds during an illustrative gesture. His facial expression remains open and conversational for the remainder of the clip.",
+      "bboxes": [
+        {
+          "frame_time": 11.8,
+          "x": 0.47530864197530864,
+          "y": 0.22839506172839505,
+          "w": 0.1419753086419753,
+          "h": 0.11796982167352538,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 11.025461,
+          "x": 0.3888888888888889,
+          "y": 0.19821673525377229,
+          "w": 0.2839506172839506,
+          "h": 0.5349794238683128,
+          "note": "human-annotated",
+          "region": "unknown"
+        },
+        {
+          "frame_time": 11.025461,
+          "x": 0.46296296296296297,
+          "y": 0.21193415637860083,
+          "w": 0.1743827160493827,
+          "h": 0.11248285322359397,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 15.228577,
+          "x": 0.4567901234567901,
+          "y": 0.19821673525377229,
+          "w": 0.18364197530864199,
+          "h": 0.299039780521262,
+          "note": "face human-annotated",
+          "region": "face"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 5.2,
+      "description": "The subject is seated in a high-back chair, facing the camera. His hands are out of view at the bottom of the frame.",
+      "bboxes": [
+        {
+          "frame_time": 0,
+          "x": 0.30246913580246915,
+          "y": 0.16529492455418382,
+          "w": 0.4074074074074074,
+          "h": 0.6858710562414266,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 5.2,
+      "end_time": 6.8,
+      "description": "He raises his hands into the frame, clasping them together in front of his chest.",
+      "bboxes": [
+        {
+          "frame_time": 5.22322,
+          "x": 0.3055555555555556,
+          "y": 0.8209876543209876,
+          "w": 0.2361111111111111,
+          "h": 0.17901234567901236,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 6.8,
+      "end_time": 8.4,
+      "description": "He unclasps his hands and gestures downward with both index fingers sequentially, first to his right and then to his left.",
+      "bboxes": [
+        {
+          "frame_time": 7.733332,
+          "x": 0.5,
+          "y": 0.7880658436213992,
+          "w": 0.22685185185185186,
+          "h": 0.2119341563786008,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 8.4,
+          "x": 0.24074074074074073,
+          "y": 0.5960219478737997,
+          "w": 0.24691358024691357,
+          "h": 0.3374485596707819,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 8.4,
+      "end_time": 10.5,
+      "description": "He brings his hands back to the center and clasps them again in front of his chest.",
+      "bboxes": [
+        {
+          "frame_time": 9.45,
+          "x": 0.30401234567901236,
+          "y": 0.6947873799725651,
+          "w": 0.3194444444444444,
+          "h": 0.3052126200274349,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 10.5,
+      "end_time": 12,
+      "description": "He opens his hands and moves them apart in a wide, illustrative gesture.",
+      "bboxes": [
+        {
+          "frame_time": 11.750462,
+          "x": 0.038580246913580245,
+          "y": 0.4451303155006859,
+          "w": 0.8950617283950617,
+          "h": 0.5548696844993142,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 12,
+      "end_time": 15.2,
+      "description": "He brings his hands together again, interlacing his fingers, and holds them in front of his chest as he finishes speaking.",
+      "bboxes": [
+        {
+          "frame_time": 13.6,
+          "x": 0.35030864197530864,
+          "y": 0.7085048010973937,
+          "w": 0.2777777777777778,
+          "h": 0.29149519890260633,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 11.6,
+      "description": "The subject speaks at a moderate, consistent pace with a neutral pitch. There is a slight pitch drop and increase in stress on the word \"down\" at 7.5 seconds. The pitch contour falls at the end of sentences.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 11.6,
+      "end_time": 15.2,
+      "description": "The speech rate slightly increases on the phrase \"sort of popped up all of a sudden in the past few days actually.\" The overall volume and pitch remain consistent with the earlier part of the clip.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.2,
+      "description": "The subject is a young man with fair skin, dark curly hair, and blue eyes. He is wearing a black zip-up hoodie with a white eagle graphic on the chest over a darker t-shirt. He is seated in a red and black gaming chair in an indoor setting. To his left is a window with closed horizontal blinds. To his right, a red condenser microphone is mounted on a boom arm. The room is lit with cool, front-facing light.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Low",
+      "score": 0.37,
+      "rationale": "The subject's Extraversion is rated as Low. This is supported by his composed and controlled demeanor. He speaks at a moderate, steady pace with a neutral vocal tone, which contrasts with the typically energetic and varied speech of highly extraverted individuals. While he uses hand gestures to illustrate his points, he frequently returns his hands to a clasped position at his chest, suggesting a contained rather than an expansive use of social energy. His facial expressions, though open and engaged, remain largely neutral and focused, lacking the high animation characteristic of high extraversion.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Medium",
+      "score": 0.58,
+      "rationale": "The Medium score in Agreeableness is reflected in the subject's cooperative and approachable communication style. He directly invites his audience to ask questions ('If you guys have any questions... just go and ask'), demonstrating a willingness to engage and be helpful. His maintained direct eye contact, relaxed facial muscles, and generally 'open and conversational' expression create a non-threatening and friendly atmosphere. The moderate, steady vocal tone further contributes to this perception of being cooperative and trustworthy.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Medium",
+      "score": 0.52,
+      "rationale": "The subject's Medium Conscientiousness score is supported by his structured and purposeful communication. He presents a clear agenda for the video—announcing a new segment and soliciting audience questions—and provides specific instructions on how to participate. This indicates a planned, goal-oriented approach. His steady speech, controlled hand gestures that return to a resting position, and focused demeanor suggest a degree of self-discipline and a desire to convey his message effectively, consistent with a moderate level of conscientiousness.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Medium",
+      "score": 0.52,
+      "rationale": "This Medium Neuroticism score is consistent with a subject who appears generally calm but exhibits subtle signs of managing internal states. While his direct eye contact and steady vocal tone suggest emotional stability, his recurring hand-clasping gestures can be interpreted as a mild self-soothing or grounding behavior, common for individuals managing the normal stress of being on camera. Furthermore, a slight increase in speech pace when discussing a recent development ('popped up... in the last few days') hints at a mild emotional arousal, reflecting a typical, rather than an exceptionally low or high, level of emotional reactivity.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "High",
+      "score": 0.74,
+      "rationale": "The subject's High Openness is strongly supported by the video's content and his expressive style. He is actively proposing a shift in his content to new formats like 'interviews or gameplay demos,' demonstrating a clear interest in novel experiences. His call for audience questions further indicates intellectual curiosity and a receptiveness to new ideas. This verbal content is reinforced by his use of broad, illustrative hand gestures and raised eyebrows, which signal cognitive engagement and an articulate communication style often associated with individuals high in Openness.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During 10.5s - 12.0s, the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A notably low degree of outward Extraversion is shown."
+        },
+        {
+          "id": "B",
+          "text": "A notably high degree of social Agreeableness is shown."
+        },
+        {
+          "id": "C",
+          "text": "A notably high degree of personal Conscientiousness."
+        },
+        {
+          "id": "D",
+          "text": "A notably low degree of intellectual Openness is shown."
+        },
+        {
+          "id": "E",
+          "text": "A notably medium degree of personal Neuroticism shown."
+        },
+        {
+          "id": "F",
+          "text": "A notably high degree of intellectual Openness is shown."
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The behavior in this segment is a broad, expansive illustrative hand gesture while discussing new content ideas ('interviews or gameplay demos'). This is a classic non-verbal cue for High Openness, signaling cognitive engagement and an interest in novel concepts. \n\nOption A is a video-based distractor because while the overall rating is Low Extraversion, this specific gesture is expansive, not contained. The evidence for low extraversion comes from other moments (like returning hands to the chest).\nOption B is a text-based distractor; the subject's verbal content is agreeable, but this specific non-verbal action is more related to articulating ideas (Openness) than social harmony.\nOption C is a text-based distractor; structured communication supports Conscientiousness, but this specific expressive gesture is not primary evidence for that trait.\nOption D is a near-miss distractor; it correctly identifies the relevant personality dimension (Openness) but gets the direction wrong.\nOption E is a video-based distractor; evidence for Neuroticism (hand-clasping) is observed at other times in the video, not during this expansive gesture."
+    },
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their high Openness level?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[2.1s - 2.8s]"
+        },
+        {
+          "id": "B",
+          "text": "[5.2s - 5.9s]"
+        },
+        {
+          "id": "C",
+          "text": "[7.5s - 8.2s]"
+        },
+        {
+          "id": "D",
+          "text": "[0.5s - 1.2s]"
+        },
+        {
+          "id": "E",
+          "text": "[13.4s - 14.1s]"
+        },
+        {
+          "id": "F",
+          "text": "[10.8s - 11.5s]"
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The analysis explicitly links the subject's High Openness to his articulate communication style, including raised eyebrows during illustrative gestures. The observation log notes his eyebrows raise at 11.0s in conjunction with a broad gesture about new ideas, signaling cognitive engagement. The interval [10.8s - 11.5s] correctly isolates this key facial expression.\n\nOption A is a video-based distractor; during this time, his face is relaxed and eyebrows are slightly raised as part of a baseline expression, but it's not tied to a specific illustrative point supporting Openness.\nOption B is a video-based distractor; this is when he first clasps his hands, and his facial expression is neutral, not showing the key change related to Openness.\nOption C is a video-based distractor; this is when he makes pointing gestures, and his face is focused, but it lacks the specific eyebrow raise linked to exploring new concepts.\nOption E is a video-based distractor; at this point, he is concluding his thought and has returned to a more neutral, conversational expression."
+    },
+    {
+      "category": "Mixed Emotion Discrimination",
+      "question": "During 0.0s - 6.8s, the person's emotional state is best characterized as which of the following? Consider both verbal and non-verbal cues.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Anxious anticipation mixed with a sense of forced composure."
+        },
+        {
+          "id": "B",
+          "text": "Cheerful optimism tempered by a clear hint of shyness."
+        },
+        {
+          "id": "C",
+          "text": "Professional detachment mixed with some polite interest."
+        },
+        {
+          "id": "D",
+          "text": "Earnest sincerity mixed with a hint of slight reservation."
+        },
+        {
+          "id": "E",
+          "text": "Mild enthusiasm tempered by a noticeable degree of formality."
+        },
+        {
+          "id": "F",
+          "text": "Calm engagement mixed with a sense of focused intentionality."
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "In this initial segment, the subject's relaxed face, direct eye contact, steady speech, and clear delivery of his topic indicate a state of calm, approachable engagement. The structured nature of his speech ('rounding it here to...') points to a clear purpose, or focused intentionality. This combination accurately captures his demeanor.\n\nOption A is a video-based distractor; it misinterprets his calm state as 'forced composure' and incorrectly infers anxiety, for which there is no direct evidence here.\nOption B is a text-based distractor; while his topic is positive, his demeanor is more neutral and focused than 'cheerful', and his direct eye contact contradicts 'shyness'.\nOption C is a text-based distractor; 'detachment' is incorrect as he is actively engaging the audience with a direct address.\nOption D is a near-miss distractor; while 'earnest sincerity' is plausible, there is no evidence of 'reservation' in his open and direct communication style.\nOption E is a near-miss distractor; 'mild enthusiasm' is slightly too strong, as his vocal tone and expression are more neutral and controlled. The analysis notes he lacks the high animation of extraverts."
+    },
+    {
+      "category": "Temporal-Causal Reasoning",
+      "question": "Consider the sequence of behaviors observed across the video. Which of the following best describes the causal chain linking the person's actions at different moments?",
+      "options": [
+        {
+          "id": "A",
+          "text": "An initial broad illustrative display causes the speaker to adopt a more constrained, self-monitoring posture for the remainder of the speech."
+        },
+        {
+          "id": "B",
+          "text": "An initial display of high energy leads to a need for self-regulation, from which smaller emphatic gestures are then deployed in a controlled way."
+        },
+        {
+          "id": "C",
+          "text": "A display of uncertainty prompts compensatory gestures for credibility, which then resolve into a posture of confident resolution by the end."
+        },
+        {
+          "id": "D",
+          "text": "A self-monitoring posture is maintained throughout, punctuated by brief, unrelated moments of emphatic clarification and illustrative display."
+        },
+        {
+          "id": "E",
+          "text": "A moment of emphatic clarification leads to a self-monitoring posture, followed by a broad illustrative display, before returning to neutral."
+        },
+        {
+          "id": "F",
+          "text": "A baseline self-monitoring posture is broken for emphatic clarification, then escalates to an illustrative display, before returning to baseline."
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "This option correctly maps the observed sequence: he starts with hands clasped (baseline self-monitoring at 5.2s), breaks this to point and clarify (emphatic clarification at 6.8s-8.4s), then performs a broad, open gesture (illustrative display at 10.5s-12.0s), and finally returns to the clasped position (return to baseline at 12.0s-15.2s).\n\nOption A is a reversed temporal order distractor; the broad display happens later in the sequence, not at the beginning.\nOption B is a near-miss distractor; it incorrectly identifies the initial state as 'high energy' when it's actually controlled and composed.\nOption C is a text-based distractor; it uses plausible psychological terms but does not accurately reflect the video, which shows no clear initial 'uncertainty'.\nOption D is a video-based distractor; it correctly identifies the behaviors but incorrectly claims they are causally unrelated, when they form a clear expressive sequence.\nOption E is a near-miss distractor; it scrambles the causal order, incorrectly suggesting the emphatic gesture leads back to a self-monitoring posture *before* the broad illustrative display."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 11.8s, a region was detected in the video (x=0.039, y=0.445, w=0.895, h=0.555, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A neutral and focused facial expression of deep concentration."
+        },
+        {
+          "id": "B",
+          "text": "Natural and fluid mouth movements during his vocalization."
+        },
+        {
+          "id": "C",
+          "text": "A subtle forward tilt of the head to emphasize a sentence."
+        },
+        {
+          "id": "D",
+          "text": "Slightly raised eyebrows indicating a clear point of emphasis."
+        },
+        {
+          "id": "E",
+          "text": "A relaxed but direct gaze being held steadily at the camera."
+        },
+        {
+          "id": "F",
+          "text": "A broad, illustrative hand gesture being made by the person."
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The specified bounding box is very wide and located in the lower-middle portion of the frame. At 11.8s, this region precisely captures the subject's expansive, open-handed gesture used to illustrate his point. The observation log confirms this action: 'He spread his hands in a broad illustrative gesture'.\n\nOptions A, B, C, D, and E are all video-based distractors. They describe real behaviors and expressions of the person (focused face, mouth moving, head tilt, raised eyebrows, direct gaze), but these all occur in the head/face region, which is spatially distinct from the large bounding box focused on his hands and torso."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "Which of the following options correctly identifies the moment and location of a self-regulating gesture where the person's hands are brought together into a contained, resting position?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[8.4s]  x=0.24, y=0.58, w=0.21, h=0.33"
+        },
+        {
+          "id": "B",
+          "text": "[7.7s]  x=0.50, y=0.79, w=0.23, h=0.21"
+        },
+        {
+          "id": "C",
+          "text": "[2.4s]  x=0.47, y=0.23, w=0.16, h=0.06"
+        },
+        {
+          "id": "D",
+          "text": "[7.6s]  x=0.47, y=0.22, w=0.16, h=0.31"
+        },
+        {
+          "id": "E",
+          "text": "[15.2s]  x=0.46, y=0.20, w=0.18, h=0.30"
+        },
+        {
+          "id": "F",
+          "text": "[5.2s]  x=0.31, y=0.82, w=0.24, h=0.18"
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The question asks for a self-regulating gesture where hands are brought together. The observation log for [5.2s - 6.8s] states: He brings his hands into the frame, clasped together in front of his chest. The timestamp and bounding box in option F correctly localize the beginning of this action.\n\nOptions A and B are video-based distractors; they correspond to pointing gestures, which are emphatic and illustrative, not contained or self-regulating.\nOptions C, D, and E are video-based distractors; they all point to regions on the person's face (eyebrows, overall face), not his hands, and are therefore spatially incorrect."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator15",
+      "version": 1,
+      "clues_total": 23,
+      "clues_correct": 20,
+      "clues_wrong_corrected": 0,
+      "clues_missing_skipped": 3,
+      "clues_bonus": 0
+    }
+  }
+}

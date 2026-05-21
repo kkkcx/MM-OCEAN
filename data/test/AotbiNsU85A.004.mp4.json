@@ -1,0 +1,336 @@
+{
+  "video_id": "AotbiNsU85A.004.mp4",
+  "video_path": "AotbiNsU85A.004.mp4",
+  "transcription": "Suggest is just go into the makeup store and try something on. I can tell you, \"Go and try this,\" but then you have oily skin and I see you get something for dry skin. I could tell you, \"You know, go and try this shade,\" and you get there and that shade only-",
+  "original_scores": {
+    "extraversion": 0.36448598130841126,
+    "agreeableness": 0.5384615384615384,
+    "conscientiousness": 0.6019417475728155,
+    "neuroticism": 0.5416666666666666,
+    "openness": 0.5222222222222223
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 15.17,
+      "description": "The subject maintains direct eye contact with the camera through her glasses. Her eyebrows remain in a neutral, slightly raised position. Her mouth opens and closes naturally as she speaks, with her lips slightly pursed at the end of phrases. Her overall facial expression is engaged and conversational, with no noticeable tension.",
+      "bboxes": [
+        {
+          "frame_time": 14.914558,
+          "x": 0.4141447368421053,
+          "y": 0.21842105263157896,
+          "w": 0.26644736842105265,
+          "h": 0.22105263157894736,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 11.415932,
+          "x": 0.3712171052631579,
+          "y": 0.13157894736842105,
+          "w": 0.24572368421052632,
+          "h": 0.16052631578947368,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 14.914558,
+          "x": 0.4274671052631579,
+          "y": 0.4921052631578947,
+          "w": 0.19391447368421053,
+          "h": 0.1736842105263158,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 11.415932,
+          "x": 0.3875,
+          "y": 0.2236842105263158,
+          "w": 0.2368421052631579,
+          "h": 0.4,
+          "note": "face human-annotated",
+          "region": "face"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 15.17,
+      "description": "The subject is framed from the chest up and remains relatively still, with only slight, subtle head movements that synchronize with her speech. At 00:02.16, her right hand briefly enters the frame from the bottom right to make a small, open-palmed illustrative gesture before disappearing again.",
+      "bboxes": [
+        {
+          "frame_time": 7.604993,
+          "x": 0.3786184210526316,
+          "y": 0.11578947368421053,
+          "w": 0.28125,
+          "h": 0.5815789473684211,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 2.578572,
+          "x": 0.7442434210526316,
+          "y": 0.8578947368421053,
+          "w": 0.10953947368421053,
+          "h": 0.1368421052631579,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 3.985992,
+          "x": 0.6495065789473684,
+          "y": 0.8578947368421053,
+          "w": 0.17023026315789475,
+          "h": 0.1394736842105263,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 5.76,
+      "description": "The subject speaks at a moderate, conversational pace with a clear vocal tone. There is a slight downward inflection at the end of her first sentence (00:01.6). She places slight stress on the word \"this\" at 00:05.1.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 5.76,
+      "end_time": 9.14,
+      "description": "The speech rate remains consistent. The phrases \"oily skin\" and \"dry skin\" are delivered with slightly more emphasis and a marginal increase in volume.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 9.14,
+      "end_time": 15.17,
+      "description": "The subject's speech continues in a steady, conversational rhythm and pitch. There is a slight emphasis on the phrase \"this shade\" (00:11.8) before the audio cuts off mid-sentence.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.17,
+      "description": "The subject is a Black woman with long, dark, wavy hair styled with a side-swept fringe. She is wearing large, tortoise-shell-patterned glasses, dark red lipstick, and a red or burgundy top. A silver necklace with a heart-shaped pendant is visible. She is positioned in front of a dark, sparkling sequin curtain. The lighting is bright and frontal, creating reflections in her glasses.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Low",
+      "score": 0.36,
+      "rationale": "The subject's Extraversion is rated as Low. This is supported by her controlled and reserved physical demeanor. Her head and body remain relatively still, and her hand gestures are minimal and contained, briefly entering the frame rather than being broad or sustained. Her overall facial expression is described as having a 'slight sense of restraint,' and her vocal delivery, while clear, maintains a steady, moderate pace without the energetic fluctuations typical of high extraversion. While filming a video is a social act, her behavioral style is deliberate and composed, not gregarious or overtly expressive.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Medium",
+      "score": 0.54,
+      "rationale": "The Medium Agreeableness score is consistent with the subject's helpful and cooperative communication style. She is actively providing advice with the intention of being useful to her audience. Her direct eye contact and engaged, conversational facial expression serve as positive social signals, fostering a sense of connection. However, her overall tone is more matter-of-fact and instructive than overtly warm or effusive, which aligns with a balanced, mid-range level of this trait.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "High",
+      "score": 0.6,
+      "rationale": "The subject's Conscientiousness is rated as High. This is strongly evidenced by her structured and methodical communication. She presents a clear, logical argument, using specific examples ('oily skin,' 'dry skin') to support her advice. Her speech is clear and articulate, with purposeful emphasis on key phrases to ensure her message is understood. This goal-oriented approach, combined with her composed and controlled physical presence (steady posture, minimal extraneous movement), points towards a disciplined and organized personality.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Medium",
+      "score": 0.54,
+      "rationale": "The Medium Neuroticism score is reflected in the subject's generally stable and composed presentation. Her steady vocal rhythm and calm demeanor indicate a low level of overt anxiety or emotional reactivity. However, subtle cues such as the 'slight sense of restraint' in her facial expression and the tendency for her lips to tighten at the end of sentences suggest a degree of self-monitoring or controlled tension. This balance between outward calm and subtle indicators of guardedness supports a mid-range assessment for Neuroticism.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "Medium",
+      "score": 0.52,
+      "rationale": "The subject's Openness is rated as Medium. While the act of creating a video with a stylized background (sequin curtain) suggests a degree of aesthetic engagement, the content of her message is highly practical and concrete. She is focused on solving a real-world problem with straightforward, conventional advice rather than exploring abstract or novel ideas. Her delivery is direct and grounded. This blend of creative presentation with pragmatic content is characteristic of a moderate level of Openness.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During 0.0s - 15.2s, the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A notably low level of overall Agreeableness."
+        },
+        {
+          "id": "B",
+          "text": "A notably high level of overall Openness to Experience."
+        },
+        {
+          "id": "C",
+          "text": "A notably high level of overall Extraversion."
+        },
+        {
+          "id": "D",
+          "text": "A notably low level of overall Conscientiousness."
+        },
+        {
+          "id": "E",
+          "text": "A notably high level of overall Conscientiousness."
+        },
+        {
+          "id": "F",
+          "text": "A notably low level of overall Neuroticism."
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. The analysis states that High Conscientiousness is 'strongly evidenced by her structured and methodical communication' and 'clear, logical argument' with specific examples, which occurs throughout the video. Option A is a text-based distractor; her tone is helpful, not unagreeable. Option B is a text-based distractor; while she has a creative background, her advice is practical, indicating Medium, not High, Openness. Option C is a video-based distractor; her reserved demeanor and minimal gestures actually support Low Extraversion, contradicting this option. Option D is a near-miss distractor because it identifies the correct personality dimension but with the incorrect direction (Low instead of High). Option F is a text-based distractor; while she appears calm, subtle cues of restraint point to Medium, not Low, Neuroticism."
+    },
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their Medium Neuroticism level?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[2.1s - 2.4s]"
+        },
+        {
+          "id": "B",
+          "text": "[5.0s - 5.3s]"
+        },
+        {
+          "id": "C",
+          "text": "[11.7s - 12.0s]"
+        },
+        {
+          "id": "D",
+          "text": "[0.5s - 0.8s]"
+        },
+        {
+          "id": "E",
+          "text": "[8.9s - 9.2s]"
+        },
+        {
+          "id": "F",
+          "text": "[14.5s - 14.8s]"
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. The personality analysis notes that Medium Neuroticism is supported by subtle cues like lips tightening at the end of sentences, indicating self-monitoring. A clear sentence concludes around 9.1s ('...something for dry skin.'), making the interval [8.9s - 9.2s] the most relevant moment for observing this specific micro-expression. Option A is a video-based distractor; this interval captures the start of her hand gesture, which is a different behavioral channel. Options B and C are video-based distractors that correspond to moments of vocal emphasis on specific words, not a facial micro-expression related to Neuroticism. Options D and F are plausible but less distinct moments of facial change compared to the clear sentence-ending cue at the correct interval."
+    },
+    {
+      "category": "Mixed Emotion Discrimination",
+      "question": "During 0.0s - 15.2s, the person's emotional state is best characterized as which of the following? Consider both verbal and non-verbal cues.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Deep concern for the audience mixed with some personal anxiety."
+        },
+        {
+          "id": "B",
+          "text": "Confident expertise tempered by an approachable, warm demeanor."
+        },
+        {
+          "id": "C",
+          "text": "Mild annoyance at common mistakes mixed with a desire to clarify."
+        },
+        {
+          "id": "D",
+          "text": "Engaged enthusiasm for the topic tempered by thoughtful planning."
+        },
+        {
+          "id": "E",
+          "text": "Helpful instruction for viewers mixed with composed self-monitoring."
+        },
+        {
+          "id": "F",
+          "text": "Slight frustration with the topic mixed with patient explanation."
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. This option accurately captures the duality of her presentation: her verbal content is clearly instructive and helpful, while her non-verbal cues (restrained expression, tightened lips at sentence ends) indicate a composed, self-monitored state, aligning with the Medium Neuroticism analysis. Option A is a text-based distractor; there is little evidence of deep concern or anxiety. Option B is a text-based distractor; her demeanor is more matter-of-fact and instructive than overtly warm. Option C is a video-based distractor, as a model might misinterpret her directness as annoyance. Option D is a near-miss distractor; she is engaged, but 'enthusiasm' is too strong given her controlled vocal and physical energy levels. Option F is a text-based distractor, as no cues suggest frustration."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 14.9s, a region was detected in the video (x=0.427, y=0.492, w=0.194, h=0.174, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A subtle and minor shift of the entire head to one side."
+        },
+        {
+          "id": "B",
+          "text": "Slightly raised eyebrows indicating a neutral attentiveness."
+        },
+        {
+          "id": "C",
+          "text": "An engaged but somewhat restrained overall facial expression."
+        },
+        {
+          "id": "D",
+          "text": "A relaxed and open mouth shape during active vocalization."
+        },
+        {
+          "id": "E",
+          "text": "Slightly tightened lips during a natural pause in speech."
+        },
+        {
+          "id": "F",
+          "text": "A small illustrative hand gesture originating from the right."
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. The provided coordinates (x=0.427, y=0.492, w=0.194, h=0.174) at 14.9s precisely frame the person's mouth. The observation log states that at the end of sentences (like the one concluding here), her lips 'tighten slightly'. Option D is a near-miss distractor; while the mouth is for vocalization, the specific expression at this moment of pause is tightening, not a relaxed openness. Options A, B, and C are video-based distractors describing actions in different, non-overlapping regions (head, eyebrows, and whole face, respectively). Option F is a video-based distractor describing a hand gesture that occurs at a completely different time (around 2s-4s) and in a different spatial location."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "The person makes a brief, illustrative physical movement to emphasize a point. Which of the following options correctly identifies both the timing and location of this specific action?",
+      "options": [
+        {
+          "id": "A",
+          "text": "At 7.6s, in region (x=0.379, y=0.116, w=0.281, h=0.582)"
+        },
+        {
+          "id": "B",
+          "text": "At 2.6s, in region (x=0.388, y=0.224, w=0.237, h=0.400)"
+        },
+        {
+          "id": "C",
+          "text": "At 14.9s, in region (x=0.414, y=0.218, w=0.266, h=0.221)"
+        },
+        {
+          "id": "D",
+          "text": "At 4.0s, in region (x=0.650, y=0.858, w=0.170, h=0.139)"
+        },
+        {
+          "id": "E",
+          "text": "At 2.6s, in region (x=0.744, y=0.858, w=0.110, h=0.137)"
+        },
+        {
+          "id": "F",
+          "text": "At 10.2s, in region (x=0.744, y=0.858, w=0.110, h=0.137)"
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. The observation log explicitly notes a hand gesture occurring around 2.16s, with a provided bounding box at 2.6s that matches these coordinates. This option correctly pairs the time of the gesture with its spatial location. Option A is a video-based distractor pointing to the head region at a different time. Option B is a video-based distractor with the correct time but incorrect location (the face). Option C is a video-based distractor with an incorrect time and location (the eyes). Option D is a near-miss distractor, capturing the moment the hand disappears from the frame, not the illustrative gesture itself. Option F is a video-based distractor with the correct location but an incorrect time where no gesture occurs."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator14",
+      "version": 1,
+      "clues_total": 11,
+      "clues_correct": 10,
+      "clues_wrong_corrected": 1,
+      "clues_missing_skipped": 0,
+      "clues_bonus": 0
+    }
+  }
+}

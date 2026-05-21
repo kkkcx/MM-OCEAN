@@ -1,0 +1,540 @@
+{
+  "video_id": "ZxxRJRz2hf0.000.mp4",
+  "video_path": "ZxxRJRz2hf0.000.mp4",
+  "transcription": "I highly recommend to everyone to just eat a breakfast that makes you happy. If you want to eat something really healthy like a bunch of fruit or something like that, then go for it. If you're like me and kind of have a bit more of a sweet tooth and eat more on the unhealthy side and that makes you happy.",
+  "original_scores": {
+    "extraversion": 0.8411214953271028,
+    "agreeableness": 0.7472527472527474,
+    "conscientiousness": 0.6893203883495147,
+    "neuroticism": 0.7916666666666667,
+    "openness": 0.6777777777777777
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 1.9,
+      "description": "The subject's eyebrows are raised and drawn together, creating a furrowed, emphatic expression. Her eyes are wide, and her mouth is open as she speaks. She maintains direct gaze with the camera.",
+      "bboxes": [
+        {
+          "frame_time": 0,
+          "x": 0.4015625,
+          "y": 0.0798245580572831,
+          "w": 0.1480263157894737,
+          "h": 0.08947368421052632,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 1.668798,
+          "x": 0.4385690789473684,
+          "y": 0.26403508437307255,
+          "w": 0.11398026315789474,
+          "h": 0.14736842105263157,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 0.145675,
+          "x": 0.40452302631578946,
+          "y": 0.116666663320441,
+          "w": 0.1613486842105263,
+          "h": 0.08421052631578947,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 1.9,
+      "end_time": 4.6,
+      "description": "The facial expression softens. The eyebrows relax and return to a neutral position. The corners of the mouth lift slightly into a smile as she says \"happy\".",
+      "bboxes": [
+        {
+          "frame_time": 2.728319,
+          "x": 0.4178453947368421,
+          "y": 0.09561403174149363,
+          "w": 0.18355263157894738,
+          "h": 0.3026315789473684,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 3.58805,
+          "x": 0.4208059210526316,
+          "y": 0.04298245279412521,
+          "w": 0.15394736842105264,
+          "h": 0.11578947368421053,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 3.593609,
+          "x": 0.4074835526315789,
+          "y": 0.03771929489938836,
+          "w": 0.20723684210526316,
+          "h": 0.4131578947368421,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 4.6,
+      "end_time": 8.5,
+      "description": "Her expression becomes more neutral and illustrative. She purses her lips slightly, then her eyebrows raise again as she gestures.",
+      "bboxes": [
+        {
+          "frame_time": 4.666666,
+          "x": 0.4178453947368421,
+          "y": 0.08245613700465153,
+          "w": 0.22203947368421054,
+          "h": 0.35526315789473684,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 8.527542,
+          "x": 0.40008223684210525,
+          "y": 0.26403508437307255,
+          "w": 0.10065789473684211,
+          "h": 0.1,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 5.739078,
+          "x": 0.3689967105263158,
+          "y": 0.0298245580572831,
+          "w": 0.1879934210526316,
+          "h": 0.0868421052631579,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 8.5,
+      "end_time": 11.5,
+      "description": "The eyebrows raise slightly as she says \"if you're like me.\" She then tilts her head slightly and her expression becomes more intimate and self-referential.",
+      "bboxes": [
+        {
+          "frame_time": 9.731966,
+          "x": 0.3734375,
+          "y": 0.06403508437307258,
+          "w": 0.21019736842105263,
+          "h": 0.11578947368421053,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 9.027903,
+          "x": 0.36011513157894737,
+          "y": 0.03245613700465152,
+          "w": 0.225,
+          "h": 0.3868421052631579,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 8.959013,
+          "x": 0.37195723684210524,
+          "y": 0.12456140016254626,
+          "w": 0.22351973684210527,
+          "h": 0.29736842105263156,
+          "note": "face human-annotated",
+          "region": "face"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 11.5,
+      "end_time": 15.1,
+      "description": "Her face scrunches slightly, with a brief tightening around the mouth and nose as she mentions \"sweet tooth\" and \"unhealthy side.\" The expression then relaxes and opens up, ending with raised eyebrows and a slight smile.",
+      "bboxes": [
+        {
+          "frame_time": 11.666663,
+          "x": 0.3660361842105263,
+          "y": 0.08771929489938836,
+          "w": 0.24572368421052632,
+          "h": 0.37105263157894736,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 12.277931,
+          "x": 0.42820723684210527,
+          "y": 0.1561403475309673,
+          "w": 0.11101973684210527,
+          "h": 0.21578947368421053,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 14.34244,
+          "x": 0.40008223684210525,
+          "y": 0.08508771595201994,
+          "w": 0.14358552631578947,
+          "h": 0.2789473684210526,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 15.099997,
+          "x": 0.42672697368421053,
+          "y": 0.27456140016254627,
+          "w": 0.10953947368421053,
+          "h": 0.10263157894736842,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 1,
+      "description": "The subject sits upright, leaning slightly forward. She points both index fingers towards the camera for emphasis.",
+      "bboxes": [
+        {
+          "frame_time": 0.5827,
+          "x": 0.31422697368421054,
+          "y": 0.040350873846756785,
+          "w": 0.41151315789473686,
+          "h": 0.7552631578947369,
+          "note": "pose human-annotated",
+          "region": "torso"
+        },
+        {
+          "frame_time": 0,
+          "x": 0.2609375,
+          "y": 0.6061403475309673,
+          "w": 0.43519736842105267,
+          "h": 0.3526315789473684,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 1,
+      "end_time": 4,
+      "description": "Her hands open up and move apart in a wide, inclusive gesture.",
+      "bboxes": [
+        {
+          "frame_time": 1.061454,
+          "x": 0.015213815789473676,
+          "y": 0.6929824527941252,
+          "w": 0.9606907894736842,
+          "h": 0.27631578947368424,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 4,
+      "end_time": 6.8,
+      "description": "She clasps her hands together briefly, then raises her right hand, palm up, in an illustrative gesture while talking.",
+      "bboxes": [
+        {
+          "frame_time": 5.633331,
+          "x": 0.46817434210526315,
+          "y": 0.3640350843730726,
+          "w": 0.25164473684210525,
+          "h": 0.6052631578947368,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 5.590977,
+          "x": 0.5066611842105263,
+          "y": 0.4692982422678094,
+          "w": 0.27088815789473686,
+          "h": 0.5210526315789473,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 6.8,
+      "end_time": 8.6,
+      "description": "Her hands move apart again in a broad, open gesture as she says \"then go for it.\"",
+      "bboxes": [
+        {
+          "frame_time": 8.199992,
+          "x": 0.21060855263157893,
+          "y": 0.7587719264783357,
+          "w": 0.4588815789473684,
+          "h": 0.23684210526315788,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 8.6,
+      "end_time": 11.5,
+      "description": "She brings both hands to her chest, interlacing her fingers in a self-referential gesture as she says \"if you're like me.\"",
+      "bboxes": [
+        {
+          "frame_time": 9.54999,
+          "x": 0.3527138157894737,
+          "y": 0.5271929791099147,
+          "w": 0.23980263157894738,
+          "h": 0.4263157894736842,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 9.610088,
+          "x": 0.3615953947368421,
+          "y": 0.03245613700465152,
+          "w": 0.24424342105263158,
+          "h": 0.45263157894736844,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 11.5,
+      "end_time": 15.1,
+      "description": "Her hands separate. She uses her left hand to gesture near her face while mentioning \"sweet tooth,\" and then both hands open outward in a shrugging motion at the end of her sentence.",
+      "bboxes": [
+        {
+          "frame_time": 11.866663,
+          "x": 0.3305098684210526,
+          "y": 0.6324561370046515,
+          "w": 0.3537828947368421,
+          "h": 0.36578947368421055,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 12.20979,
+          "x": 0.27425986842105265,
+          "y": 0.12192982121517784,
+          "w": 0.3034539473684211,
+          "h": 0.6631578947368421,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 14.380091,
+          "x": 0.20764802631578946,
+          "y": 0.6850877159520199,
+          "w": 0.4988486842105263,
+          "h": 0.2868421052631579,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 14.079627,
+          "x": 0.22837171052631577,
+          "y": 0.34824561068886206,
+          "w": 0.5136513157894737,
+          "h": 0.23684210526315788,
+          "note": "pose human-annotated",
+          "region": "shoulders"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 1.5,
+      "description": "Speech is delivered at a fast pace with a high-pitched, energetic tone. Stress is placed on \"highly recommend.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 1.5,
+      "end_time": 4.5,
+      "description": "The pitch lowers slightly and the tone becomes warmer on the phrase \"makes you happy.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 4.5,
+      "end_time": 8.5,
+      "description": "The speech rate remains quick and consistent. There is upward inflection on \"fruit or something like that\" and a declarative, falling tone on \"then go for it.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 8.5,
+      "end_time": 15.1,
+      "description": "The pitch rises on \"me\" and \"sweet tooth.\" The volume and pace remain consistent, ending with a slightly upward inflection on the final word, \"happy.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.1,
+      "description": "The subject is a young woman with a fair complexion and long, straight, dark brown hair. She is wearing a white, loose-knit, long-sleeved V-neck sweater and a simple silver necklace with a circular pendant. The setting is a brightly lit bedroom. Behind her is a white headboard with vertical slats, white bedding with pillows, and a white nightstand with a lamp. A string of warm-toned fairy lights is visible along the top of the headboard.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Very High",
+      "score": 0.84,
+      "rationale": "The subject's behavior is strongly indicative of Very High Extraversion. Her communication is highly energetic, marked by a fast speech rate, a high-pitched and dynamic vocal tone, and an engaged, forward-leaning posture. She actively seeks connection with the viewer through sustained direct eye contact and the use of broad, illustrative gestures that occupy a large physical space. This outward projection of energy and desire for social engagement are hallmark characteristics of highly extraverted individuals.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "High",
+      "score": 0.75,
+      "rationale": "High Agreeableness is demonstrated through the subject's warm, inclusive, and non-judgmental communication. Her core message validates different personal choices ('If you want to eat something really healthy... go for it. If you're like me...'), reflecting a tolerant and cooperative mindset. This is behaviorally supported by a softening of her facial features and a warmer vocal tone when speaking about happiness. The slight head tilt and open-handed gestures further signal a prosocial orientation aimed at building rapport with her audience.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "High",
+      "score": 0.69,
+      "rationale": "The subject exhibits traits of High Conscientiousness through her focused and structured communication. She presents a clear, purposeful recommendation, suggesting a deliberate thought process. Her upright posture and consistent eye contact indicate a disciplined and focused approach to delivering her message. Furthermore, her hand gestures are not random but are illustrative and synchronized with her speech (e.g., self-referential gesture for 'like me'), pointing to a controlled and organized method of expression.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "High",
+      "score": 0.79,
+      "rationale": "The High Neuroticism score is supported by subtle displays of self-consciousness and emotional tension. When disclosing her preference for an 'unhealthy side,' there is a noticeable, albeit brief, tightening of the muscles around her mouth and nose, and her face scrunches slightly. This micro-expression of discomfort suggests a degree of anxiety or vulnerability associated with self-disclosure. The concluding shrug can be interpreted as a self-effacing gesture to downplay this vulnerability, a common behavior in individuals with higher emotional sensitivity.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "High",
+      "score": 0.68,
+      "rationale": "The subject's High Openness is reflected in the content and style of her communication. The central premise of her message—advocating for personal happiness over a single 'correct' choice—demonstrates cognitive flexibility and an acceptance of different perspectives. Her animated delivery, characterized by varied vocal intonation and dynamic facial expressions (e.g., raised eyebrows for emphasis), suggests an appreciation for aesthetic and emotional expression. This combination of intellectual tolerance and expressive communication style is consistent with a high level of Openness.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During 11.5s - 15.1s, the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "High Neuroticism, reflecting her emotional sensitivity and self-consciousness."
+        },
+        {
+          "id": "B",
+          "text": "High Extraversion, demonstrating her consistent energy and expressive mannerisms."
+        },
+        {
+          "id": "C",
+          "text": "Low Conscientiousness, suggesting a lack of discipline in her personal choices."
+        },
+        {
+          "id": "D",
+          "text": "Low Neuroticism, indicating a high degree of emotional stability and confidence."
+        },
+        {
+          "id": "E",
+          "text": "High Agreeableness, shown through her warm and accommodating communication style."
+        },
+        {
+          "id": "F",
+          "text": "Low Openness, implying a closed-off attitude toward alternative perspectives."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. During 11.5s-15.1s, the person discloses her preference for an 'unhealthy side' and exhibits a brief facial scrunch and tightening around the mouth and nose. This micro-expression of discomfort is the strongest evidence in the video for High Neuroticism, as it reveals underlying emotional sensitivity and vulnerability related to self-disclosure.\n\n- Option B is a video-based distractor: High Extraversion is supported by her overall energetic delivery and broad gestures, but not specifically by the signs of tension in this particular time window.\n- Option C is a text-based distractor: The phrase 'unhealthy side' might tempt a connection to low conscientiousness, but the behavior itself (emotional tension) is not about a lack of discipline, and her overall communication is quite structured.\n- Option D is a near-miss distractor: It correctly identifies the relevant personality dimension (Neuroticism) but gets the direction wrong. The observed behavior is a sign of emotional sensitivity, not stability.\n- Option E is a video-based distractor: High Agreeableness is supported by her inclusive language and warm tone at other moments (e.g., 1.9s-4.6s), but the specific facial tension at this moment is not an indicator of agreeableness.\n- Option F is a text-based distractor: This contradicts the core message of the video, which is about accepting different choices and is a sign of High Openness."
+    },
+    {
+      "category": "Temporal-Causal Reasoning",
+      "question": "Consider the sequence of behaviors observed across the video. Which of the following best describes the causal chain linking the person's actions at different moments?",
+      "options": [
+        {
+          "id": "A",
+          "text": "An initial emphatic assertion is softened by an inclusive framing, which then enables a moment of self-disclosure that is resolved with a self-effacing regulation gesture."
+        },
+        {
+          "id": "B",
+          "text": "A self-referential admission leads to a moment of high-energy persuasion, which is then justified by a concluding gesture of openness aimed at building audience trust."
+        },
+        {
+          "id": "C",
+          "text": "An initial moment of uncertainty prompts a compensatory emphatic display, which is then softened by an inclusive gesture to avoid appearing overly aggressive to the viewer."
+        },
+        {
+          "id": "D",
+          "text": "An initial emphatic assertion leads directly to an inclusive framing, which provides the foundation for a final, confident display of self-assurance in her recommendation."
+        },
+        {
+          "id": "E",
+          "text": "A need to justify a personal preference triggers a persuasive argument, which is then reinforced by periodic illustrative hand gestures to maintain audience engagement."
+        },
+        {
+          "id": "F",
+          "text": "A concluding self-effacing gesture causes a retrospective moment of self-disclosure, which then motivates an earlier emphatic assertion to help regain her confidence."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. This option correctly maps the abstract behavioral sequence to the video. 'Initial emphatic assertion' (0.0s-1.9s, 'highly recommend'). 'Softened by inclusive framing' (1.9s-4.6s, 'makes you happy'). 'Enables self-disclosure' (8.6s-11.5s, 'if you're like me'). 'Resolved with self-effacing regulation gesture' (14.1s, the shrug after mentioning her 'unhealthy side').\n\n- Option B is a distractor with incorrect temporal order and causality: The self-referential admission happens in the middle, not at the beginning, and it doesn't lead to high-energy persuasion but rather a moment of vulnerability.\n- Option C is a text-based distractor: The video does not show any initial uncertainty; she begins with a confident and energetic tone.\n- Option D is a near-miss distractor: It correctly identifies the first two steps of the causal chain but misinterprets the final action. The concluding shrug is a self-effacing gesture to manage vulnerability, not a 'confident display of self-assurance'.\n- Option E is a text-based distractor: This is too general and fails to capture the specific emotional arc of the video, particularly the crucial link between self-disclosure and emotional regulation.\n- Option F is a distractor with reversed temporal order: It incorrectly places the final gesture at the beginning of the causal chain."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 12.3s, a region was detected in the video (x=0.428, y=0.156, w=0.111, h=0.216, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A brief tightening around the mouth and nose area."
+        },
+        {
+          "id": "B",
+          "text": "Eyebrows being raised and drawn together for emphasis."
+        },
+        {
+          "id": "C",
+          "text": "The beginning of a wide and relaxed final smile."
+        },
+        {
+          "id": "D",
+          "text": "Sustained and direct eye contact with the camera."
+        },
+        {
+          "id": "E",
+          "text": "A self-referential and more intimate expression."
+        },
+        {
+          "id": "F",
+          "text": "A slight and subtle tilt of the head to one side."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. The provided coordinates at 12.3s pinpoint the person's mouth and nose region. The observation log for this time frame [11.5s-15.1s] explicitly states: brief tightening of the muscles around her mouth and nose as she mentions her 'sweet tooth' and 'unhealthy side'. This option is the most accurate description of the action within that specific bounding box.\n\n- Option B is a video-based distractor: This describes the eyebrow action from the beginning of the video (around 0.0s), which is in a different location (upper face) and at a different time.\n- Option C is a near-miss distractor: The person does smile at the end of this sequence (around 15.1s), but the action at 12.3s is the preceding tension, not the smile itself.\n- Option D is a video-based distractor: This describes her eye behavior, which is located above the specified bounding box.\n- Option E is a video-based distractor: This describes her overall facial expression around 9.0s, which is at a different time.\n- Option F is a video-based distractor: The head tilt occurs around 9.0s, not at 12.3s, and involves the entire head, not just the localized mouth region."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator10",
+      "version": 2,
+      "clues_total": 36,
+      "clues_correct": 29,
+      "clues_wrong_corrected": 4,
+      "clues_missing_skipped": 3,
+      "clues_bonus": 0
+    }
+  }
+}

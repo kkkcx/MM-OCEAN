@@ -1,0 +1,390 @@
+{
+  "video_id": "SYlV95nPTPs.003.mp4",
+  "video_path": "SYlV95nPTPs.003.mp4",
+  "transcription": "I've had some issues in my life where everything was assumed to be okay, because there was no communication to point out that things weren't as good as they were, so whether it's a relationship, your job, friends, co-workers, whatever, best thing I can tell you is-,",
+  "original_scores": {
+    "extraversion": 0.2897196261682243,
+    "agreeableness": 0.6813186813186812,
+    "conscientiousness": 0.6699029126213591,
+    "neuroticism": 0.53125,
+    "openness": 0.3555555555555556
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 12.87,
+      "description": "Subject maintains a steady gaze toward the camera. His eyebrows are slightly raised, causing horizontal wrinkles on his forehead. His expression is largely neutral as he speaks, with mouth movements corresponding to his words.",
+      "bboxes": [
+        {
+          "frame_time": 3.041255,
+          "x": 0.3966049382716049,
+          "y": 0.4707361647785119,
+          "w": 0.21450617283950618,
+          "h": 0.10699588477366255,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 3.681562,
+          "x": 0.41358024691358025,
+          "y": 0.4076360276043006,
+          "w": 0.18364197530864199,
+          "h": 0.14266117969821673,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 3.681562,
+          "x": 0.41203703703703703,
+          "y": 0.4433013225288548,
+          "w": 0.18981481481481483,
+          "h": 0.3401920438957476,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 3.681562,
+          "x": 0.4444444444444444,
+          "y": 0.6710105132010085,
+          "w": 0.11265432098765432,
+          "h": 0.0823045267489712,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 12.87,
+      "end_time": 15.11,
+      "description": "As he speaks, his eyebrows raise higher and his eyes widen slightly, particularly on the phrase \"best thing\".",
+      "bboxes": [
+        {
+          "frame_time": 12.87,
+          "x": 0.404320987654321,
+          "y": 0.478966617453409,
+          "w": 0.2021604938271605,
+          "h": 0.06584362139917696,
+          "note": "human-annotated",
+          "region": "unknown"
+        },
+        {
+          "frame_time": 13.302712,
+          "x": 0.4074074074074074,
+          "y": 0.4762231332284433,
+          "w": 0.18518518518518517,
+          "h": 0.07681755829903979,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 14.152293,
+          "x": 0.41512345679012347,
+          "y": 0.49542752280320324,
+          "w": 0.18055555555555555,
+          "h": 0.10973936899862825,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 12.5,
+      "description": "The subject is sitting in an office chair, facing forward. His head moves with slight nods and turns that are synchronized with his speech. His hands are out of the frame.",
+      "bboxes": [
+        {
+          "frame_time": 1.732702,
+          "x": 0.37962962962962965,
+          "y": 0.25674439523118675,
+          "w": 0.26851851851851855,
+          "h": 0.6886145404663924,
+          "note": "human-annotated",
+          "region": "unknown"
+        },
+        {
+          "frame_time": 1.423537,
+          "x": 0.3765432098765432,
+          "y": 0.273205300580981,
+          "w": 0.23765432098765432,
+          "h": 0.5761316872427984,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 12.5,
+      "end_time": 15.11,
+      "description": "He raises both hands into the frame to shoulder height, with palms facing inward, in an illustrative gesture.",
+      "bboxes": [
+        {
+          "frame_time": 13.800326,
+          "x": 0.19135802469135801,
+          "y": 0.8054412402243281,
+          "w": 0.5895061728395061,
+          "h": 0.18655692729766804,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 13.800326,
+          "x": 0.2361111111111111,
+          "y": 0.7258801977003225,
+          "w": 0.5524691358024691,
+          "h": 0.22770919067215364,
+          "note": "pose human-annotated",
+          "region": "shoulders"
+        },
+        {
+          "frame_time": 13.800326,
+          "x": 0.2021604938271605,
+          "y": 0.8273891140240537,
+          "w": 0.5972222222222222,
+          "h": 0.17261088597594632,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 10.33,
+      "description": "The subject speaks at a moderate pace with a relatively stable pitch and volume. There is a slight falling intonation at the end of clauses, such as on \"okay\" and \"they were.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 10.33,
+      "end_time": 15.11,
+      "description": "His pace remains moderate, but he places slightly more vocal stress on the words \"relationship,\" \"job,\" \"friends,\" \"co-workers,\" and particularly on \"best thing.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.11,
+      "description": "The subject is a bald male with fair skin. He is wearing a gray crew-neck t-shirt. He is in an indoor room, likely a home office, with a large wooden bookshelf filled with media cases behind him. To the right is a gray filing cabinet, and on top of the bookshelf are various decorative objects. The lighting is bright and even.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Low",
+      "score": 0.29,
+      "rationale": "The subject's Low Extraversion score is supported by his reserved demeanor. His vocal delivery is at a moderate, stable pace without the high energy or variability typical of extraverts. His facial expression is noted as 'generally neutral,' and his gaze is consistently directed to the side rather than engagingly toward the camera. His use of gestures is minimal and functional, appearing only at the end to illustrate a point, rather than being a constant and expressive part of his communication, all of which indicates an introverted disposition.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "High",
+      "score": 0.68,
+      "rationale": "The High Agreeableness rating is strongly evidenced by the prosocial content of his speech. He is sharing a lesson from his own 'issues' to offer helpful advice about the importance of communication in relationships, jobs, and friendships. This act of sharing for the benefit of others is a hallmark of agreeableness. His earnest expression, with slightly raised eyebrows, and his calm, stable vocal tone further project a sincere and cooperative intention.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "High",
+      "score": 0.67,
+      "rationale": "The subject's High Conscientiousness is reflected in his structured and purposeful communication. He presents a clear, logical argument, starting with a premise from his experience and building toward a specific piece of advice ('best thing I can tell you'). This goal-oriented style is characteristic of a conscientious individual. Furthermore, the background, which appears to be an organized home office with a large, neat bookshelf, suggests a preference for order and diligence.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Medium",
+      "score": 0.53,
+      "rationale": "The subject's Medium Neuroticism is indicated by a blend of subtle tension and controlled composure. The persistent, slight raising of his eyebrows and resulting forehead wrinkles suggest a baseline level of concern or worry as he discusses past 'issues.' However, this is balanced by a largely neutral expression and a stable vocal tone, showing that he is regulating his emotional response rather than displaying overt anxiety. This combination is typical of an individual in the mid-range of the neuroticism scale.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "Low",
+      "score": 0.36,
+      "rationale": "The Low Openness score is consistent with the subject's highly practical and concrete communication style. He focuses on giving straightforward, conventional advice rooted in direct personal experience, rather than exploring abstract ideas or theoretical concepts. His message is pragmatic and solution-oriented. This focus on the tangible and the familiar, combined with a conventional appearance and setting, points to a lower level of openness to experience.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression occur that is most relevant to their sincere and purposeful communication style?",
+      "options": [
+        {
+          "id": "A",
+          "text": "0.5s - 1.9s"
+        },
+        {
+          "id": "B",
+          "text": "3.0s - 4.4s"
+        },
+        {
+          "id": "C",
+          "text": "6.2s - 7.6s"
+        },
+        {
+          "id": "D",
+          "text": "13.1s - 14.5s"
+        },
+        {
+          "id": "E",
+          "text": "9.0s - 10.4s"
+        },
+        {
+          "id": "F",
+          "text": "11.5s - 12.9s"
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "The correct answer is D. The observation data states that from 12.9s onwards, his eyebrows raise higher and his eyes widen, particularly as he says the phrase 'best thing'. This interval captures the peak of that emphatic expression, which underscores his sincerity (Agreeableness) and purpose (Conscientiousness).\n- Options A and C are video-based distractors. These are intervals where his expression is relatively stable and neutral, lacking the significant change mentioned in the question.\n- Option B is a near-miss distractor. During this time, his eyebrows are slightly raised, but the change is much less pronounced than the one that occurs later to add emphasis.\n- Option E is a video-based distractor. This interval marks the transition between his narrative and his concluding advice, but the key facial change happens after this point.\n- Option F is a near-miss distractor. This interval is immediately before the most notable expression change, making it almost correct but missing the peak action."
+    },
+    {
+      "category": "Temporal-Causal Reasoning",
+      "question": "Consider the sequence of behaviors observed across the video. Which of the following best describes the causal chain linking the person's actions at different moments?",
+      "options": [
+        {
+          "id": "A",
+          "text": "An emotional display prompts self-correction into a neutral state, ending with a subdued summary of his main point."
+        },
+        {
+          "id": "B",
+          "text": "A period of avoidance, shown by gaze, leads to compensatory vocal emphasis, ending in a gesture of uncertainty."
+        },
+        {
+          "id": "C",
+          "text": "A hesitant gesture leads to a phase of cognitive processing, which is then followed by emotional regulation."
+        },
+        {
+          "id": "D",
+          "text": "Reflective disclosure establishes a baseline, which transitions into an emphatic display to underscore a conclusion."
+        },
+        {
+          "id": "E",
+          "text": "A concluding gesture triggers a reflective state, which is then followed by a period of neutral vocal delivery."
+        },
+        {
+          "id": "F",
+          "text": "Vocal emphasis on a topic prompts discomfort, which is resolved by a shift to a more neutral physical posture."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "The correct answer is D. This option correctly maps the abstract sequence to the video's events: he first talks reflectively about his past (0s-12s), establishing a calm and credible baseline. This then transitions into a more emphatic non-verbal display (raised hands, wider eyes from 12.5s-15.1s) to add weight to his final piece of advice.\n- Option A is a video-based distractor with an inverted temporal order. The neutral state comes first, and the emotional/emphatic display comes at the end, not the beginning.\n- Option B is a near-miss distractor. It correctly identifies the averted gaze and vocal emphasis but incorrectly labels the concluding gesture as one of 'uncertainty'; it is clearly emphatic and illustrative.\n- Option C is a text-based distractor with an inverted temporal order. The gesture comes at the end, not the beginning, and it is not hesitant.\n- Option E is a video-based distractor with incorrect causality and temporal order. The gesture is a result of the reflection, not the trigger for it.\n- Option F is a text-based distractor. There is no visual evidence that vocal emphasis prompts discomfort; instead, the emphasis and gestures are congruent."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 13.8s, a region was detected in the video (x=0.236, y=0.726, w=0.552, h=0.228, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The subject's eyes maintaining a steady and constant gaze toward his left side."
+        },
+        {
+          "id": "B",
+          "text": "Eyebrows being raised very slightly, which is causing visible forehead wrinkles."
+        },
+        {
+          "id": "C",
+          "text": "Hands are making a subtle gesture that appears to be pushing something away."
+        },
+        {
+          "id": "D",
+          "text": "The person's shoulders and arms rising to chest level for gestural emphasis."
+        },
+        {
+          "id": "E",
+          "text": "The facial expression remaining mostly neutral and generally impassive overall."
+        },
+        {
+          "id": "F",
+          "text": "The mouth moving in a way that corresponds directly with the audible speech."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "The correct answer is D. The provided coordinates (y=0.726, large width) cover the shoulder and upper chest area of the subject. At 13.8s, the observation log explicitly states that his hands and shoulders rise to this height to make an illustrative gesture, which is the most prominent action in this specific region at this time.\n- Options A, B, E, and F are all video-based distractors. These actions are happening simultaneously, but they are located in different spatial regions (eyes, eyebrows, face, mouth) outside the specified bounding box.\n- Option C is a near-miss distractor. It correctly identifies that the hands are involved in a gesture within this general area, but it misinterprets the nature of the gesture. It is an illustrative or emphatic gesture, not one of dismissal or 'pushing away'."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "The person exhibits a subtle but persistent non-verbal cue of underlying concern while recounting past experiences. Which option correctly identifies the timing and location of this specific cue?",
+      "options": [
+        {
+          "id": "A",
+          "text": "At 13.8s, in region (x=0.202, y=0.827, w=0.597, h=0.173)"
+        },
+        {
+          "id": "B",
+          "text": "At 3.7s, in region (x=0.444, y=0.671, w=0.113, h=0.082)"
+        },
+        {
+          "id": "C",
+          "text": "At 3.7s, in region (x=0.414, y=0.408, w=0.184, h=0.143)"
+        },
+        {
+          "id": "D",
+          "text": "At 1.7s, in region (x=0.380, y=0.257, w=0.269, h=0.689)"
+        },
+        {
+          "id": "E",
+          "text": "At 14.2s, in region (x=0.414, y=0.408, w=0.184, h=0.143)"
+        },
+        {
+          "id": "F",
+          "text": "At 3.0s, in region (x=0.397, y=0.471, w=0.215, h=0.107)"
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. The cue for 'underlying concern' is the slight but persistent raising of the eyebrows, as noted in the analysis for Medium Neuroticism. The observation log specifies this occurs throughout the first 12.9s, with a specific bounding box provided at 3.7s for the eyebrows (x=0.414, y=0.408, w=0.184, h=0.143).\n- Option A is a video-based distractor. This timestamp and bbox correspond to the hand gesture at the end of the video, not the eyebrow raise.\n- Option B is a near-miss distractor. It has the correct timestamp (3.7s) but provides the bounding box for the mouth, not the eyebrows.\n- Option D is a video-based distractor. This is the bounding box for the subject's entire upper body at the beginning of the clip.\n- Option E is a near-miss distractor. It has the correct bounding box for the eyebrows but the wrong timestamp. At 14.2s, the expression is one of emphasis, not subtle concern.\n- Option F is a video-based distractor. This timestamp and bbox correspond to the subject's eyes, which are adjacent to the eyebrows but not the correct location for the specified cue."
+    },
+    {
+      "category": "Counterfactual Reasoning",
+      "question": "If the person had NOT exhibited the behavior observed around 0.0s - 10.3s, which of the following personality assessments would be MOST affected?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The Agreeableness score would likely decrease, as his prosocial intent is most clearly demonstrated in this section of the video."
+        },
+        {
+          "id": "B",
+          "text": "The Extraversion rating would increase, because the averted gaze in this segment is a major indicator for his introversion."
+        },
+        {
+          "id": "C",
+          "text": "The Conscientiousness score would be lower, since the logical structure of his argument is established during this time."
+        },
+        {
+          "id": "D",
+          "text": "The Neuroticism assessment would be less certain, as this segment provides the key evidence for his emotional regulation."
+        },
+        {
+          "id": "E",
+          "text": "The Openness assessment would probably increase, given this part contains the most concrete evidence for his low rating."
+        },
+        {
+          "id": "F",
+          "text": "The Neuroticism score would be higher, because the observed calmness in this segment counteracts other anxious cues."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "The correct answer is D. This segment, where he discusses past 'issues' with a calm demeanor but subtle signs of concern (raised eyebrows), is the primary evidence for his Medium Neuroticism score. It shows a balance of tension and control. Without it, there would be little basis to assess his emotional stability, making the score uncertain.\n- Option A is a text-based distractor. While this segment introduces the helpful story, the most direct evidence for prosocial intent (High Agreeableness) is the concluding advice from 10.3s onwards.\n- Option B is a video-based distractor. The averted gaze (Low Extraversion) is consistent throughout the entire video, so removing this segment would weaken the evidence but not as critically as for Neuroticism, which relies heavily on the content discussed here.\n- Option C is a text-based distractor. The logical structure (High Conscientiousness) is evident throughout his entire monologue, not just in this opening part.\n- Option E is a text-based distractor. His practical style (Low Openness) is also demonstrated in the concrete advice he gives at the end, so the assessment would still have strong support.\n- Option F is a near-miss distractor. It correctly identifies Neuroticism as the affected trait but gets the direction wrong. Removing this evidence of *control* would not make him seem more anxious; it would simply remove the main data point for the assessment altogether."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator08",
+      "version": 1,
+      "clues_total": 16,
+      "clues_correct": 13,
+      "clues_wrong_corrected": 2,
+      "clues_missing_skipped": 1,
+      "clues_bonus": 0
+    }
+  }
+}

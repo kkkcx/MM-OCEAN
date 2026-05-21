@@ -1,0 +1,557 @@
+{
+  "video_id": "sf29orxf4X0.005.mp4",
+  "video_path": "sf29orxf4X0.005.mp4",
+  "transcription": "Her name is Ginny. Most of my friends are online, on Facebook and on YouTube. I find life easier without all that drama. I have sisters, I have cousins--",
+  "original_scores": {
+    "extraversion": 0.36448598130841126,
+    "agreeableness": 0.3626373626373627,
+    "conscientiousness": 0.42718446601941745,
+    "neuroticism": 0.29166666666666663,
+    "openness": 0.3111111111111111
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 2.45,
+      "description": "The subject maintains direct eye contact with the camera, with a neutral expression as she speaks. Her mouth moves naturally with her words.",
+      "bboxes": [
+        {
+          "frame_time": 2.008306,
+          "x": 0.4415296052631579,
+          "y": 0.39035087384675676,
+          "w": 0.1998355263157895,
+          "h": 0.12894736842105264,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 2.008306,
+          "x": 0.4208059210526316,
+          "y": 0.23771929489938837,
+          "w": 0.23240131578947368,
+          "h": 0.5684210526315789,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 2.008306,
+          "x": 0.47705592105263156,
+          "y": 0.5956140317414936,
+          "w": 0.12434210526315789,
+          "h": 0.14736842105263157,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 2.45,
+      "end_time": 4.22,
+      "description": "The corners of her mouth lift into a very subtle smile. Her eyes narrow slightly, and she blinks.",
+      "bboxes": [
+        {
+          "frame_time": 3.827425,
+          "x": 0.4296875,
+          "y": 0.616666663320441,
+          "w": 0.1287828947368421,
+          "h": 0.12631578947368421,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 3.827425,
+          "x": 0.4060032894736842,
+          "y": 0.4008771896362305,
+          "w": 0.2042763157894737,
+          "h": 0.14473684210526316,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 4.22,
+      "end_time": 7.42,
+      "description": "Her expression returns to a neutral, conversational state. Her gaze then shifts up and to her right.",
+      "bboxes": [
+        {
+          "frame_time": 4.978634,
+          "x": 0.42672697368421053,
+          "y": 0.2298245580572831,
+          "w": 0.21019736842105263,
+          "h": 0.5552631578947368,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 6.548826,
+          "x": 0.3837993421052632,
+          "y": 0.3956140317414936,
+          "w": 0.16726973684210528,
+          "h": 0.12105263157894737,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 6.548826,
+          "x": 0.38231907894736844,
+          "y": 0.41403508437307257,
+          "w": 0.15098684210526317,
+          "h": 0.09736842105263158,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 7.42,
+      "end_time": 8.78,
+      "description": "Her gaze remains directed up and to her right as she continues speaking, with her mouth slightly open.",
+      "bboxes": [
+        {
+          "frame_time": 8.762579,
+          "x": 0.45041118421052634,
+          "y": 0.3429824527941252,
+          "w": 0.21611842105263157,
+          "h": 0.15263157894736842,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 8.762579,
+          "x": 0.46373355263157895,
+          "y": 0.5850877159520199,
+          "w": 0.12434210526315789,
+          "h": 0.12105263157894737,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 8.78,
+      "end_time": 11.16,
+      "description": "Her gaze returns to the camera. Her eyebrows lower very slightly, and her lips purse slightly as she says the word \"drama.\"",
+      "bboxes": [
+        {
+          "frame_time": 9.619498,
+          "x": 0.44449013157894735,
+          "y": 0.3561403475309673,
+          "w": 0.21611842105263157,
+          "h": 0.14473684210526316,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 10.416137,
+          "x": 0.44449013157894735,
+          "y": 0.31140350542570416,
+          "w": 0.21019736842105263,
+          "h": 0.12894736842105264,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 10.798287,
+          "x": 0.45485197368421054,
+          "y": 0.6114035054257042,
+          "w": 0.11842105263157895,
+          "h": 0.10526315789473684,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 11.16,
+      "end_time": 15.3,
+      "description": "Her facial expression relaxes back to a neutral state as she maintains eye contact with the camera and continues speaking.",
+      "bboxes": [
+        {
+          "frame_time": 11.962523,
+          "x": 0.4178453947368421,
+          "y": 0.2324561370046515,
+          "w": 0.2338815789473684,
+          "h": 0.5868421052631579,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 11.962523,
+          "x": 0.43116776315789473,
+          "y": 0.41140350542570414,
+          "w": 0.20279605263157896,
+          "h": 0.11578947368421053,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 3.73,
+      "description": "The subject sits upright, facing the camera. Her head is mostly still, with very slight movements accompanying her speech.",
+      "bboxes": [
+        {
+          "frame_time": 0.921698,
+          "x": 0.33199013157894736,
+          "y": 0.17456140016254626,
+          "w": 0.399671052631579,
+          "h": 0.8236842105263158,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 3.230754,
+          "x": 0.34087171052631576,
+          "y": 0.10877192647833574,
+          "w": 0.35970394736842104,
+          "h": 0.7526315789473684,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 3.73,
+      "end_time": 5,
+      "description": "Her right hand, previously out of frame, rises and makes a small, dismissive wave gesture to her right before dropping out of frame again.",
+      "bboxes": [
+        {
+          "frame_time": 4.409543,
+          "x": 0.7908717105263159,
+          "y": 0.78508771595202,
+          "w": 0.12434210526315789,
+          "h": 0.2131578947368421,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 4.846131,
+          "x": 0.7893914473684212,
+          "y": 0.8614035054257042,
+          "w": 0.13914473684210527,
+          "h": 0.13421052631578947,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 5,
+      "end_time": 10.82,
+      "description": "Her head remains relatively still as she speaks.",
+      "bboxes": [
+        {
+          "frame_time": 6.723462,
+          "x": 0.36011513157894737,
+          "y": 0.12192982121517784,
+          "w": 0.3375,
+          "h": 0.7263157894736842,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 10.82,
+      "end_time": 11.75,
+      "description": "Her right hand briefly enters the frame from the bottom and makes another small wave gesture to her right.",
+      "bboxes": [
+        {
+          "frame_time": 11.467723,
+          "x": 0.8678453947368422,
+          "y": 0.8903508738467568,
+          "w": 0.09769736842105263,
+          "h": 0.10526315789473684,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 11.75,
+      "end_time": 14.28,
+      "description": "The subject's head is still, facing the camera.",
+      "bboxes": [
+        {
+          "frame_time": 13.026548,
+          "x": 0.38231907894736844,
+          "y": 0.08771929489938836,
+          "w": 0.3226973684210526,
+          "h": 0.7342105263157894,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 2.22,
+      "description": "The subject speaks at a moderate pace and with a level pitch.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 2.22,
+      "end_time": 4.1,
+      "description": "Her speech rate slightly increases. There is a light, breathy, almost chuckle-like quality in her voice on the word \"online.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 4.1,
+      "end_time": 8.36,
+      "description": "The subject's speech returns to a moderate pace and volume. Her pitch rises slightly on the phrase \"I find life.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 8.36,
+      "end_time": 11.23,
+      "description": "Her pace slows. The word \"drama\" is slightly elongated and spoken with a lower pitch.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 11.23,
+      "end_time": 15.3,
+      "description": "Speech continues at a steady, moderate pace and volume.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.3,
+      "description": "The subject is a woman with brown skin and long, dark, curly hair. She is wearing makeup, a large jeweled statement necklace, and a light green/turquoise top with a black dot pattern. The setting is an indoor bedroom with warm, soft lighting. In the background, a dark wood bed headboard is visible, along with pillows, including a pink heart-shaped one. To the left of the frame, there is a wall with a small black shelf and a decorative wire mannequin. A sheer curtain hangs on the far left.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Low",
+      "score": 0.36,
+      "rationale": "The subject's score indicates Low Extraversion. This is strongly supported by her verbal statement, 'Most of my friends are online... I find life easier without all that drama,' which reveals a preference for more controlled, less direct social engagement and an avoidance of complex in-person dynamics. Her non-verbal cues are also consistent with introversion; her posture is contained, head movements are minimal, and hand gestures are small and brief rather than expansive. While she maintains eye contact, her overall energy level is moderate and calm, lacking the vocal projection and animated physicality typical of high extraversion.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Low",
+      "score": 0.36,
+      "rationale": "The subject's Low Agreeableness is primarily evidenced by her cynical stance on social interactions. The statement 'I find life easier without all that drama' suggests a guarded and somewhat skeptical view of others. This is non-verbally reinforced when she says the word 'drama'; her eyebrows lower and her lips tighten (8.8s-11.2s), expressing a clear, controlled disdain. This emotional expression signals a lack of concern for maintaining perfect social harmony and a more critical, self-protective approach to relationships, which are hallmarks of lower agreeableness.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Medium",
+      "score": 0.43,
+      "rationale": "The subject scores in the Medium range for Conscientiousness. Evidence for conscientiousness is seen in her deliberate self-presentation; she is wearing makeup and a large necklace, indicating planning and attention to detail before recording. Her speech is generally structured and delivered at a moderate pace. However, her speech becoming slower and 'somewhat hesitant' towards the end (11.2s-15.3s) suggests a degree of spontaneity or lack of complete rehearsal, which tempers the evidence for high conscientiousness. This blend of preparation and moments of unstructured delivery aligns well with a Medium score.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Low",
+      "score": 0.29,
+      "rationale": "The subject exhibits Low Neuroticism, indicating emotional stability. Throughout the video, she maintains a calm and composed demeanor, sitting upright with a neutral facial expression for significant portions of the time. Her vocal tone is steady and moderate, without signs of tension, quavering, or anxiety. Even when discussing the negative concept of 'drama,' her response is a controlled expression of dislike rather than anxious reactivity. The overall lack of nervous cues (e.g., fidgeting, excessive blinking, vocal strain) suggests she is comfortable and self-assured in the recording situation.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "Low",
+      "score": 0.31,
+      "rationale": "The subject's Low Openness is suggested by her preference for convention and simplicity. Her statement about finding life 'easier' by avoiding 'drama' and keeping friends 'online' indicates a desire for predictable, controlled experiences rather than novel or complex ones. Her communication style is direct and concrete, lacking abstract ideas or imaginative language. Furthermore, her personal appearance and the bedroom background are conventional and do not suggest a strong interest in aesthetic novelty or unconventional self-expression. These factors combined point to a more practical and traditional mindset consistent with lower openness.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During 8.8s - 11.2s, the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Low Extraversion based on her social hesitation"
+        },
+        {
+          "id": "B",
+          "text": "High Agreeableness due to her controlled response"
+        },
+        {
+          "id": "C",
+          "text": "Medium Conscientiousness due to her articulation"
+        },
+        {
+          "id": "D",
+          "text": "Low Neuroticism because she remains mostly calm"
+        },
+        {
+          "id": "E",
+          "text": "Low Agreeableness based on her cynical expression"
+        },
+        {
+          "id": "F",
+          "text": "High Openness because of her unique perspective"
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. During this interval, the subject says 'drama' with lowered eyebrows and tightened lips, which the analysis identifies as a clear non-verbal cue for 'controlled disdain' and a 'skeptical view of others,' strongly supporting Low Agreeableness.\n- Option A is a video-based distractor. Her Low Extraversion is better supported by her verbal content about preferring online friends (earlier in the video), not this specific expression.\n- Option B is a near-miss distractor. It correctly identifies the behavior as controlled but makes the opposite conclusion about the trait direction; this cynical expression is a sign of Low, not High, Agreeableness.\n- Option C is a video-based distractor. Her Medium Conscientiousness is inferred from her overall prepared appearance and structured speech, not this momentary emotional expression.\n- Option D is a near-miss distractor. While her overall demeanor supports Low Neuroticism, this specific micro-expression is more directly indicative of her social attitude (Agreeableness) than her general emotional stability (Neuroticism).\n- Option F is a text-based distractor. This statement and expression suggest a desire to avoid complexity, which is more aligned with Low Openness, making this option contradictory to the evidence."
+    },
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their Agreeableness level?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[2.5s - 4.2s]"
+        },
+        {
+          "id": "B",
+          "text": "[0.0s - 2.0s]"
+        },
+        {
+          "id": "C",
+          "text": "[6.0s - 7.5s]"
+        },
+        {
+          "id": "D",
+          "text": "[11.8s - 13.5s]"
+        },
+        {
+          "id": "E",
+          "text": "[8.8s - 11.2s]"
+        },
+        {
+          "id": "F",
+          "text": "[4.5s - 5.9s]"
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. The interval [8.8s - 11.2s] is when the subject says the word 'drama' and exhibits lowered eyebrows and tightened lips. The personality analysis explicitly cites this moment as the primary non-verbal evidence of 'controlled disdain,' which is the core indicator for her Low Agreeableness score.\n- Option A is a video-based distractor. This interval contains a subtle smile, which is an expression but is less central to the Agreeableness assessment than the disdainful look.\n- Option B is a video-based distractor. This interval shows a neutral, baseline expression and does not contain a notable change relevant to Agreeableness.\n- Option C is a video-based distractor. During this time, the subject's gaze shifts down and to the right, which is a behavioral cue but not the key micro-expression tied to her Agreeableness score.\n- Option D is a video-based distractor. In this period, her expression is relaxing back to neutral after having made her point, which is the resolution of the key expression, not the expression itself.\n- Option F is a video-based distractor. This interval covers the period where her first hand gesture occurs and then disappears from the frame, which is not a facial expression."
+    },
+    {
+      "category": "Mixed Emotion Discrimination",
+      "question": "During 8.8s - 11.2s, the person's emotional state is best characterized as which of the following? Consider both verbal and non-verbal cues.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Weary resignation tempered by a hint of deep sadness"
+        },
+        {
+          "id": "B",
+          "text": "Anxious frustration mixed with a desire to self-correct"
+        },
+        {
+          "id": "C",
+          "text": "Passive aggression combined with a sense of superiority"
+        },
+        {
+          "id": "D",
+          "text": "Confused disappointment mixed with a need for approval"
+        },
+        {
+          "id": "E",
+          "text": "Cynical disapproval mixed with composed self-restraint"
+        },
+        {
+          "id": "F",
+          "text": "Mild irritation tempered by an underlying feeling of fear"
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. In this interval, she says 'drama' with tightened lips and lowered brows. This combination reflects a negative judgment ('cynical disapproval'). However, the expression is subtle and her overall demeanor remains calm, indicating that the feeling is managed and not overtly expressed ('composed self-restraint').\n- Option A is a near-miss distractor. 'Weary resignation' is plausible, but 'deep sadness' is not supported by the cues; her expression is more disdainful than sad.\n- Option B is a text-based distractor. There are no signs of anxiety (like fidgeting or a shaky voice) or a desire to correct herself; her statement seems deliberate.\n- Option C is a near-miss distractor. While one could interpret this as 'passive aggression,' the primary emotion displayed is more accurately described as disapproval or disdain. 'Superiority' is a plausible but less directly supported interpretation.\n- Option D is a text-based distractor. Her expression shows clarity and judgment, not confusion, and her tone does not suggest a need for approval.\n- Option F is a text-based distractor. While 'mild irritation' is in the right family of emotions, there are absolutely no cues to suggest any underlying fear."
+    },
+    {
+      "category": "Temporal-Causal Reasoning",
+      "question": "Consider the sequence of behaviors observed across the video. Which of the following best describes the causal chain linking the person's actions at different moments?",
+      "options": [
+        {
+          "id": "A",
+          "text": "An initial display of social anxiety causes a defensive statement, which is then reinforced by a self-regulatory gesture and a return to neutral composure at the end."
+        },
+        {
+          "id": "B",
+          "text": "A justificatory statement about social life prompts a display of authentic negative affect, which then causes a hesitant speech pattern and a concluding hand gesture."
+        },
+        {
+          "id": "C",
+          "text": "An involuntary expression of disdain causes a self-disclosure about online friends, which is then regulated by a subtle smile and a subsequent shift in vocal tone."
+        },
+        {
+          "id": "D",
+          "text": "A period of calm self-presentation is interrupted by a memory, causing a brief emotional leak that is then immediately suppressed by a practiced hand movement."
+        },
+        {
+          "id": "E",
+          "text": "A self-disclosure prompts a brief regulatory smile, leading to a justification that triggers an authentic emotional leak, followed by a shift to a more hesitant pace."
+        },
+        {
+          "id": "F",
+          "text": "A self-disclosure about her social preferences is followed by a justificatory hand gesture, which leads to an expression of contempt and a final neutral state."
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. This option accurately maps the sequence: 1) She makes a self-disclosure ('Most of my friends are online'), 2) this is followed by a brief, self-conscious smile (regulatory behavior at 2.5s-4.2s), 3) she offers a justification ('I find life easier without all that drama'), 4) this justification triggers an authentic micro-expression of disdain (emotional leak at 8.8s-11.2s), 5) which is finally followed by a slower, more hesitant vocal delivery (11.2s-15.3s).\n- Option A is a text-based distractor. There is no clear evidence of 'social anxiety'; her demeanor is composed.\n- Option B is a near-miss distractor. This chain is almost correct but reverses the last two events; the emotional leak occurs *before* the shift to a hesitant speech pattern, not the other way around.\n- Option C is a video-based distractor with reversed temporal order. The self-disclosure about friends happens at the beginning, long before the expression of disdain.\n- Option D is a text-based distractor. There is no evidence that a 'memory' interrupts her; her speech flows logically. The hand movement is not used to suppress emotion.\n- Option F is a video-based distractor with incorrect causality. The hand gesture at 11.5s happens *after* the expression of disdain, not before it, and is not justificatory in nature."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "At which point in the video does the subject make a brief, illustrative hand gesture while discussing her family members?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[8.8s] x=0.45, y=0.34, w=0.22, h=0.15"
+        },
+        {
+          "id": "B",
+          "text": "[4.8s] x=0.79, y=0.86, w=0.14, h=0.13"
+        },
+        {
+          "id": "C",
+          "text": "[6.5s] x=0.38, y=0.40, w=0.17, h=0.12"
+        },
+        {
+          "id": "D",
+          "text": "[0.9s] x=0.33, y=0.17, w=0.40, h=0.82"
+        },
+        {
+          "id": "E",
+          "text": "[11.5s] x=0.87, y=0.89, w=0.10, h=0.11"
+        },
+        {
+          "id": "F",
+          "text": "[2.0s] x=0.48, y=0.60, w=0.12, h=0.15"
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. At 11.5s, while saying 'I have sisters, I have cousins--,' the subject's left hand enters the frame from the bottom left and makes a small, brief gesture. The provided coordinates accurately capture this hand motion at that specific time.\n- Option A points to the subject's face (eyes/mouth region) at 8.8s when she is preparing to say the word 'drama.'\n- Option B points to the location where her first hand gesture (from around 4.4s) disappears from the frame.\n- Option C points to the subject's eyes at 6.5s as she is shifting her gaze down and to the right.\n- Option D provides a wide bounding box for the subject's head at the very beginning of the video.\n- Option F points to the subject's mouth region at 2.0s during her initial neutral, conversational state."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator19",
+      "version": 1,
+      "clues_total": 29,
+      "clues_correct": 22,
+      "clues_wrong_corrected": 6,
+      "clues_missing_skipped": 1,
+      "clues_bonus": 0
+    }
+  }
+}

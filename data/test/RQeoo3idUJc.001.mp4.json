@@ -1,0 +1,408 @@
+{
+  "video_id": "RQeoo3idUJc.001.mp4",
+  "video_path": "RQeoo3idUJc.001.mp4",
+  "transcription": "Cortana, as obviously we all know if you guys play Halo 4 that the AI, she's an AI and she's- I guess after seven years they deteriorate and it's crazy. What happened was she's gone crazy so pretty much it's not her, it's just herself going crazy.",
+  "original_scores": {
+    "extraversion": 0.33644859813084116,
+    "agreeableness": 0.4285714285714285,
+    "conscientiousness": 0.3203883495145631,
+    "neuroticism": 0.37499999999999994,
+    "openness": 0.5666666666666667
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 5.29,
+      "description": "The subject maintains eye contact with the camera. His eyebrows are in a neutral position, occasionally raising slightly in sync with his speech. His mouth moves naturally as he speaks.",
+      "bboxes": [
+        {
+          "frame_time": 4.300868,
+          "x": 0.4027777777777778,
+          "y": 0.19364425805697552,
+          "w": 0.24074074074074073,
+          "h": 0.1646090534979424,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 4.300868,
+          "x": 0.4074074074074074,
+          "y": 0.17169638425724987,
+          "w": 0.19444444444444445,
+          "h": 0.10699588477366255,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 4.300868,
+          "x": 0.47530864197530864,
+          "y": 0.3692272484547807,
+          "w": 0.11728395061728394,
+          "h": 0.10973936899862825,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 5.29,
+      "end_time": 9.11,
+      "description": "His eyebrows lower and draw together slightly, creating a mild expression of concentration or seriousness as he looks at the camera.",
+      "bboxes": [
+        {
+          "frame_time": 6.243593,
+          "x": 0.4074074074074074,
+          "y": 0.17718335270718127,
+          "w": 0.1882716049382716,
+          "h": 0.11522633744855967,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 6.243593,
+          "x": 0.4104938271604938,
+          "y": 0.15523547890745562,
+          "w": 0.2037037037037037,
+          "h": 0.4279835390946502,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 6.528643,
+          "x": 0.4027777777777778,
+          "y": 0.17718335270718127,
+          "w": 0.23148148148148148,
+          "h": 0.16186556927297668,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 9.11,
+      "end_time": 15.34,
+      "description": "The subject's eyebrows remain slightly lowered and drawn together in an expression of concentration. He maintains eye contact with the camera.",
+      "bboxes": [
+        {
+          "frame_time": 12.832899,
+          "x": 0.4845679012345679,
+          "y": 0.13328760510772997,
+          "w": 0.19135802469135801,
+          "h": 0.15089163237311384,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 12.832899,
+          "x": 0.5061728395061729,
+          "y": 0.1387745735576614,
+          "w": 0.17746913580246915,
+          "h": 0.4224965706447188,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 12.959112,
+          "x": 0.4845679012345679,
+          "y": 0.1387745735576614,
+          "w": 0.1882716049382716,
+          "h": 0.1700960219478738,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 0.72,
+      "description": "The subject's right hand is raised, with his index finger touching his right temple. His head is held steady, facing forward.",
+      "bboxes": [
+        {
+          "frame_time": 0.02322,
+          "x": 0.5570987654320988,
+          "y": 0.23754000565642683,
+          "w": 0.18209876543209877,
+          "h": 0.6090534979423868,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 0.441787,
+          "x": 0.5493827160493827,
+          "y": 0.20461819495683836,
+          "w": 0.2006172839506173,
+          "h": 0.5102880658436214,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 0.619366,
+          "x": 0.4506172839506173,
+          "y": 0.031778688783998844,
+          "w": 0.25462962962962965,
+          "h": 0.6666666666666666,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0.72,
+      "end_time": 1.28,
+      "description": "He lowers his right hand out of the frame.",
+      "bboxes": [
+        {
+          "frame_time": 1.227188,
+          "x": 0.5601851851851852,
+          "y": 0.28966620593077524,
+          "w": 0.26080246913580246,
+          "h": 0.7103337940692247,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 1.28,
+      "end_time": 15.34,
+      "description": "The subject remains relatively still, sitting upright and facing the camera. His head makes very slight movements as he speaks.",
+      "bboxes": [
+        {
+          "frame_time": 4.047235,
+          "x": 0.3441358024691358,
+          "y": 0.03726565723393026,
+          "w": 0.41203703703703703,
+          "h": 0.9627343427660697,
+          "note": "human-annotated",
+          "region": "unknown"
+        },
+        {
+          "frame_time": 5.740346,
+          "x": 0.375,
+          "y": 0.03452217300896455,
+          "w": 0.26080246913580246,
+          "h": 0.6776406035665294,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 6.55,
+      "description": "Speech is delivered at a moderate, conversational pace. The pitch is mostly even, with a slight hesitation at 4.20 seconds. The pitch falls at the end of the phrase \"they deteriorate\" and rises slightly on the word \"crazy.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 6.55,
+      "end_time": 9.88,
+      "description": "There is a long, silent pause lasting approximately 3.3 seconds.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 9.88,
+      "end_time": 15.34,
+      "description": "Speech resumes at a moderate pace and consistent volume. There is a slight stress placed on the word \"not.\" The sentence ends with a falling intonation.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.34,
+      "description": "The subject is a young, light-skinned male in what appears to be a bedroom. He is wearing a red beanie with a logo, a black zip-up hoodie over a blue shirt, and a pink and white wristband. Behind him, there is a dark red wall on the left and a window with vertical blinds on the right. A ceiling fan is visible overhead. The lighting is dim and appears to be coming from a source in front of him, such as a computer monitor.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Low",
+      "score": 0.34,
+      "rationale": "The subject's Low Extraversion is indicated by his subdued and controlled communication style. He speaks at a moderate, even-toned pace, lacking the vocal dynamism and energy typical of high extraversion. His physical movements are minimal, confined to slight swaying and minor head movements, which points to a lower level of social energy and assertiveness. While he maintains eye contact with the camera, the overall presentation feels more like a focused, internal monologue shared publicly rather than an enthusiastic performance designed to engage an audience.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Medium",
+      "score": 0.43,
+      "rationale": "The subject's Medium Agreeableness is reflected in his balanced and non-confrontational demeanor. His facial expressions are predominantly neutral, and his vocal tone is conversational and even, avoiding extremes of warmth or hostility. He is presenting information in a straightforward manner, without attempting to be overly pleasing or argumentative. This middle-of-the-road social presentation suggests a moderate level of concern for cooperation and social harmony, fitting for someone who is neither excessively accommodating nor inherently skeptical.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Low",
+      "score": 0.32,
+      "rationale": "The subject's Low Conscientiousness is suggested by the spontaneous and somewhat unstructured nature of his speech. The monologue appears unrehearsed, as evidenced by the self-correction ('I guess') and the slightly circular explanation ('it's not her, it's just herself going crazy'). This lack of a clear, linear structure points away from the careful planning and organization characteristic of high conscientiousness. The delivery feels more like an impromptu sharing of thoughts rather than a prepared statement, which aligns with a more flexible and less methodical approach.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Low",
+      "score": 0.37,
+      "rationale": "The subject's Low Neuroticism is clearly demonstrated by his calm and stable demeanor. His speech is delivered at a steady, moderate pace with an even tone and no signs of hesitation or vocal anxiety. His body language is relaxed and controlled, free from the fidgeting or tense posture often associated with emotional distress. Although his brow furrows slightly, this appears to be a sign of concentration on his topic rather than an expression of worry or negative emotion, indicating a high degree of emotional stability.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "Medium",
+      "score": 0.57,
+      "rationale": "The subject's Medium Openness is supported by his choice of topic—the abstract and imaginative concept of an AI's mental deterioration from a video game. This interest in complex, speculative ideas is a key indicator of this trait. His focused facial expression while explaining the concept shows intellectual engagement. However, his explanation remains a straightforward summary rather than a deep, creative, or philosophical exploration. This blend of interest in abstract ideas with a conventional delivery style places him squarely in the medium range for Openness.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their assessed level of Neuroticism?",
+      "options": [
+        {
+          "id": "A",
+          "text": "5.3s - 6.3s"
+        },
+        {
+          "id": "B",
+          "text": "0.0s - 1.0s"
+        },
+        {
+          "id": "C",
+          "text": "9.5s - 10.5s"
+        },
+        {
+          "id": "D",
+          "text": "3.5s - 4.5s"
+        },
+        {
+          "id": "E",
+          "text": "13.0s - 14.0s"
+        },
+        {
+          "id": "F",
+          "text": "8.1s - 9.1s"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. Around 5.3s, a distinct change occurs where the person's eyebrows lower and draw together, shifting from a neutral look to one of concentration. This focused expression, rather than one of anxiety or worry, is a key indicator of his Low Neuroticism (emotional stability).\n- Option B is a video-based distractor. This interval contains the hand gesture to the temple, which is a physical action, not a facial expression change.\n- Option C is a video-based distractor. This is when the person resumes speaking after a pause, but the focused facial expression has already been established and is being held, it's not the moment of change.\n- Option D is a text-based distractor. This interval is in the middle of his initial neutral speech, with no significant facial changes occurring.\n- Option E is a text-based distractor. During this time, the focused expression is stable; no notable change happens.\n- Option F is a near-miss distractor. The focused expression is present during this time, but the *change* from neutral to focused happened earlier. This tests the understanding of a dynamic shift versus a static state."
+    },
+    {
+      "category": "Mixed Emotion Discrimination",
+      "question": "During 5.3s - 9.1s, the person's emotional state is best characterized as which of the following? Consider both verbal and non-verbal cues.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Intellectual concentration mixed with a sense of reflective seriousness."
+        },
+        {
+          "id": "B",
+          "text": "Deep confusion tempered by an attempt to explain the difficult concept."
+        },
+        {
+          "id": "C",
+          "text": "Mild annoyance blended with the necessity of explaining a known topic."
+        },
+        {
+          "id": "D",
+          "text": "Narrative engagement mixed with the act of relaying a simple story plot."
+        },
+        {
+          "id": "E",
+          "text": "Subtle skepticism combined with a feeling of obligation to share content."
+        },
+        {
+          "id": "F",
+          "text": "Pensive recollection mixed with a subtle display of subdued personal grief."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. During this interval, the person's eyebrows lower and he pauses thoughtfully. This non-verbal cue, combined with the topic he is explaining, points to a state of focused thought and concentration, not a strong emotion. It's a serious, reflective moment about the topic.\n- Option B is a near-miss distractor. It correctly identifies the intellectual nature of the moment but misinterprets focus as 'confusion'. The person appears to understand the topic well.\n- Option C is a text-based distractor. There are no visual or auditory cues (like a sharp tone or tense mouth) to suggest any annoyance.\n- Option D is a video-based distractor. While he is engaged in a narrative, this option is too general and fails to capture the specific shift to a more serious, concentrated expression that defines this particular time segment.\n- Option E is a text-based distractor. His expression is one of focus, not skepticism. There is no evidence of doubt or disbelief in his demeanor.\n- Option F is a near-miss distractor. While 'pensive recollection' is plausible, there are absolutely no cues to suggest 'grief' or any personal sadness; the expression is purely cognitive."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 0.0s, a region was detected in the video (x=0.56, y=0.24, w=0.18, h=0.61, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The subject's left hand is being raised toward his temple area."
+        },
+        {
+          "id": "B",
+          "text": "The subject's right hand is being raised toward his temple area."
+        },
+        {
+          "id": "C",
+          "text": "The subject's eyebrows are lowered in a focused, firm expression."
+        },
+        {
+          "id": "D",
+          "text": "The subject maintains steady and direct eye contact with the camera."
+        },
+        {
+          "id": "E",
+          "text": "The subject's mouth is moving naturally while speaking to the camera."
+        },
+        {
+          "id": "F",
+          "text": "The subject's head and body are swaying slightly from side to side."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. The provided bounding box at 0.0s covers the person's left arm and hand as he raises it to touch his temple in an illustrative gesture.\n- Option B is a near-miss distractor. It correctly identifies the action and target location but specifies the wrong hand (right instead of left), a common observational error.\n- Option C is a video-based distractor. This describes an expression that occurs much later in the video (after 5.3s) and is located in the eyebrow region, not the area covered by the bbox.\n- Option D is a video-based distractor. The subject's eyes are in a different spatial location (higher up on the face) than the area specified by the bounding box.\n- Option E is a video-based distractor. The subject's mouth is in a different spatial location (lower on the face) than the area specified by the bounding box.\n- Option F is a video-based distractor. This describes the general posture and movement of the entire upper body, not the specific action contained within the relatively narrow bounding box."
+    },
+    {
+      "category": "Counterfactual Reasoning",
+      "question": "If the person had NOT exhibited the behavior observed around 9.9s - 15.3s, which of the following personality assessments would be MOST affected?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Conscientiousness would likely be assessed as higher, as the primary evidence for a spontaneous and unstructured communication style comes from that specific segment."
+        },
+        {
+          "id": "B",
+          "text": "Conscientiousness would be assessed as lower, because this segment is the only part where he demonstrates clear, methodical thinking about the presented subject."
+        },
+        {
+          "id": "C",
+          "text": "Extraversion would be rated higher, as his verbal pause just before this segment is the main indicator of his introversion, otherwise he would seem more social."
+        },
+        {
+          "id": "D",
+          "text": "Agreeableness would shift from Medium to Low, since his explanation in this section is the main behavioral cue for a cooperative and helpful social attitude."
+        },
+        {
+          "id": "E",
+          "text": "Openness would be rated lower, because the abstract nature of the core topic is only properly introduced during this specific verbal communication period."
+        },
+        {
+          "id": "F",
+          "text": "Neuroticism assessment would be less certain, as his calm delivery in this section is the strongest piece of evidence we have for his overall emotional stability."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. The speech during 9.9s - 15.3s is noted for its slightly circular, unrehearsed quality, which is the key evidence for the Low Conscientiousness rating. Without this specific behavior, his entire monologue would appear more structured and planned, likely leading to a higher assessment for this trait.\n- Option B is a near-miss distractor. It correctly identifies Conscientiousness as the affected trait but reverses the direction of the effect. The behavior shows a lack of structure, so removing it would increase, not decrease, the Conscientiousness score.\n- Option C is a video-based distractor. The evidence for Low Extraversion is his consistently subdued vocal tone and minimal physical energy throughout the entire video, not just one pause.\n- Option D is a text-based distractor. The assessment of Medium Agreeableness is based on his overall neutral and non-confrontational demeanor, not on the content of this specific explanation, which is not particularly cooperative or uncooperative.\n- Option E is a video-based distractor. The abstract topic (AI deterioration) is introduced at the very beginning of the video, so his Openness score is not dependent on this later segment.\n- Option F is a text-based distractor. His calm delivery is a consistent feature across the entire video; this section is not the 'strongest' or sole piece of evidence for his Low Neuroticism."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator08",
+      "version": 1,
+      "clues_total": 19,
+      "clues_correct": 14,
+      "clues_wrong_corrected": 5,
+      "clues_missing_skipped": 0,
+      "clues_bonus": 0
+    }
+  }
+}

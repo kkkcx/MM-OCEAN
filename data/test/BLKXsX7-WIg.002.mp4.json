@@ -1,0 +1,378 @@
+{
+  "video_id": "BLKXsX7-WIg.002.mp4",
+  "video_path": "BLKXsX7-WIg.002.mp4",
+  "transcription": "Very brand new. In my area, the bigger the Dollar Tree always has the frozen food section, and so I always look for Dollar Trees with the frozen food section, because I know they will have a better and more current supply of product.",
+  "original_scores": {
+    "extraversion": 0.2897196261682243,
+    "agreeableness": 0.4835164835164835,
+    "conscientiousness": 0.3883495145631068,
+    "neuroticism": 0.35416666666666663,
+    "openness": 0.3111111111111111
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 0.9,
+      "description": "The subject's eyes are closed at the start, opening slowly as she begins to speak. Her mouth is open.",
+      "bboxes": [
+        {
+          "frame_time": 0.152644,
+          "x": 0.2757401315789474,
+          "y": 0.37456140016254624,
+          "w": 0.2945723684210526,
+          "h": 0.16578947368421051,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 0.152644,
+          "x": 0.3349506578947368,
+          "y": 0.6403508738467568,
+          "w": 0.16726973684210528,
+          "h": 0.18157894736842106,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 0.9,
+      "end_time": 5.25,
+      "description": "The subject's eyes are open, looking toward the camera. Her eyebrows are slightly raised. Her expression is animated, with mouth movements corresponding to her speech.",
+      "bboxes": [
+        {
+          "frame_time": 0.9,
+          "x": 0.29054276315789473,
+          "y": 0.3429824527941252,
+          "w": 0.2738486842105263,
+          "h": 0.20789473684210527,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 2.841168,
+          "x": 0.2757401315789474,
+          "y": 0.31140350542570416,
+          "w": 0.26644736842105265,
+          "h": 0.12631578947368421,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 4.342413,
+          "x": 0.29942434210526314,
+          "y": 0.2561403475309673,
+          "w": 0.2856907894736842,
+          "h": 0.5289473684210526,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 4.985548,
+          "x": 0.35567434210526316,
+          "y": 0.6192982422678094,
+          "w": 0.15838815789473684,
+          "h": 0.14210526315789473,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 5.25,
+      "end_time": 7.1,
+      "description": "Her eyes widen significantly and her mouth opens wider, creating an expression of emphasis. The eyebrows raise further.",
+      "bboxes": [
+        {
+          "frame_time": 6.319469,
+          "x": 0.2772203947368421,
+          "y": 0.36929824226780944,
+          "w": 0.21167763157894737,
+          "h": 0.2026315789473684,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 7.1,
+      "end_time": 15.1,
+      "description": "Her expression returns to a more neutral but engaged state. Her eyes remain open, and she blinks naturally while looking at the camera.",
+      "bboxes": [
+        {
+          "frame_time": 10.532448,
+          "x": 0.33643092105263156,
+          "y": 0.32456140016254625,
+          "w": 0.23536184210526317,
+          "h": 0.4473684210526316,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 11.936774,
+          "x": 0.3053453947368421,
+          "y": 0.3298245580572831,
+          "w": 0.2575657894736842,
+          "h": 0.18947368421052632,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 15.1,
+      "description": "The subject is sitting upright in the driver's seat of a car, facing the camera. Her head moves in synchronization with her speech, with small nods for emphasis, particularly between 0:05 and 0:07.",
+      "bboxes": [
+        {
+          "frame_time": 12.608409,
+          "x": 0.5377467105263158,
+          "y": 0.19824561068886204,
+          "w": 0.23240131578947368,
+          "h": 0.6684210526315789,
+          "note": "human-annotated",
+          "region": "unknown"
+        },
+        {
+          "frame_time": 6.456848,
+          "x": 0.21208881578947367,
+          "y": 0.27456140016254627,
+          "w": 0.37450657894736844,
+          "h": 0.618421052631579,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 1.2,
+      "description": "Speech begins with a slightly breathy quality on the words \"Very brand new.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 1.2,
+      "end_time": 5.2,
+      "description": "Speech is delivered at a moderate, conversational pace and volume with even pitch.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 5.2,
+      "end_time": 7.1,
+      "description": "The phrase \"always has the frozen food section\" is stressed with a noticeable increase in volume and a more forceful, slightly raspy vocal quality.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 7.1,
+      "end_time": 10.5,
+      "description": "Volume and forcefulness return to a conversational level.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 10.5,
+      "end_time": 15.1,
+      "description": "The speech rate increases slightly. The word \"better\" is stressed with increased pitch and volume. The phrase ends with a falling intonation.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.1,
+      "description": "A woman with fair skin and long, wavy, purple-dyed hair is shown from the chest up. She is wearing a green short-sleeved shirt. The setting is inside a car at night. The car's light-colored interior and headrest are visible. Through the windows, the blurred lights and shapes of other vehicles in a parking lot can be seen. The lighting on the subject is direct and from the front.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Low",
+      "score": 0.29,
+      "rationale": "The subject's Extraversion is rated as Low. While she employs moments of vocal emphasis and lively expression, her overall demeanor is contained and her speech is delivered at a moderate, conversational pace. The context is a self-directed monologue in a private setting (a car), which does not require the social energy typical of high extraversion. The behavior reflects focused engagement with a topic rather than a broad, outward-facing sociability, which aligns with a more introverted profile.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Medium",
+      "score": 0.48,
+      "rationale": "The subject scores in the Medium range for Agreeableness. Her vocal tone is generally even and conversational, and her facial expressions are open and focused. She is sharing a practical tip, which can be seen as a mildly cooperative or helpful act. However, the interaction lacks strong cues of high agreeableness, such as overt warmth or a focus on interpersonal harmony. Similarly, there are no indicators of low agreeableness like skepticism or irritability. This neutral-to-pleasant presentation places her in the middle of the spectrum.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Low",
+      "score": 0.39,
+      "rationale": "The score indicates a Low level of Conscientiousness. Although the content of her speech describes a systematic, goal-oriented shopping strategy, the overall presentation is informal and conversational. The casual setting inside a car and the spontaneous-seeming nature of the monologue do not suggest meticulous planning or a high degree of orderliness. The absence of strong behavioral markers for diligence and deliberation supports a score on the lower end of the conscientiousness scale.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Low",
+      "score": 0.35,
+      "rationale": "The subject's Neuroticism is rated Low. She appears calm and emotionally stable throughout the clip. Her speech is steady, and she maintains a focused, neutral expression for the majority of the time, even after moments of vocal emphasis. There is a complete absence of common neurotic indicators such as vocal tension, anxious fidgeting, or worried expressions. This composed and controlled demeanor is characteristic of high emotional stability (low neuroticism).",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "Low",
+      "score": 0.31,
+      "rationale": "The subject's Openness is rated Low. The rationale is based primarily on the content of her speech, which is focused on a highly practical, concrete, and everyday topic: optimizing her shopping experience at a specific store. Her language is straightforward and concerned with tangible outcomes ('better and more current supply'). This focus on the practical and routine, rather than on abstract ideas, imagination, or novel concepts, is a strong indicator of a lower level of Openness.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During 10.5s - 15.1s, the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Low Openness, evidenced by the focus on a concrete and practical topic."
+        },
+        {
+          "id": "B",
+          "text": "High Conscientiousness, evidenced by describing a methodical strategy."
+        },
+        {
+          "id": "C",
+          "text": "Low Extraversion, suggested by the generally contained vocal delivery."
+        },
+        {
+          "id": "D",
+          "text": "Low Neuroticism, shown by the calm and emotionally stable demeanor."
+        },
+        {
+          "id": "E",
+          "text": "High Agreeableness, due to the helpful nature of sharing a useful tip."
+        },
+        {
+          "id": "F",
+          "text": "High Neuroticism, suggested by the slightly accelerated pace of speech."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. During this period, the person explains the practical outcome of her shopping strategy ('better and more current supply'). This focus on concrete, tangible results over abstract ideas is a classic indicator of Low Openness. \nOption B is a near-miss distractor. While describing a strategy might seem conscientious, the overall analysis points to Low Conscientiousness due to the informal setting and delivery; the content alone is not enough to indicate a high trait level. \nOption C is a video-based distractor. Her low extraversion is a correct overall assessment, but the primary evidence for it comes from her overall contained monologue style, not specifically the content discussed in this final segment. \nOption D is a video-based distractor. Her calm demeanor is present here, supporting Low Neuroticism, but the specific verbal content is much stronger and more direct evidence for Low Openness. \nOption E is a text-based distractor. The text about sharing a tip sounds agreeable, but her neutral and focused delivery in the video lacks the overt warmth that would indicate High Agreeableness. \nOption F is a text-based distractor. The transcript notes a slight speed-up, which could be misinterpreted as anxiety (High Neuroticism), but the video shows it is a form of concluding emphasis, not nervousness."
+    },
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their overall vocal emphasis?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[5.2s - 7.1s]"
+        },
+        {
+          "id": "B",
+          "text": "[0.9s - 5.2s]"
+        },
+        {
+          "id": "C",
+          "text": "[7.1s - 10.5s]"
+        },
+        {
+          "id": "D",
+          "text": "[0.0s - 0.9s]"
+        },
+        {
+          "id": "E",
+          "text": "[10.5s - 15.1s]"
+        },
+        {
+          "id": "F",
+          "text": "[8.5s - 9.8s]"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. This interval precisely captures the moment of peak emphasis, where the observation data notes that her eyes 'noticeably widen' and her vocal volume 'is significantly increased'. This is the most distinct and brief expressive change in the clip. \nOption B is a near-miss distractor. This period is the lead-up to the moment of emphasis, where her expression is animated but has not yet reached its peak change. \nOption C is a video-based distractor. This interval marks the period immediately *after* the peak emphasis, where her expression is returning to its baseline state. \nOption D is a video-based distractor. This is the very beginning of the video as she starts speaking, which is a state change but not the most notable one for emphasis. \nOption E is a video-based distractor. This is the end of her speech, where her pace changes slightly but without a corresponding distinct facial micro-expression. \nOption F is a video-based distractor. This is a segment within the neutral phase and contains no notable expressive event."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 6.3s, a region was detected in the video (x=0.277, y=0.369, w=0.212, h=0.203, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A distinct widening of the eyes that is used for a moment of emphasis."
+        },
+        {
+          "id": "B",
+          "text": "The subject is sitting upright and is facing directly toward the camera."
+        },
+        {
+          "id": "C",
+          "text": "The eyebrows are significantly raised in a look of mild, brief surprise."
+        },
+        {
+          "id": "D",
+          "text": "The gaze is shifting subtly toward the right side of the video frame."
+        },
+        {
+          "id": "E",
+          "text": "The expression has just returned to a more neutral and focused state."
+        },
+        {
+          "id": "F",
+          "text": "The mouth is open and moving in a way that is synchronized with speech."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. The provided coordinates at 6.3s perfectly frame the person's eyes during the peak of her vocal emphasis. The verified observation for this moment is 'Her eyes noticeably widen', which is precisely described by this option. \nOption B is a video-based distractor. It describes her posture, which is true for the whole video but is not what is happening within the small bounding box on her face. \nOption C is a text-based distractor based on negative evidence. The observation data notes her eyebrows are only 'slightly raised' earlier and there is no mention of them raising further here; 'significantly raised' is an exaggeration not supported by the video. \nOption D is a near-miss distractor. While the box is on the eyes and gaze is relevant, the most prominent and primary action in this specific moment is the widening of the eyelids, not a lateral shift in gaze. \nOption E is a video-based distractor. This describes the behavior that occurs *after* 7.1s, not at 6.3s. \nOption F is a video-based distractor. This describes the mouth region, but the bounding box is clearly located on the eyes."
+    },
+    {
+      "category": "Counterfactual Reasoning",
+      "question": "If the person had NOT exhibited the behavior observed around 5.2s - 7.1s, which of the following personality assessments would be MOST affected?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The assessment of Low Extraversion would be altered, as this provides the main counter-evidence to an otherwise consistently contained presentation."
+        },
+        {
+          "id": "B",
+          "text": "The assessment for Low Extraversion would become High Extraversion, as this behavior is the only indicator of a socially introverted communication style."
+        },
+        {
+          "id": "C",
+          "text": "The Low Neuroticism score would be less certain, as her calm recovery from this energetic moment is key evidence of overall emotional stability."
+        },
+        {
+          "id": "D",
+          "text": "The assessment for Low Openness would be weakened, since the emphatic delivery is crucial for understanding her novel and creative shopping approach."
+        },
+        {
+          "id": "E",
+          "text": "The Medium Agreeableness score would likely decrease, as the emphatic tone could be interpreted as a more assertive and less cooperative interaction."
+        },
+        {
+          "id": "F",
+          "text": "The Low Conscientiousness score would be higher, as this moment's emphasis shows a lack of organized thought, and its removal would imply structure."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. The behavior from 5.2s-7.1s is the primary 'moment of vocal emphasis and lively expression' mentioned in the Low Extraversion analysis. It's the only point that deviates from her otherwise contained, low-energy delivery. Removing it would make the evidence for introversion uniform and stronger, thus altering the nuance of the 'Low' assessment. \nOption B is a near-miss distractor. It correctly identifies Extraversion as the affected trait but gets the direction of the change completely wrong. Removing an energetic moment would reinforce or lower the score, not flip it from Low to High. \nOption C is a video-based distractor. While her calm recovery is a valid data point for Low Neuroticism, the much stronger evidence is her consistent calmness throughout the *rest* of the video. Removing this single event would have a much smaller impact on the Neuroticism score than on the Extraversion score. \nOption D is a text-based distractor. The Low Openness assessment is based on the *content* (practical, concrete) of her speech, not the delivery. The topic would remain practical even without the emphasis. \nOption E is a text-based distractor. This option misinterprets the function of the emphasis. Visually, it is informative, not aggressive. Removing it would be unlikely to shift the Agreeableness score significantly. \nOption F is a text-based distractor with flawed reasoning. The emphasis serves to structure her point, which could be argued as a conscientious act. Its absence wouldn't logically lead to a higher Conscientiousness score."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator16",
+      "version": 2,
+      "clues_total": 20,
+      "clues_correct": 14,
+      "clues_wrong_corrected": 3,
+      "clues_missing_skipped": 3,
+      "clues_bonus": 0
+    }
+  }
+}

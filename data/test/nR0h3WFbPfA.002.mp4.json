@@ -1,0 +1,552 @@
+{
+  "video_id": "nR0h3WFbPfA.002.mp4",
+  "video_path": "nR0h3WFbPfA.002.mp4",
+  "transcription": "On Saturday Night Live. I mean, I know that's crazy. I hope to graduate college in two years, after this. That will be three years total but I'm almost done with my first year so two more years.",
+  "original_scores": {
+    "extraversion": 0.6542056074766356,
+    "agreeableness": 0.7362637362637363,
+    "conscientiousness": 0.36893203883495146,
+    "neuroticism": 0.6145833333333333,
+    "openness": 0.6333333333333333
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 2.33,
+      "description": "The person starts with a wide, open-mouthed smile, with their eyes slightly narrowed. The smile transitions to a more subdued, closed-mouth smile as they speak, with eyebrows in a neutral, slightly raised position. The gaze is directed at the camera.",
+      "bboxes": [
+        {
+          "frame_time": 2.33,
+          "x": 0.49703947368421053,
+          "y": 0.49526315990247227,
+          "w": 0.1361842105263158,
+          "h": 0.14736842105263157,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 2.33,
+          "x": 0.4585526315789474,
+          "y": 0.35842105463931434,
+          "w": 0.20723684210526316,
+          "h": 0.09736842105263158,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 1.165,
+          "x": 0.4763157894736842,
+          "y": 0.27157894937615645,
+          "w": 0.17171052631578948,
+          "h": 0.09473684210526316,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 2.33,
+      "end_time": 8.93,
+      "description": "The smile fades into a neutral expression. The eyebrows raise slightly on the word \"graduate\" and then return to a relaxed state. The gaze remains steady and directed at the camera.",
+      "bboxes": [
+        {
+          "frame_time": 5.74426,
+          "x": 0.5207236842105263,
+          "y": 0.537368423060367,
+          "w": 0.12286184210526316,
+          "h": 0.11052631578947368,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 5.74426,
+          "x": 0.49851973684210527,
+          "y": 0.33210526516563016,
+          "w": 0.17319078947368421,
+          "h": 0.3447368421052632,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 7.63751,
+          "x": 0.4763157894736842,
+          "y": 0.21894737042878804,
+          "w": 0.19539473684210526,
+          "h": 0.09473684210526316,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 8.93,
+          "x": 0.5088815789473684,
+          "y": 0.2742105283235249,
+          "w": 0.19835526315789473,
+          "h": 0.36578947368421055,
+          "note": "human-annotated",
+          "region": "unknown"
+        },
+        {
+          "frame_time": 8.59666,
+          "x": 0.528125,
+          "y": 0.30052631779720906,
+          "w": 0.17615131578947368,
+          "h": 0.11052631578947368,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 8.93,
+      "end_time": 14.83,
+      "description": "The person maintains a neutral, focused expression. The eyebrows are relaxed, and the mouth moves naturally with speech. The gaze is consistently directed toward the camera.",
+      "bboxes": [
+        {
+          "frame_time": 10.135268,
+          "x": 0.48223684210526313,
+          "y": 0.24789473884984067,
+          "w": 0.20131578947368423,
+          "h": 0.3684210526315789,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 10.135268,
+          "x": 0.4585526315789474,
+          "y": 0.2268421072708933,
+          "w": 0.21611842105263157,
+          "h": 0.10526315789473684,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 11.744348,
+          "x": 0.5384868421052632,
+          "y": 0.4163157914814196,
+          "w": 0.09029605263157894,
+          "h": 0.10526315789473684,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 13.215174,
+          "x": 0.49407894736842106,
+          "y": 0.29526315990247226,
+          "w": 0.15394736842105264,
+          "h": 0.09210526315789473,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 2.33,
+      "description": "The person, visible from the chest up, is seated. They dip their head down and slightly to their right while laughing, then raise it to face the camera again. Their shoulders shrug slightly upwards with the laugh.",
+      "bboxes": [
+        {
+          "frame_time": 1.165,
+          "x": 0.4911184210526316,
+          "y": 0.20052631779720909,
+          "w": 0.17763157894736842,
+          "h": 0.5131578947368421,
+          "note": "human-annotated",
+          "region": "unknown"
+        },
+        {
+          "frame_time": 1.165,
+          "x": 0.5296052631578947,
+          "y": 0.48473684411299856,
+          "w": 0.0962171052631579,
+          "h": 0.09736842105263158,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 2.33,
+          "x": 0.4585526315789474,
+          "y": 0.1794736862182617,
+          "w": 0.19539473684210526,
+          "h": 0.48157894736842105,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 1.165,
+          "x": 0.5251644736842105,
+          "y": 0.49263158095510384,
+          "w": 0.09325657894736843,
+          "h": 0.07368421052631578,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 2.33,
+      "end_time": 8.78,
+      "description": "The person remains relatively still, with their head and shoulders stable while facing forward.",
+      "bboxes": [
+        {
+          "frame_time": 3.486775,
+          "x": 0.43486842105263157,
+          "y": 0.11105263358668277,
+          "w": 0.196875,
+          "h": 0.5131578947368421,
+          "note": "human-annotated",
+          "region": "unknown"
+        },
+        {
+          "frame_time": 3.486775,
+          "x": 0.3134868421052632,
+          "y": 0.487368423060367,
+          "w": 0.44259868421052634,
+          "h": 0.3157894736842105,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 8.78,
+      "end_time": 14.83,
+      "description": "The person performs a slow, slight head tilt to their right, holding the position before tilting their head slightly to the left at the very end of the clip.",
+      "bboxes": [
+        {
+          "frame_time": 11.587811,
+          "x": 0.4733552631578947,
+          "y": 0.08736842306036698,
+          "w": 0.2694078947368421,
+          "h": 0.5473684210526316,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 11.587811,
+          "x": 0.3638157894736842,
+          "y": 0.48473684411299856,
+          "w": 0.4766447368421053,
+          "h": 0.3631578947368421,
+          "note": "pose human-annotated",
+          "region": "torso"
+        },
+        {
+          "frame_time": 14.83,
+          "x": 0.35345394736842106,
+          "y": 0.061052633586682774,
+          "w": 0.25164473684210525,
+          "h": 0.531578947368421,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 2.38,
+      "description": "Speech is delivered at a fast pace with a higher pitch and a breathy, laughing quality. A soft laugh is audible between 1.55 and 1.95 seconds.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 2.38,
+      "end_time": 8.41,
+      "description": "After a brief pause and the filler \"um,\" the speech rate slows to a moderate, deliberate pace. The pitch lowers to a more neutral, conversational range. The word \"graduate\" receives slight stress.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 8.41,
+      "end_time": 14.83,
+      "description": "The speech rate remains moderate and steady. The pitch is relatively monotonous, with slight downward inflections at the end of phrases. A short pause occurs at 9.68 seconds.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 14.83,
+      "description": "The subject appears to be a young person with light skin and short dark hair, wearing glasses with dark frames. They are wearing a blue baseball cap with a white letter 'M' and a light pink t-shirt with a graphic on it. The setting is an indoor room, likely a dorm room, with dim lighting coming from the front. In the background, a wooden door, a cluttered desk area, and a closet with hanging clothes are visible. Part of a bed with a patterned comforter is seen on the left.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 14.505478,
+      "end_time": 15.505478,
+      "description": "The clothes have math 28 and 15 on them, as well as the letters HONEYMOOM.",
+      "bboxes": [
+        {
+          "frame_time": 15.005478,
+          "x": 0.4230263157894737,
+          "y": 0.8215789493761565,
+          "w": 0.22796052631578947,
+          "h": 0.1736842105263158,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "High",
+      "score": 0.65,
+      "rationale": "The subject scores High on Extraversion. This is supported by the initial display of high positive affect, including a wide, open-mouthed smile and a breathy laugh. The initial fast-paced, high-pitched speech further indicates a state of energetic social engagement. Although the subject's energy moderates, the consistent, direct eye contact with the camera throughout the clip demonstrates social confidence and a focus on connecting with an audience.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "High",
+      "score": 0.74,
+      "rationale": "The subject's High Agreeableness is most clearly indicated by the warm and genuine smile at the beginning of the interaction. This non-verbal cue signals approachability and friendliness. Additionally, the use of subtle head tilts while speaking can be interpreted as a cooperative and non-confrontational posture, aimed at building rapport with the viewer. The overall demeanor is pleasant and devoid of any signs of skepticism or hostility.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Low",
+      "score": 0.37,
+      "rationale": "The score in the Low range for Conscientiousness is strongly supported by environmental cues. The visible background, which includes a 'cluttered desk area' and a 'wardrobe with clothes hanging,' points to a lower level of orderliness and organization. This preference for a less structured personal environment is a classic behavioral marker for individuals who are lower in conscientiousness.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "High",
+      "score": 0.61,
+      "rationale": "The subject's High Neuroticism score is suggested by the initial display of what appears to be anxious energy. The 'breathy laugh' and rapid, high-pitched speech can be interpreted as signs of slight nervousness or self-consciousness, not just pure excitement. The subsequent, marked shift to a slower, more deliberate, and monotonous vocal tone suggests a conscious effort to regulate this initial emotional state, a self-monitoring behavior often seen in individuals with higher neuroticism.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "High",
+      "score": 0.63,
+      "rationale": "A High Openness score is supported by the subject's self-expression and interests. The choice to wear a patterned T-shirt and a baseball cap indoors suggests a degree of individuality and non-conformity. More significantly, expressing a desire to be on 'Saturday Night Live,' even while acknowledging it's 'crazy,' reveals an interest in creative, unconventional, and artistic pursuits, which is a core component of the Openness trait.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During the entire video, the person is in a specific setting. Which Big Five personality dimension is most directly supported by the consistent environmental cues visible in the background?",
+      "options": [
+        {
+          "id": "A",
+          "text": "High Agreeableness, as suggested by the warm and inviting personal space they occupy."
+        },
+        {
+          "id": "B",
+          "text": "Low Openness, indicated by the conventional and unadorned nature of the room."
+        },
+        {
+          "id": "C",
+          "text": "High Extraversion, due to the presence of items that suggest frequent social activity."
+        },
+        {
+          "id": "D",
+          "text": "High Conscientiousness, demonstrated by the meticulously organized desk and wardrobe."
+        },
+        {
+          "id": "E",
+          "text": "Low Neuroticism, because a calm and orderly environment often reflects a stable mind."
+        },
+        {
+          "id": "F",
+          "text": "Low Conscientiousness, evidenced by the cluttered desk area and disorganized clothes."
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The personality analysis explicitly links the 'cluttered desk area' and 'wardrobe with clothes hanging' to a lower level of orderliness, which is a key marker for Low Conscientiousness.\n- Option A is a video-based distractor because while the person shows agreeableness through their smile, the environment itself does not suggest this trait.\n- Option B is a near-miss distractor because it correctly focuses on the environment but misinterprets the cues; the environment is cluttered, not conventional, and this relates to Conscientiousness, not Openness.\n- Option C is a text-based distractor because it presents a plausible but unsupported link between background items and Extraversion.\n- Option D is a near-miss distractor because it identifies the correct personality dimension (Conscientiousness) but gets the direction wrong; the background is disorganized, not organized.\n- Option E is a text-based distractor because it creates a logical-sounding but unsubstantiated connection between the environment and Neuroticism."
+    },
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's expression occur that is most relevant to their assessed level of Neuroticism, reflecting a shift from a high-arousal state to a more regulated one?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[0.5s - 1.9s]"
+        },
+        {
+          "id": "B",
+          "text": "[7.2s - 8.3s]"
+        },
+        {
+          "id": "C",
+          "text": "[9.0s - 10.5s]"
+        },
+        {
+          "id": "D",
+          "text": "[13.1s - 14.5s]"
+        },
+        {
+          "id": "E",
+          "text": "[5.8s - 6.9s]"
+        },
+        {
+          "id": "F",
+          "text": "[2.3s - 5.7s]"
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The analysis for High Neuroticism points to an initial 'anxious energy' followed by a 'conscious effort to regulate this...emotional state'. This transition occurs as the wide smile and laugh from the beginning [0.0s-2.3s] fade into a neutral, controlled expression. The interval [2.3s - 5.7s] captures this transition most accurately.\n- Option A is a video-based distractor; it's the period of the initial high-arousal expression itself, not the change.\n- Option B is a video-based distractor; this interval contains the subtle eyebrow raise on the word 'graduate', a different, more minor expressive change.\n- Option C is a video-based distractor; during this time, the person's expression is already neutral and stable as they tilt their head.\n- Option D is a video-based distractor; this is near the end of the clip where the expression is consistently neutral.\n- Option E is a near-miss distractor; by this point, the transition to a neutral expression is already complete, so this interval captures the state *after* the change, not the change itself."
+    },
+    {
+      "category": "Temporal-Causal Reasoning",
+      "question": "Consider the sequence of behaviors observed across the video. Which of the following best describes the causal chain linking the person's actions at different moments?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A moment of reflection leads to a display of happiness, then a transition into a more serious, focused state for storytelling."
+        },
+        {
+          "id": "B",
+          "text": "A period of calm focus is disrupted by an exciting thought, triggering a burst of high-energy expression and faster speech."
+        },
+        {
+          "id": "C",
+          "text": "An initial display of social confidence prompts an engaging vocal tone, which is then modified to express more thoughtful ideas."
+        },
+        {
+          "id": "D",
+          "text": "An initial display of happiness is followed by a head tilt to build rapport, which then causes a more moderate, friendly tone."
+        },
+        {
+          "id": "E",
+          "text": "Social anxiety triggers an over-compensatory rigid posture, which is then relaxed into a more natural, conversational state."
+        },
+        {
+          "id": "F",
+          "text": "High-arousal emotion prompts self-monitoring, leading to a compensatory shift to a controlled vocal delivery and neutral face."
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "This option accurately reflects the personality analysis for High Neuroticism, which describes an initial display of 'anxious energy' (high-arousal emotion) followed by a 'conscious effort to regulate' (self-monitoring), resulting in a 'slower, more deliberate, and monotonous vocal tone' and a neutral expression (compensatory shift).\n- Option A is a text-based distractor; it describes a plausible but generic narrative that doesn't fit the specific cues of anxious energy and deliberate regulation seen here.\n- Option B is a video-based distractor that reverses the temporal order of events; the video starts with high energy and transitions to calm focus, not the other way around.\n- Option C is a near-miss distractor; it correctly identifies the shift but misinterprets the initial state as 'confidence' rather than nervous energy and the motivation for the shift as intellectual rather than emotional regulation.\n- Option D is a video-based distractor that links real events with incorrect causality; the head tilt occurs *after* the vocal tone has already started to shift and does not cause it.\n- Option E is a near-miss distractor; it correctly identifies the anxiety-compensation pattern but mischaracterizes the result as 'relaxed' and 'natural' when it is better described as 'controlled' and 'monotonous'."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around [2.3s], a region was detected in the video (x=0.459, y=0.358, w=0.207, h=0.097, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The mouth region showing a smile beginning to fade away."
+        },
+        {
+          "id": "B",
+          "text": "A slight, deliberate raising of the person's eyebrows."
+        },
+        {
+          "id": "C",
+          "text": "The entire head beginning a slow tilt towards the left."
+        },
+        {
+          "id": "D",
+          "text": "A shift toward a neutral, less expressive facial set."
+        },
+        {
+          "id": "E",
+          "text": "A fixed, unblinking stare directed right at the camera."
+        },
+        {
+          "id": "F",
+          "text": "A slight narrowing of the eyes as part of a broad smile."
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The provided coordinates at 2.3s correspond directly to the eye region. The observation log for [0.0s - 2.3s] explicitly states eyes slightly narrowed as part of the initial smile. This option correctly identifies that specific action within the specified bounding box.\n- Option A is a video-based distractor; this action occurs in the mouth region, which is below the specified bounding box.\n- Option B is a video-based distractor; the eyebrow raise happens much later in the video (around 7.6s) and in a region above the target box.\n- Option C is a video-based distractor; this describes the movement of the entire head, a much larger area, which begins later in the clip.\n- Option D is a video-based distractor; this describes the overall facial expression change, not the specific action within the eye region at that exact moment.\n- Option E is a near-miss distractor; while the bounding box is on the eyes, the description is inaccurate. The eyes are narrowed in a smile, not a 'fixed, unblinking stare'."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "Identify the timestamp and bounding box that best captures the peak moment of the person's initial, highly expressive social display, encompassing both a prominent facial expression and head posture.",
+      "options": [
+        {
+          "id": "A",
+          "text": "[14.8s]  x=0.35, y=0.06, w=0.25, h=0.53"
+        },
+        {
+          "id": "B",
+          "text": "[8.6s]  x=0.53, y=0.30, w=0.18, h=0.11"
+        },
+        {
+          "id": "C",
+          "text": "[8.9s]  x=0.51, y=0.27, w=0.20, h=0.37"
+        },
+        {
+          "id": "D",
+          "text": "[7.6s]  x=0.48, y=0.22, w=0.20, h=0.09"
+        },
+        {
+          "id": "E",
+          "text": "[10.1s]  x=0.48, y=0.25, w=0.20, h=0.37"
+        },
+        {
+          "id": "F",
+          "text": "[2.3s]  x=0.46, y=0.18, w=0.20, h=0.48"
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The question asks for the peak of the initial, highly expressive display. This occurs at the beginning of the video, characterized by a wide smile, laugh, and a head tilt. The timestamp [2.3s] and its associated bounding box capture the culmination of this moment, just before the expression begins to fade.\n- Option A is a video-based distractor; it captures the head at the very end of the video, in a different posture.\n- Option B is a video-based distractor; it isolates the eyes during the middle of the video when the expression is neutral.\n- Option C is a video-based distractor; it shows the face after it has already transitioned to a neutral state.\n- Option D is a video-based distractor; it isolates the eyebrows during a subtle expression change much later in the video.\n- Option E is a video-based distractor; it captures the face during the period of neutral, focused expression, which is the opposite of the 'highly expressive display' requested."
+    },
+    {
+      "category": "Counterfactual Reasoning",
+      "question": "If the person had NOT exhibited the behavior observed around [0.0s - 2.4s], which of the following personality assessments would be MOST affected?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Openness would be lower, as their key unconventional career goal is mentioned then."
+        },
+        {
+          "id": "B",
+          "text": "Conscientiousness would be rated higher, as the untidy room would seem less relevant."
+        },
+        {
+          "id": "C",
+          "text": "Agreeableness would be much lower, as the later friendly head tilts are less impactful."
+        },
+        {
+          "id": "D",
+          "text": "Extraversion would be rated higher, as no initial hesitation would imply more confidence."
+        },
+        {
+          "id": "E",
+          "text": "Neuroticism would be lower, as this segment provides the primary proof of anxiety."
+        },
+        {
+          "id": "F",
+          "text": "Extraversion would be less certain, as this segment has the main proof for high energy."
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The analysis for High Extraversion relies heavily on the 'initial display of high positive affect,' 'wide, open-mouthed smile,' 'breathy laugh,' and 'energetic social engagement' from this specific time range. Without this burst of energy, the primary evidence for a high level of this trait would be removed, making the assessment much less certain.\n- Option A is a text-based distractor; the evidence for Openness is the *verbal content* ('Saturday Night Live'), not the non-verbal behavior. The question asks about the effect of removing the *behavior*.\n- Option B is a text-based distractor; the assessment of Conscientiousness is based on the background environment, which is independent of the person's behavior in the first 2.4 seconds.\n- Option C is a video-based distractor; while the initial smile is key for Agreeableness, later cues like head tilts still provide support, so the assessment would be weakened but not as severely as Extraversion.\n- Option D is a near-miss distractor because it correctly identifies the relevant trait (Extraversion) but reasons in the wrong direction; removing the evidence would weaken the assessment, not strengthen it.\n- Option E is a near-miss distractor; this is a very strong alternative, as the initial 'anxious energy' is key evidence for Neuroticism. However, the subsequent vocal shift to regulate that energy is also strong evidence. The evidence for Extraversion is more uniquely concentrated in this initial moment, making its assessment the *most* affected by its removal."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [
+      {
+        "check": "A",
+        "q_idx": 6,
+        "issue": "The provided correct answer is F, but E is a more accurate choice. The rationale for High Neuroticism is entirely dependent on the contrast between the initial 'anxious energy' in [0-2.4s] and the subsequent 'conscious effort to regulate' it. Without the initial state, the entire logical basis for the Neuroticism assessment collapses. While the Extraversion score also relies heavily on this segment for its 'high energy' evidence, it has a secondary justification (consistent eye contact) that would still remain, making its assessment weakened but not entirely invalidated. Therefore, the Neuroticism assessment is the one 'most affected'.",
+        "action": "Changed correct_answer from 'F' to 'E'."
+      }
+    ],
+    "corrections": {
+      "mcq_questions[6].correct_answer": "E"
+    },
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator11",
+      "version": 1,
+      "clues_total": 31,
+      "clues_correct": 22,
+      "clues_wrong_corrected": 3,
+      "clues_missing_skipped": 5,
+      "clues_bonus": 1
+    }
+  }
+}

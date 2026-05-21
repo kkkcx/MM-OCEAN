@@ -1,0 +1,393 @@
+{
+  "video_id": "Cv_QK9bPagQ.004.mp4",
+  "video_path": "Cv_QK9bPagQ.004.mp4",
+  "transcription": "[inaudible 00:00:00], but obviously just be yourself because I didn't change who I was for these videos and all of the comments I get are like, \"You're so genuine. I love that you are just yourself.\" That's the reason that people like me I guess. Yeah, just be yourself-",
+  "original_scores": {
+    "extraversion": 0.4672897196261683,
+    "agreeableness": 0.5934065934065933,
+    "conscientiousness": 0.5436893203883495,
+    "neuroticism": 0.5729166666666666,
+    "openness": 0.6333333333333333
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 15.63,
+      "description": "The subject maintains a generally direct gaze towards the camera, blinking naturally. Her facial expression is animated and corresponds with her speech, with a relaxed mouth and jaw. Her eyebrows remain in a neutral position for most of the clip, with a very slight, brief downward press for emphasis around 0:13-0:14.",
+      "bboxes": [
+        {
+          "frame_time": 3.530671,
+          "x": 0.4015625,
+          "y": 0.10614034753096731,
+          "w": 0.2723684210526316,
+          "h": 0.39210526315789473,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 2.2378,
+          "x": 0.42376644736842106,
+          "y": 0.0798245580572831,
+          "w": 0.3138157894736842,
+          "h": 0.39473684210526316,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 2.2378,
+          "x": 0.44449013157894735,
+          "y": 0.316666663320441,
+          "w": 0.2131578947368421,
+          "h": 0.25526315789473686,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 13.081615,
+          "x": 0.4015625,
+          "y": 0.09824561068886205,
+          "w": 0.3034539473684211,
+          "h": 0.10526315789473684,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 15.63,
+      "description": "The subject is seated, with her head and shoulders visible in the frame. She maintains a stable posture, leaning slightly forward. Her head moves in small, natural motions, including slight nods that are synchronized with her speech patterns. No hand or arm gestures are visible.",
+      "bboxes": [
+        {
+          "frame_time": 1.278734,
+          "x": 0.19876644736842106,
+          "y": 0.4561403475309673,
+          "w": 0.6513157894736842,
+          "h": 0.5342105263157895,
+          "note": "human-annotated",
+          "region": "unknown"
+        },
+        {
+          "frame_time": 1.278734,
+          "x": 0.29942434210526314,
+          "y": 0.03771929489938836,
+          "w": 0.5758223684210526,
+          "h": 0.6210526315789474,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 1.278734,
+          "x": 0.40452302631578946,
+          "y": 0.06403508437307258,
+          "w": 0.4085526315789474,
+          "h": 0.9342105263157895,
+          "note": "pose human-annotated",
+          "region": "torso"
+        },
+        {
+          "frame_time": 7.312885,
+          "x": 0.4563322368421053,
+          "y": 0.08508771595201994,
+          "w": 0.2590460526315789,
+          "h": 0.5,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 7.312885,
+          "x": 0.27277960526315786,
+          "y": 0.6219298212151778,
+          "w": 0.6453947368421052,
+          "h": 0.3763157894736842,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 6.3,
+      "description": "The subject speaks at a moderate, conversational pace with a relatively stable pitch and volume.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 6.3,
+      "end_time": 10.1,
+      "description": "The speech rate increases slightly, and the pitch rises and becomes more varied as she quotes comments, starting with the phrase, \"You're so genuine.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 10.1,
+      "end_time": 13.5,
+      "description": "The pace returns to moderate. There is a noticeable drop in both pitch and volume on the phrase \"I guess.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 13.5,
+      "end_time": 15.63,
+      "description": "The speech rate slows slightly for emphasis on the final phrase, \"just be yourself.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.63,
+      "description": "The subject is a young woman with long, light brown hair and a fair complexion, wearing a light-colored t-shirt. She is in a bedroom with blue-painted walls. To the left, a bed with a floral-patterned comforter and a red curtain are visible. Behind her, there is a wooden dresser with a lit lamp, and several photos and posters are on the wall. The lighting is dim, appearing to come from a single source in front of her and the lamp in the background, creating soft shadows.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Medium",
+      "score": 0.47,
+      "rationale": "The subject's Extraversion is rated as Medium, indicating an ambiverted personality. This is supported by a mix of social engagement and reserved behaviors. On one hand, she directly addresses an audience with a relatively fast speaking pace and a forward-leaning posture, suggesting social confidence. On the other hand, her physical presentation is contained, with no visible hand gestures and a stable, controlled posture, which points away from high extraversion. This balance of expressive speech and restrained body language is characteristic of individuals in the middle of the extraversion spectrum.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Medium",
+      "score": 0.59,
+      "rationale": "The subject's Agreeableness is in the Medium range. Her overall demeanor is pleasant and cooperative, characterized by a calm facial expression, relaxed mouth, and direct eye contact, which fosters a sense of trust and connection. The content of her speech, offering advice and valuing genuineness, is pro-social and supportive. The absence of any antagonistic cues (e.g., scowling, dismissiveness) further supports this. The medium score suggests she is good-natured and approachable without being excessively deferential.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Medium",
+      "score": 0.54,
+      "rationale": "The subject exhibits a Medium level of Conscientiousness. This is evidenced by the purposeful and organized nature of her communication. She presents a clear, coherent message ('be yourself'), supports it with personal experience (quoting comments), and maintains a focused gaze on the camera. This suggests a degree of preparation and goal-oriented behavior. Her stable and controlled posture further implies self-discipline. The overall impression is one of thoughtfulness and reliability, consistent with a moderate score in this trait.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Medium",
+      "score": 0.57,
+      "rationale": "The subject's Neuroticism score is in the Medium range, indicating a typical balance of emotional stability and sensitivity. While her baseline expression is calm and her posture is stable (signs of low neuroticism), there are subtle cues of emotional sensitivity. A notable instance is the distinct drop in tone and volume on the phrase 'I guess,' immediately following a positive self-statement. This vocal hesitation suggests a moment of self-consciousness or a sensitivity to social judgment, which is a hallmark of individuals who are not at the lowest end of the neuroticism scale.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "High",
+      "score": 0.63,
+      "rationale": "The subject's Openness is rated as High. This is strongly supported by the content of her message, which champions authenticity and introspection ('be yourself', 'I didn't change who I was') over social conformity. Engaging in self-reflection for a public video demonstrates a willingness to explore personal identity and abstract ideas. Additionally, her vocal delivery is varied and expressive, particularly when quoting others, suggesting a degree of creative expression. The personalized environment, with photos and posters, also points to an appreciation for aesthetics and self-expression, both facets of high Openness.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During 10.1s - 13.5s, the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "High Extraversion is the primary trait shown."
+        },
+        {
+          "id": "B",
+          "text": "Low Agreeableness is the main trait shown."
+        },
+        {
+          "id": "C",
+          "text": "High Openness is the primary trait shown."
+        },
+        {
+          "id": "D",
+          "text": "Medium Neuroticism is the main trait shown."
+        },
+        {
+          "id": "E",
+          "text": "Low Conscientiousness is the main trait shown."
+        },
+        {
+          "id": "F",
+          "text": "Low Neuroticism is the primary trait shown."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "The correct answer is D. During this interval, the subject says \"I guess\" with a noticeable drop in tone and volume after making a positive self-statement. This vocal hesitation signals a moment of self-consciousness or sensitivity to judgment, which is a key indicator for Neuroticism that isn't at the lowest level, thus supporting a Medium score.\n- Option A is a text-based distractor. One might associate speaking to a camera with extraversion, but the specific behavior in this time range (self-doubt) points away from it.\n- Option B is a text-based distractor. The subject's overall tone is agreeable; this vocal cue does not indicate a critical or disagreeable nature.\n- Option C is a video-based distractor. High Openness is supported by the *content* of her speech throughout the video (valuing authenticity), but not by the specific vocal *behavior* in this time segment, which relates to emotional stability.\n- Option E is a near-miss distractor. The hesitation could be misinterpreted as a lack of preparation (Low Conscientiousness), but its emotional context makes it a much stronger indicator for Neuroticism.\n- Option F is a near-miss distractor. It correctly identifies the relevant personality dimension (Neuroticism) but gets the direction wrong. This behavior is evidence *against* low neuroticism (high emotional stability)."
+    },
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable micro-expression occur that provides emphasis and supports the assessment of High Openness?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[1.5s - 2.0s]"
+        },
+        {
+          "id": "B",
+          "text": "[6.8s - 7.3s]"
+        },
+        {
+          "id": "C",
+          "text": "[9.5s - 10.0s]"
+        },
+        {
+          "id": "D",
+          "text": "[13.0s - 13.5s]"
+        },
+        {
+          "id": "E",
+          "text": "[4.0s - 4.5s]"
+        },
+        {
+          "id": "F",
+          "text": "[11.8s - 12.3s]"
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "The correct answer is D. The observation notes a 'very slight, brief downward press' of the eyebrows for emphasis around 13-14 seconds, as she says the key phrase 'just be yourself.' This act of emphasis on a message about authenticity supports her High Openness.\n- Option A is a video-based distractor. This interval shows her baseline calm facial expression at the beginning of the video, not a specific micro-expression.\n- Option B is a video-based distractor. This interval marks when her speech pitch begins to rise as she quotes comments, but no specific facial micro-expression is documented here.\n- Option C is a video-based distractor. This is the end of her quoting positive comments, but just before the key emotional shift or the final emphatic statement.\n- Option E is a video-based distractor. This is a neutral moment in the middle of her initial statement with no documented micro-expressions.\n- Option F is a near-miss distractor. This interval corresponds to the audible drop in tone on 'I guess.' While this is a significant emotional cue, the question asks for a micro-expression, and the primary cue here is auditory, not a documented facial movement."
+    },
+    {
+      "category": "Mixed Emotion Discrimination",
+      "question": "During 10.1s - 13.5s, the person's emotional state is best characterized as which of the following? Consider both verbal and non-verbal cues.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Simple satisfaction blended with a feeling of general contentment."
+        },
+        {
+          "id": "B",
+          "text": "Overwhelming gratitude tempered by a sense of deep humility."
+        },
+        {
+          "id": "C",
+          "text": "Quiet pridefulness mixed with a feeling of detached amusement."
+        },
+        {
+          "id": "D",
+          "text": "Tentative self-assurance mixed with a hint of social apprehension."
+        },
+        {
+          "id": "E",
+          "text": "Feigned confidence combined with an undercurrent of outright sarcasm."
+        },
+        {
+          "id": "F",
+          "text": "Bittersweet nostalgia tempered by a sense of calm reminiscence."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "The correct answer is D. In this interval, the subject states that people like her for being genuine (a self-assured statement) but immediately follows it with 'I guess,' delivered with a significant drop in vocal tone and volume. This combination strongly suggests a mix of confidence in her value and an apprehension or self-consciousness about how that is perceived.\n- Option A is a text-based distractor. It captures the positive side ('satisfaction') but completely misses the nuance of the vocal drop, which indicates the opposite of contentment.\n- Option B is a text-based distractor. While plausible concepts, 'overwhelming' and 'deep' are too intense for the subtle emotional cues observed.\n- Option C is a near-miss distractor. 'Quiet pridefulness' is close, but 'detached amusement' is an incorrect interpretation of the vocal drop, which signals insecurity rather than amusement.\n- Option E is a near-miss distractor. It correctly identifies a mixed signal but misinterprets the genuine-seeming self-doubt as 'sarcasm' and the initial statement as 'feigned.'\n- Option F is a video-based distractor. Emotions like nostalgia and reminiscence are not relevant to the immediate context of discussing current feedback on her videos."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 13.1s, a region was detected in the video (x=0.402, y=0.098, w=0.303, h=0.105, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A relaxed jaw posture with a generally closed mouth."
+        },
+        {
+          "id": "B",
+          "text": "A direct and steady gaze directed toward the camera."
+        },
+        {
+          "id": "C",
+          "text": "A slight, speech-synchronized nodding of the head."
+        },
+        {
+          "id": "D",
+          "text": "A brief downward press of the eyebrows for emphasis."
+        },
+        {
+          "id": "E",
+          "text": "A generally calm and neutral overall facial expression."
+        },
+        {
+          "id": "F",
+          "text": "A stable and controlled seated posture in the chair."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "The correct answer is D. The provided coordinates at 13.1s correspond directly to the eyebrow region. The observation notes for this specific time a 'very slight, brief downward press' of the eyebrows, used to add emphasis to her final statement.\n- Option A is a video-based distractor. This describes the mouth region, which is located at different coordinates.\n- Option B is a video-based distractor. This describes the eyes, which are adjacent to but distinct from the specified eyebrow region.\n- Option C is a near-miss distractor. This describes a motion of the entire head, whereas the bounding box isolates the smaller eyebrow area. It's a plausible action happening nearby but is not what is in the box.\n- Option E is a video-based distractor. This describes the entire face, but the question asks for the specific action within the small, localized bounding box.\n- Option F is a video-based distractor. This describes her overall torso and posture, which is far outside the specified facial coordinates."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "The speaker's vocal cues shift throughout the video, but certain facial features remain consistently neutral as a baseline. Which option pinpoints the location of the relaxed mouth region at a representative moment?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Time: 7.3s, bbox: {x: 0.456, y: 0.085, w: 0.259, h: 0.500}"
+        },
+        {
+          "id": "B",
+          "text": "Time: 13.1s, bbox: {x: 0.402, y: 0.098, w: 0.303, h: 0.105}"
+        },
+        {
+          "id": "C",
+          "text": "Time: 2.2s, bbox: {x: 0.444, y: 0.317, w: 0.213, h: 0.255}"
+        },
+        {
+          "id": "D",
+          "text": "Time: 2.2s, bbox: {x: 0.402, y: 0.106, w: 0.272, h: 0.392}"
+        },
+        {
+          "id": "E",
+          "text": "Time: 13.1s, bbox: {x: 0.444, y: 0.317, w: 0.213, h: 0.255}"
+        },
+        {
+          "id": "F",
+          "text": "Time: 1.3s, bbox: {x: 0.199, y: 0.456, w: 0.651, h: 0.534}"
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. The observation log states that the 'mouth and lower jaw are relaxed' and provides a representative bounding box at 2.2s with these exact coordinates (x=0.444, y=0.317, w=0.213, h=0.255).\n- Option A is a video-based distractor. This timestamp and bbox correspond to the head during a slight nod, not the mouth.\n- Option B is a video-based distractor. This timestamp and bbox correspond to the eyebrow region during a micro-expression of emphasis.\n- Option D is a near-miss distractor. It has the correct timestamp but provides the bounding box for the eyes/upper face, not the mouth.\n- Option E is a near-miss distractor. It has the correct bounding box for the mouth but provides the wrong timestamp (13.1s), which is a moment of high emphasis, not a representative baseline moment.\n- Option F is a video-based distractor. This timestamp and bbox correspond to the subject's overall seated posture, not the specific mouth region."
+    },
+    {
+      "category": "Counterfactual Reasoning",
+      "question": "If the person had NOT exhibited the behavior observed around 10.1s - 13.5s, which of the following personality assessments would be MOST affected?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Extraversion would be assessed as higher, since the removal of a hesitant moment would make her delivery seem more uniformly outgoing."
+        },
+        {
+          "id": "B",
+          "text": "Openness would be assessed as lower, because the behavior in question is a key demonstration of her introspective and self-aware nature."
+        },
+        {
+          "id": "C",
+          "text": "Conscientiousness would be assessed as higher, as omitting the moment of verbal hesitation would make her overall message seem more polished."
+        },
+        {
+          "id": "D",
+          "text": "Neuroticism would likely be assessed as lower, as this moment is the main indicator of emotional sensitivity to social perception."
+        },
+        {
+          "id": "E",
+          "text": "Agreeableness would be assessed as lower, given that this behavior shows a degree of deference that softens her otherwise direct statements."
+        },
+        {
+          "id": "F",
+          "text": "Neuroticism would likely be assessed as higher, because removing the self-moderating behavior would make her seem less in control of her emotions."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "The correct answer is D. The behavior in this interval is the vocal drop on 'I guess,' a key sign of self-consciousness. The personality analysis explicitly cites this as evidence for her Medium Neuroticism score. Removing this behavior would eliminate the primary evidence of emotional sensitivity, making her appear more consistently stable and likely leading to a lower Neuroticism assessment.\n- Option A is a near-miss distractor. While plausible that removing hesitation would make her seem more extraverted, the behavior is a much more direct and significant indicator for Neuroticism, making that assessment the *most* affected.\n- Option B is a text-based distractor. Her Openness is supported by the *content* of her message about authenticity, not this specific behavior of emotional hesitation. Removing the hesitation would not negate her message.\n- Option C is a video-based distractor. Her Conscientiousness is supported by the overall structure and focus of her speech. While removing the hesitation might make it slightly more polished, it wouldn't fundamentally change the assessment of her being organized and purposeful.\n- Option E is a text-based distractor. The vocal drop is better interpreted as self-doubt than pro-social deference. Her general pleasantness supports her Agreeableness score more strongly.\n- Option F is a near-miss distractor. It correctly identifies Neuroticism as the affected trait but posits the wrong direction of change. Removing a behavior indicative of neuroticism would decrease, not increase, the final assessment."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator20",
+      "version": 3,
+      "clues_total": 14,
+      "clues_correct": 12,
+      "clues_wrong_corrected": 2,
+      "clues_missing_skipped": 0,
+      "clues_bonus": 0
+    }
+  }
+}

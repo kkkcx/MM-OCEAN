@@ -1,0 +1,365 @@
+{
+  "video_id": "mK8ebTJyrCI.004.mp4",
+  "video_path": "mK8ebTJyrCI.004.mp4",
+  "transcription": "All pets ... Yeah, I love all pets. I have a dog here. I have a dog in California, with my Mom. I have 3 cats in California. I have four brothers there. They're all pets, you know. That was a joke.",
+  "original_scores": {
+    "extraversion": 0.28037383177570097,
+    "agreeableness": 0.4505494505494505,
+    "conscientiousness": 0.15533980582524273,
+    "neuroticism": 0.37499999999999994,
+    "openness": 0.6
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 11.37,
+      "description": "The subject maintains a direct gaze toward the camera. Their expression is largely neutral and conversational, with eyebrows raising and lowering slightly in sync with speech emphasis. The mouth moves naturally while speaking, and the upper eyelids are slightly lowered.",
+      "bboxes": [
+        {
+          "frame_time": 3.027013,
+          "x": 0.3941611842105263,
+          "y": 0.39824561068886205,
+          "w": 0.1287828947368421,
+          "h": 0.0868421052631579,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 3.027013,
+          "x": 0.3778782894736842,
+          "y": 0.26403508437307255,
+          "w": 0.15542763157894737,
+          "h": 0.4131578947368421,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 10.536334,
+          "x": 0.4015625,
+          "y": 0.46403508437307256,
+          "w": 0.1524671052631579,
+          "h": 0.10526315789473684,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 10.536334,
+          "x": 0.4060032894736842,
+          "y": 0.6508771896362304,
+          "w": 0.08881578947368421,
+          "h": 0.13157894736842105,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 6.613534,
+          "x": 0.3837993421052632,
+          "y": 0.4692982422678094,
+          "w": 0.14210526315789473,
+          "h": 0.09473684210526316,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 11.37,
+      "end_time": 12.81,
+      "description": "After saying \"pets, you know,\" the corners of the subject's mouth pull up and back into a slight, asymmetrical smile, more prominent on their right side. The cheeks rise slightly.",
+      "bboxes": [
+        {
+          "frame_time": 12.458911,
+          "x": 0.36455592105263157,
+          "y": 0.5850877159520199,
+          "w": 0.10805921052631579,
+          "h": 0.11052631578947368,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 12.458911,
+          "x": 0.3482730263157895,
+          "y": 0.3798245580572831,
+          "w": 0.17023026315789475,
+          "h": 0.3763157894736842,
+          "note": "face human-annotated",
+          "region": "face"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 12.81,
+      "end_time": 15.01,
+      "description": "The smile fades as they say \"That was a joke,\" and the expression returns to a neutral, conversational state, with the head slightly tilted down and to their right.",
+      "bboxes": [
+        {
+          "frame_time": 13.797953,
+          "x": 0.3971217105263158,
+          "y": 0.5929824527941252,
+          "w": 0.09473684210526316,
+          "h": 0.08157894736842106,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 13.797953,
+          "x": 0.3749177631578947,
+          "y": 0.3403508738467568,
+          "w": 0.1569078947368421,
+          "h": 0.39210526315789473,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 13.943501,
+          "x": 0.35567434210526316,
+          "y": 0.2929824527941252,
+          "w": 0.19391447368421053,
+          "h": 0.45526315789473687,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 15.01,
+      "description": "The subject is seated, framed from the chest up. They maintain a relatively still posture throughout the clip, with minor head movements (nods and slight turns) that accompany their speech patterns.",
+      "bboxes": [
+        {
+          "frame_time": 1.991921,
+          "x": 0.2772203947368421,
+          "y": 0.25087718963623046,
+          "w": 0.3626644736842105,
+          "h": 0.7473684210526316,
+          "note": "human-annotated",
+          "region": "unknown"
+        },
+        {
+          "frame_time": 1.991921,
+          "x": 0.30830592105263155,
+          "y": 0.2298245580572831,
+          "w": 0.25608552631578946,
+          "h": 0.4710526315789474,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 11.712047,
+          "x": 0.2372532894736842,
+          "y": 0.6956140317414936,
+          "w": 0.4055921052631579,
+          "h": 0.3026315789473684,
+          "note": "pose human-annotated",
+          "region": "torso"
+        },
+        {
+          "frame_time": 9.672857,
+          "x": 0.3157072368421053,
+          "y": 0.2324561370046515,
+          "w": 0.26200657894736845,
+          "h": 0.5842105263157895,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 0.44,
+      "description": "The phrase \"All pets\" is spoken at a moderate pace and volume.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0.44,
+      "end_time": 1.74,
+      "description": "The phrase \"All pets\" is spoken at a moderate pace and volume.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 1.74,
+      "end_time": 11.37,
+      "description": "Speech resumes at a moderate, rhythmic pace, with a clear, steady volume. There is slight upward intonation on emphasized words like \"here,\" \"California,\" \"three,\" and \"four.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 11.37,
+      "end_time": 12.81,
+      "description": "The phrase \"pets, you know\" is delivered with a slightly more varied, playful pitch.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 12.81,
+      "end_time": 13.88,
+      "description": "The sentence \"That was a joke\" is spoken at a slightly faster pace and lower volume compared to the previous speech.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.01,
+      "description": "The subject is a young person with fair skin, short dark hair, and light-colored eyes. They are wearing a black beanie with a red and white logo (partially legible as \"pilots\") and a black hooded sweatshirt with a blue lightning graphic and white text. The setting is an indoor room with tan walls and a ceiling fan. In the background, a cluttered living space is visible, including a bookshelf filled with books, a doorway, a lamp, and various other household items. The primary light source is off-camera to the subject's left, creating soft shadows on the right side of their face.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Low",
+      "score": 0.28,
+      "rationale": "The subject's Low Extraversion is indicated by their contained and reserved demeanor. Their posture is described as 'relatively still,' with minimal body movement, which suggests lower levels of social energy. Vocally, their delivery is moderate and steady rather than loud or boisterous. When delivering the punchline, the subject's volume actually decreases, a behavior more consistent with an introverted style that avoids drawing significant attention, as opposed to an extravert who might amplify the moment.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Medium",
+      "score": 0.45,
+      "rationale": "The subject demonstrates a Medium level of Agreeableness. They maintain consistent, direct eye contact and a conversational expression, signaling a willingness to engage cooperatively. The use of gentle, self-referential humor and a 'playful' tone indicates a non-confrontational, positive social intention. However, the emotional expressions are subtle, such as the 'slight, asymmetrical smile,' suggesting a balanced approach to social warmth that is neither effusively compliant nor disagreeable.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Very Low",
+      "score": 0.16,
+      "rationale": "The Very Low score in Conscientiousness is strongly supported by environmental cues. The background is explicitly noted as a 'cluttered living space,' which is a classic behavioral residue indicator of low orderliness and organization. The subject's narrative style, while telling a story, is somewhat associative and spontaneous rather than meticulously structured, further aligning with a flexible and less regimented cognitive style characteristic of low conscientiousness.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Low",
+      "score": 0.37,
+      "rationale": "The subject exhibits a Low level of Neuroticism, indicative of high emotional stability. Their posture is relaxed and still, absent of typical anxiety indicators like fidgeting or nervous gestures. They maintain steady eye contact, and their speech is clear and rhythmic, without vocal tremors or hesitation. This calm and composed presentation, even while delivering a joke—a potentially socially vulnerable act—points to a secure and resilient emotional state.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "High",
+      "score": 0.6,
+      "rationale": "A High level of Openness is evidenced by several factors. The subject employs conceptual humor, playfully equating their brothers with pets, which reflects cognitive flexibility and an appreciation for abstract ideas. The background featuring a 'bookshelf filled with books' is a strong indicator of intellectual curiosity. Finally, the varied and 'playful' vocal tone suggests a creative and expressive communication style, consistent with individuals who are high in openness to experience.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During 0.0s - 15.0s, the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "High Extraversion, strongly suggested by their constant direct storytelling and audience engagement."
+        },
+        {
+          "id": "B",
+          "text": "High Agreeableness, demonstrated by the consistent effort to build rapport using light humor."
+        },
+        {
+          "id": "C",
+          "text": "Low Conscientiousness, inferred from the disorganized and cluttered background visible throughout."
+        },
+        {
+          "id": "D",
+          "text": "Low Neuroticism, evidenced by the steady vocal tone and calm, relaxed posture they maintain."
+        },
+        {
+          "id": "E",
+          "text": "High Openness, indicated by the intellectual curiosity suggested by the books in the background."
+        },
+        {
+          "id": "F",
+          "text": "Low Agreeableness, shown by the asymmetrical smile which can suggest a feeling of contempt."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Option C is correct because the most consistent and strong piece of evidence across the entire video is the 'cluttered living space,' which is a classic behavioral residue indicator of low Conscientiousness. Option A is a text-based distractor; while they tell a story, their demeanor is low-energy and reserved, which points to Low Extraversion. Options B, D, and E are video-based distractors; they describe real aspects of the person's behavior (humor, calmness, books) that do support other traits, but the evidence for Low Conscientiousness from the environment is the most pervasive and unambiguous cue in the entire clip. Option F is a near-miss distractor; it misinterprets a visual cue (the smile) by assigning a negative social meaning (contempt) when the context clearly marks it as playful, thus getting the trait direction wrong."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 13.8s, a region was detected in the video (x=0.40, y=0.59, w=0.10, h=0.08, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The eyebrows are slightly raised to provide some vocal emphasis."
+        },
+        {
+          "id": "B",
+          "text": "The eyes are maintaining steady and direct contact with the camera."
+        },
+        {
+          "id": "C",
+          "text": "The mouth is seen returning to a neutral, conversational position."
+        },
+        {
+          "id": "D",
+          "text": "The upper eyelids are drooping slightly in a sign of disinterest."
+        },
+        {
+          "id": "E",
+          "text": "The overall facial expression is one of relaxed, neutral engagement."
+        },
+        {
+          "id": "F",
+          "text": "The head is beginning to tilt slightly downwards and to the left."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Option C is correct. The specified coordinates at 13.8s isolate the mouth region just as the person says, 'That was a joke.' The observation log confirms that at this moment, 'the smile disappears' and the expression returns to neutral. Option A is a video-based distractor; eyebrow raising occurs earlier, around 10.5s. Option B is a video-based distractor; it describes the eyes, which are outside the specified bounding box. Option E is also a video-based distractor describing the whole face, not the specific action within the mouth region. Options D and F are near-miss distractors based on common AI errors; D describes an incorrect eye state, and F describes an incorrect head tilt (the actual tilt is to the right, not left and down)."
+    },
+    {
+      "category": "Counterfactual Reasoning",
+      "question": "If the person had NOT exhibited the behavior observed around 11.4s - 12.8s, which of the following personality assessments would be MOST affected?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Agreeableness score would be much higher, because removing the joke would make their expression seem more straightforwardly friendly and less complex."
+        },
+        {
+          "id": "B",
+          "text": "Conscientiousness rating would increase, since the joke itself serves as the main indicator of their generally unstructured and spontaneous mindset."
+        },
+        {
+          "id": "C",
+          "text": "Openness assessment would likely be lower, as this behavior is the key evidence for cognitive flexibility and use of abstract, conceptual humor."
+        },
+        {
+          "id": "D",
+          "text": "Extraversion score would move from Low to Medium, as this quiet, reserved moment is the strongest evidence currently supporting an introverted rating."
+        },
+        {
+          "id": "E",
+          "text": "Neuroticism score would become less certain, as delivering humor so calmly under observation is a significant marker of high emotional stability."
+        },
+        {
+          "id": "F",
+          "text": "The assessment for Openness would be much higher, because the absence of this specific humor would imply a more conventional thinking pattern."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Option C is correct. The behavior from 11.4s-12.8s is the delivery of the joke ('They're all pets, you know'). The personality analysis explicitly cites this use of 'conceptual humor' and 'playful' tone as primary evidence for High Openness. Removing it would eliminate a key data point supporting cognitive flexibility. Option B is a text-based distractor; the Conscientiousness score is derived from the cluttered background, not the joke. Option E is a video-based distractor; while the calm delivery is relevant to Neuroticism, their overall calm posture throughout the video provides more substantial evidence, making this single moment less critical for that trait than for Openness. Options A, D, and F are near-miss distractors; they identify plausible traits but get the direction of change or the reasoning wrong. Removing a friendly joke would likely lower Agreeableness, not raise it (A). Removing a quiet moment would not make them seem more extraverted (D). And removing creative humor would lower, not raise, the Openness score (F)."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator19",
+      "version": 1,
+      "clues_total": 20,
+      "clues_correct": 17,
+      "clues_wrong_corrected": 3,
+      "clues_missing_skipped": 0,
+      "clues_bonus": 0
+    }
+  }
+}

@@ -1,0 +1,419 @@
+{
+  "video_id": "84Lz5a9yRZg.003.mp4",
+  "video_path": "84Lz5a9yRZg.003.mp4",
+  "transcription": "Real Estate group at Keller Williams greater Cleveland. Today I want to go over the seven questions you should be asking your realtor before you hire them. Number one, what is their experience? You don't want a brand new realtor testing their brand new real estate licence.",
+  "original_scores": {
+    "extraversion": 0.5700934579439253,
+    "agreeableness": 0.6153846153846153,
+    "conscientiousness": 0.6796116504854369,
+    "neuroticism": 0.5625,
+    "openness": 0.5333333333333333
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 7.9,
+      "description": "The subject maintains direct eye contact with the camera. His eyebrows raise slightly for emphasis on certain words (e.g., \"Cleveland,\" \"seven questions\"). His mouth moves expressively in sync with his speech, with the corners of his mouth slightly upturned in a light smile between phrases.",
+      "bboxes": [
+        {
+          "frame_time": 7.902327,
+          "x": 0.40896381578947366,
+          "y": 0.43508771595201995,
+          "w": 0.12582236842105263,
+          "h": 0.10526315789473684,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 7.902327,
+          "x": 0.37935855263157897,
+          "y": 0.45087718963623047,
+          "w": 0.15986842105263158,
+          "h": 0.10789473684210527,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 7.902327,
+          "x": 0.4030427631578947,
+          "y": 0.5535087685835989,
+          "w": 0.10953947368421053,
+          "h": 0.11578947368421053,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 7.9,
+      "end_time": 11.2,
+      "description": "The subject's eyebrows raise significantly and his eyes widen slightly as he introduces and asks the question, maintaining a focused and direct gaze at the camera.",
+      "bboxes": [
+        {
+          "frame_time": 7.902327,
+          "x": 0.38231907894736844,
+          "y": 0.416666663320441,
+          "w": 0.15986842105263158,
+          "h": 0.13421052631578947,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 7.902327,
+          "x": 0.41192434210526313,
+          "y": 0.4377192948993884,
+          "w": 0.11842105263157895,
+          "h": 0.12894736842105264,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 11.2,
+      "end_time": 15,
+      "description": "The subject's expression becomes more serious, with a slight tension in the brow area. He continues to hold direct eye contact while speaking.",
+      "bboxes": [
+        {
+          "frame_time": 11.2,
+          "x": 0.4060032894736842,
+          "y": 0.33245613700465154,
+          "w": 0.1480263157894737,
+          "h": 0.15789473684210525,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 7.9,
+      "description": "The subject stands still, framed from the chest up, with his head oriented toward the camera. His shoulders are relaxed and his hands are not visible.",
+      "bboxes": [
+        {
+          "frame_time": 0,
+          "x": 0.2935032894736842,
+          "y": 0.41929824226780943,
+          "w": 0.4041118421052632,
+          "h": 0.4394736842105263,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 0,
+          "x": 0.33199013157894736,
+          "y": 0.42192982121517786,
+          "w": 0.28717105263157894,
+          "h": 0.4105263157894737,
+          "note": "pose human-annotated",
+          "region": "shoulders"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 7.9,
+      "end_time": 11.63,
+      "description": "The subject raises his right hand into the frame, extending his index finger upward to emphasize the point \"Number one.\" His head nods slightly in sync with the gesture.",
+      "bboxes": [
+        {
+          "frame_time": 7.9,
+          "x": 0.6295230263157895,
+          "y": 0.5640350843730726,
+          "w": 0.1169407894736842,
+          "h": 0.38421052631578945,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 7.9,
+          "x": 0.3734375,
+          "y": 0.2850877159520199,
+          "w": 0.2368421052631579,
+          "h": 0.4842105263157895,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 7.9,
+      "description": "The subject speaks at a moderate and consistent pace with clear articulation. His pitch drops at the end of the first complete sentence (\"...before you hire them.\"). There is slight vocal stress placed on the words \"seven questions\".",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 7.9,
+      "end_time": 11.2,
+      "description": "The phrase \"Number one\" is spoken with deliberate emphasis. The question \"What is your experience?\" is delivered with a slightly rising intonation, consistent with an inquisitive tone.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 11.2,
+      "end_time": 15,
+      "description": "The speaking pace remains moderate. There is noticeable stress and a slight increase in volume on the phrases \"don't want\" and \"brand new\" for emphasis.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15,
+      "description": "The subject is a male with a fair complexion, dark curly hair, and a short beard. He is wearing a navy blue V-neck sweater over a light-colored, patterned collared shirt. He is in an indoor office environment with a light gray wall behind him. Three black-framed architectural drawings of houses are hanging on the wall. A lower-third graphic at the bottom of the screen displays his name, \"C.J. TRIVISONNO,\" and his title, \"REALTOR,\" in gold and white text. The lighting is soft and even from the front.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Medium",
+      "score": 0.57,
+      "rationale": "The subject's Extraversion score is in the Medium range. He demonstrates social confidence through direct, sustained eye contact and a clear, articulate speaking style. His use of vocal emphasis on key phrases ('seven questions') and illustrative hand gestures ('Number one') indicates an engaging and expressive communication style aimed at connecting with an audience. However, these behaviors are controlled and purposeful rather than effusively energetic; his relaxed shoulders and relatively still posture suggest a moderate, not high, level of social energy, aligning with the medium score.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "High",
+      "score": 0.62,
+      "rationale": "The subject's High Agreeableness is evidenced by his cooperative and trustworthy demeanor. He presents himself as a helpful guide ('Today I want to go over the seven questions you should be asking'). This prosocial framing, combined with slight smiles between phrases and relaxed shoulders, creates a warm and approachable persona. The consistent, direct eye contact further reinforces a sense of sincerity and aims to build rapport with the viewer, which are classic behaviors associated with higher levels of agreeableness.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "High",
+      "score": 0.68,
+      "rationale": "A High level of Conscientiousness is strongly indicated by the subject's organized and goal-directed presentation. The content is structured logically, starting with a clear statement of purpose and proceeding systematically ('Number one...'). His clear articulation and prepared speech point to diligence. This is further supported by the professional environment, including his attire and the office background with architectural drawings. The deliberate use of a hand gesture to enumerate his first point underscores a methodical and detail-oriented approach.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Medium",
+      "score": 0.56,
+      "rationale": "The subject's Medium Neuroticism is reflected in his composed but carefully controlled demeanor. He shows few signs of anxiety—his speech is steady, shoulders are relaxed, and eye contact is maintained, ruling out a high score. However, his calmness appears deliberate rather than effortless. The consistent, moderate pace and precise articulation suggest a conscious management of the potential stress of being on camera. This indicates a baseline level of emotional regulation that is characteristic of an individual in the medium range of Neuroticism, who is neither overly anxious nor completely unflappable.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "Medium",
+      "score": 0.53,
+      "rationale": "The subject scores in the Medium range for Openness. The act of creating an educational video to share knowledge ('seven questions you should be asking') reflects intellectual curiosity. His expressive communication, including animated facial expressions and vocal intonation, shows a degree of creative self-presentation. However, the subject matter is highly practical (real estate advice) and the delivery is conventional and structured. This preference for a traditional format within his professional field, rather than exploring more abstract or unconventional ideas, aligns well with a medium level of Openness.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During 7.9s - 11.6s, the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Low Agreeableness, suggested by the use of an assertive and commanding gesture."
+        },
+        {
+          "id": "B",
+          "text": "High Extraversion, indicated by the expressive energy in his social presentation."
+        },
+        {
+          "id": "C",
+          "text": "High Neuroticism, because the gesture serves to manage on-camera anxiety."
+        },
+        {
+          "id": "D",
+          "text": "Low Conscientiousness, reflecting a disorganized and unstructured approach."
+        },
+        {
+          "id": "E",
+          "text": "High Agreeableness, demonstrated by the consistent warmth in his demeanor."
+        },
+        {
+          "id": "F",
+          "text": "High Conscientiousness, shown by the methodical gesture used for enumeration."
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The behavior from 7.9s - 11.6s is the subject raising his left index finger to deliberately mark 'Number one'. The personality analysis explicitly cites this as evidence for High Conscientiousness, describing it as a 'deliberate use of a hand gesture to enumerate his first point' which 'underscores a methodical and detail-oriented approach'.\n\nOption A is a text-based distractor; while pointing can be assertive, the context here is instructional, not commanding, making this interpretation less likely.\nOption B is a near-miss distractor; the gesture is expressive (related to Extraversion), but its primary function in this context is to provide structure, which is a stronger signal for Conscientiousness.\nOption C is a text-based distractor; there is no visual evidence to support that the gesture is a sign of anxiety management; rather, it appears controlled and purposeful.\nOption D is a near-miss distractor because it identifies the correct personality dimension (Conscientiousness) but suggests the opposite direction (Low), which contradicts the organized nature of the behavior.\nOption E is a video-based distractor; High Agreeableness is supported by evidence in the video (e.g., slight smiles from 0.0s-7.9s), but not by the specific enumerating gesture in the 7.9s-11.6s interval."
+    },
+    {
+      "category": "Mixed Emotion Discrimination",
+      "question": "During 0.0s - 7.9s, the person's emotional state is best characterized as which of the following? Consider both verbal and non-verbal cues.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Earnest persuasion mixed with some mild apprehension about the topic."
+        },
+        {
+          "id": "B",
+          "text": "Intellectual curiosity tempered by a focused analytical expression."
+        },
+        {
+          "id": "C",
+          "text": "Assertive authority mixed with an instructive and guiding demeanor."
+        },
+        {
+          "id": "D",
+          "text": "Enthusiastic engagement tempered by a carefully managed presentation."
+        },
+        {
+          "id": "E",
+          "text": "Amiable sincerity mixed with a degree of formal presentation style."
+        },
+        {
+          "id": "F",
+          "text": "Professional confidence mixed with an approachable and warm demeanor."
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "During 0.0s-7.9s, the subject displays direct eye contact, a clear and steady voice, and relaxed shoulders, which signal professional confidence. This is combined with slight smiles between phrases and a helpful framing ('I want to go over...'), which creates an approachable and warm demeanor. This option best captures the blend of competence and rapport-building.\n\nOption A is a text-based distractor; there are no visual or auditory cues (like hesitation or tension) to suggest apprehension.\nOption B is a text-based distractor; while he is focused, his state is more about imparting knowledge than expressing curiosity.\nOption C is a video-based distractor; 'Assertive authority' is an overstatement of his tone in this segment, though it might be more applicable to the later emphasis gestures.\nOption D is a near-miss distractor; he is engaging and managed, but 'enthusiastic' implies more energy than is shown, and 'confidence/warmth' is a more precise description of the emotion.\nOption E is a near-miss distractor; this is very close, but 'professional confidence' better captures the directness and clarity than 'amiable sincerity', and 'approachable warmth' is more accurate than 'formal presentation' given the smiles."
+    },
+    {
+      "category": "Temporal-Causal Reasoning",
+      "question": "Consider the sequence of behaviors observed across the video. Which of the following best describes the causal chain linking the person's actions at different moments?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A self-monitoring action leads to a compensatory display of confidence, which triggers heightened cognitive load."
+        },
+        {
+          "id": "B",
+          "text": "An expression of uncertainty prompts a request for audience clarification, which is then followed by a display of feedback."
+        },
+        {
+          "id": "C",
+          "text": "A point-of-emphasis clarification first prompts a structural cueing behavior, which is then followed by a rapport-building display."
+        },
+        {
+          "id": "D",
+          "text": "A structural cueing behavior is followed by a rapport-building display, which then enables a point-of-emphasis clarification."
+        },
+        {
+          "id": "E",
+          "text": "A topic-shifting diversionary tactic follows an emotional regulation attempt, which was triggered by audience-response processing."
+        },
+        {
+          "id": "F",
+          "text": "An initial rapport-building display leads to a structural cueing behavior which then enables a point-of-emphasis clarification."
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "This option correctly maps the video's abstract structure. The first segment (0.0s-7.9s) involves smiles and direct eye contact (rapport-building). This sets the stage for the hand gesture at 7.9s (structural cueing for 'Number one'). This gesture then provides the context for the subsequent vocal emphasis (point-of-emphasis clarification) on 'don't want' and 'brand new' (11.2s-15.0s).\n\nOption A is a text-based distractor; it uses plausible psychological terms but does not map to the observed behaviors.\nOption B is a text-based distractor; the speaker shows no uncertainty and does not request clarification.\nOption C is a distractor with reversed temporal order; the rapport-building display happens first, not last.\nOption D is a near-miss distractor; it contains the correct components but has the incorrect temporal order, incorrectly placing the structural cue before the rapport-building display.\nOption E is a text-based distractor; the concepts of emotional regulation and diversionary tactics do not align with the straightforward, educational content of the video."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 7.9s, a region was detected in the video (x=0.373, y=0.285, w=0.237, h=0.484, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sustained and direct eye contact with the camera."
+        },
+        {
+          "id": "B",
+          "text": "A display of relaxed and settled shoulder posture."
+        },
+        {
+          "id": "C",
+          "text": "A still head posture facing towards the camera."
+        },
+        {
+          "id": "D",
+          "text": "A subtle furrowing of the brow to show concern."
+        },
+        {
+          "id": "E",
+          "text": "A subtle smile appearing at the mouth's corners."
+        },
+        {
+          "id": "F",
+          "text": "A slight, synchronized head nod for emphasis."
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The provided bounding box (x=0.373, y=0.285, w=0.237, h=0.484) at 7.9s encloses the subject's head. At this exact moment, the observation notes state His head nods slightly in sync with the gesture. This option accurately describes that specific action.\n\nOption A is a video-based distractor; direct eye contact is occurring, but the bbox is for the whole head, and the most prominent *action* within it is the nod, not the static state of the eyes.\nOption B is a video-based distractor; the shoulders are relaxed, but they are outside the specified head region.\nOption C is a near-miss distractor; the head is facing the camera, but this describes a static state and misses the key action of nodding that occurs at this time.\nOption D is a text-based distractor based on negative evidence; the subject's brow is not furrowed, it is raised.\nOption E is a video-based distractor; a smile might be present, but it is located at the mouth, a sub-region, and the nod is the more prominent action of the entire head region at this timestamp."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "At which of the following moments and locations does the subject's expression most clearly communicate an approachable and trustworthy demeanor?",
+      "options": [
+        {
+          "id": "A",
+          "text": "At 7.9s, within the region defined by x=0.630, y=0.564, w=0.117, h=0.384."
+        },
+        {
+          "id": "B",
+          "text": "At 0.0s, within the region defined by x=0.332, y=0.422, w=0.287, h=0.411."
+        },
+        {
+          "id": "C",
+          "text": "At 7.9s, within the region defined by x=0.412, y=0.438, w=0.118, h=0.129."
+        },
+        {
+          "id": "D",
+          "text": "At 12.5s, within the region defined by x=0.400, y=0.560, w=0.120, h=0.110."
+        },
+        {
+          "id": "E",
+          "text": "At 2.1s, within the region defined by x=0.700, y=0.600, w=0.100, h=0.100."
+        },
+        {
+          "id": "F",
+          "text": "At 7.9s, within the region defined by x=0.403, y=0.554, w=0.110, h=0.116."
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "This option correctly identifies the location of the subject's mouth at 7.9s. The observation notes for the 0.0s-7.9s period explicitly mention that his corners of the mouth turn up slightly between phrases, revealing a slight smile. This smile is the strongest single cue for an approachable and trustworthy demeanor.\n\nOption A is a video-based distractor; this bbox captures the hand gesture, which signals emphasis and structure, not approachability.\nOption B is a video-based distractor; this bbox covers the shoulders. While relaxed shoulders contribute to a calm demeanor, the facial expression is a more direct communicator of trustworthiness.\nOption C is a near-miss distractor; this bbox covers the eyes at 7.9s. While his direct gaze contributes to sincerity, the eyes are widening for emphasis at this moment, and the smile (in option F) is a clearer signal of approachability.\nOption D is a video-based distractor; this points to the mouth region at 12.5s, a time when he is speaking with vocal stress and a more neutral mouth shape, not a smile.\nOption E is a text-based distractor; this time and bbox combination corresponds to empty space on the right side of the screen."
+    },
+    {
+      "category": "Counterfactual Reasoning",
+      "question": "If the person had NOT exhibited the behavior observed around 7.9s - 11.6s, which of the following personality assessments would be MOST affected?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The assessment for Extraversion would be less supported, as this removes a primary sign of his social expressiveness."
+        },
+        {
+          "id": "B",
+          "text": "The Agreeableness score would drop, because the gesture is the principal sign of his cooperative and helpful intent."
+        },
+        {
+          "id": "C",
+          "text": "The assessment for Conscientiousness would increase, since the absence of gestures implies purely verbal focus."
+        },
+        {
+          "id": "D",
+          "text": "The Openness score would be less supported, as the gesture represents a creative and unconventional communication choice."
+        },
+        {
+          "id": "E",
+          "text": "The Agreeableness score would increase, as the assertive gesture's absence would be interpreted more positively."
+        },
+        {
+          "id": "F",
+          "text": "The assessment for Conscientiousness would be less supported, as a key indicator of methodical communication is absent."
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The behavior in this interval is the deliberate hand gesture for enumeration ('Number one'). The personality analysis explicitly relies on this action as strong evidence for High Conscientiousness, stating it 'underscores a methodical and detail-oriented approach'. Removing this key piece of evidence would most directly and significantly weaken the support for a High Conscientiousness rating.\n\nOption A is a text-based distractor; while the gesture is expressive, his Extraversion score is also supported by his vocal variety and direct eye contact throughout the video, so the impact would be less significant.\nOption B is a text-based distractor; his Agreeableness is primarily supported by his warm tone and slight smiles, not this specific gesture.\nOption C is a near-miss distractor; it correctly identifies the trait (Conscientiousness) but posits the wrong direction of change and uses flawed reasoning.\nOption D is a near-miss distractor; it connects the behavior to a plausible trait (Openness) but the analysis grounds the gesture more firmly in structure (Conscientiousness) than in creativity.\nOption E is a near-miss distractor; while this is a possible secondary interpretation, the effect on the Conscientiousness score, for which the gesture is primary evidence, would be far more significant."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator13",
+      "version": 3,
+      "clues_total": 18,
+      "clues_correct": 13,
+      "clues_wrong_corrected": 1,
+      "clues_missing_skipped": 4,
+      "clues_bonus": 0
+    }
+  }
+}

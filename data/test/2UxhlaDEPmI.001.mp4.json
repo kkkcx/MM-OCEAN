@@ -1,0 +1,318 @@
+{
+  "video_id": "2UxhlaDEPmI.001.mp4",
+  "video_path": "2UxhlaDEPmI.001.mp4",
+  "transcription": "... can listen to this song all day without getting annoyed. My sister gets annoyed because I listen to this song all day, but this is my favorite song, guys. It's called \"Me, Myself and I\" by G-Eazy.",
+  "original_scores": {
+    "extraversion": 0.2710280373831776,
+    "agreeableness": 0.3626373626373627,
+    "conscientiousness": 0.2524271844660194,
+    "neuroticism": 0.20833333333333331,
+    "openness": 0.34444444444444444
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 8.7,
+      "description": "The subject maintains a direct gaze toward the camera. Their eyebrows are in a neutral position, occasionally raising slightly in sync with their speech. The mouth moves naturally while speaking, with a generally relaxed and neutral facial expression.",
+      "bboxes": [
+        {
+          "frame_time": 3.519425,
+          "x": 0.43364197530864196,
+          "y": 0.27869226903091243,
+          "w": 0.19290123456790123,
+          "h": 0.14814814814814814,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 8.7,
+      "end_time": 10.2,
+      "description": "The subject's mouth closes, and the lips press together and purse slightly. Their gaze briefly shifts down and to the right before returning to the camera.",
+      "bboxes": [
+        {
+          "frame_time": 9.302081,
+          "x": 0.5015432098765432,
+          "y": 0.6051668918018315,
+          "w": 0.13734567901234568,
+          "h": 0.10973936899862825,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 10.2,
+      "end_time": 15.11,
+      "description": "The subject's gaze returns to the camera as they continue speaking. Their facial expression remains neutral and relaxed.",
+      "bboxes": [
+        {
+          "frame_time": 13.650649,
+          "x": 0.4012345679012346,
+          "y": 0.3527663431049865,
+          "w": 0.21450617283950618,
+          "h": 0.4224965706447188,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 15.11,
+      "description": "The subject is sitting, framed from the chest up. Their head makes small, natural movements as they speak, including slight tilts and nods. The subject's right hand is visible at the bottom right of the frame, holding a small, dark, round object.",
+      "bboxes": [
+        {
+          "frame_time": 12.644217,
+          "x": 0.25308641975308643,
+          "y": 0.7258801977003225,
+          "w": 0.45987654320987653,
+          "h": 0.2741198022996775,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 8.4,
+      "description": "The subject speaks at a moderate pace and consistent volume over audible background music. Their pitch is in the mid-range with a conversational intonation. A slight upward inflection is heard on the word \"annoyed\" at 00:02 and 00:05.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 8.4,
+      "end_time": 15.11,
+      "description": "The speaker's pitch has a falling contour on the phrase \"song, guys.\" The speech rate and volume remain steady as they continue speaking. The background music persists.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.11,
+      "description": "The subject is a young person with long, dark hair, a medium skin tone, and is wearing glasses with black frames and a dark-colored shirt. The setting is a dimly lit indoor room, likely a kitchen. A very bright window behind the subject's left side creates a strong backlight and lens flare. To the subject's right is a dark wooden shelving unit filled with various items. To the left, a kitchen counter and upper cabinets are visible.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Low",
+      "score": 0.27,
+      "rationale": "The subject's Low Extraversion score is supported by their reserved demeanor. They maintain a consistently neutral and relaxed facial expression, lacking the broad, dynamic expressiveness typical of high extraversion. Their speech is delivered at a moderate, steady pace and volume, without the energetic and boisterous quality of a highly extraverted individual. The physical movements are minimal and contained within their personal space, further indicating a lower level of social energy and outward expressiveness.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Low",
+      "score": 0.36,
+      "rationale": "The Low Agreeableness score is reflected in the conversational content. The subject directly states that their repetitive song choice annoys their sister, and then immediately reasserts their own preference ('but this is my favorite song'). This framing suggests a prioritization of personal enjoyment over maintaining social harmony, a characteristic of lower agreeableness. The absence of warm, pro-social facial expressions like smiling, combined with a generally neutral and self-focused narrative, supports this assessment.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Low",
+      "score": 0.25,
+      "rationale": "The Low Conscientiousness score is supported by environmental and presentational cues. The subject is filming in a setting with poor lighting control, evidenced by the strong backlight and lens flare, which indicates a lack of meticulous planning or preparation. The conversational topic is spontaneous and unstructured. This casual, improvisational approach is characteristic of individuals who score lower on conscientiousness, as they tend to be less organized and detail-oriented.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Low",
+      "score": 0.21,
+      "rationale": "The subject's Low Neuroticism score is strongly supported by their calm and stable demeanor. Throughout the clip, they maintain a relaxed facial expression, direct eye contact with the camera, and a steady vocal tone. There are no signs of anxiety, tension, or self-consciousness, such as fidgeting, vocal quivering, or avoiding gaze. This consistent display of emotional stability and confidence is a clear indicator of low neuroticism.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "Low",
+      "score": 0.34,
+      "rationale": "The Low Openness score is suggested by the subject's narrow and conventional focus. Their entire discussion centers on a single, mainstream pop song, indicating a preference for the familiar rather than a wide range of diverse or novel experiences. The language used is straightforward and concrete, lacking the abstract or imaginative qualities often seen in individuals high in openness. The conventional setting and overall presentation further contribute to an impression of practicality over intellectual curiosity.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During 0s - 8s, the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A low level of Agreeableness, indicated by the verbal content."
+        },
+        {
+          "id": "B",
+          "text": "A high level of Neuroticism, suggested by social conflict."
+        },
+        {
+          "id": "C",
+          "text": "A high level of Extraversion, suggested by their social sharing."
+        },
+        {
+          "id": "D",
+          "text": "A low level of Neuroticism, indicated by their calm demeanor."
+        },
+        {
+          "id": "E",
+          "text": "A high level of Agreeableness, because of family discussion."
+        },
+        {
+          "id": "F",
+          "text": "A low level of Openness, because the song choice is mainstream."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. During this period, the speaker explicitly states that their repetitive playing of a song annoys their sister but immediately follows this by reasserting their own preference, which is a classic indicator of Low Agreeableness (prioritizing self-interest over social harmony).\n- Option B is a text-based distractor because while social conflict is mentioned, the person's calm and steady delivery (a video cue) strongly contradicts a high neuroticism assessment.\n- Option C is a text-based distractor because sharing preferences might sound extraverted, but the person's overall reserved demeanor, moderate speech, and lack of expressive animation (video cues) point to Low Extraversion.\n- Option D is a video-based distractor. The person does exhibit Low Neuroticism through their calm demeanor, but this is a general trait observed throughout the video. The specific verbal content in this time segment is much stronger evidence for Agreeableness.\n- Option E is a near-miss distractor. It correctly identifies that Agreeableness is the relevant dimension but gets the direction wrong. Acknowledging but then dismissing their sister's feelings is a sign of low, not high, Agreeableness.\n- Option F is a video-based distractor. While the song choice is used as evidence for Low Openness in the analysis, the statement about their sister is the most direct and powerful behavioral cue in this specific time range, and it points squarely to Agreeableness."
+    },
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their low Agreeableness level?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[8.7s - 10.2s]"
+        },
+        {
+          "id": "B",
+          "text": "[1.8s - 3.3s]"
+        },
+        {
+          "id": "C",
+          "text": "[12.5s - 14.0s]"
+        },
+        {
+          "id": "D",
+          "text": "[5.0s - 6.5s]"
+        },
+        {
+          "id": "E",
+          "text": "[0.1s - 1.6s]"
+        },
+        {
+          "id": "F",
+          "text": "[10.3s - 11.8s]"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. In the interval [8.7s - 10.2s], immediately after stating their preference despite their sister's annoyance, the person's mouth closes, their lips press together and purse slightly, and their gaze shifts away. This subtle expression of self-containment or mild defiance is the most significant non-verbal cue related to their Low Agreeableness.\n- Options B, C, D, and E are video-based distractors. These are all valid time intervals within the video, but they feature only neutral expressions, normal speech articulation, or slight eyebrow movements that are not as significant or relevant to the trait in question.\n- Option F is a near-miss distractor. This interval occurs immediately after the correct one, capturing the moment the person's expression returns to neutral rather than the micro-expression itself."
+    },
+    {
+      "category": "Temporal-Causal Reasoning",
+      "question": "Consider the sequence of behaviors observed across the video. Which of the following best describes the causal chain linking the person's actions at different moments?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Acknowledging social friction is followed by verbal self-assertion, culminating in a non-verbal display of self-containment."
+        },
+        {
+          "id": "B",
+          "text": "A non-verbal display of self-containment leads to a verbal self-assertion, which is then justified by mentioning social friction."
+        },
+        {
+          "id": "C",
+          "text": "A moment of environmental distraction is followed by a re-focusing statement, concluding with a neutral return to the main topic."
+        },
+        {
+          "id": "D",
+          "text": "An initial statement of preference triggers a memory of conflict, leading to a vocal shift that indicates some heightened emotion."
+        },
+        {
+          "id": "E",
+          "text": "Acknowledging social friction causes a display of discomfort, which is then followed by a compensatory verbal affirmation."
+        },
+        {
+          "id": "F",
+          "text": "A verbal self-assertion causes a moment of social reflection, which is then followed by a facial expression of clear regret."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. This option correctly maps the sequence: first, the person mentions their sister gets annoyed (acknowledging friction), then they state \"but this is my favorite song\" (verbal self-assertion), and this sequence concludes with the lip purse and gaze shift (non-verbal self-containment).\n- Option B is a distractor with reversed temporal order. The non-verbal display happens after the verbal assertion, not before.\n- Option C is a video-based distractor. It misinterprets the internal gaze shift as a reaction to an 'environmental distraction', which is not supported by the video.\n- Option D is a text-based distractor. While plausible in theory, watching the video shows there is no discernible 'vocal shift' or evidence of 'heightened emotion'; the delivery remains calm and steady.\n- Option E is a near-miss distractor. The temporal order is incorrect (the verbal statement comes before the non-verbal display), and it misinterprets the final expression as 'discomfort' rather than something more resolute or defiant.\n- Option F is a distractor with wrong causality. The final expression is not one of 'regret'; it appears to be one of quiet resolve, which contradicts the proposed emotional arc."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 9.3s, a region was detected in the video (x=0.502, y=0.605, w=0.137, h=0.110, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The person's mouth area, with the lips slightly pursed together."
+        },
+        {
+          "id": "B",
+          "text": "The lower frame of the person's glasses and their right cheek area."
+        },
+        {
+          "id": "C",
+          "text": "The person's mouth while it is open during articulated speech."
+        },
+        {
+          "id": "D",
+          "text": "A clear view of the person's right hand holding a round object."
+        },
+        {
+          "id": "E",
+          "text": "A relaxed, neutral facial expression while looking at the camera."
+        },
+        {
+          "id": "F",
+          "text": "The bright reflection of a screen on the person's eyeglass lens."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. The provided coordinates at 9.3s precisely frame the subject's mouth region at the moment their lips press together and purse slightly.\n- Option B is a near-miss distractor. This describes a region spatially adjacent to the correct one, testing for precise spatial localization.\n- Option C is a video-based distractor. This describes the mouth's appearance at a different time in the video (e.g., around 3.5s) when the person is actively speaking.\n- Option D is a video-based distractor. This describes the content of a different bounding box (e.g., at 12.6s) located in a completely different part of the frame (bottom right).\n- Option E is a video-based distractor. This describes the general expression seen during other parts of the video (e.g., around 13.7s) but not the specific micro-expression at 9.3s.\n- Option F is a text-based distractor. It suggests a plausible visual detail for someone wearing glasses, but this is not what is visible in the specified region upon inspection."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "At which point in time and within which specific bounding box does the subject display their baseline, neutral expression while speaking?",
+      "options": [
+        {
+          "id": "A",
+          "text": "9.3s at (x=0.434, y=0.279, w=0.193, h=0.148)"
+        },
+        {
+          "id": "B",
+          "text": "13.7s at (x=0.502, y=0.605, w=0.137, h=0.110)"
+        },
+        {
+          "id": "C",
+          "text": "3.5s at (x=0.253, y=0.726, w=0.460, h=0.274)"
+        },
+        {
+          "id": "D",
+          "text": "12.6s at (x=0.401, y=0.353, w=0.215, h=0.422)"
+        },
+        {
+          "id": "E",
+          "text": "3.5s at (x=0.434, y=0.279, w=0.193, h=0.148)"
+        },
+        {
+          "id": "F",
+          "text": "9.3s at (x=0.502, y=0.605, w=0.137, h=0.110)"
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. At 3.5s, the person is in the middle of speaking with a direct gaze and a neutral expression, which serves as their baseline. The bounding box (x=0.434, y=0.279, w=0.193, h=0.148) correctly frames their face during this moment.\n- Option A is a near-miss distractor. It provides the correct bounding box for the neutral expression but pairs it with the wrong timestamp (9.3s), which is when the lip purse occurs.\n- Option B is a video-based distractor. It pairs a timestamp of a neutral expression (13.7s) with the bounding box for the lip purse expression (from 9.3s), making both elements incorrect for the question asked.\n- Option C is a video-based distractor. It uses the correct timestamp (3.5s) but pairs it with the bounding box for the subject's hand, not their face.\n- Option D is a video-based distractor. It uses an incorrect timestamp and an incorrect bounding box for the described action.\n- Option F is a near-miss distractor. It correctly identifies the time and location of a significant facial expression (the lip purse), but it is not the 'baseline, neutral expression' that the question asks for."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator08",
+      "version": 1,
+      "clues_total": 7,
+      "clues_correct": 7,
+      "clues_wrong_corrected": 0,
+      "clues_missing_skipped": 0,
+      "clues_bonus": 0
+    }
+  }
+}

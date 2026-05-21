@@ -1,0 +1,389 @@
+{
+  "video_id": "QS7TwjzkYiU.001.mp4",
+  "video_path": "QS7TwjzkYiU.001.mp4",
+  "transcription": "- trying to film videos, clean up the house, so what I like to do is use an app called Cozi, C-O-Z-I, and it's really, really cool. All I do is plan everything from the meals to lunch -",
+  "original_scores": {
+    "extraversion": 0.4112149532710281,
+    "agreeableness": 0.5604395604395604,
+    "conscientiousness": 0.7087378640776699,
+    "neuroticism": 0.5,
+    "openness": 0.5111111111111111
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 1.683,
+      "description": "The subject's gaze is directed upwards and to her right. Her eyebrows are in a neutral, relaxed position, and her mouth is slightly open.",
+      "bboxes": [
+        {
+          "frame_time": 0.378376,
+          "x": 0.43264802631578947,
+          "y": 0.42192982121517786,
+          "w": 0.16430921052631578,
+          "h": 0.1368421052631579,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 0.407482,
+          "x": 0.40896381578947366,
+          "y": 0.4008771896362305,
+          "w": 0.19391447368421053,
+          "h": 0.0868421052631579,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 0.669435,
+          "x": 0.4652138157894737,
+          "y": 0.6087719264783358,
+          "w": 0.12730263157894736,
+          "h": 0.12368421052631579,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 1.683,
+      "end_time": 15.5,
+      "description": "The subject's gaze shifts to look directly at the camera and remains there. Her eyebrows are slightly raised throughout, and the corners of her mouth are slightly upturned as she speaks, creating an engaged expression. She blinks naturally.",
+      "bboxes": [
+        {
+          "frame_time": 5.021406,
+          "x": 0.4296875,
+          "y": 0.45087718963623047,
+          "w": 0.14950657894736843,
+          "h": 0.1,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 5.021406,
+          "x": 0.4134046052631579,
+          "y": 0.3877192948993884,
+          "w": 0.17911184210526315,
+          "h": 0.0868421052631579,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 4.464456,
+          "x": 0.4563322368421053,
+          "y": 0.63508771595202,
+          "w": 0.11546052631578947,
+          "h": 0.11842105263157894,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 5.605993,
+          "x": 0.3882401315789474,
+          "y": 0.316666663320441,
+          "w": 0.22648026315789474,
+          "h": 0.4921052631578947,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 5.938359,
+          "x": 0.4030427631578947,
+          "y": 0.46403508437307256,
+          "w": 0.1879934210526316,
+          "h": 0.09473684210526316,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 15.5,
+      "description": "The subject sits upright in a white chair, framed from the chest up. Her head remains centered, with subtle, small nods that synchronize with her speech. Her shoulders are relaxed and stationary.",
+      "bboxes": [
+        {
+          "frame_time": 4.945326,
+          "x": 0.2490953947368421,
+          "y": 0.1429824527941252,
+          "w": 0.42483552631578947,
+          "h": 0.8526315789473684,
+          "note": "human-annotated",
+          "region": "unknown"
+        },
+        {
+          "frame_time": 4.945326,
+          "x": 0.3482730263157895,
+          "y": 0.16929824226780943,
+          "w": 0.30641447368421054,
+          "h": 0.8210526315789474,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 14.962337,
+          "x": 0.3216282894736842,
+          "y": 0.1798245580572831,
+          "w": 0.34638157894736843,
+          "h": 0.6394736842105263,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 14.962337,
+          "x": 0.21949013157894737,
+          "y": 0.7719298212151778,
+          "w": 0.5417763157894737,
+          "h": 0.2236842105263158,
+          "note": "pose human-annotated",
+          "region": "shoulders"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0.31,
+      "end_time": 6.21,
+      "description": "The segment begins with a filler word (\"um\"). The speech rate is moderate, with a brief pause after \"videos\" and \"house.\" The pace is steady and conversational.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 6.21,
+      "end_time": 9.61,
+      "description": "Vocal energy and pitch increase slightly on the phrase \"an app called Cozi.\" The letters \"C-O-Z-I\" are enunciated distinctly with pauses between them. Pitch rises noticeably for emphasis on the phrase \"really, really cool.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 9.61,
+      "end_time": 15.11,
+      "description": "The speech returns to a moderate, conversational pace. The pitch contour is relatively even with a slight downward inflection at the end of the phrase \"to laundry.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.5,
+      "description": "The subject is a woman with a dark skin tone and dark, braided hair styled in a high bun. She is wearing a bright red scarf over a light-colored top and small stud earrings. The setting is an indoor space with bright, even lighting against a white wall. The background is decorated for Christmas, featuring a green wreath with red poinsettias and ornaments, two tall, sparkling cone-shaped decorations (one pink/silver, one gold), and several lit candles in red and green holders on a surface to the right.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Medium",
+      "score": 0.41,
+      "rationale": "The subject's Extraversion score is in the Medium range. While addressing a camera indicates a degree of social confidence, her overall energy level is moderate rather than high. Her speech is conversational and paced steadily, not rapid or forceful. Non-verbally, she maintains direct eye contact after an initial moment of upward gaze (0.0s-1.7s), suggesting a brief period of internal processing before engaging. Her relaxed shoulders and controlled head movements reflect a composed social presence, lacking the expansive gesturing often seen in high extraversion. This balance of direct engagement and contained energy supports a medium classification.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Medium",
+      "score": 0.56,
+      "rationale": "The subject exhibits a Medium level of Agreeableness. Her motivation in the video is prosocial—she is sharing a helpful tip about an organizational app. This cooperative intent is a hallmark of agreeableness. Her demeanor reinforces this; her facial expression is engaged, and the corners of her mouth are slightly turned up while speaking, conveying a pleasant and approachable attitude. The conversational and warm vocal tone further projects a non-confrontational and friendly disposition, consistent with a mid-range score.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "High",
+      "score": 0.71,
+      "rationale": "The subject scores High in Conscientiousness. The entire premise of her monologue centers on orderliness and planning ('clean up the house,' 'plan everything from the meals to lunch'). Her deliberate and clear enunciation when spelling out the app's name, 'C-O-Z-I,' demonstrates a detail-oriented and dutiful approach to communicating information effectively. This verbal evidence is strongly corroborated by the visual context: her neat, put-together appearance and the intentionally arranged, orderly background suggest a person who values structure and organization.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Medium",
+      "score": 0.5,
+      "rationale": "The subject's Neuroticism is assessed as Medium. There are subtle cues that suggest a baseline level of self-consciousness, such as starting her sentence with the filler word 'um' and briefly averting her gaze (0.0s-1.7s) before locking onto the camera. However, these are minor and are counterbalanced by strong indicators of emotional stability. Her shoulders remain relaxed and still, her posture is composed, and once she engages, her eye contact is steady. Her vocal delivery is calm and controlled throughout. This mixture of minor hesitation with overall composure points to a mid-range score, indicating she is not free from minor anxieties but is generally emotionally stable.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "Medium",
+      "score": 0.51,
+      "rationale": "The subject's Openness is rated as Medium. She demonstrates an inclination towards new experiences by adopting and recommending a technological solution (the 'Cozi' app) for everyday tasks. Furthermore, her styled appearance (braided updo, bright scarf) and the aesthetic arrangement of the background decorations suggest an appreciation for aesthetics. However, the subject matter itself is practical and conventional—household management—rather than abstract, intellectual, or highly creative. This combination of using novel tools for traditional purposes supports a medium level of openness.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their Neuroticism level?",
+      "options": [
+        {
+          "id": "A",
+          "text": "4.5s - 6.2s"
+        },
+        {
+          "id": "B",
+          "text": "7.0s - 8.7s"
+        },
+        {
+          "id": "C",
+          "text": "9.1s - 10.8s"
+        },
+        {
+          "id": "D",
+          "text": "12.0s - 13.7s"
+        },
+        {
+          "id": "E",
+          "text": "0.0s - 1.7s"
+        },
+        {
+          "id": "F",
+          "text": "2.5s - 4.2s"
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The analysis for Medium Neuroticism specifically cites the brief gaze aversion from 0.0s-1.7s as a cue for self-consciousness or internal processing before engaging the audience. This is the most significant expression change relevant to that trait. Option E is correct. All other options (A, B, C, D, F) are video-based distractors; they represent periods of stable, direct-to-camera engagement and do not contain the key expression change related to the initial hesitation noted in the Neuroticism analysis."
+    },
+    {
+      "category": "Mixed Emotion Discrimination",
+      "question": "During 3.5s - 8.5s, the person's emotional state is best characterized as which of the following? Consider both verbal and non-verbal cues.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Confident pride mixed with a sense of thoughtful reflection."
+        },
+        {
+          "id": "B",
+          "text": "Enthusiastic persuasion tempered by a sense of calm composure."
+        },
+        {
+          "id": "C",
+          "text": "Mild personal amusement mixed with focused concentration."
+        },
+        {
+          "id": "D",
+          "text": "Quiet satisfaction tempered by a degree of self-awareness."
+        },
+        {
+          "id": "E",
+          "text": "Genuine excitement mixed with a deliberate need for clarity."
+        },
+        {
+          "id": "F",
+          "text": "A sense of helpfulness mixed with a feeling of warm engagement."
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "In this segment, the person is sharing a useful tip (helpfulness) while maintaining direct eye contact, a slight smile, and a warm vocal tone (warm engagement). This combination accurately describes her state. Option F is correct. Option A is a text-based distractor; the emotion is not prideful but outwardly directed. Option C is a video-based distractor; her expression is pleasant but doesn't suggest private amusement. Option E is a text-based distractor; 'excitement' is too strong for her moderate energy level. Option B is a near-miss distractor; 'persuasion' is slightly incorrect as she is sharing information, not trying to overcome resistance, and 'enthusiastic' is a slight overstatement of her energy."
+    },
+    {
+      "category": "Temporal-Causal Reasoning",
+      "question": "Consider the sequence of behaviors observed across the video. Which of the following best describes the causal chain linking the person's actions at different moments?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A period of social display triggers an emotional regulation strategy, which is then followed by a moment of quiet self-correction."
+        },
+        {
+          "id": "B",
+          "text": "A display of detailed information prompts a shift to direct social engagement, which concludes with a moment of internal reflection."
+        },
+        {
+          "id": "C",
+          "text": "A preparatory gesture is followed by a period of monotone information delivery, which then transitions into an expressive conclusion."
+        },
+        {
+          "id": "D",
+          "text": "An initial moment of internal processing leads to a sustained phase of direct social engagement, which then causes a decrease in clarity."
+        },
+        {
+          "id": "E",
+          "text": "A phase of direct social engagement causes a moment of cognitive load and internal processing, followed by a return to baseline state."
+        },
+        {
+          "id": "F",
+          "text": "An initial moment of internal processing leads to a sustained phase of direct social engagement, which is modulated for specific detail."
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The video shows a clear sequence: 1) gaze aversion at the start (internal processing, 0.0-1.7s), 2) looking at the camera and speaking (direct engagement, 1.7s+), and 3) vocally emphasizing and spelling a word (modulating for detail, 6.2s+). Option F correctly captures this causal flow. Option A is a text-based distractor using plausible psychological terms that don't fit the events. Option E is a video-based distractor with the temporal order reversed. Option B is another video-based distractor that scrambles the event order. Option D is a near-miss distractor; it has the first two steps correct but incorrectly claims clarity decreases when it actually increases."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 15.0s, a region was detected in the video (x=0.219, y=0.772, w=0.542, h=0.224, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A posture suggesting slightly tense and raised shoulders."
+        },
+        {
+          "id": "B",
+          "text": "A neutral and composed positioning of the eyebrows."
+        },
+        {
+          "id": "C",
+          "text": "A subtle upward turn of the corners of the mouth."
+        },
+        {
+          "id": "D",
+          "text": "An overall facial expression of pleasant engagement."
+        },
+        {
+          "id": "E",
+          "text": "A direct and steady pattern of maintained eye contact."
+        },
+        {
+          "id": "F",
+          "text": "A posture indicating relaxed and completely still shoulders."
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The specified coordinates at 15.0s correspond to the person's shoulders. The observation data confirms that 'Her shoulders are relaxed and still' throughout the video. Option F is the correct description for this region. Options B, C, D, and E are all video-based distractors; they describe correct actions (eyebrows, mouth, face, eyes) that are happening at the same time but in different, non-overlapping regions of the frame. Option A is a near-miss distractor; it correctly identifies the body part (shoulders) but incorrectly describes their state as 'tense and raised' instead of 'relaxed and still'."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "Which of the following options correctly identifies the moment and location of a brief, non-direct gaze pattern indicative of internal cognitive processing before direct engagement?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Time=5.0s, Bbox=(x=0.413, y=0.388, w=0.179, h=0.087)"
+        },
+        {
+          "id": "B",
+          "text": "Time=0.7s, Bbox=(x=0.465, y=0.609, w=0.127, h=0.124)"
+        },
+        {
+          "id": "C",
+          "text": "Time=15.0s, Bbox=(x=0.322, y=0.180, w=0.346, h=0.639)"
+        },
+        {
+          "id": "D",
+          "text": "Time=4.9s, Bbox=(x=0.249, y=0.143, w=0.425, h=0.853)"
+        },
+        {
+          "id": "E",
+          "text": "Time=0.4s, Bbox=(x=0.409, y=0.401, w=0.194, h=0.087)"
+        },
+        {
+          "id": "F",
+          "text": "Time=0.4s, Bbox=(x=0.433, y=0.422, w=0.164, h=0.137)"
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The question asks for the brief, non-direct gaze at the beginning. The observation data notes this occurs at 0.4s, where the person's 'gaze moves upward and to her left'. The bounding box provided in Option F correctly isolates the eyes at that specific moment. All other options are video-based distractors. Options A, B, C, and D point to different body parts (eyebrows, mouth, head, full body) or different times of stable engagement. Option E is a near-miss distractor; it has the correct timestamp (0.4s) but provides the bounding box for the eyebrows, which are spatially very close to the eyes but incorrect."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator19",
+      "version": 1,
+      "clues_total": 16,
+      "clues_correct": 13,
+      "clues_wrong_corrected": 3,
+      "clues_missing_skipped": 0,
+      "clues_bonus": 0
+    }
+  }
+}

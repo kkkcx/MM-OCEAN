@@ -1,0 +1,387 @@
+{
+  "video_id": "gOS-CneQsxI.001.mp4",
+  "video_path": "gOS-CneQsxI.001.mp4",
+  "transcription": "I thought that the girl I thought, [inaudible 00:00:32] the younger version. I can remember this. I thought that the sort university spaceship that they're in, I thought that was the doctor's house, the tardis was his magic wardrobe, like Narnia and-",
+  "original_scores": {
+    "extraversion": 0.5420560747663552,
+    "agreeableness": 0.4615384615384615,
+    "conscientiousness": 0.47572815533980584,
+    "neuroticism": 0.625,
+    "openness": 0.711111111111111
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 6.7,
+      "description": "Subject maintains a direct gaze at the camera while speaking. His eyebrows are mostly neutral, raising slightly as he emphasizes a point around 0:03. His mouth moves naturally with his speech.",
+      "bboxes": [
+        {
+          "frame_time": 0.785859,
+          "x": 0.46817434210526315,
+          "y": 0.516666663320441,
+          "w": 0.1805921052631579,
+          "h": 0.07894736842105263,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 0.965049,
+          "x": 0.4474506578947368,
+          "y": 0.46140350542570413,
+          "w": 0.17467105263157895,
+          "h": 0.08157894736842106,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 0.965049,
+          "x": 0.48001644736842103,
+          "y": 0.6324561370046515,
+          "w": 0.11546052631578947,
+          "h": 0.1,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 6.7,
+      "end_time": 9.4,
+      "description": "His eyes widen, and his eyebrows raise in an animated, expressive manner as he describes the spaceship.",
+      "bboxes": [
+        {
+          "frame_time": 8.004121,
+          "x": 0.4178453947368421,
+          "y": 0.5719298212151779,
+          "w": 0.1169407894736842,
+          "h": 0.16052631578947368,
+          "note": "human-annotated",
+          "region": "unknown"
+        },
+        {
+          "frame_time": 8.702971,
+          "x": 0.3749177631578947,
+          "y": 0.42456140016254623,
+          "w": 0.16726973684210528,
+          "h": 0.10526315789473684,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 9.4,
+      "end_time": 15.3,
+      "description": "A smile appears and widens as he says \"doctor's house\" and \"magic wardrobe.\" His eyebrows remain raised, and his eyes are wide, conveying an amused or excited expression.",
+      "bboxes": [
+        {
+          "frame_time": 13.332199,
+          "x": 0.38231907894736844,
+          "y": 0.6140350843730725,
+          "w": 0.12434210526315789,
+          "h": 0.11052631578947368,
+          "note": "human-annotated",
+          "region": "unknown"
+        },
+        {
+          "frame_time": 14.36559,
+          "x": 0.3852796052631579,
+          "y": 0.6114035054257042,
+          "w": 0.11546052631578947,
+          "h": 0.07631578947368421,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 10.709049,
+          "x": 0.4030427631578947,
+          "y": 0.45087718963623047,
+          "w": 0.1524671052631579,
+          "h": 0.07368421052631578,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 13.594185,
+          "x": 0.33643092105263156,
+          "y": 0.466666663320441,
+          "w": 0.19391447368421053,
+          "h": 0.2710526315789474,
+          "note": "face human-annotated",
+          "region": "face"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 6.7,
+      "description": "The subject is seated, leaning slightly forward. His head remains relatively still. His right hand is partially visible at the bottom of the frame, making small gestures.",
+      "bboxes": [
+        {
+          "frame_time": 0.849216,
+          "x": 0.3438322368421053,
+          "y": 0.6087719264783358,
+          "w": 0.4722039473684211,
+          "h": 0.3815789473684211,
+          "note": "pose human-annotated",
+          "region": "torso"
+        },
+        {
+          "frame_time": 4.104569,
+          "x": 0.3497532894736842,
+          "y": 0.3192982422678094,
+          "w": 0.18651315789473685,
+          "h": 0.4026315789473684,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 5.327057,
+          "x": 0.7627467105263159,
+          "y": 0.5324561370046516,
+          "w": 0.23725328947368407,
+          "h": 0.43157894736842106,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 6.7,
+      "end_time": 9.4,
+      "description": "He lifts his right hand into the frame, fingers spread, and performs a large, sweeping gesture from right to left.",
+      "bboxes": [
+        {
+          "frame_time": 7.543022,
+          "x": 0.6813322368421053,
+          "y": 0.39824561068886205,
+          "w": 0.3167763157894737,
+          "h": 0.42894736842105263,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 9.4,
+      "end_time": 15.3,
+      "description": "His right hand lowers out of frame, then briefly re-enters to make a small, palm-up gesture before exiting the frame again to the right.",
+      "bboxes": [
+        {
+          "frame_time": 11.454629,
+          "x": 0.8589638157894738,
+          "y": 0.2798245580572831,
+          "w": 0.14103618421052622,
+          "h": 0.6657894736842105,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 15.3,
+      "description": "Speech is consistently fast-paced and energetic. The pitch is in a mid-to-high range with noticeable upward inflections on key words (\"pompadour,\" \"spaceship,\" \"doctor's house,\" \"magic wardrobe\") to add emphasis. The volume remains stable.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.3,
+      "description": "A young male with short, curly red hair and fair skin is centered in the frame. He wears a light blue zip-up hoodie over a lime green t-shirt. The setting is an indoor room, likely a bedroom, with a slanted ceiling. To the left is a window with a blue curtain featuring a white pattern. The back wall is blue and heavily decorated with posters, shelves holding DVDs, and various merchandise (including \"Doctor Who\" items). A computer monitor is visible on the right. The scene is illuminated by soft, natural light from the left.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 8.202971,
+      "end_time": 9.202971,
+      "description": "Obvious wrinkles on forehead",
+      "bboxes": [
+        {
+          "frame_time": 8.702971,
+          "x": 0.3734375,
+          "y": 0.3956140317414936,
+          "w": 0.1569078947368421,
+          "h": 0.09736842105263158,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    },
+    {
+      "dimension": "Background",
+      "start_time": 10.357882,
+      "end_time": 11.357882,
+      "description": "Cheeks raised",
+      "bboxes": [
+        {
+          "frame_time": 10.857882,
+          "x": 0.4060032894736842,
+          "y": 0.5403508738467567,
+          "w": 0.16875,
+          "h": 0.12105263157894737,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Medium",
+      "score": 0.54,
+      "rationale": "The subject exhibits a moderate level of Extraversion. His energetic and fast-paced speech, coupled with expressive hand gestures and head movements, indicates social energy. However, this is balanced by the context of a monologue and only brief glances at the camera, rather than sustained engagement. This combination of expressive delivery within a controlled, solitary setting supports a mid-range score, reflecting someone who is animated but not necessarily seeking constant external stimulation.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Medium",
+      "score": 0.46,
+      "rationale": "The subject's Agreeableness is assessed as Medium. His smiling and the generally pleasant, amused tone while recalling a memory suggest a degree of warmth and positive affect. However, the nature of the task—a simple monologue—provides insufficient evidence to observe key agreeableness indicators like cooperation, empathy, or conflict resolution. The absence of strong pro-social or antagonistic cues logically places him in the middle of the spectrum.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Medium",
+      "score": 0.48,
+      "rationale": "A Medium level of Conscientiousness is indicated. The subject is focused on recalling and explaining a specific memory, which shows some level of organized thought. However, the rapid, energetic speech and the slightly jumbled start to his sentence ('I thought that the girl I thought...') suggest a more spontaneous and less meticulously planned communication style. The overall evidence does not point to either high levels of orderliness or significant disorganization, warranting a medium assessment.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "High",
+      "score": 0.62,
+      "rationale": "The subject's Neuroticism is rated as High. While he displays positive emotions, the underlying behavioral patterns can be interpreted as expressions of nervous energy. The consistently fast rate of speech, continuous head swaying, and active gesturing may function as outlets for underlying tension or anxiety. This high level of activation, even in a positive context, can be characteristic of individuals with higher sensitivity to emotional arousal, a core facet of neuroticism.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "High",
+      "score": 0.71,
+      "rationale": "The subject scores High on Openness. The core evidence lies in the content of his speech: he describes a highly imaginative and abstract childhood belief, creatively merging the concepts of two distinct fictional universes ('Doctor Who' and 'Narnia'). This demonstrates a rich fantasy life and a capacity for divergent thinking. This is strongly corroborated by his environment, which is decorated with merchandise from a specific fantasy genre, indicating a deep engagement with aesthetic and intellectual interests.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Temporal-Causal Reasoning",
+      "question": "Consider the sequence of behaviors observed across the video. Which of the following best describes the causal chain linking the person's actions at different moments?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Emotional regulation (0-6s) is followed by a social gesture (7-9s), which is then justified by a concluding statement (10-15s)."
+        },
+        {
+          "id": "B",
+          "text": "A hesitant start (0-6s) is followed by cognitive recall (7-9s), triggering a display of social camera engagement (10-15s)."
+        },
+        {
+          "id": "C",
+          "text": "Verbal setup (0-6s) prompts a gesture (7-9s) to clarify an idea, culminating in an amused expression (10-15s) on the idea."
+        },
+        {
+          "id": "D",
+          "text": "An amused expression (10-15s) causes an illustrative gesture (7-9s) to explain the source, following the initial setup (0-6s)."
+        },
+        {
+          "id": "E",
+          "text": "An expressive gesture (7-9s) is followed by an amused look (10-15s), which then provides context for the initial verbal setup (0-6s)."
+        },
+        {
+          "id": "F",
+          "text": "A moment of self-correction (0-6s) leads to an emotional display (7-9s), justified by a final rationalization (10-15s)."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. This option accurately maps the abstract behavioral sequence to the video events: he begins telling the story (verbal setup), uses a large, illustrative hand gesture when mentioning the 'spaceship' to add emphasis (clarify an idea), and then smiles as he delivers the creative punchline (amused expression). \nOption A is a text-based distractor; the abstract labels like 'emotional regulation' and 'justified' do not fit the observed narrative behavior. \nOption B is a near-miss distractor; while the start could be seen as 'hesitant', the gesture at 7-9s is more illustrative than 'cognitive recall', and the final smile is about the memory, not primarily 'social engagement'. \nOption D is a near-miss distractor that inverts the causality; the illustrative gesture (7-9s) precedes and helps build up to the amused expression (10-15s), not the other way around. \nOption E is a video-based distractor with reversed temporal order; it incorrectly places the initial setup (0-6s) at the end of the causal chain. \nOption F is a text-based distractor; the initial stutter is not a significant 'self-correction', the gesture is not just an 'emotional display', and the conclusion is a punchline, not a 'rationalization'."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 0.8s, a region was detected in the video (x=0.344, y=0.609, w=0.472, h=0.382, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A clear expression of amusement and high excitement"
+        },
+        {
+          "id": "B",
+          "text": "A broad smile forming widely across the person's face"
+        },
+        {
+          "id": "C",
+          "text": "A stable seated posture with a slight forward lean"
+        },
+        {
+          "id": "D",
+          "text": "Side-to-side head movement accompanying his speech"
+        },
+        {
+          "id": "E",
+          "text": "Verbalizing a specific imaginative concept comparison"
+        },
+        {
+          "id": "F",
+          "text": "A brief, expressive raising of the person's eyebrows"
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. The provided coordinates (y=0.609, h=0.382) define a large rectangular region covering the person's torso and lower body. The observation log for this time confirms the action in the 'torso' region is Subject is sitting, leaning slightly forward, which matches the description. \nOption A is a video-based distractor; this describes a facial expression, but the bounding box is on the torso. \nOption B is a video-based distractor; this describes an action of the mouth, which is not located in the specified torso region. \nOption D is a near-miss distractor; the head is moving, and it's physically adjacent to the torso, but the bounding box specifically isolates the torso region, where the primary state is the posture. \nOption E is a text-based distractor; this describes the content of his speech, which is an auditory event, not a visual action within the specified bounding box. \nOption F is a video-based distractor; this describes an eyebrow movement, which occurs in the facial region, not the torso region defined by the coordinates."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "At which point in time and space does the person make a particularly vivid and illustrative facial expression to emphasize an abstract concept in their story?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[0.8s] x=0.34, y=0.61, w=0.47, h=0.38"
+        },
+        {
+          "id": "B",
+          "text": "[13.3s] x=0.38, y=0.61, w=0.12, h=0.11"
+        },
+        {
+          "id": "C",
+          "text": "[8.0s] x=0.42, y=0.57, w=0.12, h=0.16"
+        },
+        {
+          "id": "D",
+          "text": "[11.5s] x=0.86, y=0.28, w=0.14, h=0.67"
+        },
+        {
+          "id": "E",
+          "text": "[10.7s] x=0.40, y=0.45, w=0.15, h=0.07"
+        },
+        {
+          "id": "F",
+          "text": "[0.8s] x=0.47, y=0.52, w=0.18, h=0.08"
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. This option correctly identifies the moment around 8.0s when the person describes the 'spaceship'. The data log for this period notes that his 'eyebrows [are] raised in a lively, expressive way.' The bounding box correctly localizes this expression on his face as he speaks. \nOption A is a video-based distractor; this timestamp and bbox correspond to his torso at the beginning of the clip. \nOption B is a video-based distractor; this points to his mouth area later in the video, as he is smiling. \nOption D is a video-based distractor; this corresponds to his hand re-entering the frame for a small gesture. \nOption E is a video-based distractor; this timestamp and bbox isolate his eyebrows during a different, less emphatic moment. \nOption F is a video-based distractor; this bbox points to his eyes at the very beginning of the video."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator17",
+      "version": 1,
+      "clues_total": 21,
+      "clues_correct": 10,
+      "clues_wrong_corrected": 6,
+      "clues_missing_skipped": 3,
+      "clues_bonus": 2
+    }
+  }
+}

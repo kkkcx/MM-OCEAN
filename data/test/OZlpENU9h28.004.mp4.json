@@ -1,0 +1,377 @@
+{
+  "video_id": "OZlpENU9h28.004.mp4",
+  "video_path": "OZlpENU9h28.004.mp4",
+  "transcription": "Vape ... Me and my roommate actually, we went and got two free vapes, but my roommates ended up breaking. I never really use mine so, he just borrowed it and now I don't even know what happened ...",
+  "original_scores": {
+    "extraversion": 0.39252336448598135,
+    "agreeableness": 0.4175824175824176,
+    "conscientiousness": 0.42718446601941745,
+    "neuroticism": 0.4166666666666667,
+    "openness": 0.5222222222222223
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 0.9,
+      "description": "The subject's gaze is directed down and to his right. His mouth is open as he begins to speak, and his facial muscles appear relaxed.",
+      "bboxes": [
+        {
+          "frame_time": 0.19125,
+          "x": 0.45263157894736844,
+          "y": 0.39526315990247224,
+          "w": 0.16282894736842105,
+          "h": 0.08421052631578947,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 0.833933,
+          "x": 0.471875,
+          "y": 0.487368423060367,
+          "w": 0.07845394736842105,
+          "h": 0.09736842105263158,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 0.833933,
+          "x": 0.44671052631578945,
+          "y": 0.268947370428788,
+          "w": 0.1613486842105263,
+          "h": 0.35526315789473684,
+          "note": "face human-annotated",
+          "region": "face"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 0.9,
+      "end_time": 6.8,
+      "description": "He lifts his head and looks toward the camera. His eyebrows raise slightly, and his mouth moves naturally with his speech. He blinks a few times.",
+      "bboxes": [
+        {
+          "frame_time": 2.364545,
+          "x": 0.4363486842105263,
+          "y": 0.1768421072708933,
+          "w": 0.15098684210526317,
+          "h": 0.4342105263157895,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 4.746477,
+          "x": 0.42894736842105263,
+          "y": 0.3110526335866828,
+          "w": 0.14210526315789473,
+          "h": 0.05526315789473684,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 5.911363,
+          "x": 0.49851973684210527,
+          "y": 0.5531578967445775,
+          "w": 0.044407894736842105,
+          "h": 0.10526315789473684,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 4.054871,
+          "x": 0.4541118421052632,
+          "y": 0.36105263358668277,
+          "w": 0.14210526315789473,
+          "h": 0.05789473684210526,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 6.8,
+      "end_time": 8.9,
+      "description": "The corners of his mouth pull up and to the sides into a slight smile as he speaks.",
+      "bboxes": [
+        {
+          "frame_time": 7.446232,
+          "x": 0.471875,
+          "y": 0.46894737042878804,
+          "w": 0.10213815789473685,
+          "h": 0.1,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 8.9,
+      "end_time": 15.53,
+      "description": "The smile fades, and his expression returns to a neutral, speaking state. His gaze remains generally forward-facing.",
+      "bboxes": [
+        {
+          "frame_time": 13.493537,
+          "x": 0.4585526315789474,
+          "y": 0.4794736862182617,
+          "w": 0.10953947368421053,
+          "h": 0.07894736842105263,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 13.423983,
+          "x": 0.43782894736842104,
+          "y": 0.19526315990247226,
+          "w": 0.1569078947368421,
+          "h": 0.42105263157894735,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 15.30195,
+          "x": 0.4777960526315789,
+          "y": 0.4031578967445775,
+          "w": 0.1450657894736842,
+          "h": 0.07631578947368421,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 15.53,
+      "description": "The subject is seated and shown from the chest up. His posture is upright and largely still, with his head making small, natural movements as he speaks. His shoulders remain relaxed and level.",
+      "bboxes": [
+        {
+          "frame_time": 7.118901,
+          "x": 0.3268092105263158,
+          "y": 0.5400000020077355,
+          "w": 0.39226973684210525,
+          "h": 0.45526315789473687,
+          "note": "human-annotated",
+          "region": "unknown"
+        },
+        {
+          "frame_time": 7.118901,
+          "x": 0.4363486842105263,
+          "y": 0.17157894937615645,
+          "w": 0.17615131578947368,
+          "h": 0.44473684210526315,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 12.051709,
+          "x": 0.3875,
+          "y": 0.5531578967445775,
+          "w": 0.3375,
+          "h": 0.4394736842105263,
+          "note": "pose human-annotated",
+          "region": "torso"
+        },
+        {
+          "frame_time": 12.051709,
+          "x": 0.40230263157894736,
+          "y": 0.17421052832352488,
+          "w": 0.21463815789473684,
+          "h": 0.46842105263157896,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 12.051709,
+          "x": 0.34161184210526313,
+          "y": 0.5978947388498407,
+          "w": 0.3774671052631579,
+          "h": 0.12368421052631579,
+          "note": "pose human-annotated",
+          "region": "shoulders"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0.1,
+      "end_time": 6.4,
+      "description": "Speech is delivered at a moderate, conversational pace and volume. There is a slight pause after the word \"actually\" (at 2.6s).",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 6.9,
+      "end_time": 8.9,
+      "description": "The pitch rises slightly and the pace quickens on the phrase \"my roommates ended up breaking.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 9.1,
+      "end_time": 15.53,
+      "description": "The pace of speech returns to a moderate level. The final phrase, \"know what happened to it,\" is delivered with a falling intonation and a slight decrease in volume.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.53,
+      "description": "The subject is a young male with dark hair. He is wearing a white t-shirt, a red and black plaid sleeveless hoodie, and a necklace with a small rectangular pendant. He is in an indoor room, likely a bedroom, with artificial lighting coming from the front. Behind him, a sliding closet door is covered in numerous posters and pictures. To his right, a light-colored wooden dresser and a white door are visible. Several items, including spray cans, are on top of the dresser.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Low",
+      "score": 0.39,
+      "rationale": "The subject's behavior aligns with a Low level of Extraversion. His communication style is reserved, characterized by a moderate speech volume and a tendency to look down, both initially and throughout the narrative. This avoidance of sustained eye contact is a common indicator of introversion. Furthermore, his physical presence is contained, with a still posture and a lack of broad, energetic gestures. The narrative concludes with a lowered volume and falling intonation, suggesting a less assertive and more subdued social energy.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Medium",
+      "score": 0.42,
+      "rationale": "The subject exhibits a Medium level of Agreeableness. He displays affiliative cues such as relaxed facial muscles and a slight, sustained smile while speaking, which indicates a pleasant and non-hostile disposition. The content of his story, where he recounts his roommate borrowing and losing his property, is delivered without any expressed frustration or blame. This passive, non-confrontational storytelling style points towards a cooperative nature. However, the interaction lacks overt expressions of warmth or empathy, placing his agreeableness in the mid-range.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Medium",
+      "score": 0.43,
+      "rationale": "A Medium Conscientiousness score is supported by a mix of controlled and casual behaviors. The subject's upright, still posture and relaxed shoulders suggest a degree of self-control and composure. However, the verbal narrative is somewhat unstructured, and its content—recounting casually losing track of his property—suggests a laissez-faire attitude rather than a meticulous or organized one. This balance between physical self-discipline and a casual approach to personal organization supports a medium classification.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Medium",
+      "score": 0.42,
+      "rationale": "The subject's profile is consistent with a Medium level of Neuroticism. While he maintains a generally calm exterior, evidenced by relaxed facial muscles and a steady posture (indicators of low neuroticism), there are subtle signs of self-consciousness or mild tension. His frequent downward glances and avoidance of direct camera engagement can be interpreted as social unease. Additionally, a slight quickening of his speech when mentioning the broken item may represent a minimal stress response. This combination of outward calm and subtle non-verbal cues of discomfort places him in the medium range for this trait.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "Medium",
+      "score": 0.52,
+      "rationale": "The assessment of Medium Openness is primarily based on environmental and verbal cues. The subject's background, featuring a closet door covered in posters and photos, is a strong behavioral residue indicating a desire for self-expression and an appreciation for aesthetics, which are core facets of Openness. In contrast, his verbal communication is focused on a concrete, everyday personal experience, lacking the abstract thought, creative language, or intellectual curiosity typically associated with high Openness. This discrepancy between an expressive personal environment and conventional conversational content supports a medium score.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their Medium Agreeableness level?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[6.9s - 8.8s]"
+        },
+        {
+          "id": "B",
+          "text": "[0.1s - 2.0s]"
+        },
+        {
+          "id": "C",
+          "text": "[2.2s - 4.1s]"
+        },
+        {
+          "id": "D",
+          "text": "[4.4s - 6.3s]"
+        },
+        {
+          "id": "E",
+          "text": "[9.0s - 10.9s]"
+        },
+        {
+          "id": "F",
+          "text": "[11.5s - 13.4s]"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. The analysis for Medium Agreeableness notes a non-confrontational style. The expression data shows that between 6.8s and 8.9s, the subject's mouth corners turn up in a slight smile precisely as he mentions the negative event of his roommate's vape breaking. This is a key affiliative/appeasement gesture.\nOption B is a video-based distractor. This interval shows the initial downward gaze, which is a significant behavior but is primarily relevant to the Low Extraversion assessment, not Agreeableness.\nOption E is a near-miss distractor. This interval shows the smile being sustained, but the question asks for the notable *change* or onset of the expression, which occurs earlier in the correct interval.\nOption C is a text-based distractor. It is a plausible-looking time interval from the middle of the video with no specific significant emotional change.\nOption D is a text-based distractor. Similar to C, this is another plausible time range that does not contain the specific expression change relevant to Agreeableness.\nOption F is a video-based distractor. This interval shows the subject speaking with a relatively neutral expression before the smile appears, and does not contain the key change itself."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 4.1s, a region was detected in the video (x=0.454, y=0.361, w=0.142, h=0.058, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A subtle smile forming at the corners of the mouth area."
+        },
+        {
+          "id": "B",
+          "text": "A steady and direct forward eye gaze at the interlocutor."
+        },
+        {
+          "id": "C",
+          "text": "A small, naturalistic head movement accompanying speech."
+        },
+        {
+          "id": "D",
+          "text": "General relaxation across the overall facial musculature."
+        },
+        {
+          "id": "E",
+          "text": "An upright and largely static posture maintained by the torso."
+        },
+        {
+          "id": "F",
+          "text": "The eyes blinking naturally as part of the speech pattern."
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The correct answer is F. The provided coordinates at 4.1s correspond directly to the eye region. The observation log for the interval [0.9s - 6.8s] explicitly states, He blinked several times, which is a natural action during speech.\nOption A is a video-based distractor. A smile does appear, but it is in the mouth region (a different spatial location) and happens later in the video (around 7.4s).\nOption B is a near-miss distractor. This option correctly identifies the body part (eyes) but describes the action incorrectly. The 'near-miss error patterns' section notes that an AI incorrectly saw 'gaze remains forward' when in reality there were downward glances and blinking. This distractor uses that plausible error.\nOption C is a video-based distractor. Head movement occurs, but the bounding box is too small and specifically localized on the eyes, not the entire head.\nOption D is a video-based distractor. While his face is generally relaxed, this describes a global state, not the specific, prominent action (blinking) occurring within the small, localized bounding box on the eyes.\nOption E is a video-based distractor. The torso posture is irrelevant to the specified bounding box, which is clearly located on the face."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "A subtle, non-verbal cue indicating a non-confrontational or affiliative stance appears while a potentially negative event is being described. Which option correctly identifies the timing and location of this specific cue's emergence?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Time: ~7.4s, Bbox: {x:0.472, y:0.469, w:0.102, h:0.100}"
+        },
+        {
+          "id": "B",
+          "text": "Time: ~0.2s, Bbox: {x:0.453, y:0.395, w:0.163, h:0.084}"
+        },
+        {
+          "id": "C",
+          "text": "Time: ~15.3s, Bbox: {x:0.478, y:0.403, w:0.145, h:0.076}"
+        },
+        {
+          "id": "D",
+          "text": "Time: ~5.9s, Bbox: {x:0.499, y:0.553, w:0.044, h:0.105}"
+        },
+        {
+          "id": "E",
+          "text": "Time: ~12.1s, Bbox: {x:0.402, y:0.174, w:0.215, h:0.468}"
+        },
+        {
+          "id": "F",
+          "text": "Time: ~3.5s, Bbox: {x:0.510, y:0.650, w:0.050, h:0.050}"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. The question describes the onset of a smile as a non-confrontational cue. The observation log places the start of this smile at [6.8s - 8.9s], and a representative bounding box is given at 7.4s on the mouth area. Option A matches this time and location perfectly.\nOption B is a video-based distractor. This time and bounding box correspond to the initial downward gaze in the eye region, a cue for introversion, not affiliation.\nOption C is a video-based distractor. This time and bounding box correspond to a later downward gaze in the eye region, also a cue for introversion.\nOption D is a near-miss distractor. This bounding box is correctly on the mouth, but the timestamp is from an earlier moment (~5.9s) when the mouth is moving for speech but the affiliative smile has not yet emerged.\nOption E is a video-based distractor. This corresponds to a general head movement, not the specific facial cue described in the question stem.\nOption F is a text-based distractor. This option presents a plausible-looking time and coordinate set that does not correspond to any significant expressive event."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator09",
+      "version": 1,
+      "clues_total": 20,
+      "clues_correct": 15,
+      "clues_wrong_corrected": 5,
+      "clues_missing_skipped": 0,
+      "clues_bonus": 0
+    }
+  }
+}

@@ -1,0 +1,321 @@
+{
+  "video_id": "lyZZSU1ziCQ.004.mp4",
+  "video_path": "lyZZSU1ziCQ.004.mp4",
+  "transcription": "Things like that, or maybe you're just spending too much money for your car note. You want to fill out your personal financial statement for you and your husband since the two of you are a unit and just see what you can do to free up some cash flow. Then, you also want to undergo credit repair.",
+  "original_scores": {
+    "extraversion": 0.5794392523364487,
+    "agreeableness": 0.6153846153846153,
+    "conscientiousness": 0.6116504854368932,
+    "neuroticism": 0.6770833333333334,
+    "openness": 0.6555555555555556
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 14.82,
+      "description": "The subject maintains direct gaze at the camera throughout the clip. His facial expression is largely neutral and engaged, with natural mouth movements corresponding to his speech. His eyebrows remain in a relaxed, neutral position with very brief, subtle upward movements for emphasis. He blinks at normal intervals.",
+      "bboxes": [
+        {
+          "frame_time": 1.561471,
+          "x": 0.36751644736842104,
+          "y": 0.4324561370046515,
+          "w": 0.16282894736842105,
+          "h": 0.1,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 1.561471,
+          "x": 0.3615953947368421,
+          "y": 0.38508771595201996,
+          "w": 0.17319078947368421,
+          "h": 0.28421052631578947,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 2.09772,
+          "x": 0.3986019736842105,
+          "y": 0.5692982422678095,
+          "w": 0.09029605263157894,
+          "h": 0.12105263157894737,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 6.982291,
+          "x": 0.3778782894736842,
+          "y": 0.3587719264783357,
+          "w": 0.18355263157894738,
+          "h": 0.12894736842105264,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 6.982291,
+          "x": 0.37639802631578945,
+          "y": 0.4429824527941252,
+          "w": 0.15986842105263158,
+          "h": 0.0868421052631579,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 12.6,
+      "description": "The subject sits upright, facing forward. His head remains mostly still with slight, intermittent nods that align with his speech for emphasis.",
+      "bboxes": [
+        {
+          "frame_time": 0.831272,
+          "x": 0.3201480263157895,
+          "y": 0.34824561068886206,
+          "w": 0.24720394736842105,
+          "h": 0.5,
+          "note": "human-annotated",
+          "region": "unknown"
+        },
+        {
+          "frame_time": 0.831272,
+          "x": 0.3438322368421053,
+          "y": 0.24824561068886206,
+          "w": 0.23092105263157894,
+          "h": 0.5657894736842105,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 12.6,
+      "end_time": 14.82,
+      "description": "As he says \"undergo,\" his left hand and forearm briefly enter the bottom of the frame in a small, upward illustrative gesture before lowering again.",
+      "bboxes": [
+        {
+          "frame_time": 13.488033,
+          "x": 0.22245065789473684,
+          "y": 0.7535087685835989,
+          "w": 0.20279605263157896,
+          "h": 0.2394736842105263,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 2.8,
+      "description": "Speech is delivered at a moderate pace with a falling intonation at the end of the phrase \"car note.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 3.8,
+      "end_time": 11.2,
+      "description": "The pace remains moderate and clear. There is slight vocal emphasis on the phrase \"free up some cash flow,\" with a brief pause preceding it.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 11.8,
+      "end_time": 14.82,
+      "description": "The speech rate slightly increases on the phrase \"you also want to,\" followed by a slight rise in pitch on \"undergo\" before falling again on \"credit repair.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 14.82,
+      "description": "The subject is a man with a light-to-medium skin tone, a shaved head with a receding hairline, and a short, trimmed beard. He is wearing a dark green, short-sleeved, crew-neck shirt. He is positioned indoors in front of a plain white wall. To his right, a large, dark-framed picture of a city skyline, featuring the Empire State Building, is hanging on the wall. A white air vent is visible on the wall above the picture. The scene is well-lit with even, frontal lighting.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Medium",
+      "score": 0.58,
+      "rationale": "The subject's Extraversion score is in the Medium range. He demonstrates social engagement by speaking directly to the camera and maintaining consistent eye contact. However, his overall energy level is moderate rather than high. This is evidenced by a generally still posture, a neutral facial expression, and the use of only a single, small hand gesture for emphasis. This combination of direct engagement and controlled physical expression is consistent with a medium level of Extraversion.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "High",
+      "score": 0.62,
+      "rationale": "The subject's Agreeableness is rated High. His entire demeanor is cooperative and helpful, as he is providing constructive financial advice. His vocal tone is calm and measured, and his facial expression is relaxed and non-confrontational. By guiding the viewer through steps like creating a \"personal financial statement\" and undergoing \"credit repair,\" he establishes a trustworthy and supportive persona, which is a key indicator of high Agreeableness.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "High",
+      "score": 0.61,
+      "rationale": "The subject scores High in Conscientiousness, which is strongly supported by the evidence. His communication is structured, clear, and articulate, suggesting careful preparation. His upright, focused posture and steady head position indicate a diligent and task-oriented approach. Furthermore, his neat, trimmed beard and the simple, orderly background suggest a preference for organization and attention to detail, which are core facets of this trait.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "High",
+      "score": 0.68,
+      "rationale": "The High Neuroticism score is reflected in the subject's controlled demeanor while discussing a stressful topic. High neuroticism can manifest as a preoccupation with potential problems, such as the financial difficulties he describes (\"spending too much money,\" \"credit repair\"). His very focused expression, stable posture, and measured speech can be interpreted as a regulatory mechanism to manage the anxiety associated with this subject matter. The slight increase in speech pace towards the end may be a subtle indicator of underlying urgency or tension.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "High",
+      "score": 0.66,
+      "rationale": "The subject's High Openness is demonstrated by his engagement with the abstract concepts of personal finance and his choice to disseminate this knowledge through a video. His clear and educational communication style shows a comfort with new ideas and a desire to share information. Discussing strategies like freeing up \"cash flow\" indicates an ability to think systematically and conceptually, aligning with the intellectual curiosity characteristic of individuals high in Openness.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their communicative emphasis?",
+      "options": [
+        {
+          "id": "A",
+          "text": "0.0s - 0.5s"
+        },
+        {
+          "id": "B",
+          "text": "6.8s - 7.3s"
+        },
+        {
+          "id": "C",
+          "text": "2.6s - 3.1s"
+        },
+        {
+          "id": "D",
+          "text": "13.2s - 13.7s"
+        },
+        {
+          "id": "E",
+          "text": "8.5s - 9.0s"
+        },
+        {
+          "id": "F",
+          "text": "11.5s - 12.0s"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. Around 7.0s, the observation log notes a 'very brief, subtle upward movement' of the eyebrows for emphasis. The interval [6.8s - 7.3s] correctly isolates this micro-expression.\n\n- Option A is a video-based distractor. This interval covers the start of the video where the subject's expression is being established, but no notable change occurs.\n- Option C is a video-based distractor. This interval corresponds to the end of the phrase 'car note,' where a vocal tone shift occurs, but not a significant facial micro-expression.\n- Option D is a video-based distractor. This interval correctly identifies the timing of the hand gesture, but the question asks for a facial or micro-expression change.\n- Option E is a video-based distractor. This interval is in the middle of a sentence with no distinct facial event noted in the logs.\n- Option F is a video-based distractor. This interval corresponds to a slight increase in speech pace, which is an auditory cue, not a facial one."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 7.0s, a region was detected in the video (x=0.378, y=0.359, w=0.184, h=0.129, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A generally neutral and focused overall facial expression."
+        },
+        {
+          "id": "B",
+          "text": "A brief, subtle upward movement of the eyebrows for emphasis."
+        },
+        {
+          "id": "C",
+          "text": "The natural mouth movements corresponding with spoken words."
+        },
+        {
+          "id": "D",
+          "text": "Maintaining direct and steady eye contact with the camera."
+        },
+        {
+          "id": "E",
+          "text": "A slight, intermittent nodding motion of the entire head."
+        },
+        {
+          "id": "F",
+          "text": "The subject's overall posture, sitting upright and still."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. The provided coordinates (x=0.378, y=0.359, w=0.184, h=0.129) at 7.0s precisely frame the subject's eyebrows. The observation log confirms that at this moment, a subtle upward movement occurs for emphasis.\n\n- Option A is a video-based distractor. It describes the entire face, a larger region than the specified bounding box.\n- Option C is a video-based distractor. It describes the mouth, which is located below the specified bounding box.\n- Option D is a video-based distractor. It describes the eyes, which are also located below the specified bounding box for the eyebrows.\n- Option E is a near-miss distractor. While a head nod occurs in the video, it involves the entire head region, not just the specific eyebrow area defined by the small bounding box. It tests the model's ability to differentiate between a part and the whole.\n- Option F is a video-based distractor. It describes the subject's posture, which involves the entire torso and is far outside the facial bounding box."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "The video shows a brief, illustrative non-verbal cue used to emphasize a point. At which timestamp and within which bounding box does this specific cue occur?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Time=13.5s, Box=(x=0.222, y=0.754, w=0.203, h=0.239)"
+        },
+        {
+          "id": "B",
+          "text": "Time=1.6s, Box=(x=0.368, y=0.432, w=0.163, h=0.100)"
+        },
+        {
+          "id": "C",
+          "text": "Time=13.5s, Box=(x=0.362, y=0.385, w=0.173, h=0.284)"
+        },
+        {
+          "id": "D",
+          "text": "Time=0.8s, Box=(x=0.344, y=0.248, w=0.231, h=0.566)"
+        },
+        {
+          "id": "E",
+          "text": "Time=2.1s, Box=(x=0.399, y=0.569, w=0.090, h=0.121)"
+        },
+        {
+          "id": "F",
+          "text": "Time=13.5s, Box=(x=0.222, y=0.554, w=0.203, h=0.239)"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. The 'brief, illustrative non-verbal cue' refers to the hand gesture. The observation log places this gesture at 13.5s in the lower portion of the frame, which matches the timestamp and coordinates in option A exactly.\n\n- Option B is a video-based distractor. It provides the correct coordinates for the eyes, but at the wrong time (1.6s) and for the wrong action.\n- Option C is a video-based distractor. It has the correct timestamp (13.5s) for the gesture but provides coordinates for the face, not the hand.\n- Option D is a video-based distractor. It provides coordinates for the entire head, but at the wrong time (0.8s) and for the wrong action.\n- Option E is a video-based distractor. It provides coordinates for the mouth, but at the wrong time (2.1s) and for the wrong action.\n- Option F is a near-miss distractor. It has the correct timestamp and shares the x-coordinate and width/height of the correct box, but the y-coordinate is shifted upwards, placing the box in an empty area above the hand."
+    },
+    {
+      "category": "Counterfactual Reasoning",
+      "question": "If the person had NOT exhibited the behavior observed around 0.0s - 11.2s, which of the following personality assessments would be MOST affected?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Extraversion would be rated lower, as the consistent eye contact during this time is the main evidence for social engagement."
+        },
+        {
+          "id": "B",
+          "text": "Conscientiousness would be less supported as High, since the structured and clear speech is key evidence for preparation."
+        },
+        {
+          "id": "C",
+          "text": "Agreeableness would be less supported, as this period contains the principal instance of offering constructive advice."
+        },
+        {
+          "id": "D",
+          "text": "Neuroticism assessment would be weaker, as his steady posture in this segment is the primary sign of emotional regulation."
+        },
+        {
+          "id": "E",
+          "text": "Openness would seem lower, because the abstract financial concepts are almost all introduced during this specific period."
+        },
+        {
+          "id": "F",
+          "text": "Conscientiousness would shift from High to Low, because this behavior is the singular piece of evidence for that trait."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. The behavior during 0.0s - 11.2s is characterized by clear, structured, and articulate speech. This is the strongest evidence cited in the analysis for a diligent, prepared, and task-oriented approach, which are core facets of High Conscientiousness. Removing it would significantly weaken this assessment.\n\n- Option A is a text-based distractor. While eye contact contributes to the Extraversion score, the analysis also mentions his moderate energy and minimal gestures, so the score is not dependent on this period's behavior alone.\n- Option C is a text-based distractor. The entire video, including the final line about 'credit repair' after 11.2s, involves giving helpful advice. This period is not the only evidence for Agreeableness.\n- Option D is a video-based distractor. His steady posture is maintained throughout the entire video, not just in this segment. The assessment of Neuroticism also relies on the stressful nature of the topic itself.\n- Option E is a text-based distractor. The key concepts ('personal financial statement', 'cash flow', 'credit repair') are spread throughout the video, with 'credit repair' mentioned after 11.2s, so this period is not the exclusive source of evidence for Openness.\n- Option F is a near-miss distractor. It correctly identifies the trait (Conscientiousness) but overstates the impact. Other cues like his neat appearance and orderly background also support the trait, so the score would be weakened ('less supported'), not necessarily flip from High to Low. This overstatement makes the option incorrect."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator17",
+      "version": 1,
+      "clues_total": 14,
+      "clues_correct": 11,
+      "clues_wrong_corrected": 1,
+      "clues_missing_skipped": 2,
+      "clues_bonus": 0
+    }
+  }
+}

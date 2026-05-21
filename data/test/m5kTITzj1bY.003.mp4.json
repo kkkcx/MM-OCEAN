@@ -1,0 +1,470 @@
+{
+  "video_id": "m5kTITzj1bY.003.mp4",
+  "video_path": "m5kTITzj1bY.003.mp4",
+  "transcription": "If anyone's from Maine, you know what fun town is. That, and aquabogging which was right up the street. Yeah, I used to love doing that at water parks. I had a pretty busy summer when I was little, but after high school ...",
+  "original_scores": {
+    "extraversion": 0.691588785046729,
+    "agreeableness": 0.6153846153846153,
+    "conscientiousness": 0.47572815533980584,
+    "neuroticism": 0.5208333333333334,
+    "openness": 0.5888888888888889
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 2.2,
+      "description": "The subject is smiling with cheeks raised and mouth corners pulled up while looking directly at the camera. Her eyebrows are in a neutral, slightly arched position.",
+      "bboxes": [
+        {
+          "frame_time": 0.829472,
+          "x": 0.38009868421052634,
+          "y": 0.2900000020077354,
+          "w": 0.10805921052631579,
+          "h": 0.12368421052631579,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 0.829472,
+          "x": 0.3682565789473684,
+          "y": 0.05315789674457751,
+          "w": 0.13470394736842106,
+          "h": 0.4052631578947368,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 0.829472,
+          "x": 0.36529605263157894,
+          "y": 0.29263158095510383,
+          "w": 0.1287828947368421,
+          "h": 0.15526315789473685,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 1.652549,
+          "x": 0.3682565789473684,
+          "y": 0.20578947569194592,
+          "w": 0.14950657894736843,
+          "h": 0.09473684210526316,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 1.652549,
+          "x": 0.3638157894736842,
+          "y": 0.13736842306036698,
+          "w": 0.2131578947368421,
+          "h": 0.09736842105263158,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 2.2,
+      "end_time": 4.1,
+      "description": "The smile broadens into a laugh, with the mouth opening to show teeth and the eyes creasing at the outer corners.",
+      "bboxes": [
+        {
+          "frame_time": 3.673578,
+          "x": 0.44819078947368424,
+          "y": 0.4031578967445775,
+          "w": 0.13470394736842106,
+          "h": 0.1631578947368421,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 4.099999,
+          "x": 0.4052631578947368,
+          "y": 0.21894737042878804,
+          "w": 0.18947368421052632,
+          "h": 0.09210526315789473,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 4.1,
+      "end_time": 14,
+      "description": "The expression transitions to a softer, more consistent smile as she speaks. Her gaze remains directed at the camera, and her facial muscles are relatively relaxed.",
+      "bboxes": [
+        {
+          "frame_time": 6.7025,
+          "x": 0.4393092105263158,
+          "y": 0.3505263177972091,
+          "w": 0.11842105263157895,
+          "h": 0.15526315789473685,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 6.963287,
+          "x": 0.4052631578947368,
+          "y": 0.2163157914814196,
+          "w": 0.18651315789473685,
+          "h": 0.09473684210526316,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 6.963287,
+          "x": 0.41710526315789476,
+          "y": 0.0400000020077354,
+          "w": 0.16726973684210528,
+          "h": 0.4868421052631579,
+          "note": "face human-annotated",
+          "region": "face"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 14,
+      "end_time": 15.5,
+      "description": "Her smile widens again slightly, and she briefly blinks as she makes a hand gesture.",
+      "bboxes": [
+        {
+          "frame_time": 14.853324,
+          "x": 0.43782894736842104,
+          "y": 0.3531578967445775,
+          "w": 0.12582236842105263,
+          "h": 0.10263157894736842,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 15.32,
+          "x": 0.41710526315789476,
+          "y": 0.1794736862182617,
+          "w": 0.19095394736842106,
+          "h": 0.1368421052631579,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 0.8,
+      "description": "The subject raises her right hand, pointing her index finger toward the camera.",
+      "bboxes": [
+        {
+          "frame_time": 0.4,
+          "x": 0.43486842105263157,
+          "y": 0.5847368441129985,
+          "w": 0.3004934210526316,
+          "h": 0.3105263157894737,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 0.4,
+          "x": 0.3875,
+          "y": 0.0400000020077354,
+          "w": 0.19095394736842106,
+          "h": 0.4763157894736842,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 2.1,
+      "end_time": 14.1,
+      "description": "She lowers her hands out of the frame and remains seated, facing forward with slight, natural head movements accompanying her speech.",
+      "bboxes": [
+        {
+          "frame_time": 9.911736,
+          "x": 0.6332236842105263,
+          "y": 0.8189473704287881,
+          "w": 0.22796052631578947,
+          "h": 0.15526315789473685,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 9.911736,
+          "x": 0.20986842105263157,
+          "y": 0.4794736862182617,
+          "w": 0.6276315789473684,
+          "h": 0.4631578947368421,
+          "note": "pose human-annotated",
+          "region": "torso"
+        },
+        {
+          "frame_time": 12.565367,
+          "x": 0.4393092105263158,
+          "y": 0.03736842306036698,
+          "w": 0.20575657894736843,
+          "h": 0.5342105263157895,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 14.1,
+      "end_time": 15.5,
+      "description": "She raises both hands into the frame to about shoulder height, palms open and facing outward, and moves them apart in a broad gesture.",
+      "bboxes": [
+        {
+          "frame_time": 14.469126,
+          "x": 0.6953947368421053,
+          "y": 0.17421052832352488,
+          "w": 0.24868421052631579,
+          "h": 0.4868421052631579,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 14.469126,
+          "x": 0.28388157894736843,
+          "y": 0.48473684411299856,
+          "w": 0.5269736842105264,
+          "h": 0.2710526315789474,
+          "note": "pose human-annotated",
+          "region": "shoulders"
+        },
+        {
+          "frame_time": 14.469126,
+          "x": 0.6953947368421053,
+          "y": 0.33210526516563016,
+          "w": 0.21167763157894737,
+          "h": 0.35789473684210527,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 4.2,
+      "description": "Speech is delivered at a moderate, conversational pace. A soft laugh with a falling pitch occurs after the phrase \"fun town is.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 4.2,
+      "end_time": 10.9,
+      "description": "The pace of speech remains steady and conversational. The pitch is in a mid-range, with a natural downward inflection at the end of sentences.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 10.9,
+      "end_time": 15.5,
+      "description": "The word \"pretty\" is repeated with level stress. The pitch falls on the final phrase \"after high school,\" followed by a soft exhalation of air.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.5,
+      "description": "The subject is a woman with fair skin, brown shoulder-length hair with bangs, and a piercing in her left eyebrow. She is wearing a black short-sleeved T-shirt with a white graphic (a chemical structure) on the front. She is in a dimly lit indoor room. To her left is a window with bright light, partially obscured by a dark curtain. The out-of-focus background contains a ceiling fan, a table, a coffee table, and a floor lamp.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "High",
+      "score": 0.69,
+      "rationale": "The subject's High Extraversion is supported by her expressive and engaging demeanor. She initiates contact by looking directly at the camera and pointing, a clear outward-focused action. Her facial expressions are animated, transitioning from a smile to a broad laugh, indicating a high degree of positive emotional expressivity. Furthermore, her use of expansive, open-palmed gestures while speaking suggests comfort and energy in a communicative setting, which are core characteristics of extraverted individuals.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "High",
+      "score": 0.62,
+      "rationale": "A High level of Agreeableness is indicated by the subject's warm and friendly non-verbal cues. She maintains a consistent, genuine-appearing smile throughout the clip, with raised cheek muscles (a Duchenne marker), which fosters a sense of trust and rapport. Her open-palmed gestures reinforce a non-threatening and cooperative posture. This combination of sustained positive affect and approachable body language is characteristic of individuals high in agreeableness, who tend to be kind and communal.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Medium",
+      "score": 0.48,
+      "rationale": "The evidence points to a Medium level of Conscientiousness. The subject's narrative is linear and easy to follow, indicating a baseline of organized thought. Her speech flows at a natural, moderate pace without being overly structured or, conversely, disorganized and rambling. The observable environment and her presentation lack strong indicators of either extreme orderliness or carelessness. This absence of compelling evidence for either high or low conscientiousness makes a medium classification most appropriate.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Medium",
+      "score": 0.52,
+      "rationale": "The subject's Neuroticism is assessed as Medium. While her overall demeanor is positive and cheerful, which argues against high neuroticism, there are subtle cues that preclude a 'Low' rating. For instance, her facial muscles are noted as 'not relaxed' even while smiling, and there is a momentary gaze shift away from the camera. A slight exhalation at the end of a phrase can also be a minor tension-release cue. These subtle signs of mild social or cognitive load, balanced against her predominantly stable emotional state, are consistent with an average level of neuroticism.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "Medium",
+      "score": 0.59,
+      "rationale": "A Medium score for Openness is justified by a mix of conventional and unconventional signals. The subject's personal style, including an eyebrow piercing and a t-shirt with a scientific (chemical structure) pattern, suggests a degree of individuality and intellectual curiosity. However, her topic of conversation—reminiscing about common childhood activities like water parks—is conventional and grounded in shared experience rather than abstract or novel ideas. This blend of a unique personal aesthetic with conventional conversational content supports a medium level of openness.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their Medium Neuroticism level?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[0.0s - 0.7s]"
+        },
+        {
+          "id": "B",
+          "text": "[3.5s - 4.2s]"
+        },
+        {
+          "id": "C",
+          "text": "[6.8s - 7.5s]"
+        },
+        {
+          "id": "D",
+          "text": "[9.5s - 10.2s]"
+        },
+        {
+          "id": "E",
+          "text": "[14.2s - 14.9s]"
+        },
+        {
+          "id": "F",
+          "text": "[15.1s - 15.8s]"
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. The personality analysis notes that a momentary gaze shift away from the camera is a subtle cue for the Medium Neuroticism rating. This gaze shift occurs at 7.0s, which is captured within the [6.8s - 7.5s] interval. Such shifts can indicate a brief increase in cognitive load or social monitoring.\nOption A is a video-based distractor; this interval shows the initial confident smile and direct eye contact, which is evidence against high neuroticism.\nOption B is a video-based distractor; this interval shows the smile broadening to a laugh, which is more relevant to Extraversion.\nOption D is a video-based distractor; this interval contains a slight torso turn, a postural shift not as directly linked to neuroticism as the gaze shift.\nOption E is a video-based distractor; this interval shows the beginning of the expansive hand gesture, which is related to Extraversion/Agreeableness.\nOption F is a near-miss distractor; this interval contains a subtle eyebrow raise, another minor cue, but the gaze aversion is a more classic and significant indicator of the cognitive/social load associated with Neuroticism."
+    },
+    {
+      "category": "Mixed Emotion Discrimination",
+      "question": "During 4.1s - 14.0s, the person's emotional state is best characterized as which of the following? Consider both verbal and non-verbal cues.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Warm nostalgia that is tempered by a slight sense of social performance."
+        },
+        {
+          "id": "B",
+          "text": "Bittersweet reflection that is tempered by an overtly humorous tone."
+        },
+        {
+          "id": "C",
+          "text": "Joyful reminiscence that is mixed with a degree of active cognitive recall."
+        },
+        {
+          "id": "D",
+          "text": "Simple amusement that is mixed with a polite gesture of acknowledgment."
+        },
+        {
+          "id": "E",
+          "text": "Genuine happiness that is mixed with a state of complete muscle relaxation."
+        },
+        {
+          "id": "F",
+          "text": "Anticipatory excitement that is tempered by a display of cheerful confidence."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. During this period, the person is laughing while recalling a positive childhood memory ('joyful reminiscence'). However, the observations note that her facial muscles are not relaxed and she briefly shifts her gaze up and to the right (a classic recall cue). This combination supports a mix of positive emotion and mental effort ('active cognitive recall').\nOption A is a near-miss distractor; 'social performance' is a plausible interpretation of the non-relaxed muscles, but 'active cognitive recall' is more directly supported by the gaze shift cue.\nOption B is a text-based distractor; there is no evidence of sadness or bitterness in her expression or the content of her speech.\nOption D is a video-based distractor; her emotional display is more engaged and personal than 'simple amusement' or 'polite acknowledgment,' which might better describe the initial smile at the video's start.\nOption E is a near-miss distractor because it correctly identifies happiness but is contradicted by the observation that her 'facial muscles are not relaxed'.\nOption F is a text-based distractor; the emotion is retrospective (reminiscence), not forward-looking ('anticipatory')."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 0.8s, a region was detected in the video (x=0.368, y=0.053, w=0.135, h=0.405, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A controlled and contained smile without any significant widening."
+        },
+        {
+          "id": "B",
+          "text": "A brief, upward and rightward movement of the subject's eyes."
+        },
+        {
+          "id": "C",
+          "text": "Raised cheek muscles that are clearly indicating a genuine smile."
+        },
+        {
+          "id": "D",
+          "text": "A subtle and naturalistic head nod accompanying a verbal phrase."
+        },
+        {
+          "id": "E",
+          "text": "The downward motion of a hand as it is fully leaving the frame."
+        },
+        {
+          "id": "F",
+          "text": "A torso rotation causing the subject to face toward the left side."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. The provided coordinates at 0.8s (x=0.368, y=0.053, w=0.135, h=0.405) define a bounding box that covers the subject's cheeks and upper face area. The observation log for this time explicitly states cheeks are raised, which is a key component of a Duchenne (genuine) smile.\nOption A is a near-miss distractor; it describes the mouth's state at a much later time (around 14.9s) and focuses on the lips rather than the cheeks covered by the bbox.\nOption B is a video-based distractor; it accurately describes the eye movement, but this occurs at a different time (7.0s) and in a different spatial region (the eyes, not the full cheek area).\nOption D is a video-based distractor; it describes a general head motion that is not localized to the specific expression within the given bounding box.\nOption E is a video-based distractor; the hand movement occurs outside the facial region defined by the bounding box.\nOption F is a video-based distractor; the torso rotation involves the entire upper body and occurs at a different time (9.9s)."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "At which point in the video does the subject's expression transition from a simple smile to a broader, more intense display of positive emotion, characterized by a significant change in the mouth area?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[7.0s] x=0.41, y=0.22, w=0.19, h=0.09"
+        },
+        {
+          "id": "B",
+          "text": "[14.5s] x=0.70, y=0.33, w=0.21, h=0.36"
+        },
+        {
+          "id": "C",
+          "text": "[3.7s] x=0.45, y=0.40, w=0.13, h=0.16"
+        },
+        {
+          "id": "D",
+          "text": "[0.4s] x=0.43, y=0.58, w=0.30, h=0.31"
+        },
+        {
+          "id": "E",
+          "text": "[12.6s] x=0.44, y=0.04, w=0.21, h=0.53"
+        },
+        {
+          "id": "F",
+          "text": "[0.8s] x=0.38, y=0.29, w=0.11, h=0.12"
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. The question asks to identify the moment the expression intensifies from a smile to a broader laugh. This transition is documented in the observation log between 2.2s and 4.1s as smile expands into a laugh, mouth opens showing teeth. Option C provides a timestamp and bounding box ([4.1s] x=0.41, y=0.22, w=0.19, h=0.09) that correctly localizes the eye region during this broad emotional display.\nOption A localizes the gaze shift, which is part of the overall expression but not the key transition to a broad laugh itself.\nOption B localizes the expansive hand gesture at the end of the video.\nOption D localizes the initial pointing hand gesture at the beginning.\nOption E localizes the general head area during neutral speech, not a peak emotional expression.\nOption F is a near-miss distractor as it localizes the initial, less intense smile before it broadens into the laugh described in the question."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [
+      {
+        "check": "B",
+        "q_idx": 5,
+        "issue": "The question asks to identify the transition to a broader smile by localizing the mouth area. However, the correct option C provides a timestamp and bounding box ([4.1s] x=0.41, y=0.22, w=0.19, h=0.09) that corresponds to the subject's eyes, not her mouth.",
+        "action": "Corrected the text of option C to provide a time and bounding box that accurately localizes the mouth during the specified emotional transition, based on the observation record at frame_time 3.673578."
+      }
+    ],
+    "corrections": {
+      "mcq_questions[5].options[2].text": "[3.7s] x=0.45, y=0.40, w=0.13, h=0.16"
+    },
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator09",
+      "version": 1,
+      "clues_total": 27,
+      "clues_correct": 15,
+      "clues_wrong_corrected": 9,
+      "clues_missing_skipped": 3,
+      "clues_bonus": 0
+    }
+  }
+}

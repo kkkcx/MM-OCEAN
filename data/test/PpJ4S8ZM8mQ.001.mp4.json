@@ -1,0 +1,446 @@
+{
+  "video_id": "PpJ4S8ZM8mQ.001.mp4",
+  "video_path": "PpJ4S8ZM8mQ.001.mp4",
+  "transcription": "So, makeup of course, yeah I really want to get makeup. My mom thinks I'm crazy because she thinks I have so much makeup and I don't really. The second thing I want to get is--",
+  "original_scores": {
+    "extraversion": 0.588785046728972,
+    "agreeableness": 0.4175824175824176,
+    "conscientiousness": 0.42718446601941745,
+    "neuroticism": 0.53125,
+    "openness": 0.611111111111111
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 1.73,
+      "description": "The subject looks up and to her right with a neutral expression, mouth moving as she speaks. Her gaze then lowers to the camera.",
+      "bboxes": [
+        {
+          "frame_time": 0.754561,
+          "x": 0.3379111842105263,
+          "y": 0.36140350542570415,
+          "w": 0.1569078947368421,
+          "h": 0.11842105263157894,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 1.73,
+      "end_time": 4.51,
+      "description": "A smile forms, pulling the corners of her mouth up and back. The smile widens into a laugh, opening her mouth to show her teeth and causing her eyes to crinkle at the corners.",
+      "bboxes": [
+        {
+          "frame_time": 2.709816,
+          "x": 0.3023848684210526,
+          "y": 0.5877192948993883,
+          "w": 0.13766447368421053,
+          "h": 0.1736842105263158,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 4.51,
+      "end_time": 7.55,
+      "description": "The laugh subsides into a soft smile as she speaks, with her gaze directed slightly upward.",
+      "bboxes": [
+        {
+          "frame_time": 5.521082,
+          "x": 0.36751644736842104,
+          "y": 0.37456140016254624,
+          "w": 0.16875,
+          "h": 0.15,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 7.55,
+      "end_time": 10.39,
+      "description": "Her expression becomes more neutral and conversational as she looks toward the camera. Her eyebrows are relaxed and her mouth moves naturally with speech.",
+      "bboxes": [
+        {
+          "frame_time": 8.907199,
+          "x": 0.3053453947368421,
+          "y": 0.63508771595202,
+          "w": 0.13026315789473683,
+          "h": 0.10789473684210527,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 10.39,
+      "end_time": 11.39,
+      "description": "Her eyes widen and her eyebrows raise slightly as she speaks with an animated, surprised expression.",
+      "bboxes": [
+        {
+          "frame_time": 10.561438,
+          "x": 0.2772203947368421,
+          "y": 0.4561403475309673,
+          "w": 0.15542763157894737,
+          "h": 0.08947368421052632,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 11.39,
+      "end_time": 15.5,
+      "description": "Her expression returns to a neutral, conversational state as she continues speaking, maintaining her gaze forward.",
+      "bboxes": [
+        {
+          "frame_time": 12.343792,
+          "x": 0.24317434210526315,
+          "y": 0.4087719264783357,
+          "w": 0.19539473684210526,
+          "h": 0.11842105263157894,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 1.88,
+      "description": "The subject is sitting, framed from the chest up. Her head is tilted slightly to her left.",
+      "bboxes": [
+        {
+          "frame_time": 1.333674,
+          "x": 0.2490953947368421,
+          "y": 0.27456140016254627,
+          "w": 0.3049342105263158,
+          "h": 0.5973684210526315,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 1.88,
+      "end_time": 4.51,
+      "description": "As she laughs, her head tilts back and further to her left.",
+      "bboxes": [
+        {
+          "frame_time": 2.85523,
+          "x": 0.26833881578947366,
+          "y": 0.3061403475309673,
+          "w": 0.24720394736842105,
+          "h": 0.5157894736842106,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 4.51,
+      "end_time": 10.46,
+      "description": "She straightens her head, facing mostly forward with slight, natural movements as she speaks.",
+      "bboxes": [
+        {
+          "frame_time": 8.882431,
+          "x": 0.22689144736842104,
+          "y": 0.30877192647833573,
+          "w": 0.31973684210526315,
+          "h": 0.6078947368421053,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 10.46,
+      "end_time": 12.39,
+      "description": "She performs a very slight, quick side-to-side headshake while speaking.",
+      "bboxes": [
+        {
+          "frame_time": 11.237982,
+          "x": 0.2328125,
+          "y": 0.2850877159520199,
+          "w": 0.2634868421052632,
+          "h": 0.5,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 12.39,
+      "end_time": 15.5,
+      "description": "Her head remains relatively still, oriented toward the camera.",
+      "bboxes": [
+        {
+          "frame_time": 13.781628,
+          "x": 0.2490953947368421,
+          "y": 0.3429824527941252,
+          "w": 0.2131578947368421,
+          "h": 0.41578947368421054,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 2.1,
+      "end_time": 4.29,
+      "description": "A clear, audible laugh with a higher pitch is heard.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 12.8,
+      "end_time": 15.5,
+      "description": "After a brief pause, speech continues at a steady pace and volume with a conversational tone.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.5,
+      "description": "The subject is a young woman with long, dark, curly hair and a medium skin tone. She is wearing a maroon long-sleeved shirt with a white stripe across the chest. The setting is indoors, with a white paneled door to her left and a light-pink-toned wall behind her. To her right, a potted red poinsettia and a stuffed snowman wearing a Santa hat are visible on a surface. A mirror with a decorative white frame is partially seen on the far right. The lighting is soft and even.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Medium",
+      "score": 0.59,
+      "rationale": "The subject exhibits a moderate level of Extraversion. Her willingness to film herself and share personal anecdotes indicates social confidence. This is supported by expressive moments, such as the open-mouthed laugh [1.7s-4.5s] and animated facial expressions [10.4s-11.4s], which are outlets for social energy. However, these bursts are balanced by periods of more reserved, neutral expression and a steady, conversational speech pattern [7.5s-10.4s], suggesting her social energy is not consistently high, which aligns with a mid-range score.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Medium",
+      "score": 0.42,
+      "rationale": "The subject's Agreeableness is in the Medium range. She demonstrates pro-social behavior through warm smiles and a pleasant conversational tone. When mentioning a disagreement with her mother ('My mom thinks I'm crazy... and I don't really'), she frames it with a laugh [1.9s-4.5s] rather than frustration, a strategy to maintain harmony while still asserting her own viewpoint. This balance between being cooperative and expressing a differing opinion without contention is characteristic of a medium Agreeableness score.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Medium",
+      "score": 0.43,
+      "rationale": "Evidence points to a Medium level of Conscientiousness. The subject is following a clear, albeit simple, structure for her video, as indicated by the line, 'The second thing I want to get is--'. This implies a degree of planning and goal-orientation. However, her overall delivery is casual and her speech is conversational rather than meticulously scripted. This combination of having a plan but executing it in a relaxed manner suggests a moderate, rather than high or low, level of conscientiousness.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Medium",
+      "score": 0.53,
+      "rationale": "The subject's score indicates a Medium level of Neuroticism. For the most part, she appears composed, with steady speech and a calm demeanor. However, there are subtle indicators of mild emotional reactivity. The spontaneous, head-tilted-back laughter [1.9s-4.5s] in response to a potentially critical comment from her mother can be interpreted as a mechanism to manage a moment of slight self-consciousness. The quick, minor head shake [10.5s-12.4s] also suggests a subtle level of nervous energy. This mix of general composure with fleeting moments of sensitivity aligns with an average score in this domain.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "High",
+      "score": 0.61,
+      "rationale": "The subject scores High in Openness. Her interest in makeup points to an appreciation for aesthetics and creative self-expression. The choice to create and share a video on this topic demonstrates a willingness to engage with new experiences and share ideas publicly. Furthermore, her animated expressions, such as widening her eyes while speaking [10.4s-11.4s], reflect a dynamic and engaged cognitive style often associated with individuals who are open to and expressive of their inner world.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During 10.4s - 11.4s, the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Medium Conscientiousness regarding social norms"
+        },
+        {
+          "id": "B",
+          "text": "Medium Extraversion shown by expressive energy"
+        },
+        {
+          "id": "C",
+          "text": "High Openness indicated by cognitive curiosity"
+        },
+        {
+          "id": "D",
+          "text": "Low Neuroticism seen in emotional stability"
+        },
+        {
+          "id": "E",
+          "text": "Medium Agreeableness shown by a warm demeanor"
+        },
+        {
+          "id": "F",
+          "text": "Low Openness suggested by structured thought"
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. The animated expression at 10.4s-11.4s (eyes widening, brows raising) reflects a dynamic and engaged cognitive style, which is strong evidence for High Openness. \nOption A is a video-based distractor; Conscientiousness is supported by behavior at a different time, specifically her structured statement 'The second thing I want to get is--' at the end of the clip.\nOption B is a text-based distractor; while animated expressions can relate to extraversion, the analysis links her Extraversion score more to her laugh and general willingness to film, making this specific expression a better fit for Openness.\nOption D is a text-based distractor; this moment of high expressiveness does not directly provide evidence for emotional stability or instability.\nOption E is a video-based distractor; Agreeableness is supported by her warm, harmonious laugh at 1.9s-4.5s, not by this specific expression.\nOption F is a near-miss distractor; it correctly identifies the trait of Openness but assesses the direction incorrectly, as the behavior is a sign of high, not low, Openness."
+    },
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their Openness level?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[0.5s - 1.5s]"
+        },
+        {
+          "id": "B",
+          "text": "[2.0s - 3.0s]"
+        },
+        {
+          "id": "C",
+          "text": "[10.4s - 11.4s]"
+        },
+        {
+          "id": "D",
+          "text": "[4.7s - 5.7s]"
+        },
+        {
+          "id": "E",
+          "text": "[7.8s - 8.8s]"
+        },
+        {
+          "id": "F",
+          "text": "[12.0s - 13.0s]"
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. The interval [10.4s - 11.4s] is when the person's eyes widen and eyebrows raise in an animated fashion, which the personality analysis identifies as a key indicator of her dynamic cognitive style and High Openness score. \nAll other options are video-based distractors. They represent valid time intervals where other facial expression changes occur, but these are not the most relevant indicators for the Openness dimension. For example, [2.0s - 3.0s] is the peak of her laugh (related to Extraversion/Agreeableness), and [7.8s - 8.8s] is a period of neutral, conversational expression."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 11.2s, a region was detected in the video (x=0.233, y=0.285, w=0.263, h=0.500, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Gazing upwards and towards her left with a neutral, speaking expression"
+        },
+        {
+          "id": "B",
+          "text": "Tilting her head backwards and to the left while starting to laugh openly"
+        },
+        {
+          "id": "C",
+          "text": "Exhibiting a subtle and rapid side-to-side shake of her entire head"
+        },
+        {
+          "id": "D",
+          "text": "Holding her head in a mostly still pose with a slight turn to her left"
+        },
+        {
+          "id": "E",
+          "text": "Exhibiting a neutral conversational face with completely relaxed eyebrows"
+        },
+        {
+          "id": "F",
+          "text": "Maintaining an upright head position and facing forward with some movement"
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. The bounding box at 11.2s covers her head and upper torso. The corresponding observation note for [10.5s-12.4s] describes a 'very slight, rapid side-to-side head shake', which this option accurately captures.\nOption A is a video-based distractor; this action occurs at the very beginning of the video [0.0s-1.7s].\nOption B is a video-based distractor; this action describes the beginning of her laugh at [1.9s-4.5s].\nOption D is a video-based distractor; this describes her posture at the end of the clip [12.4s-15.5s].\nOption E is a video-based distractor; this describes her expression from [7.5s-10.4s].\nOption F is a near-miss distractor; while the head shake is a 'movement', this description is too general and fails to capture the specific, rapid side-to-side nature of the action, making it less precise than the correct answer."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "Which of the following timestamp and bounding box combinations best captures the moment when the subject adopts a stable, forward-facing, and conversational posture?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Time: 2.9s; Bbox: (x=0.27, y=0.31, w=0.25, h=0.52)"
+        },
+        {
+          "id": "B",
+          "text": "Time: 11.2s; Bbox: (x=0.23, y=0.29, w=0.26, h=0.50)"
+        },
+        {
+          "id": "C",
+          "text": "Time: 8.9s; Bbox: (x=0.23, y=0.31, w=0.32, h=0.61)"
+        },
+        {
+          "id": "D",
+          "text": "Time: 12.3s; Bbox: (x=0.24, y=0.41, w=0.20, h=0.12)"
+        },
+        {
+          "id": "E",
+          "text": "Time: 2.7s; Bbox: (x=0.30, y=0.59, w=0.14, h=0.17)"
+        },
+        {
+          "id": "F",
+          "text": "Time: 0.8s; Bbox: (x=0.34, y=0.36, w=0.16, h=0.12)"
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. This combination corresponds to the time interval [4.5s-10.5s] where the observation notes state 'She straightens her head while speaking, mostly facing forward, with slight and natural movements.' This perfectly matches the question's description of a stable, forward-facing, conversational posture.\nAll other options are video-based distractors, as they point to real but incorrect moments. Option A shows her head tilted back in a laugh. Option B captures her slight head shake. Option D is a close-up of her face during a neutral expression. Option E is a tight shot on her laughing mouth. Option F shows her looking to the side at the very beginning."
+    },
+    {
+      "category": "Counterfactual Reasoning",
+      "question": "If the person had NOT exhibited the behavior observed around 1.9s - 4.5s, which of the following personality assessments would be MOST affected?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Openness might be assessed as lower, as this expressive moment is the clearest sign of her creative and imaginative personal disposition."
+        },
+        {
+          "id": "B",
+          "text": "Conscientiousness would seem lower, because this behavior interrupts the planned, goal-oriented structure she establishes later in the video."
+        },
+        {
+          "id": "C",
+          "text": "Agreeableness might be assessed as lower, as the key evidence for managing potential disagreement in a harmonious manner would be absent."
+        },
+        {
+          "id": "D",
+          "text": "Neuroticism would appear much lower, because the quick head shake later on is the more direct evidence for her underlying nervous energy."
+        },
+        {
+          "id": "E",
+          "text": "Agreeableness would be assessed as higher, because this specific behavior could otherwise be interpreted as a sign of nervous disagreement."
+        },
+        {
+          "id": "F",
+          "text": "Extraversion would shift to Low, because this social expression is the most significant indicator of her overall level of positive energy."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. The behavior at 1.9s-4.5s is the laugh in response to her mother's opinion. The analysis explicitly uses this as key evidence for Medium Agreeableness, interpreting it as a strategy 'to maintain harmony while still asserting her own viewpoint.' Removing this behavior would remove the strongest evidence for her pro-social conflict management style, likely lowering the assessment.\nOption A is a text-based distractor; the laugh is not the primary evidence for Openness, which is more strongly supported by the animated expression at 10.4s.\nOption B is a video-based distractor; it incorrectly links the laugh (at 1.9s) to a different behavior (the structured speech at the end) with faulty logic.\nOption D is a video-based distractor; it correctly identifies another behavior related to Neuroticism (the head shake) but uses it to downplay the laugh's relevance, which is also cited as evidence for Neuroticism (managing self-consciousness).\nOption E is a near-miss distractor; it correctly identifies Agreeableness as the affected trait but posits the wrong direction of change.\nOption F is a near-miss distractor; the laugh is evidence for Extraversion, but the analysis also points to other cues. Claiming it's the 'most significant' indicator and would cause a shift to 'Low' overstates its impact compared to the more specific and critical role it plays in the Agreeableness assessment."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [
+      {
+        "check": "A",
+        "q_idx": 0,
+        "issue": "Option B refers to 'High Extraversion', but the personality analysis states the subject's Extraversion level is 'Medium'. This contradicts the provided analysis.",
+        "action": "Corrected the level in option B's text from 'High' to 'Medium' to align with the personality analysis."
+      }
+    ],
+    "corrections": {
+      "mcq_questions[0].options[1].text": "Medium Extraversion shown by expressive energy"
+    },
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator17",
+      "version": 1,
+      "clues_total": 16,
+      "clues_correct": 11,
+      "clues_wrong_corrected": 3,
+      "clues_missing_skipped": 2,
+      "clues_bonus": 0
+    }
+  }
+}

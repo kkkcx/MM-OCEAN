@@ -1,0 +1,467 @@
+{
+  "video_id": "A3StIKMjn4k.003.mp4",
+  "video_path": "A3StIKMjn4k.003.mp4",
+  "transcription": "On my list and it's definitely something I would love to do in the near future because I think Australia has all the contrasts that you're looking for in a tough ride. It's got the wide open deserts. It's got the jungle.",
+  "original_scores": {
+    "extraversion": 0.5420560747663552,
+    "agreeableness": 0.7142857142857143,
+    "conscientiousness": 0.5631067961165048,
+    "neuroticism": 0.6145833333333333,
+    "openness": 0.5444444444444444
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 0.94,
+      "description": "The subject's eyes are mostly closed with a relaxed facial expression.",
+      "bboxes": [
+        {
+          "frame_time": 0,
+          "x": 0.43782894736842104,
+          "y": 0.3,
+          "w": 0.23092105263157894,
+          "h": 0.4763157894736842,
+          "note": "face human-annotated",
+          "region": "face"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 0.94,
+      "end_time": 12.61,
+      "description": "The subject opens his eyes and looks directly toward the camera. His eyebrows are in a neutral, slightly raised position. His eyes widen slightly from 00:05 to 00:07.",
+      "bboxes": [
+        {
+          "frame_time": 12.626697,
+          "x": 0.4363486842105263,
+          "y": 0.31842105263157894,
+          "w": 0.19539473684210526,
+          "h": 0.18157894736842106,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 0.94,
+          "x": 0.40970394736842103,
+          "y": 0.3394736842105263,
+          "w": 0.2649671052631579,
+          "h": 0.08421052631578947,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 12.61,
+      "end_time": 14.12,
+      "description": "As the subject says the word \"jungle,\" his eyes widen significantly and his eyebrows raise high, creating a look of emphasis.",
+      "bboxes": [
+        {
+          "frame_time": 14.147963,
+          "x": 0.45707236842105264,
+          "y": 0.28421052631578947,
+          "w": 0.17911184210526315,
+          "h": 0.49473684210526314,
+          "note": "human-annotated",
+          "region": "unknown"
+        },
+        {
+          "frame_time": 14.147963,
+          "x": 0.44671052631578945,
+          "y": 0.3684210526315789,
+          "w": 0.1879934210526316,
+          "h": 0.10526315789473684,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 13.364999,
+          "x": 0.43338815789473684,
+          "y": 0.3131578947368421,
+          "w": 0.21759868421052633,
+          "h": 0.07631578947368421,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 13.364999,
+          "x": 0.4319078947368421,
+          "y": 0.2868421052631579,
+          "w": 0.22351973684210527,
+          "h": 0.4842105263157895,
+          "note": "face human-annotated",
+          "region": "face"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 14.12,
+      "end_time": 15,
+      "description": "The subject's expression returns to a more neutral state, though his eyes remain wide.",
+      "bboxes": [
+        {
+          "frame_time": 14.12,
+          "x": 0.44967105263157897,
+          "y": 0.20789473684210527,
+          "w": 0.19391447368421053,
+          "h": 0.6026315789473684,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 14.12,
+          "x": 0.42598684210526316,
+          "y": 0.36578947368421055,
+          "w": 0.2294407894736842,
+          "h": 0.10789473684210527,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 15,
+      "description": "The subject is framed from the chest up and sits relatively still. He makes minor head movements, such as small nods and turns, that are synchronized with his speech.",
+      "bboxes": [
+        {
+          "frame_time": 9.923023,
+          "x": 0.24539473684210525,
+          "y": 0.6973684210526315,
+          "w": 0.6172697368421053,
+          "h": 0.18947368421052632,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 9.923023,
+          "x": 0.4393092105263158,
+          "y": 0.18157894736842106,
+          "w": 0.21463815789473684,
+          "h": 0.6473684210526316,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 4.6,
+      "description": "Speech is delivered at a moderate pace and in a mid-to-low pitch range.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 4.6,
+      "end_time": 9.49,
+      "description": "The pitch rises slightly to place emphasis on the words \"Australia\" and \"contrasts.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 9.49,
+      "end_time": 12.61,
+      "description": "Stress is placed on the phrase \"wide open deserts\" with an upward pitch inflection and slightly increased volume.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 12.61,
+      "end_time": 15,
+      "description": "The word \"jungle\" is stressed with a sharp rise in pitch and volume.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15,
+      "description": "The subject is a man with fair skin, short brown hair, and light stubble, wearing a dark collared jacket. He is in an indoor setting with a light-colored wall behind him. To the viewer's left is a framed piece of abstract art. To the viewer's right is a white, paneled door with a silver handle. The scene is illuminated by soft, frontal lighting.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Medium",
+      "score": 0.54,
+      "rationale": "The subject displays a moderate level of extraversion. He engages socially by maintaining direct eye contact with the camera and uses vocal emphasis on words like 'Australia' and 'wide open deserts' to connect with the audience. However, this is balanced by his relatively still posture and moderate speaking pace, which indicates a controlled social energy rather than the high-energy, gregarious behavior typical of very high extraversion.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "High",
+      "score": 0.71,
+      "rationale": "A high level of Agreeableness is indicated by the subject's approachable and non-confrontational demeanor. His initially relaxed facial expression and consistent, direct eye contact foster a sense of trust and rapport. The small, synchronized head nods that accompany his speech are affiliative gestures, suggesting a cooperative and pleasant interpersonal style.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Medium",
+      "score": 0.56,
+      "rationale": "The subject's Conscientiousness is assessed as Medium. His speech is coherent and structured, and he references a plan ('on my list'), suggesting a degree of goal-orientation. His controlled physical presence—sitting relatively still with deliberate, small head movements synchronized with his speech—points to self-discipline. The evidence does not suggest unusually high or low levels of orderliness or impulsivity, aligning with a mid-range score.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "High",
+      "score": 0.61,
+      "rationale": "The High Neuroticism score is supported by evidence of heightened emotional reactivity. The subject shows a rapid and pronounced shift in facial expression, with his eyes widening significantly and eyebrows raising high when emphasizing the word 'jungle'. This intense, momentary display, emerging from a previously neutral state, is characteristic of emotional lability. Such quick-to-activate emotional responses are a key indicator of higher neuroticism.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "Medium",
+      "score": 0.54,
+      "rationale": "The subject's Openness is rated as Medium. The content of his speech—expressing a desire for an adventurous 'tough ride' to experience 'contrasts' like deserts and jungles—clearly indicates an interest in new and varied experiences. His use of emphatic facial and vocal expressions when describing these environments reinforces this interest. This is balanced by a conventional communication style, leading to a score in the medium range.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During [12.6s - 14.1s], the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "High Openness, due to the articulated desire for varied new experiences."
+        },
+        {
+          "id": "B",
+          "text": "High Extraversion, evidenced by the energetic nonverbal engagement."
+        },
+        {
+          "id": "C",
+          "text": "Low Neuroticism, because the expression is a controlled, brief display."
+        },
+        {
+          "id": "D",
+          "text": "Low Agreeableness, as such a sudden expression can be disconcerting."
+        },
+        {
+          "id": "E",
+          "text": "High Neuroticism, due to the rapid and very intense emotional shift."
+        },
+        {
+          "id": "F",
+          "text": "Low Conscientiousness, suggesting poor regulation of emotional output."
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. During [12.6s - 14.1s], the person's eyes widen significantly and eyebrows raise high when saying 'jungle'. The personality analysis explicitly links this 'rapid and pronounced shift in facial expression' to 'heightened emotional reactivity' and 'emotional lability', which are core indicators of High Neuroticism.\n\n- Option A is a text-based distractor because it mistakes the verbal content (desire for experiences) for the behavioral pattern (intense shift). The topic relates to Openness, but the behavior itself does not.\n- Option B is a video-based distractor. While he does show extraverted behaviors like vocal emphasis, those are more prominent in other parts of the video (e.g., around 4.6s and 9.5s). The defining characteristic of the [12.6s - 14.1s] event is its intensity and rapidity, which is more specific to Neuroticism.\n- Option C is a near-miss distractor. It correctly identifies the behavior but argues the opposite interpretation—that it's controlled and thus reflects low neuroticism, directly contradicting the analysis.\n- Option D is a text-based distractor. It offers a plausible but incorrect interpretation of how the expression might be perceived, linking it to low agreeableness, which is not supported by the overall context or other cues.\n- Option F is a text-based distractor, providing another plausible but less supported interpretation linking the behavior to low conscientiousness."
+    },
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their High Neuroticism level?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[0.0s - 1.5s]"
+        },
+        {
+          "id": "B",
+          "text": "[4.0s - 5.5s]"
+        },
+        {
+          "id": "C",
+          "text": "[9.0s - 10.5s]"
+        },
+        {
+          "id": "D",
+          "text": "[14.2s - 15.0s]"
+        },
+        {
+          "id": "E",
+          "text": "[12.6s - 14.1s]"
+        },
+        {
+          "id": "F",
+          "text": "[2.0s - 3.5s]"
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. The personality analysis identifies High Neuroticism based on the 'rapid and pronounced shift in facial expression' characterized by 'emotional lability'. The observation log pinpoints this event—eyes widening and eyebrows raising high—to the interval [12.6s - 14.1s] as he says 'jungle'.\n\n- Option A is a video-based distractor, corresponding to the initial relaxed facial expression.\n- Option B is a video-based distractor, corresponding to the time of vocal emphasis on 'Australia', but without a significant facial change.\n- Option C is a video-based distractor, corresponding to the time of vocal emphasis on 'deserts', also without a major facial shift.\n- Option D is a video-based distractor, corresponding to the moment his expression returns to a more neutral state after the peak expression.\n- Option F is a video-based distractor, corresponding to a period of neutral, direct gaze with no significant expression change."
+    },
+    {
+      "category": "Mixed Emotion Discrimination",
+      "question": "During [9.5s - 12.6s], the person's emotional state is best characterized as which of the following? Consider both verbal and non-verbal cues.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Quiet confidence mixed with a subtle, gentle amusement."
+        },
+        {
+          "id": "B",
+          "text": "Hopeful aspiration tempered by a feeling of genuine wonder."
+        },
+        {
+          "id": "C",
+          "text": "Relaxed contentment mixed with a hint of passive reflection."
+        },
+        {
+          "id": "D",
+          "text": "Calm satisfaction tempered by a degree of wistful longing."
+        },
+        {
+          "id": "E",
+          "text": "Eager anticipation mixed with focused, deliberate storytelling."
+        },
+        {
+          "id": "F",
+          "text": "Genuine joy tempered by an element of deep thoughtfulness."
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. During this interval, the person discusses a future plan ('tough ride') he would 'love to do', indicating anticipation. The observation log notes his vocal tone rises on 'wide open deserts', showing eagerness. Simultaneously, his posture is still, his gaze is direct, and his speech is structured, indicating a focused, deliberate storytelling mode. The combination is best described as 'eager anticipation mixed with focused, deliberate storytelling'.\n\n- Option A is a near-miss distractor. 'Quiet confidence' is plausible, but 'amusement' is not supported by any cues.\n- Option B is a text-based distractor. 'Hopeful aspiration' and 'wonder' are plausible given the topic of travel, but 'focused storytelling' is a more accurate description of his controlled delivery and direct gaze.\n- Option C is a near-miss distractor. It's incorrect because his rising vocal tone shows active engagement, not 'passive reflection' or low-energy 'contentment'.\n- Option D is a text-based distractor. 'Wistful longing' is incorrect as he is speaking about a future goal, not a past memory.\n- Option F is a text-based distractor. 'Genuine joy' is too strong for his controlled demeanor; the emotion is more forward-looking and energetic than pure joy."
+    },
+    {
+      "category": "Temporal-Causal Reasoning",
+      "question": "Consider the sequence of behaviors observed across the video. Which of the following best describes the causal chain linking the person's actions at different moments?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A heightened affective display prompts self-monitoring, leading to a more controlled exposition and subsequent emotional regulation."
+        },
+        {
+          "id": "B",
+          "text": "Memory retrieval causes a display of uncertainty, which is resolved through a later compensatory gesture showing confidence."
+        },
+        {
+          "id": "C",
+          "text": "A direct gaze causes increased vocal intensity, leading to a sustained period of high energy without any clear down-regulation."
+        },
+        {
+          "id": "D",
+          "text": "Goal-oriented exposition triggers a heightened affective display, which is then followed by a period of reflective thought."
+        },
+        {
+          "id": "E",
+          "text": "Goal-oriented exposition leads to a controlled display, escalating to a heightened affective display, followed by rapid regulation."
+        },
+        {
+          "id": "F",
+          "text": "Audience feedback monitoring causes a controlled display, which then leads to a disengaged state as the speaker loses focus."
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. This option accurately abstracts the video's narrative arc. 1) He begins with a structured statement of his plans ('goal-oriented exposition' from 0s-9s). 2) He uses moderate vocal stress for emphasis ('controlled display' from 9.5s-12.6s). 3) This escalates to a strong facial expression for greater impact ('heightened affective display' from 12.6s-14.1s). 4) He then quickly returns to a neutral state ('rapid regulation' from 14.1s-15.0s).\n\n- Option A is a temporal-reversal distractor. It incorrectly places the heightened display at the beginning of the chain.\n- Option B is a text-based distractor. It describes a plausible psychological chain but one that does not match the observed behaviors; there is no evidence of uncertainty.\n- Option C is a video-based distractor. It correctly links gaze and vocal intensity but incorrectly claims there is no down-regulation, when in fact he does return to a neutral state at the end.\n- Option D is a near-miss distractor. It correctly identifies the first two parts of the causal chain but mischaracterizes the final step as 'reflective thought' when it is a much faster 'rapid regulation'.\n- Option F is a text-based distractor. It invents a cause (audience feedback) and an outcome (disengagement) that are not supported by the video."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 13.4s, a region was detected in the video (x=0.433, y=0.313, w=0.218, h=0.076, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A relaxed and neutral overall facial expression at rest."
+        },
+        {
+          "id": "B",
+          "text": "A small, subtle nodding motion of the entire head area."
+        },
+        {
+          "id": "C",
+          "text": "A generally still and stable posture of the upper body."
+        },
+        {
+          "id": "D",
+          "text": "A subtle, slightly raised baseline position of the eyebrows."
+        },
+        {
+          "id": "E",
+          "text": "A sharp, high raising of the eyebrows for strong emphasis."
+        },
+        {
+          "id": "F",
+          "text": "An intense, wide-eyed look across the entire facial region."
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. The provided coordinates at 13.4s tightly frame the eyebrow region. The observation log for [12.6s - 14.1s] explicitly states that at this moment, his 'eyebrows raise high' to form an emphatic expression. This option accurately describes that action.\n\n- Option A is a video-based distractor. It describes his facial expression from a different time segment (0.0s - 0.9s).\n- Option B is a video-based distractor. It describes a head movement, which is a different action occurring in a larger, different spatial region.\n- Option C is a video-based distractor. This describes his overall posture, testing whether the model can distinguish the specific bbox from the entire frame.\n- Option D is a near-miss distractor. It describes the state of the eyebrows from an earlier time segment ([0.9s - 12.6s]), where they are in a neutral, slightly raised position, not the sharp, high raise seen at 13.4s.\n- Option F is a video-based distractor. It describes the expression of the entire face (including the eyes) at that moment, but the question asks for the action within the specific, smaller bounding box which isolates only the eyebrows."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "The speaker performs a small, affiliative gesture synchronized with his speech to build rapport. Which option correctly identifies the precise time and location of this gesture's primary region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[0.0s] at bbox (x=0.438, y=0.300, w=0.231, h=0.476)"
+        },
+        {
+          "id": "B",
+          "text": "[9.9s] at bbox (x=0.245, y=0.697, w=0.617, h=0.189)"
+        },
+        {
+          "id": "C",
+          "text": "[14.1s] at bbox (x=0.447, y=0.368, w=0.188, h=0.105)"
+        },
+        {
+          "id": "D",
+          "text": "[9.9s] at bbox (x=0.439, y=0.182, w=0.215, h=0.647)"
+        },
+        {
+          "id": "E",
+          "text": "[0.9s] at bbox (x=0.410, y=0.339, w=0.265, h=0.084)"
+        },
+        {
+          "id": "F",
+          "text": "[14.1s] at bbox (x=0.450, y=0.208, w=0.194, h=0.603)"
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "The correct answer is D. The observation log mentions 'small head movements, like slight nods and turns, synchronized with his speech' throughout the video. The personality analysis identifies these as 'affiliative gestures' that build rapport. The bbox provided at 9.9s (x=0.439, y=0.182, w=0.215, h=0.647) correctly captures the entire head region during one of these moments.\n\n- Option A points to the face at the very beginning, showing a static relaxed state, not a gesture.\n- Option B points to the upper torso at 9.9s, which is the wrong spatial region for a head gesture.\n- Option C points to the eyes during the moment of high emphasis, which is an emphatic, not affiliative, gesture.\n- Option E points to the eyebrows in a neutral state early in the video, which is not a gesture.\n- Option F points to the face as it returns to neutral, which is an action of regulation, not a rapport-building gesture."
+    },
+    {
+      "category": "Counterfactual Reasoning",
+      "question": "If the person had NOT exhibited the behavior observed around [12.6s - 14.1s], which of the following personality assessments would be MOST affected?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Agreeableness would shift from High to Medium, as that specific gesture is a key signal of his interpersonal warmth."
+        },
+        {
+          "id": "B",
+          "text": "Openness would be lowered, since that moment is the strongest demonstration of his curiosity for novel environments."
+        },
+        {
+          "id": "C",
+          "text": "Conscientiousness assessment would be less certain, as the gesture reflects a degree of impulsive expression."
+        },
+        {
+          "id": "D",
+          "text": "Neuroticism would likely increase, because its absence would point toward a pattern of emotional suppression."
+        },
+        {
+          "id": "E",
+          "text": "Neuroticism would likely decrease from High, as this moment provides the main evidence for emotional lability."
+        },
+        {
+          "id": "F",
+          "text": "Extraversion would drop significantly, as this is the most compelling example of his outward-facing energy."
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. The behavior at [12.6s - 14.1s] is the intense facial expression (wide eyes, raised eyebrows). The personality analysis states this is the primary evidence supporting the High Neuroticism score, as it demonstrates 'heightened emotional reactivity' and 'lability'. Removing this key piece of evidence would significantly weaken the case for High Neuroticism, likely causing the score to decrease.\n\n- Option A is a text-based distractor. Agreeableness is supported by other cues (head nods, direct gaze), and this intense gesture is not a primary signal of warmth.\n- Option B is a text-based distractor. It confuses the verbal topic (Openness) with the behavioral style (Neuroticism). His interest in new experiences is stated verbally, so removing this one expression would not greatly impact the Openness score.\n- Option C is a text-based distractor. The analysis does not link this behavior to Conscientiousness, so removing it would have little effect on that trait's assessment.\n- Option D is a near-miss distractor. It correctly identifies Neuroticism as the affected trait but proposes the wrong direction and an unlikely rationale (that absence implies suppression), making it incorrect.\n- Option F is a video-based distractor. While the expression is outwardly energetic, the evidence for Extraversion also comes from sustained eye contact and vocal emphasis elsewhere. The unique quality of this specific behavior (its rapid, intense onset) is more central to the Neuroticism argument than the Extraversion one."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator18",
+      "version": 1,
+      "clues_total": 18,
+      "clues_correct": 15,
+      "clues_wrong_corrected": 1,
+      "clues_missing_skipped": 2,
+      "clues_bonus": 0
+    }
+  }
+}

@@ -1,0 +1,475 @@
+{
+  "video_id": "ItkIHtgVhIk.003.mp4",
+  "video_path": "ItkIHtgVhIk.003.mp4",
+  "transcription": "Comfortable, and I don't want anyone to feel uncomfortable, so that's why you probably see different people on my channel. If someone's having a revamped style, which I cannot not feel-",
+  "original_scores": {
+    "extraversion": 0.30841121495327106,
+    "agreeableness": 0.3846153846153846,
+    "conscientiousness": 0.47572815533980584,
+    "neuroticism": 0.34374999999999994,
+    "openness": 0.33333333333333337
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 8.7,
+      "description": "The subject's gaze is directed downward. His eyelids are lowered, and his eyebrows are in a neutral position. His mouth moves naturally as he speaks.",
+      "bboxes": [
+        {
+          "frame_time": 2.020136,
+          "x": 0.42376644736842106,
+          "y": 0.40614034753096734,
+          "w": 0.1480263157894737,
+          "h": 0.06315789473684211,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 2.020136,
+          "x": 0.41932565789473686,
+          "y": 0.40614034753096734,
+          "w": 0.16430921052631578,
+          "h": 0.06842105263157895,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 2.020136,
+          "x": 0.3971217105263158,
+          "y": 0.33771929489938834,
+          "w": 0.20131578947368423,
+          "h": 0.08421052631578947,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 2.020136,
+          "x": 0.4652138157894737,
+          "y": 0.5219298212151778,
+          "w": 0.07845394736842105,
+          "h": 0.08947368421052632,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 8.7,
+      "end_time": 10.3,
+      "description": "The subject raises his head and looks directly at the camera. His eyebrows raise slightly and then lower into a more furrowed, serious expression as his lips press together briefly.",
+      "bboxes": [
+        {
+          "frame_time": 9.480493,
+          "x": 0.40008223684210525,
+          "y": 0.16140350542570414,
+          "w": 0.17763157894736842,
+          "h": 0.48947368421052634,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 9.480493,
+          "x": 0.40452302631578946,
+          "y": 0.2982456106888621,
+          "w": 0.18355263157894738,
+          "h": 0.11052631578947368,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 9.480493,
+          "x": 0.40896381578947366,
+          "y": 0.2824561370046515,
+          "w": 0.16282894736842105,
+          "h": 0.08157894736842106,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 10.22985,
+          "x": 0.39564144736842105,
+          "y": 0.2824561370046515,
+          "w": 0.19095394736842106,
+          "h": 0.3447368421052632,
+          "note": "human-annotated",
+          "region": "unknown"
+        },
+        {
+          "frame_time": 10.22985,
+          "x": 0.4015625,
+          "y": 0.3271929791099147,
+          "w": 0.18207236842105262,
+          "h": 0.06315789473684211,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 10.22985,
+          "x": 0.4533717105263158,
+          "y": 0.5061403475309673,
+          "w": 0.09177631578947369,
+          "h": 0.11052631578947368,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 10.3,
+      "end_time": 15.3,
+      "description": "The subject's gaze returns downward, with his brow remaining slightly furrowed. His expression is serious as he continues to speak.",
+      "bboxes": [
+        {
+          "frame_time": 11.582042,
+          "x": 0.3852796052631579,
+          "y": 0.3271929791099147,
+          "w": 0.20279605263157896,
+          "h": 0.15,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 12.636749,
+          "x": 0.38675986842105264,
+          "y": 0.31140350542570416,
+          "w": 0.20723684210526316,
+          "h": 0.3473684210526316,
+          "note": "face human-annotated",
+          "region": "face"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 8.7,
+      "description": "The subject is sitting in a chair, with his head tilted down, looking at something below the frame. His upper torso is mostly still.",
+      "bboxes": [
+        {
+          "frame_time": 0.954468,
+          "x": 0.4074835526315789,
+          "y": 0.32456140016254625,
+          "w": 0.17319078947368421,
+          "h": 0.29210526315789476,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 1.514661,
+          "x": 0.25501644736842105,
+          "y": 0.20087718963623047,
+          "w": 0.4825657894736842,
+          "h": 0.7736842105263158,
+          "note": "pose human-annotated",
+          "region": "torso"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 8.7,
+      "end_time": 10.3,
+      "description": "The subject raises his head to face forward.",
+      "bboxes": [
+        {
+          "frame_time": 9.588248,
+          "x": 0.3808388157894737,
+          "y": 0.19561403174149364,
+          "w": 0.2294407894736842,
+          "h": 0.45526315789473687,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 10.3,
+      "end_time": 15.3,
+      "description": "The subject tilts his head down again, maintaining a forward-facing posture with his upper body.",
+      "bboxes": [
+        {
+          "frame_time": 11.206932,
+          "x": 0.37935855263157897,
+          "y": 0.2614035054257042,
+          "w": 0.21611842105263157,
+          "h": 0.3763157894736842,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 11.70706,
+          "x": 0.2490953947368421,
+          "y": 0.4745614001625463,
+          "w": 0.5358552631578948,
+          "h": 0.4105263157894737,
+          "note": "pose human-annotated",
+          "region": "torso"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 8.7,
+      "description": "The subject speaks at a moderate, steady pace with a low, declarative pitch. His volume is consistent. There is slight stress placed on the words \"swine's flesh\" and \"unclean beasts\".",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 8.7,
+      "end_time": 10.3,
+      "description": "The phrase \"Ain't that something?\" is spoken at a slightly slower pace. The pitch on \"something\" has a rising-then-falling inflection, indicating a rhetorical question.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 10.3,
+      "end_time": 15.3,
+      "description": "The speech returns to a moderate, steady pace and low, declarative pitch. The volume remains consistent.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.3,
+      "description": "The subject is a male with a dark complexion, short black hair, and a goatee. He is wearing a black and white horizontally striped polo shirt. He is sitting in what appears to be a dark office chair in an indoor room. Behind him to his right is a white, paneled bifold door, and to his left is a light-colored wall and the edge of a wooden door or piece of furniture. The lighting is soft and comes from the front.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 14.833333,
+      "end_time": 15.833333,
+      "description": "There is a blue pattern decoration on the chest of the clothes",
+      "bboxes": [
+        {
+          "frame_time": 15.333333,
+          "x": 0.5451480263157895,
+          "y": 0.7535087685835989,
+          "w": 0.08289473684210527,
+          "h": 0.13157894736842105,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Low",
+      "score": 0.31,
+      "rationale": "The subject's behavior aligns with a Low level of Extraversion. This is primarily indicated by a sustained downward gaze ([0.0s-8.7s], [10.3s-15.3s]), which shows an avoidance of direct social engagement with the audience (camera). His posture is largely static ('torso... mostly still') and his vocal delivery is moderate and low-pitched, lacking the energetic and assertive qualities typical of high extraversion. The brief look at the camera is fleeting, reinforcing a preference for less intense social stimulation.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Low",
+      "score": 0.38,
+      "rationale": "A Low Agreeableness score is supported by the subject's non-verbal cues. His facial expression is consistently serious, lacking affiliative signals like smiling. During the brief period of direct eye contact, his eyebrows are described as 'furrowed' and his expression as 'more scowling, serious' ([8.7s-10.3s]). This suggests a critical or skeptical rather than a warm and cooperative interpersonal stance.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Medium",
+      "score": 0.48,
+      "rationale": "The subject's Conscientiousness is assessed as Medium. His controlled and deliberate communication style, evidenced by a 'steady' and 'moderate' speaking pace and a still torso ([0.0s-8.7s]), points towards self-discipline. The persistent downward gaze suggests he may be referring to notes, indicating preparation. However, the evidence is not strong enough to suggest a very high level of orderliness or achievement-striving, making a Medium rating most appropriate.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Low",
+      "score": 0.34,
+      "rationale": "A Low score for Neuroticism is indicated by the subject's calm and stable demeanor. His voice remains steady and controlled throughout the clip, with no signs of quavering or anxious speech patterns. His body is still, free from nervous fidgeting or restlessness. While he does show a serious and furrowed brow, this appears to be a sign of focus or emphasis rather than anxiety or worry, reflecting emotional stability.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "Low",
+      "score": 0.33,
+      "rationale": "The subject's presentation suggests a Low level of Openness. His vocal style is consistently 'declarative' and low-pitched, indicating a straightforward and conventional communication method rather than a creative or intellectually exploratory one. His facial expressions are limited in range, staying within neutral and serious states. This overall conservative and grounded demeanor is characteristic of individuals with lower scores on Openness.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During 8.7s - 10.3s, the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Low Agreeableness due to a critical and scowling facial expression toward the viewer."
+        },
+        {
+          "id": "B",
+          "text": "Low Extraversion, as evidenced by his generally reserved and quiet speaking posture."
+        },
+        {
+          "id": "C",
+          "text": "High Neuroticism, because his furrowed brow shows a clear sign of anxious concern."
+        },
+        {
+          "id": "D",
+          "text": "High Conscientiousness, indicated by the focused and deliberate nature of his speech."
+        },
+        {
+          "id": "E",
+          "text": "Low Openness, which is demonstrated by a conservative and conventional presentation."
+        },
+        {
+          "id": "F",
+          "text": "Medium Conscientiousness based on a controlled and self-disciplined communication."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. During this interval, the subject looks directly at the camera with furrowed brows and a serious, scowling expression, which is strong evidence for a critical or skeptical interpersonal stance, characteristic of Low Agreeableness.\n- Option B is a video-based distractor. While the person does exhibit Low Extraversion, the evidence for it (sustained downward gaze, static posture) comes primarily from the *other* parts of the video, not this specific interval of direct engagement.\n- Option C is a near-miss distractor. A furrowed brow can indicate neuroticism, but the overall context of his calm demeanor and the declarative speech suggests it is a sign of critical focus, not anxiety. The analysis explicitly states this, making this a misinterpretation of the cue.\n- Option D is a text-based distractor. While he may be conscientious, the specific facial expression in this time window is more directly related to interpersonal warmth (Agreeableness) than to duty or focus (Conscientiousness).\n- Option E is a text-based distractor. A serious expression might sound related to low openness, but the personality analysis links this trait to his declarative speech tone and limited expressive range overall, not this specific look.\n- Option F is a video-based distractor. The overall assessment is Medium Conscientiousness, but this specific time segment is not the primary evidence for it; that comes from his steady pace and still torso throughout the video."
+    },
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their Agreeableness level?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[1.5s - 2.3s]"
+        },
+        {
+          "id": "B",
+          "text": "[4.1s - 4.9s]"
+        },
+        {
+          "id": "C",
+          "text": "[6.8s - 7.6s]"
+        },
+        {
+          "id": "D",
+          "text": "[11.0s - 11.8s]"
+        },
+        {
+          "id": "E",
+          "text": "[13.5s - 14.3s]"
+        },
+        {
+          "id": "F",
+          "text": "[9.2s - 10.1s]"
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The correct answer is F. The interval [9.2s - 10.1s] captures the most significant shift relevant to Agreeableness: he lifts his head, makes direct eye contact, and his eyebrows furrow into a scowling, serious expression. This is the primary evidence for his low score in this trait.\n- Options A, B, and C are video-based distractors. These intervals occur during the initial period where his gaze is directed downwards and his expression is relatively neutral and stable while speaking.\n- Options D and E are video-based distractors. These intervals occur after the key event, when he has returned to his downward gaze and serious but less confrontational expression."
+    },
+    {
+      "category": "Mixed Emotion Discrimination",
+      "question": "During 8.7s - 10.3s, the person's emotional state is best characterized as which of the following? Consider both verbal and non-verbal cues.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Skeptical judgment mixed with a degree of focused intensity"
+        },
+        {
+          "id": "B",
+          "text": "Mild annoyance tempered by an element of controlled frustration"
+        },
+        {
+          "id": "C",
+          "text": "Pensive concentration mixed with a bit of detached reflection"
+        },
+        {
+          "id": "D",
+          "text": "Anxious concern mixed with a feeling of underlying personal worry"
+        },
+        {
+          "id": "E",
+          "text": "Sudden confusion tempered by a slight hint of genuine surprise"
+        },
+        {
+          "id": "F",
+          "text": "Deep disappointment mixed with some amount of quiet resignation"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. In this timeframe, the person lifts his head, makes direct eye contact, and furrows his brow. This combination suggests a critical or challenging stance ('skeptical judgment') delivered with deliberate emphasis ('focused intensity'), which aligns with the personality analysis of Low Agreeableness.\n- Option B is a near-miss distractor. While 'annoyance' and 'frustration' are negative, they imply a higher emotional arousal than what is observed. His expression is more controlled and critical rather than emotionally agitated.\n- Option C is a video-based distractor. 'Pensive concentration' and 'detached reflection' accurately describe his state during the long periods of looking down (e.g., 0.0s-8.7s), but not during this specific moment of direct, intense eye contact.\n- Option D is a near-miss distractor. This interprets the furrowed brow as a sign of anxiety, which is a plausible but incorrect reading. The analysis notes his overall calm demeanor points away from Neuroticism, making 'anxious concern' unlikely.\n- Option E is a text-based distractor. Lifting the head to look at the camera could suggest surprise or confusion, but the expression is too firm and deliberate; it lacks the wide eyes or uncertainty associated with these emotions.\n- Option F is a text-based distractor. 'Disappointment' and 'resignation' are plausible negative emotions for a serious expression, but they don't fit the confrontational and emphatic nature of his direct gaze and furrowed brow."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 9.5s, a region was detected in the video (x=0.400, y=0.161, w=0.178, h=0.489, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "An upward tilting motion of the entire head area."
+        },
+        {
+          "id": "B",
+          "text": "A sustained and unchanging serious facial expression."
+        },
+        {
+          "id": "C",
+          "text": "A static and completely still upper body position."
+        },
+        {
+          "id": "D",
+          "text": "Lowered eyelids that suggest a strong focus."
+        },
+        {
+          "id": "E",
+          "text": "Subtle and natural lip movements during speech."
+        },
+        {
+          "id": "F",
+          "text": "A neutral and otherwise relaxed eyebrow posture."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. The provided bounding box at 9.5s covers the entire head region. At this exact moment, the most prominent action is the person lifting their head to face the camera, which is an upward tilting motion.\n- Option B is a video-based distractor. This describes his expression at a later time (e.g., around 12.6s) after he has already lifted his head and is looking down again.\n- Option C is a video-based distractor. This describes the torso, which is outside the specified bounding box for the head.\n- Option D is a near-miss distractor. While eyelids are part of the head, the action of 'lowered eyelids' is characteristic of the time *before* 9.5s. At 9.5s, the primary action is the head movement itself, not the state of the eyelids.\n- Option E is a video-based distractor. This describes the mouth region during a different time segment (e.g., around 2.0s) and is not the most prominent action of the entire head at 9.5s.\n- Option F is a video-based distractor. A neutral eyebrow posture is observed before 8.7s, not at 9.5s when the eyebrows are visibly furrowed."
+    },
+    {
+      "category": "Counterfactual Reasoning",
+      "question": "If the person had NOT exhibited the behavior observed around 8.7s - 10.3s, which of the following personality assessments would be MOST affected?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The assessment for Low Agreeableness would be most weakened, as this segment provides key non-verbal evidence for a critical interpersonal stance."
+        },
+        {
+          "id": "B",
+          "text": "The assessment for Low Extraversion would be less certain, because this moment of direct camera engagement is critical for the overall evaluation."
+        },
+        {
+          "id": "C",
+          "text": "The assessment for Agreeableness would become much stronger, because removing this serious expression would imply a more cooperative interaction."
+        },
+        {
+          "id": "D",
+          "text": "The judgment for Medium Conscientiousness would likely shift, since this moment clearly demonstrates a high degree of deliberate communication."
+        },
+        {
+          "id": "E",
+          "text": "The score for Low Neuroticism would be impacted, as the furrowed brow in this segment could otherwise be interpreted as a sign of deep anxiety."
+        },
+        {
+          "id": "F",
+          "text": "The assessment for Low Openness would need re-evaluation, given that this brief emotional display is the main indicator of his expressive range."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. The personality analysis explicitly cites the 'furrowed' brow and 'scowling, serious' expression during this time as the primary evidence supporting a Low Agreeableness score. Removing this behavior would remove the strongest evidence for that specific trait assessment, thus weakening it significantly.\n- Option B is a video-based distractor. While this segment shows engagement, the Low Extraversion assessment is primarily based on the much longer periods of downward gaze and static posture. Removing this brief moment would not affect the overall score as much as it would for Agreeableness.\n- Option C is a near-miss distractor. It correctly identifies the trait (Agreeableness) but gets the direction of the effect wrong. Removing evidence for a trait *weakens* the assessment; it does not automatically strengthen the assessment for the opposite pole of the trait.\n- Option D is a text-based distractor. The Medium Conscientiousness score is supported by cues throughout the video (e.g., steady speech, still torso), not just this single moment.\n- Option E is a video-based distractor. The analysis argues that the furrowed brow is a sign of focus, not anxiety, thus supporting Low Neuroticism. Removing it wouldn't impact the score, which is also based on his overall calm demeanor and steady voice.\n- Option F is a text-based distractor. The Low Openness score is based on the overall declarative tone and *limited* expressive range, so removing one of the few expressive moments would arguably strengthen, not weaken, the assessment."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator06",
+      "version": 3,
+      "clues_total": 23,
+      "clues_correct": 17,
+      "clues_wrong_corrected": 4,
+      "clues_missing_skipped": 1,
+      "clues_bonus": 1
+    }
+  }
+}

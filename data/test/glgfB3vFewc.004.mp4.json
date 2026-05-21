@@ -1,0 +1,516 @@
+{
+  "video_id": "glgfB3vFewc.004.mp4",
+  "video_path": "glgfB3vFewc.004.mp4",
+  "transcription": "During those times, I feel sad. I feel confused and-",
+  "original_scores": {
+    "extraversion": 0.6261682242990655,
+    "agreeableness": 0.6593406593406592,
+    "conscientiousness": 0.6407766990291262,
+    "neuroticism": 0.5208333333333334,
+    "openness": 0.6888888888888889
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 1.9,
+      "description": "The subject's gaze is directed slightly to her right, off-camera. Her facial expression is neutral and relaxed as she begins speaking. She blinks naturally.",
+      "bboxes": [
+        {
+          "frame_time": 0.64436,
+          "x": 0.6013980263157894,
+          "y": 0.23771929489938837,
+          "w": 0.11546052631578947,
+          "h": 0.1,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 1.639475,
+          "x": 0.5717927631578947,
+          "y": 0.20877192647833573,
+          "w": 0.17023026315789475,
+          "h": 0.2657894736842105,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 1.639475,
+          "x": 0.5732730263157895,
+          "y": 0.16929824226780943,
+          "w": 0.16430921052631578,
+          "h": 0.26842105263157895,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 1.26876,
+          "x": 0.5999177631578947,
+          "y": 0.22192982121517785,
+          "w": 0.09473684210526316,
+          "h": 0.07894736842105263,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 1.9,
+      "end_time": 11.85,
+      "description": "Her eyebrows raise slightly and remain so for the duration of the clip, creating an engaged expression. Her mouth moves naturally with speech, with slight lip compression on words like \"administrators\" and \"comfortable.\" She continues to blink at a natural rate.",
+      "bboxes": [
+        {
+          "frame_time": 4.307923,
+          "x": 0.5910361842105263,
+          "y": 0.17456140016254626,
+          "w": 0.09917763157894736,
+          "h": 0.08947368421052632,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 6.631023,
+          "x": 0.5658717105263158,
+          "y": 0.19035087384675678,
+          "w": 0.1450657894736842,
+          "h": 0.2736842105263158,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 6.631023,
+          "x": 0.592516447368421,
+          "y": 0.3271929791099147,
+          "w": 0.084375,
+          "h": 0.08947368421052632,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 7.191334,
+          "x": 0.592516447368421,
+          "y": 0.22456140016254625,
+          "w": 0.11546052631578947,
+          "h": 0.07105263157894737,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 2.6,
+      "description": "The subject is sitting in an upright posture, with her torso angled slightly to her left. Her head is mostly still, facing forward.",
+      "bboxes": [
+        {
+          "frame_time": 0.843089,
+          "x": 0.3852796052631579,
+          "y": 0.5324561370046516,
+          "w": 0.500328947368421,
+          "h": 0.46578947368421053,
+          "note": "pose human-annotated",
+          "region": "torso"
+        },
+        {
+          "frame_time": 1.867891,
+          "x": 0.548108552631579,
+          "y": 0.13245613700465153,
+          "w": 0.2042763157894737,
+          "h": 0.3605263157894737,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 3.4,
+      "end_time": 8.1,
+      "description": "Her head and body remain relatively still, with only minor movements accompanying the rhythm of her speech.",
+      "bboxes": [
+        {
+          "frame_time": 4.803433,
+          "x": 0.5214638157894737,
+          "y": 0.12192982121517784,
+          "w": 0.24424342105263158,
+          "h": 0.5473684210526316,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 8.1,
+      "end_time": 9.1,
+      "description": "Her head tilts slightly to her right as she says \"get comfortable.\"",
+      "bboxes": [
+        {
+          "frame_time": 8.951595,
+          "x": 0.5540296052631579,
+          "y": 0.08508771595201994,
+          "w": 0.18355263157894738,
+          "h": 0.3973684210526316,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 9.1,
+      "end_time": 11.85,
+      "description": "She returns her head to a neutral, forward-facing position and maintains a stable posture.",
+      "bboxes": [
+        {
+          "frame_time": 10.489103,
+          "x": 0.5880756578947368,
+          "y": 0.10877192647833574,
+          "w": 0.16726973684210528,
+          "h": 0.3684210526315789,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 10.489103,
+          "x": 0.4622532894736842,
+          "y": 0.46403508437307256,
+          "w": 0.3759868421052632,
+          "h": 0.5052631578947369,
+          "note": "pose human-annotated",
+          "region": "torso"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 7.9,
+      "description": "Speech is delivered at a moderate and consistent pace with clear articulation. Her pitch is in a mid-to-high range, with a slight rise on the word \"administrators.\" The list \"library and the gym and so on\" is spoken rhythmically with a slight pause before it.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 7.9,
+      "end_time": 11.85,
+      "description": "The pace remains steady. There is slight emphasis on the phrase \"get comfortable.\" The final phrase \"new school as well\" concludes with a distinct downward intonation, indicating the end of a thought.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 11.85,
+      "description": "The subject is a woman with fair skin and shoulder-length blonde hair. She is wearing a black button-up cardigan over a royal blue top with a ruffled collar. She is seated indoors in what appears to be a school classroom or library. To her left is a tall, white bookshelf filled with books. The wall behind her is made of white cinder blocks and is decorated with rows of colorful construction paper (orange, blue, yellow, pink), some of which have names and student work attached. The lighting is bright and even.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0.136656,
+      "end_time": 1.1366559999999999,
+      "description": "The subject is a woman with fair skin and shoulder-length blonde hair. She is wearing a black button-up cardigan over a royal blue top with a ruffled collar. She is seated indoors in what appears to be a school classroom or library. To her left is a tall, white bookshelf filled with books. The wall behind her is made of white cinder blocks and is decorated with rows of colorful construction paper (orange, blue, yellow, pink), some of which have names and student work attached. The lighting is bright and even.",
+      "bboxes": [
+        {
+          "frame_time": 0.636656,
+          "x": 0.6073190789473685,
+          "y": 0.11403508437307257,
+          "w": 0.15986842105263158,
+          "h": 0.3394736842105263,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "High",
+      "score": 0.63,
+      "rationale": "The subject's confident and engaging communication style supports a High Extraversion score. Her speech is clear, with a moderate and consistent pace, and her vocal pitch is in the mid-to-high range, all of which project social energy. Furthermore, her upright and stable posture, facing forward, indicates social readiness and engagement with her audience.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "High",
+      "score": 0.66,
+      "rationale": "A High Agreeableness rating is supported by the subject's calm and approachable demeanor. Her facial expression is described as neutral and relaxed, and her movements, such as natural blinking, are not tense. Her speech is considerate, with a steady pace and clear intonation marking the end of a thought, which facilitates understanding. The slight head tilt while speaking is a classic rapport-building gesture, indicating a cooperative and harmonious orientation.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "High",
+      "score": 0.64,
+      "rationale": "The subject demonstrates a high degree of orderliness and self-discipline, consistent with a High Conscientiousness score. Her physical presentation is controlled, marked by an upright, stable posture and minimal extraneous movement. This deliberateness is mirrored in her speech, which is clearly articulated and structurally organized, with rhythmic delivery and logical intonation. The focused expression throughout the clip further reinforces a diligent and task-oriented mindset.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Medium",
+      "score": 0.52,
+      "rationale": "The subject's rating of Medium Neuroticism is justified by a mix of emotional expression and regulation. She verbally acknowledges negative feelings ('sad,' 'confused'), a hallmark of the trait. This is subtly accompanied by non-verbal cues of discomfort, such as slight lip compression and looking away from the camera. However, these are balanced by strong indicators of composure, including a stable posture and a clear, controlled vocal delivery, suggesting she is experiencing but not overwhelmed by her emotions.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "High",
+      "score": 0.69,
+      "rationale": "A High Openness score is strongly indicated by the subject's engagement in introspection. Her willingness to articulate complex internal states like sadness and confusion demonstrates a comfort with exploring inner feelings. This is supported by a sustained, focused expression, suggesting deep cognitive processing. Her brief gaze shifts away from the camera align with the act of accessing internal thoughts and memories, a behavior common in individuals who are intellectually curious and reflective.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During 8.1s - 9.1s, the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A significantly low level of Agreeableness, indicated by signs of social disengagement and avoidance."
+        },
+        {
+          "id": "B",
+          "text": "A high degree of Openness, suggested by the non-verbal cues related to deep cognitive processing."
+        },
+        {
+          "id": "C",
+          "text": "A high level of Conscientiousness, demonstrated by the maintenance of a very controlled and stable posture."
+        },
+        {
+          "id": "D",
+          "text": "A high degree of Agreeableness, supported by the use of a classic non-verbal rapport-building gesture."
+        },
+        {
+          "id": "E",
+          "text": "A low level of Extraversion, evidenced by a temporary hesitation and withdrawal from the social interaction."
+        },
+        {
+          "id": "F",
+          "text": "A medium level of Neuroticism, shown by the subtle physical manifestations of internal anxiety or stress."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "The correct answer is D. During 8.1s - 9.1s, the person performs a slight head tilt to the left while speaking, which is a well-established non-verbal cue for building rapport and showing engagement, strongly supporting High Agreeableness. \n- Option A is a near-miss distractor. It correctly identifies the trait (Agreeableness) but interprets the gesture in the opposite direction (low instead of high).\n- Option B is a video-based distractor. High Openness is supported by other cues in the video (e.g., focused expression from 1.9s onwards), but not by the specific head tilt at this moment.\n- Option C is a video-based distractor. High Conscientiousness is supported by her stable posture, but that is a characteristic of the time *following* this specific head tilt (from 9.1s onwards).\n- Option E is a text-based distractor. The action is one of engagement, not withdrawal, making a link to Low Extraversion implausible upon viewing.\n- Option F is a text-based distractor. The head tilt is a pro-social gesture and is not typically associated with anxiety or stress in this context."
+    },
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their Conscientiousness level?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[8.0s - 8.8s]"
+        },
+        {
+          "id": "B",
+          "text": "[0.0s - 0.8s]"
+        },
+        {
+          "id": "C",
+          "text": "[10.2s - 11.0s]"
+        },
+        {
+          "id": "D",
+          "text": "[1.8s - 2.6s]"
+        },
+        {
+          "id": "E",
+          "text": "[4.0s - 4.8s]"
+        },
+        {
+          "id": "F",
+          "text": "[5.5s - 6.3s]"
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "The correct answer is D. Around 1.9s, the person's eyebrows raise slightly and their expression shifts to a 'focused' state that persists for the rest of the clip. This onset of a diligent, task-oriented expression is a key indicator supporting High Conscientiousness. The interval [1.8s - 2.6s] correctly captures this transition. \n- Option A is a video-based distractor. This interval captures the head tilt, which is more relevant to Agreeableness than Conscientiousness.\n- Option B is a video-based distractor. This interval captures the initial gaze aversion, a cue for introspection related more to Openness.\n- Option C is a text-based distractor. No significant expression change occurs during this time; the person is maintaining the already-established focused look.\n- Option E is a near-miss distractor. At this time, the focused expression is already present, but the question asks for the interval where the *change* occurs, which happened earlier.\n- Option F is a text-based distractor. This is a period of sustained expression, not a notable change."
+    },
+    {
+      "category": "Mixed Emotion Discrimination",
+      "question": "During 0.0s - 2.6s, the person's emotional state is best characterized as which of the following? Consider both verbal and non-verbal cues.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Deep sadness tempered by a neutral outward display of polite control."
+        },
+        {
+          "id": "B",
+          "text": "Focused concentration mixed with a slight degree of social anxiety."
+        },
+        {
+          "id": "C",
+          "text": "Mild annoyance at being confused coupled with visible frustration."
+        },
+        {
+          "id": "D",
+          "text": "Pensive reflection, indicated by a neutral expression and a brief gaze shift away from the camera."
+        },
+        {
+          "id": "E",
+          "text": "Regretful nostalgia for a past event combined with quiet sorrow."
+        },
+        {
+          "id": "F",
+          "text": "Anxious apprehension about the topic mixed with an effort at calm."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "The correct answer is D. In this interval, the person verbally states they feel 'sad' and 'confused'. Concurrently, their gaze is averted and their face is neutral/relaxed. This combination of verbalizing a negative internal state while maintaining a calm exterior and looking away points to a state of thoughtful introspection about negative feelings, best described as pensive reflection tinged with sadness.\n- Option A is a near-miss distractor. It correctly identifies the mix of sadness and neutrality but overstates the sadness as 'deep' and misattributes the neutrality to 'polite control' rather than introspection.\n- Option B is a video-based distractor. The 'focused concentration' (raised eyebrows) does not begin until after this period (around 1.9s), making this description temporally inaccurate.\n- Option C is a text-based distractor. While 'confused' is mentioned, there are no visual cues like furrowed brows or tense muscles to support 'annoyance' or 'frustration'.\n- Option E is a text-based distractor. The words 'sad' and 'confused' do not provide any evidence for the specific emotion of nostalgia or regret.\n- Option F is a text-based distractor. There are no non-verbal cues like fidgeting, rapid blinking, or a strained voice to suggest anxiety or apprehension."
+    },
+    {
+      "category": "Temporal-Causal Reasoning",
+      "question": "Consider the sequence of behaviors observed across the video. Which of the following best describes the causal chain linking the person's actions at different moments?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A task-focused cognitive state prompts verbal self-disclosure, which then leads to a brief moment of reflective introspection."
+        },
+        {
+          "id": "B",
+          "text": "An initial act of introspection is followed by verbal self-disclosure, which then causes a display of heightened emotional distress."
+        },
+        {
+          "id": "C",
+          "text": "A rapport-building gesture prompts a period of deep thought, which is followed by a statement of her overall emotional stability."
+        },
+        {
+          "id": "D",
+          "text": "An initial act of introspection is followed by verbal self-disclosure, which is then regulated by a shift to a task-focused state."
+        },
+        {
+          "id": "E",
+          "text": "A display of social anxiety is compensated for by an overly confident statement, leading to a period of self-correction."
+        },
+        {
+          "id": "F",
+          "text": "An external distraction causes a momentary loss of focus, which is then recovered through a deliberate re-engagement gesture."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "The correct answer is D. The video shows a logical sequence: 1) The person briefly looks away (introspection at 0.0s-1.9s) while 2) verbally stating feelings of sadness and confusion (self-disclosure at 0.0s-2.6s). 3) This is immediately followed by a shift to a more controlled, focused facial expression (raised eyebrows from 1.9s onward), indicating a cognitive regulation strategy to manage the disclosed emotions and focus on the task. \n- Option A is a near-miss distractor that reverses the temporal order of events.\n- Option B is a near-miss distractor. The first two steps are correct, but the final step is wrong; she shifts to a regulated state, not one of heightened distress.\n- Option C is a video-based distractor. It uses real behaviors from the video (rapport-building gesture, deep thought) but scrambles their causal and temporal relationship completely.\n- Option E is a text-based distractor. It uses plausible psychological terms but does not accurately describe the behaviors seen in the video; there are no clear signs of anxiety or overcompensation.\n- Option F is a text-based distractor. There is no evidence of an external distraction or a subsequent loss of focus."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 10.5s, a region was detected in the video (x=0.588, y=0.109, w=0.167, h=0.368, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A subtle raising of the eyebrows to show focus."
+        },
+        {
+          "id": "B",
+          "text": "A slight aversion of gaze toward her right side."
+        },
+        {
+          "id": "C",
+          "text": "A minor compression of the lips during speaking."
+        },
+        {
+          "id": "D",
+          "text": "A neutral and centered, forward-facing head pose."
+        },
+        {
+          "id": "E",
+          "text": "An upright torso posture tilting to the right."
+        },
+        {
+          "id": "F",
+          "text": "A generally relaxed and calm facial expression."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "The correct answer is D. The provided coordinates at 10.5s define a bounding box that encompasses the person's entire head. The observation log for the period [9.1s - 11.8s] explicitly states that she 'returns her head to a neutral, forward-facing position.' This describes the overall pose and orientation of the head within the box.\n- Option A is a video-based distractor. While her eyebrows are raised within this box, it describes a feature of the face, not the most prominent action of the entire head region, which is its position.\n- Option B is a video-based distractor. The gaze aversion occurs at the very beginning of the video (0.0s-1.9s), not at 10.5s.\n- Option C is a video-based distractor. Lip compression occurs at other moments during speech (e.g., around 6.6s), not necessarily at this exact moment, and it is a very localized action compared to the head's overall position.\n- Option E is a video-based distractor. This describes the torso, which is outside the specified head bounding box.\n- Option F is a near-miss distractor. Her facial expression is indeed relaxed, and the face is within the bounding box. However, the most specific and prominent action describing the entire region is the head's overall position and orientation, making D a better answer."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "At which time and location does the person display a sustained combination of focused engagement cues, including subtle facial muscle tension around the mouth and forehead?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[10.5s]  x=0.46, y=0.46, w=0.38, h=0.51"
+        },
+        {
+          "id": "B",
+          "text": "[1.6s]  x=0.57, y=0.17, w=0.16, h=0.27"
+        },
+        {
+          "id": "C",
+          "text": "[10.5s]  x=0.59, y=0.11, w=0.17, h=0.37"
+        },
+        {
+          "id": "D",
+          "text": "[6.6s]  x=0.57, y=0.19, w=0.15, h=0.27"
+        },
+        {
+          "id": "E",
+          "text": "[0.8s]  x=0.39, y=0.53, w=0.50, h=0.47"
+        },
+        {
+          "id": "F",
+          "text": "[1.3s]  x=0.60, y=0.22, w=0.09, h=0.08"
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "The correct answer is D. The question asks for a sustained period of focused engagement, cued by tension in the forehead (raised eyebrows) and mouth (lip compression). This behavior is described in the log from [1.9s - 11.8s]. Option D provides a timestamp (6.6s) that falls within this period and a bounding box that correctly frames the face, where all these cues are visible.\n- Option A is a video-based distractor. This bounding box covers the torso, not the face.\n- Option B is a video-based distractor. This timestamp (1.6s) is just before the sustained focused expression is established (it begins at 1.9s).\n- Option C is a video-based distractor. This bounding box is for the whole head at a later time, but the box in D is more tightly focused on the face where the specific expression cues are.\n- Option E is a video-based distractor. This is a bounding box for the torso at an early time point.\n- Option F is a near-miss distractor. This bounding box at 1.3s correctly isolates the eyes, which are part of the expression, but it is too small to include the mouth and forehead cues mentioned in the question."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [
+      {
+        "check": "B",
+        "q_idx": 2,
+        "issue": "The correct option (D) refers to a 'stated feeling of subdued sadness', which is based on the `transcription` field. This transcription is factually contradicted by the detailed audio `observations`, which do not contain these words.",
+        "action": "Rewrote option D to be based only on the non-verbal cues that are verifiably present in the observation logs for that time period."
+      },
+      {
+        "check": "B",
+        "q_idx": 6,
+        "issue": "The entire premise of this counterfactual question is based on the subject's verbal statement about sadness. According to the detailed audio `observations`, this verbal statement never occurred, making the question's premise factually inaccurate.",
+        "action": "Rewrote the question stem, options, and correct answer to pose a valid counterfactual question based on a behavior that was verifiably observed (the head tilt at 8.1s)."
+      }
+    ],
+    "corrections": {
+      "mcq_questions[2].options[3].text": "Pensive reflection, indicated by a neutral expression and a brief gaze shift away from the camera.",
+      "mcq_questions[6].question": "If the person had maintained a rigid, forward-facing head posture throughout the clip and not performed the head tilt at 8.1s, which personality assessment would be most negatively affected?",
+      "mcq_questions[6].options": [
+        {
+          "id": "A",
+          "text": "The Agreeableness score would be lower, as a key rapport-building gesture mentioned in the rationale would be absent."
+        },
+        {
+          "id": "B",
+          "text": "The Openness score would be lower, as the lack of movement would suggest less internal processing."
+        },
+        {
+          "id": "C",
+          "text": "The Conscientiousness score would be higher, because an even more stable posture would reinforce the trait."
+        },
+        {
+          "id": "D",
+          "text": "The Neuroticism score would be unaffected, as the head tilt is not related to emotional stability."
+        },
+        {
+          "id": "E",
+          "text": "The Extraversion score would be lower, because a static posture is less socially expressive."
+        },
+        {
+          "id": "F",
+          "text": "The Agreeableness score would be higher, as a rigid posture is a sign of respect."
+        }
+      ],
+      "mcq_questions[6].correct_answer": "A"
+    },
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator06",
+      "version": 1,
+      "clues_total": 19,
+      "clues_correct": 15,
+      "clues_wrong_corrected": 2,
+      "clues_missing_skipped": 1,
+      "clues_bonus": 1
+    }
+  }
+}

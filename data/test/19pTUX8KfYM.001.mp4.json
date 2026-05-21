@@ -1,0 +1,298 @@
+{
+  "video_id": "19pTUX8KfYM.001.mp4",
+  "video_path": "19pTUX8KfYM.001.mp4",
+  "transcription": "Denise says, \"When is time really the only way to improve your credit score, if ever?\" And you do run into some cases where time is the only thing that can help you, but that's if you've done everything else. So ...",
+  "original_scores": {
+    "extraversion": 0.47663551401869164,
+    "agreeableness": 0.5604395604395604,
+    "conscientiousness": 0.7572815533980582,
+    "neuroticism": 0.59375,
+    "openness": 0.6222222222222222
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 15.01,
+      "description": "The subject maintains direct gaze toward the camera. His eyebrows are slightly raised and his eyes are held wide open throughout, creating an engaged and emphatic expression. His mouth moves naturally in correspondence with his speech.",
+      "bboxes": [
+        {
+          "frame_time": 0.508781,
+          "x": 0.36751644736842104,
+          "y": 0.47192982121517785,
+          "w": 0.20723684210526316,
+          "h": 0.11578947368421053,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 1.524337,
+          "x": 0.43264802631578947,
+          "y": 0.37456140016254624,
+          "w": 0.17171052631578948,
+          "h": 0.07894736842105263,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 3.563729,
+          "x": 0.41488486842105265,
+          "y": 0.45087718963623047,
+          "w": 0.15394736842105264,
+          "h": 0.0868421052631579,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 13.039783,
+          "x": 0.4134046052631579,
+          "y": 0.3192982422678094,
+          "w": 0.23240131578947368,
+          "h": 0.42105263157894735,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 1.648636,
+          "x": 0.4652138157894737,
+          "y": 0.5903508738467568,
+          "w": 0.10213815789473685,
+          "h": 0.08157894736842106,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 13.56,
+      "description": "The subject sits upright, facing the camera. His head remains relatively still with only minor movements accompanying his speech. His hands are out of view.",
+      "bboxes": [
+        {
+          "frame_time": 7.355226,
+          "x": 0.3216282894736842,
+          "y": 0.1429824527941252,
+          "w": 0.4766447368421053,
+          "h": 0.8552631578947368,
+          "note": "human-annotated",
+          "region": "unknown"
+        },
+        {
+          "frame_time": 8.519734,
+          "x": 0.3882401315789474,
+          "y": 0.22192982121517785,
+          "w": 0.26644736842105265,
+          "h": 0.5763157894736842,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 12.604459,
+          "x": 0.37639802631578945,
+          "y": 0.8429824527941252,
+          "w": 0.3004934210526316,
+          "h": 0.15526315789473685,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 13.56,
+      "end_time": 15.01,
+      "description": "The subject brings his hands up from below the frame, clasping them together in front of his chest.",
+      "bboxes": [
+        {
+          "frame_time": 14.653244,
+          "x": 0.48149671052631576,
+          "y": 0.8429824527941252,
+          "w": 0.14950657894736843,
+          "h": 0.15526315789473685,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0.44,
+      "end_time": 6.34,
+      "description": "Speech is delivered at a moderate pace in a clear, mid-range pitch. There is upward pitch inflection for emphasis on the words \"time\" (0:03), \"really\" (0:03), and \"only\" (0:04).",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 6.34,
+      "end_time": 14.33,
+      "description": "The speaking pace remains moderate and the volume consistent. A slight pause occurs before he says \"but that's if you've done everything else.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 14.33,
+      "end_time": 15.01,
+      "description": "The subject says \"So\" with a downward pitch inflection, preceded by a short, audible inhalation.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.01,
+      "description": "The subject is a light-skinned male with short, blonde hair, seated in an office environment. He is wearing a dark, collared shirt. Behind him is a light-colored wall with a large whiteboard containing handwritten notes. To the right of the frame, a window with closed blinds is visible, and next to it, a small grey cabinet with a black object on top. The scene is lit from the front with even, diffuse lighting.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Medium",
+      "score": 0.48,
+      "rationale": "The subject exhibits a blend of socially expressive and reserved behaviors, consistent with a Medium Extraversion score. On one hand, his engaged facial expression, clear vocal projection, and willingness to address an audience suggest social confidence. On the other hand, his relatively still posture, minimal use of expansive gestures, and inconsistent direct eye contact indicate a more moderate, less dominant social energy. This combination reflects an individual who is comfortable with communication but not overtly seeking the spotlight.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Medium",
+      "score": 0.56,
+      "rationale": "The subject's demeanor is cooperative and helpful, aligning with a Medium Agreeableness rating. He is responding directly and informatively to a question, and his engaged expression (slightly raised eyebrows) suggests receptiveness and a willingness to help. His vocal tone is moderate and clear, fostering a constructive rather than confrontational interaction. The absence of overt warmth or effusiveness, coupled with a professional focus, places him in the mid-range—pleasant and cooperative without being excessively solicitous.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "High",
+      "score": 0.76,
+      "rationale": "Strong evidence points to High Conscientiousness. The subject's communication is meticulously structured; he uses strategic pauses and vocal emphasis on key words to ensure clarity and precision in his explanation. His upright posture and controlled movements reflect discipline and focus. Furthermore, the background environment, featuring a whiteboard filled with handwritten notes, serves as a powerful indicator of an organized, diligent, and task-oriented individual who values planning and thoroughness.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Medium",
+      "score": 0.59,
+      "rationale": "The subject's behavior suggests a Medium level of Neuroticism. While his overall delivery is composed and his speech is steady—arguing against high neuroticism—there are subtle indicators of self-monitoring. The lack of consistent, direct eye contact with the camera and the final, self-contained gesture of clasping his hands can be interpreted as minor self-regulating behaviors. This balance between outward composure and subtle signs of internal management is characteristic of an individual who is generally stable but experiences a moderate degree of situational awareness or tension.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "High",
+      "score": 0.62,
+      "rationale": "The subject's Openness is assessed as High, primarily due to indicators of intellectual curiosity. He is engaged in explaining a nuanced topic, demonstrating an appreciation for analysis and information sharing. The most telling cue is the environment: a whiteboard covered in notes strongly suggests a mind that is actively engaged in organizing ideas, problem-solving, and exploring concepts. His engaged facial expression further supports a disposition of curiosity and receptiveness to intellectual engagement.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's expression or gesture occur that is most relevant to their Medium Neuroticism level?",
+      "options": [
+        {
+          "id": "A",
+          "text": "1.2s - 2.6s"
+        },
+        {
+          "id": "B",
+          "text": "3.1s - 4.5s"
+        },
+        {
+          "id": "C",
+          "text": "6.8s - 8.2s"
+        },
+        {
+          "id": "D",
+          "text": "13.6s - 15.0s"
+        },
+        {
+          "id": "E",
+          "text": "9.0s - 10.4s"
+        },
+        {
+          "id": "F",
+          "text": "4.9s - 6.3s"
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "The correct answer is D. The personality analysis notes that subtle self-regulating behaviors contribute to the Medium Neuroticism score. The most distinct of these is the subject bringing his hands up to clasp them in front of his chest between 13.6s and 15.0s. This is a self-contained, self-monitoring gesture that occurs at the conclusion of his main point.\n\n- Option A (1.2s - 2.6s) is a video-based distractor. This interval captures the slight eyebrow raise, which is more related to emphasis and engagement (Agreeableness/Openness) than to Neuroticism.\n- Option B (3.1s - 4.5s) is a video-based distractor. This interval covers a period of steady speech and normal eye movement, reflecting composure rather than a specific neuroticism cue.\n- Option C (6.8s - 8.2s) is a text-based distractor. This is a plausible time for a shift, but it falls in the middle of a steady sentence with no notable gestural or expressive change.\n- Option E (9.0s - 10.4s) is a text-based distractor. This is another plausible but incorrect time interval during the subject's explanation, with no specific event relevant to Neuroticism.\n- Option F (4.9s - 6.3s) is a video-based distractor. This interval captures the end of the initial question phrasing where vocal emphasis is used, which is a cue for Conscientiousness, not Neuroticism."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "The subject makes a self-regulating motion near the end of his statement. Which option correctly identifies the time and location of this specific gestural event?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[8.5s] (x=0.388, y=0.222, w=0.266, h=0.576)"
+        },
+        {
+          "id": "B",
+          "text": "[1.5s] (x=0.433, y=0.375, w=0.172, h=0.079)"
+        },
+        {
+          "id": "C",
+          "text": "[14.7s] (x=0.481, y=0.843, w=0.150, h=0.155)"
+        },
+        {
+          "id": "D",
+          "text": "[14.7s] (x=0.388, y=0.222, w=0.266, h=0.576)"
+        },
+        {
+          "id": "E",
+          "text": "[3.6s] (x=0.415, y=0.451, w=0.154, h=0.087)"
+        },
+        {
+          "id": "F",
+          "text": "[9.2s] (x=0.750, y=0.550, w=0.150, h=0.150)"
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. The 'self-regulating motion' described is the subject clasping his hands. This action is explicitly noted in the observation log as occurring between 13.6s and 15.0s, with a representative bounding box at 14.7s focused on the hands. Option C provides the correct timestamp and the precise coordinates for the hands during this gesture.\n\n- Option A is a video-based distractor. It points to the head region during the middle of his speech, not a hand gesture at the end.\n- Option B is a video-based distractor. It identifies the eyebrow raise at the beginning of the video, which is a gesture of emphasis, not self-regulation.\n- Option D is a near-miss distractor. It has the correct timestamp (14.7s) but provides the coordinates for the head, not the hands where the gesture is occurring.\n- Option E is a video-based distractor. It points to the eye region early in the video, which is incorrect in both time and space.\n- Option F is a text-based distractor. It presents a plausible but non-existent event, with coordinates placing it in an empty space to the right of the subject."
+    },
+    {
+      "category": "Counterfactual Reasoning",
+      "question": "If the person had NOT exhibited the behavior observed around 0.4s - 6.3s, which of the following personality assessments would be MOST affected?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Agreeableness would be judged much higher because the assertive tone in that segment would have been absent from consideration."
+        },
+        {
+          "id": "B",
+          "text": "Extraversion would shift from Medium to Low, as this segment provides the main evidence of his willingness to engage an audience."
+        },
+        {
+          "id": "C",
+          "text": "Neuroticism would be assessed as higher, since the calm vocal control in this segment is the primary counter-evidence to anxiety."
+        },
+        {
+          "id": "D",
+          "text": "Conscientiousness would be less certain as High, because the evidence for precise, structured communication would be weaker."
+        },
+        {
+          "id": "E",
+          "text": "Openness would be less certain as High, as the vocal emphasis is the main sign of his intellectual curiosity at that moment."
+        },
+        {
+          "id": "F",
+          "text": "Conscientiousness would be judged as higher, because the absence of that vocal pattern would suggest a more careful demeanor."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "The correct answer is D. The behavior from 0.4s to 6.3s involves using specific vocal emphasis on keywords ('time', 'really', 'only') to structure his communication for maximum clarity. The personality analysis directly cites 'strategic pauses and vocal emphasis' as strong evidence for High Conscientiousness. Removing this key behavior would significantly weaken the argument for a High score, making it less certain.\n\n- Option A is a text-based distractor. His tone is clear but not overly assertive, and his overall helpfulness is the primary basis for the Agreeableness score, so this trait would be largely unaffected.\n- Option B is a video-based distractor. The subject is engaged throughout the video; this segment is not the 'main evidence' for his engagement, so the Extraversion score would not shift dramatically.\n- Option C is a text-based distractor. While his vocal control is a factor, the key evidence for balancing his Medium Neuroticism score comes from the later self-regulating gestures, not just this early segment.\n- Option E is a near-miss distractor. Openness is also rated as High, but it is primarily supported by the intellectual topic and the whiteboard background. The *specific behavior* of structured vocal emphasis is a more direct and powerful cue for Conscientiousness than for Openness.\n- Option F is a near-miss distractor. It correctly identifies the trait (Conscientiousness) but gets the direction of the effect wrong. Removing this evidence of diligent communication would lower, not raise, the assessed score."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator19",
+      "version": 1,
+      "clues_total": 13,
+      "clues_correct": 9,
+      "clues_wrong_corrected": 4,
+      "clues_missing_skipped": 0,
+      "clues_bonus": 0
+    }
+  }
+}

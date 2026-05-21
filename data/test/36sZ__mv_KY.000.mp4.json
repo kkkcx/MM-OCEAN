@@ -1,0 +1,453 @@
+{
+  "video_id": "36sZ__mv_KY.000.mp4",
+  "video_path": "36sZ__mv_KY.000.mp4",
+  "transcription": "... with a business marketing degree that I only ever wanted to begin with, because that's what society tells you to want. Society tells you that you need college, and you need a degree, and your dreams that do not require a degree are unrealistic, and I'd like to think [inaudible 00:00:14]-",
+  "original_scores": {
+    "extraversion": 0.4112149532710281,
+    "agreeableness": 0.5604395604395604,
+    "conscientiousness": 0.6019417475728155,
+    "neuroticism": 0.5208333333333334,
+    "openness": 0.6888888888888889
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 0.82,
+      "description": "The subject's eyes are mostly closed, and they press their lips together before starting to speak.",
+      "bboxes": [
+        {
+          "frame_time": 0.189188,
+          "x": 0.5392269736842106,
+          "y": 0.2692982422678094,
+          "w": 0.1569078947368421,
+          "h": 0.07368421052631578,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 0.698541,
+          "x": 0.5762335526315789,
+          "y": 0.416666663320441,
+          "w": 0.11990131578947369,
+          "h": 0.10526315789473684,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 0.82,
+      "end_time": 6.82,
+      "description": "The subject opens their eyes, looking directly at the camera. Their eyebrows raise and lower slightly in sync with their speech, and their mouth forms a slight pucker at the end of the sentence.",
+      "bboxes": [
+        {
+          "frame_time": 4.59178,
+          "x": 0.5451480263157895,
+          "y": 0.2614035054257042,
+          "w": 0.16726973684210528,
+          "h": 0.060526315789473685,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 5.771807,
+          "x": 0.5777138157894737,
+          "y": 0.22719297910991468,
+          "w": 0.1480263157894737,
+          "h": 0.08421052631578947,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 6.794837,
+          "x": 0.5777138157894737,
+          "y": 0.4403508738467568,
+          "w": 0.11842105263157895,
+          "h": 0.09473684210526316,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 6.82,
+      "end_time": 13.52,
+      "description": "The subject's expression becomes more emphatic, with eyebrows raising significantly on the words \"college,\" \"degree,\" and \"unrealistic.\" Their gaze remains fixed on the camera.",
+      "bboxes": [
+        {
+          "frame_time": 11.904311,
+          "x": 0.5377467105263158,
+          "y": 0.2324561370046515,
+          "w": 0.17171052631578948,
+          "h": 0.34210526315789475,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 11.541958,
+          "x": 0.5540296052631579,
+          "y": 0.216666663320441,
+          "w": 0.15542763157894737,
+          "h": 0.08421052631578947,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 9.315073,
+          "x": 0.5510690789473685,
+          "y": 0.316666663320441,
+          "w": 0.1569078947368421,
+          "h": 0.06842105263157895,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 13.52,
+      "end_time": 14.99,
+      "description": "The subject's facial muscles relax slightly, and the corners of their mouth lift into a subtle smile as they begin the next phrase.",
+      "bboxes": [
+        {
+          "frame_time": 14.409254,
+          "x": 0.5451480263157895,
+          "y": 0.22719297910991468,
+          "w": 0.15542763157894737,
+          "h": 0.34210526315789475,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 14.409254,
+          "x": 0.5762335526315789,
+          "y": 0.42719297910991466,
+          "w": 0.11398026315789474,
+          "h": 0.09736842105263158,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 14.99,
+      "description": "The subject is seated on a couch, framed from the chest up. They maintain a relatively still, upright posture with slight head nods punctuating their speech, particularly on key words like \"college\" (8.48), \"degree\" (9.66), and \"unrealistic\" (12.87).",
+      "bboxes": [
+        {
+          "frame_time": 7.173801,
+          "x": 0.37639802631578945,
+          "y": 0.5640350843730726,
+          "w": 0.5195723684210526,
+          "h": 0.3526315789473684,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 8.542179,
+          "x": 0.40896381578947366,
+          "y": 0.14824561068886205,
+          "w": 0.4544407894736842,
+          "h": 0.7526315789473684,
+          "note": "pose human-annotated",
+          "region": "torso"
+        },
+        {
+          "frame_time": 9.198635,
+          "x": 0.5229440789473684,
+          "y": 0.13245613700465153,
+          "w": 0.19539473684210526,
+          "h": 0.48947368421052634,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 3.73,
+      "description": "Speech is delivered at a moderate, conversational pace. The pitch is in a mid-to-low range.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 3.73,
+      "end_time": 6.78,
+      "description": "The speaker's delivery becomes more rhythmic, with increased stress and a slight rise in pitch on the words \"that's what society tells you\".",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 6.78,
+      "end_time": 13.33,
+      "description": "The subject's voice becomes more declarative and slightly louder. There is strong emphasis and rising intonation on \"need college,\" \"need a degree,\" and a drawn-out, higher-pitched stress on \"unrealistic.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 13.33,
+      "end_time": 14.99,
+      "description": "The tone softens, and the pace slows slightly on the phrase \"and I'd like to think...\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 14.99,
+      "description": "The subject is an African American person with short hair, wearing a black netted cap or du-rag, a distressed grey sleeveless t-shirt, and a gold-colored chain. They have a tattoo on their right bicep. They are sitting indoors on a light-colored couch. In the background, there is a modern fireplace feature filled with grey stones, and a small, golden Buddha statue is visible on the right side of the frame.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Medium",
+      "score": 0.41,
+      "rationale": "The subject's score indicates a Medium level of Extraversion. While their communication is assertive and expressive—evidenced by significant eyebrow movement, emphatic head nods on key words, and a rhythmic, forceful vocal delivery—their physical energy is contained. They maintain a relatively static, upright posture throughout the clip. This combination of vocal expressiveness with physical composure suggests a balance between outward social energy and inward focus, which is characteristic of individuals in the medium range of Extraversion, rather than the high energy and animated physicality often seen in highly extraverted individuals.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Medium",
+      "score": 0.56,
+      "rationale": "The subject scores in the Medium range for Agreeableness. Their behavior presents a mix of challenging and cooperative cues. On one hand, the core message of their speech is a direct critique of societal norms ('that's what society tells you to want'), demonstrating a willingness to be critical and assert an independent viewpoint, which tempers a high Agreeableness rating. On the other hand, their delivery, while firm, is not aggressive or hostile. The softening of their tone and the slight smile towards the end of the clip suggest a desire to connect with the audience on a personal level rather than to antagonize, aligning with a moderate level of agreeableness.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "High",
+      "score": 0.6,
+      "rationale": "The subject's High Conscientiousness is demonstrated by their structured and goal-directed communication. They present a clear, linear argument, starting with a premise and building upon it with specific, emphasized examples ('need college', 'need a degree'). The deliberate and methodical nature of their speech, combined with consistent eye contact with the camera, indicates a focused and purposeful approach to conveying their message. This reflects the orderliness, self-discipline, and achievement-striving that are core facets of Conscientiousness.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Medium",
+      "score": 0.52,
+      "rationale": "A Medium level of Neuroticism is indicated by the subject's controlled emotional intensity. They are discussing a topic that is clearly personally significant, and their emotional investment is visible through their emphatic facial expressions and assertive vocal tone, particularly when stressing words like 'unrealistic'. This emotional reactivity is a marker of Neuroticism. However, these emotions are well-regulated and channeled constructively into their argument. The subject does not display signs of anxiety or distress; instead, they maintain a steady posture and gaze, suggesting an ability to manage their emotional responses effectively, which supports a score in the medium range.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "High",
+      "score": 0.69,
+      "rationale": "The subject scores High in Openness, which is strongly supported by the content of their monologue. They are actively questioning and challenging established societal conventions ('Society tells you that you need college... and your dreams... are unrealistic'). This engagement with abstract ideas, questioning of authority and tradition, and championing of individual, non-traditional paths are hallmark characteristics of high Openness to Experience. The subject is intellectually curious and comfortable exploring unconventional perspectives.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During 6.8s - 13.3s, the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A high level of trait Neuroticism"
+        },
+        {
+          "id": "B",
+          "text": "A high level of trait Conscientiousness"
+        },
+        {
+          "id": "C",
+          "text": "A low level of trait Agreeableness"
+        },
+        {
+          "id": "D",
+          "text": "A high level of trait Extraversion"
+        },
+        {
+          "id": "E",
+          "text": "A low level of trait Conscientiousness"
+        },
+        {
+          "id": "F",
+          "text": "A high level of trait Openness"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. During this interval, the speaker's delivery becomes more assertive, structured, and goal-directed, with emphatic stress on key words ('need college', 'need a degree'). This methodical and purposeful communication style is primary evidence for High Conscientiousness.\n\n- Option A is a near-miss distractor. The emotional intensity could suggest Neuroticism, but the analysis notes the emotions are well-regulated and channeled constructively, pointing away from high Neuroticism.\n- Option C is a text-based distractor. The content involves critiquing society, which might imply low agreeableness, but this specific behavior is more about the structured delivery than the confrontational aspect.\n- Option D is a video-based distractor. While the vocal assertiveness relates to Extraversion, the overall analysis points to Medium Extraversion due to contained physical energy. This behavior is stronger evidence for Conscientiousness.\n- Option E is a near-miss distractor. It identifies the correct trait but proposes the wrong direction; the organized and deliberate nature of the speech directly contradicts low Conscientiousness.\n- Option F is a text-based distractor. The overall topic supports high Openness, but the specific *behavior* in this time range (the delivery style) is a clearer indicator of Conscientiousness."
+    },
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their High Conscientiousness level?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[14.1s - 14.7s]"
+        },
+        {
+          "id": "B",
+          "text": "[11.3s - 11.9s]"
+        },
+        {
+          "id": "C",
+          "text": "[0.2s - 0.8s]"
+        },
+        {
+          "id": "D",
+          "text": "[9.4s - 10.0s]"
+        },
+        {
+          "id": "E",
+          "text": "[3.5s - 4.1s]"
+        },
+        {
+          "id": "F",
+          "text": "[6.5s - 7.1s]"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. Around 11.5s, within the [11.3s - 11.9s] interval, the person's eyebrows raise significantly as they emphasize the word 'unrealistic'. This emphatic, punctuated expression is a key part of their goal-directed communication, which is a strong indicator of High Conscientiousness.\n\n- Option A is a video-based distractor. This interval captures the beginning of a slight smile as their expression softens, which is more relevant to Agreeableness or emotional regulation (Neuroticism) than the goal-directedness of Conscientiousness.\n- Option C is a video-based distractor. This interval shows the person's eyes opening as they begin to speak, a preparatory action rather than an emphatic expression related to their argument.\n- Option D is a near-miss distractor. This interval captures a head nod on the word 'degree' (9.66s), which is also an emphatic gesture. However, the eyebrow raise at 11.5s is a more distinct and classic facial micro-expression of emphasis.\n- Option E is a text-based distractor. This interval occurs mid-sentence without any particularly notable facial expression change, making it an irrelevant period.\n- Option F is a video-based distractor. In this interval, the person's mouth opens at the end of a phrase, a natural part of speech articulation rather than a specific micro-expression for emphasis."
+    },
+    {
+      "category": "Mixed Emotion Discrimination",
+      "question": "During 13.5s - 15.0s, the person's emotional state is best characterized as which of the following? Consider both verbal and non-verbal cues.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Frustrated anger mixed with a feeling of defiant superiority."
+        },
+        {
+          "id": "B",
+          "text": "Assertive conviction tempered by thoughtful self-reflection."
+        },
+        {
+          "id": "C",
+          "text": "Resigned frustration mixed with a hint of cynical amusement."
+        },
+        {
+          "id": "D",
+          "text": "Anxious uncertainty tempered by a need to appear confident."
+        },
+        {
+          "id": "E",
+          "text": "Righteous indignation mixed with an appeal for some sympathy."
+        },
+        {
+          "id": "F",
+          "text": "Controlled irritation tempered by a desire to be diplomatic."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. In this final segment, the person's facial muscles relax, their tone softens, their pace slows, and a slight smile emerges. This indicates a transition from the prior assertive state ('assertive conviction') into a more contemplative one as they begin the phrase 'and I'd like to think...', which aligns with 'thoughtful self-reflection'.\n\n- Option A is a video-based distractor. This description better fits the preceding, more intense section (6.8s-13.5s) but not the softening that occurs here.\n- Option C is a near-miss distractor. 'Cynical amusement' is a plausible interpretation of the slight smile, but 'thoughtful self-reflection' better captures the combination of the smile with the slowing tempo and softer vocal tone.\n- Option D is a text-based distractor. While discussing societal pressure can cause anxiety, the speaker's non-verbal cues consistently project confidence, not uncertainty.\n- Option E is a text-based distractor. The tone is more critical and personal than indignant, and the softening at the end reads as reflective rather than as an appeal for sympathy.\n- Option F is a text-based distractor. 'Irritation' and 'diplomatic' are plausible given the topic, but the visual and auditory cues point more towards conviction followed by introspection."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 14.4s, a region was detected in the video (x=0.545, y=0.227, w=0.155, h=0.342, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pronounced eyebrow movement to add emphasis."
+        },
+        {
+          "id": "B",
+          "text": "A subtle muscular relaxation across the face."
+        },
+        {
+          "id": "C",
+          "text": "Mouth held open after finishing a long phrase."
+        },
+        {
+          "id": "D",
+          "text": "An upright and relatively stationary torso posture."
+        },
+        {
+          "id": "E",
+          "text": "Eyes being mostly closed before starting to talk."
+        },
+        {
+          "id": "F",
+          "text": "A slight pursing of the lips in deep reflection."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. The specified bounding box at 14.4s covers the person's entire facial region. At this moment, their expression is softening from the previous intensity, characterized by a slight relaxation of the facial muscles as they transition to the next thought. This matches the observation 'The subject's facial muscles relaxed slightly'.\n\n- Option A is a video-based distractor. This describes the eyebrow action from an earlier time segment (e.g., 11.5s) and a different, more specific region (the eyebrows, not the whole face).\n- Option C is a video-based distractor. This describes the mouth at a different time (e.g., 6.8s) and in a different sub-region of the face.\n- Option D is a video-based distractor. This describes the torso, which is outside the specified facial bounding box.\n- Option E is a video-based distractor. The eyes are closed at the very beginning of the video (around 0.2s), not at 14.4s.\n- Option F is a near-miss distractor. It correctly identifies a mouth-related action and a reflective mood, but the visual evidence shows a slight smile and relaxation, not a lip purse. This is based on a common AI observational error."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "The speaker uses a specific non-verbal cue to emphatically punctuate a key concept in their argument. Which of the following options correctly identifies this emphatic punctuation?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Timestamp: 11.5s, BBox: {x:0.554, y:0.217, w:0.155, h:0.084}"
+        },
+        {
+          "id": "B",
+          "text": "Timestamp: 11.5s, BBox: {x:0.576, y:0.420, w:0.115, h:0.100}"
+        },
+        {
+          "id": "C",
+          "text": "Timestamp: 9.7s, BBox: {x:0.523, y:0.132, w:0.195, h:0.489}"
+        },
+        {
+          "id": "D",
+          "text": "Timestamp: 6.8s, BBox: {x:0.578, y:0.440, w:0.118, h:0.095}"
+        },
+        {
+          "id": "E",
+          "text": "Timestamp: 14.4s, BBox: {x:0.554, y:0.217, w:0.155, h:0.084}"
+        },
+        {
+          "id": "F",
+          "text": "Timestamp: 4.6s, BBox: {x:0.545, y:0.261, w:0.167, h:0.061}"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. At 11.5s, the speaker says the word 'unrealistic', and the provided bounding box precisely isolates their eyebrows, which raise significantly for emphasis. This is a clear instance of non-verbal punctuation of a key concept.\n\n- Option B is a near-miss distractor. It uses the correct timestamp (11.5s) but provides a bounding box for the mouth, which is not the primary source of the emphatic punctuation in this moment.\n- Option C is a video-based distractor. This correctly identifies another emphatic moment (a head nod on the word 'degree' at 9.7s) but is a different instance than the one targeted by the question's most prominent example.\n- Option D is a video-based distractor. This timestamp and bounding box correspond to the mouth opening at the end of a phrase, which is a natural speech motion, not a specific emphatic cue.\n- Option E is a near-miss distractor. It uses the correct bounding box for the eyebrows but at a time (14.4s) when they are relaxed, not actively being used for emphasis.\n- Option F is a text-based distractor. It points to a time (4.6s) and location (eyes) where the expression is relatively neutral, failing to identify an instance of emphatic punctuation."
+    },
+    {
+      "category": "Counterfactual Reasoning",
+      "question": "If the person had NOT exhibited the behavior observed around 6.8s - 13.5s, which of the following personality assessments would be MOST affected?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Agreeableness would be assessed as higher, as the most critical-sounding vocal delivery would be absent from this particular interaction."
+        },
+        {
+          "id": "B",
+          "text": "Conscientiousness would be rated lower, as this segment is the strongest evidence of their methodical and goal-directed communication style."
+        },
+        {
+          "id": "C",
+          "text": "Openness would be assessed as lower, because the passion for their unconventional ideas would not have been demonstrated quite so clearly."
+        },
+        {
+          "id": "D",
+          "text": "Extraversion would be rated higher, since the contained physical energy would be more noticeable without the vocal intensity as a distraction."
+        },
+        {
+          "id": "E",
+          "text": "Conscientiousness would be rated higher, as this segment's emotionality detracts from a perception of pure, unemotional orderliness."
+        },
+        {
+          "id": "F",
+          "text": "Neuroticism would be rated lower, because the clearest instance of their well-managed emotional intensity would have been completely removed."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. The interval 6.8s - 13.5s contains the most forceful, structured, and goal-directed part of the person's speech, including emphatic gestures and vocal stress. The personality analysis explicitly cites this 'deliberate and methodical nature' as the core evidence for High Conscientiousness. Removing it would significantly weaken this assessment.\n\n- Option A is a text-based distractor. While plausible that Agreeableness would seem higher, the Conscientiousness score is more dependent on this specific behavior of structured delivery, making it the most affected trait.\n- Option C is a text-based distractor. The evidence for Openness comes from the *content* of the speech (challenging norms), which would remain even if the delivery were different. The *style* of delivery in this segment is what points to Conscientiousness.\n- Option D is a near-miss distractor because it identifies a relevant trait but makes an incorrect claim about the direction of change. Removing vocal intensity would likely lower, not raise, the Extraversion score.\n- Option E is a near-miss distractor. It identifies the correct trait but argues for the wrong direction of change. The controlled emotionality of the delivery is seen as evidence *for* Conscientiousness (self-discipline), not against it.\n- Option F is a video-based distractor. It's true this segment is evidence for Medium Neuroticism (managed emotional intensity). However, the evidence for High Conscientiousness is even more uniquely concentrated in the structured delivery style of this specific section, making it the most impacted trait."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator19",
+      "version": 1,
+      "clues_total": 18,
+      "clues_correct": 14,
+      "clues_wrong_corrected": 4,
+      "clues_missing_skipped": 0,
+      "clues_bonus": 0
+    }
+  }
+}

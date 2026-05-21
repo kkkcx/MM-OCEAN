@@ -1,0 +1,395 @@
+{
+  "video_id": "Hm5K_K0v718.002.mp4",
+  "video_path": "Hm5K_K0v718.002.mp4",
+  "transcription": "Or in the mornings, in school, so that you can do extra work on the side. I kept working, and I kept studying, and I kept doing photography, and I kept learning five languages. That's what you have to do. You have ...",
+  "original_scores": {
+    "extraversion": 0.4485981308411215,
+    "agreeableness": 0.6703296703296703,
+    "conscientiousness": 0.6407766990291262,
+    "neuroticism": 0.6041666666666666,
+    "openness": 0.6333333333333333
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 5.4,
+      "description": "The subject maintains a direct gaze at the camera. Her eyebrows are slightly raised, and her mouth moves with her speech in a natural manner.",
+      "bboxes": [
+        {
+          "frame_time": 2.869693,
+          "x": 0.4740953947368421,
+          "y": 0.2929824527941252,
+          "w": 0.15986842105263158,
+          "h": 0.07105263157894737,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 4.648662,
+          "x": 0.46817434210526315,
+          "y": 0.23508771595201994,
+          "w": 0.15394736842105264,
+          "h": 0.0868421052631579,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 4.648662,
+          "x": 0.5096217105263158,
+          "y": 0.40614034753096734,
+          "w": 0.1361842105263158,
+          "h": 0.15526315789473685,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 5.4,
+      "end_time": 8.5,
+      "description": "Her eyes widen slightly and her mouth opens wider as she begins speaking with more emphasis. She blinks naturally.",
+      "bboxes": [
+        {
+          "frame_time": 6.591176,
+          "x": 0.4652138157894737,
+          "y": 0.3271929791099147,
+          "w": 0.18503289473684212,
+          "h": 0.11052631578947368,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 6.591176,
+          "x": 0.5125822368421052,
+          "y": 0.4798245580572831,
+          "w": 0.10509868421052632,
+          "h": 0.10789473684210527,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 7.907565,
+          "x": 0.49185855263157896,
+          "y": 0.33771929489938834,
+          "w": 0.13914473684210527,
+          "h": 0.05263157894736842,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 8.5,
+      "end_time": 12.8,
+      "description": "The subject's eyes remain wide as she lists items. Her eyebrows raise significantly on the phrase \"five languages.\" A slight smile forms briefly as she speaks.",
+      "bboxes": [
+        {
+          "frame_time": 9.8963,
+          "x": 0.49925986842105263,
+          "y": 0.21140350542570416,
+          "w": 0.13914473684210527,
+          "h": 0.14210526315789473,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 12.8,
+      "end_time": 15.53,
+      "description": "Her expression becomes more neutral and direct. The eyebrows lower slightly, and she maintains a steady gaze at the camera while finishing her sentence.",
+      "bboxes": [
+        {
+          "frame_time": 13.490689,
+          "x": 0.48297697368421055,
+          "y": 0.19035087384675678,
+          "w": 0.18651315789473685,
+          "h": 0.3763157894736842,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 14.726212,
+          "x": 0.4977796052631579,
+          "y": 0.28771929489938836,
+          "w": 0.1480263157894737,
+          "h": 0.11315789473684211,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 1.76,
+      "description": "The subject begins with her right hand raised to her right, fingers spread. She then lowers it in a sweeping motion toward the center.",
+      "bboxes": [
+        {
+          "frame_time": 1.691675,
+          "x": 0.2846217105263158,
+          "y": 0.5429824527941252,
+          "w": 0.2723684210526316,
+          "h": 0.35,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 5.56,
+      "end_time": 10.36,
+      "description": "She continues to gesture with her right hand, making small, emphatic movements forward and to the side. Her head tilts slightly to her left.",
+      "bboxes": [
+        {
+          "frame_time": 10.127328,
+          "x": 0.2846217105263158,
+          "y": 0.4377192948993884,
+          "w": 0.15542763157894737,
+          "h": 0.3868421052631579,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 10.127328,
+          "x": 0.4489309210526316,
+          "y": 0.11403508437307257,
+          "w": 0.28273026315789473,
+          "h": 0.4631578947368421,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 10.36,
+      "end_time": 13.88,
+      "description": "The head returns to a centered position. Her right hand comes up, and she points with her index finger while saying \"five languages.\"",
+      "bboxes": [
+        {
+          "frame_time": 12.272613,
+          "x": 0.4888980263157895,
+          "y": 0.16403508437307257,
+          "w": 0.1569078947368421,
+          "h": 0.3684210526315789,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 13.88,
+      "end_time": 15.53,
+      "description": "She brings her right hand down and then slightly up again with an open palm as she concludes her point. Her head nods once.",
+      "bboxes": [
+        {
+          "frame_time": 14.04738,
+          "x": 0.33199013157894736,
+          "y": 0.8114035054257042,
+          "w": 0.16578947368421054,
+          "h": 0.18421052631578946,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 15.224912,
+          "x": 0.35567434210526316,
+          "y": 0.4745614001625463,
+          "w": 0.15098684210526317,
+          "h": 0.32105263157894737,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 14.86856,
+          "x": 0.4533717105263158,
+          "y": 0.14561403174149362,
+          "w": 0.2338815789473684,
+          "h": 0.4605263157894737,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 5.5,
+      "description": "The subject speaks at a moderate, clear pace with a relatively even pitch and volume.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 5.5,
+      "end_time": 12.8,
+      "description": "Her speech rate slightly increases as she lists items. There is a rhythmic stress on the word \"kept\" each time it is said. Her pitch rises on the final item, \"five languages.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 12.8,
+      "end_time": 15.53,
+      "description": "The pace slows for the final phrase. The tone becomes more declarative, with increased stress and slightly higher volume on \"That's what you have to do.\" The pitch falls at the end of the sentence.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.53,
+      "description": "The subject is a woman with fair skin and blonde hair styled in a side braid. She is wearing black-framed glasses, a royal blue long-sleeved top, and a patterned scarf in black, white, and yellow. She is sitting indoors at a wooden desk in a high-backed, dark teal velvet chair. On the desk are a laptop with stickers, a stack of books, and other small items. In the background, a geometric gold lamp on a tripod base is visible against a plain, light-colored wall. The lighting is diffuse and cool-toned.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 14.82,
+      "end_time": 15.82,
+      "description": "There are two red, yellow and white cushions on the sofa behind",
+      "bboxes": [
+        {
+          "frame_time": 15.32,
+          "x": 0.22245065789473684,
+          "y": 0.3561403475309673,
+          "w": 0.2042763157894737,
+          "h": 0.20526315789473684,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Medium",
+      "score": 0.45,
+      "rationale": "The subject's Extraversion score is in the Medium range, which is supported by a mix of expressive and contained behaviors. On one hand, she uses consistent hand gestures to emphasize her points and her vocal delivery becomes more energetic and faster-paced when listing her activities, indicating social energy. On the other hand, these gestures are described as 'small' and controlled rather than large and expansive. Furthermore, she breaks eye contact and looks down at the conclusion of her statement, a behavior more common in individuals who are not highly extraverted. This balance between engaging expressiveness and more reserved moments aligns with a moderate level of Extraversion.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "High",
+      "score": 0.67,
+      "rationale": "The subject's High Agreeableness is conveyed through non-verbal cues that build rapport. Her slightly raised eyebrows at the start suggest an open and receptive attitude. A subtle head tilt while speaking is a classic signal of engagement and approachability. Although her final statement is direct and declarative, her overall vocal tone is encouraging rather than confrontational. These behaviors collectively create a cooperative and warm impression, which is characteristic of individuals with high agreeableness.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "High",
+      "score": 0.64,
+      "rationale": "A High Conscientiousness score is strongly supported by both the verbal content and the delivery. The subject explicitly describes a disciplined and goal-oriented past, detailing how she 'kept working,' 'kept studying,' and pursued multiple challenging skills simultaneously. This narrative of diligence is physically reinforced by her delivery: rhythmic vocal emphasis on the word 'kept' highlights persistence, and a decisive head nod at the end adds conviction to her concluding statement. Her controlled, emphatic gestures serve to structure her points, reflecting the organized and purposeful nature of a highly conscientious individual.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "High",
+      "score": 0.6,
+      "rationale": "The subject's High Neuroticism score is indicated by subtle signs of underlying tension and self-consciousness. Her slightly widened eyes and accelerated speech pace while recounting her demanding schedule can suggest a degree of nervous energy. A key indicator is her breaking of eye contact at the very end, looking down immediately after delivering her most forceful line ('That's what you have to do'). This can be interpreted as a momentary retreat from her own assertive stance, a behavior often seen in individuals who experience a degree of social anxiety or self-doubt, which are facets of neuroticism.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "High",
+      "score": 0.63,
+      "rationale": "The High Openness score is well-supported by the subject's self-described interests. She explicitly mentions engaging in both an aesthetic pursuit (photography) and a cognitively demanding one (learning five languages), demonstrating a broad range of interests and intellectual curiosity. Her enthusiasm for these topics is evident in her non-verbal communication; her eyes widen and her vocal pitch rises when she lists her accomplishments. This combination of pursuing diverse, stimulating activities and expressing genuine passion for them is a strong indicator of high Openness to Experience.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 10.1s, a region was detected in the video (x=0.285, y=0.438, w=0.155, h=0.387, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A natural and brief eye blink movement occurring at that specific moment."
+        },
+        {
+          "id": "B",
+          "text": "The speaker's head actively returning to a completely central position."
+        },
+        {
+          "id": "C",
+          "text": "A subtle upward movement of the eyebrows to signal an open attitude."
+        },
+        {
+          "id": "D",
+          "text": "The natural mouth articulation and movement that occurs during speech."
+        },
+        {
+          "id": "E",
+          "text": "A small, emphatic illustrative hand gesture being made by the speaker."
+        },
+        {
+          "id": "F",
+          "text": "A visible shift of the entire face to a more neutral facial expression."
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. The provided bounding box at 10.1s isolates the speaker's right hand as she is making a small, emphatic gesture to accompany her speech. Option C is a video-based distractor; an eyebrow raise occurs, but at a different time (around 4.6s) and in a different facial region (eyebrows). Option B is a video-based distractor; the head returns to center later (around 12.3s). Option F is a video-based distractor; the shift to a neutral face occurs later (around 13.5s). Options A and D are near-miss distractors because while eye blinks and mouth movements happen continuously, they are not the *prominent* and defining action within this specific hand-focused bounding box at this specific time."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "At which time and location does the person simultaneously exhibit an emphatic hand gesture and a slight head tilt to add nuance to their verbal point?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[13.5s] x=0.48, y=0.19, w=0.19, h=0.38"
+        },
+        {
+          "id": "B",
+          "text": "[6.6s] x=0.51, y=0.48, w=0.11, h=0.11"
+        },
+        {
+          "id": "C",
+          "text": "[14.0s] x=0.33, y=0.81, w=0.17, h=0.18"
+        },
+        {
+          "id": "D",
+          "text": "[2.9s] x=0.47, y=0.29, w=0.16, h=0.07"
+        },
+        {
+          "id": "E",
+          "text": "[10.1s] x=0.45, y=0.11, w=0.28, h=0.46"
+        },
+        {
+          "id": "F",
+          "text": "[7.9s] x=0.49, y=0.34, w=0.14, h=0.05"
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. At 10.1s, the observation notes confirm that the speaker is both making small, emphatic hand gestures and has her head tilted slightly to the right. The provided bounding box correctly covers her head during this tilt. Option A points to her face when it has become neutral. Option B points to her mouth while she is speaking emphatically. Option C isolates her hand as it is being lowered. Options D and F isolate her eyes during different moments of the narration. Only E captures the specified combination of behaviors."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [
+      {
+        "check": "A",
+        "q_idx": 0,
+        "issue": "Option C refers to 'Medium Neuroticism', but the personality analysis for Neuroticism states the level is 'High'. This is a semantic inconsistency between the distractor and the provided analysis.",
+        "action": "Corrected option C to state 'High Neuroticism' to align with the personality analysis, making it a consistent (though still incorrect) distractor."
+      }
+    ],
+    "corrections": {
+      "mcq_questions[0].options[2].text": "High Neuroticism shown by the speaker's slightly anxious speech pace"
+    },
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator06",
+      "version": 1,
+      "clues_total": 27,
+      "clues_correct": 14,
+      "clues_wrong_corrected": 6,
+      "clues_missing_skipped": 6,
+      "clues_bonus": 1
+    }
+  }
+}

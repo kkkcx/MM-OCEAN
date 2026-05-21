@@ -1,0 +1,475 @@
+{
+  "video_id": "pKm9lxa4cmg.000.mp4",
+  "video_path": "pKm9lxa4cmg.000.mp4",
+  "transcription": "To me it's like yesterday, here in Canada we had something going on, a hashtag called [inaudible 00:00:54] Let's Talk, and it's basically a media company that supports mental health issues and every time you tweet about it and talk about-",
+  "original_scores": {
+    "extraversion": 0.35514018691588783,
+    "agreeableness": 0.5274725274725275,
+    "conscientiousness": 0.6796116504854369,
+    "neuroticism": 0.39583333333333337,
+    "openness": 0.45555555555555555
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 3.46,
+      "description": "The subject maintains a direct gaze toward the camera. Her eyebrows are relaxed and her mouth moves naturally with speech.",
+      "bboxes": [
+        {
+          "frame_time": 1.996528,
+          "x": 0.4370888157894737,
+          "y": 0.39035087384675676,
+          "w": 0.17911184210526315,
+          "h": 0.11578947368421053,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 1.353424,
+          "x": 0.4385690789473684,
+          "y": 0.34824561068886206,
+          "w": 0.1805921052631579,
+          "h": 0.09210526315789473,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 1.413245,
+          "x": 0.4933388157894737,
+          "y": 0.5929824527941252,
+          "w": 0.09325657894736843,
+          "h": 0.09736842105263158,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 3.46,
+      "end_time": 4.13,
+      "description": "The subject's eyes close in a slow blink.",
+      "bboxes": [
+        {
+          "frame_time": 3.536366,
+          "x": 0.4533717105263158,
+          "y": 0.416666663320441,
+          "w": 0.15986842105263158,
+          "h": 0.09473684210526316,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 4.13,
+      "end_time": 8,
+      "description": "Her eyes reopen and she resumes her direct gaze at the camera. Her facial expression remains neutral.",
+      "bboxes": [
+        {
+          "frame_time": 4.205801,
+          "x": 0.4489309210526316,
+          "y": 0.41403508437307257,
+          "w": 0.1569078947368421,
+          "h": 0.07631578947368421,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 4.205801,
+          "x": 0.4252467105263158,
+          "y": 0.2061403475309673,
+          "w": 0.23536184210526317,
+          "h": 0.5842105263157895,
+          "note": "face human-annotated",
+          "region": "face"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 8,
+      "end_time": 8.6,
+      "description": "Her eyebrows briefly lower and draw slightly together before relaxing again.",
+      "bboxes": [
+        {
+          "frame_time": 8.178756,
+          "x": 0.4415296052631579,
+          "y": 0.3219298212151778,
+          "w": 0.1805921052631579,
+          "h": 0.08421052631578947,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 8.6,
+      "end_time": 13.15,
+      "description": "The subject's expression returns to a neutral state as she continues speaking, maintaining her gaze.",
+      "bboxes": [
+        {
+          "frame_time": 11.231549,
+          "x": 0.42672697368421053,
+          "y": 0.2061403475309673,
+          "w": 0.21907894736842107,
+          "h": 0.5789473684210527,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 13.011993,
+          "x": 0.40896381578947366,
+          "y": 0.4008771896362305,
+          "w": 0.17319078947368421,
+          "h": 0.07894736842105263,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 13.15,
+      "end_time": 13.45,
+      "description": "Her eyes close in a blink that coincides with a hand gesture.",
+      "bboxes": [
+        {
+          "frame_time": 13.317644,
+          "x": 0.4060032894736842,
+          "y": 0.40614034753096734,
+          "w": 0.18207236842105262,
+          "h": 0.08157894736842106,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 13.45,
+      "end_time": 15.1,
+      "description": "Her eyes close in a blink that coincides with a hand gesture.",
+      "bboxes": [
+        {
+          "frame_time": 14.307371,
+          "x": 0.4415296052631579,
+          "y": 0.39824561068886205,
+          "w": 0.16578947368421054,
+          "h": 0.07894736842105263,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 13,
+      "description": "The subject is sitting upright, facing forward. Her head remains relatively still, with only minor movements accompanying her speech. Her shoulders are relaxed and level. Her hands are out of frame.",
+      "bboxes": [
+        {
+          "frame_time": 3.376714,
+          "x": 0.3734375,
+          "y": 0.19824561068886204,
+          "w": 0.3537828947368421,
+          "h": 0.75,
+          "note": "human-annotated",
+          "region": "unknown"
+        },
+        {
+          "frame_time": 6.797124,
+          "x": 0.3704769736842105,
+          "y": 0.1929824527941252,
+          "w": 0.3759868421052632,
+          "h": 0.781578947368421,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 6.797124,
+          "x": 0.2801809210526316,
+          "y": 0.7061403475309673,
+          "w": 0.5077302631578947,
+          "h": 0.27631578947368424,
+          "note": "pose human-annotated",
+          "region": "shoulders"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 13,
+      "end_time": 14.28,
+      "description": "The subject's right hand comes up into the bottom of the frame. She makes a small, emphatic gesture with her thumb and index finger, moving it slightly from her right to her left. Her head performs a small, synchronized nod.",
+      "bboxes": [
+        {
+          "frame_time": 13.492302,
+          "x": 0.40008223684210525,
+          "y": 0.7324561370046515,
+          "w": 0.23832236842105264,
+          "h": 0.26052631578947366,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 13.623295,
+          "x": 0.47261513157894736,
+          "y": 0.7114035054257042,
+          "w": 0.2294407894736842,
+          "h": 0.2868421052631579,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 14.147268,
+          "x": 0.36011513157894737,
+          "y": 0.12719297910991467,
+          "w": 0.3360197368421053,
+          "h": 0.6842105263157895,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 8,
+      "description": "Speech is delivered at a moderate, conversational pace with a relatively stable pitch. A brief vocalized pause \"uh\" occurs at 2.6 seconds.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 8,
+      "end_time": 15.1,
+      "description": "The pace remains consistent. There is a slight hesitation and repetition of \"a\" at 10.3 seconds. The word \"every\" at 13.4 seconds is slightly stressed with a minor increase in pitch.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.1,
+      "description": "The subject is a woman with dark, curly hair pulled back from her face, wearing a black shirt. She is in an indoor setting, in front of a dark, low piece of furniture. On the wall behind her is a large world map. To the left, there is a tall lamp and a black, horn-shaped decorative object. On the furniture is a stack of books. The lighting is frontal and even. The Google logo is visible in the top left corner.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Low",
+      "score": 0.36,
+      "rationale": "The subject's Low Extraversion is indicated by a controlled and reserved demeanor. Her speech is delivered at a moderate pace with a stable tone, lacking the vocal energy and variation often seen in highly extraverted individuals. Her facial expression is predominantly neutral, and her gestures are minimal and precise—a single, small, emphatic hand movement rather than broad, expressive ones. This overall composure and economy of motion suggest a more introverted disposition.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Medium",
+      "score": 0.53,
+      "rationale": "A Medium level of Agreeableness is supported by the subject's calm and approachable presentation. She maintains direct, steady eye contact, which conveys sincerity and engagement. Her relaxed shoulders and neutral facial expression create a non-confrontational and open atmosphere. Furthermore, her choice to discuss a prosocial topic—a mental health initiative—reflects a concern for community well-being, a common trait in individuals with at least moderate Agreeableness.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "High",
+      "score": 0.68,
+      "rationale": "The subject's High Conscientiousness is evident in her purposeful and structured communication. She sits upright, demonstrating focus on the task of speaking. Her speech, while containing minor hesitations, is linear and goal-oriented. Critically, her hand gesture is not a random fidget but a deliberate, emphatic motion synchronized with a head nod and verbal stress to highlight a key point. This precise coordination of verbal and non-verbal cues to enhance clarity is a hallmark of a conscientious, detail-oriented individual.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Medium",
+      "score": 0.4,
+      "rationale": "The Medium score for Neuroticism reflects a general state of emotional stability punctuated by subtle indicators of mild stress. On one hand, her steady gaze, relaxed posture, and controlled vocal tone suggest composure. On the other hand, minor speech disfluencies (an 'uh' pause and 'a' repetition) and a brief, subtle furrowing of the eyebrows indicate a low level of cognitive load or anxiety associated with speaking. This balance between outward calm and minor signs of internal pressure aligns with a moderate Neuroticism level.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "Medium",
+      "score": 0.46,
+      "rationale": "The subject's Medium Openness is suggested by a combination of cues pointing towards intellectual curiosity and conventionality. The prominent world map in her background is a strong indicator of interest in broader ideas and cultures. Her engagement with a complex social topic (mental health) also supports this. However, her overall presentation—a simple black shirt and straightforward, factual communication style—is relatively conventional. This blend of intellectual engagement within a traditional framework is characteristic of an individual with a medium level of Openness.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During 13.0s - 14.3s, the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "High Extraversion, based on the use of an expressive and engaging social gesture."
+        },
+        {
+          "id": "B",
+          "text": "High Conscientiousness, indicated by the precise coordination of multiple cues."
+        },
+        {
+          "id": "C",
+          "text": "Low Agreeableness, as the abrupt action can suggest a rather forceful attitude."
+        },
+        {
+          "id": "D",
+          "text": "Low Conscientiousness, because the motion is an uncontrolled and fidgety release."
+        },
+        {
+          "id": "E",
+          "text": "Medium Openness, since the movement reflects a deep interest in the topic's ideas."
+        },
+        {
+          "id": "F",
+          "text": "High Neuroticism, shown by a sharp, sudden movement indicating some anxiety."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. During 13.0s - 14.3s, the person makes a precise, small hand gesture synchronized with a head nod and verbal stress on the word 'every'. This deliberate coordination to enhance communicative clarity is a strong indicator of High Conscientiousness.\n\n- Option A is a text-based distractor. While gestures can relate to extraversion, this specific one is small and controlled, not broadly expressive, which aligns more with the overall Low Extraversion assessment.\n- Option C is a text-based distractor. The gesture is emphatic, not aggressive, and nothing in the context suggests low agreeableness.\n- Option D is a near-miss distractor. It correctly identifies the trait (Conscientiousness) but gets the direction wrong, misinterpreting a deliberate action as an uncontrolled fidget.\n- Option E is a video-based distractor. While her topic choice and background map support Medium Openness, this specific gesture is about the structure of communication (Conscientiousness), not intellectual curiosity (Openness).\n- Option F is a near-miss distractor. It plausibly misinterprets the emphatic gesture as a sign of anxiety (Neuroticism), but the context and precision of the action point towards conscientiousness instead."
+    },
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their Medium Neuroticism level?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[3.5s - 4.1s]"
+        },
+        {
+          "id": "B",
+          "text": "[8.0s - 8.6s]"
+        },
+        {
+          "id": "C",
+          "text": "[0.5s - 1.1s]"
+        },
+        {
+          "id": "D",
+          "text": "[13.2s - 13.8s]"
+        },
+        {
+          "id": "E",
+          "text": "[5.5s - 6.1s]"
+        },
+        {
+          "id": "F",
+          "text": "[10.0s - 10.6s]"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. The personality analysis notes that a 'brief, subtle furrowing of the eyebrows' is a key indicator of the mild stress or cognitive load contributing to the Medium Neuroticism score. This specific action is documented in the observation cues as occurring between 8.0s and 8.6s.\n\n- Option A is a video-based distractor. This interval corresponds to the person's eyes closing slowly, which is a visible facial change but less directly linked to the cognitive load aspect of Neuroticism than the brow movement.\n- Option C is a text-based distractor. This is a plausible early time window, but no significant micro-expression relevant to neuroticism occurs here; the expression is stable and neutral.\n- Option D is a video-based distractor. This interval covers the moment her eyes close in sync with her hand gesture. This is a deliberate, coordinated action related to Conscientiousness, not a micro-expression of neuroticism.\n- Option E is a near-miss distractor. It points to a period of neutral expression, making it seem plausible as a baseline, but it misses the specific, brief event that serves as evidence.\n- Option F is a text-based distractor. This is another interval where her expression is neutral while she is speaking, but it does not contain the key brow-furrowing event."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 11.2s, a region was detected in the video (x=0.427, y=0.206, w=0.219, h=0.579, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A small, synchronous head nod coordinated with speech."
+        },
+        {
+          "id": "B",
+          "text": "A composed facial expression in a mostly neutral state."
+        },
+        {
+          "id": "C",
+          "text": "An upright posture with the body oriented towards front."
+        },
+        {
+          "id": "D",
+          "text": "Relaxed eyebrows indicating a generally calm emotionality."
+        },
+        {
+          "id": "E",
+          "text": "Natural mouth movements while the person is speaking."
+        },
+        {
+          "id": "F",
+          "text": "Eyes reopening with the goal of establishing direct gaze."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. The provided bounding box at 11.2s covers the person's entire face. At this moment, she is in the middle of speaking, and her facial expression has returned to a neutral, composed state after the brief brow furrow earlier. This matches the observation note for 8.6s-13.2s.\n\n- Option A is a video-based distractor. The head nod occurs later, around 14.1s, not at 11.2s.\n- Option C is a text-based distractor. The bounding box is on the face, not the whole body, so it cannot show posture.\n- Option D is a near-miss distractor. While her eyebrows are relaxed and part of the face, this description is too specific. The bounding box covers the whole face, and 'composed facial expression' is a more comprehensive and accurate description of the content within that entire region.\n- Option E is a video-based distractor. This is another example of a correct but too-specific description. The mouth is moving, but the overall state of the entire facial region is neutral composure.\n- Option F is a video-based distractor. The eyes are already open and maintaining gaze at 11.2s; the action of reopening happens at an earlier time (4.1s)."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "The video shows a moment where a subtle sign of cognitive processing is visible in the upper facial region. At which time and location does this specific micro-expression occur?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[4.2s] x=0.43, y=0.21, w=0.24, h=0.58"
+        },
+        {
+          "id": "B",
+          "text": "[8.2s] x=0.44, y=0.32, w=0.18, h=0.08"
+        },
+        {
+          "id": "C",
+          "text": "[11.2s] x=0.43, y=0.21, w=0.22, h=0.58"
+        },
+        {
+          "id": "D",
+          "text": "[3.4s] x=0.37, y=0.20, w=0.35, h=0.75"
+        },
+        {
+          "id": "E",
+          "text": "[1.4s] x=0.44, y=0.35, w=0.18, h=0.09"
+        },
+        {
+          "id": "F",
+          "text": "[4.2s] x=0.45, y=0.41, w=0.16, h=0.08"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. The question asks to identify the micro-expression related to cognitive processing in the upper face. This corresponds to the observation at [8.0s-8.6s] where her 'eyebrows...briefly lowered and slightly moved closer together'. Option B correctly provides a timestamp (8.2s) and a bounding box (x=0.44, y=0.32, w=0.18, h=0.08) that precisely isolates the eyebrow region during this event.\n\n- Option A points to the entire face at 4.2s, when her expression is neutral.\n- Option C points to the entire face at 11.2s, also during a period of neutral expression.\n- Option D points to the entire upper body at 3.4s, which is an incorrect spatial region.\n- Option E points to the eyebrow region at 1.4s, but at this time, her eyebrows are relaxed, not showing the sign of cognitive processing.\n- Option F points to the eye region at 4.2s, which is the wrong facial feature and time for the target expression."
+    },
+    {
+      "category": "Counterfactual Reasoning",
+      "question": "If the person had NOT exhibited the behavior observed around 13.0s - 14.3s, which of the following personality assessments would be MOST affected?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Agreeableness rating would be lower, as that action is key evidence for her collaborative and prosocial intentions during this specific moment."
+        },
+        {
+          "id": "B",
+          "text": "Conscientiousness score would decrease, as the gesture is a primary indicator of precise, goal-oriented communication used for added clarity."
+        },
+        {
+          "id": "C",
+          "text": "Openness level would be reduced, since that moment is the key demonstration of her intellectual curiosity about the topic she is discussing."
+        },
+        {
+          "id": "D",
+          "text": "Extraversion score would be rated higher, as this moment of reserved action is the main evidence for her generally introverted presentation style."
+        },
+        {
+          "id": "E",
+          "text": "Neuroticism rating would probably drop, since the emphatic gesture could be seen as a minor sign of underlying communicative anxiety."
+        },
+        {
+          "id": "F",
+          "text": "Conscientiousness score would increase, because removing the slightly abrupt movement would make her presentation seem even more controlled."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. The behavior between 13.0s and 14.3s is the precise, coordinated hand gesture, head nod, and verbal stress. The personality analysis explicitly cites this as critical evidence for High Conscientiousness, as it shows deliberate, detail-oriented communication. Removing this key piece of evidence would significantly weaken the argument for a high score in this trait.\n\n- Option A is a text-based distractor. The evidence for Medium Agreeableness comes from her overall calm demeanor and prosocial topic choice, not this specific clarifying gesture.\n- Option C is a text-based distractor. Evidence for Openness comes from the world map and engagement with a complex topic, not the gesture itself.\n- Option D is a video-based distractor. Low Extraversion is supported by her overall reserved demeanor, moderate pace, and neutral expression throughout the video, not just this single gesture. Removing it would not be enough to rate her as more extraverted.\n- Option E is a near-miss distractor. It plausibly misinterprets the gesture as a sign of anxiety (Neuroticism). However, the primary evidence for Neuroticism is the brow furrow and hesitations, so removing the gesture would have a lesser impact on that score.\n- Option F is a near-miss distractor. It correctly identifies the trait (Conscientiousness) but gets the direction of change wrong. The gesture is evidence *for* high conscientiousness, so removing it would *decrease*, not increase, the score."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator19",
+      "version": 1,
+      "clues_total": 22,
+      "clues_correct": 17,
+      "clues_wrong_corrected": 3,
+      "clues_missing_skipped": 2,
+      "clues_bonus": 0
+    }
+  }
+}

@@ -1,0 +1,533 @@
+{
+  "video_id": "29UCGJldICw.000.mp4",
+  "video_path": "29UCGJldICw.000.mp4",
+  "transcription": "What's up, guys? I knew that I want to come at you guys with a new video today. Unfortunately, the lighting is pretty crappy. Where I stay is gloomy and cloudy. I want to make a [aha 00:00:09] video for you guys today but I'm not able to do it because of the lighting. Also-",
+  "original_scores": {
+    "extraversion": 0.5981308411214954,
+    "agreeableness": 0.6153846153846153,
+    "conscientiousness": 0.5242718446601942,
+    "neuroticism": 0.59375,
+    "openness": 0.711111111111111
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 4.14,
+      "description": "Subject maintains direct gaze with the camera. His facial expression is neutral, with natural mouth movements accompanying his speech. His eyebrows are relaxed.",
+      "bboxes": [
+        {
+          "frame_time": 0,
+          "x": 0.3112664473684211,
+          "y": 0.14561403174149362,
+          "w": 0.26200657894736845,
+          "h": 0.18421052631578946,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 0,
+          "x": 0.3112664473684211,
+          "y": 0.07719297910991468,
+          "w": 0.23832236842105264,
+          "h": 0.45789473684210524,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 0,
+          "x": 0.3157072368421053,
+          "y": 0.3061403475309673,
+          "w": 0.1924342105263158,
+          "h": 0.2,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 0,
+          "x": 0.3349506578947368,
+          "y": 0.08508771595201994,
+          "w": 0.2131578947368421,
+          "h": 0.23684210526315788,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 4.14,
+      "end_time": 5.91,
+      "description": "As he says \"Unfortunately,\" his eyebrows lower slightly and draw together, and his lips press together momentarily.",
+      "bboxes": [
+        {
+          "frame_time": 4.139999,
+          "x": 0.4208059210526316,
+          "y": 0.3140350843730726,
+          "w": 0.17023026315789475,
+          "h": 0.2,
+          "note": "human-annotated",
+          "region": "unknown"
+        },
+        {
+          "frame_time": 4.139999,
+          "x": 0.45041118421052634,
+          "y": 0.13245613700465153,
+          "w": 0.16875,
+          "h": 0.11842105263157894,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 4.139999,
+          "x": 0.42376644736842106,
+          "y": 0.3061403475309673,
+          "w": 0.17171052631578948,
+          "h": 0.24736842105263157,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 5.91,
+      "end_time": 9.98,
+      "description": "His expression returns to a relaxed, neutral state, maintaining eye contact with the camera.",
+      "bboxes": [
+        {
+          "frame_time": 9.98,
+          "x": 0.30978618421052634,
+          "y": 0.10350876858359889,
+          "w": 0.23092105263157894,
+          "h": 0.5394736842105263,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 9.98,
+          "x": 0.3112664473684211,
+          "y": 0.09035087384675679,
+          "w": 0.24868421052631579,
+          "h": 0.22105263157894736,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 9.98,
+      "end_time": 11.21,
+      "description": "The subject briefly looks down and to his left, breaking eye contact with the camera. His eyebrows lower slightly as he does so.",
+      "bboxes": [
+        {
+          "frame_time": 9.98,
+          "x": 0.33939144736842103,
+          "y": 0.15350876858359888,
+          "w": 0.18503289473684212,
+          "h": 0.13157894736842105,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 9.98,
+          "x": 0.3453125,
+          "y": 0.16929824226780943,
+          "w": 0.20575657894736843,
+          "h": 0.0868421052631579,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 11.21,
+      "end_time": 15.2,
+      "description": "He looks back up at the camera, re-establishing direct eye contact with a neutral expression.",
+      "bboxes": [
+        {
+          "frame_time": 11.21,
+          "x": 0.33199013157894736,
+          "y": 0.016666663320440995,
+          "w": 0.4129934210526316,
+          "h": 0.9710526315789474,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 8.18,
+      "description": "The subject sits facing the camera, with his torso and head remaining relatively still. His hands are not visible.",
+      "bboxes": [
+        {
+          "frame_time": 0,
+          "x": 0.18988486842105262,
+          "y": 0.0298245580572831,
+          "w": 0.4041118421052632,
+          "h": 0.5710526315789474,
+          "note": "human-annotated",
+          "region": "unknown"
+        },
+        {
+          "frame_time": 0,
+          "x": 0.22245065789473684,
+          "y": 0.03771929489938836,
+          "w": 0.50625,
+          "h": 0.9263157894736842,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 8.18,
+          "x": 0.08922697368421052,
+          "y": 0.7114035054257042,
+          "w": 0.6542763157894737,
+          "h": 0.2868421052631579,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 8.18,
+      "end_time": 9.71,
+      "description": "He raises both hands to chest level in an open, palms-in gesture to emphasize his point, then quickly lowers them out of frame.",
+      "bboxes": [
+        {
+          "frame_time": 8.18,
+          "x": 0.05666118421052631,
+          "y": 0.6614035054257041,
+          "w": 0.725328947368421,
+          "h": 0.33421052631578946,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 8.18,
+          "x": 0.07146381578947368,
+          "y": 0.7456140317414937,
+          "w": 0.7164473684210526,
+          "h": 0.25263157894736843,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 9.71,
+      "end_time": 11.38,
+      "description": "The subject briefly tilts his head down and to his left while simultaneously looking in that direction.",
+      "bboxes": [
+        {
+          "frame_time": 11.269559,
+          "x": 0.3808388157894737,
+          "y": 0.0298245580572831,
+          "w": 0.36562500000000003,
+          "h": 0.9657894736842105,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 11.38,
+          "x": 0.37639802631578945,
+          "y": 0.03508771595201994,
+          "w": 0.3138157894736842,
+          "h": 0.9605263157894737,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 11.38,
+      "end_time": 15.2,
+      "description": "He lifts his head back to a centered, upright position.",
+      "bboxes": [
+        {
+          "frame_time": 11.38,
+          "x": 0.42672697368421053,
+          "y": 0.016666663320440995,
+          "w": 0.3256578947368421,
+          "h": 0.5894736842105263,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 4.11,
+      "description": "The subject speaks at a moderate pace and volume with a conversational pitch. Pop music is audible at a low volume in the background.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 4.11,
+      "end_time": 7.91,
+      "description": "His pitch drops slightly on the word \"Unfortunately.\" His pace remains steady.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 7.91,
+      "end_time": 13.68,
+      "description": "The pace of his speech quickens slightly as he explains why he cannot film his intended video. His volume remains consistent.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 13.68,
+      "end_time": 14.88,
+      "description": "He says the word \"Also\" with a neutral, slightly rising intonation, indicating he is about to continue the sentence.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.2,
+      "description": "The subject is a young man with dark hair and light-brown skin, sitting indoors in what appears to be a bedroom. He is wearing a red baseball cap backwards, a black T-shirt with a cartoon pug graphic, a grey hooded layer, and a black faux leather jacket. Behind him to the left is a dark wood dresser with a mirror, and to the right is a table with a lit lamp that has a silver base and a white shade. A poster for \"LADY GAGA THE FAME MONSTER\" is visible on the wall.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 14.8153,
+      "end_time": 15.8153,
+      "description": "His head tilted to the lower left corner",
+      "bboxes": [
+        {
+          "frame_time": 15.3153,
+          "x": 0.37639802631578945,
+          "y": 0.019298242267809417,
+          "w": 0.26644736842105265,
+          "h": 0.5605263157894737,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "High",
+      "score": 0.6,
+      "rationale": "The subject's High Extraversion is demonstrated by his choice to create a vlog-style video, an activity that seeks social engagement and places him at the center of attention. He maintains direct and prolonged eye contact with the camera, a key indicator of social confidence. His speech is energetic, and he uses illustrative hand gestures (8.2s-9.7s) to add emphasis, reflecting a desire to actively engage his audience and an outward projection of energy.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "High",
+      "score": 0.62,
+      "rationale": "A High level of Agreeableness is supported by the subject's prosocial and considerate communication. By creating this video, he is proactively managing his audience's expectations, which shows a concern for others. His use of the word 'Unfortunately' is accompanied by congruent facial expressions (eyebrows lowering at 4.1s) and vocal tone, suggesting genuine empathy for any disappointment his viewers might feel. His overall friendly and open demeanor establishes a cooperative and positive rapport.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Medium",
+      "score": 0.52,
+      "rationale": "The subject exhibits a Medium level of Conscientiousness. He displays goal-oriented behavior by having a specific video planned. Furthermore, when his initial plan was thwarted by external factors (poor lighting), he still fulfilled a sense of duty to his audience by creating an update video. However, the failure of the original plan due to a predictable variable suggests a moderate, rather than exceptional, level of preparatory planning and organization, consistent with a mid-range score.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Medium",
+      "score": 0.59,
+      "rationale": "The Medium score in Neuroticism is reflected in a mix of emotional stability and sensitivity to negative stimuli. While the subject remains largely calm and composed, his verbal focus is on the negative aspects of the situation, using words like 'crappy,' 'gloomy,' and 'cloudy' to describe his circumstances. The brief downward-left eye gaze (10.0s) can be interpreted as a moment of cognitive processing, but also as a subtle sign of self-consciousness or momentary stress, aligning with a score that is neither low nor extremely high.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "High",
+      "score": 0.71,
+      "rationale": "A High level of Openness is strongly indicated by the subject's environment and creative engagement. The poster of Lady Gaga's 'The Fame Monster' in the background is a significant cue, as she is an icon of artistic innovation, unconventional aesthetics, and challenging norms, suggesting an appreciation for art and novel ideas. This, combined with his own engagement in the creative and self-expressive act of video production, robustly supports a high rating in this dimension.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During 8.2s - 9.7s, the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "High Agreeableness, as the person's gestures are intended to be prosocial."
+        },
+        {
+          "id": "B",
+          "text": "Medium Neuroticism, reflecting a mild degree of communicative restlessness."
+        },
+        {
+          "id": "C",
+          "text": "Low Extraversion, because the movements suggest social discomfort or shyness."
+        },
+        {
+          "id": "D",
+          "text": "High Openness, since the gestures show an appreciation for creative expression."
+        },
+        {
+          "id": "E",
+          "text": "High Extraversion, as the gestures project outward energy and audience focus."
+        },
+        {
+          "id": "F",
+          "text": "Medium Conscientiousness, given the action lacks a strong goal-orientation."
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The behavior at 8.2s - 9.7s involves using open, illustrative hand gestures to emphasize a point. The personality analysis directly links this to High Extraversion, as it reflects an outward projection of energy and a desire to actively engage an audience. Option E is the correct answer. Option A is a text-based distractor; while gestures can be prosocial, their primary function here is energetic emphasis, not prosocial concern. Option D is a text-based distractor; while expressiveness can relate to Openness, the analysis grounds Openness in other cues (the poster). Option B is a video-based distractor; Medium Neuroticism is a correct trait for the person, but it's supported by evidence from other moments (verbal content, gaze at 10.0s), not these gestures. Option C is a near-miss distractor; it correctly identifies the relevant personality dimension (Extraversion) but proposes the opposite direction (Low instead of High)."
+    },
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their Agreeableness level?",
+      "options": [
+        {
+          "id": "A",
+          "text": "00.0s - 01.8s"
+        },
+        {
+          "id": "B",
+          "text": "08.2s - 09.7s"
+        },
+        {
+          "id": "C",
+          "text": "10.0s - 11.2s"
+        },
+        {
+          "id": "D",
+          "text": "12.5s - 14.0s"
+        },
+        {
+          "id": "E",
+          "text": "04.1s - 05.9s"
+        },
+        {
+          "id": "F",
+          "text": "05.9s - 08.2s"
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The analysis highlights that when the subject says 'Unfortunately' at 4.1s, his eyebrows lower and come together. This is a congruent facial expression that suggests genuine empathy and concern for his viewers' disappointment, which is a key indicator of High Agreeableness. Option E correctly identifies this time interval. Option B is a video-based distractor; this interval contains hand gestures, which are relevant to Extraversion, not a facial micro-expression for Agreeableness. Option C is a near-miss distractor; this interval contains the downward-left gaze shift, which is a notable change but is more closely linked to Neuroticism (self-consciousness) in the analysis. Options A, D, and F are text-based distractors representing periods of neutral expression or general speech without a specific, trait-relevant micro-expression."
+    },
+    {
+      "category": "Temporal-Causal Reasoning",
+      "question": "Consider the sequence of behaviors observed across the video. Which of the following best describes the causal chain linking the person's actions at different moments?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A self-monitoring action (~10s) causes the initial social engagement (~0s), which in turn prompts an empathic display (~4s)."
+        },
+        {
+          "id": "B",
+          "text": "The use of an illustrative gesture (~8s) leads to a self-monitoring moment (~10s), followed by a return to baseline engagement (~11s)."
+        },
+        {
+          "id": "C",
+          "text": "An initial display of social engagement (~0s) directly causes a self-monitoring behavior (~10s), which results in a gesture (~8s)."
+        },
+        {
+          "id": "D",
+          "text": "A display of uncertainty leads to a corrective emphatic gesture, which is then followed by a verbal confirmation of understanding."
+        },
+        {
+          "id": "E",
+          "text": "Social engagement (~0s) prompts an empathic display (~4s), which is followed by a brief moment of cognitive self-monitoring (~10s)."
+        },
+        {
+          "id": "F",
+          "text": "Initial social engagement (~0s) leads to an empathic display (~4s), which causes a need for compensatory illustrative gestures (~8s)."
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The video follows a logical sequence: the person starts with direct social engagement (direct gaze, speaking to camera at 0s). As he explains the negative situation, this prompts a display of empathy (furrowed brow at 4.1s). Following this explanation, he briefly looks away in a moment of cognitive processing or self-monitoring (downward gaze at 10.0s) before re-engaging. Option E correctly maps this abstract causal sequence. Option A is a distractor with reversed temporal order. Option C has both incorrect temporal order and causality. Option F is a near-miss distractor; it has the correct first two steps but posits an incorrect causal link between the empathic display and the later gestures, which are better understood as separate expressive elements. Option B is a video-based distractor that describes a real but less complete sequence, and Option D is a text-based distractor describing a plausible but non-existent chain of events."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 0.0s, a region was detected in the video (x=0.311, y=0.077, w=0.238, h=0.458, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A pronounced downward and leftward tilting movement of the person's entire head."
+        },
+        {
+          "id": "B",
+          "text": "A slight but noticeable furrowing of the brows indicating a slight concentration."
+        },
+        {
+          "id": "C",
+          "text": "An illustrative gesture being made using both hands with the palms facing inward."
+        },
+        {
+          "id": "D",
+          "text": "A clear and directed sideways glance, shifting the eyes away from the direct center."
+        },
+        {
+          "id": "E",
+          "text": "A generally neutral and relaxed facial set with minimal activation of the muscles."
+        },
+        {
+          "id": "F",
+          "text": "A distinct parting of the lips in preparation for or during the act of speaking."
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The provided bounding box at 0.0s covers the person's face. The observation notes for this time state, his facial expression is neutral. Option E accurately describes this state. Option B is a video-based distractor describing the eyebrow action at 4.1s. Option C is a video-based distractor describing the hand gesture at 8.2s, which is outside the facial bounding box. Option A describes the head movement at 9.7s. Option D describes the gaze shift at 10.0s. Option F is a near-miss distractor; while his lips are parted to speak, the overall state of the entire facial region captured by the box is best described as neutral and relaxed."
+    },
+    {
+      "category": "Counterfactual Reasoning",
+      "question": "If the person had NOT exhibited the behavior observed around 8.2s - 9.7s, which of the following personality assessments would be MOST affected?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Agreeableness would be less certain, as the gesture adds sincerity to the apology made earlier at 4.1s."
+        },
+        {
+          "id": "B",
+          "text": "Openness rating would decrease because the primary evidence for the person's creative expression is lost."
+        },
+        {
+          "id": "C",
+          "text": "Neuroticism would likely be lower, since the gesture could be interpreted as a display of nervous energy."
+        },
+        {
+          "id": "D",
+          "text": "Extraversion would shift from a High to a Low rating, as the gesture is the main sign of social comfort."
+        },
+        {
+          "id": "E",
+          "text": "Extraversion would be less strongly supported as High, as a key indicator of outward energy would be absent."
+        },
+        {
+          "id": "F",
+          "text": "Conscientiousness would be rated higher, because the absence of the gesture would imply more controlled delivery."
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The behavior at 8.2s-9.7s is the illustrative hand gesture. The personality analysis explicitly cites this as evidence for High Extraversion, stating it reflects 'a desire to actively engage his audience and an outward projection of energy.' Removing this behavior would remove a key piece of supporting evidence for this trait assessment. Therefore, the High Extraversion rating would be less strongly supported, making Option E the correct answer. Option D is a near-miss distractor; it correctly identifies Extraversion but overstates the impact ('shift from High to Low') and misidentifies the gesture as the 'main sign' when direct eye contact is also critical. Option B is a text-based distractor; Openness is primarily supported by the poster in the background, not these gestures. Option A is a video-based distractor that incorrectly links the gestures at 8.2s to the apology at 4.1s. Options C and F are text-based distractors that posit incorrect interpretations of the gesture's meaning."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator13",
+      "version": 3,
+      "clues_total": 26,
+      "clues_correct": 20,
+      "clues_wrong_corrected": 5,
+      "clues_missing_skipped": 0,
+      "clues_bonus": 1
+    }
+  }
+}

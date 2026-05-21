@@ -1,0 +1,347 @@
+{
+  "video_id": "K9ZTOb6PbfQ.001.mp4",
+  "video_path": "K9ZTOb6PbfQ.001.mp4",
+  "transcription": "Would you rather be attacked by a big bear or a swarm of bees? Oh, that's a hard one. I would have to say bees.",
+  "original_scores": {
+    "extraversion": 0.3271028037383178,
+    "agreeableness": 0.5274725274725275,
+    "conscientiousness": 0.7669902912621359,
+    "neuroticism": 0.4791666666666667,
+    "openness": 0.6
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 15.02,
+      "description": "The subject maintains a direct gaze toward the camera throughout the video. Her eyebrows raise slightly for emphasis on certain words (e.g., \"important\" at 0:08). Her mouth movements are synchronized with her speech, showing clear articulation. She maintains a neutral, professional facial expression, with natural and infrequent blinks.",
+      "bboxes": [
+        {
+          "frame_time": 0,
+          "x": 0.22615131578947367,
+          "y": 0.3868421052631579,
+          "w": 0.13766447368421053,
+          "h": 0.07368421052631578,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 0.829691,
+          "x": 0.2113486842105263,
+          "y": 0.38421052631578945,
+          "w": 0.13322368421052633,
+          "h": 0.04736842105263158,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 0.829691,
+          "x": 0.2587171052631579,
+          "y": 0.5263157894736842,
+          "w": 0.06513157894736842,
+          "h": 0.09210526315789473,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 0.829691,
+          "x": 0.20838815789473683,
+          "y": 0.26842105263157895,
+          "w": 0.13322368421052633,
+          "h": 0.3473684210526316,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 0.829691,
+          "x": 0.21875,
+          "y": 0.4,
+          "w": 0.12730263157894736,
+          "h": 0.06315789473684211,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 15.02,
+      "description": "The subject is shown from the upper chest up, positioned in the center of the frame. She maintains an upright and still posture with her shoulders level. Head movements are minimal and subtle, consisting of slight nods that align with her speech for emphasis.",
+      "bboxes": [
+        {
+          "frame_time": 0.829691,
+          "x": 0.14769736842105263,
+          "y": 0.631578947368421,
+          "w": 0.31973684210526315,
+          "h": 0.3526315789473684,
+          "note": "human-annotated",
+          "region": "unknown"
+        },
+        {
+          "frame_time": 0.829691,
+          "x": 0.134375,
+          "y": 0.6210526315789474,
+          "w": 0.35082236842105263,
+          "h": 0.3447368421052632,
+          "note": "pose human-annotated",
+          "region": "torso"
+        },
+        {
+          "frame_time": 0.829691,
+          "x": 0.1106907894736842,
+          "y": 0.5973684210526315,
+          "w": 0.3626644736842105,
+          "h": 0.20789473684210527,
+          "note": "pose human-annotated",
+          "region": "shoulders"
+        },
+        {
+          "frame_time": 0.829691,
+          "x": 0.20542763157894736,
+          "y": 0.26842105263157895,
+          "w": 0.1450657894736842,
+          "h": 0.3605263157894737,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 10.45,
+      "description": "The speaker's voice is clear with a moderate and consistent speech rate. Her pitch is stable within a mid-range, featuring a slight downward inflection at the end of sentences. There is a slight increase in stress and a subtle pitch rise on the word \"immediately\" at 0:10.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 10.45,
+      "end_time": 15.02,
+      "description": "The speech pace and volume remain consistent as she lists remedies. The pitch rises slightly at the beginning of each new item in the list (e.g., \"cool bath\").",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.02,
+      "description": "The subject is a female with dark hair pulled back, brown eyes, and a light-to-medium skin tone. She is wearing a white lab coat over a dark, sequined top, with a small lavalier microphone clipped to her left lapel. The setting is an indoor studio with soft, even lighting. The background is an out-of-focus, abstract image in cool tones of blue and grey. A large, semi-transparent white warning triangle with an exclamation mark is overlaid behind the speaker. A banner at the top of the screen displays the 'RxWiki' logo in the top-left corner and the title 'Dealing With Sunburns' in the center. At 00:10, a dark grey sidebar with white text, titled 'Adults:' followed by a bulleted list, fades in on the right side of the screen.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Low",
+      "score": 0.33,
+      "rationale": "The subject's behavior aligns with a Low Extraversion score. Her demeanor is reserved and task-focused rather than socially expressive. This is evidenced by a 'neutral, professional facial expression,' an 'upright and still posture,' and 'minimal and subtle' head movements. Her vocal delivery is controlled and measured—'moderate and consistent pace' and 'stable' pitch—lacking the energetic modulation and variability often seen in highly extraverted individuals. While direct eye contact is maintained, in this formal presentation context, it serves professionalism rather than a drive for social engagement. The overall pattern is one of calm, focused composure, characteristic of introversion.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Medium",
+      "score": 0.53,
+      "rationale": "The score indicates a Medium level of Agreeableness, suggesting a balance between cooperation and independence. The subject's professional conduct, clear articulation, and direct eye contact demonstrate a cooperative intent to effectively inform her audience. However, her expression is primarily 'neutral' and her posture is highly controlled, lacking the overt warmth, frequent smiling, or relaxed body language that would typically signal high agreeableness. The overall impression is one of professional politeness and consideration for the viewer, rather than strong personal warmth, placing her in the medium range for this trait.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "High",
+      "score": 0.77,
+      "rationale": "The subject exhibits strong markers of high Conscientiousness. Her entire presentation is disciplined, organized, and purposeful. The professional attire (lab coat) and context signal a dutiful approach. Her physical control is notable, with an 'upright and still posture' and 'level shoulders.' Her speech is a primary indicator: it is described as 'clear,' with a 'moderate and consistent pace' and precise articulation. This methodical and prepared delivery, including subtle emphasis on key words, reflects a diligent and organized individual committed to performing her task competently.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Medium",
+      "score": 0.48,
+      "rationale": "This Medium score for Neuroticism is consistent with the subject's composed but highly controlled demeanor. On one hand, she shows clear signs of emotional stability (low Neuroticism), such as 'natural and infrequent blinking,' a 'stable' vocal pitch, and maintained eye contact, all of which suggest a lack of overt anxiety. On the other hand, her rigidly 'still posture' and 'minimal' movements could indicate a high degree of self-monitoring or tension being managed through tight physical control. This combination of calm vocal and facial cues with a somewhat stiff physical presentation supports a medium score, suggesting an individual who is generally stable but may manage pressure through disciplined self-restraint.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "High",
+      "score": 0.6,
+      "rationale": "The subject's role and delivery are indicative of a High level of Openness. Participating as an expert in an educational video ('Handling Sunburn' for 'RxWiki') demonstrates an engagement with ideas and a desire to share knowledge, which are core facets of this trait. Her communication style is not merely robotic; she uses subtle eyebrow raises and vocal stress for emphasis, showing a nuanced intellectual engagement with the material she is presenting. The act of translating specialized knowledge for a broader audience in a professional, modern format aligns well with the intellectual curiosity and cognitive exploration characteristic of individuals high in Openness.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During the segment from 1s to 12s, the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The subject's behavior indicates a high level of Agreeableness."
+        },
+        {
+          "id": "B",
+          "text": "The subject's demeanor suggests a very high level of Openness."
+        },
+        {
+          "id": "C",
+          "text": "The subject's observed mannerisms point to Low Extraversion."
+        },
+        {
+          "id": "D",
+          "text": "The subject's presentation shows a high level of Conscientiousness."
+        },
+        {
+          "id": "E",
+          "text": "The subject's actions are most consistent with Low Neuroticism."
+        },
+        {
+          "id": "F",
+          "text": "The subject's controlled posture signifies Low Conscientiousness."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "The correct answer is D. The speaker's entire presentation is methodical, organized, and clear, reflecting a diligent and prepared approach. Her upright posture, professional attire, and consistent vocal pace are strong indicators of High Conscientiousness.\n\n- Option A is a text-based distractor. A professional presentation might imply agreeableness, but her neutral expression and lack of overt warmth do not strongly support a 'high' level; the evidence for Conscientiousness is much stronger.\n- Option B is a video-based distractor. The subject's role as an expert does suggest Openness, but the *manner* of her delivery (organized, disciplined) is more direct evidence for Conscientiousness than the content is for Openness.\n- Option C is a video-based distractor. While her reserved demeanor does support Low Extraversion, the most prominent and consistent cues (clarity, preparedness, controlled delivery) are the definitional markers of Conscientiousness.\n- Option E is a text-based distractor. While she appears calm, suggesting low neuroticism, the analysis also notes her rigid posture could be a sign of managing tension, making the 'Medium' assessment more accurate and the evidence less direct than that for Conscientiousness.\n- Option F is a near-miss distractor. It correctly identifies the relevant behavioral channel (controlled posture) but makes an incorrect inference, claiming it signifies Low Conscientiousness when it actually supports the opposite."
+    },
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their High Conscientiousness level?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[0.5s - 1.5s]"
+        },
+        {
+          "id": "B",
+          "text": "[3.1s - 4.1s]"
+        },
+        {
+          "id": "C",
+          "text": "[5.8s - 6.8s]"
+        },
+        {
+          "id": "D",
+          "text": "[7.6s - 8.6s]"
+        },
+        {
+          "id": "E",
+          "text": "[9.9s - 10.9s]"
+        },
+        {
+          "id": "F",
+          "text": "[12.2s - 13.2s]"
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "The correct answer is D. Around 8s, the observation notes that her eyebrows raise slightly to add emphasis to the word 'important'. This deliberate, controlled use of expression to enhance clarity is a subtle indicator of a conscientious communication style.\n\n- Option A is a text-based distractor, representing the start of her speech, a plausible but incorrect time for a specific emphatic expression.\n- Option B is a text-based distractor, a random interval during her speech where no notable expression change occurs.\n- Option C is a text-based distractor, another random interval during her speech where no notable expression change occurs.\n- Option E is a video-based distractor. This interval is when a text sidebar appears on screen. This is a significant visual event, but it is not a change in the person's facial expression.\n- Option F is a near-miss distractor. It is a time interval later in the video, which is plausible, but the specific, documented micro-expression for emphasis happens around 8s."
+    },
+    {
+      "category": "Mixed Emotion Discrimination",
+      "question": "During the time range from 5s to 10s, the person's emotional state is best characterized as which of the following? Consider both verbal and non-verbal cues.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mild apprehension mixed with managed self-restraint."
+        },
+        {
+          "id": "B",
+          "text": "Reserved confidence tempered by intellectual humility."
+        },
+        {
+          "id": "C",
+          "text": "Sincere concern mixed with an air of clinical authority."
+        },
+        {
+          "id": "D",
+          "text": "Focused professionalism mixed with didactic clarity."
+        },
+        {
+          "id": "E",
+          "text": "Dispassionate neutrality tempered by subtle emphasis."
+        },
+        {
+          "id": "F",
+          "text": "Calm detachment mixed with a hint of social reservation."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "The correct answer is D. Her entire demeanor in this segment is task-oriented and professional. Her clear, steady speech and direct gaze indicate focused professionalism, while the purposeful eyebrow raise for emphasis shows an intent for didactic (instructional) clarity.\n\n- Option A is a video-based distractor. It correctly notes the 'restraint' visible in her still posture but misinterprets its cause as 'apprehension' rather than professionalism.\n- Option B is a text-based distractor. This sounds like a plausible state for an expert, but there are no specific cues to support 'intellectual humility' in the video.\n- Option C is a text-based distractor. Given the topic is 'sunburn', 'sincere concern' is a plausible emotion, but her facial expression remains neutral and does not display any visible concern.\n- Option E is a near-miss distractor. This is very close to the correct answer. While she is neutral and uses emphasis, 'didactic clarity' (D) better captures the functional purpose of her state—to teach or inform—than the more passive 'subtle emphasis' (E).\n- Option F is a video-based distractor. This option focuses on her introverted traits ('social reservation') but overlooks the active, purposeful nature of her communication, which is central to her professional role in the video."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 0.8s, a region was detected in the video (x=0.134, y=0.621, w=0.351, h=0.345, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A posture that is being framed in the center of the screen."
+        },
+        {
+          "id": "B",
+          "text": "Subtle head movements that are used to add some emphasis."
+        },
+        {
+          "id": "C",
+          "text": "Holding a steady and direct gaze directly at the camera."
+        },
+        {
+          "id": "D",
+          "text": "An upright and still posture that is being maintained."
+        },
+        {
+          "id": "E",
+          "text": "Natural and infrequent eye blinks are being exhibited."
+        },
+        {
+          "id": "F",
+          "text": "Synchronized and clear articulation of the mouth."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "The correct answer is D. The provided coordinates (x=0.134, y=0.621, w=0.351, h=0.345) correspond to the subject's torso and shoulders. The observation data for this region states, She maintains an upright and still posture.\n\n- Option A is a near-miss distractor. It correctly refers to the overall framing and posture but uses an incorrect spatial detail ('center of the screen') based on the provided near-miss material; the data states she is on the left side.\n- Option B is a video-based distractor. This action occurs, but it is located in the head region, which is outside the specified bounding box.\n- Option C is a video-based distractor. Direct gaze occurs in the eye region, which is spatially distinct from the specified torso bounding box.\n- Option E is a video-based distractor. Blinking is an action of the eyes, a different spatial region from the specified bounding box.\n- Option F is a video-based distractor. Mouth articulation occurs in the mouth region, which is not inside the specified bounding box for the torso."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "Identify the moment and location where a subtle, deliberate facial movement is used to underscore a key spoken point.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Timestamp: ~2.5s; Bbox: x=0.211, y=0.384, w=0.133, h=0.047"
+        },
+        {
+          "id": "B",
+          "text": "Timestamp: ~7.8s; Bbox: x=0.259, y=0.526, w=0.065, h=0.092"
+        },
+        {
+          "id": "C",
+          "text": "Timestamp: ~4.0s; Bbox: x=0.134, y=0.621, w=0.351, h=0.345"
+        },
+        {
+          "id": "D",
+          "text": "Timestamp: ~7.8s; Bbox: x=0.211, y=0.384, w=0.133, h=0.047"
+        },
+        {
+          "id": "E",
+          "text": "Timestamp: ~10.1s; Bbox: x=0.205, y=0.268, w=0.145, h=0.361"
+        },
+        {
+          "id": "F",
+          "text": "Timestamp: ~0.8s; Bbox: x=0.226, y=0.387, w=0.138, h=0.074"
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "The correct answer is D. The video data states that at 8s, her eyebrows raise for emphasis. Option D provides the correct time (~7.8s) and the correct bounding box for the eyebrow region (x=0.211, y=0.384, w=0.133, h=0.047).\n\n- Option A is a video-based distractor. It shows the correct location (eyebrow bbox) but at an incorrect time (~2.5s) when the emphatic movement does not occur.\n- Option B is a near-miss distractor. It has the correct time (~7.8s) but points to the wrong location (the mouth bbox), where articulation occurs but not the specific emphatic eyebrow raise.\n- Option C is a video-based distractor. It provides an incorrect time and an incorrect location (the torso bbox), where no relevant facial movement happens.\n- Option E is a text-based distractor. It provides a plausible time around the appearance of the sidebar, but the bbox points to the whole head, which is less precise than the eyebrow region for this specific action.\n- Option F is a text-based distractor. It provides a plausible time at the beginning of the video, with a bbox on the eyes, but the specific emphatic movement in question does not happen at this moment."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator04",
+      "version": 1,
+      "clues_total": 12,
+      "clues_correct": 11,
+      "clues_wrong_corrected": 1,
+      "clues_missing_skipped": 0,
+      "clues_bonus": 0
+    }
+  }
+}

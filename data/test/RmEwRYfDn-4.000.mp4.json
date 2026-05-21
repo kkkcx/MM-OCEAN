@@ -1,0 +1,374 @@
+{
+  "video_id": "RmEwRYfDn-4.000.mp4",
+  "video_path": "RmEwRYfDn-4.000.mp4",
+  "transcription": "I've got a bit of a procrastinating like, because of shopping and stuff it procrastinated   quite hard unfortunately and so we've lost quite a bit of time. So I'm going to locate some fish and chips because it's easy to cook. It's not like ....",
+  "original_scores": {
+    "extraversion": 0.36448598130841126,
+    "agreeableness": 0.4725274725274725,
+    "conscientiousness": 0.42718446601941745,
+    "neuroticism": 0.40625000000000006,
+    "openness": 0.34444444444444444
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 4.21,
+      "description": "The subject's gaze is directed to his right, away from the camera. His mouth moves naturally as he speaks, and his eyebrows are in a neutral position.",
+      "bboxes": [
+        {
+          "frame_time": 0.348299,
+          "x": 0.5695723684210526,
+          "y": 0.41105263358668276,
+          "w": 0.17319078947368421,
+          "h": 0.12368421052631579,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 0.348299,
+          "x": 0.5932565789473684,
+          "y": 0.618947370428788,
+          "w": 0.10509868421052632,
+          "h": 0.09473684210526316,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 0.348299,
+          "x": 0.5458881578947369,
+          "y": 0.34526315990247225,
+          "w": 0.196875,
+          "h": 0.11315789473684211,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 4.21,
+      "end_time": 5.41,
+      "description": "As he says \"hard unfortunately,\" his brows lower slightly, and the corners of his mouth pull down momentarily.",
+      "bboxes": [
+        {
+          "frame_time": 5.34059,
+          "x": 0.42894736842105263,
+          "y": 0.537368423060367,
+          "w": 0.18355263157894738,
+          "h": 0.1736842105263158,
+          "note": "human-annotated",
+          "region": "unknown"
+        },
+        {
+          "frame_time": 5.34059,
+          "x": 0.4082236842105263,
+          "y": 0.3426315809551038,
+          "w": 0.24572368421052632,
+          "h": 0.09473684210526316,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 5.34059,
+          "x": 0.45707236842105264,
+          "y": 0.5952631599024722,
+          "w": 0.14358552631578947,
+          "h": 0.08421052631578947,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 5.41,
+      "end_time": 8.52,
+      "description": "His expression returns to a neutral, conversational state, with his gaze remaining directed to his right.",
+      "bboxes": [
+        {
+          "frame_time": 6.039101,
+          "x": 0.41118421052631576,
+          "y": 0.36631579148141963,
+          "w": 0.2412828947368421,
+          "h": 0.3868421052631579,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 6.527043,
+          "x": 0.5088815789473684,
+          "y": 0.3794736862182617,
+          "w": 0.17319078947368421,
+          "h": 0.10789473684210527,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 8.52,
+      "end_time": 15.68,
+      "description": "He turns his head further to the right, looking down slightly. His eyes are slightly narrowed in concentration as he continues to speak.",
+      "bboxes": [
+        {
+          "frame_time": 8.902465,
+          "x": 0.4555921052631579,
+          "y": 0.10052631779720908,
+          "w": 0.33453947368421055,
+          "h": 0.6631578947368421,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 11.301937,
+          "x": 0.662828947368421,
+          "y": 0.3347368441129986,
+          "w": 0.10213815789473685,
+          "h": 0.10526315789473684,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 6.84,
+      "description": "The subject is sitting in a chair, framed from the chest up. His head is oriented slightly to his right.",
+      "bboxes": [
+        {
+          "frame_time": 5.312959,
+          "x": 0.3726973684210526,
+          "y": 0.06631579148141961,
+          "w": 0.2945723684210526,
+          "h": 0.7368421052631579,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 8.92,
+      "end_time": 15.68,
+      "description": "His head remains turned to the right and tilted slightly downwards for the remainder of the clip with minimal other movement.",
+      "bboxes": [
+        {
+          "frame_time": 11.784754,
+          "x": 0.4126644736842105,
+          "y": 0.05315789674457751,
+          "w": 0.3449013157894737,
+          "h": 0.6631578947368421,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 7.39,
+      "description": "The subject speaks at a moderate, slightly hurried pace. His pitch is relatively stable with a slight drop at the end of the sentence on the word \"time.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 7.39,
+      "end_time": 15.68,
+      "description": "After a brief pause, he resumes speaking at a similar pace. He uses a filled pause (\"um\") at 10.37. The tone is conversational and explanatory.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.68,
+      "description": "The subject is a young man with fair skin, dark hair, and blue eyes. He is wearing a dark grey hooded jacket with a white sherpa lining over a pink collared shirt. He is indoors, likely in a bedroom, with a wooden wardrobe and a dark patterned curtain visible behind him. The lighting is dim and appears to come from a source in front of him, possibly a computer screen, casting a cool light on his face.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Low",
+      "score": 0.36,
+      "rationale": "The subject's Low Extraversion is indicated by several cues suggesting a reserved, internally-focused disposition. His gaze is consistently averted from the camera, a classic sign of introversion or discomfort with direct social focus. Furthermore, his physical posture is contained and largely static, lacking the expansive movements and high energy typically associated with extraverted individuals. His vocal tone is moderate and conversational rather than boisterous or attention-seeking, reinforcing a preference for less stimulating social engagement.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Medium",
+      "score": 0.47,
+      "rationale": "A Medium level of Agreeableness is supported by a mix of cooperative and neutral behaviors. The subject's tone is explanatory and non-confrontational. He openly admits to a personal failing (procrastination), and his brief negative facial expression (lowered brows, downturned mouth) when saying 'unfortunately' suggests a genuine, albeit fleeting, sense of regret. This indicates a moderate degree of social sensitivity without being overly deferential or eager to please, placing him in the middle of the spectrum.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Medium",
+      "score": 0.43,
+      "rationale": "The subject's self-report provides direct evidence for a Medium Conscientiousness score. He explicitly states he has 'procrastinated quite hard' and 'lost quite a bit of time,' which is inconsistent with high conscientiousness. However, he is not entirely undisciplined; he acknowledges the problem and immediately formulates a practical, efficiency-focused plan ('locate some fish and chips because it's easy'). This demonstrates a capacity for problem-solving and goal-directed behavior, balancing his admitted tendency to procrastinate.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Medium",
+      "score": 0.41,
+      "rationale": "The subject displays subtle indicators of moderate Neuroticism. The brief facial expression of negative affect (lowered brows, downturned mouth) when discussing his mistake reflects a sensitivity to negative outcomes. His speech has a slightly hurried pace and includes a filler pause ('um'), which can suggest a mild level of anxiety or cognitive stress when discussing a personal shortcoming. However, these indicators are fleeting and his overall emotional expression is controlled and returns to neutral, suggesting he is not prone to intense or prolonged negative emotional states.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "Low",
+      "score": 0.34,
+      "rationale": "The subject's verbal content points towards a Low level of Openness. When faced with a problem (lack of time for cooking), his solution is highly pragmatic and conventional: getting 'fish and chips' because 'it's easy'. This preference for a familiar, straightforward solution over exploring novel or creative alternatives is characteristic of lower openness. His communication style is concrete and focused on the immediate task at hand, with no evidence of abstract thought or imaginative thinking.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During 7.4s - 15.7s, the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "High Agreeableness, as he explains his situation cooperatively."
+        },
+        {
+          "id": "B",
+          "text": "High Neuroticism, as he shows stress about the time he has lost."
+        },
+        {
+          "id": "C",
+          "text": "Low Openness, as he favors a conventional and easy solution."
+        },
+        {
+          "id": "D",
+          "text": "High Conscientiousness, as he is carefully planning his next move."
+        },
+        {
+          "id": "E",
+          "text": "Low Extraversion, as his head is turned away from the camera."
+        },
+        {
+          "id": "F",
+          "text": "Low Conscientiousness, as he admits to procrastinating on a task."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. During this period, the subject proposes getting 'fish and chips because it's easy'. This preference for a highly pragmatic, conventional, and straightforward solution to a problem is a classic indicator of Low Openness to Experience. \nOption A is a text-based distractor; his tone is cooperative, but the core evidence in this segment relates to problem-solving style, not interpersonal warmth. \nOption B is a text-based distractor; the text mentions lost time, which could imply stress, but his vocal tone in the video is calm and explanatory, not stressed. \nOption D is a near-miss distractor; he is planning, which relates to Conscientiousness, but this planning is a reaction to prior *low* conscientiousness, and the nature of the plan (pragmatic, not novel) points more strongly to Openness. \nOption E is a near-miss distractor; his head is turned away (a cue for Low Extraversion), but the most salient new information in this specific time segment is the verbal content about his solution, which is the primary evidence for Low Openness. \nOption F is a video-based distractor; the admission of procrastination is strong evidence for Low Conscientiousness, but that statement occurs in the earlier segment (0.0s - 7.4s), not the one specified in the question."
+    },
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their Neuroticism level?",
+      "options": [
+        {
+          "id": "A",
+          "text": "0.0s - 1.2s"
+        },
+        {
+          "id": "B",
+          "text": "2.5s - 3.7s"
+        },
+        {
+          "id": "C",
+          "text": "4.5s - 5.7s"
+        },
+        {
+          "id": "D",
+          "text": "7.3s - 8.5s"
+        },
+        {
+          "id": "E",
+          "text": "9.8s - 11.0s"
+        },
+        {
+          "id": "F",
+          "text": "13.1s - 14.3s"
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. The analysis for Medium Neuroticism is partly based on the 'brief facial expression of negative affect (lowered brows, downturned mouth)' which occurs as he says 'hard unfortunately'. This event is captured within the 4.5s - 5.7s interval. \nOption A is a video-based distractor; this is the beginning of his speech where his expression is neutral. \nOption B is a video-based distractor; this is during his initial sentence, where his expression remains neutral and conversational. \nOption D is a video-based distractor; this interval covers the pause between his sentences where his expression is neutral. \nOption E is a near-miss distractor; this interval includes the filler word 'um', which can suggest cognitive load, but it is not the primary emotional expression of negative affect cited as evidence for Neuroticism. \nOption F is a video-based distractor; during this time he is explaining his plan with a neutral expression."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 6.0s, a region was detected in the video (x=0.41, y=0.37, w=0.24, h=0.39, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A steady, averted gaze directed away from the primary camera."
+        },
+        {
+          "id": "B",
+          "text": "The mouth region showing natural movement associated with speech."
+        },
+        {
+          "id": "C",
+          "text": "A return to a more neutral and standard conversational expression."
+        },
+        {
+          "id": "D",
+          "text": "The eyebrows remaining in a completely relaxed and neutral state."
+        },
+        {
+          "id": "E",
+          "text": "A further turn of the head to the right and looking slightly down."
+        },
+        {
+          "id": "F",
+          "text": "The head being held in a static, tilted, and downward position."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. The specified bounding box at 6.0s covers the subject's entire face. The observation notes for this time frame (5.4s - 8.5s) explicitly state that 'his expression returns to a neutral, conversational state' after the brief negative expression that preceded it. This option best describes the overall state of the entire facial region. \nOption A is a near-miss distractor; while his gaze is averted, this describes only the eyes, not the entire facial region specified by the large bounding box. \nOption B is a near-miss distractor; his mouth is moving, but this is a description of a sub-region and not the most prominent overall facial state. \nOption D is a near-miss distractor; the eyebrows are neutral, but again this only describes a small part of the specified region. \nOption E is a video-based distractor; this head movement occurs later, starting around 8.5s. \nOption F is a video-based distractor; this describes the general head posture for the latter half of the clip, not the specific facial expression at 6.0s."
+    },
+    {
+      "category": "Counterfactual Reasoning",
+      "question": "If the person had NOT exhibited the behavior observed around 0.0s - 7.4s, which of the following personality assessments would be MOST affected?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Agreeableness would be rated as lower, because his cooperative explanation for his current situation would have been missing from his speech."
+        },
+        {
+          "id": "B",
+          "text": "Openness would be assessed as higher, since his pragmatic problem-solving approach would then appear without a negative initial context."
+        },
+        {
+          "id": "C",
+          "text": "Conscientiousness would be assessed as higher, because the direct verbal evidence for his admitted procrastination would be entirely absent."
+        },
+        {
+          "id": "D",
+          "text": "Conscientiousness would be assessed as lower, because his later plan would seem unmotivated without the initial reason he provided."
+        },
+        {
+          "id": "E",
+          "text": "Neuroticism would be rated as much lower, since the primary source of any verbalized stress about his actions would not be present."
+        },
+        {
+          "id": "F",
+          "text": "Extraversion would shift toward a higher score, as the most significant instance of his reserved communication style would be absent."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. The behavior in 0.0s - 7.4s is the verbal admission that he 'procrastinated quite hard'. This is the most direct and powerful piece of evidence for a Medium/Low Conscientiousness score. Removing this statement would eliminate the primary evidence of his lack of discipline, likely causing his score to be assessed as higher based on the remaining evidence (e.g., his problem-solving). \nOption A is a text-based distractor; removing the content doesn't guarantee he would seem disagreeable, as his non-confrontational tone might still support a Medium Agreeableness rating. \nOption B is a video-based distractor; the evidence for Low Openness is his choice of a conventional solution ('fish and chips'), which occurs *after* 7.4s. Removing the first part would not change the nature of his solution. \nOption D is a near-miss distractor; it correctly identifies Conscientiousness as the affected trait but gets the direction of change wrong. Removing evidence of a flaw would increase, not decrease, the assessment. \nOption E is a text-based distractor; the primary evidence for Neuroticism is the non-verbal micro-expression around 5.3s, not the calmly delivered verbal content. \nOption F is a video-based distractor; the evidence for Low Extraversion (averted gaze, contained posture) is present throughout the entire clip, not confined to the first 7.4 seconds."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator03",
+      "version": 1,
+      "clues_total": 17,
+      "clues_correct": 15,
+      "clues_wrong_corrected": 0,
+      "clues_missing_skipped": 2,
+      "clues_bonus": 0
+    }
+  }
+}

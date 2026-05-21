@@ -1,0 +1,364 @@
+{
+  "video_id": "OSDlyk5ZgAk.005.mp4",
+  "video_path": "OSDlyk5ZgAk.005.mp4",
+  "transcription": "It's kind of like that cool little quirky thing, that I like to reference to movies. I like to have a lot of undertones and references to mythology and movies that I added, in everything. If you look at my banner-",
+  "original_scores": {
+    "extraversion": 0.4953271028037384,
+    "agreeableness": 0.5164835164835165,
+    "conscientiousness": 0.4466019417475728,
+    "neuroticism": 0.46875,
+    "openness": 0.6444444444444444
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 1.71,
+      "description": "The subject's gaze is directed up and to their right, away from the camera. The mouth moves with speech, and the facial muscles appear relaxed.",
+      "bboxes": [
+        {
+          "frame_time": 0.767396,
+          "x": 0.35863486842105263,
+          "y": 0.4324561370046515,
+          "w": 0.22796052631578947,
+          "h": 0.1368421052631579,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 0.767396,
+          "x": 0.4030427631578947,
+          "y": 0.6640350843730726,
+          "w": 0.1524671052631579,
+          "h": 0.18157894736842106,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 0.767396,
+          "x": 0.3349506578947368,
+          "y": 0.5271929791099147,
+          "w": 0.2723684210526316,
+          "h": 0.31842105263157894,
+          "note": "face human-annotated",
+          "region": "face"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 1.71,
+      "end_time": 3.48,
+      "description": "The subject's eyes close and then reopen in a slow blink. The gaze remains averted, slightly down and to their left.",
+      "bboxes": [
+        {
+          "frame_time": 3.289122,
+          "x": 0.38231907894736844,
+          "y": 0.4377192948993884,
+          "w": 0.2205592105263158,
+          "h": 0.11842105263157894,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 3.48,
+      "end_time": 15.3,
+      "description": "Gaze shifts to look directly at the camera and remains fixed there. The eyebrows stay in a neutral position, and the mouth moves naturally while speaking. At 13.43, the eyes widen slightly.",
+      "bboxes": [
+        {
+          "frame_time": 8.141208,
+          "x": 0.3379111842105263,
+          "y": 0.4456140317414936,
+          "w": 0.26644736842105265,
+          "h": 0.12368421052631579,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 10.63996,
+          "x": 0.34087171052631576,
+          "y": 0.3429824527941252,
+          "w": 0.23092105263157894,
+          "h": 0.11052631578947368,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 10.66318,
+          "x": 0.39120065789473685,
+          "y": 0.6377192948993884,
+          "w": 0.1450657894736842,
+          "h": 0.1368421052631579,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 15.3,
+      "description": "The subject sits facing the camera, with their head and shoulders visible. The head remains relatively still throughout, with only minor, subtle movements corresponding to speech.",
+      "bboxes": [
+        {
+          "frame_time": 0.965019,
+          "x": 0.21504934210526316,
+          "y": 0.24561403174149363,
+          "w": 0.5077302631578947,
+          "h": 0.7210526315789474,
+          "note": "human-annotated",
+          "region": "unknown"
+        },
+        {
+          "frame_time": 0.965019,
+          "x": 0.21504934210526316,
+          "y": 0.23771929489938837,
+          "w": 0.5269736842105264,
+          "h": 0.7578947368421053,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 1.744915,
+          "x": 0.2416940789473684,
+          "y": 0.216666663320441,
+          "w": 0.43963815789473687,
+          "h": 0.6526315789473685,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0.35,
+      "end_time": 4.67,
+      "description": "The subject speaks at a moderate, even pace with a relatively stable mid-range pitch. The pitch slightly rises on the word \"quirky\".",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 4.67,
+      "end_time": 13.03,
+      "description": "The speech rate remains consistent. There is a slight pause and repetition on the word \"that\" at 11.23. The pitch falls at the end of the phrase \"in everything\".",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 13.03,
+      "end_time": 14.86,
+      "description": "The pace quickens slightly for the phrase \"If you look at my banner,\" which is delivered with a slightly louder volume and ends abruptly.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.3,
+      "description": "The subject is a young person with light skin and messy dark brown hair, wearing a white fleece hat with long bunny-like ears, a dark grey thermal shirt, and white in-ear headphones. They are in a room with a sloped white ceiling and light-colored wood paneling on the lower half of the wall behind them. To the left is a bed, a lamp, and a framed picture. To the right is a desk with some clutter. The lighting is bright and diffuse, coming from the front.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 14.592979,
+      "end_time": 15.592979,
+      "description": "Subject wearing wired headphones",
+      "bboxes": [
+        {
+          "frame_time": 15.092979,
+          "x": 0.3334703947368421,
+          "y": 0.4903508738467568,
+          "w": 0.31529605263157895,
+          "h": 0.5078947368421053,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Medium",
+      "score": 0.5,
+      "rationale": "The subject's Extraversion is rated Medium. This reflects a mix of socially engaged and reserved behaviors. While the act of recording a video for an audience suggests a degree of social comfort, the nonverbal cues are more introverted. The consistent gaze aversion—looking away from the camera rather than at the viewer—and the relatively still head posture suggest lower social energy. The vocal delivery is mostly moderate and stable, lacking the high energy typical of extraverts. This balance between the social context and the reserved execution supports a mid-range score.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Medium",
+      "score": 0.52,
+      "rationale": "The subject's Agreeableness is rated Medium. In this short, non-interactive clip, there are no strong behavioral markers for either high or low agreeableness. The subject's demeanor is generally neutral; their facial muscles appear relaxed and their vocal tone is stable and even-paced. This calm and non-confrontational presentation is inconsistent with the hostility that might be seen in low agreeableness. However, without any interaction or explicit pro-social statements, there is insufficient evidence for a high rating. Therefore, a medium score is the most logical assessment.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Medium",
+      "score": 0.45,
+      "rationale": "The subject's Conscientiousness is rated Medium. The evidence is conflicting, pointing to a mid-range level of this trait. On one hand, the background reveals a cluttered desk, which suggests a lower tendency towards orderliness. On the other hand, the subject's speech is coherent and focused on explaining their creative process, indicating a capacity for structured thought and goal-directed communication. This combination of a planned verbal delivery with a less organized personal environment supports a medium rating for conscientiousness.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Medium",
+      "score": 0.47,
+      "rationale": "The subject's Neuroticism is rated Medium. The behavioral indicators are balanced between emotional stability and subtle anxiety. The subject generally appears calm, with relaxed facial muscles and a stable vocal delivery, which points to low neuroticism. However, the persistent aversion of their gaze from the camera and a minor speech disfluency (a slight pause and repetition) can be interpreted as subtle signs of social nervousness. Because these indicators of anxiety are mild and counterbalanced by clear signs of composure, a medium score accurately reflects this mixed emotional state.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "High",
+      "score": 0.64,
+      "rationale": "The subject's Openness is rated High. This assessment is strongly supported by multiple data points. Verbally, the subject explicitly discusses a fondness for 'quirky' things and the intellectual exercise of embedding references to movies and mythology in their work. Visually, their unconventional attire—a fluffy hat with long rabbit ears—is a clear expression of individuality and a deviation from convention. This combination of intellectual curiosity, aesthetic appreciation, and non-conformist self-expression are all hallmark indicators of a high degree of Openness to Experience.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable, subtle shift in the person's upper facial expression occur, contributing to the overall impression of their communicative style?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[0.5s - 1.3s]"
+        },
+        {
+          "id": "B",
+          "text": "[2.8s - 3.6s]"
+        },
+        {
+          "id": "C",
+          "text": "[5.5s - 6.3s]"
+        },
+        {
+          "id": "D",
+          "text": "[8.0s - 8.8s]"
+        },
+        {
+          "id": "E",
+          "text": "[14.1s - 14.9s]"
+        },
+        {
+          "id": "F",
+          "text": "[10.4s - 11.2s]"
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The correct answer is F. The observation log specifically notes a slight eyebrow raise at 10.6s, which falls within this interval. This is a distinct, subtle shift in the upper facial region.\n- Option A is a video-based distractor. This interval captures the initial gaze shift away from the camera, which is a change, but the question asks about the upper facial expression contributing to the overall style later in the explanation.\n- Option B is a video-based distractor. This interval captures a subsequent gaze shift (down and left), another real event but not the one referenced.\n- Option C is a text-based distractor. This is an interval where the person's expression is relatively stable, making it an unlikely candidate for a 'notable shift'.\n- Option D is a near-miss distractor. This interval is close to the correct one and falls within the long period of sustained rightward gaze, but it does not contain the specific eyebrow-raising event at 10.6s.\n- Option E is a video-based distractor. This interval corresponds to the end of the video where the speech tempo changes, but no specific upper-facial shift is noted here."
+    },
+    {
+      "category": "Temporal-Causal Reasoning",
+      "question": "Consider the sequence of behaviors observed across the video. Which of the following best describes the causal chain linking the person's actions at different moments?",
+      "options": [
+        {
+          "id": "A",
+          "text": "An external prompt (early video) leads to a rehearsed narrative (mid-video), which concludes with a direct call to action (late video)."
+        },
+        {
+          "id": "B",
+          "text": "A state of verbal regulation (early video) causes a moment of relaxed self-expression (mid-video), then a return to self-monitoring (late video)."
+        },
+        {
+          "id": "C",
+          "text": "A display of social anxiety (early video) prompts a compensatory act of self-expression (mid-video), which is then justified verbally (late video)."
+        },
+        {
+          "id": "D",
+          "text": "A moment of confusion (early video) leads to a period of thoughtful silence (mid-video), then a newly articulated personal insight (late video)."
+        },
+        {
+          "id": "E",
+          "text": "An initial self-expression (early video) is met with an internal critique, causing a brief withdrawal (mid-video), then a re-engagement (late video)."
+        },
+        {
+          "id": "F",
+          "text": "An act of self-expression (early video) leads to non-verbal self-monitoring cues (mid-video), which are managed via verbal regulation (late video)."
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The correct answer is F. The most logical sequence is that the act of self-disclosure about their interests (early) triggers subtle signs of social anxiety like gaze aversion (self-monitoring cues mid-video), which the speaker manages by maintaining a focused and stable vocal delivery to finish their thought (verbal regulation late-video).\n- Option A is a text-based distractor. It presents a plausible script for a video, but there's no evidence of an 'external prompt' or a 'call to action' in the clip.\n- Option B is a distractor with reversed temporal order. The self-expression happens first, and the regulation/monitoring follows, not the other way around.\n- Option C is a distractor with incorrect causality. The anxiety (gaze aversion) appears to be a *result* of the self-expression, not the primary cause that prompts it.\n- Option D is a text-based distractor. The video provides no evidence of 'confusion' or 'thoughtful silence'.\n- Option E is a near-miss distractor. The chain is plausible, but 'brief withdrawal' is too strong a term for the subtle and continuous gaze aversion observed; the person never stops communicating."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 3.3s, a region was detected in the video (x=0.382, y=0.438, w=0.221, h=0.118, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Slightly raised eyebrows suggesting a subtle level of viewer engagement."
+        },
+        {
+          "id": "B",
+          "text": "A mostly still head posture with only very minor speaking-related shifts."
+        },
+        {
+          "id": "C",
+          "text": "Natural mouth articulation that is corresponding directly with speech."
+        },
+        {
+          "id": "D",
+          "text": "A direct and steady gaze that is fixed straight towards the camera lens."
+        },
+        {
+          "id": "E",
+          "text": "A generally relaxed and neutral overall set of the facial musculature."
+        },
+        {
+          "id": "F",
+          "text": "An averted gaze that is being directed downwards and also to the left."
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The correct answer is F. The specified bounding box at 3.3s precisely frames the eyes. The observation log for the interval [1.7s - 3.5s] confirms that the subject's gaze is averted 'downward and to the left'.\n- Option A is a video-based distractor. This describes the eyebrow behavior, which is in a different facial region and is noted at a later time (around 10.6s).\n- Option B is a video-based distractor. This describes the head's general motion, which is outside the small bounding box focused on the eyes.\n- Option C is a video-based distractor. This describes the mouth's movement, which is in a different facial region (lower part of the face) than the specified bounding box.\n- Option D is a near-miss distractor. It correctly identifies the body part (eyes) but describes the opposite behavior. The gaze is averted, not direct. This is based on a common AI error pattern.\n- Option E is a video-based distractor. This describes the overall face, which is a much larger area than the specified bounding box around the eyes."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "At which of the following moments and locations does the subject make a subtle, expressive gesture with their upper facial features that aligns with their verbal explanation?",
+      "options": [
+        {
+          "id": "A",
+          "text": "At 0.8s, in region (x=0.359, y=0.432, w=0.228, h=0.137)"
+        },
+        {
+          "id": "B",
+          "text": "At 3.3s, in region (x=0.382, y=0.438, w=0.221, h=0.118)"
+        },
+        {
+          "id": "C",
+          "text": "At 13.4s, in region (x=0.335, y=0.527, w=0.272, h=0.318)"
+        },
+        {
+          "id": "D",
+          "text": "At 10.6s, in region (x=0.391, y=0.638, w=0.145, h=0.137)"
+        },
+        {
+          "id": "E",
+          "text": "At 10.6s, in region (x=0.341, y=0.343, w=0.231, h=0.111)"
+        },
+        {
+          "id": "F",
+          "text": "At 1.0s, in region (x=0.215, y=0.246, w=0.508, h=0.721)"
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. The question asks for a subtle gesture in the upper facial features. The observation log specifically identifies a slight eyebrow raise with a bounding box at 10.6s, which matches these coordinates exactly.\n- Option A is a video-based distractor. This is the correct region (eyes/eyebrows) but at the wrong time; at 0.8s, the gesture is a gaze shift, not an eyebrow raise.\n- Option B is a video-based distractor. This is the bbox for the eyes at 3.3s, showing an averted gaze, not the eyebrow gesture.\n- Option C is a text-based distractor. This option uses a plausible time and a bbox for the face, but no specific expressive gesture is noted at 13.4s in the observation log.\n- Option D is a near-miss distractor. This option has the correct timestamp (10.6s) but the wrong bounding box; these coordinates correspond to the mouth, not the upper facial features.\n- Option F is a video-based distractor. This is a very large bounding box for the entire person at an early timestamp, not a specific, subtle gesture."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator06",
+      "version": 1,
+      "clues_total": 18,
+      "clues_correct": 12,
+      "clues_wrong_corrected": 2,
+      "clues_missing_skipped": 3,
+      "clues_bonus": 1
+    }
+  }
+}

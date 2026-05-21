@@ -1,0 +1,325 @@
+{
+  "video_id": "PHv6CzBIC5E.003.mp4",
+  "video_path": "PHv6CzBIC5E.003.mp4",
+  "transcription": "Having them go at him for using profanity when I'm sure they do it all the time.",
+  "original_scores": {
+    "extraversion": 0.2897196261682243,
+    "agreeableness": 0.32967032967032966,
+    "conscientiousness": 0.3203883495145631,
+    "neuroticism": 0.2708333333333333,
+    "openness": 0.3111111111111111
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 5,
+      "description": "The subject's gaze is directed down and to her left. Her lips are slightly upturned in a soft smile, and her eyes are slightly narrowed as she speaks.",
+      "bboxes": [
+        {
+          "frame_time": 0,
+          "x": 0.38580246913580246,
+          "y": 0.4012345679012346,
+          "w": 0.15432098765432098,
+          "h": 0.1289437585733882,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 0,
+          "x": 0.41512345679012347,
+          "y": 0.5438957475994513,
+          "w": 0.10648148148148148,
+          "h": 0.09602194787379972,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 5,
+      "end_time": 11,
+      "description": "The smile fades, and her expression becomes more neutral and then serious. The corners of her mouth are drawn slightly downward, and she looks down, blinking slowly as she talks.",
+      "bboxes": [
+        {
+          "frame_time": 5,
+          "x": 0.41975308641975306,
+          "y": 0.5356652949245542,
+          "w": 0.08487654320987655,
+          "h": 0.09876543209876543,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 5,
+          "x": 0.3888888888888889,
+          "y": 0.35733882030178327,
+          "w": 0.16512345679012347,
+          "h": 0.2962962962962963,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 5,
+          "x": 0.3904320987654321,
+          "y": 0.35185185185185186,
+          "w": 0.15895061728395063,
+          "h": 0.3347050754458162,
+          "note": "human-annotated",
+          "region": "unknown"
+        },
+        {
+          "frame_time": 5,
+          "x": 0.41975308641975306,
+          "y": 0.5411522633744856,
+          "w": 0.08796296296296297,
+          "h": 0.11522633744855967,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 8,
+          "x": 0.3888888888888889,
+          "y": 0.40397805212620025,
+          "w": 0.12808641975308643,
+          "h": 0.10699588477366255,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 11,
+      "end_time": 15.1,
+      "description": "Her expression shifts to one of disapproval. Her brows furrow slightly, her lips press together and turn downward at the corners, and her eyes narrow as she speaks with emphasis.",
+      "bboxes": [
+        {
+          "frame_time": 13.636666,
+          "x": 0.39197530864197533,
+          "y": 0.3820301783264746,
+          "w": 0.16049382716049382,
+          "h": 0.2962962962962963,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 13.636666,
+          "x": 0.38425925925925924,
+          "y": 0.3683127572016461,
+          "w": 0.1558641975308642,
+          "h": 0.09602194787379972,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 13.05,
+          "x": 0.3873456790123457,
+          "y": 0.39300411522633744,
+          "w": 0.1728395061728395,
+          "h": 0.15089163237311384,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 11,
+      "description": "The subject is seated and visible from the chest up. Her head remains relatively still, with minor, subtle nods that are in sync with her speech.",
+      "bboxes": [
+        {
+          "frame_time": 0,
+          "x": 0.29475308641975306,
+          "y": 0.4094650205761317,
+          "w": 0.4506172839506173,
+          "h": 0.5898491083676269,
+          "note": "human-annotated",
+          "region": "unknown"
+        },
+        {
+          "frame_time": 0,
+          "x": 0.3533950617283951,
+          "y": 0.10219478737997256,
+          "w": 0.2808641975308642,
+          "h": 0.598079561042524,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 11,
+      "end_time": 15.1,
+      "description": "She performs a series of small, firm nods while speaking. Her head tilts slightly to her right as she finishes her statement.",
+      "bboxes": [
+        {
+          "frame_time": 11,
+          "x": 0.3549382716049383,
+          "y": 0.09945130315500686,
+          "w": 0.2762345679012346,
+          "h": 0.6117969821673526,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 4.9,
+      "description": "The subject speaks at a moderate, conversational pace with a relatively even pitch and volume.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 4.9,
+      "end_time": 8.5,
+      "description": "Her speech rate slightly increases. She places emphasis on the phrase \"all the time\" with a slight rise in pitch.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 8.5,
+      "end_time": 11.3,
+      "description": "The pace slows, and her pitch drops slightly. She speaks the words \"very hypocritical\" with deliberate enunciation and a lower, firmer tone.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 11.3,
+      "end_time": 15.1,
+      "description": "The subject's tone becomes more forceful and her pitch lowers further. She speaks slowly and deliberately, placing strong emphasis on the word \"disgusting\" with a falling intonation.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.1,
+      "description": "The subject is an older woman with fair skin and short, styled reddish-orange hair with prominent blonde highlights at the front. She is wearing a black top with sheer, polka-dotted fabric on the sleeves and neckline, along with long, dangling silver earrings. The background is a plain, solid wall of a warm beige color. The lighting is soft and even, and a \"Google\" watermark is visible in the top-left corner.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Low",
+      "score": 0.29,
+      "rationale": "The subject exhibits behaviors consistent with low Extraversion. Her physical presence is contained and reserved, characterized by a relatively still head and torso. Her gaze is frequently directed downward and to the side, suggesting an internal focus rather than outward social engagement. Vocally, she begins with a moderate, even tone, lacking the typical exuberance or high energy of an extravert. While her tone becomes more forceful, it serves to emphasize a specific point rather than reflecting a generally gregarious nature.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Low",
+      "score": 0.33,
+      "rationale": "The subject's low Agreeableness is evident in her direct and critical judgment of others. Her facial expressions shift from neutral to clear disapproval, marked by furrowed brows and narrowed eyes. Her verbal content is explicitly judgmental (labeling behavior as 'hypocritical' and 'disgusting'). This is reinforced by a forceful, firm, and deliberately slow vocal delivery, which underscores a skeptical and challenging stance rather than a cooperative or forgiving one.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Low",
+      "score": 0.32,
+      "rationale": "The observed behaviors suggest a low level of Conscientiousness. The subject's statement is a spontaneous, reactive judgment rather than a structured or deliberate argument. The broad, unsupported assertion, 'I'm sure they do it all the time,' reflects a more impulsive and less methodical communication style. This lack of careful deliberation and focus on an immediate emotional reaction is characteristic of lower conscientiousness.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Low",
+      "score": 0.27,
+      "rationale": "The subject demonstrates strong emotional stability, indicative of low Neuroticism. Despite expressing a strong negative opinion (disgust), her delivery is highly controlled and composed. Instead of showing agitation or anxiety, she modulates her voice to be firmer, lower, and more deliberate for emphasis. Her physical posture remains stable. This ability to channel disapproval into a controlled and forceful statement, rather than a volatile outburst, is a clear sign of emotional resilience.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "Low",
+      "score": 0.31,
+      "rationale": "The subject's focus and communication style align with low Openness. She is concerned with a specific, concrete social transgression—hypocrisy regarding profanity—which reflects a focus on conventional norms and rules. Her language is direct and evaluative ('disgusting') rather than abstract or nuanced. The entire segment is a straightforward moral judgment, showing little interest in exploring alternative perspectives or complex ideas, which is consistent with a more practical and conventional mindset.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Temporal-Causal Reasoning",
+      "question": "Consider the sequence of behaviors observed across the video. Which of the following best describes the causal chain linking the person's actions at different moments?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Reflective framing (early) prompts neutral regulation (middle) to enable a final, forceful value judgment (late)."
+        },
+        {
+          "id": "B",
+          "text": "A forceful judgment (late) causes a period of neutral regulation (middle), which then resolves into framing (early)."
+        },
+        {
+          "id": "C",
+          "text": "An external stimulus (early) triggers a forceful judgment (late), followed by an attempt at self-monitoring (middle)."
+        },
+        {
+          "id": "D",
+          "text": "Reflective framing (early) leads to a loss of emotional control (middle), causing an involuntary negative display (late)."
+        },
+        {
+          "id": "E",
+          "text": "Social agreement (early) leads to elaborating shared values (middle) and a final display of group solidarity (late)."
+        },
+        {
+          "id": "F",
+          "text": "Visual information seeking (early) prompts vocal uncertainty (middle), masked by a compensatory assertive display (late)."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. This correctly maps the video's progression: The initial state with a slight smile and downward gaze represents 'reflective framing' (0-5s). This leads to a 'neutral regulation' phase where the smile fades and the expression becomes serious (5-11s), setting the stage for the 'forceful value judgment' with strong non-verbals at the end (11-15s).\n- Option B is a distractor with reversed temporal order, describing the events backward.\n- Option C is a distractor with incorrect temporal order, incorrectly placing the forceful judgment before the neutral regulation phase.\n- Option D is a near-miss distractor. It correctly identifies the initial framing but incorrectly interprets the final display as a 'loss of control' and 'involuntary', when the evidence points to a highly controlled and deliberate expression.\n- Option E is a text-based distractor. It describes a sequence of cooperation and agreement, which is the opposite of the critical judgment observed in the video.\n- Option F is a video-based distractor. It misinterprets the early downward gaze as 'information seeking' and the controlled vocalization as masking 'uncertainty'."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 0.0s, a region was detected in the video (x=0.353, y=0.102, w=0.281, h=0.598, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A head posture that remains relatively still with slight nods."
+        },
+        {
+          "id": "B",
+          "text": "A subtle narrowing of the eyes made to add verbal emphasis."
+        },
+        {
+          "id": "C",
+          "text": "A facial expression that is clearly shifting to disapproval."
+        },
+        {
+          "id": "D",
+          "text": "The corners of the mouth are being pulled slightly downwards."
+        },
+        {
+          "id": "E",
+          "text": "An overall expression that is becoming much more serious."
+        },
+        {
+          "id": "F",
+          "text": "A very slight furrowing motion occurring in the eyebrows."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. The specified bounding box covers the entire head region. At 0.0s, the most accurate description of the action of this entire region is that the head is being held relatively still, with slight nods accompanying speech, as noted in the observation data from 0.0s-11.0s.\n- All other options are video-based distractors. They describe real behaviors that occur in the video but are incorrect for the specified time and/or spatial region. The narrowing eyes (B), shift to disapproval (C), downward mouth corners (D), serious expression (E), and furrowed eyebrows (F) all happen much later in the video (after 5.0s and primarily after 11.0s), not at 0.0s."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator15",
+      "version": 1,
+      "clues_total": 21,
+      "clues_correct": 18,
+      "clues_wrong_corrected": 0,
+      "clues_missing_skipped": 3,
+      "clues_bonus": 0
+    }
+  }
+}

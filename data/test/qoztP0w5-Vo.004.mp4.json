@@ -1,0 +1,605 @@
+{
+  "video_id": "qoztP0w5-Vo.004.mp4",
+  "video_path": "qoztP0w5-Vo.004.mp4",
+  "transcription": "In their face and putting, you know, so they can have their own mic. Hopefully it works. Hopefully everything is going to be awesome. I spent a lot of money on this, so it should be pretty cool. I should have better audio this year, let's hope, unless that gets corrupted somehow-",
+  "original_scores": {
+    "extraversion": 0.6355140186915887,
+    "agreeableness": 0.6923076923076923,
+    "conscientiousness": 0.4174757281553398,
+    "neuroticism": 0.6770833333333334,
+    "openness": 0.7666666666666666
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 10.6,
+      "description": "The subject maintains a broad, consistent smile, with eyes slightly squinted and gaze directed at the camera. His eyebrows are in a neutral position, and his mouth moves naturally with his speech while maintaining the smile.",
+      "bboxes": [
+        {
+          "frame_time": 1.777235,
+          "x": 0.44449013157894735,
+          "y": 0.33771929489938834,
+          "w": 0.10953947368421053,
+          "h": 0.10263157894736842,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 1.777235,
+          "x": 0.43264802631578947,
+          "y": 0.2061403475309673,
+          "w": 0.1317434210526316,
+          "h": 0.07894736842105263,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 3.481632,
+          "x": 0.43560855263157894,
+          "y": 0.1929824527941252,
+          "w": 0.15098684210526317,
+          "h": 0.0868421052631579,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 3.481632,
+          "x": 0.46817434210526315,
+          "y": 0.36929824226780944,
+          "w": 0.09473684210526316,
+          "h": 0.09736842105263158,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 3.641875,
+          "x": 0.47705592105263156,
+          "y": 0.37456140016254624,
+          "w": 0.07549342105263158,
+          "h": 0.06315789473684211,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 10.6,
+      "end_time": 12,
+      "description": "The smile intensifies as he leans forward. His eyes squint tightly, and the corners of his mouth pull up and back in a very expressive, happy grimace.",
+      "bboxes": [
+        {
+          "frame_time": 11.563155,
+          "x": 0.2564967105263158,
+          "y": 0.45877192647833576,
+          "w": 0.5018092105263158,
+          "h": 0.5394736842105263,
+          "note": "pose human-annotated",
+          "region": "torso"
+        },
+        {
+          "frame_time": 11.563155,
+          "x": 0.48741776315789476,
+          "y": 0.5061403475309673,
+          "w": 0.15394736842105264,
+          "h": 0.17894736842105263,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 11.563155,
+          "x": 0.43560855263157894,
+          "y": 0.29561403174149364,
+          "w": 0.22648026315789474,
+          "h": 0.11052631578947368,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 11.654,
+          "x": 0.4666940789473684,
+          "y": 0.5850877159520199,
+          "w": 0.1480263157894737,
+          "h": 0.12631578947368421,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 11.930783,
+          "x": 0.3704769736842105,
+          "y": 0.16929824226780943,
+          "w": 0.23092105263157894,
+          "h": 0.49473684210526314,
+          "note": "face human-annotated",
+          "region": "face"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 12,
+      "end_time": 15,
+      "description": "The expression softens back to a wide smile, with eyes less squinted. He continues to look at the camera with a happy expression as he clasps his hands.",
+      "bboxes": [
+        {
+          "frame_time": 14.887986,
+          "x": 0.4030427631578947,
+          "y": 0.4535087685835989,
+          "w": 0.14210526315789473,
+          "h": 0.15789473684210525,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 14.887986,
+          "x": 0.3852796052631579,
+          "y": 0.3192982422678094,
+          "w": 0.1805921052631579,
+          "h": 0.09736842105263158,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 14.887986,
+          "x": 0.39120065789473685,
+          "y": 0.31140350542570416,
+          "w": 0.17911184210526315,
+          "h": 0.09736842105263158,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 14.887986,
+          "x": 0.3734375,
+          "y": 0.7377192948993884,
+          "w": 0.2634868421052632,
+          "h": 0.26052631578947366,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 1,
+      "description": "The subject sits in a red and black gaming chair. He makes a brief waving gesture with his right hand before bringing a black microphone up to his mouth with the same hand.",
+      "bboxes": [
+        {
+          "frame_time": 0,
+          "x": 0.3260690789473684,
+          "y": 0.1798245580572831,
+          "w": 0.33453947368421055,
+          "h": 0.8184210526315789,
+          "note": "human-annotated",
+          "region": "unknown"
+        },
+        {
+          "frame_time": 0.46616,
+          "x": 0.09218749999999999,
+          "y": 0.4403508738467568,
+          "w": 0.28717105263157894,
+          "h": 0.5552631578947368,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 0.903185,
+          "x": 0.30386513157894735,
+          "y": 0.2824561370046515,
+          "w": 0.2546052631578947,
+          "h": 0.2394736842105263,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 1,
+      "end_time": 3.2,
+      "description": "He holds the microphone with his right hand, then brings his left hand up to hold it with both hands in front of him.",
+      "bboxes": [
+        {
+          "frame_time": 1.383912,
+          "x": 0.3986019736842105,
+          "y": 0.4324561370046515,
+          "w": 0.15542763157894737,
+          "h": 0.5131578947368421,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 2.942635,
+          "x": 0.33199013157894736,
+          "y": 0.4903508738467568,
+          "w": 0.4618421052631579,
+          "h": 0.45,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 3.2,
+      "end_time": 5.4,
+      "description": "He claps his hands together once, then makes several open-handed gestures, moving his hands apart and together in front of his chest.",
+      "bboxes": [
+        {
+          "frame_time": 3.802117,
+          "x": 0.38231907894736844,
+          "y": 0.34824561068886206,
+          "w": 0.32417763157894736,
+          "h": 0.5815789473684211,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 4.457655,
+          "x": 0.2165296052631579,
+          "y": 0.5245614001625463,
+          "w": 0.5669407894736842,
+          "h": 0.47368421052631576,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 5.4,
+      "end_time": 8.5,
+      "description": "He holds the microphone with his right hand and gestures with his left hand, which is partially out of frame. He then lowers his right arm, putting the microphone out of view, and raises it again.",
+      "bboxes": [
+        {
+          "frame_time": 6.084813,
+          "x": 0.27277960526315786,
+          "y": 0.516666663320441,
+          "w": 0.27532894736842106,
+          "h": 0.48157894736842105,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 8.245205,
+          "x": 0.00041118421052630644,
+          "y": 0.42192982121517786,
+          "w": 0.3360197368421053,
+          "h": 0.531578947368421,
+          "note": "human-annotated",
+          "region": "arms"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 8.5,
+      "end_time": 10.6,
+      "description": "He makes large, open-handed gestures with both hands, spreading them wide.",
+      "bboxes": [
+        {
+          "frame_time": 10.226385,
+          "x": 0.21356907894736843,
+          "y": 0.40614034753096734,
+          "w": 0.5684210526315789,
+          "h": 0.4394736842105263,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 10.6,
+      "end_time": 12,
+      "description": "He leans his upper body forward slightly, bringing his face closer to the camera.",
+      "bboxes": [
+        {
+          "frame_time": 11.216975,
+          "x": 0.22689144736842104,
+          "y": 0.5140350843730725,
+          "w": 0.596546052631579,
+          "h": 0.4710526315789474,
+          "note": "pose human-annotated",
+          "region": "torso"
+        },
+        {
+          "frame_time": 11.216975,
+          "x": 0.37935855263157897,
+          "y": 0.021929821215177836,
+          "w": 0.31973684210526315,
+          "h": 0.7868421052631579,
+          "note": "face human-annotated",
+          "region": "face"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 12,
+      "end_time": 15,
+      "description": "He leans back slightly and makes a brief, small fist pump with his left hand before clasping both hands together in front of his chest.",
+      "bboxes": [
+        {
+          "frame_time": 13.955665,
+          "x": 0.3053453947368421,
+          "y": 0.44824561068886204,
+          "w": 0.4307565789473684,
+          "h": 0.5368421052631579,
+          "note": "human-annotated",
+          "region": "unknown"
+        },
+        {
+          "frame_time": 13.591478,
+          "x": 0.0640625,
+          "y": 0.648245610688862,
+          "w": 0.21167763157894737,
+          "h": 0.26052631578947366,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 12.87767,
+          "x": 0.37935855263157897,
+          "y": 0.7535087685835989,
+          "w": 0.23536184210526317,
+          "h": 0.24210526315789474,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 4.5,
+      "description": "The subject speaks in a cheerful, mid-to-high pitch with a rising intonation on the phrases \"own mic\" and \"hopefully it works.\" The word \"awesome\" is stressed with higher pitch and volume.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 4.5,
+      "end_time": 9.3,
+      "description": "The speech rate remains moderate and the tone is consistently bright. A brief pause and filler word \"uh\" occurs at 7.9 seconds.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 9.3,
+      "end_time": 12.9,
+      "description": "The pace quickens slightly and the pitch rises on the phrase \"better audio this year,\" conveying excitement. The phrase \"let's hope\" is delivered quickly with a breathy, laughing quality.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 12.9,
+      "end_time": 15,
+      "description": "The phrase \"corrupted somehow\" is delivered with a light chuckle audible in his voice.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15,
+      "description": "The subject is a male with light skin, dark spiky hair, and a short beard and mustache. He is wearing a black t-shirt with a large, colorful graphic on the chest. He is sitting in a red and black gaming chair in what appears to be a home office or living space with tiled floors. To his left is an empty blue and black DXRacer gaming chair. The background includes a doorway leading to another room, a wooden cabinet, a desk, a camera on a tripod, a partially visible green screen, and a cardboard box on the floor.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "High",
+      "score": 0.64,
+      "rationale": "The subject exhibits several key markers of High Extraversion. His communication style is highly expressive, characterized by a consistently broad smile, varied and energetic vocal tones with rising intonation to convey excitement, and the use of large, expansive hand gestures. He actively engages with the camera, a proxy for a social audience, by leaning in and maintaining direct eye contact. This combination of positive emotional expression, social engagement, and high energy level strongly supports the High Extraversion score.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "High",
+      "score": 0.69,
+      "rationale": "A High level of Agreeableness is indicated by the subject's consistently warm and friendly demeanor. Throughout the clip, he maintains a broad, stable smile, which is a primary non-verbal cue for approachability and warmth. His vocal tone is pleasant and cheerful, and he uses laughter and a lighthearted tone even when discussing potential problems ('corrupted somehow'). These behaviors suggest a prosocial orientation aimed at fostering positive rapport and maintaining a harmonious interaction, which are core facets of agreeableness.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Medium",
+      "score": 0.42,
+      "rationale": "The subject's Conscientiousness is assessed as Medium. There is evidence of goal-oriented behavior, as he has invested significant resources ('spent a lot of money') to improve the quality of his work ('better audio this year'), indicating a degree of planning and ambition. However, this is counterbalanced by verbal expressions of uncertainty ('Hopefully it works', 'let's hope'), which suggest a less-than-absolute confidence in his preparation. This blend of purposeful action and expressed ambiguity is consistent with a moderate, rather than high, level of conscientiousness.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "High",
+      "score": 0.68,
+      "rationale": "Despite his positive outward affect, the subject's verbal content reveals a High level of Neuroticism. He repeatedly expresses anxiety about the potential for failure ('Hopefully it works', 'unless that gets corrupted somehow'). By explicitly mentioning the significant financial investment, he links the outcome to a source of potential stress. His breathy, laughing delivery of 'let's hope' can be interpreted as a nervous coping mechanism to diffuse his own worry. This focus on potential negative outcomes and expressed anxiety are hallmark indicators of neuroticism.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "High",
+      "score": 0.77,
+      "rationale": "The subject's High Openness is strongly supported by the context and content of the video. He is actively engaged in a creative pursuit (content creation), evidenced by the home studio environment (gaming chairs, camera, green screen). Furthermore, his excitement about adopting new technology (the microphone) to improve his craft demonstrates a clear curiosity and willingness to embrace new experiences and methods. His dynamic and expressive communication style also aligns with the cognitive flexibility and imagination characteristic of individuals high in Openness.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During 10.6s - 12.0s, the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Low Conscientiousness"
+        },
+        {
+          "id": "B",
+          "text": "High Neuroticism"
+        },
+        {
+          "id": "C",
+          "text": "High Extraversion"
+        },
+        {
+          "id": "D",
+          "text": "High Agreeableness"
+        },
+        {
+          "id": "E",
+          "text": "Low Openness"
+        },
+        {
+          "id": "F",
+          "text": "High Conscientiousness"
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. During 10.6s - 12.0s, the person leans into the camera, their smile widens significantly, and their eyes squint tightly, coinciding with an energetic vocal delivery about 'better audio'. This amplified positive affect and direct engagement with the audience (camera) is a classic indicator of High Extraversion.\n\n- Option A is a text-based distractor. The subject's verbal uncertainty ('let's hope') might be misinterpreted as low conscientiousness, but the core evidence for conscientiousness is his investment and planning, which is discussed at a different time.\n- Option B is a video-based distractor. High Neuroticism is supported by verbal content at other times (e.g., 'unless that gets corrupted somehow' at 12.9s), not by the highly expressive, positive behavior in this specific segment.\n- Option D is a near-miss distractor. The person is smiling, which is related to agreeableness. However, the key feature of this segment is the *intensification* of expression and energy, which is more specific to the energy and social expressiveness facets of extraversion rather than just warmth (agreeableness).\n- Option E is a text-based distractor. The overall context of using new technology for creative work strongly contradicts Low Openness.\n- Option F is a text-based distractor. High Conscientiousness is supported by the mention of spending money for improvement, but this specific energetic display is not the primary evidence for that trait."
+    },
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression occur that is most relevant to their overall expressive style?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[0.0s - 1.0s]"
+        },
+        {
+          "id": "B",
+          "text": "[3.2s - 5.4s]"
+        },
+        {
+          "id": "C",
+          "text": "[10.6s - 12.0s]"
+        },
+        {
+          "id": "D",
+          "text": "[8.5s - 10.6s]"
+        },
+        {
+          "id": "E",
+          "text": "[12.9s - 15.0s]"
+        },
+        {
+          "id": "F",
+          "text": "[5.4s - 8.5s]"
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. The interval from 10.6s to 12.0s contains the most dramatic and rapid change in facial expression. The person leans forward, their existing smile deepens considerably, and their eyes squint tightly, creating a peak moment of expressive intensity. This sharp amplification of positive affect is a key feature of their overall dynamic and expressive style.\n\n- Option A is a video-based distractor. This interval shows the initial action of raising the microphone, which involves motion but not a significant change in the core facial expression, which is already a smile.\n- Option B is a video-based distractor. This interval features hand gestures (a clap), but the facial expression remains a relatively stable smile.\n- Option D is a video-based distractor. This interval involves wide arm gestures, indicating expressive body language, but the facial expression itself does not undergo a notable change.\n- Option E is a video-based distractor. During this time, the expression returns to a normal smile from the intense peak, but the most notable *change* was the ramp-up into that peak.\n- Option F is a video-based distractor. This interval shows the person gesturing with one hand while holding the microphone, with no significant alteration to their facial expression."
+    },
+    {
+      "category": "Temporal-Causal Reasoning",
+      "question": "Consider the sequence of behaviors observed across the video. Which of the following best describes the causal chain linking the person's actions at different moments?",
+      "options": [
+        {
+          "id": "A",
+          "text": "An initial anxiety display (0-5s) causes a compensatory energetic gesture (5-9s), followed by a disclosure of investment (9-12s) and a final goal statement (12-15s)."
+        },
+        {
+          "id": "B",
+          "text": "A technical demonstration (0-5s) is followed by a direct appeal for approval (5-9s), leading to a display of confidence (9-12s) and concluding with satisfaction (12-15s)."
+        },
+        {
+          "id": "C",
+          "text": "A goal statement (0-5s) is intensified by disclosing investment (5-9s), leading to an energetic reaffirmation (9-12s) followed by a tension-releasing anxiety display (12-15s)."
+        },
+        {
+          "id": "D",
+          "text": "Disclosing investment (5-9s) causes low confidence (9-12s), prompting a forced positive affirmation (12-15s) to mask earlier doubts expressed in the video (0-5s)."
+        },
+        {
+          "id": "E",
+          "text": "A statement of past successes (0-5s) is followed by a prediction of future achievement (5-9s), which leads to a confident gesture (9-12s) and ends with a call to action (12-15s)."
+        },
+        {
+          "id": "F",
+          "text": "An energetic goal affirmation (0-5s) is followed by an anxiety display (5-9s), which is then rationalized by disclosing investment (9-12s) before returning to a calm state (12-15s)."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. This option accurately maps the video's narrative arc: 1) He states his goal and hope for the new mic (0-5s). 2) He raises the stakes by mentioning the high cost (5-9s). 3) This leads to a peak of excitement about the potential payoff ('better audio', 9-12s). 4) He immediately diffuses the built-up pressure with a nervous joke about it getting corrupted (12-15s).\n\n- Option A is a video-based distractor with reversed temporal order. The anxiety display occurs late in the video, not at the beginning.\n- Option B is a text-based distractor. It describes a plausible but incorrect sequence of events for a content creator; he does not make a direct appeal for approval or a technical demonstration.\n- Option D is a near-miss distractor. It correctly identifies the elements of investment and doubt but gets the causality and emotional valence wrong. The period from 9-12s is one of high energy, not low confidence.\n- Option E is a text-based distractor. The subject talks about hope for the future, not past successes, and does not issue a call to action.\n- Option F is a video-based distractor that scrambles the temporal order of the real events, placing the anxiety display and investment disclosure at the wrong points in the causal chain."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 14.9s, a region was detected in the video (x=0.403, y=0.454, w=0.142, h=0.158, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A neutral and completely relaxed eyebrow position."
+        },
+        {
+          "id": "B",
+          "text": "The upper torso of the body leaning forward."
+        },
+        {
+          "id": "C",
+          "text": "A broad and stable smile formation on the mouth."
+        },
+        {
+          "id": "D",
+          "text": "The eyes are fully open with no discernible squint."
+        },
+        {
+          "id": "E",
+          "text": "The posture indicating sitting in a gaming chair."
+        },
+        {
+          "id": "F",
+          "text": "A slight squint of the eyes with direct gaze."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. The provided coordinates (x=0.403, y=0.454, w=0.142, h=0.158) at 14.9s precisely frame the subject's mouth. At this moment, his intense expression from the lean-in has subsided, and his face has returned to the broad, stable smile he holds for most of the video.\n\n- Option A is a video-based distractor. While his eyebrows might be neutral, this bounding box is specifically on his mouth, not his eyebrows, which are in a different spatial region.\n- Option B is a video-based distractor. The forward lean occurs earlier, around 11.6s, not at 14.9s. This tests temporal awareness.\n- Option D is a near-miss distractor. According to the human-verified observation data, at this time his eyes are *slightly squinted* ('Eyes narrowed slightly'). Stating they are 'fully open' is a subtle but critical error, based on common AI misinterpretations.\n- Option E is a text-based distractor. This describes the overall scene but is not a specific action or expression that could be localized to a small bounding box on the face.\n- Option F is a video-based distractor. This correctly describes the state of the eyes, but the bounding box is on the mouth, not the eyes. This tests spatial attention."
+    },
+    {
+      "category": "Counterfactual Reasoning",
+      "question": "If the person had NOT exhibited the behavior observed around 12.9s - 15.0s, which of the following personality assessments would be MOST affected?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Extraversion would be rated lower, as the most energetic social engagement is concentrated in this final segment of the video."
+        },
+        {
+          "id": "B",
+          "text": "Conscientiousness would be rated higher, as removing this doubt would leave only evidence of his planning and investment."
+        },
+        {
+          "id": "C",
+          "text": "Neuroticism would shift from High to Medium, as this moment provides key verbal evidence of anxiety about future outcomes."
+        },
+        {
+          "id": "D",
+          "text": "Openness would be rated lower, because this segment contains the main expression of excitement towards using new technology."
+        },
+        {
+          "id": "E",
+          "text": "Agreeableness would be rated lower, since the warm smile and pleasant tone observed in this time segment are crucial for it."
+        },
+        {
+          "id": "F",
+          "text": "Neuroticism would shift from High to Low, because this moment is the main indicator of the trait, reversing the assessment."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. The behavior around 12.9s-15.0s is the person saying 'unless that gets corrupted somehow' with a slight laugh. This is one of the two primary pieces of verbal evidence supporting High Neuroticism, as it's an explicit expression of worry. Removing it would weaken the assessment, likely downgrading it from High to Medium, but not eliminating it entirely due to the other nervous statement ('Hopefully it works').\n\n- Option A is a video-based distractor. The most energetic behavior supporting Extraversion happens earlier (10.6s-12.0s with the lean-in), not in this final segment.\n- Option B is a text-based distractor. While logically plausible, the impact is less direct than on Neuroticism. Furthermore, another expression of doubt ('Hopefully it works') would remain, likely keeping the Conscientiousness score in the Medium range.\n- Option D is a text-based distractor. The behavior in this segment is about worry, not excitement for technology, which is expressed earlier.\n- Option E is a video-based distractor. The warm, agreeable smile is present throughout the entire video; its presence in this segment is not uniquely critical to the Agreeableness assessment.\n- Option F is a near-miss distractor. It correctly identifies the trait (Neuroticism) but overstates the impact. Since there is another piece of evidence for neuroticism earlier in the video, removing this single behavior would not likely cause a complete reversal from High to Low."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator19",
+      "version": 1,
+      "clues_total": 35,
+      "clues_correct": 31,
+      "clues_wrong_corrected": 3,
+      "clues_missing_skipped": 1,
+      "clues_bonus": 0
+    }
+  }
+}

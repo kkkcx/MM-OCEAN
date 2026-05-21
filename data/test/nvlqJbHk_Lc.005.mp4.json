@@ -1,0 +1,571 @@
+{
+  "video_id": "nvlqJbHk_Lc.005.mp4",
+  "video_path": "nvlqJbHk_Lc.005.mp4",
+  "transcription": "The next question is from Solo, \"Are you a legend of Zelda fan?\" I can't really say I am a Legend of Zelda fan, only because, you're going to hate me, I've never played it, ever. I don't think I can recall ever playing that game in my -",
+  "original_scores": {
+    "extraversion": 0.5327102803738318,
+    "agreeableness": 0.5164835164835165,
+    "conscientiousness": 0.4854368932038835,
+    "neuroticism": 0.53125,
+    "openness": 0.5111111111111111
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 3.21,
+      "description": "The subject maintains direct eye contact with the camera. Her eyebrows are in a neutral position, and her facial expression is earnest as she speaks.",
+      "bboxes": [
+        {
+          "frame_time": 0,
+          "x": 0.3689967105263158,
+          "y": 0.14824561068886205,
+          "w": 0.1287828947368421,
+          "h": 0.11842105263157894,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 0,
+          "x": 0.3349506578947368,
+          "y": 0.15350876858359888,
+          "w": 0.1613486842105263,
+          "h": 0.1368421052631579,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 0,
+          "x": 0.3527138157894737,
+          "y": 0.15350876858359888,
+          "w": 0.12730263157894736,
+          "h": 0.2578947368421053,
+          "note": "face human-annotated",
+          "region": "face"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 3.21,
+      "end_time": 4.11,
+      "description": "Her lips purse together briefly.",
+      "bboxes": [
+        {
+          "frame_time": 3.21,
+          "x": 0.3749177631578947,
+          "y": 0.3061403475309673,
+          "w": 0.08585526315789474,
+          "h": 0.10263157894736842,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 4.11,
+      "end_time": 5.91,
+      "description": "Her gaze shifts down and to her left, with her eyelids lowered as she looks at a phone.",
+      "bboxes": [
+        {
+          "frame_time": 4.11,
+          "x": 0.34679276315789476,
+          "y": 0.19035087384675678,
+          "w": 0.13914473684210527,
+          "h": 0.16578947368421051,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 4.11,
+          "x": 0.36455592105263157,
+          "y": 0.22192982121517785,
+          "w": 0.16578947368421054,
+          "h": 0.2736842105263158,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 5.91,
+      "end_time": 12.58,
+      "description": "Her gaze returns to the camera. Her expression remains neutral and conversational. At 10.38, she closes her eyes for a prolonged moment.",
+      "bboxes": [
+        {
+          "frame_time": 5.91,
+          "x": 0.3290296052631579,
+          "y": 0.12456140016254626,
+          "w": 0.1450657894736842,
+          "h": 0.21052631578947367,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 5.91,
+          "x": 0.34679276315789476,
+          "y": 0.14824561068886205,
+          "w": 0.15098684210526317,
+          "h": 0.33157894736842103,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 5.91,
+          "x": 0.3482730263157895,
+          "y": 0.1403508738467568,
+          "w": 0.12286184210526316,
+          "h": 0.21842105263157896,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 12.58,
+      "end_time": 15.35,
+      "description": "A wide smile forms, showing her upper teeth. Her cheeks are raised, and crinkles appear at the outer corners of her eyes as she looks directly at the camera.",
+      "bboxes": [
+        {
+          "frame_time": 12.58,
+          "x": 0.35419407894736843,
+          "y": 0.23508771595201994,
+          "w": 0.10805921052631579,
+          "h": 0.1394736842105263,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 12.58,
+          "x": 0.34679276315789476,
+          "y": 0.15350876858359888,
+          "w": 0.11842105263157895,
+          "h": 0.29210526315789476,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 12.58,
+          "x": 0.3438322368421053,
+          "y": 0.12456140016254626,
+          "w": 0.16430921052631578,
+          "h": 0.1394736842105263,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 3.73,
+      "description": "Sitting upright, the subject makes a small, open-palmed gesture with her right hand to her side.",
+      "bboxes": [
+        {
+          "frame_time": 0,
+          "x": 0.5984375,
+          "y": 0.7798245580572831,
+          "w": 0.1569078947368421,
+          "h": 0.2131578947368421,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 3.73,
+      "end_time": 5.91,
+      "description": "She looks down, holding a pink phone in her hands just below the frame.",
+      "bboxes": [
+        {
+          "frame_time": 3.73,
+          "x": 0.3497532894736842,
+          "y": 0.0798245580572831,
+          "w": 0.14210526315789473,
+          "h": 0.3815789473684211,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 3.73,
+          "x": 0.2964638157894737,
+          "y": 0.8482456106888621,
+          "w": 0.21019736842105263,
+          "h": 0.13157894736842105,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 5.91,
+      "end_time": 12.8,
+      "description": "She lifts her head to face the camera. Her hands remain down and mostly out of frame.",
+      "bboxes": [
+        {
+          "frame_time": 5.91,
+          "x": 0.3349506578947368,
+          "y": 0.07192982121517784,
+          "w": 0.15394736842105264,
+          "h": 0.42894736842105263,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 5.91,
+          "x": 0.2372532894736842,
+          "y": 0.816666663320441,
+          "w": 0.21611842105263157,
+          "h": 0.18157894736842106,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 12.8,
+      "end_time": 15.35,
+      "description": "She raises both hands into the frame, making two thumbs-up gestures while leaning slightly forward.",
+      "bboxes": [
+        {
+          "frame_time": 12.8,
+          "x": 0.2668585526315789,
+          "y": 0.8377192948993883,
+          "w": 0.21611842105263157,
+          "h": 0.15263157894736842,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 12.8,
+          "x": 0.21800986842105263,
+          "y": 0.35350876858359886,
+          "w": 0.31529605263157895,
+          "h": 0.2789473684210526,
+          "note": "pose human-annotated",
+          "region": "torso"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 3.5,
+      "description": "Speech is delivered at a moderate, even pace with a falling intonation at the end of the phrase.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 3.5,
+      "end_time": 9.49,
+      "description": "The pace slows for the phrase \"So, um.\" Speech then resumes a normal pace with a conclusive, falling pitch on \"that's that.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 9.49,
+      "end_time": 12.58,
+      "description": "The phrase \"I've now I've already said that like five times\" is spoken at a faster rate with a slightly amused, conversational tone.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 12.58,
+      "end_time": 15.35,
+      "description": "The subject's voice becomes louder and higher in pitch, with increased energy and upward inflection on the words \"thumbs up\" and \"liked.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.35,
+      "description": "A young woman with long, dark, wavy hair is in an indoor setting. She is wearing a red top under a black leather-style jacket. Behind her and to her left is a decorated Christmas tree. A red Christmas stocking with \"Sam\" on it hangs on the wall to her right. Behind the tree is a large, orange-colored poster featuring Disney characters and the text \"Oh what Fun!\". A pink child's toy is visible in the bottom right corner. The lighting is warm and frontal.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Medium",
+      "score": 0.53,
+      "rationale": "The subject's Extraversion is rated as Medium. There is a clear comfort with social expression, evidenced by producing a Q&A video, maintaining direct eye contact, and using engaging gestures like the final 'thumbs up'. The increase in vocal energy and the broad smile at the end point to sociability. However, this is balanced by a more measured and neutral initial demeanor and vocal tone, which suggests a moderate, rather than consistently high, level of social energy and assertiveness.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Medium",
+      "score": 0.52,
+      "rationale": "The Medium Agreeableness score is supported by a blend of task-focused and affiliative behaviors. While the subject's initial expression is neutral and her communication is direct, she concludes with strong pro-social cues: a wide, genuine Duchenne smile (indicated by crinkling at the eyes) and an encouraging 'thumbs up' gesture. This combination suggests a cooperative and warm disposition that is balanced with a straightforward, non-effusive communication style.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Medium",
+      "score": 0.49,
+      "rationale": "The subject's Conscientiousness level is Medium. On one hand, the structured format of a Q&A, where she refers to a question on her phone, implies a degree of planning and goal-oriented behavior. On the other hand, her delivery has spontaneous elements, such as the amused self-correction about repeating herself, which deviates from a highly rigid or scripted presentation. This balance between preparation and a relaxed, informal execution supports a moderate level of conscientiousness.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Medium",
+      "score": 0.53,
+      "rationale": "A Medium level of Neuroticism is indicated by the subject's generally stable demeanor punctuated by subtle signs of self-consciousness. She maintains composure and steady eye contact for most of the video, suggesting emotional stability. However, the momentary downward gaze while looking at her phone and the brief, amused comment on her own repetitive speech can be seen as minor instances of self-monitoring or slight social anxiety. This mix of overall calm with fleeting moments of self-awareness justifies a mid-range score.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "Medium",
+      "score": 0.51,
+      "rationale": "The Medium Openness score reflects a willingness to engage in new activities balanced by a conventional communication style. The act of creating a video for an audience shows an openness to novel experiences and self-expression, which is further suggested by the aesthetically decorated personal background. However, the content of her speech is straightforward and concrete. The absence of abstract ideas or imaginative language in this clip moderates the rating, placing her squarely in the Medium range for this trait.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During 12.6s - 15.3s, the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Low Openness, due to the very conventional and straightforward communication style displayed."
+        },
+        {
+          "id": "B",
+          "text": "High Conscientiousness, given the structured and well-prepared Q&A video format in general."
+        },
+        {
+          "id": "C",
+          "text": "Medium Agreeableness, reflecting the warm but direct nature of her final response in this segment."
+        },
+        {
+          "id": "D",
+          "text": "Medium Neuroticism, shown by the subtle self-monitoring cues that are present during speaking."
+        },
+        {
+          "id": "E",
+          "text": "Low Agreeableness, because her initial facial expression is characteristically neutral and serious."
+        },
+        {
+          "id": "F",
+          "text": "Medium Extraversion, based on her sociable smile and the energetic pro-social gesture she makes."
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The correct answer is F. During 12.6s - 15.3s, the person displays a wide Duchenne smile, leans forward, makes a 'thumbs up' gesture, and speaks with increased vocal energy. These are classic indicators of social energy and warmth, which are core facets of Extraversion. The personality analysis specifically cites this moment as evidence for sociability, supporting a Medium Extraversion score.\n- Option A is a text-based distractor; while her communication might be straightforward, this specific moment shows expressive social behavior, not a lack of Openness.\n- Option B is a text-based distractor; Conscientiousness relates to the overall video setup, not the specific expressive behavior in this time range.\n- Option C is a near-miss distractor. The behavior also supports Agreeableness, but the combination of increased vocal energy, the smile, and the gesture is a slightly stronger and more direct indicator of social energy (Extraversion) than just warmth (Agreeableness).\n- Option D is a video-based distractor. Evidence for Medium Neuroticism (self-monitoring) comes from an earlier moment (around 9.5s-12.6s), not this final expressive display.\n- Option E is a video-based distractor. Any evidence for lower Agreeableness would come from her neutral expression at the start of the video, not from this highly affiliative gesture at the end."
+    },
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their Neuroticism level?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[0.5s - 1.3s]"
+        },
+        {
+          "id": "B",
+          "text": "[12.6s - 13.4s]"
+        },
+        {
+          "id": "C",
+          "text": "[7.0s - 7.8s]"
+        },
+        {
+          "id": "D",
+          "text": "[10.3s - 11.1s]"
+        },
+        {
+          "id": "E",
+          "text": "[3.2s - 4.0s]"
+        },
+        {
+          "id": "F",
+          "text": "[4.1s - 4.9s]"
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The correct answer is F. The personality analysis for Neuroticism notes 'subtle signs of self-consciousness' and a 'momentary downward gaze' as evidence. This action occurs at 4.1s when she looks down at her phone. The interval [4.1s - 4.9s] captures this brief but significant moment of gaze aversion, a non-verbal cue often associated with self-monitoring or slight social anxiety, which are facets of Neuroticism.\n- Option A is a video-based distractor, representing her initial neutral, direct-gaze expression.\n- Option B is a video-based distractor, capturing the beginning of her broad smile, which relates to Extraversion/Agreeableness, not Neuroticism.\n- Option C is a text-based distractor, a random interval during her speech with no notable expression change.\n- Option D is a video-based distractor, corresponding to when she closes her eyes for a moment, which is a different behavior than the downward gaze.\n- Option E is a near-miss distractor, as it captures the moment just before the critical gaze shift, where she briefly purses her lips."
+    },
+    {
+      "category": "Mixed Emotion Discrimination",
+      "question": "During 12.6s - 15.3s, the person's emotional state is best characterized as which of the following? Consider both verbal and non-verbal cues.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Polite cheerfulness tempered by a subtle hint of self-consciousness."
+        },
+        {
+          "id": "B",
+          "text": "Focused concentration mixed with a feeling of quiet task satisfaction."
+        },
+        {
+          "id": "C",
+          "text": "Nostalgic reflection tempered by a display of gentle, quiet happiness."
+        },
+        {
+          "id": "D",
+          "text": "Hopeful optimism that is mixed with a small hint of social anticipation."
+        },
+        {
+          "id": "E",
+          "text": "Proud accomplishment from answering the question tempered by humility."
+        },
+        {
+          "id": "F",
+          "text": "Genuine amusement mixed with a clear display of sociable warmth."
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The correct answer is F. In this interval, the person displays a Duchenne smile (crinkling at the eyes, raised cheeks), gives a thumbs-up, and speaks with higher vocal energy. This combination strongly suggests a genuine positive emotion ('amusement') coupled with an outward-facing, engaging intent ('sociable warmth'), fitting the context of a friendly sign-off.\n- Option A is a near-miss distractor. While she is cheerful, there are no non-verbal cues for self-consciousness in this specific segment; her expression is confident and open.\n- Option B is a video-based distractor. 'Focused concentration' better describes the earlier segment (e.g., 4.1s-5.9s) when she was looking at her phone to read the question.\n- Option C is a text-based distractor. The content of her speech (about not playing a game) does not support 'nostalgic reflection'.\n- Option D is a text-based distractor. While plausible in a social context, there is no specific evidence for 'hopeful optimism' or 'anticipation' in her expression or speech.\n- Option E is a text-based distractor. Her expression reads as friendly and amused, not as proud or humble in the context of accomplishment."
+    },
+    {
+      "category": "Temporal-Causal Reasoning",
+      "question": "Consider the sequence of behaviors observed across the video. Which of the following best describes the causal chain linking the person's actions at different moments?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A pro-social display of warmth prompts a self-disclosure, which then requires task-monitoring."
+        },
+        {
+          "id": "B",
+          "text": "Task-monitoring reveals an error, leading to frustration, followed by a topic change attempt."
+        },
+        {
+          "id": "C",
+          "text": "Task-monitoring behavior leads to a self-disclosure, followed by a sign of emotional withdrawal."
+        },
+        {
+          "id": "D",
+          "text": "An assertive opening statement is followed by reflective silence and an uncertain conclusion."
+        },
+        {
+          "id": "E",
+          "text": "Self-correction about a repeated phrase causes a shift to a more formal, rigid body posture."
+        },
+        {
+          "id": "F",
+          "text": "Task-monitoring behavior leads to self-disclosure, then a compensatory display of warmth."
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The correct answer is F. This option correctly maps the abstract sequence to the video's events: 1) She looks at her phone (task-monitoring). 2) She admits she has never played the game (self-disclosure). 3) She ends with a very warm, engaging smile and thumbs-up gesture (a compensatory display of warmth, perhaps to soften the 'disappointing' answer and maintain rapport).\n- Option A is a distractor with reversed temporal order. The warmth display happens last, not first.\n- Option B is a video-based distractor that misinterprets the emotions; she shows amusement, not frustration, and does not try to change the topic.\n- Option C is a near-miss distractor. It correctly identifies the first two steps but incorrectly labels the final action as 'emotional withdrawal' when it is in fact an engaging, pro-social display.\n- Option D is a text-based distractor. The behavioral labels ('assertive opening', 'reflective silence', 'uncertain conclusion') do not accurately describe the events in the video.\n- Option E is a video-based distractor that links real events with incorrect causality and outcomes; her posture becomes more engaged and leans forward, not more formal or rigid."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 4.1s, a region was detected in the video (x=0.347, y=0.190, w=0.139, h=0.166, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A neutral and stable positioning of the eyebrows above the person's eyes."
+        },
+        {
+          "id": "B",
+          "text": "A focused facial expression maintained by the person while they are speaking."
+        },
+        {
+          "id": "C",
+          "text": "A broad, genuine smile showing the upper row of teeth to the camera."
+        },
+        {
+          "id": "D",
+          "text": "Both hands being held low and positioned almost entirely out of the frame."
+        },
+        {
+          "id": "E",
+          "text": "The entire head lifting upwards in order to directly face the video camera."
+        },
+        {
+          "id": "F",
+          "text": "A distinct downward shift of gaze with eyelids that are partially lowered."
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The correct answer is F. The specified coordinates at 4.1s precisely frame the person's eyes as she looks down towards her phone. The observation log for [4.1s-5.9s] confirms this action: her sight moves downwards, eyelids lowered. This option accurately describes the action within the bounding box.\n- Option A is a video-based distractor. It describes the eyebrows from a different time ([0.0s-3.2s]) and a different, though adjacent, facial region.\n- Option B is a video-based distractor describing the overall face at the start of the video, not the specific action in the eye region at 4.1s.\n- Option C is a video-based distractor describing the mouth during the smile at the end of the video ([12.6s-15.3s]).\n- Option D is a video-based distractor describing the hands' position at a different location in the frame and at a different time.\n- Option E is a near-miss distractor. This describes the head's movement at 5.9s, immediately after the specified time, and describes an upward motion, which is the opposite of the downward gaze at 4.1s."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "At which time and location does the person make a subtle, illustrative gesture with one hand while beginning their statement?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[12.6s] x=0.35, y=0.24, w=0.11, h=0.14"
+        },
+        {
+          "id": "B",
+          "text": "[12.6s] x=0.34, y=0.12, w=0.16, h=0.14"
+        },
+        {
+          "id": "C",
+          "text": "[5.9s] x=0.33, y=0.12, w=0.15, h=0.21"
+        },
+        {
+          "id": "D",
+          "text": "[0.0s] x=0.60, y=0.78, w=0.16, h=0.21"
+        },
+        {
+          "id": "E",
+          "text": "[3.7s] x=0.30, y=0.85, w=0.21, h=0.13"
+        },
+        {
+          "id": "F",
+          "text": "[12.8s] x=0.22, y=0.35, w=0.32, h=0.28"
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "The correct answer is D. The question asks for a subtle, illustrative hand gesture at the beginning of the statement. The observation log at [0.0s - 3.7s] describes this precisely: An upright subject makes a small, palm-up gesture with her left hand at her side. The provided coordinates and timestamp in option D correspond to this event.\n- Option A points to the mouth region during the smile at the end.\n- Option B points to the eye region during the smile at the end.\n- Option C points to the eye region when she looks back up at the camera.\n- Option E points to her hands holding the phone, which is a different gesture and occurs later.\n- Option F points to her torso as she leans forward at the end of the clip."
+    },
+    {
+      "category": "Counterfactual Reasoning",
+      "question": "If the person had NOT exhibited the behavior observed around 9.5s - 12.6s, which of the following personality assessments would be MOST affected?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Conscientiousness would be assessed as lower, because this behavior shows a commitment to correcting mistakes."
+        },
+        {
+          "id": "B",
+          "text": "Neuroticism might be assessed as lower, as this moment is a primary indicator of emotional stability."
+        },
+        {
+          "id": "C",
+          "text": "Extraversion would be assessed as lower, since the main evidence for her social energy is located elsewhere."
+        },
+        {
+          "id": "D",
+          "text": "Agreeableness would be affected, since this is the moment where she builds the most significant viewer rapport."
+        },
+        {
+          "id": "E",
+          "text": "Openness would be evaluated as higher, given that admitting a mistake is a clear sign of being vulnerable."
+        },
+        {
+          "id": "F",
+          "text": "Conscientiousness might be assessed as higher, as this moment provides key evidence of spontaneity."
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The correct answer is F. The behavior at 9.5s - 12.6s is her amusedly pointing out that she has repeated herself ('I've already said that like five times'). The personality analysis cites this as evidence of 'spontaneous elements' that 'deviates from a highly rigid or scripted presentation,' which tempers her Conscientiousness score downwards to Medium. If this spontaneous moment were absent, her delivery would appear more planned and scripted, thus strengthening the evidence for high Conscientiousness. Therefore, removing it would likely cause the assessment to be higher.\n- Option A is a near-miss distractor. It identifies the correct trait but argues for the wrong direction of change by misinterpreting the spontaneous, amused comment as a highly dutiful correction.\n- Option B is a near-miss distractor. The moment is also linked to Neuroticism (self-monitoring), but the reasoning that it shows 'stability' is a misinterpretation; it's seen as a minor sign of self-consciousness. Removing it would likely lower the Neuroticism score, but the reasoning provided is flawed.\n- Option C is a video-based distractor. It correctly states that evidence for Extraversion comes from elsewhere (the end of the video), but that means removing the 9.5s-12.6s behavior would have little to no effect on the Extraversion assessment.\n- Option D is a text-based distractor. The rapport-building behavior is more strongly associated with the final smile and thumbs-up, not this moment of self-correction.\n- Option E is a text-based distractor that makes a weak, generic link between admitting a mistake and Openness, and incorrectly states the direction of the change."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator13",
+      "version": 1,
+      "clues_total": 24,
+      "clues_correct": 22,
+      "clues_wrong_corrected": 2,
+      "clues_missing_skipped": 0,
+      "clues_bonus": 0
+    }
+  }
+}

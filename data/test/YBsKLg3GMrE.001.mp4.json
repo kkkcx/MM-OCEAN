@@ -1,0 +1,382 @@
+{
+  "video_id": "YBsKLg3GMrE.001.mp4",
+  "video_path": "YBsKLg3GMrE.001.mp4",
+  "transcription": "[inaudible 00:00:32] she's like the one person that I always want to be around, anyway, so ... I mean, it's cool that I get to help her on this journey that's she's on, because I believe in her. I think she's going to do great and wonderful things ...",
+  "original_scores": {
+    "extraversion": 0.4018691588785047,
+    "agreeableness": 0.4725274725274725,
+    "conscientiousness": 0.5048543689320388,
+    "neuroticism": 0.46875,
+    "openness": 0.5888888888888889
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 2,
+      "description": "The subject is smiling widely with his mouth open, looking directly at the camera. His eyebrows are relaxed and slightly raised.",
+      "bboxes": [
+        {
+          "frame_time": 0.714378,
+          "x": 0.5133223684210526,
+          "y": 0.5242105283235249,
+          "w": 0.12286184210526316,
+          "h": 0.12894736842105264,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 2,
+          "x": 0.4644736842105263,
+          "y": 0.3847368441129986,
+          "w": 0.23536184210526317,
+          "h": 0.12368421052631579,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 2,
+      "end_time": 6.8,
+      "description": "The smile fades to a more neutral, thoughtful expression as he speaks. His mouth moves naturally with his words, and his gaze remains fixed on the camera. He blinks at 4.6s.",
+      "bboxes": [
+        {
+          "frame_time": 2,
+          "x": 0.5044407894736842,
+          "y": 0.5978947388498407,
+          "w": 0.14210526315789473,
+          "h": 0.10263157894736842,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 3.862556,
+          "x": 0.4541118421052632,
+          "y": 0.2268421072708933,
+          "w": 0.21463815789473684,
+          "h": 0.5421052631578948,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 3.862556,
+          "x": 0.5103618421052631,
+          "y": 0.6005263177972091,
+          "w": 0.10361842105263158,
+          "h": 0.11315789473684211,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 5.476575,
+          "x": 0.45707236842105264,
+          "y": 0.39526315990247224,
+          "w": 0.2087171052631579,
+          "h": 0.06315789473684211,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 4.87188,
+          "x": 0.45263157894736844,
+          "y": 0.3847368441129986,
+          "w": 0.21907894736842107,
+          "h": 0.09473684210526316,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 6.8,
+      "end_time": 15,
+      "description": "A smile returns and his expression becomes more animated and earnest. His eyebrows raise and lower with speech emphasis, particularly on the words \"journey\" (9.8s), \"believe\" (12.7s), and \"great\" (13.9s). His eyes are wide and engaged.",
+      "bboxes": [
+        {
+          "frame_time": 10.431938,
+          "x": 0.5014802631578947,
+          "y": 0.5742105283235249,
+          "w": 0.13026315789473683,
+          "h": 0.11578947368421053,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 11.841979,
+          "x": 0.45263157894736844,
+          "y": 0.20578947569194592,
+          "w": 0.225,
+          "h": 0.48947368421052634,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 13.317954,
+          "x": 0.5,
+          "y": 0.37421052832352486,
+          "w": 0.1805921052631579,
+          "h": 0.09473684210526316,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 15,
+      "description": "The subject is sitting, framed from the upper chest to the top of his head. He maintains a relatively stable, upright posture throughout the clip.",
+      "bboxes": [
+        {
+          "frame_time": 1.227686,
+          "x": 0.4052631578947368,
+          "y": 0.06894737042878804,
+          "w": 0.29753289473684214,
+          "h": 0.6736842105263158,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 4.40754,
+          "x": 0.2912828947368421,
+          "y": 0.637368423060367,
+          "w": 0.5950657894736843,
+          "h": 0.3605263157894737,
+          "note": "pose human-annotated",
+          "region": "torso"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 8.4,
+      "end_time": 15,
+      "description": "His head nods become more frequent and slightly more pronounced to add emphasis to his statements, especially from 12.5s to 15.0s.",
+      "bboxes": [
+        {
+          "frame_time": 12.534545,
+          "x": 0.4319078947368421,
+          "y": 0.1136842125340512,
+          "w": 0.2368421052631579,
+          "h": 0.6631578947368421,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 2,
+      "description": "The audio begins with the end of a sentence that is partially unintelligible.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 2,
+      "end_time": 8.5,
+      "description": "Speech is at a moderate, conversational pace and volume. There is a slight pause after the word \"so\" at 6.1s.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 8.5,
+      "end_time": 15,
+      "description": "The speaker's tone becomes more enthusiastic. His pitch and volume rise for emphasis on the phrases \"journey that she's on\" (9.5s-11.0s), \"I believe in her\" (12.4s-13.2s), and \"great and wonderful things\" (13.9s-15.0s).",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15,
+      "description": "The subject is a young, light-skinned male with dyed blond hair visible under a grey baseball cap with a patterned brim, worn tilted to his left. He is wearing a blue denim collared shirt over a white t-shirt. The setting is an indoor room with a white wall behind him, illuminated by a purple-blue light source. To his left, an Apple iMac computer is on a desk, its screen displaying a photo of several white puppies on grass. Next to the monitor is a small white pot with succulent plants.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Medium",
+      "score": 0.4,
+      "rationale": "The subject's Extraversion is rated as Medium. He exhibits social engagement through his animated and earnest facial expressions, including smiling and widened eyes. His vocal tone becomes more enthusiastic with rising pitch for emphasis, indicating emotional expressiveness. However, this is balanced by behaviors suggesting a more moderate energy level, such as a relatively stable and composed posture and an averted gaze when gathering his thoughts. This combination of expressive moments with a composed baseline supports a Medium rating.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Medium",
+      "score": 0.47,
+      "rationale": "The subject's Agreeableness is rated as Medium. The verbal content is a strong indicator, as he expresses unambiguous support, belief, and warmth towards another person ('I believe in her. I think she's going to do great and wonderful things'). This prosocial sentiment is reinforced by warm facial cues like smiling. The Medium classification is appropriate as his expression also shifts to a more neutral, pensive state, suggesting his supportive words are delivered with thoughtful consideration rather than purely effusive emotion.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Medium",
+      "score": 0.5,
+      "rationale": "The subject's Conscientiousness is rated as Medium. This is supported by the deliberate nature of his communication. The slight pause at 6.1s and the shift to a more thoughtful expression indicate a moment of careful thought formulation before speaking. Furthermore, his statements are structured to build a supportive argument. His stable, upright posture throughout the clip can be interpreted as a nonverbal cue of self-control and purposefulness. These signs of deliberation are consistent with a Medium level of Conscientiousness.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Medium",
+      "score": 0.47,
+      "rationale": "The subject's Neuroticism is rated as Medium, indicating a good degree of emotional stability. He maintains a composed and stable posture, with no overt signs of anxiety like fidgeting. His speech is clear and moderately paced, and his emotional expressions, while enthusiastic, are modulated and controlled. This overall calmness suggests he is not high in Neuroticism. The occasional averted gaze, however, can be a subtle sign of managing the cognitive load of speaking on camera, reflecting a normal, rather than exceptionally low, level of sensitivity to the situation.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "Medium",
+      "score": 0.59,
+      "rationale": "The subject's Openness is rated as Medium. Cues in his personal style and environment, such as dyed hair and aesthetic purple-blue lighting, suggest an appreciation for self-expression and aesthetics. Verbally, his choice of words like 'journey' and 'great and wonderful things' reflects a capacity for abstract, positive, and forward-looking thought. These indicators of an appreciation for aesthetics and imagination support a score in the Medium range, leaning towards the higher end.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their Medium Conscientiousness level?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[0.0s - 1.5s]"
+        },
+        {
+          "id": "B",
+          "text": "[12.8s - 14.3s]"
+        },
+        {
+          "id": "C",
+          "text": "[8.5s - 10.0s]"
+        },
+        {
+          "id": "D",
+          "text": "[2.0s - 3.5s]"
+        },
+        {
+          "id": "E",
+          "text": "[4.5s - 6.0s]"
+        },
+        {
+          "id": "F",
+          "text": "[6.8s - 8.3s]"
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "The correct answer is D. The personality analysis links the Medium Conscientiousness score to 'a moment of careful thought formulation' which is visually represented by the shift from a smile to a more 'neutral, pensive state'. This transition begins at 2.0s as his smile fades. The interval [2.0s - 3.5s] captures the onset of this key change.\n- Option A is a video-based distractor. This interval shows the initial smile, which is a state, not the specific *change* that indicates deliberation.\n- Option B is a video-based distractor. This interval contains the peak of his enthusiastic expression (wide eyes), which is evidence for Extraversion or Agreeableness, not the thoughtful pause related to Conscientiousness.\n- Option C is a video-based distractor. This is when his vocal tone begins to rise, signaling enthusiasm, which is unrelated to the evidence for Conscientiousness.\n- Option E is a near-miss distractor. This interval falls within the pensive period and includes an eye blink, but the most critical *change* initiating this phase occurs earlier, immediately after 2.0s.\n- Option F is a video-based distractor. This interval is when his smile *reappears*, marking the end of the thoughtful pause, not the beginning of it."
+    },
+    {
+      "category": "Mixed Emotion Discrimination",
+      "question": "During 3.5s - 6.5s, the person's emotional state is best characterized as which of the following? Consider both verbal and non-verbal cues.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Gentle nostalgia combined with a hint of bittersweet feeling."
+        },
+        {
+          "id": "B",
+          "text": "Quiet confidence tempered by a feeling of social obligation."
+        },
+        {
+          "id": "C",
+          "text": "Earnest concern mixed with a touch of personal vulnerability."
+        },
+        {
+          "id": "D",
+          "text": "Reflective warmth mixed with concentrated thought formulation."
+        },
+        {
+          "id": "E",
+          "text": "Pensive contemplation combined with a sense of mild anxiety."
+        },
+        {
+          "id": "F",
+          "text": "Muted amusement tempered by a need for careful phrasing."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "The correct answer is D. In this interval, the person's smile has faded, his expression is neutral and pensive, and his gaze is averted. He is in the middle of talking about someone he cares for. This combination suggests he is actively formulating his supportive thoughts (concentrated thought) while still in a fundamentally positive and warm emotional space regarding the person (reflective warmth).\n- Option A is a text-based distractor. Nostalgia and bittersweetness are plausible emotions when talking about a friend, but there are no specific visual or auditory cues to support this particular interpretation.\n- Option B is a text-based distractor. 'Social obligation' is a speculative internal motive that is not supported by the evidence; his subsequent enthusiastic delivery suggests genuine belief, not obligation.\n- Option C is a text-based distractor. There are no cues for 'concern' (like furrowed brows) or 'vulnerability' (like faltering speech) in his composed, thoughtful expression.\n- Option E is a near-miss distractor. 'Pensive contemplation' is accurate, but 'mild anxiety' is incorrect. His overall stable posture and calm demeanor are evidence against anxiety, pointing to a Medium Neuroticism level.\n- Option F is a video-based distractor. 'Muted amusement' might be incorrectly inferred from the fading of his initial smile, but the dominant impression is one of serious reflection, not humor."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 3.9s, a region was detected in the video (x=0.454, y=0.227, w=0.215, h=0.542, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "An emphatic nodding motion used to add stress to spoken words."
+        },
+        {
+          "id": "B",
+          "text": "A distinct shift of the eyes away from the central camera lens."
+        },
+        {
+          "id": "C",
+          "text": "A warm, open-mouthed smile with the lips visibly held apart."
+        },
+        {
+          "id": "D",
+          "text": "A neutral and thoughtful facial set suggesting concentration."
+        },
+        {
+          "id": "E",
+          "text": "A look of wide-eyed engagement intended to signal sincerity."
+        },
+        {
+          "id": "F",
+          "text": "A steady gaze directed and held firmly toward the left side."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "The correct answer is D. The specified timestamp (3.9s) and bounding box cover the subject's entire face during the period where his expression has shifted to be more neutral and pensive, as he formulates his thoughts. The label 'neutral and thoughtful facial set' accurately describes the content of this specific region at this specific time.\n- Option A is a video-based distractor. The emphatic nodding occurs much later in the video, around 12.5s-15.0s, not at 3.9s.\n- Option B is a video-based distractor. While his gaze does shift leftward around this time, the bounding box is large and covers the entire face, making the overall 'thoughtful facial set' the most prominent feature, not just the eye movement.\n- Option C is a video-based distractor. The open-mouthed smile is present at the very beginning of the video (e.g., at 0.7s), but by 3.9s it has faded.\n- Option E is a video-based distractor. The wide-eyed engagement occurs during his emphatic speech at the end of the video, around 13.3s.\n- Option F is a near-miss distractor. His gaze does shift left, but it is not held 'firmly' or 'steadily'; it is part of a more natural, fluid pattern of looking away to think. The bounding box also covers more than just the eyes."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "Which option correctly identifies the precise time and location of the facial cue that signals the beginning of the subject's more emphatic and animated delivery?",
+      "options": [
+        {
+          "id": "A",
+          "text": "At 3.9s, within the region (x=0.454, y=0.227, w=0.215, h=0.542)."
+        },
+        {
+          "id": "B",
+          "text": "At 13.3s, within the region (x=0.500, y=0.374, w=0.181, h=0.095)."
+        },
+        {
+          "id": "C",
+          "text": "At 10.4s, within the region (x=0.501, y=0.574, w=0.130, h=0.116)."
+        },
+        {
+          "id": "D",
+          "text": "At 0.7s, within the region (x=0.513, y=0.524, w=0.123, h=0.129)."
+        },
+        {
+          "id": "E",
+          "text": "At 4.9s, within the region (x=0.453, y=0.385, w=0.219, h=0.095)."
+        },
+        {
+          "id": "F",
+          "text": "At 12.5s, within the region (x=0.432, y=0.114, w=0.237, h=0.663)."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. The 'emphatic and animated delivery' phase begins around 6.8s. The reappearance of his smile is a key facial cue signaling this shift from pensive to expressive. The timestamp 10.4s falls squarely within this phase, and the bounding box correctly localizes his mouth, which is smiling again at this point.\n- Option A is a video-based distractor. This time and location correspond to his neutral, pensive expression, which is the opposite of the target behavior.\n- Option B is a near-miss distractor. This corresponds to his wide-eyed expression, which is part of the emphatic delivery, but it represents the peak of the expression rather than the cue signaling its beginning.\n- Option D is a video-based distractor. This is the smile at the very beginning of the clip, before the pensive phase, not the one that marks the start of the final emphatic section.\n- Option E is a video-based distractor. This time and location correspond to an eye blink during the pensive phase, which is unrelated to the animated delivery.\n- Option F is a video-based distractor. This corresponds to his head nodding, which is part of the emphatic delivery, but the return of the smile on his face is the earlier and more primary cue that the shift in tone is starting."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator09",
+      "version": 1,
+      "clues_total": 21,
+      "clues_correct": 13,
+      "clues_wrong_corrected": 4,
+      "clues_missing_skipped": 4,
+      "clues_bonus": 0
+    }
+  }
+}

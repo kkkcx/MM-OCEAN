@@ -1,0 +1,458 @@
+{
+  "video_id": "PVm7Om88BSw.002.mp4",
+  "video_path": "PVm7Om88BSw.002.mp4",
+  "transcription": "Wonderful, simple product. A lot of people have asked, too. Next question is how many people in a class? That was a tricky one for us at the beginning because we didn't want to make it too many. Not too little obviously, so we can get a-",
+  "original_scores": {
+    "extraversion": 0.2336448598130841,
+    "agreeableness": 0.5494505494505494,
+    "conscientiousness": 0.7572815533980582,
+    "neuroticism": 0.35416666666666663,
+    "openness": 0.2777777777777778
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 2.7,
+      "description": "Gaze is directed at the camera. Eyebrows are in a neutral position. Mouth moves naturally with speech.",
+      "bboxes": [
+        {
+          "frame_time": 0.713359,
+          "x": 0.4474506578947368,
+          "y": 0.2798245580572831,
+          "w": 0.2131578947368421,
+          "h": 0.16842105263157894,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 1.475479,
+          "x": 0.4888980263157895,
+          "y": 0.25877192647833575,
+          "w": 0.17319078947368421,
+          "h": 0.12105263157894737,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 2.534269,
+          "x": 0.4607730263157895,
+          "y": 0.5219298212151778,
+          "w": 0.1317434210526316,
+          "h": 0.0868421052631579,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 2.7,
+      "end_time": 4.4,
+      "description": "Gaze shifts down and to his left, then returns to the camera. Eyebrows lower slightly.",
+      "bboxes": [
+        {
+          "frame_time": 4.127087,
+          "x": 0.42672697368421053,
+          "y": 0.35350876858359886,
+          "w": 0.2205592105263158,
+          "h": 0.11842105263157894,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 3.987507,
+          "x": 0.4385690789473684,
+          "y": 0.2850877159520199,
+          "w": 0.18355263157894738,
+          "h": 0.12631578947368421,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 4.4,
+      "end_time": 7.3,
+      "description": "Eyebrows raise slightly as he speaks. He blinks and his lips press together briefly.",
+      "bboxes": [
+        {
+          "frame_time": 5.832527,
+          "x": 0.4252467105263158,
+          "y": 0.316666663320441,
+          "w": 0.23980263157894738,
+          "h": 0.11052631578947368,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 6.676099,
+          "x": 0.4430098684210526,
+          "y": 0.28771929489938836,
+          "w": 0.19391447368421053,
+          "h": 0.29210526315789476,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 7.3,
+      "end_time": 15,
+      "description": "Maintains eye contact with the camera. His brow furrows slightly as he speaks, then his eyebrows raise slightly on the phrase \"too many\".",
+      "bboxes": [
+        {
+          "frame_time": 8.275196,
+          "x": 0.4341282894736842,
+          "y": 0.2903508738467568,
+          "w": 0.18207236842105262,
+          "h": 0.10526315789473684,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 8.275203,
+          "x": 0.4430098684210526,
+          "y": 0.19824561068886204,
+          "w": 0.18207236842105262,
+          "h": 0.10526315789473684,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 6.8,
+      "description": "Sits upright, facing the camera. His head is mostly still with minor movements synchronized with speech. His shoulders are relaxed and his hands are out of frame.",
+      "bboxes": [
+        {
+          "frame_time": 3.693357,
+          "x": 0.41488486842105265,
+          "y": 0.2429824527941252,
+          "w": 0.21907894736842107,
+          "h": 0.4368421052631579,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 3.693357,
+          "x": 0.44449013157894735,
+          "y": 0.21140350542570416,
+          "w": 0.2087171052631579,
+          "h": 0.3868421052631579,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 3.693357,
+          "x": 0.2535361842105263,
+          "y": 0.5324561370046516,
+          "w": 0.5743421052631579,
+          "h": 0.3131578947368421,
+          "note": "pose human-annotated",
+          "region": "shoulders"
+        },
+        {
+          "frame_time": 3.693357,
+          "x": 0.1484375,
+          "y": 0.8587719264783358,
+          "w": 0.7208881578947368,
+          "h": 0.1368421052631579,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 7.5,
+      "end_time": 13.8,
+      "description": "Remains seated and relatively still, with small, natural head movements.",
+      "bboxes": [
+        {
+          "frame_time": 8.762034,
+          "x": 0.23133223684210527,
+          "y": 0.6140350843730725,
+          "w": 0.5787828947368421,
+          "h": 0.3473684210526316,
+          "note": "pose human-annotated",
+          "region": "torso"
+        },
+        {
+          "frame_time": 8.762034,
+          "x": 0.43116776315789473,
+          "y": 0.1403508738467568,
+          "w": 0.2042763157894737,
+          "h": 0.45526315789473687,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 13.8,
+      "end_time": 15,
+      "description": "Raises his right hand, palm up, into the bottom right of the frame in an illustrative gesture.",
+      "bboxes": [
+        {
+          "frame_time": 14.632977,
+          "x": 0.024095394736842097,
+          "y": 0.7377192948993884,
+          "w": 0.18355263157894738,
+          "h": 0.23157894736842105,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 1.2,
+      "description": "Speaks at a moderate pace with a falling intonation on the final word, \"product\".",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 1.2,
+      "end_time": 2.3,
+      "description": "A pause of approximately 1.1 seconds.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 2.3,
+      "end_time": 6.5,
+      "description": "Continues speaking at a moderate pace. A brief filler \"um\" is heard. The pitch rises slightly at the end of the phrase \"in a class?\".",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 7.9,
+      "end_time": 15,
+      "description": "Speech rate remains moderate and the volume is consistent. The words \"tricky\" and \"beginning\" receive slightly more stress. The audio cuts off mid-sentence.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15,
+      "description": "The subject is a bald, fair-skinned, middle-aged man. He is wearing a light blue collared shirt open over a dark t-shirt, with a silver chain necklace visible. The setting is indoors, appearing to be a living room. In the background, a fireplace mantel is visible with decorative items including string lights and plants. To the man's right (viewer's left), there is a framed picture, a djembe drum, and more plants. To his left (viewer's right), a large potted plant is visible. The lighting is soft and appears to originate from the front.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 14.506505,
+      "end_time": 15.506505,
+      "description": "The string of lights behind the subject is on",
+      "bboxes": [
+        {
+          "frame_time": 15.006505,
+          "x": 0.5362664473684211,
+          "y": 0.011403505425704154,
+          "w": 0.42335526315789473,
+          "h": 0.14210526315789473,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Low",
+      "score": 0.23,
+      "rationale": "The subject's score indicates Low Extraversion. This is strongly supported by a consistent pattern of gaze aversion throughout the video; he is noted to look down, to the side, and up and away, but consistently avoids direct eye contact with the camera. This behavior is a classic indicator of introversion or a preference for internal processing over external social engagement. Additionally, his physical demeanor is characterized by stillness, with minimal head movement and a relaxed, contained posture. His vocal delivery is moderate in pace and consistent in volume, lacking the energetic, dynamic modulation often seen in highly extraverted individuals. This combination of averted gaze, physical reserve, and measured speech points to a more introverted personality.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Medium",
+      "score": 0.55,
+      "rationale": "The subject scores in the Medium range for Agreeableness. His behavior shows a baseline of cooperation for the task at hand; he is addressing audience questions directly and has a relaxed, non-confrontational posture with relaxed shoulders. His facial expressions are largely neutral, moving naturally with speech but not displaying overt warmth (e.g., smiling) or antagonism. This balanced, task-focused demeanor, which is neither overly effusive nor disagreeable, aligns well with a moderate level of Agreeableness.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "High",
+      "score": 0.76,
+      "rationale": "A High Conscientiousness score is well-supported by the subject's methodical and deliberate communication style. He is systematically answering a question, and his language reveals a thoughtful problem-solving process ('That was a tricky one for us at the beginning because...'). His moderate speech pace and consistent volume suggest careful thought before speaking. Furthermore, his periods of looking away appear to be moments of cognitive recall and thought formulation rather than just social avoidance, a behavior consistent with a diligent individual striving for an accurate and well-considered response. His stable, upright posture also reflects a sense of self-control and focus on the task.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Low",
+      "score": 0.35,
+      "rationale": "The subject's Low Neuroticism is evidenced by a pervasive sense of calm and emotional stability. His body is visibly relaxed, with specific cues noting relaxed shoulders and a generally still posture, free from any anxious fidgeting or tension. His vocal delivery is steady in both pace and volume, even when discussing a 'tricky' topic, showing no signs of stress or anxiety. Facial expressions are controlled and task-relevant, without indicators of worry like a persistently furrowed brow. This overall composure strongly suggests a low level of neuroticism.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "Low",
+      "score": 0.28,
+      "rationale": "The subject's behavior aligns with a Low score on Openness. His communication is focused on a very concrete and practical matter: the number of people in a class. His language is straightforward ('Wonderful, simple product') and his explanation is grounded in practical constraints rather than abstract or imaginative ideas. His physical expressions are contained and functional, including a conventional illustrative hand gesture towards the end. This preference for the practical, concrete, and straightforward over the abstract or novel is a hallmark of lower openness to experience.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During 7.3s - 15.0s, the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "High Extraversion, indicated by an engaging and energetic communication style."
+        },
+        {
+          "id": "B",
+          "text": "Low Agreeableness, suggested by a dismissive and uncooperative demeanor."
+        },
+        {
+          "id": "C",
+          "text": "Low Extraversion, evidenced by a pattern of consistent gaze aversion."
+        },
+        {
+          "id": "D",
+          "text": "High Conscientiousness, shown by his methodical problem-solving language."
+        },
+        {
+          "id": "E",
+          "text": "Low Neuroticism, demonstrated through his overall calm and stable posture."
+        },
+        {
+          "id": "F",
+          "text": "Low Openness, reflected in his focus on concrete, practical information."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. During 7.3s - 15.0s, the person looks up and to his left, consistently avoiding eye contact with the camera. This gaze aversion is a classic and primary indicator of Low Extraversion (introversion).\n\n- Option A is a near-miss distractor. It correctly identifies the dimension (Extraversion) but gets the direction wrong; the behavior is the opposite of engaging.\n- Option B is a text-based distractor. Interpreting gaze aversion as uncooperative is a plausible shortcut, but his overall demeanor is helpful, not disagreeable.\n- Option D is a video-based distractor. The verbal content in this period does support High Conscientiousness, but the most direct and prominent *visual behavior* is the gaze aversion, which maps more strongly to Extraversion.\n- Option E is a video-based distractor. His calm posture is visible here and does support Low Neuroticism, but it's a general state throughout the video, whereas the gaze shift is a specific action in this segment.\n- Option F is a text-based distractor. Low Openness is supported by the practical topic, but not by the specific visual behavior of looking away."
+    },
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their High Conscientiousness level?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[0.5s - 1.8s]"
+        },
+        {
+          "id": "B",
+          "text": "[13.5s - 14.8s]"
+        },
+        {
+          "id": "C",
+          "text": "[2.7s - 4.0s]"
+        },
+        {
+          "id": "D",
+          "text": "[7.5s - 8.8s]"
+        },
+        {
+          "id": "E",
+          "text": "[4.8s - 6.1s]"
+        },
+        {
+          "id": "F",
+          "text": "[10.2s - 11.5s]"
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "The correct answer is C. During the interval [2.7s - 4.0s], the person's eyes shift down and to the left and his eyebrows lower slightly. This combination is a classic non-verbal cue for cognitive recall or thought formulation, which directly supports the methodical and thoughtful nature of High Conscientiousness.\n\n- Option A is a video-based distractor capturing a moment of neutral speech.\n- Option B is a video-based distractor corresponding to the initiation of his hand gesture, which is more related to Openness (conventional gesture) or Extraversion (communication style).\n- Option D is a near-miss distractor. In this interval, he looks up and away, another thinking-related expression. However, the initial, more pronounced shift for recall happens in interval C.\n- Option E is a video-based distractor where his eyebrows raise slightly during speech, a common conversational signal rather than a specific sign of conscientiousness.\n- Option F is a video-based distractor capturing another moment of steady speech with minimal facial change."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 8.8s, a region was detected in the video (x=0.231, y=0.614, w=0.579, h=0.347, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Eyebrows held in a neutral and completely relaxed state."
+        },
+        {
+          "id": "B",
+          "text": "An upright head position oriented generally to the front."
+        },
+        {
+          "id": "C",
+          "text": "A still and stable torso posture, indicating composure."
+        },
+        {
+          "id": "D",
+          "text": "Natural lip articulation that is synchronized with speech."
+        },
+        {
+          "id": "E",
+          "text": "Shoulders are visibly relaxed, showing a lack of tension."
+        },
+        {
+          "id": "F",
+          "text": "A slow and deliberate nodding motion for added emphasis."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. The provided bounding box coordinates at 8.8s specifically encompass the person's torso. The observation log for this period confirms that his torso remains still and stable, which is a key indicator of his calm demeanor (Low Neuroticism).\n\n- Option A is a video-based distractor. While his eyebrows may be relaxed, they are located in a different spatial region (the head/face), not the torso.\n- Option B is a video-based distractor. The head is also in a different region, outside the specified bounding box.\n- Option D is a video-based distractor. The lips are moving with speech, but this occurs in the facial region, not the torso region defined by the coordinates.\n- Option E is a near-miss distractor. The shoulders are adjacent to the torso and are also relaxed, but the bounding box is primarily focused on the torso itself, not the shoulders.\n- Option F is a text-based distractor. This describes a behavior ('slow nodding') that does not actually occur in the video, based on the negative evidence provided."
+    },
+    {
+      "category": "Counterfactual Reasoning",
+      "question": "If the person had NOT exhibited the behavior observed around 7.3s - 15.0s, which of the following personality assessments would be MOST affected?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Neuroticism would be assessed as higher, because his stable posture in this segment is the primary evidence for his overall emotional stability."
+        },
+        {
+          "id": "B",
+          "text": "Conscientiousness would be rated lower, as this segment provides the main evidence of his methodical and thoughtful communication style."
+        },
+        {
+          "id": "C",
+          "text": "Extraversion would be assessed as higher, since this period contains the most prominent visual evidence of gaze aversion supporting introversion."
+        },
+        {
+          "id": "D",
+          "text": "Agreeableness would be judged as higher, because the specific actions during this time could otherwise be viewed as being uncooperative."
+        },
+        {
+          "id": "E",
+          "text": "Extraversion would be assessed as lower, because removing this behavior would make his overall demeanor appear even more reserved and withdrawn."
+        },
+        {
+          "id": "F",
+          "text": "Openness would be rated higher, because the behavior here is the key indicator of his preference for concrete, practical communication."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. The behavior in this segment is a clear instance of looking up and away from the camera, which is the strongest visual evidence supporting the Low Extraversion (introversion) assessment. If this key evidence were removed, the assessment would be significantly weakened, and his score would likely shift higher (towards medium).\n\n- Option A is a video-based distractor. While his stable posture in this segment supports Low Neuroticism, this posture is consistent throughout the entire video, so removing this one instance would have a minor effect.\n- Option B is a text-based distractor. His methodical style is also evidenced by his moderate speech pace and deliberate language elsewhere, so the Conscientiousness score is not solely dependent on this segment.\n- Option D is a text-based distractor. The Agreeableness score is based on his overall cooperative frame, not the interpretation of this specific gaze shift.\n- Option E is a near-miss distractor. It correctly identifies Extraversion as the affected trait but states the wrong direction of change. Removing a sign of introversion would make him seem *less* introverted (higher Extraversion), not more.\n- Option F is a video-based distractor. The Low Openness assessment is primarily based on his practical verbal content and conventional gesture, not the gaze aversion itself."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [
+      {
+        "check": "A",
+        "q_idx": 1,
+        "issue": "The rationale for High Conscientiousness explicitly cites the subject's language ('That was a tricky one for us...') as evidence of a thoughtful problem-solving process. This phrase begins at 7.9s. The non-verbal behavior of looking away for cognitive recall that accompanies this specific phrase (captured in option D: [7.5s - 8.8s]) is therefore more directly relevant to the provided rationale than the behavior in option C.",
+        "action": "Changed correct answer from 'C' to 'D'."
+      }
+    ],
+    "corrections": {
+      "mcq_questions[1].correct_answer": "D"
+    },
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator06",
+      "version": 1,
+      "clues_total": 26,
+      "clues_correct": 18,
+      "clues_wrong_corrected": 3,
+      "clues_missing_skipped": 4,
+      "clues_bonus": 1
+    }
+  }
+}

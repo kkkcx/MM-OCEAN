@@ -1,0 +1,490 @@
+{
+  "video_id": "2NNYN1ZCJhw.001.mp4",
+  "video_path": "2NNYN1ZCJhw.001.mp4",
+  "transcription": "Ken did not want me to leave his side. If Ken came in and played, he asked for me. He wanted to know where I was working. He would talk to my managers. He would get me pulled from my section. This guy took really good care of me. Not only did he take care of-",
+  "original_scores": {
+    "extraversion": 0.4579439252336449,
+    "agreeableness": 0.3736263736263736,
+    "conscientiousness": 0.5533980582524272,
+    "neuroticism": 0.5,
+    "openness": 0.6333333333333333
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 3.1,
+      "description": "Gaze is directed at the camera. Eyebrows are slightly raised, and eyes are open wide. The mouth moves expressively with speech, with the corners slightly upturned.",
+      "bboxes": [
+        {
+          "frame_time": 2.257964,
+          "x": 0.39120065789473685,
+          "y": 0.30087718963623045,
+          "w": 0.20575657894736843,
+          "h": 0.20789473684210527,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 2.257964,
+          "x": 0.4104440789473684,
+          "y": 0.29561403174149364,
+          "w": 0.17171052631578948,
+          "h": 0.14210526315789473,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 2.257964,
+          "x": 0.4222861842105263,
+          "y": 0.36140350542570415,
+          "w": 0.13766447368421053,
+          "h": 0.0868421052631579,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 2.665855,
+          "x": 0.4208059210526316,
+          "y": 0.46403508437307256,
+          "w": 0.14210526315789473,
+          "h": 0.13421052631578947,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 3.1,
+      "end_time": 13,
+      "description": "At 3.1 seconds, the eyes widen further and the eyebrows raise higher. This expression is held while the subject continues to speak and maintain direct eye contact with the camera.",
+      "bboxes": [
+        {
+          "frame_time": 3.192281,
+          "x": 0.34087171052631576,
+          "y": 0.27192982121517784,
+          "w": 0.24868421052631579,
+          "h": 0.4026315789473684,
+          "note": "human-annotated",
+          "region": "unknown"
+        },
+        {
+          "frame_time": 3.175718,
+          "x": 0.41932565789473686,
+          "y": 0.36929824226780944,
+          "w": 0.12434210526315789,
+          "h": 0.09473684210526316,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 4.41329,
+          "x": 0.3941611842105263,
+          "y": 0.29561403174149364,
+          "w": 0.15986842105263158,
+          "h": 0.09210526315789473,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 8.501422,
+          "x": 0.3971217105263158,
+          "y": 0.30877192647833573,
+          "w": 0.1924342105263158,
+          "h": 0.29210526315789476,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 13,
+      "end_time": 15,
+      "description": "The mouth forms a distinct smile as the eyebrows remain raised. At 14.1 seconds, the gaze briefly shifts up and to the subject's left before returning to the camera.",
+      "bboxes": [
+        {
+          "frame_time": 13.125331,
+          "x": 0.3926809210526316,
+          "y": 0.3587719264783357,
+          "w": 0.15838815789473684,
+          "h": 0.2657894736842105,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 13.649761,
+          "x": 0.40008223684210525,
+          "y": 0.29561403174149364,
+          "w": 0.1613486842105263,
+          "h": 0.07894736842105263,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 14.135656,
+          "x": 0.3852796052631579,
+          "y": 0.2692982422678094,
+          "w": 0.1998355263157895,
+          "h": 0.1736842105263158,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 13.329276,
+          "x": 0.40452302631578946,
+          "y": 0.32456140016254625,
+          "w": 0.1613486842105263,
+          "h": 0.1368421052631579,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 1.2,
+      "description": "The subject is sitting upright. Both hands are raised to approximately chest level with palms open and facing forward, making symmetrical gestures.",
+      "bboxes": [
+        {
+          "frame_time": 0.087405,
+          "x": 0.2668585526315789,
+          "y": 0.5745614001625463,
+          "w": 0.4588815789473684,
+          "h": 0.4236842105263158,
+          "note": "human-annotated",
+          "region": "unknown"
+        },
+        {
+          "frame_time": 0.422457,
+          "x": 0.055180921052631574,
+          "y": 0.6692982422678094,
+          "w": 0.815625,
+          "h": 0.32894736842105265,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 1.2,
+      "end_time": 8,
+      "description": "The hands are lowered out of the frame. The subject remains seated with minimal upper body or head movement.",
+      "bboxes": [
+        {
+          "frame_time": 6.132923,
+          "x": 0.20172697368421053,
+          "y": 0.7640350843730725,
+          "w": 0.5950657894736843,
+          "h": 0.23421052631578948,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 6.132923,
+          "x": 0.2757401315789474,
+          "y": 0.6271929791099147,
+          "w": 0.478125,
+          "h": 0.37105263157894736,
+          "note": "pose human-annotated",
+          "region": "torso"
+        },
+        {
+          "frame_time": 4.836415,
+          "x": 0.36751644736842104,
+          "y": 0.23771929489938837,
+          "w": 0.253125,
+          "h": 0.5052631578947369,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 8,
+      "end_time": 9.1,
+      "description": "The subject's right hand briefly enters the frame from the bottom and makes a small, sweeping gesture to the right.",
+      "bboxes": [
+        {
+          "frame_time": 8.08497,
+          "x": 0.20172697368421053,
+          "y": 0.7377192948993884,
+          "w": 0.2575657894736842,
+          "h": 0.26052631578947366,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 9.1,
+      "end_time": 14,
+      "description": "The subject's hands remain out of the frame. The head and torso are mostly still.",
+      "bboxes": [
+        {
+          "frame_time": 9.439749,
+          "x": 0.006332236842105254,
+          "y": 0.6692982422678094,
+          "w": 0.36710526315789477,
+          "h": 0.3263157894736842,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 9.553788,
+          "x": 0.3201480263157895,
+          "y": 0.20087718963623047,
+          "w": 0.4011513157894737,
+          "h": 0.5105263157894737,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 14,
+      "end_time": 15,
+      "description": "The subject's head tilts slightly to her left.",
+      "bboxes": [
+        {
+          "frame_time": 14.407272,
+          "x": 0.35863486842105263,
+          "y": 0.23508771595201994,
+          "w": 0.2575657894736842,
+          "h": 0.39210526315789473,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 15,
+      "description": "The speech rate is moderate and consistent throughout the clip. The pitch is in the mid-to-high range with expressive, varied intonation. There is noticeable vocal stress and a slight pitch rise on the words \"Ken\" (0.4s), \"played\" (4.5s), and \"managers\" (8.8s). A more melodic, higher-pitched contour is used for the phrase \"really good care of me\" (13.0s-13.9s).",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15,
+      "description": "The subject is a woman with fair skin, long dark brown hair, and visible metal braces on her upper teeth. She is wearing a white knitted cap with two brown buttons visible on the right side, dark purple lipstick, and a dark grey t-shirt with a partial word in a gold-colored font (\"...luti...\") visible. The setting is an indoor room with light-colored walls and bright, even lighting. Behind her and to her left is a large, dark grey rectangular sign with inspirational phrases in white text. To her right are several pillows (dark purple, pink, and fluffy white) on a piece of furniture. A wooden shelf with a silver decorative object is visible on the far right of the frame.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 3.535201,
+      "end_time": 4.535201,
+      "description": "The subject has light brown pupils, a high eyebrow arch, and a straight nose bridge. He is obviously a foreign friend.",
+      "bboxes": [
+        {
+          "frame_time": 4.035201,
+          "x": 0.4015625,
+          "y": 0.2850877159520199,
+          "w": 0.18355263157894738,
+          "h": 0.22894736842105262,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Medium",
+      "score": 0.46,
+      "rationale": "The subject's Extraversion is rated as Medium. She exhibits sociability through direct camera engagement and expressive facial gestures (widened eyes, raised eyebrows). Her varied and melodic vocal intonation also suggests a capacity for social expressiveness. However, these extraverted tendencies are balanced by a moderate speech rate and relatively contained hand gestures, which are often small and brief. This combination of social engagement with controlled physical energy supports a mid-range score, indicating someone who is expressive but not overwhelmingly energetic or dominant.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Low",
+      "score": 0.37,
+      "rationale": "The subject's Agreeableness is rated as Low. While the content of her story is positive and appreciative ('This guy took really good care of me'), her communication style lacks strong markers of high agreeableness, such as deference or overt warmth. Her narrative is direct and factual, recounting another person's demanding behavior without expressing discomfort or seeking social harmony. The sustained, direct eye contact further projects confidence rather than accommodation. This straightforward and self-referenced storytelling style, absent of typical people-pleasing cues, is consistent with a lower level of agreeableness.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Medium",
+      "score": 0.55,
+      "rationale": "The subject's Conscientiousness is rated as Medium. She demonstrates orderliness through her structured and coherent narrative, which follows a clear logical progression. Her upright posture and consistent, controlled speech rate suggest a degree of self-discipline. However, the clip lacks strong evidence for either high conscientiousness (e.g., meticulousness, exceptional organization) or low conscientiousness (e.g., disorganization, impulsivity). This balanced presentation of being organized and articulate in her communication supports a medium score.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Medium",
+      "score": 0.5,
+      "rationale": "The subject's Neuroticism is rated as Medium. She displays a notable lack of anxiety indicators; her posture is stable, her gaze is steady, and her speech is fluent without nervous tics or hesitations, which argues against high neuroticism. However, her high degree of emotional expressiveness—seen in her animated facial expressions and melodically varied vocal tone—indicates a strong capacity for emotional responsiveness. This tendency to readily express emotion, balanced by an otherwise calm and stable demeanor, points to a medium level of neuroticism.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "High",
+      "score": 0.63,
+      "rationale": "The subject's Openness is rated as High. This is strongly supported by her creative and artistic communication style. Her speech is not merely functional but highly expressive, using a 'melodic' and varied intonation that turns her story into a performance. This imaginative approach to self-expression is a key indicator of openness. Additionally, her unique personal aesthetic (beanie, dark lipstick, braces) and the presence of a motivational sign in her background suggest an interest in abstract ideas and unconventional self-expression, further reinforcing a high score in this trait.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During 0.0s - 3.1s, the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "High Extraversion, reflecting outward social energy."
+        },
+        {
+          "id": "B",
+          "text": "Low Agreeableness, reflecting a focus on own needs."
+        },
+        {
+          "id": "C",
+          "text": "High Conscientiousness, reflecting organized thought."
+        },
+        {
+          "id": "D",
+          "text": "Low Neuroticism, reflecting emotional stability shown."
+        },
+        {
+          "id": "E",
+          "text": "Medium Conscientiousness, reflecting structured talk."
+        },
+        {
+          "id": "F",
+          "text": "High Openness, reflecting creative self-expression."
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The correct answer is F. During 0.0s - 3.1s, the person makes a large, symmetrical, performative hand gesture while widening her eyes. The personality analysis specifically links this 'creative and artistic communication style' and 'imaginative approach to self-expression' to High Openness. The gesture is less about social energy (Extraversion) and more about the stylistic, performative way she chooses to tell her story.\n- Option A is a near-miss distractor. The behavior is expressive and could be seen as extraverted, but the performative and artistic quality is a stronger indicator for Openness, which is rated High, whereas Extraversion is rated Medium.\n- Option B is a video-based distractor. The Low Agreeableness assessment is based on the entire narrative's directness and sustained eye contact, not specifically the opening gesture.\n- Option C is a text-based distractor. An assertive opening might plausibly be linked to conscientiousness, but the visual evidence points towards performative expression rather than organization.\n- Option D is a text-based distractor. While the person appears confident, which could suggest low neuroticism, the highly expressive gesture is more directly related to her communicative style (Openness) than her emotional stability.\n- Option E is a video-based distractor. The Medium Conscientiousness rating is supported by the overall coherent narrative structure, not by the specific opening gesture."
+    },
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their High Openness level?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[0.3s - 0.6s]"
+        },
+        {
+          "id": "B",
+          "text": "[3.1s - 3.4s]"
+        },
+        {
+          "id": "C",
+          "text": "[4.3s - 4.6s]"
+        },
+        {
+          "id": "D",
+          "text": "[8.7s - 9.0s]"
+        },
+        {
+          "id": "E",
+          "text": "[12.9s - 13.2s]"
+        },
+        {
+          "id": "F",
+          "text": "[14.0s - 14.3s]"
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The correct answer is F. At 14.1s, the observation log notes a subtle but significant micro-expression: gaze briefly shifts up and to her left. This brief break in direct eye contact suggests a moment of internal reflection or memory access, which is part of the performative and thoughtful storytelling style that underpins the High Openness rating.\n- Option A is a video-based distractor. This interval is at the very beginning of her speech, where her expression starts to form, but it's not the most distinct change.\n- Option B is a video-based distractor. This marks the moment her eyes widen further and eyebrows raise, which is a significant change, but it is part of a sustained expression rather than a momentary micro-expression like the gaze shift.\n- Option C is a near-miss distractor. Around this time she emphasizes the word 'played' vocally, but there is no corresponding notable *change* in her facial expression, which remains constant.\n- Option D is a near-miss distractor. Similar to C, she places vocal stress on the word 'managers' around this time, but her facial expression does not undergo a distinct change in this specific interval.\n- Option E is a video-based distractor. This is when a subtle smile begins to form, which is a real change, but the brief, involuntary-seeming gaze shift is a more classic example of a micro-expression relevant to cognitive processes (Openness)."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 6.1s, a region was detected in the video (x=0.202, y=0.764, w=0.595, h=0.234, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The subject's torso is held in a consistently upright posture."
+        },
+        {
+          "id": "B",
+          "text": "A subtle, indistinct smile is forming on the subject's mouth."
+        },
+        {
+          "id": "C",
+          "text": "Eyebrows are held in a static, visibly raised position."
+        },
+        {
+          "id": "D",
+          "text": "Eyes maintain direct and unwavering contact with the camera."
+        },
+        {
+          "id": "E",
+          "text": "The head is exhibiting slight, continuous motion as she speaks."
+        },
+        {
+          "id": "F",
+          "text": "Hands are positioned completely out of the camera's view."
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The correct answer is F. The specified bounding box (y=0.764, h=0.234) covers the very bottom portion of the video frame. At 6.1s, the observation log states Hands lowered out of frame. Therefore, the content of this region is the absence of her hands, which are below the frame.\n- Option A is a near-miss distractor. The torso is indeed upright, but the specified bounding box is located below the main torso area, focusing on the space where the hands would be.\n- Option B is a video-based distractor. The mouth is located in a different spatial region (around y=0.4-0.5) and the smile forms later in the video.\n- Option C is a video-based distractor. The eyebrows are in the upper part of the face, far from the specified bounding box.\n- Option D is a video-based distractor. The eyes are in the upper-middle facial region, spatially distinct from the queried bounding box.\n- Option E is a video-based distractor. The head is the subject of this action, which is spatially separate from the lower frame area defined by the bounding box."
+    },
+    {
+      "category": "Counterfactual Reasoning",
+      "question": "If the person had NOT exhibited the behavior observed around 13.0s - 13.9s, which of the following personality assessments would be MOST affected?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Agreeableness would be judged as lower, as this melodic delivery provides the main evidence of warmth that counters her otherwise direct communication style."
+        },
+        {
+          "id": "B",
+          "text": "Extraversion would decrease, as the social energy from the opening gesture would be thematically less supported by the video's conclusion."
+        },
+        {
+          "id": "C",
+          "text": "Conscientiousness would be lower, because a standard tone on a key phrase would indicate less self-discipline and narrative structuring."
+        },
+        {
+          "id": "D",
+          "text": "Neuroticism score would increase, since the stable and melodic delivery of this key phrase is a major sign of emotional self-regulation."
+        },
+        {
+          "id": "E",
+          "text": "Openness would increase, as removing the melodic tone in that segment could be interpreted as being more authentic and therefore more open."
+        },
+        {
+          "id": "F",
+          "text": "Openness would be less strongly supported as High, because this moment provides key evidence for an artistic and performative communication style."
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The correct answer is F. The behavior from 13.0s - 13.9s is her delivery of 'really good care of me' with a 'more melodical high-pitched contour'. The personality analysis for High Openness explicitly relies on her 'creative and artistic communication style' and 'melodic' intonation. Removing this peak example of melodic delivery would significantly weaken the primary evidence for High Openness.\n- Option A is a video-based distractor. It misattributes the cause; the Low Agreeableness score is based on her directness and confident gaze, not her vocal melody.\n- Option B is a video-based distractor. It connects the target behavior to a different behavior (the opening gesture) from another time segment with a weak causal link.\n- Option C is a text-based distractor. The Conscientiousness score is derived from the narrative's logical structure, not its vocal delivery style.\n- Option D is a text-based distractor. It presents a plausible but incorrect link. While emotional regulation can be a factor, the Neuroticism analysis balances general expressiveness against a lack of anxiety, not this specific melodic phrase.\n- Option E is a near-miss distractor. It correctly identifies Openness as the affected trait but proposes the wrong direction of change based on a flawed premise."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [
+      {
+        "check": "A",
+        "q_idx": 6,
+        "issue": "Option A contains a logical contradiction. It incorrectly claims that a melodic delivery is an indicator of low Agreeableness, when it is an indicator of high Agreeableness. It also incorrectly concludes that removing this behavior would cause the Agreeableness score to be judged as higher, when the opposite is true.",
+        "action": "Rewrote option A to be a coherent but incorrect distractor."
+      }
+    ],
+    "corrections": {
+      "mcq_questions[6].options[0].text": "Agreeableness would be judged as lower, as this melodic delivery provides the main evidence of warmth that counters her otherwise direct communication style."
+    },
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator20",
+      "version": 2,
+      "clues_total": 24,
+      "clues_correct": 17,
+      "clues_wrong_corrected": 6,
+      "clues_missing_skipped": 0,
+      "clues_bonus": 1
+    }
+  }
+}

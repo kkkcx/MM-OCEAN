@@ -1,0 +1,682 @@
+{
+  "video_id": "C9W-AEBcQzo.001.mp4",
+  "video_path": "C9W-AEBcQzo.001.mp4",
+  "transcription": "And the questions are two of them. See these? It's my fingers makes my eyes. No, serious. Two questions.",
+  "original_scores": {
+    "extraversion": 0.29906542056074764,
+    "agreeableness": 0.2637362637362637,
+    "conscientiousness": 0.24271844660194175,
+    "neuroticism": 0.34374999999999994,
+    "openness": 0.4666666666666667
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 1.11,
+      "description": "The subject's head is tilted back. His eyes are slightly closed, and his mouth is open in a wide smile, with the corners pulled up.",
+      "bboxes": [
+        {
+          "frame_time": 0.625909,
+          "x": 0.3771381578947368,
+          "y": 0.11631579148141961,
+          "w": 0.3182565789473684,
+          "h": 0.5736842105263158,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 0.625909,
+          "x": 0.4185855263157895,
+          "y": 0.2900000020077354,
+          "w": 0.22796052631578947,
+          "h": 0.10526315789473684,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 0.660766,
+          "x": 0.42450657894736843,
+          "y": 0.3557894756919459,
+          "w": 0.20279605263157896,
+          "h": 0.2,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 1.11,
+      "end_time": 4.01,
+      "description": "The head lowers to a neutral position, facing the camera. The expression becomes neutral, with the mouth moving naturally with speech.",
+      "bboxes": [
+        {
+          "frame_time": 3.129944,
+          "x": 0.359375,
+          "y": 0.17157894937615645,
+          "w": 0.32417763157894736,
+          "h": 0.7026315789473684,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 3.129944,
+          "x": 0.38453947368421054,
+          "y": 0.36105263358668277,
+          "w": 0.26644736842105265,
+          "h": 0.45789473684210524,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 3.129944,
+          "x": 0.4037828947368421,
+          "y": 0.6268421072708933,
+          "w": 0.22796052631578947,
+          "h": 0.15789473684210525,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 4.01,
+      "end_time": 9.11,
+      "description": "The subject's eyes widen slightly, and his eyebrows raise in a smooth, subtle motion. He maintains direct eye contact with the camera.",
+      "bboxes": [
+        {
+          "frame_time": 6.086002,
+          "x": 0.36233552631578947,
+          "y": 0.4136842125340512,
+          "w": 0.2338815789473684,
+          "h": 0.11315789473684211,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 6.086002,
+          "x": 0.35345394736842106,
+          "y": 0.32421052832352487,
+          "w": 0.2768092105263158,
+          "h": 0.10263157894736842,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 6.086002,
+          "x": 0.3638157894736842,
+          "y": 0.40578947569194596,
+          "w": 0.24868421052631579,
+          "h": 0.11578947368421053,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 9.11,
+      "end_time": 12.01,
+      "description": "While holding two fingers to his face, the skin around his nose and inner eyes is pushed inward, causing the lower eyelids to raise slightly. His eyes remain wide and fixed on the camera.",
+      "bboxes": [
+        {
+          "frame_time": 11.125998,
+          "x": 0.3726973684210526,
+          "y": 0.2268421072708933,
+          "w": 0.2945723684210526,
+          "h": 0.5763157894736842,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 11.125998,
+          "x": 0.3815789473684211,
+          "y": 0.34526315990247225,
+          "w": 0.2649671052631579,
+          "h": 0.24736842105263157,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 11.125998,
+          "x": 0.3875,
+          "y": 0.39789473884984067,
+          "w": 0.2634868421052632,
+          "h": 0.14473684210526316,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 12.01,
+      "end_time": 13.68,
+      "description": "After removing his fingers, his facial expression returns to the previous wide-eyed, neutral state.",
+      "bboxes": [
+        {
+          "frame_time": 13.274647,
+          "x": 0.3712171052631579,
+          "y": 0.3531578967445775,
+          "w": 0.2590460526315789,
+          "h": 0.4763157894736842,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 13.441371,
+          "x": 0.3756578947368421,
+          "y": 0.3031578967445775,
+          "w": 0.23240131578947368,
+          "h": 0.1736842105263158,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 13.68,
+      "end_time": 15.04,
+      "description": "The subject's eyebrows lower slightly, and his lips press together briefly, forming a more focused expression as he speaks.",
+      "bboxes": [
+        {
+          "frame_time": 15.057904,
+          "x": 0.3549342105263158,
+          "y": 0.387368423060367,
+          "w": 0.3049342105263158,
+          "h": 0.12368421052631579,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 14.502075,
+          "x": 0.3756578947368421,
+          "y": 0.43210526516563014,
+          "w": 0.2694078947368421,
+          "h": 0.13421052631578947,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 14.502075,
+          "x": 0.359375,
+          "y": 0.29263158095510383,
+          "w": 0.3226973684210526,
+          "h": 0.6078947368421053,
+          "note": "face human-annotated",
+          "region": "face"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 1.11,
+      "description": "The subject's head is tilted far back, looking up.",
+      "bboxes": [
+        {
+          "frame_time": 1.157288,
+          "x": 0.41118421052631576,
+          "y": 0.17157894937615645,
+          "w": 0.24424342105263158,
+          "h": 0.55,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 1.11,
+      "end_time": 4.95,
+      "description": "The head moves forward and down into a standard, upright position, facing the camera.",
+      "bboxes": [
+        {
+          "frame_time": 3.611467,
+          "x": 0.35789473684210527,
+          "y": 0.20578947569194592,
+          "w": 0.31529605263157895,
+          "h": 0.6447368421052632,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 4.95,
+      "end_time": 9.11,
+      "description": "The subject's right hand rises into the frame. His index and middle fingers are extended in a 'V' shape, and he moves them toward his face.",
+      "bboxes": [
+        {
+          "frame_time": 6.387731,
+          "x": 0.44375,
+          "y": 0.47157894937615646,
+          "w": 0.3537828947368421,
+          "h": 0.5263157894736842,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 6.387731,
+          "x": 0.4230263157894737,
+          "y": 0.4584210546393144,
+          "w": 0.4055921052631579,
+          "h": 0.4842105263157895,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 6.387731,
+          "x": 0.3460526315789474,
+          "y": 0.09526315990247225,
+          "w": 0.37894736842105264,
+          "h": 0.8263157894736842,
+          "note": "face human-annotated",
+          "region": "face"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 9.11,
+      "end_time": 12.01,
+      "description": "He places his index and middle fingers on either side of the bridge of his nose, just below his eyes, and holds them there.",
+      "bboxes": [
+        {
+          "frame_time": 10.611209,
+          "x": 0.42450657894736843,
+          "y": 0.4794736862182617,
+          "w": 0.2131578947368421,
+          "h": 0.2736842105263158,
+          "note": "human-annotated",
+          "region": "nose"
+        },
+        {
+          "frame_time": 10.611209,
+          "x": 0.3919407894736842,
+          "y": 0.3400000020077354,
+          "w": 0.23980263157894738,
+          "h": 0.34210526315789475,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 12.01,
+      "end_time": 13.71,
+      "description": "He removes his hand from his face, lowering it out of the frame.",
+      "bboxes": [
+        {
+          "frame_time": 13.302263,
+          "x": 0.3549342105263158,
+          "y": 0.06894737042878804,
+          "w": 0.309375,
+          "h": 0.75,
+          "note": "face human-annotated",
+          "region": "face"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 13.71,
+      "end_time": 15.04,
+      "description": "He raises his right hand again, this time with only the index finger extended, pointing toward the camera.",
+      "bboxes": [
+        {
+          "frame_time": 14.589018,
+          "x": 0.5192434210526315,
+          "y": 0.5057894756919459,
+          "w": 0.22648026315789474,
+          "h": 0.4921052631578947,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 0.81,
+      "description": "A short, quiet, breathy laugh is audible.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 4.28,
+      "end_time": 6.18,
+      "description": "The phrase \"And the questions are two of them\" is spoken at a moderate pace and pitch.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 7.91,
+      "end_time": 8.64,
+      "description": "The pitch rises sharply on the word \"these?\" in a questioning intonation.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 9.71,
+      "end_time": 11.68,
+      "description": "The phrase \"It's my fingers makes my eyes\" is spoken in a flat, declarative tone.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 13.25,
+      "end_time": 15.04,
+      "description": "The words \"No, serious\" are spoken at a slightly lower volume and pitch. After a brief pause, \"Two questions\" is spoken with more emphasis and a neutral pitch.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.04,
+      "description": "The subject is a man with a light skin tone, short dark hair with a receding hairline, and light stubble. He is wearing a royal blue hooded sweatshirt with white drawstrings over a dark blue T-shirt. He is filmed from the chest up in an indoor setting with a plain, beige-pink colored wall behind him. A thin white vertical cord is visible on the wall over his right shoulder. The lighting is diffuse and comes from the front.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 14.651006,
+      "end_time": 15.651006,
+      "description": "The subject has thick eyebrows",
+      "bboxes": [
+        {
+          "frame_time": 15.151006,
+          "x": 0.3815789473684211,
+          "y": 0.36894737042878806,
+          "w": 0.27976973684210527,
+          "h": 0.11842105263157894,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Low",
+      "score": 0.3,
+      "rationale": "The subject's Extraversion score is in the Low range. While he is engaging with a camera, his energy is contained and internally driven rather than outwardly projecting. The initial laughter is described as 'quiet' and 'breathy' ([0.0s-0.8s]), lacking the boisterous quality typical of high extraversion. His verbal delivery is moderate in pace, and he shifts to a lower volume and pitch when re-focusing his message ('No, serious' [13.2s-15.0s]). This suggests a more reserved disposition. The humor is idiosyncratic and doesn't appear crafted for broad social engagement, further indicating a preference for less overt social performance.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Low",
+      "score": 0.26,
+      "rationale": "The subject scores Low in Agreeableness. This is evidenced by a communication style that prioritizes his own train of thought over creating a warm, accommodating atmosphere for the viewer. His humor is somewhat cryptic ('It's my fingers makes my eyes' [9.7s-11.7s]) and not overtly aimed at fostering rapport. The abrupt, self-correcting shift to a more serious, directive tone ('No, serious. Two questions' [13.2s-15.0s]), coupled with a pointing gesture, reflects a more task-focused and less socially-oriented approach, which is characteristic of individuals with lower agreeableness who are less concerned with smoothing social interactions.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Low",
+      "score": 0.24,
+      "rationale": "The subject's Low Conscientiousness is strongly indicated by his disorganized and spontaneous communication style. He begins to state his purpose but is immediately sidetracked by an impulsive, playful tangent involving his fingers and eyes ([5.0s-12.0s]). This departure from the main topic demonstrates a lack of structured, goal-directed behavior. The need to verbally reset and bring himself back on track ('No, serious. Two questions.') highlights a meandering, flexible approach rather than a planned, efficient one, which is a hallmark of low conscientiousness.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Low",
+      "score": 0.34,
+      "rationale": "The subject displays Low Neuroticism. Throughout the clip, he appears emotionally stable and at ease. He moves from a state of quiet amusement ([0.0s-1.1s]) to neutral engagement without any signs of anxiety, self-consciousness, or stress, even while performing a peculiar physical joke. His ability to self-correct his speech is done calmly and with focus, not out of frustration or embarrassment. Maintaining steady eye contact ([4.0s-9.1s]) and a relaxed facial demeanor reinforces the assessment of a calm, emotionally resilient individual.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "Medium",
+      "score": 0.47,
+      "rationale": "The subject's Openness is assessed as Medium. His behavior exhibits a clear element of creativity and a tolerance for absurdity, as seen in the whimsical, non-literal joke he makes by placing his fingers on his face to 'make his eyes' ([9.1s-12.0s]). This playful imagination is a key indicator of Openness. However, this creativity is contained and he quickly reverts to a more concrete, task-oriented goal ('Two questions'). This balance between indulging in a novel, imaginative act and then grounding himself in reality suggests a moderate, rather than an all-encompassing, disposition towards openness to experience.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During 5.0s - 12.0s, the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A medium level of Openness to new Experience is demonstrated."
+        },
+        {
+          "id": "B",
+          "text": "A low level of the Neuroticism dimension is clearly indicated."
+        },
+        {
+          "id": "C",
+          "text": "A low level of the Conscientiousness dimension is demonstrated."
+        },
+        {
+          "id": "D",
+          "text": "A high level of the Agreeableness dimension is clearly indicated."
+        },
+        {
+          "id": "E",
+          "text": "A high level of Openness to new Experience is demonstrated."
+        },
+        {
+          "id": "F",
+          "text": "A low level of the Extraversion dimension is clearly indicated."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. The behavior from 5.0s to 12.0s, where the person gets sidetracked from his stated goal by an impulsive, playful, and disorganized tangent, is the strongest evidence in the video for Low Conscientiousness.\n\n- Option A is a video-based distractor. The person is rated Medium Openness and this act is creative, but the disorganization of the act is a far stronger signal for Conscientiousness than its creativity is for Openness.\n- Option B is a video-based distractor. The person does exhibit Low Neuroticism, but this is demonstrated by his overall calm demeanor, not specifically by the disorganized behavior in this time segment.\n- Option D is a text-based distractor. A playful act could be interpreted as agreeable, but his overall communication style (e.g., the abrupt self-correction later) points towards Low Agreeableness, making this interpretation incorrect.\n- Option E is a near-miss distractor. The behavior is imaginative, which relates to Openness. However, rating it as 'High' Openness is an overstatement, and it misses the more primary and definitive trait being demonstrated: a lack of structured, goal-directed behavior (Low Conscientiousness).\n- Option F is a video-based distractor. Low Extraversion is supported by other cues in the video (e.g., quiet laughter at the start), but it is not the main trait evidenced by the specific tangential behavior in this interval."
+    },
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their Low Agreeableness level?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[0.0s - 1.1s]"
+        },
+        {
+          "id": "B",
+          "text": "[4.0s - 6.2s]"
+        },
+        {
+          "id": "C",
+          "text": "[13.7s - 15.0s]"
+        },
+        {
+          "id": "D",
+          "text": "[9.1s - 12.0s]"
+        },
+        {
+          "id": "E",
+          "text": "[7.5s - 8.5s]"
+        },
+        {
+          "id": "F",
+          "text": "[2.0s - 3.5s]"
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. The analysis for Low Agreeableness highlights his abrupt, task-focused, and less socially-oriented approach. This is most clearly demonstrated between 13.7s and 15.0s, where his eyebrows lower and his expression becomes more focused and serious as he self-corrects ('No, serious. Two questions.'), prioritizing his agenda over social pleasantry.\n\n- Option A is a video-based distractor. This interval shows quiet amusement, which is more relevant to his Low Neuroticism (emotional ease) and Low Extraversion (reserved amusement) than to Agreeableness.\n- Option B is a video-based distractor. This interval shows the start of his verbal explanation with a neutral expression and direct eye contact, which doesn't strongly signal low agreeableness on its own.\n- Option D is a video-based distractor. This interval shows him performing the playful 'fingers on face' action, which is more directly related to Openness (creativity) and Conscientiousness (disorganization).\n- Option E is a near-miss distractor. This captures the moment his voice rises for 'these?', a change in engagement. However, the facial expression change is less pronounced and less revealing of the core task-focused trait than the shift in the final segment.\n- Option F is a text-based distractor. This is a transitional period where his expression becomes neutral after the initial laugh; it is a period of lesser expressive significance."
+    },
+    {
+      "category": "Mixed Emotion Discrimination",
+      "question": "During 0.0s - 1.1s, the person's emotional state is best characterized as which of the following? Consider both verbal and non-verbal cues.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Unrestrained joy mixed with a clear display of showmanship."
+        },
+        {
+          "id": "B",
+          "text": "Hopeful optimism combined with a feeling of eager anticipation."
+        },
+        {
+          "id": "C",
+          "text": "Private amusement tempered by a hint of bashful reservation."
+        },
+        {
+          "id": "D",
+          "text": "Confident satisfaction blended with a very strong sense of triumph."
+        },
+        {
+          "id": "E",
+          "text": "Playful engagement mixed with a direct and focused connection."
+        },
+        {
+          "id": "F",
+          "text": "Calm relief combined with a profound feeling of contentment."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. During this initial interval, the person displays a wide smile with his head tilted back, but the accompanying audio is a 'short, quiet, breathy laugh'. This combination suggests an internal or private feeling of amusement rather than a boisterous, outward one. The quietness points to a sense of reservation.\n\n- Option A is a near-miss distractor. It correctly identifies a positive emotion ('joy') but incorrectly characterizes its expression as 'unrestrained' and 'showmanship', directly contradicting the quiet and breathy nature of the laugh.\n- Option B is a text-based distractor. While a positive emotion, there are no specific cues in the video to suggest 'hope' or 'anticipation'.\n- Option D is a text-based distractor. This is another plausible positive emotional blend, but 'satisfaction' and 'triumph' do not fit the visual and auditory context of quiet, self-contained laughter.\n- Option E is a video-based distractor. This description better fits the later segment (around 4.0s - 9.1s) where he makes direct eye contact and begins his playful tangent, but it does not describe the initial, more reserved moment of laughter.\n- Option F is a near-miss distractor. It correctly captures the gentle quality with 'calm', but 'relief' implies a preceding tension that isn't evident, making 'amusement' a more accurate descriptor for the visible expression."
+    },
+    {
+      "category": "Temporal-Causal Reasoning",
+      "question": "Consider the sequence of behaviors observed across the video. Which of the following best describes the causal chain linking the person's actions at different moments?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A moment of serious focus prompts a playful act of self-deprecation, which is then justified by an introductory statement to the audience."
+        },
+        {
+          "id": "B",
+          "text": "A display of high social energy is used to build rapport, which is then followed by a period of quiet introspection and a final call to action."
+        },
+        {
+          "id": "C",
+          "text": "An initial goal-oriented statement is interrupted by an impulsive, tangential display, necessitating a subsequent self-monitoring act to refocus."
+        },
+        {
+          "id": "D",
+          "text": "An initial goal-oriented statement is followed by a planned illustrative gesture, which then concludes with a summary statement reinforcing the point."
+        },
+        {
+          "id": "E",
+          "text": "An initial moment of private amusement leads to a period of visible uncertainty, which is then resolved by a direct, assertive statement of fact."
+        },
+        {
+          "id": "F",
+          "text": "A complex idea's demonstration is followed by a moment of perceived confusion, which is then clarified by a simplified restatement of the core message."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. This option accurately maps the abstract sequence to the video's events: 1) Initial goal statement ('And the questions are two of them'), 2) Interruption by an impulsive, tangential display (the 'fingers makes my eyes' joke), and 3) A self-monitoring act to refocus ('No, serious. Two questions.'). This chain highlights the core dynamic of low conscientiousness.\n\n- Option A is a distractor with reversed temporal order. The introductory statement comes first, not last.\n- Option B is a text-based distractor. The video does not depict 'high social energy' or 'rapport building'; the personality analysis indicates low extraversion and low agreeableness.\n- Option D is a near-miss distractor. It has the correct temporal order but incorrect causality. The gesture was impulsive and tangential, not a 'planned illustrative gesture', and it did not reinforce the initial point; it derailed it.\n- Option E is a video-based distractor. It correctly identifies the initial amusement but misinterprets the central playful act as 'visible uncertainty'. The act is performed with a steady gaze, not hesitation.\n- Option F is a text-based distractor. The behavior is not a 'demonstration of a complex idea'; it's a simple, nonsensical joke, and there is no evidence of 'perceived confusion' being the cause for the reset."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 3.1s, a region was detected in the video (x=0.40, y=0.63, w=0.23, h=0.16, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The entire head is seen tilting backward in a very sharp motion."
+        },
+        {
+          "id": "B",
+          "text": "The mouth is articulating words with a neutral, natural movement."
+        },
+        {
+          "id": "C",
+          "text": "The eyelids are observed to be slightly and softly closed here."
+        },
+        {
+          "id": "D",
+          "text": "Two fingers are clearly extended to form a distinct 'V' shape."
+        },
+        {
+          "id": "E",
+          "text": "The eyebrows are being lifted in a smooth and rather subtle way."
+        },
+        {
+          "id": "F",
+          "text": "A hand can be seen moving down and away from the facial region."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. The provided coordinates at 3.1s isolate the mouth region. At this moment, the person is beginning to speak ('And the questions are...'), and the action within this specific bounding box is the natural movement of his mouth as he articulates the words.\n\n- Option A is a video-based distractor. The head tilts backward, but this occurs at the very beginning of the video (around 0.0s-1.1s), not at 3.1s, and involves the entire head, not just the mouth region.\n- Option C is a video-based distractor. The eyes are slightly closed during the initial laugh (around 0.6s), which is a different time and a different facial region (eyes, not mouth).\n- Option D is a video-based distractor. The 'V' shape with the fingers occurs later in the video (around 6.4s) and involves the hand, not the mouth.\n- Option E is a near-miss distractor. The eyebrows lift subtly around 6.1s, which is close in time but describes an action in the brow region, well above the specified bounding box for the mouth.\n- Option F is a text-based distractor, though based on a real event. The hand does move away from the face, but this happens around 12.0s-13.7s, and it's a large-scale motion, not an action confined to the small mouth region at 3.1s."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "At which moment and in which region does the person's expression shift to one of engaged, anticipatory focus, marked by widened eyes and sustained gaze?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[3.1s] x=0.40, y=0.63, w=0.23, h=0.16"
+        },
+        {
+          "id": "B",
+          "text": "[6.1s] x=0.36, y=0.41, w=0.23, h=0.11"
+        },
+        {
+          "id": "C",
+          "text": "[14.6s] x=0.52, y=0.51, w=0.23, h=0.49"
+        },
+        {
+          "id": "D",
+          "text": "[3.6s] x=0.36, y=0.21, w=0.32, h=0.64"
+        },
+        {
+          "id": "E",
+          "text": "[0.7s] x=0.42, y=0.36, w=0.20, h=0.20"
+        },
+        {
+          "id": "F",
+          "text": "[15.1s] x=0.35, y=0.39, w=0.30, h=0.12"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. The description 'engaged, anticipatory focus, marked by widened eyes and sustained gaze' perfectly matches the expression between 4.0s and 9.1s as he introduces his joke. The timestamp 6.1s falls within this range, and the coordinates (x=0.36, y=0.41, w=0.23, h=0.11) precisely isolate the eye region where this expression is centered.\n\n- Option A points to the mouth region during neutral speech.\n- Option C points to the hand making a pointing gesture at the end.\n- Option D provides a wide bounding box for the whole head during a neutral phase.\n- Option E points to the mouth region during the initial laugh.\n- Option F points to the eyebrow region during the final, more serious expression."
+    },
+    {
+      "category": "Counterfactual Reasoning",
+      "question": "If the person had NOT exhibited the behavior observed around 5.0s - 12.0s, which of the following personality assessments would be MOST affected?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Extraversion would seem even lower, as this segment represents his most sustained period of engagement before he retreats to a simpler, more direct task."
+        },
+        {
+          "id": "B",
+          "text": "Agreeableness would be rated much higher, because this playful gesture could be misinterpreted as a key attempt at building friendly rapport with the viewer."
+        },
+        {
+          "id": "C",
+          "text": "The assessment of Conscientiousness would be less certain, as this spontaneous, off-topic action is the primary evidence for his disorganized approach."
+        },
+        {
+          "id": "D",
+          "text": "Neuroticism would be harder to assess, since this moment is a crucial demonstration of his emotional stability when performing a peculiar and absurd action."
+        },
+        {
+          "id": "E",
+          "text": "Conscientiousness would shift from Low to High, as removing this chaotic act would significantly alter the evidence base for his personal self-discipline."
+        },
+        {
+          "id": "F",
+          "text": "Openness would be judged as lower, because this specific behavior is the most direct piece of evidence supporting his capacity for unconventional thinking."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. The personality analysis states that the Low Conscientiousness score is 'strongly indicated by his disorganized and spontaneous communication style' demonstrated in this exact interval. Removing this behavior would remove the primary evidence for that trait, making the assessment much weaker or less certain.\n\n- Option A is a video-based distractor. His Low Extraversion is also supported by the quiet laugh at the start and low volume speech at the end, so removing the middle segment would not drastically alter the assessment.\n- Option B is a text-based distractor. The gesture is idiosyncratic, not rapport-building. His Low Agreeableness is also supported by the abrupt, task-focused self-correction at the end, so that assessment would still stand.\n- Option D is a video-based distractor. His Low Neuroticism is evident throughout the clip (e.g., his calm demeanor during the initial laugh and the final self-correction). The assessment is not dependent on this single event.\n- Option E is a near-miss distractor. It correctly identifies Conscientiousness as the affected trait but makes too strong a claim. The assessment would become more uncertain, not necessarily flip from 'Low' to 'High,' as there might be other minor cues or simply a lack of evidence either way.\n- Option F is a text-based distractor. While the act is creative (related to Openness), the analysis notes a balance, rating Openness as Medium. The disorganization of the act is a much more extreme and definitive signal for Conscientiousness than its creativity is for Openness. Therefore, the Conscientiousness score is the one most dependent on this specific behavior."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator05",
+      "version": 1,
+      "clues_total": 33,
+      "clues_correct": 30,
+      "clues_wrong_corrected": 2,
+      "clues_missing_skipped": 0,
+      "clues_bonus": 1
+    }
+  }
+}

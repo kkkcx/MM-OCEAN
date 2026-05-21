@@ -1,0 +1,482 @@
+{
+  "video_id": "E_xAcdGpPCI.000.mp4",
+  "video_path": "E_xAcdGpPCI.000.mp4",
+  "transcription": "Space Shuttle Challenger, that exploded into a fiery ball, killing everybody inside because an exception was made involving the O-rings.",
+  "original_scores": {
+    "extraversion": 0.26168224299065423,
+    "agreeableness": 0.4395604395604395,
+    "conscientiousness": 0.6796116504854369,
+    "neuroticism": 0.4895833333333333,
+    "openness": 0.4444444444444445
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 9.49,
+      "description": "The subject maintains a direct gaze at the camera with a serious and focused expression. His eyebrows are held in a neutral to slightly lowered position. His mouth moves naturally with speech. He blinks normally.",
+      "bboxes": [
+        {
+          "frame_time": 1.325642,
+          "x": 0.3778782894736842,
+          "y": 0.33771929489938834,
+          "w": 0.20279605263157896,
+          "h": 0.08947368421052632,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 1.995747,
+          "x": 0.41192434210526313,
+          "y": 0.3061403475309673,
+          "w": 0.17319078947368421,
+          "h": 0.05789473684210526,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 3.887391,
+          "x": 0.44004934210526314,
+          "y": 0.47192982121517785,
+          "w": 0.08881578947368421,
+          "h": 0.07631578947368421,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 9.537045,
+          "x": 0.39564144736842105,
+          "y": 0.316666663320441,
+          "w": 0.17023026315789475,
+          "h": 0.08947368421052632,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 9.49,
+      "end_time": 12.89,
+      "description": "The subject's expression becomes slightly more intense. His eyebrows lower and draw together slightly. He briefly presses his lips together at the start of the phrase and there is a slight tension in his jaw as he speaks.",
+      "bboxes": [
+        {
+          "frame_time": 11.30438,
+          "x": 0.4222861842105263,
+          "y": 0.2982456106888621,
+          "w": 0.1480263157894737,
+          "h": 0.25526315789473686,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 11.552028,
+          "x": 0.4208059210526316,
+          "y": 0.29561403174149364,
+          "w": 0.12730263157894736,
+          "h": 0.04736842105263158,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 10.95476,
+          "x": 0.3941611842105263,
+          "y": 0.2061403475309673,
+          "w": 0.2042763157894737,
+          "h": 0.3736842105263158,
+          "note": "human-annotated",
+          "region": "unknown"
+        },
+        {
+          "frame_time": 10.825876,
+          "x": 0.44004934210526314,
+          "y": 0.48508771595201994,
+          "w": 0.084375,
+          "h": 0.08421052631578947,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 10.825876,
+          "x": 0.43264802631578947,
+          "y": 0.5114035054257041,
+          "w": 0.11398026315789474,
+          "h": 0.12894736842105264,
+          "note": "human-annotated",
+          "region": "chin"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 12.89,
+      "end_time": 15.39,
+      "description": "The expression softens slightly back toward a neutral, serious state. His direct gaze is maintained. The eyebrows relax slightly.",
+      "bboxes": [
+        {
+          "frame_time": 13.577161,
+          "x": 0.41488486842105265,
+          "y": 0.2692982422678094,
+          "w": 0.16282894736842105,
+          "h": 0.28157894736842104,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 13.955665,
+          "x": 0.4208059210526316,
+          "y": 0.32456140016254625,
+          "w": 0.1361842105263158,
+          "h": 0.08157894736842106,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 14.363556,
+          "x": 0.44449013157894735,
+          "y": 0.2850877159520199,
+          "w": 0.10361842105263158,
+          "h": 0.08947368421052632,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 15.39,
+      "description": "The subject is seated, framed from the chest up. He maintains an upright posture, facing forward. His head is mostly still, with a few small, slow nods for emphasis, particularly between 00:10 and 00:12. His shoulders remain level and relaxed.",
+      "bboxes": [
+        {
+          "frame_time": 4.865273,
+          "x": 0.3527138157894737,
+          "y": 0.2061403475309673,
+          "w": 0.27532894736842106,
+          "h": 0.5947368421052631,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 6.537329,
+          "x": 0.3497532894736842,
+          "y": 0.12719297910991467,
+          "w": 0.2546052631578947,
+          "h": 0.7026315789473684,
+          "note": "pose human-annotated",
+          "region": "torso"
+        },
+        {
+          "frame_time": 10.925625,
+          "x": 0.39120065789473685,
+          "y": 0.266666663320441,
+          "w": 0.1924342105263158,
+          "h": 0.37105263157894736,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 13.492454,
+          "x": 0.22837171052631577,
+          "y": 0.4377192948993884,
+          "w": 0.5269736842105264,
+          "h": 0.34210526315789475,
+          "note": "pose human-annotated",
+          "region": "shoulders"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 9.22,
+      "description": "The subject speaks at a moderate, even pace with a declarative tone. There is a slight increase in volume and emphasis on the phrase \"fiery ball.\" The pitch drops at the end of the sentence on the word \"O-rings.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 9.22,
+      "end_time": 12.98,
+      "description": "After a brief pause, the subject speaks more deliberately. The pitch is slightly lower on the word \"Personally.\" There is added stress and a slight increase in volume on the phrases \"hard way\" and \"dangerous exceptions.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 12.98,
+      "end_time": 15.39,
+      "description": "The speech rate returns to a moderate pace. He places clear emphasis on the word \"starkly\" with a slight increase in volume.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.39,
+      "description": "The subject is a man with short, dark hair and a light complexion, wearing a blue and white plaid button-down shirt. He is seated indoors in what appears to be an office or library, in front of a dark wood bookcase. The shelves behind him hold numerous hardback books, many with reddish-brown spines, and a small, dark spherical object. The lighting is warm and focused on the subject from the front.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0.6362650000000001,
+      "end_time": 1.636265,
+      "description": "The subjects recounted that on January 28, 1986, the U.S. Space Shuttle Challenger performed the STS-51-L mission. After taking off from the Kennedy Space Center in Florida, it disintegrated and exploded at an altitude of 14,600 meters in just 73 seconds. All seven astronauts on board were killed. This was the first major aerial disaster in the history of U.S. manned spaceflight.",
+      "bboxes": [
+        {
+          "frame_time": 1.136265,
+          "x": 0.3897203947368421,
+          "y": 0.21140350542570416,
+          "w": 0.20575657894736843,
+          "h": 0.6605263157894737,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Low",
+      "score": 0.26,
+      "rationale": "The subject's behavior aligns with a low level of Extraversion. His demeanor is reserved and serious, characterized by a static, upright posture and minimal head movement. He maintains a focused, non-emotive facial expression throughout the delivery. The absence of expressive gestures, smiling, or vocal variety beyond deliberate emphasis points to an internally focused, rather than socially expressive, individual. His energy is contained and controlled, which is a hallmark of introversion.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Medium",
+      "score": 0.44,
+      "rationale": "The subject's Agreeableness is in the medium range. He presents information in a direct and factual manner, which is neither overtly cooperative nor confrontational. The serious tone and focused expression are appropriate for the grave subject matter of the Challenger disaster and do not signal a lack of empathy. He is not seeking to build rapport through warmth or charm, but he is also not displaying skepticism or hostility. This balanced, task-focused approach is typical of individuals with a moderate Agreeableness score.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "High",
+      "score": 0.68,
+      "rationale": "The subject demonstrates multiple indicators of high Conscientiousness. His posture is upright and controlled, and his presentation is deliberate and structured. The vocal delivery shows careful thought, with precise emphasis placed on key phrases ('fiery ball', 'dangerous exceptions', 'starkly') to ensure the message is conveyed with clarity and impact. The formal, organized setting (office/library) and the choice of a serious, fact-based topic further suggest a disciplined, detail-oriented, and dutiful personality.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Medium",
+      "score": 0.49,
+      "rationale": "The medium score for Neuroticism is supported by the subject's generally stable but not completely detached demeanor. For most of the video, he is calm and composed. However, there is a brief period (9.5s-12.9s) where subtle signs of stress or emotional engagement appear, such as tightened eyebrows, pressed lips, and jaw tension. This indicates he is affected by the serious topic but maintains control over his emotional expression. This balance between emotional reactivity and self-regulation is consistent with an average level of Neuroticism.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "Medium",
+      "score": 0.44,
+      "rationale": "The subject's Openness is rated as medium. He engages with an intellectual topic—a historical and technical disaster—which suggests a degree of intellectual curiosity. The academic setting further supports this. However, his delivery is conventional, factual, and straightforward. He is not exploring abstract concepts, using imaginative language, or presenting the information in a novel way. This combination of an intellectual interest with a traditional, grounded approach to communication aligns well with a mid-range score on the Openness scale.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During 9.5s - 12.9s, the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "High dimension score for Extraversion"
+        },
+        {
+          "id": "B",
+          "text": "Low dimension score for Agreeableness"
+        },
+        {
+          "id": "C",
+          "text": "High dimension score for Neuroticism"
+        },
+        {
+          "id": "D",
+          "text": "Low dimension score for Openness"
+        },
+        {
+          "id": "E",
+          "text": "High dimension score for Conscientiousness"
+        },
+        {
+          "id": "F",
+          "text": "Low dimension score for Conscientiousness"
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The behavior in this time range includes intensified facial expressions (furrowed brows, pressed lips) combined with deliberate vocal emphasis on a key phrase. This demonstrates a highly controlled and purposeful use of expression to ensure a message is delivered with impact, which is a strong indicator of high Conscientiousness (dutiful, organized, and detail-oriented communication).\n\nOption A is a video-based distractor. The subject is speaking, but his overall reserved demeanor, static posture, and lack of expressive gestures throughout the video point towards Low Extraversion, not High.\nOption B is a text-based distractor. The serious topic and intense expression might sound disagreeable or critical without context, but the analysis indicates this is appropriate for the subject matter and not a sign of low agreeableness.\nOption C is a near-miss distractor. The facial tension is indeed a sign of emotional reactivity, which relates to Neuroticism. However, the signs are subtle and highly controlled, supporting a Medium score, not a High one. This option overstates the magnitude of the trait.\nOption D is a text-based distractor. The subject is discussing a complex technical and historical event, which would suggest at least moderate intellectual curiosity, making a Low Openness score an unlikely conclusion from the topic alone.\nOption F is a near-miss distractor. It correctly identifies the relevant personality dimension (Conscientiousness) but gets the direction wrong. The behavior is highly deliberate and controlled, which is the opposite of Low Conscientiousness."
+    },
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their medium Neuroticism level?",
+      "options": [
+        {
+          "id": "A",
+          "text": "0.8s - 2.1s"
+        },
+        {
+          "id": "B",
+          "text": "3.7s - 5.0s"
+        },
+        {
+          "id": "C",
+          "text": "6.5s - 7.8s"
+        },
+        {
+          "id": "D",
+          "text": "8.5s - 9.8s"
+        },
+        {
+          "id": "E",
+          "text": "13.2s - 14.5s"
+        },
+        {
+          "id": "F",
+          "text": "10.5s - 11.8s"
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The correct interval, 10.5s - 11.8s, captures the onset of the most significant emotional expression in the video. Around 10.8s, the subject briefly presses his lips and his jaw tenses, and around 11.6s, his eyebrows lower and draw together. These subtle signs of stress are the primary evidence supporting the Medium Neuroticism assessment.\n\nOption A is a video-based distractor. During this time, the subject is beginning his speech with a neutral, stable expression, showing no relevant emotional change.\nOption B is a text-based distractor. This is a plausible-looking time range during which nothing of note occurs; his expression remains neutral.\nOption C is a text-based distractor. Similar to B, this is a filler interval where the subject's expression is consistent and does not change.\nOption D is a video-based distractor. The observation log notes a normal blink around 9.5s, which falls in this range, but a regular blink is not a notable expression change relevant to Neuroticism.\nOption E is a near-miss distractor. In this interval, the subject's expression is relaxing and returning to neutral after the moment of tension. While this is a change, the *onset* of the stress expression (in option F) is the most critical event for the personality assessment, not its offset."
+    },
+    {
+      "category": "Mixed Emotion Discrimination",
+      "question": "During 9.5s - 12.9s, the person's emotional state is best characterized as which of the following? Consider both verbal and non-verbal cues.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Profound sadness tempered by quiet resignation"
+        },
+        {
+          "id": "B",
+          "text": "Suppressed anger mixed with deep frustration"
+        },
+        {
+          "id": "C",
+          "text": "Moral indignation mixed with scholarly detachment"
+        },
+        {
+          "id": "D",
+          "text": "Anxious worry tempered by a sense of firm resolve"
+        },
+        {
+          "id": "E",
+          "text": "Solemn thought tempered by intellectual analysis"
+        },
+        {
+          "id": "F",
+          "text": "Grave concern mixed with deliberate emphasis"
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The combination of facial tension (furrowed brows, tight jaw) and controlled, stressed vocal delivery on the phrase 'dangerous exceptions' points to a state of serious concern about the topic. This is not passive sadness or uncontrolled anger, but an active, focused state. 'Grave concern' captures the emotional weight, while 'deliberate emphasis' describes the controlled, purposeful nature of the expression and vocalization.\n\nOption A is a video-based distractor. While the topic is sad, the expression lacks classic sadness cues (like raised inner brows) and is more characterized by tension and focus.\nOption B is a video-based distractor. The facial tension could be misinterpreted as anger, but given the controlled demeanor and factual context, 'grave concern' is a more accurate and less extreme interpretation.\nOption C is a text-based distractor. These terms are plausible for an academic discussing a major failure, but they do not specifically match the observed non-verbal cues of controlled tension.\nOption D is a text-based distractor. 'Anxious worry' is less fitting than 'concern' for a historical event, as 'worry' often implies future uncertainty. The expression is more of a stern reflection.\nOption E is a near-miss distractor. This is very close. 'Solemn thought' is accurate, but 'deliberate emphasis' is a better description of the active communication strategy than the more passive 'intellectual analysis'."
+    },
+    {
+      "category": "Temporal-Causal Reasoning",
+      "question": "Consider the sequence of behaviors observed across the video. Which of the following best describes the causal chain linking the person's actions at different moments?",
+      "options": [
+        {
+          "id": "A",
+          "text": "An external distraction causes a brief loss of composure, followed by a deliberate act of re-focusing to resume the narrative, concluding with a more rigid and controlled posture."
+        },
+        {
+          "id": "B",
+          "text": "A display of emotional vulnerability prompts a shift towards a more detached and factual delivery as a compensatory mechanism, which then establishes a neutral emotional baseline."
+        },
+        {
+          "id": "C",
+          "text": "A period of calm narration is interrupted by an involuntary micro-expression of stress, which is quickly suppressed by the speaker, indicating a failed attempt at emotional control."
+        },
+        {
+          "id": "D",
+          "text": "The speaker begins with an emotionally charged anecdote, then transitions to an abstract analysis, before concluding with a final neutral summary of the key supporting facts."
+        },
+        {
+          "id": "E",
+          "text": "A sequence of hand gestures is used for initial emphasis, followed by a reduction in movement to focus on vocal tone, which then ends with a direct gaze to build audience rapport."
+        },
+        {
+          "id": "F",
+          "text": "A baseline of neutral exposition is followed by a moment of heightened emotional regulation to emphasize a key concept, which then resolves back to a state of controlled, serious delivery."
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "This option correctly maps the video's abstract structure. The speaker starts with a calm, factual delivery (0-9s), then strategically introduces controlled emotional tension (9.5-12.9s) to add weight to a critical point, and finally returns to his serious, neutral baseline (13s onward). This reflects a deliberate, causal chain of communication strategy.\n\nOption A is a video-based distractor. It posits an 'external distraction' as the cause, but there is no visual or auditory evidence of any such event in the video.\nOption B is a distractor with reversed temporal order. The video starts with a neutral delivery and moves to a moment of expression, not the other way around.\nOption C is a near-miss distractor. It correctly identifies the moment of stress but incorrectly frames the cause as 'involuntary' and the outcome as a 'failed attempt at control'. The evidence suggests the expression was deliberate and successful for emphasis.\nOption D is a text-based distractor. This describes a plausible narrative structure (emotional story -> analysis -> facts) but does not match the actual emotional and behavioral flow of the video, which starts factually.\nOption E is a video-based distractor. It mentions hand gestures as a key element, but the speaker uses no prominent hand gestures at any point in the video."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 13.6s, a region was detected in the video (x=0.415, y=0.269, w=0.163, h=0.282, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Slight visible tension detected in the jaw area"
+        },
+        {
+          "id": "B",
+          "text": "The lips are briefly and firmly compressed together"
+        },
+        {
+          "id": "C",
+          "text": "Eyebrows are lowered and drawn towards the center"
+        },
+        {
+          "id": "D",
+          "text": "A completely relaxed and impassive facial setting"
+        },
+        {
+          "id": "E",
+          "text": "The eyes are engaged in a normal blinking pattern"
+        },
+        {
+          "id": "F",
+          "text": "A return towards a neutral and serious expression"
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The specified timestamp (13.6s) and bounding box correspond to the subject's face during the phase where his expression is resolving after the moment of intensity. The observation log for [12.9s - 15.4s] states, 'Expression slightly returns to a neutral, serious state,' which this option accurately describes.\n\nOption A is a video-based distractor. Jaw tension is observed, but it occurs earlier, in the 9.5s-12.9s time segment, not at 13.6s.\nOption B is a video-based distractor. The compression of the lips happens specifically around 10.8s, which is outside the queried time.\nOption C is a video-based distractor. The lowering and drawing together of the eyebrows is a key feature of the more intense expression that peaks around 11.6s, not the relaxing phase at 13.6s.\nOption D is a near-miss distractor. While the expression is returning to neutral, it is described as 'serious,' and the eyebrows are noted as still 'slightly tensed' at 14.4s. Therefore, 'completely relaxed and impassive' is an overstatement and incorrect.\nOption E is a video-based distractor. Normal eye blinking occurs throughout the video, but it is not the most prominent or defining characteristic of the entire facial region's state at this specific moment."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "The subject's expression briefly intensifies, marked by a visible contraction in the upper facial area to add gravity to his words. Which option correctly identifies the time and location of this specific brow movement?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Timestamp: 3.9s, Bbox: (x=0.440, y=0.472, w=0.089, h=0.076)"
+        },
+        {
+          "id": "B",
+          "text": "Timestamp: 10.9s, Bbox: (x=0.391, y=0.267, w=0.192, h=0.371)"
+        },
+        {
+          "id": "C",
+          "text": "Timestamp: 14.4s, Bbox: (x=0.444, y=0.285, w=0.104, h=0.089)"
+        },
+        {
+          "id": "D",
+          "text": "Timestamp: 11.6s, Bbox: (x=0.433, y=0.511, w=0.114, h=0.129)"
+        },
+        {
+          "id": "E",
+          "text": "Timestamp: 6.5s, Bbox: (x=0.350, y=0.127, w=0.255, h=0.703)"
+        },
+        {
+          "id": "F",
+          "text": "Timestamp: 11.6s, Bbox: (x=0.421, y=0.296, w=0.127, h=0.047)"
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "This option correctly identifies both the precise time (11.6s) and location (a small bounding box over the eyebrows) of the brow furrowing event, as documented in the observation log: '[eyebrows] bbox@11.6s: x=0.421,y=0.296,w=0.127,h=0.047'.\n\nOption A is a video-based distractor. This timestamp and bbox correspond to the mouth region during neutral speech early in the video.\nOption B is a video-based distractor. This bbox covers the entire head, not the specific brow region, at a slightly earlier time.\nOption C is a near-miss distractor. This bbox correctly identifies the eyebrow region, but at a later time (14.4s) when the expression has already relaxed from its peak intensity.\nOption D is a near-miss distractor. This option has the correct timestamp for the peak intensity but provides the bounding box for the chin/jaw region, which showed tension, not the brow movement described in the question.\nOption E is a video-based distractor. This timestamp and large bounding box correspond to the subject's torso, which is irrelevant to the facial expression."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator10",
+      "version": 1,
+      "clues_total": 21,
+      "clues_correct": 19,
+      "clues_wrong_corrected": 1,
+      "clues_missing_skipped": 0,
+      "clues_bonus": 1
+    }
+  }
+}

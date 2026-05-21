@@ -1,0 +1,406 @@
+{
+  "video_id": "8mZZlnbmOYE.005.mp4",
+  "video_path": "8mZZlnbmOYE.005.mp4",
+  "transcription": "I get a lot and I think it's something that takes up a lot of time in people's thought process. Here's how it works: If you sample in through the AS10's inputs, that's where the magic happens. So-,",
+  "original_scores": {
+    "extraversion": 0.19626168224299068,
+    "agreeableness": 0.5054945054945055,
+    "conscientiousness": 0.6504854368932039,
+    "neuroticism": 0.37499999999999994,
+    "openness": 0.34444444444444444
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 0.77,
+      "description": "The subject has a neutral-to-concerned expression with his eyebrows slightly furrowed and the corners of his mouth slightly downturned. He maintains direct eye contact with the camera.",
+      "bboxes": [
+        {
+          "frame_time": 0.385,
+          "x": 0.6050986842105264,
+          "y": 0.2710526315789474,
+          "w": 0.23092105263157894,
+          "h": 0.44473684210526315,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 0.385,
+          "x": 0.6154605263157895,
+          "y": 0.2894736842105263,
+          "w": 0.21019736842105263,
+          "h": 0.09210526315789473,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 0.385,
+          "x": 0.6169407894736842,
+          "y": 0.5289473684210526,
+          "w": 0.17911184210526315,
+          "h": 0.2131578947368421,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 0.385,
+          "x": 0.6021381578947368,
+          "y": 0.3684210526315789,
+          "w": 0.2546052631578947,
+          "h": 0.0868421052631579,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 0.77,
+      "end_time": 6.84,
+      "description": "As he begins speaking, his eyebrows raise and lower in sync with his speech. His gaze remains steady on the camera, and his mouth moves naturally with his words.",
+      "bboxes": [
+        {
+          "frame_time": 3.804999,
+          "x": 0.5947368421052631,
+          "y": 0.3447368421052632,
+          "w": 0.2679276315789474,
+          "h": 0.13157894736842105,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 3.804999,
+          "x": 0.6465460526315789,
+          "y": 0.55,
+          "w": 0.1361842105263158,
+          "h": 0.2,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 6.84,
+      "end_time": 15.15,
+      "description": "His eyebrows lift and remain slightly raised, and his eyes widen slightly as he shifts into an explanatory tone. His expression becomes more engaged, with more pronounced mouth movements to emphasize certain words.",
+      "bboxes": [
+        {
+          "frame_time": 15.15,
+          "x": 0.5503289473684211,
+          "y": 0.26052631578947366,
+          "w": 0.26200657894736845,
+          "h": 0.09473684210526316,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 10.995,
+          "x": 0.5828947368421052,
+          "y": 0.35526315789473684,
+          "w": 0.23536184210526317,
+          "h": 0.11052631578947368,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 10.995,
+          "x": 0.6036184210526315,
+          "y": 0.3078947368421053,
+          "w": 0.2087171052631579,
+          "h": 0.46578947368421053,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 10.995,
+          "x": 0.618421052631579,
+          "y": 0.5736842105263158,
+          "w": 0.14654605263157894,
+          "h": 0.1763157894736842,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 15.15,
+      "description": "The subject is shown from the chest up, in what appears to be a seated position. His head remains mostly stationary, with very subtle forward tilts and nods that align with the emphasis in his speech, particularly around 00:07 and 00:13.",
+      "bboxes": [
+        {
+          "frame_time": 0,
+          "x": 0.5503289473684211,
+          "y": 0.8289473684210527,
+          "w": 0.4496710526315789,
+          "h": 0.16842105263157894,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 0,
+          "x": 0.5725328947368421,
+          "y": 0.6684210526315789,
+          "w": 0.4274671052631579,
+          "h": 0.3236842105263158,
+          "note": "pose human-annotated",
+          "region": "torso"
+        },
+        {
+          "frame_time": 0.920524,
+          "x": 0.5976973684210526,
+          "y": 0.07105263157894737,
+          "w": 0.2679276315789474,
+          "h": 0.7394736842105263,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0.37,
+      "end_time": 6.84,
+      "description": "The subject speaks at a moderate, conversational pace in a mid-range pitch. The tone is even and clear.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 6.84,
+      "end_time": 8.04,
+      "description": "On the phrase \"Here's how it works,\" his speech rate increases slightly, and his pitch rises, creating a transitional, introductory effect.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 8.04,
+      "end_time": 14.39,
+      "description": "He returns to a moderate pace. There is a distinct stress placed on the word \"magic,\" articulated with a slight increase in pitch and volume for emphasis.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.15,
+      "description": "The subject is a dark-skinned male with a shaved head, wearing a dark t-shirt and a thin necklace. He is in an indoor setting, likely a home music studio, with a cool, blue-toned color grade. In the blurred background, a keyboard is visible to the left, a studio monitor speaker on a stand is in the center, and a large piece of art is on the wall. A logo for \"THE DAYDREAM SOUND\" is in the bottom-left corner, and another logo is in the top-right.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Low",
+      "score": 0.2,
+      "rationale": "The subject's Low Extraversion is indicated by his reserved and controlled physical demeanor. His head and torso remain largely still, lacking the broad, energetic gestures often seen in highly extraverted individuals. His vocal delivery, while clear, is at a moderate pace and steady tone. This composed and measured style of communication points towards an introverted nature, where energy is conserved rather than outwardly projected.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Medium",
+      "score": 0.51,
+      "rationale": "The subject's Medium Agreeableness is reflected in a communication style that is helpful but not effusively warm. He establishes and maintains direct eye contact, a common cue for building rapport and indicating sincerity. The instructive and clear tone suggests a cooperative intent to help the viewer understand. However, the general absence of smiling or overly friendly expressions places him in the medium range, indicating a balance between helpfulness and a more reserved, matter-of-fact social approach.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "High",
+      "score": 0.65,
+      "rationale": "A High Conscientiousness score is strongly supported by the subject's structured and deliberate communication. His explanation is methodical, using a clear introductory phrase ('Here's how it works') to organize his thoughts for the audience. He purposefully emphasizes the key term 'magic' with increased vocal pitch and volume, and his facial expression becomes more engaged during the explanation. This focused, intentional effort to convey information clearly and effectively is a hallmark of a conscientious individual.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Low",
+      "score": 0.37,
+      "rationale": "The subject's low score in Neuroticism is consistent with his calm and emotionally stable presentation. He maintains steady and direct eye contact, signaling confidence and a lack of social anxiety. His speech is clear and evenly paced, without any vocal jitters, stammering, or tension. The initial furrowing of his brows appears to be a sign of concentration rather than distress, as his overall calm posture and absence of fidgeting or self-soothing gestures project a strong sense of composure.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "Low",
+      "score": 0.34,
+      "rationale": "The subject's Low Openness is suggested by his highly pragmatic and straightforward communication style. He focuses entirely on a concrete, functional explanation of a process. His language is direct and to the point, avoiding abstract ideas, metaphors, or creative tangents. This grounded, instructional approach, centered on the 'how-to' aspect of a topic, is characteristic of individuals who favor practical and conventional methods of thinking and expression.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their Conscientiousness level?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[0.1s - 0.9s]"
+        },
+        {
+          "id": "B",
+          "text": "[6.7s - 7.5s]"
+        },
+        {
+          "id": "C",
+          "text": "[3.5s - 4.3s]"
+        },
+        {
+          "id": "D",
+          "text": "[10.8s - 11.6s]"
+        },
+        {
+          "id": "E",
+          "text": "[14.4s - 15.2s]"
+        },
+        {
+          "id": "F",
+          "text": "[5.1s - 5.9s]"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. Around 6.8s, the subject transitions from a neutral, listening-like state to a more engaged, explanatory one. He says 'Here's how it works,' and his eyebrows lift and his eyes widen slightly. This change marks the deliberate start of his structured explanation, a key indicator of his conscientious approach.\n- Option A is a video-based distractor. This interval shows his initial neutral-to-concerned expression, which is more related to concentration or Neuroticism than the deliberate structuring associated with Conscientiousness.\n- Option C is a video-based distractor. During this period, his expression is stable as he delivers the first sentence; no significant change relevant to Conscientiousness occurs.\n- Option D is a near-miss distractor. This interval captures the vocal emphasis on the word 'magic' and is a moment of high engagement, but it is the execution of the explanation, not the initial change or structuring cue that occurs earlier.\n- Option E is a video-based distractor. At the end of the clip, his engaged expression is already established; this interval does not contain a notable change.\n- Option F is a text-based distractor. This interval is in the middle of a sentence and contains no notable facial expression changes."
+    },
+    {
+      "category": "Mixed Emotion Discrimination",
+      "question": "During 0.0s - 0.8s, the person's emotional state is best characterized as which of the following? Consider both verbal and non-verbal cues.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Deep contemplation mixed with an air of detached academic analysis."
+        },
+        {
+          "id": "B",
+          "text": "Focused concentration tempered by a subtle feeling of apprehension."
+        },
+        {
+          "id": "C",
+          "text": "Mild annoyance at the topic tempered by a clear sense of obligation."
+        },
+        {
+          "id": "D",
+          "text": "Serious deliberation on the subject mixed with a subtle hint of doubt."
+        },
+        {
+          "id": "E",
+          "text": "Engaged enthusiasm for the topic mixed with instructional intentions."
+        },
+        {
+          "id": "F",
+          "text": "Neutral observation of the audience tempered by an inner uncertainty."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. In this initial period, the subject's eyebrows are slightly furrowed and his expression is described as 'neutral to concerned.' This, combined with direct eye contact, suggests he is concentrating on framing his thoughts for a topic he knows is complex for his audience. The slightly concerned look points to a touch of apprehension about being clear.\n- Option A is a text-based distractor. He is not detached; his direct eye contact signals engagement with the viewer. 'Deep contemplation' is too strong for the observed expression.\n- Option C is a text-based distractor. There are no visual cues for annoyance, such as tightened lips or eye-rolling. His expression is one of focus, not irritation.\n- Option D is a near-miss distractor. 'Serious deliberation' is close, but 'doubt' is less accurate than 'apprehension' or 'concentration.' The furrowed brow is more indicative of focus than skepticism.\n- Option E is a video-based distractor. This accurately describes his emotional state later in the video (after 6.8s) when he begins his explanation, but not his state at the very beginning.\n- Option F is a near-miss distractor. While 'neutral observation' is partially correct, 'inner uncertainty' or 'confusion' is not supported; the cues point more toward deliberate focus and concentration."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 0.4s, a region was detected in the video (x=0.617, y=0.529, w=0.179, h=0.213, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Slightly widened eyes indicating a shift in attention."
+        },
+        {
+          "id": "B",
+          "text": "A neutral mouth posture with no discernible expression."
+        },
+        {
+          "id": "C",
+          "text": "Emphatic mouth movements used to stress certain words."
+        },
+        {
+          "id": "D",
+          "text": "Raised eyebrows that signal a transition in the speech."
+        },
+        {
+          "id": "E",
+          "text": "A slightly downturned mouth suggesting mild displeasure."
+        },
+        {
+          "id": "F",
+          "text": "Natural lip articulation synchronized with quiet speech."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. The provided coordinates at 0.4s correspond to the person's mouth. At this moment, before he begins his main explanation, his mouth is closed and in a neutral position, as described by the observation corners of the mouth are normal.\n- Option A is a video-based distractor. The eyes do widen slightly, but this happens later in the video (around 11.0s) and is in a different spatial region (the eyes, not the mouth).\n- Option C is a video-based distractor. Emphatic mouth movements occur later in the video (around 11.0s) when he emphasizes the word 'magic'. The region is correct (mouth), but the time is wrong.\n- Option D is a video-based distractor. The eyebrows are raised later in the video (from 6.8s onwards) and are in a different spatial region.\n- Option E is a near-miss distractor. This is based on a common AI error pattern. The mouth corners are neutral, not downturned. This tests for fine-grained discrimination against a plausible but incorrect observation.\n- Option F is a video-based distractor. Natural lip articulation occurs while he is speaking (e.g., 0.8s - 6.8s), not at the 0.4s mark where his mouth is still relatively static before speech onset."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "Which of the following options correctly identifies the time and location of a facial gesture indicating a shift toward a more engaged, explanatory tone?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[10.5s - 11.5s], bbox: {x:0.62, y:0.57, w:0.15, h:0.18}"
+        },
+        {
+          "id": "B",
+          "text": "[14.7s - 15.2s], bbox: {x:0.55, y:0.26, w:0.26, h:0.10}"
+        },
+        {
+          "id": "C",
+          "text": "[0.2s - 0.7s], bbox: {x:0.62, y:0.29, w:0.21, h:0.09}"
+        },
+        {
+          "id": "D",
+          "text": "[3.3s - 4.3s], bbox: {x:0.60, y:0.35, w:0.27, h:0.13}"
+        },
+        {
+          "id": "E",
+          "text": "[6.0s - 6.5s], bbox: {x:0.55, y:0.26, w:0.26, h:0.10}"
+        },
+        {
+          "id": "F",
+          "text": "[1.0s - 2.0s], bbox: {x:0.60, y:0.31, w:0.21, h:0.47}"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. The shift to a more engaged tone is marked by the raising of his eyebrows, which occurs from 6.8s onwards. The provided time range [14.7s - 15.2s] falls within this period, and the bounding box {x:0.55, y:0.26, w:0.26, h:0.10} correctly isolates the eyebrow region at that time.\n- Option A is a video-based distractor. This bbox correctly identifies the mouth during the engaged period, but the key signal for the *shift* in engagement described in the data is the eyebrow raise, not just mouth movement.\n- Option C is a video-based distractor. This correctly identifies the eyebrow region but at the wrong time. At 0.2s-0.7s, the eyebrows are slightly furrowed in concentration, not raised in engagement.\n- Option D is a video-based distractor. This identifies the eye region during a period of stable, neutral expression, not a shift towards engagement.\n- Option E is a near-miss distractor. It has the correct spatial location (eyebrows) but the time range is just *before* the actual shift occurs at 6.8s, making it incorrect.\n- Option F is a text-based distractor. This identifies a general face region at a time when the expression is neutral and stable, not shifting."
+    },
+    {
+      "category": "Counterfactual Reasoning",
+      "question": "If the person had NOT exhibited the behavior observed around 10.0s - 12.0s, which of the following personality assessments would be MOST affected?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Low Neuroticism would be less certain, as his steady eye contact in the opening seconds provides the core evidence for his overall composure."
+        },
+        {
+          "id": "B",
+          "text": "High Conscientiousness would be weakened, as this moment is a key instance of deliberate instructional emphasis aimed at aiding comprehension."
+        },
+        {
+          "id": "C",
+          "text": "Low Extraversion would be impacted, as his consistently reserved and minimal physical movement is the crucial evidence supporting this rating."
+        },
+        {
+          "id": "D",
+          "text": "Medium Agreeableness would shift toward a lower rating, as this action is the main indicator of his otherwise helpful and cooperative intent."
+        },
+        {
+          "id": "E",
+          "text": "High Conscientiousness would be strengthened, as its absence would make his delivery more uniformly calm and thus more conscientiously controlled."
+        },
+        {
+          "id": "F",
+          "text": "Low Openness would be less clear, since this behavior provides a notable instance of imaginative language in an otherwise direct presentation."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. The behavior around 10.0s - 12.0s is the vocal and facial emphasis on the word 'magic'. This act of deliberately highlighting a key concept to make an explanation more effective and memorable is a strong piece of evidence for High Conscientiousness (being thorough, organized, and achievement-striving). Removing it would remove a prime example of this trait.\n- Option A is a video-based distractor. It correctly identifies the evidence for Low Neuroticism (steady eye contact) but incorrectly implies that the behavior at 10-12s is relevant to that assessment. The assessment for Neuroticism relies on behavior from other parts of the video.\n- Option C is a video-based distractor. The evidence for Low Extraversion is his overall still posture, which is independent of the specific vocal emphasis at 10-12s.\n- Option D is a text-based distractor. While being helpful relates to Agreeableness, his cooperative intent is demonstrated more broadly by his direct eye contact and clear instructional tone, not just this single moment of emphasis.\n- Option E is a near-miss distractor. It correctly identifies the trait (Conscientiousness) but incorrectly predicts the direction of the change. Removing a key piece of evidence for a trait would weaken, not strengthen, its assessment.\n- Option F is a text-based distractor. It presents a plausible but incorrect reasoning. While 'magic' could be seen as imaginative, the overall communication style remains highly pragmatic and direct, so the assessment of Low Openness is supported by many other cues and would not be significantly affected."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator18",
+      "version": 1,
+      "clues_total": 18,
+      "clues_correct": 15,
+      "clues_wrong_corrected": 2,
+      "clues_missing_skipped": 1,
+      "clues_bonus": 0
+    }
+  }
+}

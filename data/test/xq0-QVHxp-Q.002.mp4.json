@@ -1,0 +1,543 @@
+{
+  "video_id": "xq0-QVHxp-Q.002.mp4",
+  "video_path": "xq0-QVHxp-Q.002.mp4",
+  "transcription": "I was very disappointed with that movie. I was really let down with that movie. Another one I would say is Spiderman 3. I was really disappointed. I mean after what I saw from, you know, X-Men 2 and Spiderman 2, both movies were-",
+  "original_scores": {
+    "extraversion": 0.7102803738317757,
+    "agreeableness": 0.7912087912087912,
+    "conscientiousness": 0.6893203883495147,
+    "neuroticism": 0.7291666666666667,
+    "openness": 0.8444444444444444
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 2.72,
+      "description": "The subject's gaze is directed at the camera. His eyebrows are in a neutral position. His mouth is open as he speaks, with lips slightly rounded.",
+      "bboxes": [
+        {
+          "frame_time": 0,
+          "x": 0.40674342105263156,
+          "y": 0.25526315789473686,
+          "w": 0.13470394736842106,
+          "h": 0.1,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 0,
+          "x": 0.3726973684210526,
+          "y": 0.20526315789473684,
+          "w": 0.1805921052631579,
+          "h": 0.10789473684210527,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 2.082908,
+          "x": 0.44671052631578945,
+          "y": 0.4421052631578947,
+          "w": 0.07549342105263158,
+          "h": 0.11842105263157894,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 2.72,
+      "end_time": 5.22,
+      "description": "He briefly looks down towards his hands before his gaze returns to the camera. His eyebrows are slightly raised, and his lips are slightly pursed as he gestures.",
+      "bboxes": [
+        {
+          "frame_time": 3.233352,
+          "x": 0.3919407894736842,
+          "y": 0.35789473684210527,
+          "w": 0.15986842105263158,
+          "h": 0.07894736842105263,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 5.110392,
+          "x": 0.42154605263157896,
+          "y": 0.2894736842105263,
+          "w": 0.13914473684210527,
+          "h": 0.14210526315789473,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 4.117377,
+          "x": 0.4052631578947368,
+          "y": 0.45,
+          "w": 0.1287828947368421,
+          "h": 0.16052631578947368,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 4.117377,
+          "x": 0.32088815789473685,
+          "y": 0.5842105263157895,
+          "w": 0.2546052631578947,
+          "h": 0.3105263157894737,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 5.22,
+      "end_time": 15.36,
+      "description": "His eyes are slightly wider as he says \"Sike.\" Throughout the list of names, his expression is animated, with his gaze remaining on the camera, eyebrows slightly raised, and mouth movements synchronized with his rapid speech. His eyes widen slightly as he finishes the list.",
+      "bboxes": [
+        {
+          "frame_time": 7.617149,
+          "x": 0.3356907894736842,
+          "y": 0.17894736842105263,
+          "w": 0.31973684210526315,
+          "h": 0.6026315789473684,
+          "note": "human-annotated",
+          "region": "unknown"
+        },
+        {
+          "frame_time": 7.617149,
+          "x": 0.42450657894736843,
+          "y": 0.21578947368421053,
+          "w": 0.17467105263157895,
+          "h": 0.49473684210526314,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 7.617149,
+          "x": 0.4585526315789474,
+          "y": 0.26842105263157895,
+          "w": 0.1450657894736842,
+          "h": 0.1,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 7.617149,
+          "x": 0.4866776315789474,
+          "y": 0.4236842105263158,
+          "w": 0.07549342105263158,
+          "h": 0.12368421052631579,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 11.14114,
+          "x": 0.46151315789473685,
+          "y": 0.3,
+          "w": 0.1613486842105263,
+          "h": 0.11315789473684211,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 2.72,
+      "description": "The subject sits upright in a wooden chair. He gestures with both hands in front of his chest, palms facing inward.",
+      "bboxes": [
+        {
+          "frame_time": 0,
+          "x": 0.22467105263157894,
+          "y": 0.28421052631578947,
+          "w": 0.39226973684210525,
+          "h": 0.4105263157894737,
+          "note": "human-annotated",
+          "region": "unknown"
+        },
+        {
+          "frame_time": 0.496507,
+          "x": 0.2779605263157895,
+          "y": 0.6763157894736842,
+          "w": 0.4174342105263158,
+          "h": 0.29473684210526313,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 2.72,
+      "end_time": 5.22,
+      "description": "He brings his hands together, touching the tips of his index fingers to form a point.",
+      "bboxes": [
+        {
+          "frame_time": 4.541225,
+          "x": 0.3134868421052632,
+          "y": 0.6026315789473684,
+          "w": 0.26644736842105265,
+          "h": 0.3,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 5.22,
+      "end_time": 13.79,
+      "description": "He points his right index finger forward, then begins counting on his fingers as he lists names. He starts with one index finger, then brings his other index finger to cross it, then holds up three fingers, and then four. His head nods slightly with the rhythm of his speech.",
+      "bboxes": [
+        {
+          "frame_time": 12.753434,
+          "x": 0.3682565789473684,
+          "y": 0.13157894736842105,
+          "w": 0.2886513157894737,
+          "h": 0.6763157894736842,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 8.501174,
+          "x": 0.3519736842105263,
+          "y": 0.17105263157894737,
+          "w": 0.0725328947368421,
+          "h": 0.2236842105263158,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 12.753434,
+          "x": 0.5192434210526315,
+          "y": 0.4868421052631579,
+          "w": 0.16578947368421054,
+          "h": 0.37894736842105264,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 9.760607,
+          "x": 0.42598684210526316,
+          "y": 0.38421052631578945,
+          "w": 0.1805921052631579,
+          "h": 0.36578947368421055,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 13.79,
+      "end_time": 14.73,
+      "description": "After listing the final name, he makes a broad, sweeping gesture with his right hand, moving from left to right across his body.",
+      "bboxes": [
+        {
+          "frame_time": 13.79,
+          "x": 0.43042763157894737,
+          "y": 0.23684210526315788,
+          "w": 0.15838815789473684,
+          "h": 0.3763157894736842,
+          "note": "human-annotated",
+          "region": "unknown"
+        },
+        {
+          "frame_time": 14.580361,
+          "x": 0.38453947368421054,
+          "y": 0.2657894736842105,
+          "w": 0.19835526315789473,
+          "h": 0.3368421052631579,
+          "note": "human-annotated",
+          "region": "unknown"
+        },
+        {
+          "frame_time": 14.580361,
+          "x": 0.3194078947368421,
+          "y": 0.38421052631578945,
+          "w": 0.18651315789473685,
+          "h": 0.35,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 2.72,
+      "description": "Speech is delivered at a moderate pace and volume, with a conversational tone.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 2.72,
+      "end_time": 5.22,
+      "description": "The pace of speech slows slightly, with a brief pause after the word \"Curry.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 6.13,
+      "end_time": 14.73,
+      "description": "The pace of speech accelerates significantly as he lists the names. The delivery is rhythmic and staccato, with a rising intonation on each name, building in energy. The final phrase, \"That'd be my five,\" is spoken with a conclusive, falling intonation.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.36,
+      "description": "The subject is a young male with East Asian features and dark, spiky hair. He is wearing a black, short-sleeved athletic t-shirt with a small gray logo on the right side of his chest and a blue wristband on his left wrist. The setting is indoors, in a room with light-colored walls and bright, natural-looking light. Behind him is a large window with white panes and a wooden frame. He is sitting on a high-backed wooden chair. An electronic keyboard is visible in front of him.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "High",
+      "score": 0.71,
+      "rationale": "The subject's High Extraversion is supported by his energetic and expressive communication style. His speech rate is fast and accelerates as he gets into his topic, and his vocal energy visibly increases. This is complemented by a 'vivid' facial expression and the consistent use of large, illustrative hand gestures, such as counting on his fingers and making a final sweeping motion. These behaviors collectively indicate a high level of social energy and outward expressiveness, which are core facets of extraversion.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "High",
+      "score": 0.79,
+      "rationale": "Despite the topic of conversation being disappointment, the subject's demeanor aligns with a High Agreeableness score. His initial vocal tone is described as 'relaxed and natural,' and his facial expression begins from a neutral state. He expresses his negative opinion without aggression or hostility. The use of structured hand gestures, like bringing his fingertips together, suggests a controlled and non-confrontational manner of communication, which is characteristic of highly agreeable individuals.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "High",
+      "score": 0.69,
+      "rationale": "The subject demonstrates a High level of Conscientiousness through his structured and organized communication. When providing examples, he does not speak randomly but instead methodically uses his fingers to count and list them. This deliberate, orderly behavior reflects a structured thought process. The brief pause and downward glance before beginning his list can also be interpreted as a moment of cognitive organization, a common trait for conscientious individuals planning their response.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "High",
+      "score": 0.73,
+      "rationale": "A High Neuroticism score is indicated by the subject's focus on negative emotions and his physiological reaction to them. He verbally repeats his feelings of disappointment multiple times. This is accompanied by a significant acceleration in his speech rate and an increase in vocal energy as he lists the movies, suggesting a build-up of emotional arousal. The temporary break in eye contact and slightly pursed lips can also be seen as subtle indicators of processing negative feelings, which is consistent with this trait.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "Very High",
+      "score": 0.84,
+      "rationale": "The subject's Very High Openness is evident in his engagement with and critical evaluation of an aesthetic medium (film). He is not just recounting a story but is articulating a personal, critical judgment, comparing different works. This indicates intellectual curiosity. His animated and 'vivid' facial expressions, along with expressive hand gestures, demonstrate a deep and dynamic engagement with his own ideas and feelings about these creative works, which is a hallmark of individuals very high in openness to experience.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During 5.2s - 13.8s, the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Low Agreeableness due to the argumentative tone used while listing the movie titles he found so disappointing."
+        },
+        {
+          "id": "B",
+          "text": "Low Conscientiousness because of the disorganized and rambling way he presents the various cinematic examples."
+        },
+        {
+          "id": "C",
+          "text": "High Extraversion as shown by the consistently fast pace of speech and vocal energy he projects in this segment."
+        },
+        {
+          "id": "D",
+          "text": "High Conscientiousness, evidenced by the methodical and structured manner in which he enumerates his points."
+        },
+        {
+          "id": "E",
+          "text": "High Neuroticism because he repeats his negative feelings multiple times, showing an inability to move on."
+        },
+        {
+          "id": "F",
+          "text": "Low Openness, suggested by his narrow focus on only a few movies rather than a wider range of examples."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "The correct answer is D. During this interval, the person methodically counts on his fingers to list examples, a clear indicator of a structured and organized thought process, which is a core facet of High Conscientiousness.\nOption A is a text-based distractor; the transcript mentions disappointment, but his tone is energetic, not argumentative, making Low Agreeableness an incorrect inference from the text alone.\nOption B is a near-miss distractor; it correctly identifies the trait (Conscientiousness) but gets the direction wrong. His presentation is highly structured, not disorganized.\nOption C is a video-based distractor; while he does show High Extraversion, this trait is supported by his energy throughout the video, whereas the specific methodical counting in this interval is the strongest, most direct evidence for Conscientiousness.\nOption E is another video-based distractor; his repetition of disappointment occurs earlier in the video and supports Neuroticism, but the primary, defining behavior in the 5.2s-13.8s segment is the structured counting.\nOption F is a text-based distractor; focusing on specific examples to support a point is a sign of structured argument, not Low Openness. The analysis suggests Very High Openness based on his critical engagement with an art form."
+    },
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their High Neuroticism level?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[0.0s - 2.1s]"
+        },
+        {
+          "id": "B",
+          "text": "[11.1s - 13.2s]"
+        },
+        {
+          "id": "C",
+          "text": "[7.6s - 9.7s]"
+        },
+        {
+          "id": "D",
+          "text": "[2.7s - 5.1s]"
+        },
+        {
+          "id": "E",
+          "text": "[5.2s - 7.3s]"
+        },
+        {
+          "id": "F",
+          "text": "[13.8s - 15.4s]"
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "The correct answer is D. The analysis for High Neuroticism mentions subtle indicators of processing negative feelings. In the interval [2.7s - 5.1s], the person briefly breaks eye contact to look down at his hands and his lips purse slightly. This combination signifies a moment of internal cognitive and emotional processing before he launches into his energized list, which is consistent with the Neuroticism assessment.\nOption A is a video-based distractor; this interval shows his baseline neutral expression and direct eye contact, which is not particularly indicative of Neuroticism.\nOption B is a video-based distractor; his eyes widen slightly here, which is more related to expressive emphasis (Extraversion/Openness) than processing negative feelings.\nOption C is a video-based distractor; this interval shows him actively counting and speaking with an animated expression, reflecting his Extraversion, not a subtle shift related to Neuroticism.\nOption E is a video-based distractor; this is the beginning of his energetic enumeration, a behavior more strongly linked to Extraversion.\nOption F is a video-based distractor; this interval features a conclusive hand gesture, which is more related to Conscientiousness or Extraversion."
+    },
+    {
+      "category": "Mixed Emotion Discrimination",
+      "question": "During 2.7s - 5.2s, the person's emotional state is best characterized as which of the following? Consider both verbal and non-verbal cues.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Frustrated impatience mixed with a growing sense of agitated energy to speak."
+        },
+        {
+          "id": "B",
+          "text": "Bitter resentment tempered by a forced and somewhat artificial composure."
+        },
+        {
+          "id": "C",
+          "text": "Deep sadness mixed with a feeling of melancholic reflection on past events."
+        },
+        {
+          "id": "D",
+          "text": "Controlled disappointment tempered by a moment of cognitive organization."
+        },
+        {
+          "id": "E",
+          "text": "Annoyed resignation mixed with a clear reluctance to elaborate on the topic."
+        },
+        {
+          "id": "F",
+          "text": "Mild vexation tempered by an overt attempt to display confident authority."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "The correct answer is D. In this interval, the subject has just stated his disappointment. He then pauses, glances down, and purses his lips slightly before beginning his structured list. This combination of non-verbal cues suggests he is managing his feeling of disappointment while simultaneously organizing his thoughts for the structured explanation that follows.\nOption A is a near-miss distractor; while there is building energy, his pause and downward glance suggest cognitive planning more than 'frustrated impatience'.\nOption B is a text-based distractor; the term 'disappointment' might suggest 'resentment', but his overall demeanor is relaxed and non-confrontational, not bitter or forced.\nOption C is a text-based distractor; 'disappointment' can be related to 'sadness', but his expression and subsequent energetic speech do not align with deep sadness or melancholy.\nOption E is a text-based distractor; his subsequent eagerness to list examples contradicts the idea of 'reluctance to elaborate'.\nOption F is another text-based distractor; nothing in his demeanor suggests he is trying to display 'confident authority'; his communication style is natural and expressive."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 7.6s, a region was detected in the video (x=0.487, y=0.424, w=0.075, h=0.124, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A neutral and static eyebrow position is maintained."
+        },
+        {
+          "id": "B",
+          "text": "The subject is sitting upright in a high-backed chair."
+        },
+        {
+          "id": "C",
+          "text": "The eyes are widening slightly to add some emphasis."
+        },
+        {
+          "id": "D",
+          "text": "Mouth movements are synchronized with rapid speech."
+        },
+        {
+          "id": "E",
+          "text": "A multi-finger counting gesture is clearly performed."
+        },
+        {
+          "id": "F",
+          "text": "The individual is concluding his list of movie names."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "The correct answer is D. The provided coordinates at 7.6s isolate the person's mouth. At this moment, he is speaking rapidly while enumerating his list, and the observation log confirms that his 'mouth movements are synchronized with his rapid speech'.\nOption A is a video-based distractor; this describes the eyebrows, which are in a different spatial region (higher up on the face) than the specified bounding box.\nOption B is a video-based distractor; this describes the person's overall posture and is far outside the small bounding box focused on the face.\nOption C is a video-based distractor; the eyes widening occurs at a different time (around 11.1s) and in a different facial region (the eyes).\nOption E is a video-based distractor; the counting gesture is made with the hands, which are in a different spatial location from the mouth region defined by the bounding box.\nOption F is a text-based distractor; this describes the content of his speech but not the specific physical action occurring within the bounding box on his mouth."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "At which time and location does the person use a multi-finger gesture to methodically enumerate an example?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[0.0s]  x=0.37, y=0.21, w=0.18, h=0.11"
+        },
+        {
+          "id": "B",
+          "text": "[0.0s]  x=0.22, y=0.28, w=0.39, h=0.41"
+        },
+        {
+          "id": "C",
+          "text": "[13.8s]  x=0.43, y=0.24, w=0.16, h=0.38"
+        },
+        {
+          "id": "D",
+          "text": "[9.8s]  x=0.43, y=0.38, w=0.18, h=0.37"
+        },
+        {
+          "id": "E",
+          "text": "[3.2s]  x=0.39, y=0.36, w=0.16, h=0.08"
+        },
+        {
+          "id": "F",
+          "text": "[4.1s]  x=0.41, y=0.45, w=0.13, h=0.16"
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "The correct answer is D. The question asks to identify the time and location of a multi-finger enumeration gesture. Option D corresponds to timestamp 9.8s and a bounding box that correctly frames his hand as he is holding up multiple fingers to count, matching the observation log: then raises three fingers, then four.\nOption A points to his eyebrow region at the start of the video.\nOption B provides a wide shot of his upper body at the start.\nOption C points to his hand, but at 13.8s, as he is making a final, sweeping gesture, not the multi-finger counting gesture.\nOption E points to his eyes at 3.2s as he is looking down.\nOption F points to his mouth at 4.1s as his lips are slightly pursed."
+    },
+    {
+      "category": "Counterfactual Reasoning",
+      "question": "If the person had NOT exhibited the behavior observed around 5.2s - 13.8s, which of the following personality assessments would be MOST affected?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Extraversion might be rated lower, as his vocal energy during this period is the main sign of his social assertiveness."
+        },
+        {
+          "id": "B",
+          "text": "Neuroticism would likely be rated higher, because without the structured action, his fast speech would appear more anxious."
+        },
+        {
+          "id": "C",
+          "text": "Agreeableness would be perceived as lower, as the gesture itself is the primary evidence of his non-confrontational style."
+        },
+        {
+          "id": "D",
+          "text": "Conscientiousness would be rated lower, as this action is the most direct evidence for his organized thinking process."
+        },
+        {
+          "id": "E",
+          "text": "Openness could be assessed as higher, because removing this behavior would make his critique seem more abstract and less rigid."
+        },
+        {
+          "id": "F",
+          "text": "Agreeableness would seem much higher, as this specific behavior is the key indicator of his underlying critical attitude."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "The correct answer is D. The behavior in this interval is the methodical finger-counting to structure his list of examples. This is the single strongest piece of evidence for a structured, organized thought process, a core trait of High Conscientiousness. Removing it would significantly weaken the basis for this specific assessment.\nOption A is a video-based distractor; his high extraversion is also strongly supported by his fast speech rate and vivid facial expressions throughout the video, not just in this segment, so the assessment would be less affected.\nOption B is a near-miss distractor; it correctly identifies that the rating might change but incorrectly predicts the direction and reasoning. The action demonstrates control, so removing it might increase the perception of neuroticism, but the primary trait it supports is Conscientiousness.\nOption C is a text-based distractor; his Agreeableness is supported by his overall relaxed tone and non-aggressive communication, not specifically by the finger-counting gesture.\nOption E is a near-miss distractor; it correctly identifies the trait but proposes an incorrect causal link and direction of change. Removing organized evidence would not logically lead to a higher assessment of Openness.\nOption F is a near-miss distractor that gets both the direction and the trait wrong. The behavior supports Conscientiousness, not Agreeableness, and removing it wouldn't logically make him seem more agreeable."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator14",
+      "version": 1,
+      "clues_total": 33,
+      "clues_correct": 25,
+      "clues_wrong_corrected": 1,
+      "clues_missing_skipped": 7,
+      "clues_bonus": 0
+    }
+  }
+}

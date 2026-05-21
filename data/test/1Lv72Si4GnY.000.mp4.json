@@ -1,0 +1,454 @@
+{
+  "video_id": "1Lv72Si4GnY.000.mp4",
+  "video_path": "1Lv72Si4GnY.000.mp4",
+  "transcription": "Today, so stay tuned for that. Right now, I'm just watching Supergirl and yeah, I might be just catching up with some shows. Yeah.",
+  "original_scores": {
+    "extraversion": 0.4672897196261683,
+    "agreeableness": 0.2637362637362637,
+    "conscientiousness": 0.10679611650485439,
+    "neuroticism": 0.32291666666666663,
+    "openness": 0.41111111111111115
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 1.76,
+      "description": "The subject looks at the camera with a slight, closed-mouth smile as she speaks. Her eyebrows are slightly raised.",
+      "bboxes": [
+        {
+          "frame_time": 0.883178,
+          "x": 0.25945723684210525,
+          "y": 0.316666663320441,
+          "w": 0.29901315789473687,
+          "h": 0.47368421052631576,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 0.447538,
+          "x": 0.24317434210526315,
+          "y": 0.2824561370046515,
+          "w": 0.30641447368421054,
+          "h": 0.15526315789473685,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 1.76,
+      "end_time": 4.19,
+      "description": "Her expression becomes more animated as she raises her right index finger. Her mouth opens slightly, and the smile widens.",
+      "bboxes": [
+        {
+          "frame_time": 2.23439,
+          "x": 0.5954769736842105,
+          "y": 0.4929824527941252,
+          "w": 0.1569078947368421,
+          "h": 0.3631578947368421,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 2.451961,
+          "x": 0.23429276315789474,
+          "y": 0.2771929791099147,
+          "w": 0.399671052631579,
+          "h": 0.4868421052631579,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 3.074316,
+          "x": 0.43264802631578947,
+          "y": 0.6324561370046515,
+          "w": 0.17171052631578948,
+          "h": 0.25526315789473686,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 4.19,
+      "end_time": 11.41,
+      "description": "Her smile becomes more subdued as she talks, with her mouth moving naturally with speech. She maintains eye contact with the camera, and her eyebrows remain slightly raised.",
+      "bboxes": [
+        {
+          "frame_time": 5.286404,
+          "x": 0.3971217105263158,
+          "y": 0.6719298212151779,
+          "w": 0.17023026315789475,
+          "h": 0.15263157894736842,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 9.385664,
+          "x": 0.3423519736842105,
+          "y": 0.3508771896362305,
+          "w": 0.27976973684210527,
+          "h": 0.13157894736842105,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 8.082471,
+          "x": 0.2757401315789474,
+          "y": 0.12192982121517784,
+          "w": 0.30641447368421054,
+          "h": 0.1868421052631579,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 11.41,
+      "end_time": 15.15,
+      "description": "A wide smile spreads across her face, showing her upper teeth. Her cheeks are raised, and her eyes crinkle slightly at the corners.",
+      "bboxes": [
+        {
+          "frame_time": 12.676896,
+          "x": 0.3704769736842105,
+          "y": 0.6087719264783358,
+          "w": 0.22203947368421054,
+          "h": 0.14736842105263157,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 12.676896,
+          "x": 0.3068256578947368,
+          "y": 0.4903508738467568,
+          "w": 0.33898026315789476,
+          "h": 0.17894736842105263,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 12.676896,
+          "x": 0.3290296052631579,
+          "y": 0.35350876858359886,
+          "w": 0.29161184210526314,
+          "h": 0.12631578947368421,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 1.76,
+      "description": "The subject is lying down, propped up against a dark surface. Her right hand moves up to rest near her right shoulder.",
+      "bboxes": [
+        {
+          "frame_time": 0.408447,
+          "x": 0.15139802631578947,
+          "y": 0.13245613700465153,
+          "w": 0.5610197368421053,
+          "h": 0.8078947368421052,
+          "note": "pose human-annotated",
+          "region": "torso"
+        },
+        {
+          "frame_time": 0.600908,
+          "x": 0.5747532894736842,
+          "y": 0.6114035054257042,
+          "w": 0.4252467105263158,
+          "h": 0.36578947368421055,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 0.600908,
+          "x": 0.5629111842105263,
+          "y": 0.5903508738467568,
+          "w": 0.4144736842105263,
+          "h": 0.3368421052631579,
+          "note": "pose human-annotated",
+          "region": "shoulders"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 1.76,
+      "end_time": 3.16,
+      "description": "She raises her right index finger to the side of her face in a pointing gesture.",
+      "bboxes": [
+        {
+          "frame_time": 2.2815,
+          "x": 0.20764802631578946,
+          "y": 0.18508771595201995,
+          "w": 0.5358552631578948,
+          "h": 0.6052631578947368,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 2.2815,
+          "x": 0.5777138157894737,
+          "y": 0.5061403475309673,
+          "w": 0.20723684210526316,
+          "h": 0.28421052631578947,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 3.16,
+      "end_time": 11.41,
+      "description": "Her right hand is lowered to rest on her upper chest, near her collarbone.",
+      "bboxes": [
+        {
+          "frame_time": 4.809321,
+          "x": 0.18100328947368421,
+          "y": 0.5429824527941252,
+          "w": 0.5166118421052631,
+          "h": 0.4105263157894737,
+          "note": "pose human-annotated",
+          "region": "torso"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 11.41,
+      "end_time": 15.15,
+      "description": "As she smiles broadly, her right hand moves from her chest to touch her chin and lower neck area. Her head tilts slightly to her right.",
+      "bboxes": [
+        {
+          "frame_time": 12.683816,
+          "x": 0.30978618421052634,
+          "y": 0.3956140317414936,
+          "w": 0.32417763157894736,
+          "h": 0.41842105263157897,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 14.984689,
+          "x": 0.3527138157894737,
+          "y": 0.6903508738467568,
+          "w": 0.3123355263157895,
+          "h": 0.28421052631578947,
+          "note": "human-annotated",
+          "region": "chin"
+        },
+        {
+          "frame_time": 14.984689,
+          "x": 0.34087171052631576,
+          "y": 0.2140350843730726,
+          "w": 0.3730263157894737,
+          "h": 0.6447368421052632,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0.36,
+      "end_time": 3.39,
+      "description": "The subject speaks at a moderate pace in a mid-to-high pitch. Her pitch rises on the word \"tuned\".",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 3.39,
+      "end_time": 11.85,
+      "description": "Her speech continues in a cheerful, animated tone with natural pitch fluctuations on stressed syllables. The pace remains conversational.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 11.85,
+      "end_time": 14.12,
+      "description": "The subject lets out a soft, breathy laugh with a descending pitch.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.15,
+      "description": "The subject is a Black woman with dark, curly hair, wearing black-rimmed glasses. She is wearing a tank top with thin straps. The setting appears to be indoors and is dimly lit, with the main light source seemingly coming from in front of her, causing reflections in her glasses. She is reclining on a dark surface, possibly a leather couch, with a pink, white, and black patterned blanket or pillow behind her.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0.100908,
+      "end_time": 1.100908,
+      "description": "The subject is a Black woman with dark, curly hair, wearing black-rimmed glasses. She is wearing a tank top with thin straps. The setting appears to be indoors and is dimly lit, with the main light source seemingly coming from in front of her, causing reflections in her glasses. She is reclining on a dark surface, possibly a leather couch, with a pink, white, and black patterned blanket or pillow behind her.",
+      "bboxes": [
+        {
+          "frame_time": 0.600908,
+          "x": 0.2002467105263158,
+          "y": 0.13245613700465153,
+          "w": 0.4988486842105263,
+          "h": 0.7921052631578948,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Medium",
+      "score": 0.47,
+      "rationale": "The subject's Extraversion is rated as Medium. She exhibits some extraverted behaviors, such as speaking directly to a camera for an audience ('stay tuned'), using illustrative hand gestures, and displaying lively facial expressions and vocal intonation. However, these are balanced by more introverted indicators. Her posture is relaxed and reclining rather than energetic, she breaks eye contact by looking down, and her topic of conversation is a solitary activity (watching TV shows). This blend of social expressiveness and a more subdued, low-energy presentation supports a mid-range score.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Low",
+      "score": 0.26,
+      "rationale": "The subject's Agreeableness is rated as Low. While she appears pleasant, her behavior lacks the strong pro-social cues associated with high agreeableness. The content of her speech is entirely self-referential ('I'm just watching', 'I might be catching up') and does not express concern for or interest in others. Furthermore, her averted gaze, while potentially neutral, can be interpreted in this context as a failure to sustain a strong social connection with the viewer. The overall impression is one of casual self-disclosure rather than a concerted effort to build rapport, which is consistent with a lower level of agreeableness.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Very Low",
+      "score": 0.11,
+      "rationale": "The subject's Conscientiousness is rated Very Low. The evidence for this is strong and consistent across multiple channels. The setting is informal and unstructured, with the subject reclining casually on a couch. Her speech is spontaneous and unplanned, indicated by the indefinite phrasing ('I might be just catching up') and filler words ('Yeah'). The entire topic is centered on leisure and relaxation rather than goals, duties, or organization. This relaxed, unstructured, and spontaneous presentation is a classic behavioral marker for very low conscientiousness.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Low",
+      "score": 0.32,
+      "rationale": "The subject's Neuroticism is rated Low, indicating emotional stability. Her demeanor is consistently calm and relaxed. She displays genuine Duchenne smiles (e.g., at 12.7s, with raised cheeks and crinkling at the eyes) and speaks with a pleasant, stable vocal tone. Her comfortable, reclining posture further suggests a state of low stress or anxiety. The brief breaking of eye contact appears to be a natural part of her speech pattern rather than a sign of nervousness. The absence of tense body language, vocal strain, or negative affect supports this assessment.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "Medium",
+      "score": 0.41,
+      "rationale": "The subject's Openness is rated as Medium. There is evidence of a capacity for aesthetic sensitivity and expression, as seen in her animated facial expressions and lively vocal delivery while creating a video. Her choice of watching a fantasy show ('Supergirl') can also suggest an appreciation for imagination. However, these indicators are balanced by the conventional nature of her conversation, which is grounded in simple, everyday activities. The lack of abstract ideas, intellectual curiosity, or discussion of novel experiences in her speech points away from high openness, making a Medium score the most appropriate assessment.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During 3.2s - 11.4s, the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "High Extraversion, reflecting her overall communicative and expressive style."
+        },
+        {
+          "id": "B",
+          "text": "Low Agreeableness, based on the self-focused topic of her discussion here."
+        },
+        {
+          "id": "C",
+          "text": "High Conscientiousness, suggesting a planned and structured self-reporting."
+        },
+        {
+          "id": "D",
+          "text": "Very Low Conscientiousness, due to the spontaneous and leisure-focused nature."
+        },
+        {
+          "id": "E",
+          "text": "Low Neuroticism, indicated by the relaxed and calm vocal tone throughout."
+        },
+        {
+          "id": "F",
+          "text": "High Openness, linked to her discussion of watching an imaginative TV series."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "The correct answer is D. During this period, the person is casually reclining, speaks spontaneously ('I might be just catching up'), and discusses leisure activities. This combination of unstructured behavior, unplanned speech, and a focus on relaxation is strong evidence for Very Low Conscientiousness.\n\n- Option A is a video-based distractor. While she is expressive at other times (e.g., 1.8s-3.2s), the behavior in *this specific segment* is more indicative of low energy and spontaneity, which primarily informs the Conscientiousness score.\n- Option B is a text-based distractor. While the analysis does rate her as Low Agreeableness due to self-focused content, the most prominent *behavioral* cues in this time range (posture, spontaneity) point more directly to Conscientiousness.\n- Option C is a near-miss distractor. It correctly identifies Conscientiousness as the relevant dimension but gets the direction wrong. Her behavior is the opposite of planned and structured.\n- Option E is a video-based distractor. Her calm tone is evidence for Low Neuroticism, but this is a general trait displayed throughout the video, not the most specific conclusion to be drawn from the *content and structure* of her speech in this segment.\n- Option F is a text-based distractor. Connecting a fantasy show to High Openness is plausible from text alone, but her delivery is very simple and conventional, which does not strongly support High Openness."
+    },
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their Low Neuroticism level?",
+      "options": [
+        {
+          "id": "A",
+          "text": "0.2s - 1.4s"
+        },
+        {
+          "id": "B",
+          "text": "2.1s - 3.3s"
+        },
+        {
+          "id": "C",
+          "text": "4.5s - 5.7s"
+        },
+        {
+          "id": "D",
+          "text": "11.8s - 13.0s"
+        },
+        {
+          "id": "E",
+          "text": "8.8s - 10.0s"
+        },
+        {
+          "id": "F",
+          "text": "14.2s - 15.2s"
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "The correct answer is D. The personality analysis for Low Neuroticism (emotional stability) explicitly mentions the genuine Duchenne smile around 12.7s, which involves raised cheeks and crinkling at the eyes. The interval 11.8s - 13.0s precisely captures the onset and peak of this broad, relaxed smile, which is the strongest single piece of evidence for her calm and positive emotional state.\n\n- Option A (0.2s - 1.4s) shows her initial smile, but it is less pronounced than the one at the end.\n- Option B (2.1s - 3.3s) corresponds to a more animated, emphatic expression, which is more relevant to Extraversion than Neuroticism.\n- Option C (4.5s - 5.7s) shows a gentle smile while talking, but it is more subdued.\n- Option E (8.8s - 10.0s) is when she averts her gaze, which is more relevant to cognitive load or introversion, not directly to low neuroticism.\n- Option F (14.2s - 15.2s) shows her head tilting and hand moving, which are closing actions rather than the peak emotional expression."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "The person momentarily averts their gaze downwards while speaking, a behavior often associated with managing cognitive load or introspection. At which timestamp and location does this specific action occur?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[0.6s] x=0.57, y=0.61, w=0.43, h=0.37"
+        },
+        {
+          "id": "B",
+          "text": "[12.7s] x=0.37, y=0.61, w=0.22, h=0.15"
+        },
+        {
+          "id": "C",
+          "text": "[3.1s] x=0.43, y=0.63, w=0.17, h=0.26"
+        },
+        {
+          "id": "D",
+          "text": "[9.4s] x=0.34, y=0.35, w=0.28, h=0.13"
+        },
+        {
+          "id": "E",
+          "text": "[2.3s] x=0.21, y=0.19, w=0.54, h=0.61"
+        },
+        {
+          "id": "F",
+          "text": "[4.8s] x=0.18, y=0.54, w=0.52, h=0.41"
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "The correct answer is D. The observation log for [4.2s - 11.4s] explicitly states, 'she looks down, not maintaining eye contact' and provides a specific example at 9.4s. The coordinates x=0.34, y=0.35, w=0.28, h=0.13 at 9.4s correspond to the eye region, accurately capturing the moment of gaze aversion described in the question.\n\n- Option A points to her hand near her shoulder at the beginning of the video.\n- Option B points to her mouth during the broad smile at the end of the video.\n- Option C points to her mouth during a moment of animated speech.\n- Option E points to her overall face during the hand gesture.\n- Option F points to her torso as she is reclining."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator06",
+      "version": 1,
+      "clues_total": 26,
+      "clues_correct": 16,
+      "clues_wrong_corrected": 8,
+      "clues_missing_skipped": 1,
+      "clues_bonus": 1
+    }
+  }
+}

@@ -1,0 +1,428 @@
+{
+  "video_id": "MDoZUDTSayc.004.mp4",
+  "video_path": "MDoZUDTSayc.004.mp4",
+  "transcription": "[inaudible 00:00:16] with the Revlon Super Lustrous Lip Gloss 260, Rosy Future. Of course I encourage you guys to give it a go yourself. You can head to Revlon.com/lovestest.",
+  "original_scores": {
+    "extraversion": 0.5607476635514019,
+    "agreeableness": 0.6043956043956044,
+    "conscientiousness": 0.7669902912621359,
+    "neuroticism": 0.59375,
+    "openness": 0.6666666666666666
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 5.09,
+      "description": "Gaze is directed toward the camera. Her eyebrows are relaxed and slightly arched. Her mouth moves with speech, with lips puckering slightly at the beginning. At 00:04.6, she presses her lips together in a slight smile.",
+      "bboxes": [
+        {
+          "frame_time": 1.340621,
+          "x": 0.4222861842105263,
+          "y": 0.3298245580572831,
+          "w": 0.1924342105263158,
+          "h": 0.11052631578947368,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 2.406717,
+          "x": 0.3941611842105263,
+          "y": 0.2982456106888621,
+          "w": 0.2368421052631579,
+          "h": 0.07105263157894737,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 4.267469,
+          "x": 0.4459703947368421,
+          "y": 0.5429824527941252,
+          "w": 0.14358552631578947,
+          "h": 0.17105263157894737,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 5.09,
+      "end_time": 8.99,
+      "description": "Her gaze is directed downwards towards her lips. Her mouth is held slightly open and relaxed as she applies lip gloss.",
+      "bboxes": [
+        {
+          "frame_time": 6.306085,
+          "x": 0.41932565789473686,
+          "y": 0.39035087384675676,
+          "w": 0.22648026315789474,
+          "h": 0.15263157894736842,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 6.306085,
+          "x": 0.4459703947368421,
+          "y": 0.5798245580572831,
+          "w": 0.14654605263157894,
+          "h": 0.18157894736842106,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 8.99,
+      "end_time": 15.21,
+      "description": "Her gaze returns to the camera. Her eyebrows are slightly raised as she speaks. She smiles with an open mouth, showing her upper teeth. Her eyes are wide, and the corners crinkle as she smiles. She blinks a few times. At 00:13.8, she tilts her head slightly, maintaining eye contact and a broad smile.",
+      "bboxes": [
+        {
+          "frame_time": 9.76322,
+          "x": 0.4622532894736842,
+          "y": 0.26403508437307255,
+          "w": 0.21907894736842107,
+          "h": 0.1631578947368421,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 10.185808,
+          "x": 0.4415296052631579,
+          "y": 0.17456140016254626,
+          "w": 0.22796052631578947,
+          "h": 0.18947368421052632,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 9.76322,
+          "x": 0.4859375,
+          "y": 0.45087718963623047,
+          "w": 0.13914473684210527,
+          "h": 0.13421052631578947,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 9.950775,
+          "x": 0.45041118421052634,
+          "y": 0.23771929489938837,
+          "w": 0.21019736842105263,
+          "h": 0.17894736842105263,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 14.836015,
+          "x": 0.3379111842105263,
+          "y": 0.12192982121517784,
+          "w": 0.38338815789473685,
+          "h": 0.5815789473684211,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 10.278891,
+          "x": 0.4385690789473684,
+          "y": 0.4798245580572831,
+          "w": 0.18947368421052632,
+          "h": 0.19736842105263158,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 5.09,
+      "description": "The subject is sitting upright, facing the camera. She holds a tube of lip gloss in her right hand at chest level, gesturing with it as she speaks.",
+      "bboxes": [
+        {
+          "frame_time": 0.970889,
+          "x": 0.2964638157894737,
+          "y": 0.12192982121517784,
+          "w": 0.5269736842105264,
+          "h": 0.868421052631579,
+          "note": "human-annotated",
+          "region": "unknown"
+        },
+        {
+          "frame_time": 0.970889,
+          "x": 0.19136513157894736,
+          "y": 0.5008771896362305,
+          "w": 0.20279605263157896,
+          "h": 0.49473684210526314,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 5.09,
+      "end_time": 8.99,
+      "description": "Using her right hand, she brings the lip gloss applicator to her mouth and applies the product to her upper and lower lips. Her head is mostly still.",
+      "bboxes": [
+        {
+          "frame_time": 6.029672,
+          "x": 0.4518914473684211,
+          "y": 0.6061403475309673,
+          "w": 0.13766447368421053,
+          "h": 0.15526315789473685,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 8.189448,
+          "x": 0.39120065789473685,
+          "y": 0.13245613700465153,
+          "w": 0.24276315789473685,
+          "h": 0.7526315789473684,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 8.99,
+      "end_time": 15.21,
+      "description": "She lowers her hand out of the frame. Her head remains still as she begins speaking, then at 00:13.8 she tilts her head slightly to her right.",
+      "bboxes": [
+        {
+          "frame_time": 9.74184,
+          "x": 0.27870065789473686,
+          "y": 0.7745614001625463,
+          "w": 0.5018092105263158,
+          "h": 0.22105263157894736,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 9.74184,
+          "x": 0.46817434210526315,
+          "y": 0.07456140016254625,
+          "w": 0.20131578947368423,
+          "h": 0.6210526315789474,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 14.096632,
+          "x": 0.33643092105263156,
+          "y": 0.116666663320441,
+          "w": 0.2294407894736842,
+          "h": 0.5631578947368421,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0.69,
+      "end_time": 5.09,
+      "description": "Speech is at a moderate pace with a clear, even tone. The pitch is in a mid-range, with a slight downward inflection on the final word, \"Future.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 9.19,
+      "end_time": 15.21,
+      "description": "The speech rate becomes slightly faster and the overall pitch is slightly higher, creating a more energetic and encouraging tone. There is a notable rise in pitch on the words \"encourage\" and \"yourself.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.21,
+      "description": "The subject is a young woman with fair skin and long blonde hair styled in a high ponytail. She is wearing smoky eye makeup and a bold pink lip color. Her attire is a black lace top with a scalloped neckline. The setting is indoors, against a plain white wall. She is flanked by two white pots containing white orchids and holders filled with makeup brushes. The lighting is bright and even, characteristic of a studio setup.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Medium",
+      "score": 0.56,
+      "rationale": "The subject's Extraversion score is in the Medium range. She exhibits several extraverted behaviors, such as directly addressing an audience, maintaining eye contact with the camera, and using hand gestures while speaking. Her vocal tone becomes more energetic and encouraging towards the end. However, these sociable behaviors are balanced by a period of focused, introverted-like task concentration when she looks down to apply her lip gloss. This combination of outward engagement and task-focused behavior supports a moderate, rather than high, level of Extraversion.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "High",
+      "score": 0.6,
+      "rationale": "The subject scores High in Agreeableness. This is strongly supported by her prosocial and cooperative communication style. She explicitly encourages viewers ('I encourage you guys to give it a go yourself'), which is a direct expression of goodwill. Her warm demeanor is conveyed through a consistent smile, direct eye contact, and a friendly head tilt. Her vocal tone is intentionally encouraging, with a rising pitch on key words, all of which are classic behavioral indicators of a desire to build rapport and be perceived as friendly and trustworthy.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "High",
+      "score": 0.77,
+      "rationale": "The subject demonstrates High Conscientiousness through a structured and goal-oriented presentation. The setting is neat and organized, with a clean background and symmetrically placed props, indicating careful preparation. She is methodical in her actions, clearly stating the product's full name and number, and applying it with focused precision. Her speech is clear and articulate, and she delivers a specific call to action. This entire segment is task-focused and well-executed, reflecting the diligence, orderliness, and achievement-striving characteristic of high Conscientiousness.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Medium",
+      "score": 0.59,
+      "rationale": "The subject's Neuroticism level is Medium, indicating a generally stable but not completely unflappable disposition. On one hand, she appears composed and in control, with a steady posture and no overt signs of anxiety like fidgeting or trembling. On the other hand, being on camera is an inherently pressure-filled situation. The slight increase in her speech pace and pitch can be interpreted as a well-managed response to this performance pressure. This suggests a capacity for emotional regulation under mild stress, placing her in the medium range rather than at the low end (which would imply near-total calmness).",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "High",
+      "score": 0.67,
+      "rationale": "The subject scores High in Openness. This is evidenced by a strong engagement with aesthetics and creative self-expression. Her choice of a curated look (smoky eye makeup, bold lipstick, styled hair) and the carefully arranged, aesthetically pleasing background with orchids point to an appreciation for beauty. The act of creating a beauty tutorial itself is an expressive and creative endeavor. Furthermore, her encouragement for others to try the product ('give it a go yourself') aligns with the 'openness to experience' facet of this trait, suggesting an enjoyment of novelty and sharing new experiences.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During 9.0s - 15.2s, the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A significantly high level of the Conscientiousness trait."
+        },
+        {
+          "id": "B",
+          "text": "A significantly low level of the Neuroticism trait shown."
+        },
+        {
+          "id": "C",
+          "text": "A significantly high level of the Agreeableness trait."
+        },
+        {
+          "id": "D",
+          "text": "A significantly high level of the Extraversion trait."
+        },
+        {
+          "id": "E",
+          "text": "A significantly high level of the Openness to Experience."
+        },
+        {
+          "id": "F",
+          "text": "A significantly low level of the Agreeableness trait."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. During this period, the person smiles warmly, makes direct eye contact, tilts her head, and verbally encourages the audience ('I encourage you guys...'). These are classic prosocial, rapport-building behaviors that are primary indicators of high Agreeableness.\n- Option A is a video-based distractor. High Conscientiousness is supported by other parts of the video (e.g., the organized setting and methodical application), but the behaviors in this specific time range are more indicative of Agreeableness.\n- Option B is a text-based distractor. While she appears composed, this segment's energetic tone and faster speech are not the strongest evidence for low Neuroticism; the primary signal is social warmth.\n- Option D is a near-miss distractor. The social engagement also relates to Extraversion, but the specific 'encouraging' and friendly nature of the interaction is a more direct and stronger signal for Agreeableness than for the energy/sociability aspect of Extraversion.\n- Option E is a text-based distractor. Openness is supported by the overall creative context of a makeup tutorial, but the specific social cues in this segment are not its main evidence.\n- Option F is a near-miss distractor. It correctly identifies the relevant trait (Agreeableness) but proposes the wrong direction; her behavior is clearly friendly and cooperative, not disagreeable."
+    },
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their high Agreeableness level?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[13.5s - 14.5s]"
+        },
+        {
+          "id": "B",
+          "text": "[6.0s - 7.0s]"
+        },
+        {
+          "id": "C",
+          "text": "[9.0s - 10.0s]"
+        },
+        {
+          "id": "D",
+          "text": "[3.5s - 4.5s]"
+        },
+        {
+          "id": "E",
+          "text": "[1.1s - 2.1s]"
+        },
+        {
+          "id": "F",
+          "text": "[7.8s - 8.8s]"
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. The interval [9.0s - 10.0s] captures the critical transition from a task-focused, neutral expression (while finishing the lip gloss application) to a broad, warm, social smile directed at the camera. This shift into an engaging, friendly expression is the most significant event demonstrating her prosocial intent, which is central to high Agreeableness. The other intervals show either a static expression or minor changes not as relevant to this trait's core.\n- A, B, D, E, and F are all video-based distractors pointing to valid moments in the video, but none of them contain this key emotional shift. [13.5s - 14.5s] is a head tilt while already smiling, [6.0s - 7.0s] is mid-application with a neutral face, [3.5s - 4.5s] is speaking with a neutral face, [1.1s - 2.1s] is looking at the product, and [7.8s - 8.8s] is finishing the application."
+    },
+    {
+      "category": "Temporal-Causal Reasoning",
+      "question": "Consider the sequence of behaviors observed across the video. Which of the following best describes the causal chain linking the person's actions at different moments?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A direct persuasive appeal to the audience (9-15s) prompts a period of focused task execution (5-9s), followed by a product introduction (0-5s)."
+        },
+        {
+          "id": "B",
+          "text": "An introductory statement (0-5s) is followed by a persuasive audience appeal (9-15s), which then provides the rationale for the task execution (5-9s)."
+        },
+        {
+          "id": "C",
+          "text": "An initial presentational gesture (0-5s) leads to a period of task-focused execution (5-9s), which culminates in a direct, persuasive appeal (9-15s)."
+        },
+        {
+          "id": "D",
+          "text": "A period of silent self-monitoring (not present) leads to a compensatory display of confidence (9-15s), which is then justified by a demonstration of skill (5-9s)."
+        },
+        {
+          "id": "E",
+          "text": "A task-focused execution period (5-9s) is interrupted by a social engagement appeal (9-15s), which then leads back to an introductory gesture (0-5s)."
+        },
+        {
+          "id": "F",
+          "text": "An audience engagement attempt (0-5s) leads to a self-corrective behavior (not present), followed by a renewed attempt at persuasive communication (9-15s)."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. This option correctly maps the video's logical and temporal flow: 1. She introduces the product (0-5s). 2. She demonstrates its use (5-9s). 3. She concludes with a call to action based on the demonstration (9-15s). This represents a clear causal chain where each step enables the next.\n- Option A is a video-based distractor with a reversed temporal order.\n- Option B is a near-miss distractor. It has the correct components but scrambles the temporal order of the last two events, suggesting the appeal came before the task that justifies it.\n- Option D is a text-based distractor. It introduces abstract psychological states ('silent self-monitoring', 'compensatory display') that are not directly evidenced in the video.\n- Option E is a near-miss distractor. It incorrectly frames the final appeal as an 'interruption' rather than a 'culmination' and also gets the temporal order wrong.\n- Option F is a text-based distractor. It invents a 'self-corrective behavior' that does not occur in the video."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 6.3s, a region was detected in the video (x=0.419, y=0.390, w=0.226, h=0.153, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Eyebrows held in a relaxed and very gently arched position."
+        },
+        {
+          "id": "B",
+          "text": "The lips slightly pursed while she is beginning to speak."
+        },
+        {
+          "id": "C",
+          "text": "A downward gaze directed toward her own lips for application."
+        },
+        {
+          "id": "D",
+          "text": "A hand making a gesture with a makeup product container."
+        },
+        {
+          "id": "E",
+          "text": "The entire head region held mostly still facing forwards."
+        },
+        {
+          "id": "F",
+          "text": "Direct eye contact being made with the camera at that time."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. The provided coordinates at 6.3s correspond to the eye region. At this moment, she is applying lip gloss and is looking down at her mouth to do so. Therefore, 'a downward gaze' is the correct description.\n- Option A is a video-based distractor. This describes the eyebrows, which are near the specified bounding box but are not inside it.\n- Option B is a video-based distractor. This describes the mouth's action, which is spatially distinct from the eye region specified by the coordinates.\n- Option D is a video-based distractor. The hand is in a completely different area of the frame during the video.\n- Option E is a video-based distractor. The bounding box covers only the eyes, not the entire head.\n- Option F is a near-miss distractor. This describes the opposite of the correct action. Her eyes are looking down, not at the camera. This is a common error pattern."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator17",
+      "version": 1,
+      "clues_total": 24,
+      "clues_correct": 19,
+      "clues_wrong_corrected": 2,
+      "clues_missing_skipped": 3,
+      "clues_bonus": 0
+    }
+  }
+}

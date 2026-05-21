@@ -1,0 +1,299 @@
+{
+  "video_id": "h6LOjpCRXtY.002.mp4",
+  "video_path": "h6LOjpCRXtY.002.mp4",
+  "transcription": "Anterior pressure for the spine, helping to stabilize it. This gives you a more rigid torso, with better transmissional force, from hips to the bar. Plus a more stable foundation for over-hip lifts. The width of the...",
+  "original_scores": {
+    "extraversion": 0.2710280373831776,
+    "agreeableness": 0.5274725274725275,
+    "conscientiousness": 0.4951456310679611,
+    "neuroticism": 0.34374999999999994,
+    "openness": 0.4222222222222222
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 13,
+      "description": "The subject's gaze is directed upwards, away from the camera. Her eyebrows are relaxed and her mouth moves in sync with her speech. Her overall facial expression is neutral and focused.",
+      "bboxes": [
+        {
+          "frame_time": 1.710026,
+          "x": 0.41710526315789476,
+          "y": 0.1636842125340512,
+          "w": 0.2501644736842105,
+          "h": 0.14473684210526316,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 2.443933,
+          "x": 0.4082236842105263,
+          "y": 0.0768421072708933,
+          "w": 0.3004934210526316,
+          "h": 0.22105263157894736,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 4.551049,
+          "x": 0.42894736842105263,
+          "y": 0.4268421072708933,
+          "w": 0.13470394736842106,
+          "h": 0.1368421052631579,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 7.76988,
+          "x": 0.41118421052631576,
+          "y": 0.0400000020077354,
+          "w": 0.24720394736842105,
+          "h": 0.6,
+          "note": "face human-annotated",
+          "region": "face"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 13,
+      "end_time": 13.59,
+      "description": "The subject closes her eyes for a longer-than-normal blink, then reopens them.",
+      "bboxes": [
+        {
+          "frame_time": 13.17185,
+          "x": 0.4511513157894737,
+          "y": 0.2663157914814196,
+          "w": 0.21611842105263157,
+          "h": 0.1368421052631579,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 13.59,
+      "end_time": 15.53,
+      "description": "Her gaze returns to its previous position, upwards and away from the camera, as she continues speaking.",
+      "bboxes": [
+        {
+          "frame_time": 15.120816,
+          "x": 0.4452302631578947,
+          "y": 0.2531578967445775,
+          "w": 0.2131578947368421,
+          "h": 0.09736842105263158,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 15.120816,
+          "x": 0.47039473684210525,
+          "y": 0.437368423060367,
+          "w": 0.1480263157894737,
+          "h": 0.18947368421052632,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 15.53,
+      "description": "The subject is shown from the shoulders up, sitting relatively still. Her head has slight, subtle movements that correspond with the rhythm of her speech.",
+      "bboxes": [
+        {
+          "frame_time": 1.442185,
+          "x": 0.23207236842105264,
+          "y": 0.5742105283235249,
+          "w": 0.5195723684210526,
+          "h": 0.23157894736842105,
+          "note": "pose human-annotated",
+          "region": "shoulders"
+        },
+        {
+          "frame_time": 3.277004,
+          "x": 0.35641447368421053,
+          "y": 0.026842107270893298,
+          "w": 0.28421052631578947,
+          "h": 0.6421052631578947,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0.5,
+      "end_time": 10.23,
+      "description": "The subject speaks at a moderate, consistent pace with a clear tone and mid-range pitch. There are slight pitch increases for emphasis on words like \"spine\" and \"rigid torso.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 10.23,
+      "end_time": 15.53,
+      "description": "The speech continues at a steady pace and volume. The words are articulated clearly.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.53,
+      "description": "The subject is a young woman with dark hair tied back. She is wearing a blue athletic top with black and grey striped straps. The setting is an indoor room with light-colored walls, filmed during the day. A window is visible to the left, a floor lamp and a television are in the background, and a ceiling fan is seen at the top of the frame.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Low",
+      "score": 0.27,
+      "rationale": "The subject's behavior is indicative of low Extraversion. A key indicator is her consistent upward gaze, avoiding direct eye contact with the camera, which suggests a focus on internal thought processes rather than seeking external social engagement. Her physical demeanor is characterized by stillness and minimal, subtle head movements, lacking the expansive gestures and high energy often seen in extraverts. Furthermore, her vocal delivery is moderate and steady, without the animated pitch variation or rapid pace that typically signals high extraverted energy.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Medium",
+      "score": 0.53,
+      "rationale": "The subject's Agreeableness is in the medium range. Her overall expression is neutral and focused, and her eyebrows are relaxed, which demonstrates a lack of hostility or tension. The act of creating an instructional video implies a cooperative or helpful intent. However, the absence of overt signals of warmth, such as smiling or a softer vocal tone, prevents a higher rating. Her demeanor is business-like and informational rather than explicitly warm or compassionate, aligning well with a moderate level of Agreeableness.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Medium",
+      "score": 0.5,
+      "rationale": "The subject's presentation supports a medium level of Conscientiousness. Her speech is clear, articulate, and structured, indicating she is focused and prepared. She uses specific, technical terms ('transmissional force,' 'anterior pressure'), which suggests a diligent approach to understanding and conveying the information accurately. Her focused facial expression and steady delivery further underscore a task-oriented mindset. The evidence points to competence and preparedness, which are hallmarks of this trait, fitting a medium score.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Low",
+      "score": 0.34,
+      "rationale": "A low Neuroticism score is strongly supported by the subject's calm and stable demeanor. Throughout the video, she maintains a relaxed posture and a neutral, focused facial expression with no signs of tension or anxiety. Her speech is delivered at a steady pace and volume, free from vocal tremors or hesitation that might indicate nervousness. This consistent composure, even while recalling and explaining complex information, is characteristic of high emotional stability and low Neuroticism.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "Medium",
+      "score": 0.42,
+      "rationale": "The subject's behavior aligns with a medium level of Openness. Engaging in an educational presentation and using technical vocabulary suggests an intellectual curiosity and an interest in abstract concepts. Her upward gaze, while linked to introversion, is also associated with accessing memory and processing complex information, a cognitive style often seen in individuals open to new ideas. However, the subject matter is practical and specific rather than highly abstract or creative, and her presentation style is straightforward. This balance of intellectual engagement with a conventional delivery supports a medium score.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During 0.0s - 13.0s, the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "High Extraversion, reflecting a socially dominant and outgoing style."
+        },
+        {
+          "id": "B",
+          "text": "High Conscientiousness, suggested by the organized and diligent speech."
+        },
+        {
+          "id": "C",
+          "text": "Low Extraversion, seen in the withdrawn and internally focused manner."
+        },
+        {
+          "id": "D",
+          "text": "High Neuroticism, suggesting some underlying stress or performance fears."
+        },
+        {
+          "id": "E",
+          "text": "Low Agreeableness, shown by a highly detached and impersonal presentation."
+        },
+        {
+          "id": "F",
+          "text": "High Openness, implied by the use of abstract and technical language."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. The person's consistent upward gaze away from the camera, minimal body movement, and steady but not overly energetic vocal tone are classic indicators of introversion, or Low Extraversion, reflecting a focus on internal thought processes over external social engagement.\n\n- Option A is a near-miss distractor. It correctly identifies the relevant personality dimension (Extraversion) but gets the direction wrong; the behaviors observed are the opposite of what would indicate high extraversion.\n- Option B is a video-based distractor. The person does exhibit signs that support a medium Conscientiousness score (clear, structured speech), but the gaze aversion and stillness are more direct and stronger evidence for Low Extraversion during this period.\n- Option D is a near-miss distractor. It identifies an emotional stability dimension but in the wrong direction. The person's calm demeanor is evidence for Low Neuroticism, not High.\n- Option E is a text-based distractor. A model might incorrectly interpret 'neutral' or 'focused' as 'detached' or 'impersonal', leading to an assessment of Low Agreeableness. The data supports a medium, not low, level.\n- Option F is a text-based distractor. The use of technical language might seem to indicate high Openness, but the analysis places it as medium, and this trait is less directly supported by the non-verbal cues in this time range than Low Extraversion is."
+    },
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their Conscientiousness level?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[1.5s - 2.1s]"
+        },
+        {
+          "id": "B",
+          "text": "[4.3s - 4.9s]"
+        },
+        {
+          "id": "C",
+          "text": "[13.0s - 13.6s]"
+        },
+        {
+          "id": "D",
+          "text": "[7.5s - 8.1s]"
+        },
+        {
+          "id": "E",
+          "text": "[10.0s - 10.6s]"
+        },
+        {
+          "id": "F",
+          "text": "[0.2s - 0.8s]"
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. This interval captures a single, prolonged blink. This action serves as a cognitive 'punctuation mark,' a brief break in the otherwise continuous state of focused information delivery, which is related to the self-monitoring aspect of Conscientiousness.\n\n- Option A is a video-based distractor. During this time, the person's eyes are averted upwards, which is part of their baseline behavior for this segment, not a distinct change or micro-expression.\n- Option B is a video-based distractor. This interval shows the mouth moving during speech, which is a constant action throughout the video, not a specific, notable change in expression.\n- Option D is a video-based distractor. This period shows the person's baseline neutral and focused expression, representing a stable state rather than a change.\n- Option E is a text-based distractor. It is a plausible-sounding timestamp within the speech segment, but no specific facial event occurs here.\n- Option F is a text-based distractor. This is another plausible-sounding time near the beginning of the video where no notable expression change is observed."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 1.4s, a region was detected in the video (x=0.232, y=0.574, w=0.520, h=0.232, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A neutral and focused overall facial expression."
+        },
+        {
+          "id": "B",
+          "text": "Subtle head movements matching speech patterns."
+        },
+        {
+          "id": "C",
+          "text": "A relatively still upper torso and shoulder posture."
+        },
+        {
+          "id": "D",
+          "text": "Mouth movements synchronized with articulation."
+        },
+        {
+          "id": "E",
+          "text": "Eyes briefly closing during a brief, prolonged blink."
+        },
+        {
+          "id": "F",
+          "text": "A slight forward lean of the body to add emphasis."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. The provided bounding box coordinates at 1.4s cover the person's upper chest and shoulders. The observation data for this region confirms that the subject is sitting relatively still. Therefore, a still upper torso and shoulder posture is the correct description for the content of this specific bounding box.\n\n- Option A is a video-based distractor. A neutral and focused expression is visible at 1.4s, but it is located in the facial region, which is above and not within the specified bounding box.\n- Option B is a video-based distractor. Subtle head movements are occurring, but they are in the head region, outside the specified bounding box.\n- Option D is a video-based distractor. Mouth movements are also happening at this time, but they are localized to the mouth area of the face, not the upper torso region defined by the bounding box.\n- Option E is a near-miss distractor. This action (a prolonged blink) does occur, but at a much later time (around 13.2s) and in the eye region, making both the time and location incorrect.\n- Option F is a text-based distractor. The person does not lean forward to add emphasis; they remain relatively stationary throughout the clip."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator09",
+      "version": 1,
+      "clues_total": 13,
+      "clues_correct": 10,
+      "clues_wrong_corrected": 2,
+      "clues_missing_skipped": 1,
+      "clues_bonus": 0
+    }
+  }
+}

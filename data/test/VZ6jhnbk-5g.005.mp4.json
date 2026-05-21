@@ -1,0 +1,356 @@
+{
+  "video_id": "VZ6jhnbk-5g.005.mp4",
+  "video_path": "VZ6jhnbk-5g.005.mp4",
+  "transcription": "Yes I am loving my new car. I just traded in my BMW for another BMW. I had a 3 series, and I just got my first kind of SUV/Crossover car which is the X1, and I absolutely ...",
+  "original_scores": {
+    "extraversion": 0.7570093457943926,
+    "agreeableness": 0.7582417582417583,
+    "conscientiousness": 0.7572815533980582,
+    "neuroticism": 0.8020833333333334,
+    "openness": 0.6555555555555556
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 15.18,
+      "description": "The subject maintains direct eye contact with the camera throughout. She begins with a wide, bright smile, with the corners of her eyes crinkling. As she speaks, the smile softens into a pleasant, engaged expression with upturned mouth corners. Her eyebrows raise slightly when she emphasizes words like \"first\" (00:10.1) and \"absolutely\" (00:14.6). The wide, genuine smile returns at the end of her statement.",
+      "bboxes": [
+        {
+          "frame_time": 0.521147,
+          "x": 0.4629934210526316,
+          "y": 0.3347368441129986,
+          "w": 0.17911184210526315,
+          "h": 0.11052631578947368,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 0.521147,
+          "x": 0.47039473684210525,
+          "y": 0.49263158095510384,
+          "w": 0.10509868421052632,
+          "h": 0.13157894736842105,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 1.889426,
+          "x": 0.4674342105263158,
+          "y": 0.3400000020077354,
+          "w": 0.17023026315789475,
+          "h": 0.11578947368421053,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 3.510043,
+          "x": 0.45263157894736844,
+          "y": 0.5215789493761565,
+          "w": 0.17467105263157895,
+          "h": 0.12631578947368421,
+          "note": "human-annotated",
+          "region": "unknown"
+        },
+        {
+          "frame_time": 3.510043,
+          "x": 0.4881578947368421,
+          "y": 0.5163157914814196,
+          "w": 0.10805921052631579,
+          "h": 0.12105263157894737,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 6.408707,
+          "x": 0.4200657894736842,
+          "y": 0.23736842306036698,
+          "w": 0.1924342105263158,
+          "h": 0.4868421052631579,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 7.213106,
+          "x": 0.46595394736842105,
+          "y": 0.4794736862182617,
+          "w": 0.10805921052631579,
+          "h": 0.13157894736842105,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 15.18,
+          "x": 0.4585526315789474,
+          "y": 0.5057894756919459,
+          "w": 0.17171052631578948,
+          "h": 0.13157894736842105,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 15.18,
+      "description": "The subject is shown from the chest up, sitting upright and facing the camera directly. She makes small, subtle head nods and slight side-to-side tilts that are synchronized with the rhythm of her speech. Her shoulders remain relaxed and relatively still. No hand gestures are visible.",
+      "bboxes": [
+        {
+          "frame_time": 2.05812,
+          "x": 0.4541118421052632,
+          "y": 0.18473684411299857,
+          "w": 0.19391447368421053,
+          "h": 0.5184210526315789,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 4.534768,
+          "x": 0.28388157894736843,
+          "y": 0.7031578967445775,
+          "w": 0.478125,
+          "h": 0.11315789473684211,
+          "note": "pose human-annotated",
+          "region": "shoulders"
+        },
+        {
+          "frame_time": 4.534768,
+          "x": 0.22615131578947367,
+          "y": 0.8294736862182617,
+          "w": 0.10213815789473685,
+          "h": 0.16578947368421051,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 2.2,
+      "description": "The subject speaks at a moderate pace with a cheerful, melodic pitch contour. The word \"loving\" is stressed with a slight rise in pitch.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 2.2,
+      "end_time": 9.53,
+      "description": "The speech rate remains consistent. Pitch is in a stable mid-range with natural intonation, falling at the end of phrases like \"another BMW\".",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 9.53,
+      "end_time": 15.18,
+      "description": "The word \"first\" is emphasized with a distinct rise in pitch and a slight increase in volume. The pitch rises again on the word \"absolutely,\" conveying an enthusiastic tone.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.18,
+      "description": "The subject is a woman with fair skin and dark brown hair pulled back. She is wearing a gray knit sweater and a large gray and beige monogrammed scarf. The setting is an indoor room with bright, even lighting. The background features a white, multi-level shelving unit displaying various luxury items, including a Louis Vuitton box, a Jo Malone box, a Chanel mug, books, and a lamp with a patterned shade.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "High",
+      "score": 0.76,
+      "rationale": "The subject's High Extraversion is strongly supported by her consistent display of positive affect and social engagement. Throughout the video, she maintains direct eye contact with the camera and exhibits broad, genuine smiles, indicated by the crinkling at the corners of her eyes. This behavior suggests social confidence and a propensity for positive emotional expression. Her vocal delivery is energetic and warm, using a melodic tone and emphasizing words like 'loving' and 'absolutely' with a rising pitch to convey enthusiasm, which are classic markers of an extraverted, outgoing individual.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "High",
+      "score": 0.76,
+      "rationale": "A High level of Agreeableness is indicated by the subject's warm and approachable demeanor. Her facial expressions are consistently pleasant and her smiles appear genuine, creating a friendly and non-confrontational impression. Her vocal tone is melodic and inviting, lacking any sign of irritation or abruptness. Furthermore, her relaxed shoulders suggest a calm, easygoing temperament. These cues collectively point to a cooperative and warm personality, which are core facets of high Agreeableness.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "High",
+      "score": 0.76,
+      "rationale": "The subject's High Conscientiousness is inferred from cues related to orderliness and deliberate self-presentation. The background reveals a meticulously organized and curated space, with luxury items and books displayed in an intentional manner on a multi-level shelf. This attention to environmental detail is a strong indicator of an orderly and disciplined nature. Additionally, her articulate speech and put-together appearance (coordinating a sweater with a large scarf) suggest a thoughtful and purposeful approach to both communication and personal presentation, aligning with the traits of a conscientious individual.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Very High",
+      "score": 0.8,
+      "rationale": "While the subject's overt behaviors appear calm and positive, the Very High Neuroticism score can be understood through the lens of impression management and overcompensation. The highly controlled and idealized presentation—from the flawless smile to the perfectly curated background of luxury goods—can be interpreted as a mechanism to manage underlying anxiety about being judged or perceived negatively. This level of meticulous self-monitoring and environmental control often serves to counteract internal feelings of stress or self-doubt. The unwavering positivity could function as a social mask, a common strategy for individuals high in Neuroticism to conceal emotional volatility in a public-facing setting.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "High",
+      "score": 0.66,
+      "rationale": "The High Openness score is supported by the content of her speech and her expressive style. She explicitly discusses a new experience—getting her 'first kind of SUV/Crossover'—which demonstrates a willingness to embrace novelty. Furthermore, her appreciation for aesthetics, a key component of Openness, is strongly suggested by the curated display of design-conscious luxury items (Louis Vuitton, Chanel, Jo Malone) in her background. Her dynamic and melodic vocal delivery also reflects an expressive personality that is open to a range of feelings and experiences.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During [0.0s - 15.2s], the person's background environment exhibits a specific characteristic. Which Big Five personality dimension is most directly supported by this environmental cue?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Low Agreeableness, as the background's focus on luxury items could suggest some self-centeredness."
+        },
+        {
+          "id": "B",
+          "text": "High Extraversion, stemming from the consistently warm and engaging smile seen throughout the video."
+        },
+        {
+          "id": "C",
+          "text": "Low Openness, given the conventional and brand-focused nature of the items displayed on the shelf."
+        },
+        {
+          "id": "D",
+          "text": "Low Neuroticism, because the calm and ordered environment suggests a general absence of personal anxiety."
+        },
+        {
+          "id": "E",
+          "text": "High Conscientiousness, evidenced by the meticulously organized and curated display of personal items."
+        },
+        {
+          "id": "F",
+          "text": "High Neuroticism, because the perfect display might be a compensation for underlying inner insecurity."
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. The personality analysis directly links the 'meticulously organized and curated space' to High Conscientiousness. Option A is a text-based distractor; it presents a plausible but incorrect inference about Agreeableness based on the presence of luxury items, which is not supported by the subject's warm demeanor. Option B is a video-based distractor; it correctly identifies a trait (High Extraversion) and its evidence (smile) from the video, but the question specifically asks about the background environmental cue. Option C is a text-based distractor; it makes a plausible but unsupported leap from luxury brands to a lack of Openness. Option D is a near-miss distractor; it correctly identifies the orderly environment but draws the wrong conclusion about Neuroticism, as the analysis suggests the opposite (that such control could stem from high Neuroticism). Option F is another strong video-based distractor, as the analysis does consider this interpretation for Neuroticism, but the link between orderliness and Conscientiousness is more direct and primary."
+    },
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression occur that is most relevant to their social expressiveness?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[0.3s - 0.7s]"
+        },
+        {
+          "id": "B",
+          "text": "[1.7s - 2.1s]"
+        },
+        {
+          "id": "C",
+          "text": "[6.2s - 6.6s]"
+        },
+        {
+          "id": "D",
+          "text": "[7.0s - 7.4s]"
+        },
+        {
+          "id": "E",
+          "text": "[3.4s - 3.8s]"
+        },
+        {
+          "id": "F",
+          "text": "[14.8s - 15.2s]"
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. The observation notes identify that around 3.5s, her initially broad smile 'becomes gentler' ('smile softens') as she transitions from a greeting expression to a conversational one. This modulation of expression is a key aspect of social expressiveness. Option A marks the initial formation of the smile. Option B is when the Duchenne marker (eye crinkling) is prominent but not a point of significant change. Options C and D are moments of relative stability during her speech. Option F marks the return of the broad smile at the very end, which is a change, but the transition at 3.5s is a more subtle and nuanced shift in social signaling."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 3.5s, a region was detected in the video (x=0.488, y=0.516, w=0.108, h=0.121, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A general expression of pleasantness and engagement across the whole face."
+        },
+        {
+          "id": "B",
+          "text": "A steady and direct maintenance of eye contact directly with the camera."
+        },
+        {
+          "id": "C",
+          "text": "A brief but clear crinkling of the skin located at the outer eye corners."
+        },
+        {
+          "id": "D",
+          "text": "A very wide, open-mouthed smile indicating a high degree of sincerity."
+        },
+        {
+          "id": "E",
+          "text": "A subdued and gentler conversational smile."
+        },
+        {
+          "id": "F",
+          "text": "A subtle upward turn of the mouth's corners consistent with speaking."
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. The coordinates x=0.488, y=0.516, w=0.108, h=0.121 at 3.5s precisely frame the mouth. The observation log for this moment states the smile becomes gentler/softer. Option E is the most accurate description of this specific action in that specific region. Option A is a video-based distractor describing the whole face, not the specific bbox. Options B and C are video-based distractors describing the eyes, which are outside the specified bounding box. Option D describes the smile at the beginning (0.5s) and end (15.2s) of the video, not the one at 3.5s. Option F is a near-miss distractor; while the corners are upturned, the most notable action is the *change* from a broad smile to a softer one."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "Which option correctly identifies the time and location of the facial muscle contraction most indicative of a genuine, felt smile (Duchenne marker)?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[7.2s] In the region defined by (x=0.467, y=0.340, w=0.170, h=0.116)."
+        },
+        {
+          "id": "B",
+          "text": "[1.9s] In the region defined by (x=0.470, y=0.493, w=0.105, h=0.132)."
+        },
+        {
+          "id": "C",
+          "text": "[3.5s] In the region defined by (x=0.488, y=0.516, w=0.108, h=0.121)."
+        },
+        {
+          "id": "D",
+          "text": "[15.2s] In the region defined by (x=0.459, y=0.506, w=0.172, h=0.132)."
+        },
+        {
+          "id": "E",
+          "text": "[1.9s] In the region defined by (x=0.467, y=0.340, w=0.170, h=0.116)."
+        },
+        {
+          "id": "F",
+          "text": "[0.5s] In the region defined by (x=0.470, y=0.493, w=0.105, h=0.132)."
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. The Duchenne marker for a genuine smile is the contraction of the orbicularis oculi muscle, causing crinkling at the corners of the eyes. The observation log explicitly notes eye corners slightly crinkled with a corresponding bounding box at 1.9s that covers the eyes (x=0.467, y=0.340, w=0.170, h=0.116). Option A has the correct eye region but the wrong time. Option B has the correct time but the wrong region (it points to the mouth). Options C and D point to the mouth region at different times. Option F is a near-miss distractor; it correctly identifies the eye region at an early time, but the crinkling is most clearly noted and specified at 1.9s."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [
+      {
+        "check": "B",
+        "q_idx": 4,
+        "issue": "The correct answer, option E, describes a 'transition to' a smile, which is a process over time, rather than describing the state of the expression at the specific timestamp of 3.5s.",
+        "action": "Rephrased option E to describe the state of the smile at 3.5s, not the process of transitioning to it."
+      },
+      {
+        "check": "B",
+        "q_idx": 5,
+        "issue": "Option F is also a correct answer according to the observation logs, as it correctly identifies the eye region at a time when the Duchenne marker is visible. This makes the question ambiguous with two correct options (E and F).",
+        "action": "Modified the bounding box coordinates in option F to point to the mouth instead of the eyes, making it a clear distractor."
+      }
+    ],
+    "corrections": {
+      "mcq_questions[4].options[4].text": "A subdued and gentler conversational smile.",
+      "mcq_questions[5].options[5].text": "[0.5s] In the region defined by (x=0.470, y=0.493, w=0.105, h=0.132)."
+    },
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator09",
+      "version": 4,
+      "clues_total": 17,
+      "clues_correct": 14,
+      "clues_wrong_corrected": 1,
+      "clues_missing_skipped": 2,
+      "clues_bonus": 0
+    }
+  }
+}

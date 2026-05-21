@@ -1,0 +1,444 @@
+{
+  "video_id": "6WSr4IW6cNI.002.mp4",
+  "video_path": "6WSr4IW6cNI.002.mp4",
+  "transcription": "About cutting and bulking and this sort of thing. It's a little bit more of a bodybuilding term, if you will, because they typically will cut into a contest. Then if they're in more of an off season, they would tend to-",
+  "original_scores": {
+    "extraversion": 0.3457943925233645,
+    "agreeableness": 0.4615384615384615,
+    "conscientiousness": 0.42718446601941745,
+    "neuroticism": 0.5208333333333334,
+    "openness": 0.45555555555555555
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 3.42,
+      "description": "Gaze is directed at the camera. The eyebrows are slightly furrowed, and the mouth is tense, with the corners pulled slightly to the sides as he speaks.",
+      "bboxes": [
+        {
+          "frame_time": 0.946393,
+          "x": 0.3897203947368421,
+          "y": 0.30087718963623045,
+          "w": 0.1879934210526316,
+          "h": 0.08157894736842106,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 1.469651,
+          "x": 0.4178453947368421,
+          "y": 0.4298245580572831,
+          "w": 0.1287828947368421,
+          "h": 0.11842105263157894,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 3.42,
+      "end_time": 5.48,
+      "description": "The facial expression softens. Eyebrows raise slightly, and the left corner of the mouth pulls up into a brief, subtle smile on the words \"if you will.\"",
+      "bboxes": [
+        {
+          "frame_time": 5.086817,
+          "x": 0.42376644736842106,
+          "y": 0.18508771595201995,
+          "w": 0.21167763157894737,
+          "h": 0.4473684210526316,
+          "note": "face human-annotated",
+          "region": "face"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 5.48,
+      "end_time": 11.96,
+      "description": "The expression becomes more serious. The eyebrows are lowered and drawn together, and the eyes narrow slightly, particularly as he emphasizes the phrase \"bodybuilding term.\"",
+      "bboxes": [
+        {
+          "frame_time": 9.273161,
+          "x": 0.40896381578947366,
+          "y": 0.2771929791099147,
+          "w": 0.1879934210526316,
+          "h": 0.35,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 6.293166,
+          "x": 0.4134046052631579,
+          "y": 0.2429824527941252,
+          "w": 0.19539473684210526,
+          "h": 0.08947368421052632,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 11.96,
+      "end_time": 15.03,
+      "description": "The expression returns to a more neutral speaking state. The eyebrows relax and move up and down slightly in sync with his speech.",
+      "bboxes": [
+        {
+          "frame_time": 13.636309,
+          "x": 0.3527138157894737,
+          "y": 0.26403508437307255,
+          "w": 0.19539473684210526,
+          "h": 0.35,
+          "note": "face human-annotated",
+          "region": "face"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 15.03,
+      "description": "The subject is seated and framed from the upper chest up. He maintains a stable posture, making small, rhythmic nods and slight head turns that are synchronized with his speech.",
+      "bboxes": [
+        {
+          "frame_time": 0.786756,
+          "x": 0.15435855263157894,
+          "y": 0.10614034753096731,
+          "w": 0.7120065789473684,
+          "h": 0.8921052631578947,
+          "note": "human-annotated",
+          "region": "unknown"
+        },
+        {
+          "frame_time": 1.229947,
+          "x": 0.27277960526315786,
+          "y": 0.07456140016254625,
+          "w": 0.4292763157894737,
+          "h": 0.8868421052631579,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 2.388332,
+          "x": 0.12179276315789472,
+          "y": 0.19561403174149364,
+          "w": 0.7490131578947369,
+          "h": 0.8026315789473685,
+          "note": "pose human-annotated",
+          "region": "torso"
+        },
+        {
+          "frame_time": 1.696027,
+          "x": 0.36455592105263157,
+          "y": 0.08771929489938836,
+          "w": 0.24868421052631579,
+          "h": 0.618421052631579,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 7.5,
+      "description": "Speech is delivered at a moderate, consistent pace in a deep, resonant voice. The pitch is mostly level, with a slight downward inflection on the phrase \"if you will.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 8.7,
+      "end_time": 15.03,
+      "description": "The speech rate and volume return to their previous moderate levels. The word \"cut\" at 10.8 is clearly articulated with slight emphasis.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.03,
+      "description": "The subject is a large, muscular man with fair skin and a goatee. He is wearing a black beanie with a white graphic of a muscular figure, a black t-shirt, and a small lavalier microphone clipped to his collar. He is in an indoor setting, likely a gym, with a neutral beige wall behind him. Out-of-focus gym equipment is visible in the background. The lighting is soft and comes from the front.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Low",
+      "score": 0.35,
+      "rationale": "The subject's Extraversion is rated as Low. His demeanor is reserved and contained, which is characteristic of introversion. His vocal delivery is at a moderate, steady pace with a mostly flat pitch, lacking the animated and varied intonation of highly extraverted individuals. Furthermore, his physical energy is controlled; he maintains a stable posture with small, rhythmic head movements rather than using broad, expressive gestures. The overall impression is one of a thoughtful, focused individual rather than an outgoing and gregarious one.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Medium",
+      "score": 0.46,
+      "rationale": "The subject's Agreeableness is assessed as Medium. His communication style is neutral and informative. He does not display overt signs of warmth or effusiveness (markers of high Agreeableness), but his tone is calm and non-confrontational. The use of the phrase 'if you will' and the softening of his facial expression suggest a polite and considerate approach, aimed at ensuring the audience understands him. This balanced, matter-of-fact presentation, devoid of either strong warmth or antagonism, aligns with a mid-range score for Agreeableness.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Medium",
+      "score": 0.43,
+      "rationale": "The subject's Conscientiousness is rated as Medium. His behavior demonstrates a structured and goal-oriented approach. He is methodically explaining a technical concept, and his speech is clear and articulate, with slight emphasis on key terms like 'cut' for clarity. This indicates a focus on precision and effective communication. His stable posture and steady gaze at the camera further suggest self-discipline and focus on the task at hand. While he is organized, the clip does not provide evidence of the exceptional planning or drive that would characterize a very high score.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Medium",
+      "score": 0.52,
+      "rationale": "The subject's Neuroticism score is in the Medium range. While he maintains a generally calm and stable demeanor, there are subtle indicators of slight tension. The observation of a 'tense mouth' at the beginning of the clip can be interpreted as a minor sign of self-consciousness or stress. However, this is balanced by his ability to maintain composure, evident in his steady vocal delivery and stable posture throughout the clip. This combination of subtle tension cues alongside strong emotional regulation supports a moderate Neuroticism score.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "Medium",
+      "score": 0.46,
+      "rationale": "The subject's Openness is rated as Medium. He is engaged in an intellectual task—explaining a specialized term—which points away from low Openness. However, his approach is highly practical and factual. His language is straightforward, lacking abstract concepts, imaginative phrasing, or creative analogies that are often associated with high Openness. His presentation and the topic itself, while specialized, are within a conventional domain. This balance between engaging with ideas and presenting them in a concrete, conventional manner is indicative of a Medium level of Openness.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During 0.0s - 7.5s, the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "High Agreeableness, indicated by a consistently warm and inviting posture."
+        },
+        {
+          "id": "B",
+          "text": "Low Extraversion, suggested by a controlled demeanor and measured vocal tone."
+        },
+        {
+          "id": "C",
+          "text": "High Openness, demonstrated by the use of creative and abstract language."
+        },
+        {
+          "id": "D",
+          "text": "Low Neuroticism, shown by a complete absence of any signs of tension."
+        },
+        {
+          "id": "E",
+          "text": "Medium Conscientiousness, supported by the structured explanation provided."
+        },
+        {
+          "id": "F",
+          "text": "High Extraversion, evidenced through dynamic gestures and vocal modulation."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. During this period, the subject's reserved posture, stable and non-expansive gestures, and steady, low-pitched vocal delivery are primary indicators of introversion, which corresponds to Low Extraversion.\n\nOption A is a text-based distractor. The subject's posture is stable but not particularly warm or inviting, making this incorrect upon viewing.\nOption C is a text-based distractor. The language used is factual and direct, not creative or abstract, which contradicts the claim of High Openness.\nOption D is a video-based distractor. The video shows a 'tense mouth' at the beginning of this interval, which is a subtle sign of tension, making 'Low Neuroticism' an inaccurate assessment for this period.\nOption E is a video-based distractor. While his explanation is structured (a sign of Conscientiousness), the most prominent behavioral cues in this time frame relate to his social energy and expressiveness (Extraversion), not his organization.\nOption F is a near-miss distractor. It correctly identifies the relevant personality dimension (Extraversion) but points in the wrong direction (High instead of Low), as the observed behaviors are the opposite of dynamic and modulated."
+    },
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their medium Agreeableness level?",
+      "options": [
+        {
+          "id": "A",
+          "text": "0.1s - 1.6s"
+        },
+        {
+          "id": "B",
+          "text": "12.0s - 13.5s"
+        },
+        {
+          "id": "C",
+          "text": "3.4s - 5.5s"
+        },
+        {
+          "id": "D",
+          "text": "5.6s - 7.1s"
+        },
+        {
+          "id": "E",
+          "text": "8.8s - 10.3s"
+        },
+        {
+          "id": "F",
+          "text": "1.7s - 3.2s"
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. The observation notes state that from 3.4s to 5.5s, the person's 'facial expressionfacial expression becomes softer. The personality analysis links this softening to a 'polite and considerate approach', which is a key indicator for the medium Agreeableness rating.\n\nAll other options are video-based distractors. They represent other distinct periods in the video where the expression is either static or a different type of change occurs. For example, [0.1s-1.6s] is the initial tense expression, [5.6s-7.1s] is a neutral expression period which includes a blink, and [12.0s-13.5s] is the return to a neutral speaking state. These are all real segments but do not contain the specific expression change linked to agreeableness."
+    },
+    {
+      "category": "Mixed Emotion Discrimination",
+      "question": "During 0.0s - 3.4s, the person's emotional state is best characterized as which of the following? Consider both verbal and non-verbal cues.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mild irritation tempered by an effort to remain patient and composed."
+        },
+        {
+          "id": "B",
+          "text": "Calm assurance mixed with a subtle display of gentle, quiet authority."
+        },
+        {
+          "id": "C",
+          "text": "Focused concentration tempered by a mild degree of performance anxiety."
+        },
+        {
+          "id": "D",
+          "text": "Deep contemplation mixed with an expression of detached professionalism."
+        },
+        {
+          "id": "E",
+          "text": "Slight confusion combined with a concerted attempt to articulate clearly."
+        },
+        {
+          "id": "F",
+          "text": "Serious focus on the topic mixed with a clear feeling of stern resolve."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. This option accurately captures the dual cues present in this interval: the steady gaze at the camera indicates 'focused concentration', while the 'tense mouth' is a classic sign of slight stress or 'mild performance anxiety', as noted in the Neuroticism analysis.\n\nOption A is a text-based distractor. There are no verbal or non-verbal cues in the video that suggest any irritation or impatience.\nOption B is a video-based distractor. This description better fits the period after 3.4s when the subject's expression softens, not the initial tense phase.\nOption D is a near-miss distractor. While he is focused, 'deep contemplation' implies internal processing rather than external communication. 'Detached professionalism' misses the subtle tension indicated by the tense mouth.\nOption E is a text-based distractor. The subject's speech is clear and methodical, directly contradicting the idea of 'slight confusion'.\nOption F is a near-miss distractor. The tense mouth could be misinterpreted as 'stern resolve', but given the instructional context and other cues, anxiety is a more fitting interpretation than sternness."
+    },
+    {
+      "category": "Temporal-Causal Reasoning",
+      "question": "Consider the sequence of behaviors observed across the video. Which of the following best describes the causal chain linking the person's actions at different moments?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A task-focused delivery (t1) prompts a social gesture for emphasis (t2), which then causes an increase in self-consciousness (t3)."
+        },
+        {
+          "id": "B",
+          "text": "An initial moment of self-consciousness (t1) leads to a regulatory social gesture (t2), enabling a stable, task-focused delivery (t3)."
+        },
+        {
+          "id": "C",
+          "text": "A confident introduction (t1) is followed by a clarification of a technical term (t2), concluding with a summary statement (t3)."
+        },
+        {
+          "id": "D",
+          "text": "An initial state of self-consciousness (t1) leads to a brief loss of verbal fluency (t2), which is corrected by re-engaging (t3)."
+        },
+        {
+          "id": "E",
+          "text": "A neutral expression (t1) is interrupted by a need to recall information (t2), followed by a return to the focused explanation (t3)."
+        },
+        {
+          "id": "F",
+          "text": "A state of high confidence (t1) leads to a rhetorical pause for dramatic effect (t2), followed by a shift to a more casual tone (t3)."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. This option correctly maps the abstract causal chain to the video events: (t1) The initial 'tense mouth' (0.0s-3.4s) indicates self-consciousness. (t2) This is followed by a 'softening' expression (3.4s-5.5s), a regulatory social gesture. (t3) This allows him to settle into the stable, neutral, and focused delivery for the remainder of the clip.\n\nOption A is a video-based distractor with reversed temporal order. The self-consciousness appears at the beginning, not the end.\nOption C is a text-based distractor. It describes a generic, logical flow of an explanation but ignores the specific behavioral and emotional shifts observed in the video.\nOption D is a near-miss distractor. It correctly identifies the initial state (t1), but mischaracterizes the subsequent behavior (t2). There is no loss of verbal fluency; the softening expression is a regulatory action, not a sign of faltering.\nOption E is a text-based distractor. There is no visual evidence that the subject is trying to recall information; he appears to know the material well.\nOption F is a video-based distractor with incorrect causality. It misinterprets the initial tension as confidence and the regulatory softening as a rhetorical pause."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 1.7s, a region was detected in the video (x=0.365, y=0.088, w=0.249, h=0.618, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A tense mouth posture with its corners slightly pulled to the sides."
+        },
+        {
+          "id": "B",
+          "text": "A visible softening of the overall facial muscles to create rapport."
+        },
+        {
+          "id": "C",
+          "text": "Rhythmic head movements that are synchronized with speech patterns."
+        },
+        {
+          "id": "D",
+          "text": "A brief and transient eye blink occurring during a spoken phrase."
+        },
+        {
+          "id": "E",
+          "text": "A more serious and stern facial expression to emphasize a key point."
+        },
+        {
+          "id": "F",
+          "text": "A general reversion to a neutral, task-focused expression state."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. The provided bounding box covers the entire head region at 1.7s. The observation notes for this period explicitly state that the person Makes small, rhythmic nods and slight head turns in sync with his speech. This is the most prominent action of the entire specified region.\n\nOption A is a video-based distractor. While the tense mouth is present around this time, it is an expression in a much smaller sub-region (the mouth) and is not the most prominent action of the entire head region, which is moving.\nOption B is a video-based distractor. The facial softening occurs at a different time segment (3.4s-5.5s).\nOption D is a video-based distractor. The blink occurs at a different time (6.3s).\nOption E is a near-miss distractor based on common AI errors. The AI observer incorrectly identified the expression as 'more serious', but human verification corrected it to 'neutral'. The expression is not the most prominent action anyway; the movement is.\nOption F is a video-based distractor. The reversion to a neutral state happens later in the video (around 12.0s)."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "At which of the following moments does a subtle emotional regulation cue become most apparent, characterized by a decrease in facial tension to facilitate communication?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Time: 1.5s; Bbox: (x=0.418, y=0.430, w=0.129, h=0.118)"
+        },
+        {
+          "id": "B",
+          "text": "Time: 9.3s; Bbox: (x=0.409, y=0.277, w=0.188, h=0.350)"
+        },
+        {
+          "id": "C",
+          "text": "Time: 5.1s; Bbox: (x=0.424, y=0.185, w=0.212, h=0.447)"
+        },
+        {
+          "id": "D",
+          "text": "Time: 1.7s; Bbox: (x=0.365, y=0.088, w=0.249, h=0.618)"
+        },
+        {
+          "id": "E",
+          "text": "Time: 6.3s; Bbox: (x=0.413, y=0.243, w=0.195, h=0.089)"
+        },
+        {
+          "id": "F",
+          "text": "Time: 13.6s; Bbox: (x=0.353, y=0.264, w=0.195, h=0.350)"
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. The question asks for a cue of 'emotional regulation' involving a 'decrease in facial tension'. This directly corresponds to the observation at [3.4s-5.5s] where his 'facial expression becomes softer'. The timestamp 5.1s falls within this range, and the bounding box correctly localizes his face during this event.\n\nOption A is a video-based distractor. This timestamp and bbox point to the initial 'tense mouth', which is a sign of tension, not a decrease in it.\nOption B is a video-based distractor. This points to the neutral expression in the middle of his explanation, which is a stable state, not the moment of change (decrease in tension).\nOption D is a near-miss distractor. This points to the head nodding. While nodding can facilitate communication, it is a gesture, not a change in facial tension as specified in the question.\nOption E is a video-based distractor. This localizes the eye blink, which is a micro-expression but not the specific regulatory cue described.\nOption F is a video-based distractor. This shows his face as he returns to a neutral speaking state towards the end, after the main content delivery."
+    },
+    {
+      "category": "Counterfactual Reasoning",
+      "question": "If the person had NOT exhibited the behavior observed around 0.0s - 3.4s, which of the following personality assessments would be MOST affected?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The Agreeableness assessment would likely increase, as the initial moment would have appeared much more warm."
+        },
+        {
+          "id": "B",
+          "text": "Conscientiousness would be rated higher, as the absence of the initial behavior would suggest better preparation."
+        },
+        {
+          "id": "C",
+          "text": "Neuroticism would be assessed as lower, because the main subtle cue for underlying tension would have been absent."
+        },
+        {
+          "id": "D",
+          "text": "Extraversion would be rated higher, as the controlled start is key evidence for his introverted communication style."
+        },
+        {
+          "id": "E",
+          "text": "The Neuroticism score would be assessed as higher, since its absence would suggest strong emotional suppression."
+        },
+        {
+          "id": "F",
+          "text": "Openness to Experience would be rated lower, as the behavior signals intellectual focus on a new explanation."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. The behavior in this timeframe is the 'tense mouth'. The personality analysis explicitly states this is a 'minor sign of self-consciousness or stress' and uses it as a key piece of evidence, balanced against his otherwise calm demeanor, to support a 'moderate Neuroticism score'. Removing this cue would remove the primary evidence for underlying tension, likely resulting in a lower Neuroticism assessment.\n\nOption A is a text-based distractor. The tense mouth impacts the Neuroticism score far more directly than the Agreeableness score, which is more influenced by the later 'softening' expression.\nOption B is a text-based distractor. The analysis links the tension to self-consciousness (a Neuroticism-related trait), not a lack of preparation (a Conscientiousness-related trait).\nOption D is a video-based distractor. The evidence for Low Extraversion comes more from his sustained vocal tone and limited gesturing throughout the clip, not just the initial tense mouth.\nOption E is a near-miss distractor. It correctly identifies Neuroticism as the affected trait but provides an incorrect direction and a plausible but overly complex reasoning (suppression) that is not supported by the primary analysis.\nOption F is a text-based distractor. The link between a tense mouth and Openness is weak and not mentioned in the analysis; Openness is judged on his communication style and content."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator17",
+      "version": 1,
+      "clues_total": 19,
+      "clues_correct": 11,
+      "clues_wrong_corrected": 2,
+      "clues_missing_skipped": 6,
+      "clues_bonus": 0
+    }
+  }
+}

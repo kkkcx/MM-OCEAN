@@ -1,0 +1,346 @@
+{
+  "video_id": "8hGOOynn3ZU.000.mp4",
+  "video_path": "8hGOOynn3ZU.000.mp4",
+  "transcription": "... A spiritual idea, which might be a state of love without any boundary or a state of infinite awareness, something where there is no limit that's taking you towards -",
+  "original_scores": {
+    "extraversion": 0.2336448598130841,
+    "agreeableness": 0.4395604395604395,
+    "conscientiousness": 0.5728155339805825,
+    "neuroticism": 0.4375,
+    "openness": 0.38888888888888895
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 12,
+      "description": "The subject maintains direct eye contact with the camera. His eyebrows are in a neutral to slightly raised position. His eyes blink naturally. His mouth moves in sync with his speech, with the corners remaining neutral.",
+      "bboxes": [
+        {
+          "frame_time": 0,
+          "x": 0.3860197368421053,
+          "y": 0.4131578947368421,
+          "w": 0.2856907894736842,
+          "h": 0.16578947368421051,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 0,
+          "x": 0.3830592105263158,
+          "y": 0.4026315789473684,
+          "w": 0.2501644736842105,
+          "h": 0.11052631578947368,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 10.562651,
+          "x": 0.3875,
+          "y": 0.40789473684210525,
+          "w": 0.21463815789473684,
+          "h": 0.10789473684210527,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 10.562651,
+          "x": 0.4363486842105263,
+          "y": 0.5947368421052631,
+          "w": 0.18947368421052632,
+          "h": 0.11315789473684211,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 13.5,
+      "end_time": 15.11,
+      "description": "His expression returns to a neutral, engaged state, looking directly at the camera.",
+      "bboxes": [
+        {
+          "frame_time": 13.909781,
+          "x": 0.3726973684210526,
+          "y": 0.4473684210526316,
+          "w": 0.2338815789473684,
+          "h": 0.14210526315789473,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 13.909781,
+          "x": 0.40970394736842103,
+          "y": 0.45,
+          "w": 0.19391447368421053,
+          "h": 0.13421052631578947,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 15.11,
+      "description": "The subject is framed from the upper chest up and remains stationary. His head is centered and faces the camera directly, with only minute, natural movements accompanying his speech.",
+      "bboxes": [
+        {
+          "frame_time": 11.704892,
+          "x": 0.33125,
+          "y": 0.3868421052631579,
+          "w": 0.4144736842105263,
+          "h": 0.6,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 11.704892,
+          "x": 0.36233552631578947,
+          "y": 0.36578947368421055,
+          "w": 0.27828947368421053,
+          "h": 0.45789473684210524,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 12.4,
+      "description": "Speech is delivered at a calm, moderate pace with a stable pitch and volume. There are slight downward inflections at the end of clauses, such as on the words \"boundary\" and \"awareness.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 12.4,
+      "end_time": 15.11,
+      "description": "The pace quickens slightly on the phrase \"that's taking you towards-\".",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.11,
+      "description": "A middle-aged man with fair skin, blue eyes, long gray hair, and a full gray beard and mustache. He is wearing a bright orange turban and what appears to be an orange robe. The setting is outdoors, with a soft-focus background of dark green foliage. The lighting is diffuse and illuminates the subject from the front.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Low",
+      "score": 0.23,
+      "rationale": "The subject's Low Extraversion score is consistent with his contained and reserved demeanor. His vocal delivery is calm and at a moderate pace, with a steady pitch, lacking the energetic and assertive qualities typical of high extraversion. Furthermore, his body is largely still, with only minor, natural head movements. This physical composure, combined with neutral facial expressions, suggests a focus on internal thought rather than outward social stimulation or expressive emotional displays.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Medium",
+      "score": 0.44,
+      "rationale": "The Medium Agreeableness score is supported by the subject's open and non-confrontational presentation. He maintains direct and steady eye contact, which fosters a sense of connection and trustworthiness. His calm vocal tone and neutral facial expressions create a pleasant and approachable atmosphere. This combination of behaviors suggests a cooperative and harmonious disposition, consistent with a mid-range agreeableness level, without being overly effusive or ingratiating.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Medium",
+      "score": 0.57,
+      "rationale": "The subject's Medium Conscientiousness is reflected in his focused and deliberate communication style. He maintains a still, centered posture and direct eye contact, indicating a disciplined focus on the task of conveying his message. His speech is delivered at a moderate, controlled pace, suggesting thoughtfulness and a careful choice of words. This structured and purposeful presentation, aimed at clearly articulating a complex idea, aligns well with the organized and task-oriented nature of conscientiousness.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Medium",
+      "score": 0.44,
+      "rationale": "The Medium Neuroticism score is justified by the subject's overall state of calm composure, which points to emotional stability. His steady vocal delivery, natural blinking, and still posture show no signs of anxiety or stress. However, the slightly raised eyebrows and a minor quickening of his speech at the end of a thought indicate a level of cognitive engagement and internal processing. This balance between outward calm and subtle signs of internal effort suggests an individual who is generally stable but not entirely detached, fitting a medium neuroticism score.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "Low",
+      "score": 0.39,
+      "rationale": "Despite the abstract topic of conversation, the subject's behavioral cues support a Low Openness score. His physical delivery is highly controlled and conventional; he remains still, with a neutral expression and a steady, measured vocal tone. Individuals high in openness typically display more dynamic behaviors when exploring ideas, such as varied intonation or expressive gestures. The subject's restrained and unvaried presentation style suggests a more grounded and less outwardly exploratory approach to communication, which is consistent with a lower openness level.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's expression or speech occur that is most relevant to their Neuroticism level?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[0.0s - 2.5s]"
+        },
+        {
+          "id": "B",
+          "text": "[4.5s - 7.0s]"
+        },
+        {
+          "id": "C",
+          "text": "[12.4s - 15.1s]"
+        },
+        {
+          "id": "D",
+          "text": "[8.0s - 10.5s]"
+        },
+        {
+          "id": "E",
+          "text": "[1.5s - 4.0s]"
+        },
+        {
+          "id": "F",
+          "text": "[6.0s - 8.5s]"
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The audio observation notes that the subject's speech quickens slightly from 12.4s to 15.1s. The personality analysis specifically links this change to 'cognitive engagement and internal processing', which justifies the Medium (rather than Low) Neuroticism score.\n\n- Options A, B, E, and F are video-based distractors. They are valid time intervals within the video but represent the long, initial phase where the subject's speech and expression are stable and unchanging.\n- Option D is a near-miss distractor. A natural blink occurs around 10.6s, which is a facial change, but it's a routine action and not the specific notable change the analysis uses as evidence for cognitive processing related to Neuroticism."
+    },
+    {
+      "category": "Mixed Emotion Discrimination",
+      "question": "During 0.0s - 12.0s, the person's emotional state is best characterized as which of the following? Consider both verbal and non-verbal cues.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Passive detachment tempered by mild academic interest"
+        },
+        {
+          "id": "B",
+          "text": "Calm assurance combined with a hint of social anxiety"
+        },
+        {
+          "id": "C",
+          "text": "Intellectual contemplation mixed with focused sincerity"
+        },
+        {
+          "id": "D",
+          "text": "Spiritual tranquility mixed with emotional vulnerability"
+        },
+        {
+          "id": "E",
+          "text": "Placid contentment tempered by a sense of faint nostalgia"
+        },
+        {
+          "id": "F",
+          "text": "Deep concentration combined with subtle inner amusement"
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The subject is discussing an abstract topic with a calm, deliberate tone and direct eye contact. This combination suggests a state of thoughtful consideration ('intellectual contemplation') combined with a genuine intent to communicate clearly ('focused sincerity').\n\n- Option A is a near-miss distractor. While 'academic interest' is plausible, 'passive detachment' is incorrect; the direct eye contact shows active engagement, not detachment.\n- Option B is a text-based distractor because 'social anxiety' is directly contradicted by the subject's overall calm and composed demeanor throughout the clip.\n- Option D is a text-based distractor that sounds plausible given the 'spiritual' topic mentioned in the transcript, but there are no non-verbal cues (like quavering voice or averted gaze) to support 'emotional vulnerability'.\n- Option E is a text-based distractor as there are no visual or auditory cues to suggest 'contentment' or 'nostalgia'.\n- Option F is a near-miss distractor. 'Deep concentration' is accurate, but 'subtle inner amusement' is not supported; the mouth and eyes remain neutral without any hint of a smile."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 11.7s, a region was detected in the video (x=0.362, y=0.366, w=0.278, h=0.458, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Eyebrows held in a neutral to slightly raised position"
+        },
+        {
+          "id": "B",
+          "text": "Mouth movements synchronized with calm verbal delivery"
+        },
+        {
+          "id": "C",
+          "text": "A centered head posture with minor natural movements"
+        },
+        {
+          "id": "D",
+          "text": "Direct and unwavering gaze maintained toward the camera"
+        },
+        {
+          "id": "E",
+          "text": "An overall facial expression that is neutral and focused"
+        },
+        {
+          "id": "F",
+          "text": "A momentary and natural eye blink during the discourse"
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The provided bounding box covers the subject's entire head. The most accurate description of the action of this entire region is its overall posture and movement, which is centered, stable, and exhibits only minor movements related to speaking.\n\n- Options A, B, and D are video-based distractors. They describe actions of sub-regions (eyebrows, mouth, eyes) *within* the specified bounding box, but they do not describe the action of the entire region itself.\n- Option E is a near-miss distractor. While the expression is indeed neutral and focused, this is a description of the *state* of the face, whereas the question asks for the most prominent *expression or action*. The physical action of the entire head region is its stable posture.\n- Option F is a video-based distractor that describes an event (a blink) that occurs at a different time (around 10.6s), not at the specified 11.7s timestamp."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "At which specific moment and location is there a subtle, non-verbal cue indicating focused attention while the person is speaking?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[10.6s] at bbox (x=0.436, y=0.595, w=0.189, h=0.113)"
+        },
+        {
+          "id": "B",
+          "text": "[13.9s] at bbox (x=0.373, y=0.447, w=0.234, h=0.142)"
+        },
+        {
+          "id": "C",
+          "text": "[0.0s] at bbox (x=0.383, y=0.403, w=0.250, h=0.111)"
+        },
+        {
+          "id": "D",
+          "text": "[0.0s] at bbox (x=0.331, y=0.387, w=0.414, h=0.600)"
+        },
+        {
+          "id": "E",
+          "text": "[14.2s] at bbox (x=0.383, y=0.403, w=0.250, h=0.111)"
+        },
+        {
+          "id": "F",
+          "text": "[0.0s] at bbox (x=0.436, y=0.595, w=0.189, h=0.113)"
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The cue for focused attention is the 'neutral to slightly raised' eyebrows, as noted in the observation from 0.0s. The bounding box provided in option C corresponds exactly to the eyebrow region at that initial moment.\n\n- Option A is a video-based distractor. The location is the mouth and the time is during speech, but this isn't the primary cue for focused attention described.\n- Option B is a video-based distractor. This time and location correspond to the neutral facial expression at the end of the clip, after the main thought has been expressed.\n- Option D is a near-miss distractor. The time is correct (0.0s), but the bounding box is for the entire upper torso, which is too general and not specific to the subtle facial cue of the eyebrows.\n- Option E is a near-miss distractor. The location (eyebrow bbox) is correct, but the time (14.2s) is incorrect; by this point, the expression has returned to a more neutral state, and the initial attentional cue is less prominent.\n- Option F is a video-based distractor. The time is correct (0.0s), but the bounding box corresponds to the mouth region, not the eyebrows."
+    },
+    {
+      "category": "Counterfactual Reasoning",
+      "question": "If the person had NOT exhibited the behavior observed around 12.4s - 15.1s, which of the following personality assessments would be MOST affected?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Agreeableness would be rated higher, as that behavior signals some impatience with the audience."
+        },
+        {
+          "id": "B",
+          "text": "Conscientiousness would be rated lower, because the steady, focused delivery would be undermined."
+        },
+        {
+          "id": "C",
+          "text": "Neuroticism might be rated lower, as this moment provides key evidence for cognitive engagement."
+        },
+        {
+          "id": "D",
+          "text": "Neuroticism might be rated higher, as the absence of this subtle change would suggest repression."
+        },
+        {
+          "id": "E",
+          "text": "Openness would be rated higher, because that specific behavior is the main indicator of restraint."
+        },
+        {
+          "id": "F",
+          "text": "Extraversion would be rated higher, as the behavior counters the low-energy presentation seen earlier."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The behavior in this period is a slight quickening of speech. The analysis uses this specific cue as evidence of 'cognitive engagement and internal processing', which prevents an otherwise completely calm demeanor from being rated as Low Neuroticism. Removing this cue would remove the primary evidence for this internal activity, likely lowering the Neuroticism score towards greater emotional stability.\n\n- Option A is a text-based distractor. It presents a plausible social interpretation (impatience), but the analysis does not use this behavior as evidence for Agreeableness.\n- Option B is a video-based distractor. It misinterprets the behavior; the quickening doesn't undermine the focus but rather shows cognitive load. Furthermore, Conscientiousness is primarily supported by the long, steady phase *before* this moment.\n- Option D is a near-miss distractor. It correctly identifies Neuroticism as the affected trait but gets the direction of the change wrong. Removing a sign of cognitive engagement would suggest *more* stability, not less.\n- Option E is a text-based distractor. The assessment of Low Openness is based on the *overall* restrained and unvaried style throughout the video, not just this one specific moment of speech acceleration.\n- Option F is a text-based distractor. The quickening of speech is interpreted as cognitive, not social or energetic in an extraverted sense. The evidence for Low Extraversion (calm tone, stillness) is overwhelming and would not be significantly altered by the absence of this brief change."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator14",
+      "version": 1,
+      "clues_total": 12,
+      "clues_correct": 11,
+      "clues_wrong_corrected": 0,
+      "clues_missing_skipped": 1,
+      "clues_bonus": 0
+    }
+  }
+}

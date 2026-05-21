@@ -1,0 +1,503 @@
+{
+  "video_id": "puLXzqUvm_U.002.mp4",
+  "video_path": "puLXzqUvm_U.002.mp4",
+  "transcription": "Yes. Where was I? [inaudible 00:00:54] asked that, I probably said that. Mariana.",
+  "original_scores": {
+    "extraversion": 0.35514018691588783,
+    "agreeableness": 0.3956043956043956,
+    "conscientiousness": 0.4466019417475728,
+    "neuroticism": 0.2395833333333333,
+    "openness": 0.33333333333333337
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 1.25,
+      "description": "The subject's eyes are initially closed, then she looks down and to her right. Her gaze then shifts up towards the camera as her lips form a slight, brief smile.",
+      "bboxes": [
+        {
+          "frame_time": 0.320583,
+          "x": 0.3438322368421053,
+          "y": 0.4771929791099147,
+          "w": 0.23832236842105264,
+          "h": 0.10789473684210527,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 0.96175,
+          "x": 0.3245888157894737,
+          "y": 0.3798245580572831,
+          "w": 0.24720394736842105,
+          "h": 0.14473684210526316,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 1.092897,
+          "x": 0.3349506578947368,
+          "y": 0.6219298212151778,
+          "w": 0.20723684210526316,
+          "h": 0.12631578947368421,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 1.25,
+      "end_time": 4.88,
+      "description": "The subject's gaze shifts down and to her left. Her eyebrows are neutral and her lips are pressed together in a neutral expression. She performs a slow blink.",
+      "bboxes": [
+        {
+          "frame_time": 3.536639,
+          "x": 0.4977796052631579,
+          "y": 0.42719297910991466,
+          "w": 0.19539473684210526,
+          "h": 0.16052631578947368,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 3.662394,
+          "x": 0.4977796052631579,
+          "y": 0.316666663320441,
+          "w": 0.1879934210526316,
+          "h": 0.16578947368421051,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 2.200367,
+          "x": 0.4474506578947368,
+          "y": 0.6377192948993884,
+          "w": 0.16875,
+          "h": 0.09736842105263158,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 3.99272,
+          "x": 0.46817434210526315,
+          "y": 0.31140350542570416,
+          "w": 0.21759868421052633,
+          "h": 0.5210526315789473,
+          "note": "face human-annotated",
+          "region": "face"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 4.88,
+      "end_time": 15.1,
+      "description": "Her head is tilted slightly to her right, with her gaze remaining directed down and to her left. Her facial expression is neutral, with natural mouth movements as she speaks.",
+      "bboxes": [
+        {
+          "frame_time": 8.570442,
+          "x": 0.36011513157894737,
+          "y": 0.13245613700465153,
+          "w": 0.29753289473684214,
+          "h": 0.8,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 8.570442,
+          "x": 0.5140625,
+          "y": 0.5114035054257041,
+          "w": 0.15986842105263158,
+          "h": 0.1736842105263158,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 9.428065,
+          "x": 0.42672697368421053,
+          "y": 0.3271929791099147,
+          "w": 0.19539473684210526,
+          "h": 0.5763157894736842,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 9.428065,
+          "x": 0.4977796052631579,
+          "y": 0.716666663320441,
+          "w": 0.1125,
+          "h": 0.18947368421052632,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 1.83,
+      "description": "The subject's right hand is raised at the bottom right of the frame. She briefly makes a pointing gesture with her index finger.",
+      "bboxes": [
+        {
+          "frame_time": 0.922089,
+          "x": 0.7109375,
+          "y": 0.5377192948993884,
+          "w": 0.18355263157894738,
+          "h": 0.45789473684210524,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 1.83,
+      "end_time": 3.25,
+      "description": "She raises both hands to her face and briefly touches her hair near her temples before lowering them.",
+      "bboxes": [
+        {
+          "frame_time": 2.851682,
+          "x": 0.4607730263157895,
+          "y": 0.2614035054257042,
+          "w": 0.2205592105263158,
+          "h": 0.618421052631579,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 2.851682,
+          "x": 0.3778782894736842,
+          "y": 0.09824561068886205,
+          "w": 0.33009868421052635,
+          "h": 0.7552631578947369,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 3.25,
+      "end_time": 13.1,
+      "description": "The subject remains relatively still, with only minor head movements as she speaks. Her hands are not visible.",
+      "bboxes": [
+        {
+          "frame_time": 4.991056,
+          "x": 0.29498355263157894,
+          "y": 0.05350876858359889,
+          "w": 0.3774671052631579,
+          "h": 0.8078947368421052,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 13.1,
+      "end_time": 13.7,
+      "description": "Her right hand re-enters the frame to make a quick, small pointing gesture towards the right before moving out of frame.",
+      "bboxes": [
+        {
+          "frame_time": 13.537361,
+          "x": 0.744983552631579,
+          "y": 0.6114035054257042,
+          "w": 0.15542763157894737,
+          "h": 0.37894736842105264,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0.98,
+      "end_time": 1.24,
+      "description": "The word \"Yes\" is spoken in a soft, low-pitched voice.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 4.5,
+      "end_time": 5,
+      "description": "An audible exhalation of breath (sigh) is heard.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 5.91,
+      "end_time": 9.38,
+      "description": "Speaks hesitantly, beginning with a soft \"Ehm,\" followed by a pause, and then the phrase \"Where was I?\" with a slightly rising intonation at the end.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 9.86,
+      "end_time": 12.33,
+      "description": "Speaks the phrase \"Nur Ain asked that, I probably said that\" at a moderate pace and volume.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 13.71,
+      "end_time": 15.1,
+      "description": "Says the words \"Mariana Bachas\" with a falling intonation.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.1,
+      "description": "The subject is a young woman with fair skin and long, straight blonde hair. She is wearing a white hooded sweatshirt. The background consists of a white bookshelf filled with numerous books, CDs, and DVDs, with spines in black, red, pink, green, and white. The lighting is diffuse and comes from the front, evenly illuminating the subject.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Low",
+      "score": 0.36,
+      "rationale": "The subject exhibits classic indicators of low Extraversion. Her gaze is consistently averted, directed down and to the left, which is a common behavior for avoiding direct social engagement. Her vocal delivery is soft and hesitant, marked by pauses and self-questioning ('Where was I?'), suggesting an internal cognitive process rather than an outward, energetic projection. Furthermore, her body is kept relatively still, lacking the broad, expressive movements often seen in highly extraverted individuals.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Medium",
+      "score": 0.4,
+      "rationale": "The subject's Agreeableness is rated as Medium, reflected in a balance of cooperative and neutral cues. She begins with a brief smile and a soft-spoken 'Yes,' indicating a baseline level of politeness and willingness to engage. However, her expression quickly shifts to neutral as she focuses on the task of recalling information, and her lips press together in concentration. This demonstrates a task-oriented approach that is not overly concerned with continuous social warmth, fitting a moderate level of this trait.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Medium",
+      "score": 0.45,
+      "rationale": "A Medium level of Conscientiousness is supported by the subject's clear effort to be orderly, juxtaposed with a momentary lapse in organization. She is actively trying to get back on track ('Where was I? ... I probably said that.'), which demonstrates a sense of duty towards the task. The audible sigh and vocal hesitation, however, show that her execution is not perfectly planned or seamless. This combination of goal-directed effort and minor disorganization aligns with a medium score.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Low",
+      "score": 0.24,
+      "rationale": "The subject displays strong emotional stability, consistent with a Low Neuroticism score. When faced with the minor stressor of losing her place, she does not exhibit signs of anxiety or frustration. Her reaction is calm and managed, characterized by a neutral facial expression and controlled body language. The brief, self-contained gesture of touching her hair near the temple is a mild self-soothing behavior, not indicative of significant distress, reinforcing her composed demeanor.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "Low",
+      "score": 0.33,
+      "rationale": "The subject's behavior suggests a Low level of Openness. Her focus is highly pragmatic and concrete, centered entirely on the functional task of recalling the next question. Her speech is direct and lacks abstract language or creative flourishes. The observed behaviors, including a neutral expression and conventional gestures, indicate a straightforward, matter-of-fact approach rather than an imaginative or intellectually curious one, which is characteristic of lower Openness.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During 5.9s - 9.4s, the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A medium level of the Conscientiousness dimension."
+        },
+        {
+          "id": "B",
+          "text": "A low level of the Extraversion personality trait."
+        },
+        {
+          "id": "C",
+          "text": "A high level of the Agreeableness personality trait."
+        },
+        {
+          "id": "D",
+          "text": "A high level of the Neuroticism personality trait."
+        },
+        {
+          "id": "E",
+          "text": "A low level of the Openness personality dimension."
+        },
+        {
+          "id": "F",
+          "text": "A low level of the Agreeableness personality trait."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The behavior from 5.9s-9.4s involves hesitant speech ('um...'), a pause, and self-questioning ('Where was I?'), all of which are classic indicators of introversion, pointing to Low Extraversion. The focus is internal rather than externally projected.\n- Option A is a video-based distractor. The verbal content 'Where was I?' does relate to getting back on task (Conscientiousness), but the hesitant *delivery* of the speech is a stronger cue for Extraversion. \n- Option C is a video-based distractor. High Agreeableness is supported by the smile at the very beginning (0.0s-1.2s), not the hesitant speech in this later segment.\n- Option D is a near-miss distractor. Hesitation can sometimes signal anxiety (High Neuroticism), but in this case, her overall calm demeanor and neutral expression contradict this, supporting Low Neuroticism instead.\n- Option E is a text-based distractor. Low Openness is plausible for someone focused on recalling facts, but the behavioral cues in this time range are more about social energy than intellectual style.\n- Option F is a text-based distractor. Interpreting hesitation as uncooperative (Low Agreeableness) is a possible but less direct interpretation than seeing it as a sign of an internal thought process (Low Extraversion)."
+    },
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their Low Neuroticism level?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[0.0s - 1.2s]"
+        },
+        {
+          "id": "B",
+          "text": "[1.8s - 3.2s]"
+        },
+        {
+          "id": "C",
+          "text": "[4.5s - 5.0s]"
+        },
+        {
+          "id": "D",
+          "text": "[8.1s - 9.5s]"
+        },
+        {
+          "id": "E",
+          "text": "[13.1s - 13.7s]"
+        },
+        {
+          "id": "F",
+          "text": "[9.9s - 11.0s]"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The interval [1.8s - 3.2s] contains the brief self-soothing gesture of touching her hair near the temple. This action is a managed, non-anxious response to the minor stressor of losing her place, which is a key piece of evidence for her emotional stability and thus Low Neuroticism.\n- Option A is a video-based distractor. This interval shows an initial polite smile, which is more relevant to Agreeableness.\n- Option C is a video-based distractor. This interval contains an audible sigh, which could be interpreted as stress, but the subsequent self-soothing gesture at [1.8s-3.2s] is a more complex and informative reaction related to emotional regulation.\n- Option D is a video-based distractor. This interval shows a head tilt and neutral expression while speaking, which is part of her baseline state and not a notable change in response to a stimulus.\n- Option E is a video-based distractor. This shows a small hand gesture, which is related to resuming the task, not directly to her emotional regulation style.\n- Option F is a video-based distractor. This interval shows her speaking calmly, which supports Low Neuroticism but isn't a *notable change* or micro-expression like the self-soothing gesture."
+    },
+    {
+      "category": "Mixed Emotion Discrimination",
+      "question": "During 1.2s - 4.9s, the person's emotional state is best characterized as which of the following? Consider both verbal and non-verbal cues.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Quiet annoyance tempered by patient resignation."
+        },
+        {
+          "id": "B",
+          "text": "Focused concentration mixed with slight uncertainty."
+        },
+        {
+          "id": "C",
+          "text": "Polite acknowledgement mixed with social reserve."
+        },
+        {
+          "id": "D",
+          "text": "Subtle disappointment mixed with forced composure."
+        },
+        {
+          "id": "E",
+          "text": "Deep contemplation tempered by mild frustration."
+        },
+        {
+          "id": "F",
+          "text": "Mild confusion mixed with hesitant social engagement."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "During this period, the person's gaze shifts down and away, and her lips are pressed, indicating internal cognitive effort (focused concentration). Simultaneously, her eyebrows are slightly raised, which is a common indicator of questioning or slight uncertainty. The combination of these cues points to this mixed state.\n- Option A is a text-based distractor. There are no visual or auditory cues to support annoyance or resignation.\n- Option C is a video-based distractor. This description is more accurate for the preceding interval (0.0s - 1.2s), where she gives a polite smile before disengaging.\n- Option D is a text-based distractor. There is no evidence of disappointment in her expression or actions.\n- Option E is a near-miss distractor. While 'deep contemplation' is close, 'mild frustration' is too strong. The personality analysis specifically notes her calm, non-frustrated reaction (Low Neuroticism).\n- Option F is a near-miss distractor. While there is mild confusion/uncertainty, she is actively disengaging to think, not hesitantly engaging."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 1.1s, a region was detected in the video (x=0.335, y=0.622, w=0.207, h=0.126, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A quick pointing hand gesture towards the left."
+        },
+        {
+          "id": "B",
+          "text": "A brief, polite smile appearing on the lips."
+        },
+        {
+          "id": "C",
+          "text": "The head tilted slightly toward the left side."
+        },
+        {
+          "id": "D",
+          "text": "Neutral, unraised eyebrows in a straight line."
+        },
+        {
+          "id": "E",
+          "text": "Both hands being raised up near to the face."
+        },
+        {
+          "id": "F",
+          "text": "An averted gaze directed downward and to the left."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The provided coordinates at 1.1s precisely frame the person's mouth. At this moment, the observation log confirms she has 'lips slightly upturned in a brief smile'.\n- Option A is a video-based distractor. The pointing gesture occurs much later, at 13.5s, and involves the hand, not the mouth region.\n- Option C is a video-based distractor. The head tilt occurs later in the video, around 8.6s, and involves the entire head region, not just the mouth.\n- Option D is a near-miss distractor. This describes what the eyebrows are *not* doing. At 3.7s, her eyebrows are actually slightly raised. This distractor uses an incorrect observation to seem plausible.\n- Option E is a video-based distractor. The hands are raised near the face at 2.9s, not at 1.1s, and this action involves the hands and side of the face, not the mouth.\n- Option F is a video-based distractor. The averted gaze occurs just after this moment, from 1.2s onwards, and is localized to the eyes, not the mouth."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "At which moment does a self-regulatory gesture involving the hand moving towards the upper part of the head occur?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[2.9s]  x=0.38, y=0.10, w=0.33, h=0.76"
+        },
+        {
+          "id": "B",
+          "text": "[8.6s]  x=0.51, y=0.51, w=0.16, h=0.17"
+        },
+        {
+          "id": "C",
+          "text": "[9.4s]  x=0.50, y=0.72, w=0.11, h=0.19"
+        },
+        {
+          "id": "D",
+          "text": "[5.0s]  x=0.29, y=0.05, w=0.38, h=0.81"
+        },
+        {
+          "id": "E",
+          "text": "[13.5s]  x=0.74, y=0.61, w=0.16, h=0.38"
+        },
+        {
+          "id": "F",
+          "text": "[0.3s]  x=0.34, y=0.48, w=0.24, h=0.11"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The question asks for a self-regulatory gesture where the hand moves to the head. This corresponds to the action described in the log from 1.8s-3.2s: 'She raises her hands to her face' and 'briefly touches her hair near her temple'. The bounding box in option A at 2.9s correctly captures this entire action, encompassing both the hand and the head.\n- Option B is a video-based distractor. This bbox at 8.6s isolates the eyes, which are looking down and left, but does not involve a hand gesture.\n- Option C is a video-based distractor. This bbox at 9.4s isolates the mouth as she is speaking.\n- Option D is a video-based distractor. This bbox at 5.0s shows her head is relatively still, with no hand gesture occurring.\n- Option E is a video-based distractor. This bbox at 13.5s captures a pointing hand gesture, but the hand is in the lower part of the frame and not moving towards the head.\n- Option F is a video-based distractor. This bbox at 0.3s isolates her eyes, which are closed at that moment."
+    },
+    {
+      "category": "Counterfactual Reasoning",
+      "question": "If the person had NOT exhibited the behavior observed around 1.2s - 4.9s, which of the following personality assessments would be MOST affected?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The Medium Agreeableness assessment would be affected, as this specific behavior is a key sign of social reserve."
+        },
+        {
+          "id": "B",
+          "text": "The Low Extraversion assessment would be weakened, as sustained gaze aversion is a primary indicator of introversion."
+        },
+        {
+          "id": "C",
+          "text": "The Low Openness score would become less certain, since this action is a primary indicator of a pragmatic mindset."
+        },
+        {
+          "id": "D",
+          "text": "The Low Neuroticism score would be undermined, as the behavior demonstrates a very emotionally stable response."
+        },
+        {
+          "id": "E",
+          "text": "The Medium Conscientiousness rating would be impacted, since this action directly precedes the verbal self-correction."
+        },
+        {
+          "id": "F",
+          "text": "The Low Extraversion score would be strengthened, since its absence would imply much stronger social avoidance."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The behavior from 1.2s-4.9s is the sustained gaze aversion (looking down and left). This is a primary piece of evidence for Low Extraversion, as it signals avoidance of direct social engagement in favor of internal processing. If she had maintained eye contact instead, this key evidence would be gone, weakening the Low Extraversion assessment.\n- Option A is a text-based distractor. The Agreeableness score is based on the balance between the initial smile and later neutrality. While gaze aversion contributes, the Low Extraversion score is more heavily dependent on it.\n- Option C is a text-based distractor. The Low Openness score is based more on her direct, non-abstract language rather than the physical act of looking away to think.\n- Option D is a video-based distractor. Low Neuroticism is supported by multiple cues throughout the video, especially her calm reaction and self-soothing gesture later on. The absence of gaze aversion would not significantly undermine this assessment.\n- Option E is a video-based distractor. The gaze aversion is part of the sequence leading to the verbal self-correction, but the *act of self-correction itself* is the stronger evidence for Medium Conscientiousness.\n- Option F is a near-miss distractor. It identifies the correct trait (Extraversion) but gets the direction of the effect wrong. Removing a sign of avoidance would weaken, not strengthen, the assessment of introversion."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator17",
+      "version": 1,
+      "clues_total": 28,
+      "clues_correct": 17,
+      "clues_wrong_corrected": 5,
+      "clues_missing_skipped": 6,
+      "clues_bonus": 0
+    }
+  }
+}

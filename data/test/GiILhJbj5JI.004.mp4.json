@@ -1,0 +1,410 @@
+{
+  "video_id": "GiILhJbj5JI.004.mp4",
+  "video_path": "GiILhJbj5JI.004.mp4",
+  "transcription": "The android community is a very passionate community, so a lot of people have been asking this question. It goes along with my answer for IOS. When we finish with steam, we're going to move on to other platforms ...",
+  "original_scores": {
+    "extraversion": 0.6542056074766356,
+    "agreeableness": 0.5054945054945055,
+    "conscientiousness": 0.4951456310679611,
+    "neuroticism": 0.6770833333333334,
+    "openness": 0.6777777777777777
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 10.59,
+      "description": "The subject maintains eye contact with the camera. Her eyebrows are mostly neutral but raise slightly on stressed syllables. Her mouth movements are natural and correspond with her speech. Her lips part in a slight smile from 0.03 to 0.04.",
+      "bboxes": [
+        {
+          "frame_time": 2.830875,
+          "x": 0.3950617283950617,
+          "y": 0.3308184693052608,
+          "w": 0.16666666666666666,
+          "h": 0.0823045267489712,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 3.783864,
+          "x": 0.3950617283950617,
+          "y": 0.2814357532558781,
+          "w": 0.17592592592592593,
+          "h": 0.09602194787379972,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 4.682244,
+          "x": 0.4058641975308642,
+          "y": 0.4817101016783747,
+          "w": 0.14969135802469136,
+          "h": 0.11248285322359397,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 4.682244,
+          "x": 0.4074074074074074,
+          "y": 0.4926840385782375,
+          "w": 0.11728395061728394,
+          "h": 0.09876543209876543,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 10.59,
+      "end_time": 12.04,
+      "description": "The subject's gaze shifts up and to her left as she briefly touches the corner of her right eye. Her right eye closes slightly during the motion.",
+      "bboxes": [
+        {
+          "frame_time": 12.139375,
+          "x": 0.345679012345679,
+          "y": 0.3143575639554666,
+          "w": 0.1574074074074074,
+          "h": 0.1673525377229081,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 11.613225,
+          "x": 0.33024691358024694,
+          "y": 0.28966620593077524,
+          "w": 0.16512345679012347,
+          "h": 0.1646090534979424,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 12.04,
+      "end_time": 15.28,
+      "description": "Her gaze returns to the camera, and her facial expression remains neutral and engaged.",
+      "bboxes": [
+        {
+          "frame_time": 13.867725,
+          "x": 0.404320987654321,
+          "y": 0.2759487848059467,
+          "w": 0.1882716049382716,
+          "h": 0.15363511659807957,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 15.270736,
+          "x": 0.37962962962962965,
+          "y": 0.19090077383200982,
+          "w": 0.17592592592592593,
+          "h": 0.4224965706447188,
+          "note": "face human-annotated",
+          "region": "face"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 10.59,
+      "description": "The subject sits upright in a chair. She makes small, open-handed illustrative gestures with her right hand, and occasionally her left, low in the frame. Her head remains relatively still, facing forward.",
+      "bboxes": [
+        {
+          "frame_time": 0,
+          "x": 0.2824074074074074,
+          "y": 0.45153177520375193,
+          "w": 0.5601851851851852,
+          "h": 0.548468224796248,
+          "note": "human-annotated",
+          "region": "unknown"
+        },
+        {
+          "frame_time": 9.534631,
+          "x": 0.046296296296296294,
+          "y": 0.8191586613491566,
+          "w": 0.2006172839506173,
+          "h": 0.1808413386508434,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 2.746503,
+          "x": 0.3395061728395062,
+          "y": 0.061957015258621614,
+          "w": 0.3148148148148148,
+          "h": 0.6502057613168725,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 10.59,
+      "end_time": 12.04,
+      "description": "She raises her right hand to her face, touching the area near her right eye with her index finger. Her head tilts slightly to her left.",
+      "bboxes": [
+        {
+          "frame_time": 11.526296,
+          "x": 0.2916666666666667,
+          "y": 0.1442615420075928,
+          "w": 0.27314814814814814,
+          "h": 0.5432098765432098,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 11.721686,
+          "x": 0.29012345679012347,
+          "y": 0.28692272170580957,
+          "w": 0.2191358024691358,
+          "h": 0.18106995884773663,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 11.721686,
+          "x": 0.25308641975308643,
+          "y": 0.061957015258621614,
+          "w": 0.36882716049382713,
+          "h": 0.6364883401920439,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 12.04,
+      "end_time": 15.28,
+      "description": "She lowers her right hand and then brings both hands up with palms open and facing forward in a broad, illustrative gesture.",
+      "bboxes": [
+        {
+          "frame_time": 12.70406,
+          "x": 0.19444444444444445,
+          "y": 0.4844535859033404,
+          "w": 0.23765432098765432,
+          "h": 0.3950617283950617,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 14.321055,
+          "x": 0.018518518518518517,
+          "y": 0.6161408287016943,
+          "w": 0.25308641975308643,
+          "h": 0.3838591712983057,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 4.67,
+      "description": "The speech rate is moderate and conversational. Pitch rises slightly on the word \"passionate,\" adding emphasis. There are brief pauses after \"community\" and at the end of the sentence.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 4.67,
+      "end_time": 15.28,
+      "description": "The speech rate remains consistent. The tone is informative with a slight downward inflection at the end of clauses, such as after \"IOS\" and \"steam.\" Her volume is steady throughout.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.28,
+      "description": "The subject is a woman with fair skin, long, wavy blonde hair, and light-colored eyes accentuated by dark eyeliner. She is wearing a dark gray or green collared shirt over a low-cut black top. She is seated indoors in a black leather office chair. The background includes another office chair, a wall with framed pictures, a television on a stand, and an abstract black-and-white painting. The lighting is cool and diffused from the front, casting a blueish tint on the subject.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "High",
+      "score": 0.65,
+      "rationale": "The subject's High Extraversion score is supported by her outwardly expressive communication style. She maintains an engaged, upright posture and uses frequent, illustrative hand gestures and head movements to complement her speech. Her vocal delivery is dynamic, employing changes in pitch to add emphasis (e.g., on 'passionate'), which is characteristic of individuals who are energized by and adept at social expression.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Medium",
+      "score": 0.51,
+      "rationale": "The subject's Agreeableness is in the Medium range. She exhibits cooperative and friendly cues, such as a slight smile and the use of open-palmed gestures, which can signal trust and a non-confrontational stance. Her acknowledgment of the community's passion is an affiliative statement. However, her overall demeanor is primarily professional and informative rather than overtly warm or accommodating, placing her in the median for this trait.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Medium",
+      "score": 0.5,
+      "rationale": "A Medium level of Conscientiousness is indicated. The subject's communication is structured and goal-oriented, as she clearly articulates a plan of action regarding platform development ('When we finish with steam, we're going to move on...'). The professional setting and her focused demeanor suggest a sense of duty and preparedness. The evidence does not point to either extreme diligence or a lack of organization, aligning with a moderate score.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "High",
+      "score": 0.68,
+      "rationale": "The High Neuroticism score is primarily evidenced by a brief but significant non-verbal cue between 10.6s and 12.0s. The subject breaks eye contact, looks up and away, and brings her hand to her face to touch her eye. This is a classic self-soothing gesture (an 'adapter'), often performed unconsciously in response to the mild stress or cognitive load of being recorded. This momentary break in composure suggests a heightened sensitivity to pressure, a key aspect of Neuroticism.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "High",
+      "score": 0.68,
+      "rationale": "The subject's High Openness is inferred from the context and her articulate communication. Her role involves discussing technology across diverse platforms (Android, iOS, Steam), which implies an engagement with new systems and ideas. Her articulate and expressive language suggests cognitive flexibility. The presence of abstract art in the background may also indicate an appreciation for aesthetics, a facet commonly associated with a high degree of Openness.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During 10.6s - 12.0s, the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "High Extraversion, indicated by the subject's very consistent and direct social engagement."
+        },
+        {
+          "id": "B",
+          "text": "Low Agreeableness, suggested by the subject's brief but clear break from social connection."
+        },
+        {
+          "id": "C",
+          "text": "High Openness, shown by the subject's cognitive flexibility in discussing new concepts."
+        },
+        {
+          "id": "D",
+          "text": "High Neuroticism, evidenced by a self-soothing gesture that signals a response to stress."
+        },
+        {
+          "id": "E",
+          "text": "Low Neuroticism, demonstrated by the subject's quick recovery from a moment of distraction."
+        },
+        {
+          "id": "F",
+          "text": "Medium Conscientiousness, as the action does not strongly suggest high or low organization."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "The behavior between 10.6s and 12.0s is a classic self-soothing gesture (touching the eye/face), which is the primary evidence cited for a High Neuroticism score, as it indicates a response to mild stress or cognitive load.\n- Option A is a video-based distractor; High Extraversion is supported by behaviors in other segments (0.0s-10.6s), such as expressive gestures and dynamic speech, not the behavior in the specified time range.\n- Option B is a text-based distractor; breaking eye contact can sound like low agreeableness, but the specific gesture is more indicative of self-soothing (Neuroticism) than unfriendliness.\n- Option C is a video-based distractor; High Openness is inferred from the context and expressive language throughout the video, not this specific gesture.\n- Option E is a near-miss distractor; it correctly identifies the trait dimension (Neuroticism) but gets the direction wrong. The gesture is evidence *for* high neuroticism, not low.\n- Option F is a text-based distractor; while her overall score for Conscientiousness is Medium, this specific action is not the primary evidence for it."
+    },
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their Neuroticism level?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[2.8s - 4.2s]"
+        },
+        {
+          "id": "B",
+          "text": "[0.5s - 1.9s]"
+        },
+        {
+          "id": "C",
+          "text": "[8.5s - 9.9s]"
+        },
+        {
+          "id": "D",
+          "text": "[10.6s - 12.0s]"
+        },
+        {
+          "id": "E",
+          "text": "[4.7s - 6.1s]"
+        },
+        {
+          "id": "F",
+          "text": "[13.9s - 15.3s]"
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "The time interval [10.6s - 12.0s] is when the subject performs a self-soothing gesture, bringing her hand to her face and touching her eye. This is the key micro-expression cited in the analysis as evidence for High Neuroticism.\n- Option A is a video-based distractor; this interval covers a moment of vocal emphasis and a slight eyebrow raise, relevant to Extraversion but not Neuroticism.\n- Option B is a video-based distractor; this is the beginning of her speech with neutral engagement.\n- Option C is a video-based distractor; this interval features illustrative hand gestures, which are relevant to Extraversion.\n- Option E is a video-based distractor; this interval captures a slight smile while speaking, which is relevant to Agreeableness.\n- Option F is a video-based distractor; this interval shows her returning to a focused, neutral state after the self-soothing gesture."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 2.8s, a region was detected in the video (x=0.395, y=0.331, w=0.167, h=0.082, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A generally focused and neutral overall facial expression set."
+        },
+        {
+          "id": "B",
+          "text": "Natural mouth articulation corresponding directly with speech."
+        },
+        {
+          "id": "C",
+          "text": "Maintained direct eye contact with the camera without breaks."
+        },
+        {
+          "id": "D",
+          "text": "A shifting eye-gaze that moves laterally during active speech."
+        },
+        {
+          "id": "E",
+          "text": "An open-palmed illustrative hand gesture used for emphasis."
+        },
+        {
+          "id": "F",
+          "text": "A slight tilt of the head to one side while speaking a phrase."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "The specified coordinates at 2.8s isolate the subject's eyes. The observation log for this period confirms that her eye-gaze shifts left and right with speech, which matches this option.\n- Option A is a video-based distractor; it describes the overall face, but the bounding box is specific to the eyes.\n- Option B is a video-based distractor; it describes the mouth, which is a different facial region than the one specified by the coordinates.\n- Option C is a near-miss distractor; it correctly identifies the body part (eyes) but describes the action incorrectly. The log (and near-miss material) shows her gaze is shifting, not fixed.\n- Option E is a video-based distractor; it describes the hands, which are not located within the specified bounding box on the face.\n- Option F is a video-based distractor; it describes the entire head's motion, while the bounding box isolates only the eye region."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "Which option correctly identifies the time and location of a brief, self-directed action where the person's hand makes contact with their face near the eye?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[2.7s]  x=0.34, y=0.06, w=0.31, h=0.65"
+        },
+        {
+          "id": "B",
+          "text": "[15.3s]  x=0.38, y=0.19, w=0.18, h=0.42"
+        },
+        {
+          "id": "C",
+          "text": "[13.9s]  x=0.40, y=0.28, w=0.19, h=0.15"
+        },
+        {
+          "id": "D",
+          "text": "[11.7s]  x=0.25, y=0.06, w=0.37, h=0.64"
+        },
+        {
+          "id": "E",
+          "text": "[2.8s]  x=0.40, y=0.33, w=0.17, h=0.08"
+        },
+        {
+          "id": "F",
+          "text": "[4.7s]  x=0.41, y=0.48, w=0.15, h=0.11"
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "The described action—a self-directed gesture of the hand to the face near the eye—occurs between 10.6s and 12.0s. The timestamp 11.7s falls within this range, and the bounding box (w=0.37, h=0.64) is large enough to encompass the head, tilted head position, and hand approaching the face, as detailed in the observation log.\n- Option A is a video-based distractor; it correctly bounds the head but at a time when she is speaking and gesturing, not touching her face.\n- Option B is a video-based distractor; this is at the end of the clip, where her face is neutral and her hands are down.\n- Option C is a video-based distractor; this bounds her eyes as she re-engages the camera after the gesture.\n- Option E is a video-based distractor; this bounds just her eyes while she is speaking earlier in the clip.\n- Option F is a video-based distractor; this bounds her mouth as she is speaking."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator08",
+      "version": 1,
+      "clues_total": 19,
+      "clues_correct": 16,
+      "clues_wrong_corrected": 3,
+      "clues_missing_skipped": 0,
+      "clues_bonus": 0
+    }
+  }
+}

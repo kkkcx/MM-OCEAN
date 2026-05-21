@@ -1,0 +1,321 @@
+{
+  "video_id": "YryBLVZgJj0.002.mp4",
+  "video_path": "YryBLVZgJj0.002.mp4",
+  "transcription": "The digital media. I'm your host for \"Take Flight\" Q and A. This is episode number three. I've got a couple of questions once again that I want to show the world. Talk about-",
+  "original_scores": {
+    "extraversion": 0.33644859813084116,
+    "agreeableness": 0.5164835164835165,
+    "conscientiousness": 0.7281553398058251,
+    "neuroticism": 0.5729166666666666,
+    "openness": 0.5222222222222223
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 14.89,
+      "description": "The subject maintains direct gaze at the camera. His eyebrows are in a neutral to slightly raised position. His mouth moves naturally as he speaks, with lips slightly parted during brief pauses. The overall facial expression appears engaged and neutral.",
+      "bboxes": [
+        {
+          "frame_time": 3.21374,
+          "x": 0.5214638157894737,
+          "y": 0.2824561370046515,
+          "w": 0.18947368421052632,
+          "h": 0.11842105263157894,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 3.21374,
+          "x": 0.5362664473684211,
+          "y": 0.24561403174149363,
+          "w": 0.17615131578947368,
+          "h": 0.0868421052631579,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 3.21374,
+          "x": 0.5569901315789474,
+          "y": 0.5140350843730725,
+          "w": 0.11546052631578947,
+          "h": 0.0868421052631579,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 3.21374,
+          "x": 0.5333059210526315,
+          "y": 0.22719297910991468,
+          "w": 0.18207236842105262,
+          "h": 0.3894736842105263,
+          "note": "face human-annotated",
+          "region": "face"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 14.89,
+      "description": "The subject is seated, visible from the chest up, wearing large headphones and speaking into a microphone. His posture is upright, leaning slightly forward. Head movements are minimal, consisting of small, subtle shifts and nods that align with his speech.",
+      "bboxes": [
+        {
+          "frame_time": 1.212363,
+          "x": 0.42376644736842106,
+          "y": 0.12719297910991467,
+          "w": 0.3759868421052632,
+          "h": 0.6473684210526316,
+          "note": "human-annotated",
+          "region": "unknown"
+        },
+        {
+          "frame_time": 1.212363,
+          "x": 0.4459703947368421,
+          "y": 0.12192982121517784,
+          "w": 0.3419407894736842,
+          "h": 0.631578947368421,
+          "note": "pose human-annotated",
+          "region": "torso"
+        },
+        {
+          "frame_time": 2.168119,
+          "x": 0.4711348684210526,
+          "y": 0.10087718963623046,
+          "w": 0.33453947368421055,
+          "h": 0.6105263157894737,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 1.71,
+      "description": "Speaks at a moderate pace with a clear, resonant tone. Pitch falls at the end of the phrase \"digital media.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 1.71,
+      "end_time": 5.43,
+      "description": "Maintains a steady pace and volume. The words \"Take Flight\" are slightly emphasized. Pitch drops at the end of \"Q and A\" and \"number three.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 5.43,
+      "end_time": 14.89,
+      "description": "Continues speaking in a consistent, measured cadence with clear articulation. The vocal tone remains even, with falling intonation at the end of clauses.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 14.89,
+      "description": "The subject is a fair-skinned male with short, light-colored hair. He is wearing a dark shirt under a light-colored jacket, along with large black over-ear headphones. The setting is an indoor space with a plain white wall. To the viewer's left of the subject, a poster is visible with the text \"TAKE FLIGHT... TALKING WITH 'EXPERTS' IN CHARGE OF CHANGE.\" A large microphone is positioned in front of him. The main video image is in black and white. A gold-colored banner is overlaid at the bottom of the frame, displaying text and a graphic of a vintage flying machine.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 14.421397,
+      "end_time": 15.421397,
+      "description": "Subject has a beard",
+      "bboxes": [
+        {
+          "frame_time": 14.921397,
+          "x": 0.5185032894736842,
+          "y": 0.4377192948993884,
+          "w": 0.19391447368421053,
+          "h": 0.24210526315789474,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Low",
+      "score": 0.34,
+      "rationale": "The subject's Extraversion is rated Low. While hosting a Q&A implies public engagement, the physical presentation is highly reserved. The minimal head and body movements, a consistently neutral and focused facial expression, and a measured, steady vocal cadence all point towards a lower level of social energy and expressive spontaneity. This controlled demeanor is more indicative of a prepared, task-focused performance rather than the animated, socially-driven style characteristic of high extraversion.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Medium",
+      "score": 0.52,
+      "rationale": "The subject scores in the Medium range for Agreeableness. This is supported by a blend of engaging and neutral cues. The sustained, direct eye contact with the camera indicates a willingness to connect and communicate with the audience, a pro-social behavior. However, this is balanced by a consistently neutral facial expression and a formal tone, lacking the overt warmth or effusiveness that would suggest a higher level of agreeableness. The overall demeanor is professional and cooperative without being overly accommodating.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "High",
+      "score": 0.73,
+      "rationale": "The High Conscientiousness score is strongly supported by the subject's highly structured and purposeful presentation. The professional setup for a planned Q&A episode demonstrates organization and preparedness. His physical demeanor, characterized by an upright, engaged posture and a focused facial expression, reflects a disciplined and task-oriented mindset. Furthermore, his speech is delivered with a clear, measured, and consistent cadence, indicating rehearsal and a deliberate approach to communication.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Medium",
+      "score": 0.57,
+      "rationale": "The subject's Neuroticism is assessed as Medium. He displays a high degree of composure, with steady speech and no overt signs of anxiety like fidgeting or vocal tremors, which argues against a high score. However, his presentation is not entirely relaxed. The slightly forward-leaning posture and focused expression suggest a level of self-monitoring and controlled tension appropriate for a performance setting. This balance between calm control and a lack of complete ease places him in the medium range.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "Medium",
+      "score": 0.52,
+      "rationale": "The Medium score for Openness is derived from a contrast between the subject's chosen activity and his personal expression. Hosting a Q&A about 'change' suggests an intellectual curiosity and a willingness to explore ideas. However, his personal delivery is conventional and straightforward. The lack of expressive vocal variety, imaginative language, or inquisitive facial expressions in this clip provides little evidence for the high creativity or unconventional thinking associated with a higher Openness score. The rating reflects an interest in ideas presented in a traditional manner.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's vocal delivery occur that is most relevant to their High Conscientiousness level?",
+      "options": [
+        {
+          "id": "A",
+          "text": "0.1s - 0.5s"
+        },
+        {
+          "id": "B",
+          "text": "2.8s - 3.2s"
+        },
+        {
+          "id": "C",
+          "text": "4.9s - 5.3s"
+        },
+        {
+          "id": "D",
+          "text": "7.7s - 8.1s"
+        },
+        {
+          "id": "E",
+          "text": "11.2s - 11.6s"
+        },
+        {
+          "id": "F",
+          "text": "1.5s - 1.9s"
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The correct answer is F. The audio transcript notes a specific, deliberate change at the end of the phrase 'digital media,' which concludes around 1.7s. The intonation rises, which is a controlled vocal modulation demonstrating a practiced delivery, directly relevant to the High Conscientiousness trait. This is the most distinct vocal 'event' noted in an otherwise steady delivery.\n\n- Options A, B, D, and E are video-based distractors. They are valid time intervals within the video where the person is speaking, but they do not contain the specifically noted vocal intonation change that stands out from the otherwise consistent cadence.\n- Option C is a near-miss distractor. This interval covers the end of the phrase 'number three,' where the transcript notes a falling intonation. While this is also a vocal change, the rising intonation at 1.7s is a more notable deviation that highlights deliberate emphasis."
+    },
+    {
+      "category": "Mixed Emotion Discrimination",
+      "question": "During 2.0s - 6.0s, the person's emotional state is best characterized as which of the following? Consider both verbal and non-verbal cues.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Calm confidence blended with an assertive authority."
+        },
+        {
+          "id": "B",
+          "text": "Intellectual curiosity mixed with slight apprehension."
+        },
+        {
+          "id": "C",
+          "text": "Serious contemplation tempered by underlying warmth."
+        },
+        {
+          "id": "D",
+          "text": "Passive detachment mixed with a rehearsed delivery."
+        },
+        {
+          "id": "E",
+          "text": "Apathetic neutrality blended with signs of boredom."
+        },
+        {
+          "id": "F",
+          "text": "Focused engagement tempered by professional reserve."
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The correct answer is F. During this period, the subject maintains direct eye contact and speaks clearly ('focused engagement') while simultaneously showing a neutral facial expression and minimal body movement ('professional reserve'). This combination accurately captures the task-oriented but non-emotive state.\n\n- Option A is a text-based distractor. While he is calm and confident, there are no strong cues for 'assertive authority,' such as strong gestures or a commanding tone.\n- Option B is a text-based distractor. The topic suggests intellectual curiosity, but there are no behavioral signs of 'apprehension' like vocal tremors or fidgeting; his delivery is steady.\n- Option C is a near-miss distractor. He is serious and focused ('contemplation'), but there are no clear cues of 'underlying warmth,' such as smiling or a soft tone. His expression is strictly neutral.\n- Option D is a video-based distractor. The delivery is rehearsed, but 'passive detachment' is incorrect. His direct eye contact with the camera is a clear sign of active engagement, not detachment.\n- Option E is a text-based distractor. 'Apathetic' and 'boredom' are too strong and are contradicted by the focused, upright posture and direct gaze, which indicate attentiveness."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 3.2s, a region was detected in the video (x=0.557, y=0.514, w=0.115, h=0.087, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A general view showing the subject's upper torso and head."
+        },
+        {
+          "id": "B",
+          "text": "A depiction of the subject's upright and forward-leaning posture."
+        },
+        {
+          "id": "C",
+          "text": "A neutral to slightly raised eyebrow expression over the eyes."
+        },
+        {
+          "id": "D",
+          "text": "A direct and sustained gaze aimed squarely at the camera lens."
+        },
+        {
+          "id": "E",
+          "text": "An overall facial expression showing signs of focused neutrality."
+        },
+        {
+          "id": "F",
+          "text": "Natural mouth movement associated with active vocalization."
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The correct answer is F. The provided coordinates (x=0.557, y=0.514, w=0.115, h=0.087) at 3.2s correspond precisely to the subject's mouth region. The observation log confirms that at this time, 'His mouth moves naturally as he speaks.' Therefore, 'Natural mouth movement' is the correct description of the action in the bbox.\n\n- Option A is a video-based distractor. This describes a wider shot of the subject, not the specific, localized region of the mouth.\n- Option B is a video-based distractor. This describes the posture of the torso, which is outside the specified facial bounding box.\n- Option C is a video-based distractor. This describes the action in the eyebrow region, which is located above the specified bounding box.\n- Option D is a video-based distractor. This describes the action of the eyes, which are also located above the specified bounding box.\n- Option E is a near-miss distractor. While the mouth's action contributes to the overall facial expression, this option describes the whole face, whereas the question asks for the action within the specific, smaller bounding box of the mouth."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "The subject maintains a specific non-verbal cue that signals direct engagement with the audience. At which time and location is this cue most clearly visible?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[3.2s] (x=0.557, y=0.514, w=0.115, h=0.087)"
+        },
+        {
+          "id": "B",
+          "text": "[8.1s] (x=0.424, y=0.127, w=0.376, h=0.647)"
+        },
+        {
+          "id": "C",
+          "text": "[1.2s] (x=0.446, y=0.122, w=0.342, h=0.632)"
+        },
+        {
+          "id": "D",
+          "text": "[14.9s] (x=0.519, y=0.438, w=0.194, h=0.242)"
+        },
+        {
+          "id": "E",
+          "text": "[3.2s] (x=0.536, y=0.246, w=0.176, h=0.087)"
+        },
+        {
+          "id": "F",
+          "text": "[3.2s] (x=0.521, y=0.282, w=0.189, h=0.118)"
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The correct answer is F. The non-verbal cue for direct audience engagement is sustained eye contact. The observation log states, '[eyes] The subject looks directly at the camera.' The bounding box provided at 3.2s for the eyes is (x=0.521, y=0.282, w=0.189, h=0.118), which matches this option perfectly.\n\n- Option A is a near-miss distractor. It has the correct timestamp but provides the bounding box for the mouth, not the eyes.\n- Option B is a video-based distractor. It has an incorrect timestamp and provides a wide bounding box for the entire upper body.\n- Option C is a video-based distractor. It has an incorrect timestamp and provides the bounding box for the torso/posture.\n- Option D is a video-based distractor. It has an incorrect timestamp and provides the bounding box for the subject's beard.\n- Option E is a near-miss distractor. It has the correct timestamp but provides the bounding box for the eyebrows, which are adjacent to the eyes but not the primary cue for engagement."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator06",
+      "version": 1,
+      "clues_total": 12,
+      "clues_correct": 10,
+      "clues_wrong_corrected": 1,
+      "clues_missing_skipped": 0,
+      "clues_bonus": 1
+    }
+  }
+}

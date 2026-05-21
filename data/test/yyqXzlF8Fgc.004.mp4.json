@@ -1,0 +1,442 @@
+{
+  "video_id": "yyqXzlF8Fgc.004.mp4",
+  "video_path": "yyqXzlF8Fgc.004.mp4",
+  "transcription": "- class, nobody teaches you anything, you just go and you play. That's perfect for us because we'll go and we'll jump on the trampolines and we'll do our flips and stuff. We'll see some other people that are practicing some martial arts stuff, and some cool spins and kicks, and so -",
+  "original_scores": {
+    "extraversion": 0.5327102803738318,
+    "agreeableness": 0.5824175824175825,
+    "conscientiousness": 0.6310679611650486,
+    "neuroticism": 0.7083333333333334,
+    "openness": 0.6777777777777777
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 13.88,
+      "description": "The subject maintains direct eye contact with the camera. His eyebrows are in a neutral to slightly raised position, and his mouth moves naturally with his speech in a conversational manner. His facial muscles appear relaxed.",
+      "bboxes": [
+        {
+          "frame_time": 1.092562,
+          "x": 0.45041118421052634,
+          "y": 0.2324561370046515,
+          "w": 0.1480263157894737,
+          "h": 0.07894736842105263,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 4.029962,
+          "x": 0.41488486842105265,
+          "y": 0.19035087384675678,
+          "w": 0.17171052631578948,
+          "h": 0.1,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 3.859355,
+          "x": 0.48741776315789476,
+          "y": 0.3429824527941252,
+          "w": 0.09769736842105263,
+          "h": 0.11052631578947368,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 6.678199,
+          "x": 0.4563322368421053,
+          "y": 0.3219298212151778,
+          "w": 0.1317434210526316,
+          "h": 0.17105263157894737,
+          "note": "face human-annotated",
+          "region": "face"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 13.88,
+      "end_time": 15.31,
+      "description": "The subject's eyebrows raise slightly, and his mouth opens a fraction wider as he speaks, coinciding with a hand gesture toward his chin.",
+      "bboxes": [
+        {
+          "frame_time": 14.880159,
+          "x": 0.4341282894736842,
+          "y": 0.216666663320441,
+          "w": 0.15542763157894737,
+          "h": 0.08157894736842106,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 14.878876,
+          "x": 0.4563322368421053,
+          "y": 0.3798245580572831,
+          "w": 0.07845394736842105,
+          "h": 0.12105263157894737,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 14.512199,
+          "x": 0.4341282894736842,
+          "y": 0.3561403475309673,
+          "w": 0.16875,
+          "h": 0.2894736842105263,
+          "note": "human-annotated",
+          "region": "chin"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 13.97,
+      "description": "The subject sits still and upright, facing the camera. His head has minor, subtle movements that follow the rhythm of his speech. His shoulders are held back and appear relaxed.",
+      "bboxes": [
+        {
+          "frame_time": 1.835505,
+          "x": 0.3704769736842105,
+          "y": 0.09561403174149363,
+          "w": 0.2945723684210526,
+          "h": 0.6105263157894737,
+          "note": "human-annotated",
+          "region": "unknown"
+        },
+        {
+          "frame_time": 3.133026,
+          "x": 0.4134046052631579,
+          "y": 0.14824561068886205,
+          "w": 0.17615131578947368,
+          "h": 0.37894736842105264,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 10.940193,
+          "x": 0.29202302631578947,
+          "y": 0.48508771595201994,
+          "w": 0.4736842105263158,
+          "h": 0.22631578947368422,
+          "note": "pose human-annotated",
+          "region": "shoulders"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 13.97,
+      "end_time": 15.31,
+      "description": "The subject lifts his right hand and briefly touches his fingers to his beard and chin area. His head tilts slightly to his left during the gesture.",
+      "bboxes": [
+        {
+          "frame_time": 14.463555,
+          "x": 0.3837993421052632,
+          "y": 0.4903508738467568,
+          "w": 0.22351973684210527,
+          "h": 0.36578947368421055,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 14.596887,
+          "x": 0.4474506578947368,
+          "y": 0.39035087384675676,
+          "w": 0.13766447368421053,
+          "h": 0.25263157894736843,
+          "note": "human-annotated",
+          "region": "chin"
+        },
+        {
+          "frame_time": 14.696881,
+          "x": 0.47705592105263156,
+          "y": 0.3798245580572831,
+          "w": 0.10805921052631579,
+          "h": 0.22631578947368422,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 14.696881,
+          "x": 0.42820723684210527,
+          "y": 0.058771926478335734,
+          "w": 0.17023026315789475,
+          "h": 0.5,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 15.31,
+      "description": "The subject speaks at a moderate, consistent pace with a clear, conversational tone. His pitch remains relatively stable, with slight upward intonation on words like \"perfect\" (0.04) and a more noticeable rising inflection on the phrase \"spins and kicks\" (0.13-0.14), adding emphasis.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.31,
+      "description": "A young, muscular, light-skinned male with short brown hair styled upward, a full beard, and blue eyes. He wears a thick, gold-colored chain necklace and a black-and-white striped tank top. The bottom of the tank top has a light-blue-and-white cloud graphic. The setting is indoors, in front of a plain, light-colored wall. A large, dark tapestry with a neon green tie-dye effect and black graphics hangs behind him. The graphic includes a repeating pattern of a winged figure. The scene is evenly lit from the front.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Medium",
+      "score": 0.53,
+      "rationale": "The subject's Extraversion is rated as Medium. He demonstrates social comfort by maintaining direct eye contact and speaking in a clear, steady voice, indicating he is at ease in a communicative role. However, his overall energy level is moderate. His physical gestures are contained—slight head movements and a brief touch to the chin—rather than expansive or highly animated. This blend of comfortable engagement with controlled physical expression points to a medium level of Extraversion, suggesting a person who is sociable but not overtly boisterous or attention-seeking.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Medium",
+      "score": 0.58,
+      "rationale": "The subject's Medium Agreeableness is reflected in his generally relaxed and non-confrontational demeanor. His facial muscles and shoulders appear relaxed throughout the clip, and his vocal tone is natural and conversational. These cues suggest a cooperative and easygoing disposition. The absence of any visible tension, skepticism (e.g., furrowed brow, tightened jaw), or hostility supports this assessment. While he does not display strong indicators of high agreeableness, such as frequent smiling or an exceptionally warm tone, his calm presentation is consistent with a moderately agreeable personality.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "High",
+      "score": 0.63,
+      "rationale": "A High level of Conscientiousness is inferred from the structured and goal-oriented nature of the subject's communication. He speaks clearly and logically about activities that involve practice and skill acquisition ('do our flips', 'practicing some martial arts stuff'), indicating an appreciation for discipline and self-improvement. His upright, attentive posture and the thoughtful gesture of touching his chin suggest a deliberate and focused approach to his thoughts. This combination of organized speech and focused demeanor points to a conscientious individual.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "High",
+      "score": 0.71,
+      "rationale": "Despite an outwardly composed exterior with relaxed muscles and a steady voice, the High Neuroticism score is subtly supported by a key self-soothing gesture. The brief action of raising his hand to touch his chin and beard area is often interpreted as an adaptive behavior to manage internal anxiety or self-consciousness. This suggests that while the subject maintains external control, he may be experiencing underlying emotional tension that manifests in these small, contained physical actions. It indicates a capacity to manage stress, but also the presence of that stress.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "High",
+      "score": 0.68,
+      "rationale": "The subject's High Openness is strongly supported by both the content of his speech and his aesthetic choices. He enthusiastically describes engaging in varied and novel physical experiences ('trampolines', 'flips', 'martial arts'), showcasing a clear interest in exploration and new activities. His slightly raised eyebrows throughout reflect curiosity and engagement. Furthermore, his distinct personal style—including a prominent necklace and a unique, artistic tapestry in his background—demonstrates an appreciation for aesthetics and self-expression, which are core facets of the Openness dimension.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During 14.0s - 15.3s, the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "High Conscientiousness, suggesting a moment of deep thought."
+        },
+        {
+          "id": "B",
+          "text": "Low Agreeableness, indicating potential skepticism or doubt."
+        },
+        {
+          "id": "C",
+          "text": "High Extraversion, seen as an expressive, outward gesture."
+        },
+        {
+          "id": "D",
+          "text": "Low Openness, reflecting a conventional, closed-off posture."
+        },
+        {
+          "id": "E",
+          "text": "Medium Agreeableness, a neutral, non-confrontational cue."
+        },
+        {
+          "id": "F",
+          "text": "High Neuroticism, indicated by a potential self-soothing act."
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The behavior at 14.0s-15.3s is the subject raising his hand to touch his chin and beard. The personality analysis identifies this as a self-soothing gesture, which is a key indicator of managing internal anxiety, thus supporting a High Neuroticism assessment. \nOption A is a near-miss distractor; the gesture could be interpreted as thoughtful (Conscientiousness), but the analysis specifically links it to self-soothing (Neuroticism).\nOption B is a text-based distractor; face-touching can sometimes signal skepticism, but this is not supported by the overall relaxed and agreeable context of the video.\nOption C is a video-based distractor; while the person exhibits medium extraversion through his speech, this particular gesture is more contained and self-regulatory, not a highly expressive, outward gesture typical of high extraversion.\nOption D is a text-based distractor; the gesture has no clear connection to the Openness dimension, which is supported by other cues like speech content and aesthetics.\nOption E is a text-based distractor; the cue is more specific than just being 'neutral' and is actively interpreted as evidence for a different trait."
+    },
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their High Neuroticism level?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[00.5s - 01.8s]"
+        },
+        {
+          "id": "B",
+          "text": "[03.5s - 04.8s]"
+        },
+        {
+          "id": "C",
+          "text": "[06.2s - 07.5s]"
+        },
+        {
+          "id": "D",
+          "text": "[10.4s - 11.7s]"
+        },
+        {
+          "id": "E",
+          "text": "[12.6s - 13.9s]"
+        },
+        {
+          "id": "F",
+          "text": "[14.0s - 15.3s]"
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The analysis explicitly states that the High Neuroticism score is supported by the self-soothing gesture of touching his chin and beard. This action occurs distinctly within the 14.0s - 15.3s interval.\nOption A is a video-based distractor; this interval shows the subject's baseline neutral expression and is not the key moment of change.\nOption B is a video-based distractor; this interval shows a typical mid-speech expression with slightly raised eyebrows but is not the specific self-soothing gesture.\nOption C is a video-based distractor; this interval shows a relaxed facial state, which is part of his baseline but not the key event.\nOption D is a video-based distractor; this interval is where his shoulders are noted as relaxed, relating more to Agreeableness than the key neuroticism cue.\nOption E is a video-based distractor; this is immediately before the key action and part of the normal speech pattern."
+    },
+    {
+      "category": "Mixed Emotion Discrimination",
+      "question": "During 0.0s - 13.9s, the person's emotional state is best characterized as which of the following? Consider both verbal and non-verbal cues.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mild amusement tempered by intellectual curiosity."
+        },
+        {
+          "id": "B",
+          "text": "Joyful excitement mixed with focused anticipation."
+        },
+        {
+          "id": "C",
+          "text": "Pensive reflection combined with subtle wistfulness."
+        },
+        {
+          "id": "D",
+          "text": "Enthusiastic pride tempered by a sense of humility."
+        },
+        {
+          "id": "E",
+          "text": "Passive contentment combined with a hint of nostalgia."
+        },
+        {
+          "id": "F",
+          "text": "Calm confidence mixed with narrative engagement."
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "During this period, the subject maintains direct eye contact, has a relaxed face, and speaks in a clear, steady voice about his experiences. This combination reflects 'calm confidence' (relaxed demeanor, steady speech) and 'narrative engagement' (direct eye contact, focused topic). All options are in the positive/engaged family.\nOption A is a text-based distractor; the words 'amusement' and 'curiosity' are plausible given the topic, but his expression is more neutral and confident than overtly amused.\nOption B is a text-based distractor; while the topic is exciting, his demeanor is calm and moderate, not showing visible signs of high-arousal 'joyful excitement'.\nOption C is a near-miss distractor; he is reflecting, but 'pensive' and 'wistful' imply a more somber or melancholic tone that is not present in his neutral-to-positive expression and steady voice.\nOption D is a text-based distractor; these are plausible emotions for discussing skills, but not specifically supported by the visual evidence, which is more about relaxed communication.\nOption E is a video-based distractor; he is content, but 'passive' is incorrect as he is actively communicating. There is no strong evidence for 'nostalgia'."
+    },
+    {
+      "category": "Temporal-Causal Reasoning",
+      "question": "Consider the sequence of behaviors observed across the video. Which of the following best describes the causal chain linking the person's actions at different moments?",
+      "options": [
+        {
+          "id": "A",
+          "text": "An initial display of anxiety (0-5s) is offset by an assertive vocal tone (5-13s), concluding with a thoughtful gesture of finality (14-15s)."
+        },
+        {
+          "id": "B",
+          "text": "A final self-regulatory gesture (14-15s) triggers a detailed memory recall (5-13s), which retroactively explains the initial communicative poise (0-5s)."
+        },
+        {
+          "id": "C",
+          "text": "Cognitive elaboration (5-13s) is interrupted, causing a brief loss of focus (14-15s) which contrasts sharply with the speaker's initial composure (0-5s)."
+        },
+        {
+          "id": "D",
+          "text": "High social energy (0-5s) wanes into mental fatigue during speech (5-13s), which directly results in a brief self-soothing physical action (14-15s)."
+        },
+        {
+          "id": "E",
+          "text": "A long storytelling phase (0-13s) is punctuated by a non-verbal gesture (14-15s) which is designed to add emphasis to the concluding thoughts."
+        },
+        {
+          "id": "F",
+          "text": "Baseline communicative poise (0-5s) transitions into cognitive elaboration on a topic (5-13s), culminating in a subtle self-regulatory gesture (14-15s)."
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "This option accurately describes the flow of the video: the subject starts with a relaxed, steady communicative style (poise), then delves into the details of a topic (cognitive elaboration), and concludes with the chin-touch gesture, which the analysis identifies as self-regulatory. The causal and temporal order is correct.\nOption A is a near-miss distractor; it misinterprets the initial state as anxious (it's calm) and the final gesture as one of finality (it's self-regulatory).\nOption B is a video-based distractor with reversed temporal order; it incorrectly places the final gesture as the cause of the preceding speech.\nOption C is a text-based distractor; it invents an 'interruption' and 'loss of focus' that are not supported by the video evidence.\nOption D is a text-based distractor; it incorrectly assumes the cause is 'mental fatigue', whereas the speaker's vocal delivery remains steady throughout.\nOption E is a near-miss distractor; it correctly identifies the gesture's timing but misinterprets its function as 'emphasis' rather than the more likely 'self-regulation' suggested by the personality analysis."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 14.5s, a region was detected in the video (x=0.384, y=0.490, w=0.224, h=0.366, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The subject's mouth moving naturally as they are speaking."
+        },
+        {
+          "id": "B",
+          "text": "The subject maintaining direct and steady eye contact."
+        },
+        {
+          "id": "C",
+          "text": "The subject's facial muscles appearing generally relaxed."
+        },
+        {
+          "id": "D",
+          "text": "Eyebrows held in a neutral to slightly raised position."
+        },
+        {
+          "id": "E",
+          "text": "A hand pointing directly towards the speaker's lower chin."
+        },
+        {
+          "id": "F",
+          "text": "A hand being raised towards the lower part of the face."
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The provided bounding box at 14.5s (x=0.384, y=0.490, w=0.224, h=0.366) clearly isolates the subject's right hand as he raises it towards his chin. This option accurately describes the action within that specific region.\nOptions A, B, and D are video-based distractors; they describe real, concurrent actions (mouth moving, eye contact, raised eyebrows) but these occur in different spatial regions of the face, outside the specified bounding box.\nOption C is a video-based distractor; it describes a general state of the entire face, not the specific action occurring within the localized bbox.\nOption E is a near-miss distractor; it correctly identifies the hand and its target but uses the incorrect verb 'pointing', which was identified as a common error pattern. The actual gesture is more of a touch or scratch."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "The person makes a subtle, contemplative physical adjustment at the end of their sentence. Which option correctly specifies the time and location of this adjustment?",
+      "options": [
+        {
+          "id": "A",
+          "text": "At 08.5s, in region (x=0.384, y=0.490, w=0.224, h=0.366)."
+        },
+        {
+          "id": "B",
+          "text": "At 03.1s, in region (x=0.413, y=0.148, w=0.176, h=0.379)."
+        },
+        {
+          "id": "C",
+          "text": "At 04.0s, in region (x=0.415, y=0.190, w=0.172, h=0.100)."
+        },
+        {
+          "id": "D",
+          "text": "At 14.7s, in region (x=0.292, y=0.485, w=0.474, h=0.226)."
+        },
+        {
+          "id": "E",
+          "text": "At 10.9s, in region (x=0.428, y=0.059, w=0.170, h=0.500)."
+        },
+        {
+          "id": "F",
+          "text": "At 14.7s, in region (x=0.428, y=0.059, w=0.170, h=0.500)."
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The 'subtle, contemplative physical adjustment' refers to the head tilt to the right that occurs at 14.7s. This option provides both the correct timestamp and the correct bounding box that covers the head and neck area for this action.\nOption A is a video-based distractor; this is the time and location of the hand gesture, which is another adjustment but the head tilt is more 'contemplative'.\nOption B is a video-based distractor; this is the time and location of a normal head movement during speech, not the specific contemplative tilt at the end.\nOption C is a video-based distractor; it points to an eyebrow movement at an earlier time.\nOption D is a near-miss distractor; it has the correct time (14.7s) but the wrong location (the bbox for the shoulders).\nOption E is a near-miss distractor; it has the correct location (the bbox for the head) but the wrong time (10.9s)."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [
+      {
+        "check": "B",
+        "q_idx": 5,
+        "issue": "The correct answer (F) identifies the head tilt, but distractor A identifies the concurrent hand gesture using equally correct time and location data. Both are part of the same 'adjustment' described in the question, so the options are not properly differentiated.",
+        "action": "Modified the timestamp in option A to make it factually incorrect, ensuring F is the only valid answer."
+      }
+    ],
+    "corrections": {
+      "mcq_questions[5].options[0].text": "At 08.5s, in region (x=0.384, y=0.490, w=0.224, h=0.366)."
+    },
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator10",
+      "version": 1,
+      "clues_total": 16,
+      "clues_correct": 11,
+      "clues_wrong_corrected": 5,
+      "clues_missing_skipped": 0,
+      "clues_bonus": 0
+    }
+  }
+}

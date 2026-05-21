@@ -1,0 +1,325 @@
+{
+  "video_id": "vJDx6TCX32M.005.mp4",
+  "video_path": "vJDx6TCX32M.005.mp4",
+  "transcription": "But eventually ladies, don't use it to stop your sex life. The statistics on this are very bad for people that have been very married for five or more years with one or more children. It gets very very low rate of-",
+  "original_scores": {
+    "extraversion": 0.7102803738317757,
+    "agreeableness": 0.846153846153846,
+    "conscientiousness": 0.7961165048543688,
+    "neuroticism": 0.7291666666666667,
+    "openness": 0.6
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 15.63,
+      "description": "The subject maintains direct gaze at the camera throughout the clip. His facial expression is mostly neutral and relaxed. His eyebrows briefly lift at 00:03 when he says \"more outgoing person\" and again more noticeably at 00:11-00:12 when he says \"forced to adapt.\" His mouth movements are synchronized with his speech.",
+      "bboxes": [
+        {
+          "frame_time": 3.051188,
+          "x": 0.5059210526315789,
+          "y": 0.41105263358668276,
+          "w": 0.23536184210526317,
+          "h": 0.07631578947368421,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 4.236188,
+          "x": 0.4777960526315789,
+          "y": 0.09263158095510382,
+          "w": 0.29901315789473687,
+          "h": 0.8078947368421052,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 6.550852,
+          "x": 0.5458881578947369,
+          "y": 0.3531578967445775,
+          "w": 0.2649671052631579,
+          "h": 0.15789473684210525,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 14.484686,
+          "x": 0.6110197368421053,
+          "y": 0.6478947388498406,
+          "w": 0.15542763157894737,
+          "h": 0.14473684210526316,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 11.2,
+      "description": "The subject is seated, facing forward. His head remains relatively still, with only small, subtle movements accompanying his speech. His right hand makes small, illustrative gestures at the bottom of the frame.",
+      "bboxes": [
+        {
+          "frame_time": 1.138554,
+          "x": 0.47039473684210525,
+          "y": 0.07947368621826172,
+          "w": 0.3611842105263158,
+          "h": 0.8157894736842105,
+          "note": "human-annotated",
+          "region": "unknown"
+        },
+        {
+          "frame_time": 3.926629,
+          "x": 0.4644736842105263,
+          "y": 0.0636842125340512,
+          "w": 0.30197368421052634,
+          "h": 0.7921052631578948,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 6.778021,
+          "x": 0,
+          "y": 0.6400000020077354,
+          "w": 0.21463815789473684,
+          "h": 0.35526315789473684,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 11.2,
+      "end_time": 14.5,
+      "description": "The subject makes a larger gesture with his right hand, moving it from left to right with the palm facing up. His right shoulder rises slightly with the movement.",
+      "bboxes": [
+        {
+          "frame_time": 12.492749,
+          "x": 0.1625,
+          "y": 0.8478947388498407,
+          "w": 0.19539473684210526,
+          "h": 0.14736842105263157,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 13.931623,
+          "x": 0.3638157894736842,
+          "y": 0.8531578967445775,
+          "w": 0.26052631578947366,
+          "h": 0.12368421052631579,
+          "note": "pose human-annotated",
+          "region": "shoulders"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 15.63,
+      "description": "The subject speaks at a moderate and consistent pace in a mid-range pitch. There is a slight, consistent reverb in the audio. His volume is steady, with slight increases for emphasis on phrases like \"outgoing person\" (00:04) and \"forced to adapt\" (00:11).",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.63,
+      "description": "A young man with dark brown hair and fair skin is filmed from the chest up. He is wearing a black T-shirt and speaking into a large-diaphragm microphone positioned in front of him. The setting is indoors, with a plain, light-colored wall in the background. A dark computer monitor is visible but out of focus on the viewer's left. The lighting is soft and direct from the front, with a vignette effect darkening the corners of the frame.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "High",
+      "score": 0.71,
+      "rationale": "The subject's High Extraversion is supported by his expressive and animated communication style. He actively uses a variety of hand gestures, both small and large, to add energy and emphasis to his speech. His constant head movement and smiles while talking indicate a high level of social energy and positive affect. The very context of speaking into a microphone for a recording suggests comfort with being the center of attention, a core characteristic of extraversion.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Very High",
+      "score": 0.85,
+      "rationale": "A Very High level of Agreeableness is indicated by the subject's warm and non-confrontational demeanor. He smiles frequently while speaking, a clear prosocial signal of friendliness. His vocal delivery is moderate and stable, lacking any aggressive or sharp tones. The use of a palm-up gesture is a classic non-verbal cue that communicates openness and trustworthiness, fostering a cooperative and approachable impression.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Very High",
+      "score": 0.8,
+      "rationale": "The subject demonstrates traits consistent with Very High Conscientiousness through the deliberate and organized nature of his presentation. The setup, involving a quality microphone and considered lighting, implies forethought and preparation. His speech is clear, with mouth movements synchronized to his words, and his posture is controlled, with stable shoulders. This suggests a focused, task-oriented approach, indicative of a conscientious individual.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "High",
+      "score": 0.73,
+      "rationale": "While the subject appears generally composed, subtle cues point to a High level of Neuroticism. The observation of a brief frown indicates a momentary expression of negative emotion. His continuous side-to-side head movements, while also a sign of extraversion, can additionally be interpreted as a low-level manifestation of restlessness or nervous energy. These subtle indicators of underlying tension and negative affect are consistent with a higher score on this trait.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "High",
+      "score": 0.6,
+      "rationale": "The subject's High Openness is reflected in his intellectual engagement and expressive communication. He uses distinct eyebrow raises to emphasize abstract concepts like being an \"outgoing person\" or being \"forced to adapt,\" showing a nuanced engagement with his topic. The use of illustrative hand gestures further suggests a mind actively working to articulate and explain ideas. The act of creating a video to share his thoughts implies a curiosity and willingness to engage in public discourse.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During [11.2s - 14.5s], the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Very High Agreeableness, which is suggested by the open and trustworthy signaling."
+        },
+        {
+          "id": "B",
+          "text": "High Extraversion, as the movement shows a high degree of expressive social energy."
+        },
+        {
+          "id": "C",
+          "text": "High Neuroticism, since such a gesture can often indicate a sense of restlessness."
+        },
+        {
+          "id": "D",
+          "text": "Low Conscientiousness, given that large gestures might imply a lack of restraint."
+        },
+        {
+          "id": "E",
+          "text": "Low Agreeableness, as the motion could be interpreted as a dismissive or abrupt act."
+        },
+        {
+          "id": "F",
+          "text": "High Openness, because the action serves to illustrate an abstract or novel concept."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. During [11.2s - 14.5s], the person makes a large, palm-up gesture. The personality analysis specifically cites this as a classic non-verbal cue for openness and trustworthiness, which are core facets of Agreeableness.\n- Option B is a near-miss distractor. While the gesture is expressive (related to Extraversion), its specific palm-up form is more directly indicative of Agreeableness's prosocial nature.\n- Option C is a video-based distractor. High Neuroticism is inferred from other behaviors in the video, such as head movements and a brief frown, not this specific hand gesture.\n- Option D is a text-based distractor. It presents a plausible but incorrect interpretation of the gesture, suggesting it's disorganized rather than communicative.\n- Option E is a text-based distractor. This provides an opposite, yet textually plausible, interpretation of the gesture's meaning without referencing the video's context.\n- Option F is a video-based distractor. High Openness is linked to other behaviors like eyebrow raises at different moments, not this particular gesture."
+    },
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their High Openness level?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[11.2s - 12.3s]"
+        },
+        {
+          "id": "B",
+          "text": "[2.8s - 3.9s]"
+        },
+        {
+          "id": "C",
+          "text": "[6.5s - 7.6s]"
+        },
+        {
+          "id": "D",
+          "text": "[0.1s - 1.2s]"
+        },
+        {
+          "id": "E",
+          "text": "[8.8s - 9.9s]"
+        },
+        {
+          "id": "F",
+          "text": "[14.0s - 15.1s]"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. The personality analysis for Openness explicitly mentions eyebrow raises when discussing abstract concepts. The observation notes a distinct eyebrow raise at [00:11-00:12] when the person says \"forced to adapt,\" which falls squarely in this interval.\n- Option B is a video-based distractor. This interval captures the *first* eyebrow raise mentioned in the observation notes (at 00:03). While also relevant, the raise at 11-12s is noted as a distinct and significant event, making it an excellent target for this question.\n- Option C is a text-based distractor. This interval contains some hand gestures but no notable facial micro-expression change.\n- Option D is a text-based distractor. This is the beginning of the video where the expression is relatively static.\n- Option E is a near-miss distractor. This interval is in the middle of the speech but does not contain the specific, sharp micro-expression linked to Openness in the analysis.\n- Option F is a text-based distractor. This interval is at the end of the video, where mouth movements for speech are present but no key micro-expression occurs."
+    },
+    {
+      "category": "Mixed Emotion Discrimination",
+      "question": "During [0.0s - 15.6s], the person's emotional state is best characterized as which of the following? Consider both verbal and non-verbal cues.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Engaged enthusiasm mixed with a degree of managed restraint."
+        },
+        {
+          "id": "B",
+          "text": "Pure joy combined with feelings of unrestrained excitement."
+        },
+        {
+          "id": "C",
+          "text": "Sincere warmth tempered by a subtle touch of nervous anxiety."
+        },
+        {
+          "id": "D",
+          "text": "Intellectual curiosity blended with a feeling of mild skepticism."
+        },
+        {
+          "id": "E",
+          "text": "Friendly openness combined with a sense of rehearsed formality."
+        },
+        {
+          "id": "F",
+          "text": "Confident presentation tempered by a hint of private contemplation."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The correct answer is A. This option best synthesizes the conflicting cues. The 'engaged enthusiasm' captures the smiles, head movements, and gestures (Extraversion), while 'managed restraint' accounts for the stable vocal tone, organized setup (Conscientiousness), and the underlying tension suggested by the brief frown and restless head movement (Neuroticism).\n- Option B is a video-based distractor. It over-emphasizes the positive cues (smiles, gestures) while completely ignoring the negative/restraining cues (frown, restlessness), making it an incomplete description.\n- Option C is a near-miss distractor. This is very close to correct, but 'nervous anxiety' may be too strong of an interpretation for the subtle cues observed; 'managed restraint' is a more precise description of the overall behavioral presentation.\n- Option D is a text-based distractor. While 'intellectual curiosity' is plausible due to the topic, 'mild skepticism' is not supported by the friendly and open non-verbal cues like smiling.\n- Option E is a text-based distractor. It is plausible given the microphone setup, but 'rehearsed formality' downplays the genuine-seeming energy and positive affect displayed.\n- Option F is a text-based distractor. 'Contemplation' doesn't quite fit the active and expressive nature of the person's communication style throughout the clip."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around [3.1s], a region was detected in the video (x=0.506, y=0.411, w=0.235, h=0.076, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A relaxed smile indicating a friendly and warm disposition."
+        },
+        {
+          "id": "B",
+          "text": "A distinct raising of the eyebrows for conceptual emphasis."
+        },
+        {
+          "id": "C",
+          "text": "Synchronized mouth movements articulating specific words."
+        },
+        {
+          "id": "D",
+          "text": "A direct and unwavering gaze fixed straight into the camera."
+        },
+        {
+          "id": "E",
+          "text": "A small, illustrative hand gesture being made at the side."
+        },
+        {
+          "id": "F",
+          "text": "A stable and forward-facing posture in a seated position."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. The provided coordinates at 3.1s perfectly frame the person's eyes. The observation notes for this region state, Smiling while talking. Therefore, a relaxed smile is the most prominent expression.\n- Option B is a video-based distractor. This describes the action of the eyebrows, which are in a different location (higher on the face) and are raised at slightly different times (e.g., 3s and 11s).\n- Option C is a video-based distractor. This describes the mouth, which is located below the specified bounding box.\n- Option D is a near-miss distractor. It correctly identifies the eye region but describes an incorrect action based on a common AI error pattern ('direct and unwavering gaze' vs. the actual smiling expression).\n- Option E is a video-based distractor. This describes a hand gesture, which occurs in a completely different spatial region at the bottom of the frame.\n- Option F is a video-based distractor. This describes the person's overall posture, not the specific action within the small bounding box around the eyes."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [
+      {
+        "check": "A",
+        "q_idx": 2,
+        "issue": "The selected correct answer 'A' focuses on Extraversion (enthusiasm) and Conscientiousness (restraint). However, option 'C' (\"Sincere warmth tempered by a subtle touch of nervous anxiety\") provides a more precise description of the subject's mixed *emotional state*. It better synthesizes the analyses for Very High Agreeableness ('warm... demeanor', 'smiles') and High Neuroticism ('subtle cues', 'restlessness or nervous energy', 'negative affect').",
+        "action": "Changed correct answer from 'A' to 'C'."
+      }
+    ],
+    "corrections": {
+      "mcq_questions[2].correct_answer": "C"
+    },
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator09",
+      "version": 2,
+      "clues_total": 11,
+      "clues_correct": 6,
+      "clues_wrong_corrected": 5,
+      "clues_missing_skipped": 0,
+      "clues_bonus": 0
+    }
+  }
+}

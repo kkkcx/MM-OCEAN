@@ -1,0 +1,348 @@
+{
+  "video_id": "7Y4cUPFEt-4.003.mp4",
+  "video_path": "7Y4cUPFEt-4.003.mp4",
+  "transcription": "-live. If you've not got them yet, go to your app store and download them. You can then find me under Mark [inaudible 00:00:06] Art and then I will let you know if I'm going to stream. That may be if I'm in my studio and I'm painting something or maybe I'm going to do-",
+  "original_scores": {
+    "extraversion": 0.5046728971962617,
+    "agreeableness": 0.6043956043956044,
+    "conscientiousness": 0.5825242718446602,
+    "neuroticism": 0.5729166666666666,
+    "openness": 0.811111111111111
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 15.5,
+      "description": "The subject maintains a direct gaze toward the camera for most of the clip, with natural, intermittent blinks. His eyebrows frequently lift slightly when articulating and emphasizing words (e.g., at 2.5s, 5.5s, 8.5s, and 12.0s). His facial muscles appear relaxed, and his mouth moves naturally in sync with his speech.",
+      "bboxes": [
+        {
+          "frame_time": 1.297925,
+          "x": 0.4652138157894737,
+          "y": 0.4377192948993884,
+          "w": 0.16578947368421054,
+          "h": 0.14736842105263157,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 3.125401,
+          "x": 0.3778782894736842,
+          "y": 0.37456140016254624,
+          "w": 0.21019736842105263,
+          "h": 0.11578947368421053,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 3.582604,
+          "x": 0.3482730263157895,
+          "y": 0.3640350843730726,
+          "w": 0.19391447368421053,
+          "h": 0.41578947368421054,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 4.212244,
+          "x": 0.4104440789473684,
+          "y": 0.6298245580572831,
+          "w": 0.10805921052631579,
+          "h": 0.09210526315789473,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 10.4,
+      "description": "The subject sits upright in a black chair, framed in a medium close-up shot. His head moves with small, natural motions as he speaks. His hands remain out of frame.",
+      "bboxes": [
+        {
+          "frame_time": 0.892751,
+          "x": 0.4030427631578947,
+          "y": 0.34824561068886206,
+          "w": 0.45592105263157895,
+          "h": 0.6473684210526316,
+          "note": "human-annotated",
+          "region": "unknown"
+        },
+        {
+          "frame_time": 2.502283,
+          "x": 0.4296875,
+          "y": 0.2535087685835989,
+          "w": 0.1924342105263158,
+          "h": 0.531578947368421,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 8.859758,
+          "x": 0.6443256578947368,
+          "y": 0.8587719264783358,
+          "w": 0.17467105263157895,
+          "h": 0.1368421052631579,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 10.4,
+      "end_time": 15.5,
+      "description": "The subject's right hand enters the frame from the bottom right, making a small, open-palmed illustrative gesture to the side before lowering out of view. He repeats a similar small gesture around 14.5s.",
+      "bboxes": [
+        {
+          "frame_time": 11.564171,
+          "x": 0.6961348684210527,
+          "y": 0.8087719264783357,
+          "w": 0.21463815789473684,
+          "h": 0.17894736842105263,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 14.979986,
+          "x": 0.35863486842105263,
+          "y": 0.8956140317414937,
+          "w": 0.08585526315789474,
+          "h": 0.10263157894736842,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 15.5,
+      "description": "The speaker's voice is in a mid-range male pitch with a clear, articulate quality. The speech rate is moderate and conversational. Pitch rises for emphasis on key phrases like \"App Store\" (2.5s), \"find me\" (5.5s), \"let you know\" (8.5s), \"studio\" (12.0s), and \"painting something\" (13.0s). The volume is consistent throughout the clip.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.5,
+      "description": "The subject is a young man with fair skin, light-colored eyes, and dark brown hair styled back from his forehead. He is wearing a black, button-down collared shirt. He is indoors, in what appears to be an art studio or room with light-colored walls. He is seated in a black office chair. Several pieces of colorful, abstract, and pop-art-style paintings are visible on the wall behind him, including two large canvases and smaller circular pieces. The lighting is bright and even. A text overlay in the top-left corner reads \"#markviceart\".",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Medium",
+      "score": 0.5,
+      "rationale": "The subject's Extraversion is rated as Medium. This is supported by a balanced presentation of social engagement and controlled energy. On one hand, he actively engages the audience by speaking directly to the camera, using vocal intonation to emphasize key points, and employing illustrative hand gestures. This indicates social confidence. On the other hand, his overall demeanor is composed and his energy level is moderate rather than highly animated; his gestures are small and his posture is contained. This combination of outward engagement with a measured delivery aligns with a medium level of extraversion.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "High",
+      "score": 0.6,
+      "rationale": "The subject scores High on Agreeableness, which is reflected in his approachable and cooperative communication style. He maintains steady and direct eye contact, and his facial muscles are relaxed, fostering a sense of connection and trust. His vocal tone is conversational and his speech is clear, indicating a desire to be understood and helpful. The act of providing clear instructions on how to find his content is inherently a prosocial, cooperative behavior. These cues collectively create a friendly and non-confrontational impression, characteristic of high agreeableness.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Medium",
+      "score": 0.58,
+      "rationale": "A Medium level of Conscientiousness is indicated by the subject's organized yet informal presentation. He delivers a clear, goal-oriented message, guiding viewers through a logical sequence of actions, which points to preparation and dutifulness. However, his conversational tone, relaxed posture, and the creative studio environment suggest a flexible approach rather than rigid adherence to a formal script. This blend of structured communication within a relaxed, non-corporate setting supports a moderate score in Conscientiousness.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Medium",
+      "score": 0.57,
+      "rationale": "The subject's Neuroticism is in the Medium range. He exhibits many signs of emotional stability, such as a steady vocal volume, relaxed facial muscles, and consistent eye contact. However, the context of being on camera can elicit pressure. His contained posture and small, controlled gestures, rather than broad, uninhibited movements, can be interpreted as a subtle management of potential anxiety. This demonstrates effective emotional regulation but not a complete absence of tension, which is consistent with a medium level of neuroticism.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "Very High",
+      "score": 0.81,
+      "rationale": "The subject's Very High score in Openness is strongly supported by explicit environmental cues. He is positioned in an art studio, surrounded by colorful, abstract, and pop-art paintings. The on-screen text identifies him as an artist ('#markviceart'). This deep immersion in aesthetics and creative self-expression is a primary indicator of a high degree of Openness. His articulate communication style further suggests an intellectual curiosity and comfort with conveying novel information, reinforcing this trait assessment.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During 0.0s - 15.5s, the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by the environmental and contextual cues present throughout this period?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Low Conscientiousness, given the informal artistic setting."
+        },
+        {
+          "id": "B",
+          "text": "High Extraversion, due to the direct-to-camera speaking."
+        },
+        {
+          "id": "C",
+          "text": "Low Neuroticism, because of his very calm and steady tone."
+        },
+        {
+          "id": "D",
+          "text": "High Agreeableness, from his relaxed and friendly expression."
+        },
+        {
+          "id": "E",
+          "text": "Very High Openness, based on the art studio environment."
+        },
+        {
+          "id": "F",
+          "text": "Medium Neuroticism, based on his measured speaking pace."
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The analysis explicitly states that the Very High Openness score is strongly supported by environmental cues, namely being in an art studio surrounded by paintings. While other traits are present, the environmental evidence for Openness is the most direct and powerful signal in the video.\n- Option A is a near-miss distractor. It correctly identifies the setting but draws an incorrect conclusion; the analysis rates Conscientiousness as Medium, not Low.\n- Option B is a text-based distractor. Speaking to a camera can suggest extraversion, but the analysis rates it as Medium, and it's less definitive than the environmental cues for Openness.\n- Option C is a text-based distractor. His calmness is evident, but the analysis concludes a Medium, not Low, level of Neuroticism.\n- Option D is a video-based distractor. His expression does support High Agreeableness, but the question asks for the dimension most supported by environmental and contextual cues, where Openness is the clear winner.\n- Option F is a video-based distractor. His pace does support Medium Neuroticism, but this is a more subtle inference compared to the overt evidence for Openness."
+    },
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their rated Agreeableness level, serving to emphasize a helpful instruction?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[2.3s - 2.9s]"
+        },
+        {
+          "id": "B",
+          "text": "[11.4s - 12.0s]"
+        },
+        {
+          "id": "C",
+          "text": "[0.5s - 1.1s]"
+        },
+        {
+          "id": "D",
+          "text": "[14.4s - 15.0s]"
+        },
+        {
+          "id": "E",
+          "text": "[8.3s - 8.9s]"
+        },
+        {
+          "id": "F",
+          "text": "[6.5s - 7.1s]"
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "Around 8.5s, the speaker says \"let you know\" and briefly raises his eyebrows to add emphasis. This non-verbal cue is a pro-social act of highlighting helpful information, which is relevant to his High Agreeableness score.\n- Option A is a near-miss distractor. An almost identical eyebrow raise for emphasis occurs around 2.5s, but the one at 8.5s is linked to the more explicitly helpful phrase \"let you know.\"\n- Option B is a video-based distractor. An eyebrow raise also occurs around 12.0s to emphasize the word \"studio.\"\n- Option C is a text-based distractor. This is a plausible interval near the beginning, but no distinct, relevant micro-expression occurs.\n- Option D is a video-based distractor. A small hand gesture occurs in this time frame, which is a non-verbal cue but not a facial expression change.\n- Option F is a text-based distractor. This interval is in the middle of a phrase with no notable facial movement."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 4.2s, a region was detected in the video (x=0.410, y=0.630, w=0.108, h=0.092, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A steady, direct gaze toward the recording camera."
+        },
+        {
+          "id": "B",
+          "text": "The upper part of the torso and a black office chair."
+        },
+        {
+          "id": "C",
+          "text": "Subtle, natural movements of the head while talking."
+        },
+        {
+          "id": "D",
+          "text": "An illustrative hand gesture with an open palm shape."
+        },
+        {
+          "id": "E",
+          "text": "Natural mouth articulation synchronized with speech."
+        },
+        {
+          "id": "F",
+          "text": "A tense jaw line indicating some slight discomfort."
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The specified bounding box at 4.2s precisely frames the person's mouth area. At this moment, he is speaking, and the action captured is the natural movement of his mouth as he articulates words.\n- Options A, B, and C are video-based distractors. They describe real actions happening at 4.2s but in different spatial regions (eyes, torso, and overall head, respectively), not within the specified bbox.\n- Option D is a video-based distractor. This describes a hand gesture that occurs, but at a completely different time (around 11.6s) and in a different location.\n- Option F is a near-miss distractor. It correctly identifies the body part (mouth/jaw) but incorrectly describes the expression; the observation notes his facial muscles are relaxed, not tense."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "The person makes a small, illustrative gesture with their hand to emphasize a point. At which timestamp and within which bounding box does this specific action primarily occur?",
+      "options": [
+        {
+          "id": "A",
+          "text": "At 2.5s, in region (x=0.430, y=0.254, w=0.192, h=0.532)."
+        },
+        {
+          "id": "B",
+          "text": "At 15.0s, in region (x=0.359, y=0.896, w=0.086, h=0.103)."
+        },
+        {
+          "id": "C",
+          "text": "At 3.1s, in region (x=0.378, y=0.375, w=0.210, h=0.116)."
+        },
+        {
+          "id": "D",
+          "text": "At 11.6s, in region (x=0.359, y=0.896, w=0.086, h=0.103)."
+        },
+        {
+          "id": "E",
+          "text": "At 11.6s, in region (x=0.696, y=0.809, w=0.215, h=0.179)."
+        },
+        {
+          "id": "F",
+          "text": "At 7.2s, in region (x=0.500, y=0.500, w=0.200, h=0.200)."
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The primary illustrative hand gesture (an open-palmed motion) occurs around 11.6s, and the provided bounding box correctly captures the location of his right hand during this action.\n- Option A is a video-based distractor. This timestamp and bbox correspond to a head movement, not a hand gesture.\n- Option B is a video-based distractor. This corresponds to the second, smaller hand gesture that occurs later in the video.\n- Option C is a video-based distractor. This timestamp and bbox correspond to an eyebrow raise, not a hand gesture.\n- Option D is a near-miss distractor. It has the correct timestamp (11.6s) but provides the bounding box for the *other* hand gesture that happens at 15.0s, testing for precise spatial localization.\n- Option F is a text-based distractor. This combination of timestamp and bbox does not correspond to any significant gesture in the video."
+    },
+    {
+      "category": "Counterfactual Reasoning",
+      "question": "If the person had NOT exhibited the behavior observed around 10.4s - 15.5s, which of the following personality assessments would be MOST affected?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Openness would be rated lower, as these actions reflect a uniquely creative and expressive communication method."
+        },
+        {
+          "id": "B",
+          "text": "Conscientiousness would be rated higher, because the gestures detract from the otherwise very organized message."
+        },
+        {
+          "id": "C",
+          "text": "Agreeableness would be rated lower, since these gestures are the main indicator of his cooperative communication."
+        },
+        {
+          "id": "D",
+          "text": "Neuroticism would be rated higher, as the gestures serve to release nervous energy that would otherwise be visible."
+        },
+        {
+          "id": "E",
+          "text": "Extraversion would be rated lower, as these gestures are key evidence of his active social engagement with the audience."
+        },
+        {
+          "id": "F",
+          "text": "Agreeableness would be affected if the initial steady eye contact from the first few seconds had been absent instead."
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The behavior in this period includes small, illustrative hand gestures. The personality analysis for Medium Extraversion explicitly cites 'employing illustrative hand gestures' as evidence for social engagement. Removing this evidence would weaken the case for his active engagement, likely lowering the Extraversion score.\n- Option A is a text-based distractor. This is a plausible link, but the primary evidence for Openness is the studio environment, which is much stronger and would be unaffected.\n- Option B is a near-miss distractor. It makes an incorrect causal claim; the gestures are seen as reinforcing the message, not detracting from it, so removing them wouldn't increase the Conscientiousness score.\n- Option C is a text-based distractor. While gestures contribute to an agreeable impression, they are not the *main* indicator; his steady eye contact and relaxed face are stronger evidence for Agreeableness.\n- Option D is a near-miss distractor. It offers an alternative but less supported interpretation. The analysis links the gestures to engagement (Extraversion), not anxiety management (Neuroticism).\n- Option F is a video-based distractor. It correctly identifies another behavior (eye contact) linked to a trait (Agreeableness) but refers to the wrong time segment specified in the question."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator17",
+      "version": 1,
+      "clues_total": 12,
+      "clues_correct": 10,
+      "clues_wrong_corrected": 1,
+      "clues_missing_skipped": 1,
+      "clues_bonus": 0
+    }
+  }
+}

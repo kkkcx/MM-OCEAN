@@ -1,0 +1,416 @@
+{
+  "video_id": "M5_x5J-H2I0.002.mp4",
+  "video_path": "M5_x5J-H2I0.002.mp4",
+  "transcription": "Very optimistic. I like to be very positive about certain situations that may be negative because negativity really brings me down and affects how I act in certain situations. I would describe myself also as very ...",
+  "original_scores": {
+    "extraversion": 0.47663551401869164,
+    "agreeableness": 0.5604395604395604,
+    "conscientiousness": 0.6213592233009709,
+    "neuroticism": 0.42708333333333337,
+    "openness": 0.5555555555555556
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 5.91,
+      "description": "The subject maintains direct gaze towards the camera. Their eyebrows are slightly raised in a neutral position. The mouth moves naturally with speech. When saying \"negative,\" the eyebrows briefly lower and the inner corners press together slightly.",
+      "bboxes": [
+        {
+          "frame_time": 2.955,
+          "x": 0.4876543209876543,
+          "y": 0.3161865569272977,
+          "w": 0.18055555555555555,
+          "h": 0.11248285322359397,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 2.955,
+          "x": 0.49074074074074076,
+          "y": 0.28052126200274347,
+          "w": 0.18209876543209877,
+          "h": 0.10699588477366255,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 4.144278,
+          "x": 0.5324074074074074,
+          "y": 0.4945130315500686,
+          "w": 0.1111111111111111,
+          "h": 0.10973936899862825,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 0.760193,
+          "x": 0.44290123456790126,
+          "y": 0.21742112482853224,
+          "w": 0.29475308641975306,
+          "h": 0.6063100137174211,
+          "note": "human-annotated",
+          "region": "unknown"
+        },
+        {
+          "frame_time": 5.648478,
+          "x": 0.3148148148148148,
+          "y": 0.6179698216735254,
+          "w": 0.47685185185185186,
+          "h": 0.32373113854595337,
+          "note": "pose human-annotated",
+          "region": "torso"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 5.91,
+      "end_time": 8.6,
+      "description": "The eyebrows raise slightly and the eyes widen a little as the subject says \"negativity really brings me down.\"",
+      "bboxes": [
+        {
+          "frame_time": 5.91,
+          "x": 0.4382716049382716,
+          "y": 0.2448559670781893,
+          "w": 0.31790123456790126,
+          "h": 0.6968449931412894,
+          "note": "human-annotated",
+          "region": "unknown"
+        },
+        {
+          "frame_time": 5.91,
+          "x": 0.5308641975308642,
+          "y": 0.2393689986282579,
+          "w": 0.16049382716049382,
+          "h": 0.13443072702331962,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 8.598522,
+          "x": 0.5,
+          "y": 0.31069958847736623,
+          "w": 0.19135802469135801,
+          "h": 0.1646090534979424,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 8.6,
+      "end_time": 15.39,
+      "description": "The facial expression returns to a relaxed, neutral state, with the gaze remaining fixed on the camera. The lips part slightly as the final sentence trails off.",
+      "bboxes": [
+        {
+          "frame_time": 8.598522,
+          "x": 0.5092592592592593,
+          "y": 0.21467764060356653,
+          "w": 0.16512345679012347,
+          "h": 0.43621399176954734,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 8.598522,
+          "x": 0.46296296296296297,
+          "y": 0.2777777777777778,
+          "w": 0.22376543209876543,
+          "h": 0.18930041152263374,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 8.598522,
+          "x": 0.529320987654321,
+          "y": 0.4835390946502058,
+          "w": 0.10802469135802469,
+          "h": 0.13991769547325103,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 15.30195,
+          "x": 0.45524691358024694,
+          "y": 0.2722908093278464,
+          "w": 0.30864197530864196,
+          "h": 0.6227709190672154,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 11.66,
+      "description": "The subject is seated, facing forward in a medium close-up shot. Their head remains relatively still, with minor nods and tilts that align with their speech.",
+      "bboxes": [
+        {
+          "frame_time": 0,
+          "x": 0.4074074074074074,
+          "y": 0.050068587105624146,
+          "w": 0.279320987654321,
+          "h": 0.6282578875171467,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 0,
+          "x": 0.4398148148148148,
+          "y": 0.08847736625514403,
+          "w": 0.23765432098765432,
+          "h": 0.6008230452674898,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 11.66,
+      "end_time": 15.39,
+      "description": "The subject's head tilts slightly to their right as they begin their last sentence.",
+      "bboxes": [
+        {
+          "frame_time": 11.66,
+          "x": 0.4861111111111111,
+          "y": 0.11042524005486969,
+          "w": 0.23148148148148148,
+          "h": 0.5925925925925926,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 11.66,
+          "x": 0.4783950617283951,
+          "y": 0.011659807956104253,
+          "w": 0.24845679012345678,
+          "h": 0.7187928669410151,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 5.09,
+      "description": "The subject speaks at a moderate and consistent pace with a clear, even tone. The pitch drops slightly at the end of phrases.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 5.09,
+      "end_time": 8.79,
+      "description": "There is a slight increase in vocal emphasis on the word \"negativity\" and a drop in pitch on the phrase \"brings me down.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 8.79,
+      "end_time": 11.23,
+      "description": "The speech rate and volume return to the baseline established at the beginning.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 11.23,
+      "end_time": 15.39,
+      "description": "A clear, audible breath is taken at 11.58 seconds. The subject begins speaking again at a moderate pace, which then trails off at the end of the clip.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.39,
+      "description": "The subject is a young adult with a light complexion and dark hair styled in a pompadour with shaved sides. They are wearing makeup and black-framed glasses. Their attire is a black sleeveless shirt with a white star pattern on the chest. The setting is an indoor room with a white wall. In the background, there is a wall hanging with inspirational quotes, a vase of artificial white flowers, a lamp with a beige shade, and a wooden cabinet.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Medium",
+      "score": 0.48,
+      "rationale": "The subject's Extraversion is rated as Medium. While their willingness to speak directly to the camera and maintain consistent eye contact suggests a degree of social comfort and confidence, their overall demeanor is contained. The absence of broad, expansive gestures, a relatively still head and torso, and a moderate, steady vocal pace indicate a balanced level of social energy, falling short of the high outward expressiveness and animation characteristic of strong extraversion.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Medium",
+      "score": 0.56,
+      "rationale": "The subject's Agreeableness is rated as Medium. The primary support for this comes from the verbal content; they explicitly state a preference for positivity and an aversion to negativity, which aligns with a desire for social harmony. This is further supported by a calm and steady vocal tone and a generally relaxed, neutral facial expression. These behaviors indicate a non-confrontational and pleasant disposition, consistent with a moderate level of agreeableness.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "High",
+      "score": 0.62,
+      "rationale": "The subject's Conscientiousness is rated as High. This is supported by several cues indicating orderliness and deliberate thought. Verbally, their speech is structured and articulate; they provide a logical reason for their positive outlook ('...because negativity really brings me down and affects how I act...'), demonstrating self-awareness. Non-verbally, their well-groomed appearance (styled hair, makeup) and the organized, tidy background suggest a preference for order. The controlled, steady pace of their speech further reinforces a thoughtful, non-impulsive nature.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Medium",
+      "score": 0.43,
+      "rationale": "The subject's Neuroticism is rated as Medium, indicating a balance between emotional sensitivity and stability. They verbally acknowledge their emotional reactivity to negative situations ('negativity really brings me down'). This is subtly mirrored in their non-verbals through a slight widening of the eyes and increased vocal emphasis when mentioning the word 'negativity'. However, their ability to quickly return to a calm, composed state, maintain steady eye contact, and frame this sensitivity within a coping strategy (choosing positivity) demonstrates significant emotional regulation, preventing a high neuroticism score.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "Medium",
+      "score": 0.56,
+      "rationale": "The subject's Openness is rated as Medium. Evidence for this trait is found in their aesthetic expression and introspective manner. Their distinct personal style (hairstyle, makeup, glasses) indicates an appreciation for aesthetics. Furthermore, their engagement in self-analysis ('I would describe myself as...') and the thoughtful pause at the end suggest a capacity for introspection. However, the expressed ideas about positivity are quite conventional, lacking the novelty or complexity that would suggest a high level of openness, thus supporting a moderate rating.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During 0.0s - 8.8s, the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "High Conscientiousness"
+        },
+        {
+          "id": "B",
+          "text": "High Extraversion"
+        },
+        {
+          "id": "C",
+          "text": "Low Conscientiousness"
+        },
+        {
+          "id": "D",
+          "text": "Medium Neuroticism"
+        },
+        {
+          "id": "E",
+          "text": "Medium Openness"
+        },
+        {
+          "id": "F",
+          "text": "High Agreeableness"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. During this period, the person not only states their preference for optimism but provides a structured, logical reason for it ('...because negativity really brings me down and affects how I act...'). This demonstrates self-awareness, thoughtfulness, and a deliberate, organized thought process, which are key indicators of high Conscientiousness.\n- Option B is a text-based distractor. While speaking clearly to a camera might seem extraverted, the analysis notes that the lack of expansive gestures and contained energy point to a medium, not high, level of Extraversion.\n- Option C is a near-miss distractor. It correctly identifies the relevant personality dimension (Conscientiousness) but gets the direction wrong. The behavior shows organization and thoughtfulness, not a lack thereof.\n- Option D is a video-based distractor. While evidence for Medium Neuroticism does appear in this time range (reactivity to 'negativity'), the most prominent *behavioral pattern* is the structured justification, which is a stronger and more direct indicator for Conscientiousness.\n- Option E is a text-based distractor. Openness is supported more by static aesthetic choices (hairstyle, glasses) and general introspection, not specifically by the logical structure of the argument presented in this segment.\n- Option F is a text-based distractor. The content about positivity relates to Agreeableness, but the *pattern* of providing a reasoned, causal explanation for a belief is a hallmark of Conscientiousness."
+    },
+    {
+      "category": "Temporal-Causal Reasoning",
+      "question": "Consider the sequence of behaviors observed across the video. Which of the following best describes the causal chain linking the person's actions at different moments?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A positive self-assessment (early) is justified by a self-disclosure of emotional sensitivity (middle), followed by a swift return to a composed baseline (late)."
+        },
+        {
+          "id": "B",
+          "text": "A display of emotional sensitivity (middle) causes the person to form a positive self-assessment (early), which is then reinforced by a period of composure (late)."
+        },
+        {
+          "id": "C",
+          "text": "A baseline state of composure (late) is disrupted by an involuntary emotional display (middle), prompting a defensive rationalization of their personality (early)."
+        },
+        {
+          "id": "D",
+          "text": "An initial positive self-assessment (early) triggers an involuntary emotional display (middle), which is then suppressed through a visible effort of self-correction (late)."
+        },
+        {
+          "id": "E",
+          "text": "A period of thoughtful introspection (late) leads to a statement about personal values (early), which is later challenged by an unexpected emotional reaction (middle)."
+        },
+        {
+          "id": "F",
+          "text": "A declarative statement (early) is followed by an elaborative example of vulnerability (middle), culminating in a cognitive reframing of the initial idea (late)."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. This option correctly identifies the logical and temporal flow: the person first states a trait ('optimistic'), then provides a causal reason for it by disclosing their sensitivity to negativity, and finally demonstrates emotional regulation by quickly returning to a calm state.\n- Option B is a distractor with reversed temporal order. The positive assessment is stated first, it does not result from the emotional disclosure.\n- Option C is a distractor with reversed temporal order and incorrect causality. The sequence is wrong, and it misinterprets the justification as 'defensive' and the expression as a 'disruption'.\n- Option D is a video-based distractor with an incorrect causal link. It correctly orders the events but mischaracterizes the emotional display as 'involuntary' and the return to baseline as a 'visible effort of self-correction'. The display appears illustrative and the recovery is smooth.\n- Option E is a distractor with incorrect temporal order and causality. The timeline is jumbled, and the narrative of the statement being 'challenged' by an emotion is not supported.\n- Option F is a near-miss distractor. While it correctly identifies the sequence of statement and elaboration, it incorrectly describes the final phase. The person returns to a neutral baseline; they do not engage in a 'cognitive reframing' of their initial idea."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 8.6s, a region was detected in the video (x=0.509, y=0.215, w=0.165, h=0.436, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A relaxed and neutral facial expression overall"
+        },
+        {
+          "id": "B",
+          "text": "Direct and consistent eye contact with the camera"
+        },
+        {
+          "id": "C",
+          "text": "Slightly raised eyebrows in their neutral state"
+        },
+        {
+          "id": "D",
+          "text": "Mouth movements corresponding to spoken words"
+        },
+        {
+          "id": "E",
+          "text": "Shoulders being slightly drawn inward for a bit"
+        },
+        {
+          "id": "F",
+          "text": "A spoken phrase that gradually begins to trail off"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. The provided bounding box at 8.6s covers the person's entire face. The observation log for the period starting at 8.6s explicitly states, Face returns to a relaxed, neutral state, making this the most accurate description for the overall region.\n- Option B is a near-miss distractor. While correct that the person maintains eye contact, this describes only a part of the facial region (the eyes), not the overall expression of the entire face covered by the bounding box.\n- Option C is a near-miss distractor. Similar to B, this describes the state of the eyebrows, a sub-region within the detected area, not the holistic facial expression.\n- Option D is a near-miss distractor. This describes the action of the mouth, another sub-region. At 8.6s, the mouth is actually still ('lips slightly parted') as speech has just concluded. This makes it inaccurate for the specific timestamp.\n- Option E is a video-based distractor. This describes a posture of the torso, which is a different body part and completely outside the specified facial bounding box.\n- Option F is a text-based distractor. This describes an auditory event, not a visual expression or action that can be seen within the specified rectangular region."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "At which moment and location does the subject's expression subtly intensify, reflecting their verbal acknowledgment of a personal sensitivity?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Time: [0.8s], Bbox: (x=0.443, y=0.217, w=0.295, h=0.606)"
+        },
+        {
+          "id": "B",
+          "text": "Time: [8.6s], Bbox: (x=0.529, y=0.484, w=0.108, h=0.140)"
+        },
+        {
+          "id": "C",
+          "text": "Time: [3.0s], Bbox: (x=0.500, y=0.311, w=0.191, h=0.165)"
+        },
+        {
+          "id": "D",
+          "text": "Time: [11.7s], Bbox: (x=0.486, y=0.110, w=0.231, h=0.593)"
+        },
+        {
+          "id": "E",
+          "text": "Time: [5.6s], Bbox: (x=0.315, y=0.618, w=0.477, h=0.324)"
+        },
+        {
+          "id": "F",
+          "text": "Time: [8.6s], Bbox: (x=0.500, y=0.311, w=0.191, h=0.165)"
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The correct answer is F. The acknowledgment of personal sensitivity occurs when they say 'negativity really brings me down', which peaks around 5.9s-8.6s. The observation log notes that at 8.6s, their 'eyes slightly widened'. The bounding box (x=0.500, y=0.311, w=0.191, h=0.165) corresponds exactly to the eyes at this precise moment of subtle intensification.\n- Option A is a video-based distractor. This timestamp and bbox correspond to the whole head near the beginning of the video, where the expression is neutral.\n- Option B is a near-miss distractor. The timestamp [8.6s] is correct, but the bounding box points to the mouth region, not the eyes where the subtle intensification occurs.\n- Option C is a near-miss distractor. The bounding box correctly identifies the eye region, but the timestamp [3.0s] is from a period of neutral expression, not the moment of emotional intensification.\n- Option D is a video-based distractor. This corresponds to a slight head tilt near the end of the video, which is not related to the expression of sensitivity.\n- Option E is a video-based distractor. This timestamp and bounding box correspond to the torso, which is irrelevant to the facial expression in question."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator15",
+      "version": 1,
+      "clues_total": 22,
+      "clues_correct": 21,
+      "clues_wrong_corrected": 0,
+      "clues_missing_skipped": 1,
+      "clues_bonus": 0
+    }
+  }
+}

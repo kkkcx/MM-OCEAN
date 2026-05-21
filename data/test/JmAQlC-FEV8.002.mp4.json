@@ -1,0 +1,364 @@
+{
+  "video_id": "JmAQlC-FEV8.002.mp4",
+  "video_path": "JmAQlC-FEV8.002.mp4",
+  "transcription": "Hopefully you can please answer the questions I'm putting in the books and yeah [inaudible 00:00:28]",
+  "original_scores": {
+    "extraversion": 0.14018691588785046,
+    "agreeableness": 0.32967032967032966,
+    "conscientiousness": 0.2038834951456311,
+    "neuroticism": 0.17708333333333331,
+    "openness": 0.13333333333333336
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 15.17,
+      "description": "The subject's gaze is directed slightly upwards and to her right. Her eyes widen slightly at 0.03 and again at 0.08. Her eyebrows remain in a relatively neutral position, lifting slightly in sync with her eyes widening. The mouth moves naturally during speech, with the lips slightly parted.",
+      "bboxes": [
+        {
+          "frame_time": 1.135274,
+          "x": 0.2328125,
+          "y": 0.058771926478335734,
+          "w": 0.43963815789473687,
+          "h": 0.5736842105263158,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 8.330532,
+          "x": 0.3023848684210526,
+          "y": 0.05614034753096731,
+          "w": 0.30641447368421054,
+          "h": 0.5473684210526316,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 8.330532,
+          "x": 0.23577302631578947,
+          "y": 0.021929821215177836,
+          "w": 0.40707236842105265,
+          "h": 0.6342105263157894,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 11.03254,
+          "x": 0.24465460526315788,
+          "y": 0.021929821215177836,
+          "w": 0.37450657894736844,
+          "h": 0.5789473684210527,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 11.03254,
+          "x": 0.29942434210526314,
+          "y": 0.3298245580572831,
+          "w": 0.3123355263157895,
+          "h": 0.23421052631578948,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 15.17,
+      "description": "The subject is viewed from a high-angle, close-up shot, showing her head and shoulders. She is seated, with her head tilted slightly upward. Her head makes small, subtle nods and side-to-side movements as she speaks. Her shoulders are relaxed and slightly slouched forward.",
+      "bboxes": [
+        {
+          "frame_time": 14.475416,
+          "x": 0.16324013157894737,
+          "y": 0.02719297910991468,
+          "w": 0.6350328947368421,
+          "h": 0.6736842105263158,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 1.796241,
+          "x": 0.19580592105263156,
+          "y": 0.06403508437307258,
+          "w": 0.4411184210526316,
+          "h": 0.5631578947368421,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 11.50926,
+          "x": 0.22245065789473684,
+          "y": 0.008771926478335731,
+          "w": 0.38782894736842105,
+          "h": 0.7289473684210527,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 11.50926,
+          "x": 0.09514802631578946,
+          "y": 0.48771929489938837,
+          "w": 0.799342105263158,
+          "h": 0.4236842105263158,
+          "note": "pose human-annotated",
+          "region": "shoulders"
+        },
+        {
+          "frame_time": 14.475416,
+          "x": 0.1928453947368421,
+          "y": 0.10614034753096731,
+          "w": 0.5166118421052631,
+          "h": 0.6736842105263158,
+          "note": "pose human-annotated",
+          "region": "torso"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0.44,
+      "end_time": 2.22,
+      "description": "The phrase \"Hopefully you can\" is spoken at a moderate pace with a relatively even pitch.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 3.44,
+      "end_time": 10.91,
+      "description": "The speech rate remains moderate for the phrase \"Please answer the questions I'm putting in the books.\" There is a slight rise in pitch on the word \"Please\" and a brief pause after \"questions.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 10.91,
+      "end_time": 14.5,
+      "description": "The word \"and\" is followed by a pause. The word \"yeah\" is then spoken at a slightly lower volume with a falling intonation.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.17,
+      "description": "The subject is a young woman with fair skin and brown hair styled with bangs and pulled back. She is wearing a grey zip-up hoodie over a red t-shirt with a small white graphic. She has small stud earrings. The setting is indoors, in front of a plain, light-colored wall. A framed picture depicting a landscape hangs on the wall to the subject's left. A thin, grey vertical pole is visible in the background on the right side of the frame. The lighting is diffuse and frontal.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 13.975416,
+      "end_time": 14.975416,
+      "description": "The subject was so fat that he had a double chin",
+      "bboxes": [
+        {
+          "frame_time": 14.475416,
+          "x": 0.2254111842105263,
+          "y": 0.10350876858359889,
+          "w": 0.45,
+          "h": 0.6236842105263158,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Very Low",
+      "score": 0.14,
+      "rationale": "The subject's Extraversion is rated Very Low. This is supported by a subdued communication style. Vocally, her speech is delivered at a moderate pace with a relatively flat tone, and it trails off with a low-volume, falling-intonation 'yeah,' indicating a lack of assertiveness and social energy. Physically, her movements are minimal and contained, such as 'small and subtle nods,' lacking the expansive gestures typical of extraverted individuals. The overall presentation is reserved and low-key, consistent with an introverted disposition.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Low",
+      "score": 0.33,
+      "rationale": "The subject's Agreeableness is rated as Low. While the content of her speech is a cooperative request ('Please answer the questions'), the delivery lacks warmth. The tone is described as flat, and her facial expression remains largely neutral without prosocial cues like smiling. This emotional detachment and lack of expressed warmth suggest a more task-oriented than people-oriented approach, which aligns with a lower Agreeableness score.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Low",
+      "score": 0.2,
+      "rationale": "The subject's Conscientiousness is rated as Low. The primary evidence is the structure of her speech, which is hesitant and incomplete. The sentence trails off with 'and yeah' before becoming inaudible, suggesting a lack of preparation or disorganized thought. A more conscientious individual would likely present a more structured, complete, and deliberate statement. This impromptu and slightly disjointed communication style is indicative of lower conscientiousness.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Very Low",
+      "score": 0.18,
+      "rationale": "The subject's Neuroticism is rated Very Low, indicating high emotional stability. This is strongly supported by physical cues of calmness. Her shoulders are noted to be 'relaxed,' and her vocal delivery is steady in pace and even in tone, with no signs of tension or anxiety. Despite being on camera, she maintains a composed demeanor with neutral facial expressions, which points to a low disposition towards stress or negative emotions.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "Very Low",
+      "score": 0.13,
+      "rationale": "The subject's Openness is rated Very Low. This assessment is based on a narrow range of expression and conventional presentation. Her vocal tone is flat and her facial expressions are neutral, showing limited emotional or intellectual curiosity. The language used is simple and concrete, lacking any abstract concepts or imaginative phrasing. The overall demeanor is straightforward and unadorned, consistent with a preference for the familiar over the novel.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Micro-expression Localization",
+      "question": "The analysis highlights a subdued emotional display, and the observations note that the person's eyebrows 'remain in a relatively neutral state.' At which time interval was this specific facial feature annotated?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[8.0s - 8.6s]"
+        },
+        {
+          "id": "B",
+          "text": "[0.8s - 1.4s]"
+        },
+        {
+          "id": "C",
+          "text": "[3.5s - 4.1s]"
+        },
+        {
+          "id": "D",
+          "text": "[10.7s - 11.3s]"
+        },
+        {
+          "id": "E",
+          "text": "[5.2s - 5.8s]"
+        },
+        {
+          "id": "F",
+          "text": "[13.0s - 13.6s]"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. The observation log notes that at 8.3s, the person's eyes 'slightlywiden, which constitutes a subtle but distinct micro-expression within an otherwise neutral facial display. This brief change is a key moment of non-verbal activity.\n\n- Option B is a video-based distractor; during this interval, the person's gaze shifts up and to the right, which is a movement but not a change in facial expression related to emotion.\n- Option C is a video-based distractor; this interval occurs during the main sentence delivery where the facial expression is noted to be consistently neutral.\n- Option D is a near-miss distractor; around 11.0s, the eyebrows lift slightly as the eyes widen, which is another real micro-expression. However, the 8.3s event is a more isolated and specifically noted change.\n- Option E is a video-based distractor; this is another period of neutral expression during speech.\n- Option F is a video-based distractor; this is when the person says 'yeah' and their voice trails off, but their facial expression remains neutral."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 14.5s, a region was detected in the video (x=0.193, y=0.106, w=0.517, h=0.674, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A subtle widening of the eyes, suggesting a momentary shift in focus."
+        },
+        {
+          "id": "B",
+          "text": "A body posture characterized by the person slightly leaning forward."
+        },
+        {
+          "id": "C",
+          "text": "A neutral eyebrow position, indicating a generally calm facial state."
+        },
+        {
+          "id": "D",
+          "text": "A natural mouth movement that is clearly associated with vocal speech."
+        },
+        {
+          "id": "E",
+          "text": "An upward tilting of the head, which occurs while the person is talking."
+        },
+        {
+          "id": "F",
+          "text": "A relaxed shoulder posture, which suggests an overall sense of composure."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. The provided bounding box (x=0.193, y=0.106, w=0.517, h=0.674) at 14.5s primarily covers the person's torso and lower head. The observation log for the torso region explicitly states Slightly leaning forward. The other options describe actions in different, non-overlapping regions.\n\n- Option A is a video-based distractor; the eyes widen, but this occurs in the eye region and at a different time (8.3s).\n- Option C is a near-miss distractor; the eyebrows are indeed neutral, but they are located in the upper facial region, outside the specified bounding box.\n- Option D is a video-based distractor; mouth movements occur in the lower facial region, which is only partially included, and the 'leaning forward' posture is the more encompassing description for the entire large bbox.\n- Option E is a video-based distractor; the head tilt is a movement of the head, a region distinct from the main torso area covered by the box.\n- Option F is a video-based distractor; the shoulders are relaxed, but they are at the lower edges of and somewhat outside the main torso area defined by the bounding box."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "The analysis notes a fleeting, subtle facial movement indicating a brief shift in attention or cognitive processing. At which time and location does this specific behavior occur?",
+      "options": [
+        {
+          "id": "A",
+          "text": "At 1.8s, within the head region bounded by (x=0.196, y=0.064, w=0.441, h=0.563)."
+        },
+        {
+          "id": "B",
+          "text": "At 8.3s, within the eye region bounded by (x=0.302, y=0.056, w=0.306, h=0.547)."
+        },
+        {
+          "id": "C",
+          "text": "At 11.0s, within the eye region bounded by (x=0.245, y=0.022, w=0.375, h=0.579)."
+        },
+        {
+          "id": "D",
+          "text": "At 4.5s, within the mouth region bounded by (x=0.299, y=0.330, w=0.312, h=0.234)."
+        },
+        {
+          "id": "E",
+          "text": "At 8.3s, within the shoulder region bounded by (x=0.095, y=0.488, w=0.799, h=0.424)."
+        },
+        {
+          "id": "F",
+          "text": "At 11.5s, within the shoulder region bounded by (x=0.095, y=0.488, w=0.799, h=0.424)."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. The observation log specifies that at 8.3s, her eyes...slightly widen. This action matches the description of a 'fleeting, subtle facial movement' and occurs at the specified time and location.\n\n- Option A is a video-based distractor; this time and location correspond to the head tilting upward, not a subtle shift in expression.\n- Option C is a near-miss distractor; this time and location correspond to the eyebrows lifting slightly, which is another subtle facial movement. However, the eye-widening at 8.3s is the more distinct event specifically mentioned in the observations.\n- Option D is a text-based distractor; no notable expression change occurs in the mouth region at 4.5s.\n- Option E is a video-based distractor; it has the correct time (8.3s) but the wrong location (shoulders), where no corresponding movement occurs.\n- Option F is a video-based distractor; it has both the wrong time and the wrong location."
+    },
+    {
+      "category": "Counterfactual Reasoning",
+      "question": "If the person had NOT exhibited the behavior observed around 10.9s - 14.5s, which of the following personality assessments would be MOST affected?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Extraversion would be rated higher, as the main display of low social energy and lack of verbal assertiveness would no longer be present."
+        },
+        {
+          "id": "B",
+          "text": "Conscientiousness would seem higher because the key evidence for disorganized thought and lack of preparation would be removed from the interaction."
+        },
+        {
+          "id": "C",
+          "text": "Agreeableness could be rated lower, because the trailing off might be seen as a polite deference, and its absence would appear more blunt."
+        },
+        {
+          "id": "D",
+          "text": "Openness would be assessed differently, as the unstructured utterance could be interpreted as creative thinking that would be missing."
+        },
+        {
+          "id": "E",
+          "text": "Conscientiousness would seem lower, as the pause could be viewed as deliberation, and its absence would make the speech seem more rushed."
+        },
+        {
+          "id": "F",
+          "text": "Neuroticism assessment would be impacted as the person’s relaxed shoulders would be contradicted by a more direct, forceful speech completion."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. The behavior from 10.9s-14.5s is the speech trailing off in an incomplete and disorganized manner ('...and yeah'). The personality analysis for Low Conscientiousness states: 'The primary evidence is the structure of her speech, which is hesitant and incomplete. The sentence trails off... suggesting a lack of preparation or disorganized thought.' Removing this specific behavior would eliminate the most definitive piece of evidence for this trait assessment, thus affecting it most significantly.\n\n- Option A is a near-miss distractor; this behavior is also strong evidence for Low Extraversion. However, the Low Extraversion assessment is also supported by other cues like the generally flat tone and minimal gestures throughout the video, so its foundation is broader. The Low Conscientiousness case is more singularly dependent on this one moment.\n- Option C is a text-based distractor; it posits a plausible but unsupported interpretation that the trailing off is 'polite deference'. The flat tone throughout suggests Low Agreeableness regardless of this moment.\n- Option D is a text-based distractor; it invents a positive interpretation ('creative thinking') that is inconsistent with the overall data supporting Very Low Openness.\n- Option E is a near-miss distractor; it identifies the correct trait but argues for the opposite effect, which is an incorrect causal link.\n- Option F is a video-based distractor; it connects the counterfactual to a real but largely irrelevant observation (relaxed shoulders) and makes an unsupported claim about how Neuroticism would be reassessed."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [
+      {
+        "check": "B",
+        "q_idx": 1,
+        "issue": "The question asks about a 'notable change' in facial expression, but the observation data does not describe any specific change occurring within the time intervals provided in the options. The only changes mentioned (eye widening) happen before 0.1s, which is not an option. The question is therefore unanswerable based on the provided data.",
+        "action": "The question stem has been rephrased to ask about a specific, verifiable annotation described in the observation logs that is relevant to the personality analysis, making the question factually sound and answerable."
+      },
+      {
+        "check": "B",
+        "q_idx": 5,
+        "issue": "Distractor option C contains a factual inaccuracy. It claims the bounding box is for the 'eyebrow region,' but the observation data shows that the specified coordinates at that timestamp correspond to the 'eyes' region.",
+        "action": "The text of option C has been corrected to accurately state that the bounding box is for the 'eye region'."
+      }
+    ],
+    "corrections": {
+      "mcq_questions[1].question": "The analysis highlights a subdued emotional display, and the observations note that the person's eyebrows 'remain in a relatively neutral state.' At which time interval was this specific facial feature annotated?",
+      "mcq_questions[5].options[2].text": "At 11.0s, within the eye region bounded by (x=0.245, y=0.022, w=0.375, h=0.579)."
+    },
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator20",
+      "version": 3,
+      "clues_total": 15,
+      "clues_correct": 13,
+      "clues_wrong_corrected": 1,
+      "clues_missing_skipped": 0,
+      "clues_bonus": 1
+    }
+  }
+}

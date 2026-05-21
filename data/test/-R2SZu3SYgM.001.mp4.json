@@ -1,0 +1,526 @@
+{
+  "video_id": "-R2SZu3SYgM.001.mp4",
+  "video_path": "-R2SZu3SYgM.001.mp4",
+  "transcription": "Write 5 different little sections, being like \"hey, hey, how are you doing? Why this? Why that?\", asking the stupidist questions you could ever possibly imagine. Well, for me, that was this guy ...",
+  "original_scores": {
+    "extraversion": 0.17757009345794392,
+    "agreeableness": 0.2637362637362637,
+    "conscientiousness": 0.17475728155339804,
+    "neuroticism": 0.21874999999999997,
+    "openness": 0.3777777777777778
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 5.83,
+      "description": "The subject's gaze is directed upward and to their left. Their eyebrows are raised and their mouth is open as they speak, with lips pursed and projected forward on certain words. The facial expression is highly animated.",
+      "bboxes": [
+        {
+          "frame_time": 1.067942,
+          "x": 0.40230263157894736,
+          "y": 0.05842105463931435,
+          "w": 0.27828947368421053,
+          "h": 0.531578947368421,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 1.067942,
+          "x": 0.4452302631578947,
+          "y": 0.0900000020077354,
+          "w": 0.23240131578947368,
+          "h": 0.15263157894736842,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 1.024844,
+          "x": 0.4126644736842105,
+          "y": 0.3400000020077354,
+          "w": 0.15986842105263158,
+          "h": 0.20526315789473684,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 1.024844,
+          "x": 0.38009868421052634,
+          "y": 0.13210526516563015,
+          "w": 0.2901315789473684,
+          "h": 0.49473684210526314,
+          "note": "face human-annotated",
+          "region": "face"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 5.83,
+      "end_time": 9.23,
+      "description": "The subject's gaze shifts to look directly at the camera. Their eyes are wide open, and their mouth moves expressively with their speech, opening wide.",
+      "bboxes": [
+        {
+          "frame_time": 5.83,
+          "x": 0.4082236842105263,
+          "y": 0.12421052832352487,
+          "w": 0.28421052631578947,
+          "h": 0.5552631578947368,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 5.83,
+          "x": 0.43338815789473684,
+          "y": 0.2268421072708933,
+          "w": 0.21611842105263157,
+          "h": 0.11578947368421053,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 5.83,
+          "x": 0.45263157894736844,
+          "y": 0.39526315990247224,
+          "w": 0.17171052631578948,
+          "h": 0.15789473684210525,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 9.23,
+      "end_time": 11.83,
+      "description": "Gaze shifts down and to their right. The upper eyelids lower slightly, and they continue speaking.",
+      "bboxes": [
+        {
+          "frame_time": 11.068435,
+          "x": 0.2513157894736842,
+          "y": 0.22947368621826172,
+          "w": 0.2679276315789474,
+          "h": 0.2394736842105263,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 11.068435,
+          "x": 0.2794407894736842,
+          "y": 0.25842105463931436,
+          "w": 0.2042763157894737,
+          "h": 0.06842105263157895,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 11.83,
+      "end_time": 15.19,
+      "description": "The subject's head is tilted down as they look at a phone in their hands. Their eyes are cast fully downward, and their mouth continues to form words.",
+      "bboxes": [
+        {
+          "frame_time": 13.51,
+          "x": 0.2394736842105263,
+          "y": 0.22157894937615646,
+          "w": 0.34786184210526316,
+          "h": 0.55,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 15.19,
+          "x": 0,
+          "y": 0.6084210546393144,
+          "w": 0.45592105263157895,
+          "h": 0.3815789473684211,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 15.19,
+          "x": 0.2143092105263158,
+          "y": 0.31631579148141964,
+          "w": 0.28717105263157894,
+          "h": 0.16842105263157894,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 13.51,
+          "x": 0.32088815789473685,
+          "y": 0.5057894756919459,
+          "w": 0.16726973684210528,
+          "h": 0.1736842105263158,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 2.1,
+      "description": "The subject's right arm is raised, moving energetically in a circular motion before their left hand comes up to briefly touch their hair.",
+      "bboxes": [
+        {
+          "frame_time": 0.983332,
+          "x": 0.10921052631578947,
+          "y": 0.25578947569194593,
+          "w": 0.3138157894736842,
+          "h": 0.4105263157894737,
+          "note": "human-annotated",
+          "region": "arms"
+        },
+        {
+          "frame_time": 2.1,
+          "x": 0.17286184210526315,
+          "y": 0.3110526335866828,
+          "w": 0.3034539473684211,
+          "h": 0.5105263157894737,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 2.1,
+      "end_time": 7,
+      "description": "The right arm is raised again, with the hand initially in a loose fist, then opening to gesture emphatically with fingers extended. The head moves from side to side with the speech.",
+      "bboxes": [
+        {
+          "frame_time": 4.55,
+          "x": 0,
+          "y": 0.08736842306036698,
+          "w": 0.2856907894736842,
+          "h": 0.4868421052631579,
+          "note": "human-annotated",
+          "region": "arms"
+        },
+        {
+          "frame_time": 2.233332,
+          "x": 0.22171052631578947,
+          "y": 0.3268421072708933,
+          "w": 0.23092105263157894,
+          "h": 0.45526315789473687,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 4.158367,
+          "x": 0,
+          "y": 0.08736842306036698,
+          "w": 0.225,
+          "h": 0.4763157894736842,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 6.044985,
+          "x": 0.3460526315789474,
+          "y": 0.16105263358668276,
+          "w": 0.3981907894736842,
+          "h": 0.4394736842105263,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 7,
+      "end_time": 11.33,
+      "description": "Both hands come up into the frame, gesturing with open palms. The right hand then forms an 'OK' sign before both hands move down.",
+      "bboxes": [
+        {
+          "frame_time": 9.320738,
+          "x": 0,
+          "y": 0.43473684411299857,
+          "w": 1,
+          "h": 0.49736842105263157,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 10.69665,
+          "x": 0.6657894736842105,
+          "y": 0.4742105283235249,
+          "w": 0.3342105263157895,
+          "h": 0.5078947368421053,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 11.33,
+      "end_time": 15.19,
+      "description": "The subject's head and gaze are directed downwards towards a black smartphone held in their hands at the bottom of the frame.",
+      "bboxes": [
+        {
+          "frame_time": 14.048773,
+          "x": 0.02187499999999999,
+          "y": 0.28473684411299854,
+          "w": 0.5935855263157895,
+          "h": 0.7131578947368421,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 4.54,
+      "description": "Speech is delivered at a fast pace. Pitch rises significantly on the word \"five.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 4.54,
+      "end_time": 8.52,
+      "description": "The pitch becomes higher and more melodic for the phrases \"hey, hey, how are you doing?\" and \"why this? Why that?\", with rising intonation on each question.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 8.52,
+      "end_time": 12.13,
+      "description": "The phrase \"stupidest questions\" is delivered with added stress and a slight increase in volume on \"stupidest\".",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 12.13,
+      "end_time": 15.19,
+      "description": "The speech rate slows down slightly, and the pitch lowers to a more neutral, declarative tone for the phrase \"Well, for me, that was this guy...\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.19,
+      "description": "The subject is a person with a light skin tone, long, wavy blonde hair with dark roots, and is wearing makeup including dark red lipstick and black eyeliner. They are wearing a grey t-shirt, a thin red bracelet on their right wrist, a ring on their right hand, and a light blue earring in their left ear. The setting is indoors, in front of a light-colored wall with a picture hanging on it. A white doorframe and a plaid curtain are visible on the right side of the frame. The lighting is frontal and even.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Very Low",
+      "score": 0.18,
+      "rationale": "The subject's Very Low Extraversion score is supported by behaviors that indicate a performative rather than an innate social energy. While facial expressions are lively and gestures are used, several cues point to introversion. The subject frequently averts their gaze from the camera, looking up, down, and to the sides. Crucially, they disengage entirely to look at a smartphone [11.3s-15.2s], suggesting a reliance on a script and a lack of spontaneous social confidence. Self-touching gestures, such as touching the head [0.0s-2.1s] and hair [2.1s-7.0s], can also signal social self-consciousness. The shift from a highly melodic, performative vocal tone to a more neutral, subdued one [12.1s-15.2s] suggests the effortful social performance is tapering off.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Low",
+      "score": 0.26,
+      "rationale": "The Low score in Agreeableness is reflected in the subject's critical and somewhat cynical verbal content. They describe a plan to ask the \"stupidist questions you could ever possibly imagine,\" a framing that is inherently challenging and dismissive rather than cooperative or empathetic. The vocal emphasis and increased volume on the word \"stupidest\" [8.5s-12.1s] further highlight this critical stance. This direct, unfiltered expression of a negative judgment, without attempts to soften the language, is characteristic of individuals with lower Agreeableness.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Very Low",
+      "score": 0.17,
+      "rationale": "The subject's Very Low Conscientiousness is evidenced by a seemingly disorganized and impromptu approach. The most significant indicator is the act of looking down at a smartphone mid-speech [11.3s-15.2s]. This reliance on an external device for prompts suggests a lack of thorough preparation or memorization, which is contrary to the diligent nature of high Conscientiousness. The fast-paced speech at the beginning and the energetic, almost chaotic, circular arm motions [0.0s-2.1s] also contribute to an impression of spontaneity over structured, deliberate planning.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Low",
+      "score": 0.22,
+      "rationale": "Despite some behaviors that can be associated with nervousness (e.g., fast speech, self-touching), the overall presentation supports a Low Neuroticism score. The subject's emotional display appears controlled and modulated for performative effect, rather than being driven by genuine anxiety. Their facial expressions are animated but not strained, and their vocal tone, while varied, does not show signs of distress like cracking or wavering. They deliver their critical statements with confidence. This emotional stability and control, even during a performance, align with a low level of Neuroticism.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "Low",
+      "score": 0.38,
+      "rationale": "The subject's Low Openness score is supported by a preference for concrete and conventional ideas over abstract or novel ones. While brainstorming is a creative act, the proposed content—asking simplistic questions like \"hey, how are you doing? Why this? Why that?\"—is formulaic and lacks intellectual curiosity. Furthermore, the need to consult a phone [11.3s-15.2s] for this straightforward concept suggests a reliance on a pre-defined script rather than a capacity for spontaneous, imaginative ideation. The subject's thought process appears structured and grounded in a simple, executable plan, which is consistent with lower Openness.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During [11.3s - 15.2s], the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Very Low Conscientiousness, reflecting a lack of thorough preparation for the speech."
+        },
+        {
+          "id": "B",
+          "text": "High Extraversion, suggesting a brief moment of pausing to gather social energy."
+        },
+        {
+          "id": "C",
+          "text": "High Agreeableness, indicating a polite attempt to recall collaborative talking points."
+        },
+        {
+          "id": "D",
+          "text": "Very High Conscientiousness, demonstrating a careful review of a detailed outline."
+        },
+        {
+          "id": "E",
+          "text": "Low Agreeableness, which is mainly supported by their critical tone from [8.5s - 12.1s]."
+        },
+        {
+          "id": "F",
+          "text": "Low Neuroticism, showing emotional stability while delivering the planned dialogue."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. During this interval, the person looks down at a smartphone, which the personality analysis identifies as the 'most significant indicator' of a lack of preparation, a key marker for Very Low Conscientiousness. \nOption B is a text-based distractor; while 'pausing' is a possible interpretation from text alone, the video shows a clear disengagement, which contradicts High Extraversion.\nOption C is a text-based distractor; the verbal content of the speech is critical, not collaborative, making this interpretation inconsistent with the video context.\nOption D is a near-miss distractor; it correctly identifies the trait (Conscientiousness) and action (reviewing) but gets the direction completely wrong. The reliance on a phone for a simple idea suggests low, not high, conscientiousness.\nOption E is a video-based distractor; it correctly identifies the person's Low Agreeableness, but this trait is supported by behavior in a different time segment (the verbal emphasis on 'stupidest'), not the action at [11.3s - 15.2s].\nOption F is a video-based distractor; it correctly identifies Low Neuroticism, but this assessment is based on the overall controlled delivery, not specifically the action in this time range."
+    },
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their performative social style?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[5.8s - 6.8s]"
+        },
+        {
+          "id": "B",
+          "text": "[1.0s - 2.0s]"
+        },
+        {
+          "id": "C",
+          "text": "[11.1s - 12.1s]"
+        },
+        {
+          "id": "D",
+          "text": "[13.5s - 14.5s]"
+        },
+        {
+          "id": "E",
+          "text": "[8.5s - 9.5s]"
+        },
+        {
+          "id": "F",
+          "text": "[2.2s - 3.2s]"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. Around [5.8s], the subject's gaze shifts from being averted to looking directly at the camera with wide eyes. This transition from an indirect to a direct, engaging expression is a key moment that exemplifies the 'performative' aspect of their social delivery discussed in the analysis.\nOption B is a video-based distractor; this interval captures the initial energetic arm gesture but not the most significant facial expression change related to social performance.\nOption C is a video-based distractor; this interval captures the moment their gaze shifts downward before looking at the phone, representing disengagement, not the start of a performative expression.\nOption D is a video-based distractor; during this time, the person's head is already tilted down looking at their phone, so no notable change in social expression occurs.\nOption E is a near-miss distractor; this interval captures the vocal emphasis on 'stupidest questions', which is performative, but the key facial shift to direct camera engagement happens just before this, around 5.8s.\nOption F is a video-based distractor; this interval captures the person touching their hair, a self-monitoring gesture, rather than a key change in facial expression related to social performance."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around [13.5s], a region was detected in the video (x=0.239, y=0.222, w=0.348, h=0.550, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The person's head is tilted in a distinct downward direction."
+        },
+        {
+          "id": "B",
+          "text": "The person's eyes are opened wide in an engaging expression."
+        },
+        {
+          "id": "C",
+          "text": "The person's hands are gesturing with the palms held fully open."
+        },
+        {
+          "id": "D",
+          "text": "The person's eyebrows are raised upwards in a very high arch."
+        },
+        {
+          "id": "E",
+          "text": "The person's entire facial expression appears highly animated."
+        },
+        {
+          "id": "F",
+          "text": "The person's mouth is pursed forward for verbal emphasis."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. The specified bounding box at 13.5s covers the person's head region. At this moment, she is looking down at her phone, and the most prominent action within that box is the head being tilted downwards.\nOption B is a video-based distractor; this describes the expression from an earlier segment ([5.8s - 9.2s]) but is not what is happening in the specified region at 13.5s.\nOption C is a video-based distractor; this describes a hand gesture from around 9.3s. The specified bbox is on the head, not the hands.\nOption D is a video-based distractor; this describes the eyebrow expression from the very beginning of the video (around 1.1s), not at 13.5s.\nOption E is a near-miss distractor; while her expression is generally animated in the video, at this specific moment (13.5s) her expression is neutral and disengaged as she looks down, not 'highly animated'.\nOption F is a video-based distractor; the mouth is pursed for emphasis at around 1.0s, not at 13.5s where her head is down."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "At which moment and location does the person use prominent, open-palmed hand gestures to emphasize a point being made?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[9.3s]  x=0.00, y=0.43, w=1.00, h=0.50"
+        },
+        {
+          "id": "B",
+          "text": "[1.0s]  x=0.38, y=0.13, w=0.29, h=0.49"
+        },
+        {
+          "id": "C",
+          "text": "[13.5s]  x=0.24, y=0.22, w=0.35, h=0.55"
+        },
+        {
+          "id": "D",
+          "text": "[15.2s]  x=0.00, y=0.61, w=0.46, h=0.38"
+        },
+        {
+          "id": "E",
+          "text": "[1.0s]  x=0.41, y=0.34, w=0.16, h=0.21"
+        },
+        {
+          "id": "F",
+          "text": "[2.1s]  x=0.17, y=0.31, w=0.30, h=0.51"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. The observation notes describe that at [7.0s-11.3s], both hands enter the frame with palms open to gesture. The provided coordinates and timestamp [9.3s] and a wide bounding box (w=1.00) correctly localize this specific two-handed, open-palmed emphatic gesture.\nOption B locates the person's animated facial expression at the beginning.\nOption C locates the person's head tilted down while looking at the phone.\nOption D locates the person's hands holding the phone at the very end.\nOption E locates the person's mouth during the initial speech.\nOption F locates the person's head as a hand comes up to touch it."
+    },
+    {
+      "category": "Counterfactual Reasoning",
+      "question": "If the person had NOT exhibited the behavior observed around [11.3s - 15.2s], which of the following personality assessments would be MOST affected?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The Very Low Conscientiousness score would be much less certain, as the strongest evidence for a lack of thorough preparation would be removed from the analysis."
+        },
+        {
+          "id": "B",
+          "text": "The Low Agreeableness score would likely increase, because the critical verbal content from earlier in the video would now seem much less intentional or planned."
+        },
+        {
+          "id": "C",
+          "text": "The Low Neuroticism score would be hard to support, since the behavior is the clearest indication of the person's underlying emotional stability and strong confidence."
+        },
+        {
+          "id": "D",
+          "text": "The Very Low Conscientiousness score would increase, since removing the primary evidence of low preparation would logically make the person seem more organized."
+        },
+        {
+          "id": "E",
+          "text": "The Low Openness score would be less supported, as the need to rely on a script for simple, conventional ideas would no longer be visibly demonstrated to the viewer."
+        },
+        {
+          "id": "F",
+          "text": "The Very Low Extraversion score would be difficult to justify, because that behavior is the main indicator of their social disengagement compared to other moments."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. The personality analysis explicitly states that looking down at the smartphone is the 'most significant indicator' for Very Low Conscientiousness. Removing this behavior would eliminate the primary evidence for a lack of preparation, making the assessment much weaker or less certain.\nOption B is a text-based distractor; the evidence for Low Agreeableness is the verbal content ('stupidest questions') and tone, which would remain regardless of the phone-checking behavior.\nOption C is a text-based distractor; the behavior (disengaging to look at a phone) does not support Low Neuroticism; rather, the analysis of Low Neuroticism is based on the overall controlled delivery and lack of distress signals.\nOption D is a near-miss distractor; it correctly identifies the trait and the direction of change (score would increase/seem more organized), but the phrasing of the correct answer 'A' ('would be much less certain') is more accurate than a definitive statement of increase. The removal of evidence leads to uncertainty.\nOption E is a strong video-based distractor. The behavior *does* support Low Openness, but the analysis explicitly calls it the 'most significant' evidence for Conscientiousness, making that assessment the one that is 'MOST affected'.\nOption F is a video-based distractor; while the phone check is a key sign of disengagement supporting Low Extraversion, it's not the only one. The analysis also points to frequent gaze aversion and self-touching gestures as evidence, so the assessment would be weakened but not completely unjustified."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator11",
+      "version": 1,
+      "clues_total": 28,
+      "clues_correct": 21,
+      "clues_wrong_corrected": 6,
+      "clues_missing_skipped": 1,
+      "clues_bonus": 0
+    }
+  }
+}

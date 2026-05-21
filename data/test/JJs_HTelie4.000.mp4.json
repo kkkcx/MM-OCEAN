@@ -1,0 +1,424 @@
+{
+  "video_id": "JJs_HTelie4.000.mp4",
+  "video_path": "JJs_HTelie4.000.mp4",
+  "transcription": "Never mind, I can't use that anymore, but it has a cool lip brush that you can blend the lipstick and lip-liner so I've been wearing this with this on top, but I literally can't use this now because I don't even know what I did.",
+  "original_scores": {
+    "extraversion": 0.5700934579439253,
+    "agreeableness": 0.6593406593406592,
+    "conscientiousness": 0.6019417475728155,
+    "neuroticism": 0.7604166666666666,
+    "openness": 0.6888888888888889
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 2.2,
+      "description": "The subject looks directly at the camera. Her eyebrows are relaxed. The corners of her mouth are slightly upturned as she speaks, and she blinks naturally.",
+      "bboxes": [
+        {
+          "frame_time": 0.957206,
+          "x": 0.40230263157894736,
+          "y": 0.19526315990247226,
+          "w": 0.26052631578947366,
+          "h": 0.14736842105263157,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 1.479318,
+          "x": 0.42598684210526316,
+          "y": 0.15842105463931436,
+          "w": 0.22203947368421054,
+          "h": 0.1,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 1.792586,
+          "x": 0.4393092105263158,
+          "y": 0.4163157914814196,
+          "w": 0.16726973684210528,
+          "h": 0.10789473684210527,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 0.41769,
+          "x": 0.4126644736842105,
+          "y": 0.23210526516563015,
+          "w": 0.2412828947368421,
+          "h": 0.1368421052631579,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 2.2,
+      "end_time": 7.5,
+      "description": "Her gaze remains on the camera. Her eyebrows raise slightly as she says \"cool lip brush.\" Her mouth is open as she speaks, with lips pursed slightly to articulate words.",
+      "bboxes": [
+        {
+          "frame_time": 4.977472,
+          "x": 0.3875,
+          "y": 0.16631579148141962,
+          "w": 0.21907894736842107,
+          "h": 0.14736842105263157,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 4.977472,
+          "x": 0.3860197368421053,
+          "y": 0.11105263358668277,
+          "w": 0.22648026315789474,
+          "h": 0.12105263157894737,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 5.938697,
+          "x": 0.45263157894736844,
+          "y": 0.40578947569194596,
+          "w": 0.17023026315789475,
+          "h": 0.15789473684210525,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 7.5,
+      "end_time": 15.2,
+      "description": "The subject continues to look at the camera, blinking occasionally. Her eyebrows lower slightly and her brow furrows for a moment around 00:13 as she says \"I don't even know what I did.\"",
+      "bboxes": [
+        {
+          "frame_time": 9.815715,
+          "x": 0.3993421052631579,
+          "y": 0.21894737042878804,
+          "w": 0.24572368421052632,
+          "h": 0.13421052631578947,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 3.4,
+      "description": "The subject holds a white pencil-like object with both hands at chest level, twisting the cap. Her head is mostly still, facing forward.",
+      "bboxes": [
+        {
+          "frame_time": 2.314698,
+          "x": 0.37417763157894735,
+          "y": 0.5900000020077354,
+          "w": 0.3375,
+          "h": 0.4052631578947368,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 2.314698,
+          "x": 0.3756578947368421,
+          "y": 0.011052633586682771,
+          "w": 0.2723684210526316,
+          "h": 0.5947368421052631,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 3.4,
+      "end_time": 5.9,
+      "description": "She lifts the object in her right hand and gestures with it towards her mouth, as if demonstrating its use.",
+      "bboxes": [
+        {
+          "frame_time": 4.403148,
+          "x": 0.12105263157894736,
+          "y": 0.30842105463931435,
+          "w": 0.35674342105263157,
+          "h": 0.5842105263157895,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 5.047087,
+          "x": 0.2868421052631579,
+          "y": 0.3347368441129986,
+          "w": 0.30197368421052634,
+          "h": 0.5210526315789473,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 5.9,
+      "end_time": 15.2,
+      "description": "She lowers the object and continues to gesture with it in her right hand. At 00:13, she brings a black lipstick tube into the frame with her left hand, gesturing between the two objects.",
+      "bboxes": [
+        {
+          "frame_time": 11.179633,
+          "x": 0.1980263157894737,
+          "y": 0.3136842125340512,
+          "w": 0.38338815789473685,
+          "h": 0.6710526315789473,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 13.487906,
+          "x": 0.01743421052631578,
+          "y": 0.605789475691946,
+          "w": 0.42335526315789473,
+          "h": 0.39210526315789473,
+          "note": "human-annotated",
+          "region": "unknown"
+        },
+        {
+          "frame_time": 14.093762,
+          "x": 0.42154605263157896,
+          "y": 0.7321052651656301,
+          "w": 0.22203947368421054,
+          "h": 0.25526315789473686,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 14.093762,
+          "x": 0.16101973684210524,
+          "y": 0.6926315809551038,
+          "w": 0.4736842105263158,
+          "h": 0.3,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0.5,
+      "end_time": 1.7,
+      "description": "Her speech rate is moderate. There is a slight laugh in her tone as she says, \"Never mind.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 1.7,
+      "end_time": 9.4,
+      "description": "The pitch rises slightly on the words \"cool lip brush.\" The pace is conversational with slight pauses between clauses.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 9.4,
+      "end_time": 11.8,
+      "description": "Her tone becomes slightly more emphatic with a small increase in volume as she says, \"but I literally can't use this now.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 11.8,
+      "end_time": 15.2,
+      "description": "Her pitch drops slightly and her speech rate slows down on the final phrase, \"'cause I don't even know what I did.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.2,
+      "description": "The scene is an indoor bedroom setting. The subject is a young woman with brown hair styled in two braids, fair skin, and noticeable makeup (dark lipstick, eyeliner). She is wearing a white t-shirt with a black triangular graphic, rings on her fingers, and black nail polish. Behind her is a bed with white linens, a furry tan pillow, and a patterned blanket. On the wall is a wire grid decorated with fairy lights, small photos, and lipstick tubes. To the right is a framed picture and a window with white blinds. The lighting is soft and frontal.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Medium",
+      "score": 0.57,
+      "rationale": "The subject's Extraversion is rated as Medium. She demonstrates social engagement by directly addressing the camera with consistent eye contact and using a conversational tone. Her use of hand gestures to illustrate her points also indicates a degree of expressive energy. However, this is balanced by a relatively controlled posture, with her head remaining mostly still. The overall energy level is moderate rather than highly animated, supporting a mid-range score for this trait, indicating someone who is socially adept but not necessarily driven by a constant need for high-stimulus social interaction.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "High",
+      "score": 0.66,
+      "rationale": "The subject scores High on Agreeableness, which is consistent with her warm and approachable demeanor. Her facial expressions are open and non-threatening, characterized by relaxed eyebrows and a slight smile while speaking. The light, laughing tone at the beginning of the video ('Never mind.') further projects a friendly and cooperative nature. This combination of positive vocal affect and pleasant facial cues is a strong indicator of a prosocial and agreeable personality.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "High",
+      "score": 0.6,
+      "rationale": "The High Conscientiousness score is supported by the subject's structured communication and organized environment. She presents information in a logical sequence: identifying the product, its function, her experience, and the current problem. This methodical approach suggests a deliberate and organized thought process. Furthermore, the background reveals a curated personal space, particularly the wire grid used to neatly display photos and items, which reflects a preference for order and tidiness—hallmarks of a conscientious individual.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "High",
+      "score": 0.76,
+      "rationale": "The subject's High Neuroticism is evidenced by her emotional reactivity to a minor frustration. The narrative's focus is on a negative outcome—being unable to use a product. Her emotional state shifts audibly when she discusses this problem, with her vocal tone becoming more emphasized and slightly louder ('but I literally can't use this now'). This heightened response to a small setback is characteristic of higher Neuroticism. The final phrase, delivered at a slower pace and lower pitch, suggests a degree of rumination on the mistake, another common behavior associated with this trait.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "High",
+      "score": 0.69,
+      "rationale": "The subject's High score in Openness is reflected in her aesthetic sense and creative self-expression. Her personal style, which includes distinct makeup, braided hair, and accessories, indicates an interest in creating a unique appearance. More significantly, her environment is thoughtfully decorated, with the wall grid featuring photos and fairy lights serving as a clear form of creative expression. Her vocal and facial emphasis on the 'cool' quality of the product also suggests an appreciation for novelty and aesthetics, which are core components of the Openness trait.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their Openness level?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[0.9s - 1.5s]"
+        },
+        {
+          "id": "B",
+          "text": "[4.7s - 5.3s]"
+        },
+        {
+          "id": "C",
+          "text": "[9.5s - 10.1s]"
+        },
+        {
+          "id": "D",
+          "text": "[2.1s - 2.7s]"
+        },
+        {
+          "id": "E",
+          "text": "[7.0s - 7.6s]"
+        },
+        {
+          "id": "F",
+          "text": "[13.8s - 14.4s]"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. Around 5.0s, as she says the words 'cool lip brush', her eyebrows raise slightly. This expression of interest and appreciation for an aesthetic quality ('cool') is a key non-verbal cue supporting the personality assessment of High Openness.\n- Option A is a video-based distractor. This interval shows a relatively neutral facial expression at the beginning of her speech.\n- Option C is a video-based distractor. During this time, she is looking at the camera while talking about her inability to use the product; her expression is one of mild frustration, not openness.\n- Option D is a video-based distractor. This is a transitional moment between phrases where no significant micro-expression related to Openness occurs.\n- Option E is a video-based distractor. Her expression is neutral as she finishes describing the product's function.\n- Option F is a video-based distractor. In this interval, she brings another object into the frame, and her expression is focused on the action, not conveying a trait-relevant emotion."
+    },
+    {
+      "category": "Mixed Emotion Discrimination",
+      "question": "During 0.0s - 2.2s, the person's emotional state is best characterized as which of the following? Consider both verbal and non-verbal cues.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Polite warmth combined with a hint of nervous energy."
+        },
+        {
+          "id": "B",
+          "text": "Lighthearted amusement mixed with casual engagement."
+        },
+        {
+          "id": "C",
+          "text": "Feigned cheerfulness masking underlying frustration."
+        },
+        {
+          "id": "D",
+          "text": "Confident presentation mixed with a touch of nostalgia."
+        },
+        {
+          "id": "E",
+          "text": "Genuine happiness tempered by slight self-consciousness."
+        },
+        {
+          "id": "F",
+          "text": "Enthusiastic pride mixed with a desire to give instruction."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. In this initial segment, she has relaxed eyebrows, a slight smile, direct eye contact, and a 'light, laughing tone' when saying 'Never mind.' This combination of cues points to a state of easygoing, casual engagement with the viewer, colored by light amusement.\n- Option A is a text-based distractor. 'Nervous energy' is a plausible guess for someone on camera, but her relaxed posture and expression do not support it.\n- Option C is a text-based distractor. The frustration is introduced much later in the video; at this point, her cheerfulness appears genuine.\n- Option D is a text-based distractor. There are no cues, verbal or non-verbal, that suggest nostalgia.\n- Option E is a near-miss distractor. While she is engaged, 'happiness' is a bit too strong for her subtle smile, and there is no clear evidence of 'self-consciousness.' 'Lighthearted amusement' is more precise.\n- Option F is a video-based distractor. This emotional state is more applicable to the subsequent segment (2.2s-7.5s) where she enthusiastically describes the 'cool lip brush'."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 5.9s, a region was detected in the video (x=0.45, y=0.41, w=0.17, h=0.16, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Eyes are executing a natural and unconscious blink."
+        },
+        {
+          "id": "B",
+          "text": "Lips are slightly tightened for verbal articulation."
+        },
+        {
+          "id": "C",
+          "text": "The head is kept largely stationary and facing forward."
+        },
+        {
+          "id": "D",
+          "text": "Eyebrows are in a relaxed and neutral default position."
+        },
+        {
+          "id": "E",
+          "text": "A subtle smile is forming at the corners of the mouth."
+        },
+        {
+          "id": "F",
+          "text": "Hands are twisting the cap of a small, pen-like item."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. The provided coordinates at 5.9s frame the person's mouth. At this moment, she is speaking, and the observation notes describe her mouth as 'slightly open, lipslips slightly tightened to clearly express words. This matches the option.\n- Option A is a video-based distractor. This describes the eyes, which are outside the specified bounding box.\n- Option C is a video-based distractor. This describes the overall head posture, which is a much larger region than the specified bounding box.\n- Option D is a video-based distractor. This describes the eyebrows, which are located above the specified bounding box.\n- Option E is a near-miss distractor. The bounding box is correct (mouth), but the action is incorrect. Her lips are shaped for articulation, not forming a smile at this specific instant.\n- Option F is a video-based distractor. This describes a hand action that occurs at a different time (0.0s-3.4s) and in a different location (lower in the frame)."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "At which time and location does the subject display a combination of focused gaze, slight eyebrow movement, and mouth articulation to emphasize a point of interest?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[2.3s]  x=0.38, y=0.01, w=0.27, h=0.59"
+        },
+        {
+          "id": "B",
+          "text": "[5.0s]  x=0.39, y=0.11, w=0.23, h=0.12"
+        },
+        {
+          "id": "C",
+          "text": "[1.8s]  x=0.44, y=0.42, w=0.17, h=0.11"
+        },
+        {
+          "id": "D",
+          "text": "[1.0s]  x=0.40, y=0.20, w=0.26, h=0.15"
+        },
+        {
+          "id": "E",
+          "text": "[14.1s]  x=0.16, y=0.69, w=0.47, h=0.30"
+        },
+        {
+          "id": "F",
+          "text": "[13.5s]  x=0.02, y=0.61, w=0.42, h=0.39"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. The behavior described—a combination of gaze, eyebrow movement, and mouth articulation to emphasize interest—occurs around 5.0s when she says 'cool lip brush.' The observation log explicitly states 'when she said\"cool lip brushWhen she says 'cool lip brush', her eyebrows raise slightly. The coordinates provided in option B pinpoint the eyebrow region at exactly this moment.\n- Option A points to the entire head at 2.3s, but the key eyebrow movement hasn't happened yet.\n- Option C points to the mouth at 1.8s, during her initial neutral speech, before the moment of emphasis.\n- Option D points to the eyes at 1.0s, also during the initial neutral phase.\n- Option E points to the hands at 14.1s, which is irrelevant to the facial expression described.\n- Option F points to the hands at 13.5s, which is also irrelevant to the described facial expression."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator05",
+      "version": 1,
+      "clues_total": 22,
+      "clues_correct": 20,
+      "clues_wrong_corrected": 1,
+      "clues_missing_skipped": 1,
+      "clues_bonus": 0
+    }
+  }
+}

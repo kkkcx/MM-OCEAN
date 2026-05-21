@@ -1,0 +1,501 @@
+{
+  "video_id": "0G2o3fik36I.000.mp4",
+  "video_path": "0G2o3fik36I.000.mp4",
+  "transcription": "Would you rather listen to an auto tuned queef, or listen to [inaudible 00:00:07]rap goat for 17.38 hours? You had to think hard about that question didn't you? I've thought about this as well.",
+  "original_scores": {
+    "extraversion": 0.691588785046729,
+    "agreeableness": 0.6373626373626373,
+    "conscientiousness": 0.6310679611650486,
+    "neuroticism": 0.625,
+    "openness": 0.5777777777777777
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 1,
+      "description": "The man looks directly at the camera, speaking with a neutral-to-positive facial expression. His mouth moves naturally with his speech.",
+      "bboxes": [
+        {
+          "frame_time": 0.617645,
+          "x": 0.35863486842105263,
+          "y": 0.09824561068886205,
+          "w": 0.2694078947368421,
+          "h": 0.4763157894736842,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 0.617645,
+          "x": 0.35863486842105263,
+          "y": 0.09824561068886205,
+          "w": 0.23092105263157894,
+          "h": 0.4763157894736842,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 0.90281,
+          "x": 0.3615953947368421,
+          "y": 0.11929824226780941,
+          "w": 0.2575657894736842,
+          "h": 0.5342105263157895,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 1,
+      "end_time": 3.01,
+      "description": "He breaks into a wide smile, showing his upper teeth. His eyes narrow slightly, and the corners of his eyes crinkle. He briefly closes his eyes around 2.5 seconds.",
+      "bboxes": [
+        {
+          "frame_time": 2.019866,
+          "x": 0.37639802631578945,
+          "y": 0.416666663320441,
+          "w": 0.18503289473684212,
+          "h": 0.19473684210526315,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 2.654204,
+          "x": 0.3926809210526316,
+          "y": 0.30087718963623045,
+          "w": 0.17615131578947368,
+          "h": 0.1368421052631579,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 2.537352,
+          "x": 0.36011513157894737,
+          "y": 0.24824561068886206,
+          "w": 0.2205592105263158,
+          "h": 0.21052631578947367,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 3.01,
+      "end_time": 9.2,
+      "description": "He maintains a consistent, broad smile while speaking and looking directly at the camera. His eyebrows are relaxed.",
+      "bboxes": [
+        {
+          "frame_time": 5.38819,
+          "x": 0.3852796052631579,
+          "y": 0.466666663320441,
+          "w": 0.17467105263157895,
+          "h": 0.19736842105263158,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 4.149244,
+          "x": 0.3438322368421053,
+          "y": 0.23508771595201994,
+          "w": 0.22203947368421054,
+          "h": 0.15789473684210525,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 4.149244,
+          "x": 0.32754934210526315,
+          "y": 0.166666663320441,
+          "w": 0.24276315789473685,
+          "h": 0.13421052631578947,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 1.95,
+      "description": "The man is shown from the chest up. His hands are clasped just below the frame.",
+      "bboxes": [
+        {
+          "frame_time": 1.394213,
+          "x": 0.13363486842105263,
+          "y": 0.5956140317414936,
+          "w": 0.6898026315789474,
+          "h": 0.4026315789473684,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 0.609446,
+          "x": 0.4385690789473684,
+          "y": 0.8561403475309673,
+          "w": 0.16875,
+          "h": 0.14210526315789473,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 1.95,
+      "end_time": 3.01,
+      "description": "He raises both hands into the frame and makes a 'thumbs-up' gesture.",
+      "bboxes": [
+        {
+          "frame_time": 2.604757,
+          "x": 0.11587171052631579,
+          "y": 0.5614035054257042,
+          "w": 0.7475328947368421,
+          "h": 0.4368421052631579,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 3.01,
+      "end_time": 6.81,
+      "description": "He lowers his hands out of frame. His body remains still, facing forward.",
+      "bboxes": [
+        {
+          "frame_time": 4.216033,
+          "x": 0.15139802631578947,
+          "y": 0.7271929791099147,
+          "w": 0.6172697368421053,
+          "h": 0.2710526315789474,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 5.025846,
+          "x": 0.1884046052631579,
+          "y": 0.6324561370046515,
+          "w": 0.5580592105263158,
+          "h": 0.3631578947368421,
+          "note": "pose human-annotated",
+          "region": "torso"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 6.81,
+      "end_time": 9.2,
+      "description": "He raises his right arm and waves at the camera with an open palm.",
+      "bboxes": [
+        {
+          "frame_time": 8.148216,
+          "x": 0.5999177631578947,
+          "y": 0.048245610688862045,
+          "w": 0.3375,
+          "h": 0.8421052631578947,
+          "note": "human-annotated",
+          "region": "arms"
+        },
+        {
+          "frame_time": 8.148216,
+          "x": 0.5273848684210526,
+          "y": 0.021929821215177836,
+          "w": 0.3848684210526316,
+          "h": 0.6947368421052632,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 8.148216,
+          "x": 0.5717927631578947,
+          "y": 0.06140350542570415,
+          "w": 0.3611842105263158,
+          "h": 0.6078947368421053,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 9.2,
+      "description": "The man speaks at a moderate, conversational pace in a consistently friendly and cheerful tone. His pitch has a natural, upward inflection on words like \"guys\" and a falling intonation at the end of sentences. The volume is steady throughout.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 9.2,
+      "description": "The subject is a young adult male with fair skin, short dark hair, and a short beard. He is wearing brown-rimmed glasses and a white T-shirt with dark horizontal stripes. He is in an indoor room with light-colored walls and a slanted ceiling. To his right, a small wooden bookshelf with a framed picture on top is visible. The lighting is bright and even.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 2.320541,
+      "end_time": 3.320541,
+      "description": "Her hair was styled in a big back, full of energy.",
+      "bboxes": [
+        {
+          "frame_time": 2.820541,
+          "x": 0.3527138157894737,
+          "y": 0.02719297910991468,
+          "w": 0.30197368421052634,
+          "h": 0.29473684210526313,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "High",
+      "score": 0.69,
+      "rationale": "The subject exhibits numerous indicators of high Extraversion. He directly engages the viewer by looking into the camera and speaking in a friendly, energetic tone. His use of expressive, open gestures, such as the 'thumbs up' and a broad wave, demonstrates social confidence and a desire to connect. Furthermore, his sustained, wide smile and animated facial expressions throughout the clip indicate a high level of positive affect and sociability, which are core components of this trait.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "High",
+      "score": 0.64,
+      "rationale": "The subject's demeanor is consistently warm and approachable, supporting a high Agreeableness score. His smile appears genuine, indicated by the crinkling around his slightly squinted eyes (a Duchenne smile). The friendly and pleasant vocal tone, combined with positive social signals like the 'thumbs up' gesture, suggests a cooperative and good-natured disposition. He creates a welcoming atmosphere, which is characteristic of highly agreeable individuals.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "High",
+      "score": 0.63,
+      "rationale": "Indicators of Conscientiousness are visible in the subject's presentation and environment. His appearance is well-kept, specifically his intentionally styled slicked-back hair, suggesting attention to detail and self-care. The setting, while simple, appears orderly with a bookshelf in the background. The very act of setting up to record a video, even a casual one, implies a degree of planning and goal-oriented behavior consistent with a conscientious personality.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "High",
+      "score": 0.62,
+      "rationale": "While the subject presents an overtly positive facade, subtle physical cues may betray underlying nervous energy, justifying the high Neuroticism score. He maintains a slight, continuous body sway throughout the video, which can be a physical manifestation of restlessness or anxiety. His hands are initially clasped together in a self-contained posture before he opens up with more expressive gestures, potentially indicating a baseline level of tension that he is actively managing for the camera.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "Medium",
+      "score": 0.58,
+      "rationale": "The subject's Openness is rated as Medium. The primary evidence is the nature of the question he poses, which is abstract, unconventional, and humorous. Engaging with such imaginative and bizarre hypotheticals points to a degree of intellectual curiosity and a comfort with novelty. The creative act of producing a video for an audience also supports this. However, the clip's singular focus on one humorous idea does not provide broader evidence of diverse intellectual or aesthetic pursuits that would be necessary for a higher rating.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During [6.8s - 9.2s], the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Low Openness, as the action lacks significant creative novelty."
+        },
+        {
+          "id": "B",
+          "text": "High Extraversion, reflecting a strong sense of social warmth."
+        },
+        {
+          "id": "C",
+          "text": "High Conscientiousness, given the person's planned conduct."
+        },
+        {
+          "id": "D",
+          "text": "Low Neuroticism, because the gesture appears calm and steady."
+        },
+        {
+          "id": "E",
+          "text": "High Agreeableness, as the motion is friendly and welcoming."
+        },
+        {
+          "id": "F",
+          "text": "High Neuroticism, due to the underlying physical restlessness."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. During [6.8s - 9.2s], the person makes a large, open wave to the camera. This is a highly sociable, outgoing, and engaging action, which is a classic indicator of High Extraversion. It demonstrates social confidence and a desire to connect with the viewer.\n\n- Option A is a text-based distractor; assuming a wave lacks creativity is a weak inference from the text alone and not the primary trait being displayed.\n- Option C is a text-based distractor; while making a video can be planned, this specific gesture is more about social expression than conscientiousness.\n- Option D is a near-miss distractor; the gesture is confident, which might suggest low neuroticism, but this misinterprets the primary social function of the action and contradicts the overall assessment of high neuroticism based on other cues (like body sway).\n- Option E is a near-miss distractor; the wave is indeed friendly (Agreeableness), but its energy and direct social engagement are more powerful signals for Extraversion, making it the *most* supported dimension.\n- Option F is a video-based distractor; the evidence for High Neuroticism (slight body sway) is a continuous behavior throughout the video, not the specific action occurring at this timestamp."
+    },
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their high Agreeableness level?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[0.1s - 0.9s]"
+        },
+        {
+          "id": "B",
+          "text": "[1.8s - 2.6s]"
+        },
+        {
+          "id": "C",
+          "text": "[3.7s - 4.5s]"
+        },
+        {
+          "id": "D",
+          "text": "[5.1s - 5.9s]"
+        },
+        {
+          "id": "E",
+          "text": "[7.8s - 8.6s]"
+        },
+        {
+          "id": "F",
+          "text": "[6.5s - 7.3s]"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. The personality analysis highlights a genuine Duchenne smile as key evidence for high Agreeableness. The interval [1.8s - 2.6s] precisely captures the formation of this smile, where the person's mouth widens, their eyes slightly squint, and they even briefly close their eyes, signaling genuine positive emotion.\n\n- Option A is a video-based distractor; this interval shows the person's initial neutral-positive expression before the main smile forms.\n- Option C is a video-based distractor; this interval shows the smile being sustained while talking, not the key moment of its formation.\n- Option D is a video-based distractor; similar to C, this shows the continued expression, not the critical change.\n- Option E is a near-miss distractor; the person is smiling during the wave in this interval, but the most significant *onset* of the genuine smile, a key micro-expression event, occurs earlier in interval B.\n- Option F is a video-based distractor; this interval captures a moment of transition just before the wave, but it does not contain the key facial expression change related to the Duchenne smile."
+    },
+    {
+      "category": "Mixed Emotion Discrimination",
+      "question": "During [1.0s - 3.0s], the person's emotional state is best characterized as which of the following? Consider both verbal and non-verbal cues.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Wistful nostalgia tempered by a sense of quiet acceptance."
+        },
+        {
+          "id": "B",
+          "text": "Amiable amusement mixed with a feeling of genuine warmth."
+        },
+        {
+          "id": "C",
+          "text": "Hopeful optimism blended with an element of careful thought."
+        },
+        {
+          "id": "D",
+          "text": "Calm satisfaction combined with a calm and reserved attitude."
+        },
+        {
+          "id": "E",
+          "text": "Playful confidence tempered by a slight sense of awkwardness."
+        },
+        {
+          "id": "F",
+          "text": "Enthusiastic engagement mixed with a look of deep reflection."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. In this interval, the person poses a bizarre, humorous question and then breaks into a wide, genuine (Duchenne) smile, giving a thumbs-up. This combination of verbal content and non-verbal cues strongly suggests he is amused by his own joke ('amiable amusement') and is trying to build a friendly rapport ('genuine warmth').\n\n- Option A is a text-based distractor; the emotional tone is energetic and humorous, not nostalgic or accepting.\n- Option C is a text-based distractor; while he may be optimistic, 'careful thought' doesn't fit the playful, lighthearted nature of the moment.\n- Option D is a video-based distractor; 'calm' and 'reserved' are incorrect descriptions for his energetic smile and expressive thumbs-up gesture.\n- Option E is a near-miss distractor; 'playful confidence' is accurate, but there is no evidence of 'awkwardness' in his smooth delivery and confident expression.\n- Option F is a near-miss distractor; he is enthusiastically engaged, but 'deep reflection' is the opposite of the light, humorous tone he is conveying."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around [2.6s], a region was detected in the video (x=0.116, y=0.561, w=0.748, h=0.437, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A slight, continuous swaying of the upper body and torso area."
+        },
+        {
+          "id": "B",
+          "text": "An expressive and clearly visible 'thumbs up' hand gesture."
+        },
+        {
+          "id": "C",
+          "text": "A steady and direct gaze looking straight toward the camera lens."
+        },
+        {
+          "id": "D",
+          "text": "A broad and consistent smiling expression shown during speech."
+        },
+        {
+          "id": "E",
+          "text": "A neutral facial expression with only slightly positive features."
+        },
+        {
+          "id": "F",
+          "text": "A relaxed and mostly non-expressive positioning of the brows."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. The specified coordinates at 2.6s encompass the lower portion of the frame where the person lifts both hands into view to make a clear 'thumbs up' gesture, corresponding to the observation note [1.9s - 3.0s].\n\n- Option A is a video-based distractor; the body sway is a real behavior, but it describes the torso, which is in a different spatial region than the specified bounding box.\n- Option C is a near-miss distractor; at 2.6s he is looking at the camera, but the bounding box is focused on his hands and lower torso, not his eyes or upper face.\n- Option D is a video-based distractor; he is smiling, but that action is centered on his mouth, which is located in the head region, outside of this large bounding box covering his hands.\n- Option E is a video-based distractor; this describes his face at the very beginning of the video, not his hands at 2.6s.\n- Option F is a video-based distractor; his brows are relaxed, but they are part of the face and located well outside the specified rectangular region."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "Which of the following options correctly isolates the moment the person makes a large, open-palmed gesture of greeting towards the viewer?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[0.6s]  x=0.36, y=0.10, w=0.23, h=0.48"
+        },
+        {
+          "id": "B",
+          "text": "[8.1s]  x=0.53, y=0.02, w=0.38, h=0.69"
+        },
+        {
+          "id": "C",
+          "text": "[2.7s]  x=0.39, y=0.30, w=0.18, h=0.14"
+        },
+        {
+          "id": "D",
+          "text": "[2.6s]  x=0.12, y=0.56, w=0.75, h=0.44"
+        },
+        {
+          "id": "E",
+          "text": "[0.9s]  x=0.36, y=0.12, w=0.26, h=0.53"
+        },
+        {
+          "id": "F",
+          "text": "[5.4s]  x=0.39, y=0.47, w=0.17, h=0.20"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. The behavior described is the wave. This action occurs around 8.1s, and the bounding box [x=0.53, y=0.02, w=0.38, h=0.69] correctly captures the person's head and the raised, waving arm and hand at that specific moment.\n\n- Option A is a video-based distractor; this timestamp and bbox isolate his face during the initial part of his speech, before any large gestures.\n- Option C is a video-based distractor; this isolates his eyes while he is smiling broadly, not the wave gesture.\n- Option D is a video-based distractor; this isolates his 'thumbs up' gesture, which is a different action from the wave.\n- Option E is a video-based distractor; this bbox frames his face while he is speaking, not making a greeting gesture.\n- Option F is a video-based distractor; this bbox frames his mouth while he is smiling, not the large-scale arm gesture."
+    },
+    {
+      "category": "Counterfactual Reasoning",
+      "question": "If the person had NOT exhibited the behavior observed around [2.3s - 3.3s], which of the following personality assessments would be MOST affected?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Neuroticism score would likely decrease as that time frame shows the most prominent signs of physical anxiety."
+        },
+        {
+          "id": "B",
+          "text": "Conscientiousness would be rated lower as a key indicator of deliberate self-presentation would be missing."
+        },
+        {
+          "id": "C",
+          "text": "Extraversion rating would drop significantly because his most sociable and engaging gesture is in that moment."
+        },
+        {
+          "id": "D",
+          "text": "Agreeableness score would be lowered, given that his most genuine smiling expression is observed right then."
+        },
+        {
+          "id": "E",
+          "text": "Openness would be assessed as lower because his imaginative language is most evident during this specific time."
+        },
+        {
+          "id": "F",
+          "text": "Conscientiousness rating would increase as focus would shift from his appearance to his organized environment."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. The observation note for [2.3s - 3.3s] specifically mentions his 'slicked-back hair'. The personality analysis explicitly cites this well-kept hairstyle as primary evidence for High Conscientiousness, linking it to attention to detail and self-care. Removing this specific visual evidence would significantly weaken the argument for this trait.\n\n- Option A is a text-based distractor; the analysis links Neuroticism to the continuous body sway, not a specific behavior isolated in this 1-second interval.\n- Option C is a video-based distractor; his most sociable gestures (thumbs-up, wave) occur either just before or much later than this specific time window.\n- Option D is a near-miss distractor; while he is smiling during this time, the smile is sustained throughout the video, so removing this one-second slice would have less impact on the Agreeableness score than removing the unique evidence of his hair would have on Conscientiousness.\n- Option E is a text-based distractor; the 'imaginative language' spans a much longer period of speech and is not confined to this narrow window.\n- Option F is a near-miss distractor; it correctly identifies the trait (Conscientiousness) but incorrectly predicts the direction of the change. Removing positive evidence would cause the rating to decrease, not increase."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator20",
+      "version": 2,
+      "clues_total": 20,
+      "clues_correct": 18,
+      "clues_wrong_corrected": 1,
+      "clues_missing_skipped": 0,
+      "clues_bonus": 1
+    }
+  }
+}

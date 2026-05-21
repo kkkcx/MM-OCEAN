@@ -1,0 +1,434 @@
+{
+  "video_id": "8i7H-uSCQcc.000.mp4",
+  "video_path": "8i7H-uSCQcc.000.mp4",
+  "transcription": "... practice in slow-motion spiccato, so you do something like, starting with the first bar, you do something like ... so before -",
+  "original_scores": {
+    "extraversion": 0.4672897196261683,
+    "agreeableness": 0.6813186813186812,
+    "conscientiousness": 0.7087378640776699,
+    "neuroticism": 0.5208333333333334,
+    "openness": 0.6444444444444444
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 2,
+      "description": "The subject's gaze is directed forward, likely at the camera. Her eyebrows are in a neutral position, and her mouth moves naturally as she speaks.",
+      "bboxes": [
+        {
+          "frame_time": 0.320583,
+          "x": 0.32310855263157895,
+          "y": 0.22719297910991468,
+          "w": 0.12138157894736842,
+          "h": 0.09736842105263158,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 0.52459,
+          "x": 0.2964638157894737,
+          "y": 0.13771929489938836,
+          "w": 0.1613486842105263,
+          "h": 0.3736842105263158,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 0.797756,
+          "x": 0.31866776315789475,
+          "y": 0.2429824527941252,
+          "w": 0.12582236842105263,
+          "h": 0.05789473684210526,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 1.049181,
+          "x": 0.36751644736842104,
+          "y": 0.3798245580572831,
+          "w": 0.084375,
+          "h": 0.07894736842105263,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 2,
+      "end_time": 13.5,
+      "description": "Her gaze shifts downwards towards the violin and remains fixed there. Her eyebrows furrow slightly, and the corners of her mouth are held in a neutral-to-slightly-downward position, indicating concentration.",
+      "bboxes": [
+        {
+          "frame_time": 3.629751,
+          "x": 0.4104440789473684,
+          "y": 0.27456140016254627,
+          "w": 0.13026315789473683,
+          "h": 0.07894736842105263,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 10.527205,
+          "x": 0.41192434210526313,
+          "y": 0.23508771595201994,
+          "w": 0.13322368421052633,
+          "h": 0.06578947368421052,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 11.243057,
+          "x": 0.4385690789473684,
+          "y": 0.3877192948993884,
+          "w": 0.09177631578947369,
+          "h": 0.0868421052631579,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 13.5,
+      "end_time": 15.28,
+      "description": "While still looking down at the instrument, her mouth opens to resume speaking.",
+      "bboxes": [
+        {
+          "frame_time": 14.690671,
+          "x": 0.3734375,
+          "y": 0.13771929489938836,
+          "w": 0.16282894736842105,
+          "h": 0.4131578947368421,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 13.668509,
+          "x": 0.4459703947368421,
+          "y": 0.3640350843730726,
+          "w": 0.07993421052631579,
+          "h": 0.10263157894736842,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 2,
+      "description": "The subject stands, holding a violin in her left hand (angled downwards) and a bow in her right hand (pointing upwards).",
+      "bboxes": [
+        {
+          "frame_time": 1.63206,
+          "x": 0.5392269736842106,
+          "y": 0.7745614001625463,
+          "w": 0.1524671052631579,
+          "h": 0.21578947368421053,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 2,
+      "end_time": 8.2,
+      "description": "She raises the violin to her left shoulder, tilting her head to the right to secure it with her chin. She then adjusts her left-hand fingers on the fingerboard and places the bow on the strings with her right hand, preparing to play.",
+      "bboxes": [
+        {
+          "frame_time": 2.861789,
+          "x": 0.2935032894736842,
+          "y": 0.42719297910991466,
+          "w": 0.5328947368421053,
+          "h": 0.4052631578947368,
+          "note": "pose human-annotated",
+          "region": "shoulders"
+        },
+        {
+          "frame_time": 2.861789,
+          "x": 0.39564144736842105,
+          "y": 0.0929824527941252,
+          "w": 0.1879934210526316,
+          "h": 0.4236842105263158,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 3.118401,
+          "x": 0.43560855263157894,
+          "y": 0.4403508738467568,
+          "w": 0.1480263157894737,
+          "h": 0.11842105263157894,
+          "note": "human-annotated",
+          "region": "chin"
+        },
+        {
+          "frame_time": 3.672136,
+          "x": 0.3334703947368421,
+          "y": 0.416666663320441,
+          "w": 0.41891447368421053,
+          "h": 0.5736842105263158,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 8.2,
+      "end_time": 13.5,
+      "description": "Her right arm moves the bow in short, distinct, bouncing strokes across the violin strings. Simultaneously, her left-hand fingers press down on the strings to change notes.",
+      "bboxes": [
+        {
+          "frame_time": 9.017381,
+          "x": 0.1084703947368421,
+          "y": 0.4298245580572831,
+          "w": 0.4440789473684211,
+          "h": 0.39210526315789473,
+          "note": "human-annotated",
+          "region": "arms"
+        },
+        {
+          "frame_time": 9.355205,
+          "x": 0.6428453947368421,
+          "y": 0.7219298212151778,
+          "w": 0.20575657894736843,
+          "h": 0.2736842105263158,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 13.5,
+      "end_time": 15.28,
+      "description": "She holds the violin and bow in playing position after finishing the musical phrase.",
+      "bboxes": [
+        {
+          "frame_time": 15.32,
+          "x": 0.24317434210526315,
+          "y": 0.3798245580572831,
+          "w": 0.5417763157894737,
+          "h": 0.6157894736842106,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 8.2,
+      "description": "The subject speaks at a moderate pace with clear articulation. Her pitch has a natural, slightly falling intonation at the end of phrases.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 8.2,
+      "end_time": 13.5,
+      "description": "The sound of a violin is heard playing six separate, short notes at a slow, deliberate tempo.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 13.5,
+      "end_time": 15.28,
+      "description": "Speech resumes at a moderate pace and volume.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.28,
+      "description": "The subject is a woman with fair skin and shoulder-length brown hair. She is wearing a short-sleeved dress with a black, white, and grey pattern that includes a large black flower with a pink center. She is holding a standard wooden violin and bow. The background is a plain, solid, light-colored wall. The lighting is bright and evenly diffused from the front.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Medium",
+      "score": 0.47,
+      "rationale": "The subject exhibits a Medium level of Extraversion. While engaging in a public-facing activity (recording a video), her energy is focused and task-oriented rather than socially expansive. She speaks clearly and at a moderate pace, but her gaze quickly shifts from the camera to her instrument, indicating a preference for task-related concentration over sustained social engagement. The lack of broad, expressive gestures or a highly animated vocal tone further supports a more reserved, moderate placement on the extraversion spectrum.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "High",
+      "score": 0.68,
+      "rationale": "A High level of Agreeableness is indicated by the subject's cooperative and helpful demeanor. She is taking the time to demonstrate a specific technique, an inherently prosocial act. Her facial expressions remain neutral and pleasant, and her vocal tone is even and instructional. The entire presentation is structured to aid the viewer's understanding, reflecting a considerate and patient attitude consistent with high agreeableness.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "High",
+      "score": 0.71,
+      "rationale": "The subject demonstrates a High level of Conscientiousness through her methodical, detail-oriented approach. She breaks down the practice into a specific, slow-motion exercise, highlighting a structured and disciplined mindset. Her physical actions, from carefully positioning the violin to the precise, deliberate execution of the bowing technique, reveal a commitment to accuracy and skillful performance. Her sustained focus on the instrument while playing underscores a diligent and task-focused nature.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Medium",
+      "score": 0.52,
+      "rationale": "The subject's Neuroticism is assessed as Medium. She maintains a composed and steady presence throughout the demonstration, with no visible signs of anxiety, such as fidgeting, strained facial expressions, or vocal tremors. Her movements are fluid and controlled. This emotional stability, especially in a performance context that could induce stress, points away from high neuroticism. The medium score reflects a typical level of emotional regulation, indicating she is generally calm but not exceptionally unflappable.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "High",
+      "score": 0.64,
+      "rationale": "A High level of Openness is strongly suggested by the subject's engagement in a skilled artistic and intellectual activity. Her role as a musician and instructor involves an appreciation for aesthetics, a deep interest in complex techniques, and a desire to share knowledge. The act of deconstructing a musical concept ('slow-motion spiccato') for an audience reflects an intellectual curiosity and an engagement with abstract ideas, which are core facets of the Openness dimension.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their Conscientiousness level?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[0.5s - 1.5s]"
+        },
+        {
+          "id": "B",
+          "text": "[2.2s - 3.2s]"
+        },
+        {
+          "id": "C",
+          "text": "[8.8s - 9.8s]"
+        },
+        {
+          "id": "D",
+          "text": "[11.0s - 12.0s]"
+        },
+        {
+          "id": "E",
+          "text": "[13.7s - 14.7s]"
+        },
+        {
+          "id": "F",
+          "text": "[4.5s - 5.5s]"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. This interval captures the key transition from social engagement (speaking toward the camera) to task engagement (tilting head, shifting gaze down, and securing the violin with her chin). This deliberate shift into a state of focus is the most relevant non-verbal cue for the beginning of the conscientious, task-oriented behavior.\n- Option A is a video-based distractor showing a period of speaking where her expression is neutral and stable.\n- Option C is a video-based distractor occurring mid-performance, where her focused expression is maintained but not changing.\n- Option D is a video-based distractor, also from the middle of the performance, showing a static, concentrated expression.\n- Option E is a video-based distractor that captures another valid transition (finishing playing and turning back to the camera), but the initial shift into the task (B) is a stronger signal for the onset of the conscientious action.\n- Option F is a video-based distractor showing the moment she is in the ready position, after the main shift but before playing, a period of little to no facial change."
+    },
+    {
+      "category": "Mixed Emotion Discrimination",
+      "question": "During [2.0s - 13.5s], the person's emotional state is best characterized as which of the following? Consider both verbal and non-verbal cues.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Quiet determination mixed with a degree of performance apprehension."
+        },
+        {
+          "id": "B",
+          "text": "Focused concentration tempered by a calm and composed demeanor."
+        },
+        {
+          "id": "C",
+          "text": "Neutral professionalism combined with subtle introspective thought."
+        },
+        {
+          "id": "D",
+          "text": "Patient instruction blended with a sense of practiced automaticity."
+        },
+        {
+          "id": "E",
+          "text": "Mild engagement tempered by a feeling of slight emotional distance."
+        },
+        {
+          "id": "F",
+          "text": "Passive observation mixed with an underlying state of readiness."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. Throughout this long segment, the subject's gaze is fixed on her instrument, her facial muscles are neutral, and her movements are deliberate. This indicates a state of active, focused concentration. The lack of any tension signals or emotional displays supports the 'calm and composed' qualifier.\n- Option A is a near-miss distractor. While 'quiet determination' is plausible, there is no visual evidence (like a furrowed brow or tense mouth) to support 'performance apprehension'.\n- Option C is a text-based distractor. 'Neutral professionalism' is a reasonable label, but 'concentration' is more active and precise than 'introspective thought' for this physical task.\n- Option D is a video-based distractor. While she is an instructor ('patient instruction'), this specific segment involves no talking, only playing. 'Practiced automaticity' is also plausible but downplays the active focus visible.\n- Option E is a text-based distractor. It uses vague terms that sound plausible but are less specific and accurate than 'focused concentration'.\n- Option F is a near-miss distractor. 'Readiness' is part of her state, but 'passive observation' is incorrect; she is actively performing the task, not observing."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around [11.2s], a region was detected in the video (x=0.439, y=0.388, w=0.092, h=0.087, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A slight turn of the head toward the camera while the gaze is down."
+        },
+        {
+          "id": "B",
+          "text": "A neutral mouth posture, indicating a calm and focused mental state."
+        },
+        {
+          "id": "C",
+          "text": "The positioning of fingers on the strings of the musical instrument."
+        },
+        {
+          "id": "D",
+          "text": "A slightly downturned mouth shape, suggesting intense concentration."
+        },
+        {
+          "id": "E",
+          "text": "A relaxed eyebrow position, showing no signs of strain or exertion."
+        },
+        {
+          "id": "F",
+          "text": "The motion of raising the violin to the shoulder for proper posture."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. The specified coordinates at 11.2s isolate the subject's mouth. During this time, while she is playing, her mouth is held in a neutral, closed position, consistent with calm concentration.\n- Option A is a video-based distractor. The head turn happens, but it occurs later (around 14.7s) and describes the head, not the mouth region defined by the bounding box.\n- Option C is a video-based distractor. The fingers are indeed on the strings, but this action is located in a different spatial region of the video frame, not within the specified bbox.\n- Option D is a near-miss distractor. It correctly identifies the mouth as the subject but misinterprets the expression, suggesting a 'downturned' shape when it is neutral. This is based on a common AI error.\n- Option E is a video-based distractor. The eyebrows are neutral, but they are in a different location (higher up on the face) than the specified bbox.\n- Option F is a video-based distractor. Raising the violin to the shoulder happens much earlier in the video (around 2.9s) and involves a different body region."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "Identify the moment and location where the person is holding the instruments in a preparatory, non-playing stance before beginning the demonstration.",
+      "options": [
+        {
+          "id": "A",
+          "text": "[1.6s] x=0.54, y=0.77, w=0.15, h=0.22"
+        },
+        {
+          "id": "B",
+          "text": "[9.4s] x=0.64, y=0.72, w=0.21, h=0.27"
+        },
+        {
+          "id": "C",
+          "text": "[15.3s] x=0.24, y=0.38, w=0.54, h=0.62"
+        },
+        {
+          "id": "D",
+          "text": "[2.9s] x=0.29, y=0.43, w=0.53, h=0.41"
+        },
+        {
+          "id": "E",
+          "text": "[0.3s] x=0.32, y=0.23, w=0.12, h=0.10"
+        },
+        {
+          "id": "F",
+          "text": "[3.7s] x=0.33, y=0.42, w=0.42, h=0.57"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. The question asks for the moment she holds the instruments in a preparatory, non-playing stance *before* the demonstration begins. At 1.6s, the bounding box correctly identifies her hands holding the violin (tilted down) and bow (pointing up) before she has raised them to her shoulder to play.\n- Option B is a video-based distractor showing her left hand on the fingerboard *during* the performance.\n- Option C is a video-based distractor showing her holding the violin in the ready position *after* completing the musical phrase.\n- Option D is a video-based distractor capturing the action of raising the violin to her shoulder, which is part of the preparation but not the initial static hold.\n- Option E is a video-based distractor that isolates her eyes as she speaks to the camera, not the instruments.\n- Option F is a video-based distractor showing the moment her hands bring the bow to the strings, which is the final step of preparation, not the initial stance."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator17",
+      "version": 1,
+      "clues_total": 21,
+      "clues_correct": 16,
+      "clues_wrong_corrected": 5,
+      "clues_missing_skipped": 0,
+      "clues_bonus": 0
+    }
+  }
+}

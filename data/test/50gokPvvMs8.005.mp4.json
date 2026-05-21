@@ -1,0 +1,456 @@
+{
+  "video_id": "50gokPvvMs8.005.mp4",
+  "video_path": "50gokPvvMs8.005.mp4",
+  "transcription": "Question. What is your fav book this year so far? I would have to say probably Purple Hibiscus by-",
+  "original_scores": {
+    "extraversion": 0.29906542056074764,
+    "agreeableness": 0.5384615384615384,
+    "conscientiousness": 0.4951456310679611,
+    "neuroticism": 0.3854166666666667,
+    "openness": 0.5444444444444444
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 8.5,
+      "description": "The person maintains a neutral expression with their gaze directed toward the camera. Their eyebrows are relaxed, and their mouth moves naturally with their speech.",
+      "bboxes": [
+        {
+          "frame_time": 6.878443,
+          "x": 0.35641447368421053,
+          "y": 0.1868421052631579,
+          "w": 0.2546052631578947,
+          "h": 0.46578947368421053,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 7.144861,
+          "x": 0.38898026315789475,
+          "y": 0.19210526315789472,
+          "w": 0.26200657894736845,
+          "h": 0.20526315789473684,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 7.144861,
+          "x": 0.40230263157894736,
+          "y": 0.1868421052631579,
+          "w": 0.22648026315789474,
+          "h": 0.10789473684210527,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 7.144861,
+          "x": 0.46151315789473685,
+          "y": 0.4631578947368421,
+          "w": 0.11101973684210527,
+          "h": 0.17894736842105263,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 8.5,
+      "end_time": 12.3,
+      "description": "The person's gaze shifts up and to their right. Their eyebrows raise slightly, and their mouth is held slightly open in a thoughtful expression.",
+      "bboxes": [
+        {
+          "frame_time": 9.373089,
+          "x": 0.3860197368421053,
+          "y": 0.16578947368421051,
+          "w": 0.2546052631578947,
+          "h": 0.22631578947368422,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 9.373089,
+          "x": 0.39786184210526315,
+          "y": 0.16842105263157894,
+          "w": 0.23240131578947368,
+          "h": 0.09210526315789473,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 12.146264,
+          "x": 0.4777960526315789,
+          "y": 0.44473684210526315,
+          "w": 0.10805921052631579,
+          "h": 0.11842105263157894,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 12.146264,
+          "x": 0.39342105263157895,
+          "y": 0.12105263157894737,
+          "w": 0.26200657894736845,
+          "h": 0.47368421052631576,
+          "note": "face human-annotated",
+          "region": "face"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 12.3,
+      "end_time": 15.33,
+      "description": "The person's gaze returns to the camera, and their eyebrows lower to a neutral position as they begin speaking again.",
+      "bboxes": [
+        {
+          "frame_time": 15.306958,
+          "x": 0.4126644736842105,
+          "y": 0.22894736842105262,
+          "w": 0.21907894736842107,
+          "h": 0.16052631578947368,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 13.417808,
+          "x": 0.42598684210526316,
+          "y": 0.19473684210526315,
+          "w": 0.24720394736842105,
+          "h": 0.08157894736842106,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 8.5,
+      "description": "The person sits upright, facing the camera. Their head remains relatively still with only minor movements accompanying their speech.",
+      "bboxes": [
+        {
+          "frame_time": 0,
+          "x": 0.4807565789473684,
+          "y": 0.14736842105263157,
+          "w": 0.20279605263157896,
+          "h": 0.5473684210526316,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 0,
+          "x": 0.44226973684210524,
+          "y": 0.14210526315789473,
+          "w": 0.24572368421052632,
+          "h": 0.49736842105263157,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 8.5,
+      "end_time": 12.3,
+      "description": "The person's head tilts slightly up and to their right as they look away from the camera.",
+      "bboxes": [
+        {
+          "frame_time": 9.530518,
+          "x": 0.39786184210526315,
+          "y": 0.1368421052631579,
+          "w": 0.23536184210526317,
+          "h": 0.49473684210526314,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 9.530518,
+          "x": 0.41710526315789476,
+          "y": 0.22631578947368422,
+          "w": 0.19391447368421053,
+          "h": 0.12894736842105264,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 12.3,
+      "end_time": 15.33,
+      "description": "The person leans slightly forward toward the camera as they start to answer the question.",
+      "bboxes": [
+        {
+          "frame_time": 14.083854,
+          "x": 0.3001644736842105,
+          "y": 0.49473684210526314,
+          "w": 0.4736842105263158,
+          "h": 0.47368421052631576,
+          "note": "pose human-annotated",
+          "region": "torso"
+        },
+        {
+          "frame_time": 14.083854,
+          "x": 0.415625,
+          "y": 0.20526315789473684,
+          "w": 0.2042763157894737,
+          "h": 0.4368421052631579,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 3,
+      "description": "After a soft initial word, the speaker says \"question\" with a clear, moderate pitch and falling intonation.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 4.8,
+      "end_time": 8.5,
+      "description": "The speaker reads a question aloud at a steady pace. Their pitch is even with a slight rise at the end of the sentence.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 8.5,
+      "end_time": 12.3,
+      "description": "A pause of approximately four seconds occurs.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 12.3,
+      "end_time": 15.33,
+      "description": "Speech resumes at a moderate pace and even pitch. The word \"probably\" is slightly elongated.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.33,
+      "description": "The scene is an indoor room, likely an office or study. The person has light skin, long brown hair, and is wearing glasses, a black sweater, and a purple collared shirt. They are positioned in front of a large, white shelving unit filled with books and binders. The lighting is bright and even, originating from the front.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Low",
+      "score": 0.3,
+      "rationale": "The subject's Extraversion is rated Low. This is supported by a reserved demeanor, characterized by a steady, even vocal tone and minimal body movement. The tendency to avert their gaze ('Look away from the camera') and take a significant four-second pause when thinking indicates a preference for internal processing before speaking, a common trait in individuals with lower extraversion. The overall lack of social energy and expressive flair points away from high extraversion.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Medium",
+      "score": 0.54,
+      "rationale": "The subject's Agreeableness is rated Medium. They exhibit a cooperative and pleasant demeanor by willingly engaging with the question. Their vocal tone is described as 'soft' and 'even,' and their facial expressions are natural and task-focused ('Mouth moves naturally as you speak'), lacking any signs of conflict or irritation. This calm, non-confrontational approach supports a medium rating, as it lacks the overt warmth of high agreeableness or the skepticism of low agreeableness.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Medium",
+      "score": 0.5,
+      "rationale": "The subject's Conscientiousness is rated Medium. The most significant indicator is the deliberate, four-second pause accompanied by a 'thinking expression' ('Expression of thinking') before answering the question. This shows a desire to provide a considered and accurate response rather than an impulsive one. The careful phrasing, beginning with 'probably' which is slightly elongated, further reinforces this thoughtful, diligent approach to the task.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Low",
+      "score": 0.39,
+      "rationale": "The subject's Neuroticism is rated Low, indicating high emotional stability. Throughout the clip, they remain calm and composed. Their speech is steady and clear, with no signs of vocal anxiety like stammering or trembling. Physically, their head is 'relatively still' and their torso 'does not change,' lacking any nervous gestures or fidgeting. The pause for thought appears purely cognitive, not driven by anxiety, supporting the assessment of a stable and resilient disposition.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "Medium",
+      "score": 0.54,
+      "rationale": "The subject's Openness is rated Medium. They are engaging with a topic related to intellectual and aesthetic experiences—literature. The thoughtful pause to recall and select a specific book demonstrates intellectual engagement. The setting, in front of a large bookshelf 'full of books and folders', further contextualizes this interest. While these cues point to a mind open to ideas, the brief interaction does not provide evidence for the highly imaginative or unconventional thinking characteristic of very high openness.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During 8.5s - 12.3s, the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "High Conscientiousness, indicating a highly diligent and organized approach to responding."
+        },
+        {
+          "id": "B",
+          "text": "Low Neuroticism, suggesting high emotional stability and resilience under clear pressure."
+        },
+        {
+          "id": "C",
+          "text": "Medium Conscientiousness, reflecting a thoughtful and deliberate planning of the answer."
+        },
+        {
+          "id": "D",
+          "text": "High Agreeableness, demonstrating a strong cooperative and friendly social interaction."
+        },
+        {
+          "id": "E",
+          "text": "Low Openness to Experience, implying a preference for routine over novel intellectual tasks."
+        },
+        {
+          "id": "F",
+          "text": "Low Extraversion, characterized by a preference for internal processing over quick talking."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The behavior between 8.5s and 12.3s is a deliberate four-second pause with a 'thinking expression,' gaze aversion, and closed mouth. This directly supports a Medium Conscientiousness rating, as it shows a desire to provide a considered, accurate response rather than an impulsive one. Option C correctly identifies this link. \n\n- Option A is a near-miss distractor because while the behavior shows conscientiousness, the evidence in this short clip supports a medium, not high, level.\n- Option B is a video-based distractor because the person is calm (Low Neuroticism) throughout, but this specific pause is primary evidence for deliberation (Conscientiousness), not emotional stability.\n- Option D is a text-based distractor because while answering a question is agreeable, the act of pausing to think does not in itself provide strong evidence for the Agreeableness dimension.\n- Option E is a text-based distractor that misinterprets the behavior; pausing to think about a book indicates intellectual engagement, which is contrary to Low Openness.\n- Option F is a near-miss distractor. The pause is also strong evidence for Low Extraversion (internal processing). However, the act of carefully preparing an answer to a question is a more direct and defining characteristic of Conscientiousness (diligence, thoughtfulness) than it is of introversion itself."
+    },
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their Conscientiousness level?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[00.5s - 03.2s]"
+        },
+        {
+          "id": "B",
+          "text": "[04.8s - 08.1s]"
+        },
+        {
+          "id": "C",
+          "text": "[08.8s - 12.1s]"
+        },
+        {
+          "id": "D",
+          "text": "[12.5s - 15.0s]"
+        },
+        {
+          "id": "E",
+          "text": "[03.5s - 04.5s]"
+        },
+        {
+          "id": "F",
+          "text": "[00.0s - 02.5s]"
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The key evidence for Conscientiousness is the deliberate pause to formulate a thoughtful answer. This occurs between 8.5s and 12.3s. During this time, the person's gaze shifts up and away, their eyebrows raise slightly in thought, and their mouth is closed. Option C, [8.8s - 12.1s], correctly isolates this critical period of cognitive processing. \n\n- Option A is a video-based distractor; this interval covers the person saying the word 'question' and is not related to their deliberative process.\n- Option B is a video-based distractor; during this time, the person is reading the question aloud, which is information intake, not the formulation of their own answer.\n- Option D is a video-based distractor; this interval is when the person begins speaking their answer, which is the *result* of the conscientious thought process, not the process itself.\n- Options E and F are video-based distractors representing other moments of speech or minor pauses that are not the significant, four-second period of deliberation."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 13.4s, a region was detected in the video (x=0.426, y=0.195, w=0.247, h=0.082, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The gaze shifting back towards the central camera axis."
+        },
+        {
+          "id": "B",
+          "text": "A concentrated expression on the face while pondering."
+        },
+        {
+          "id": "C",
+          "text": "A subtle shift in the eyebrows accompanying speech onset."
+        },
+        {
+          "id": "D",
+          "text": "The eyebrows lowering into a completely neutral position."
+        },
+        {
+          "id": "E",
+          "text": "The head being held in a relatively stationary posture."
+        },
+        {
+          "id": "F",
+          "text": "Natural mouth movements associated with articulation."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The specified coordinates at 13.4s isolate the person's eyebrows just as they begin to speak again. The observation cue for this moment is Eyebrows change slightly with expression as they start speaking again. Option C is the most accurate description of this action. \n\n- Option A is a video-based distractor; the gaze does shift back, but this happens in the eye region, not the eyebrow region specified by the bounding box.\n- Option B is a video-based distractor; the 'pondering' expression was most prominent in the preceding time segment (8.5-12.3s), not at 13.4s when speech begins.\n- Option D is a near-miss distractor; it correctly identifies the body part (eyebrows) but incorrectly describes the motion. The observation notes a 'small change,' not necessarily a lowering to a neutral position, which is a common AI misinterpretation.\n- Options E and F are video-based distractors describing actions in different regions (the whole head and the mouth, respectively)."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "At which moment and in which region does the individual transition from internal thought to outwardly directed speech, re-engaging with the viewer?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[9.4s]  x=0.39, y=0.17, w=0.25, h=0.23"
+        },
+        {
+          "id": "B",
+          "text": "[9.5s]  x=0.40, y=0.14, w=0.24, h=0.49"
+        },
+        {
+          "id": "C",
+          "text": "[14.1s]  x=0.42, y=0.21, w=0.20, h=0.44"
+        },
+        {
+          "id": "D",
+          "text": "[6.9s]  x=0.36, y=0.19, w=0.25, h=0.47"
+        },
+        {
+          "id": "E",
+          "text": "[9.4s]  x=0.40, y=0.17, w=0.23, h=0.09"
+        },
+        {
+          "id": "F",
+          "text": "[7.1s]  x=0.39, y=0.19, w=0.26, h=0.21"
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The question asks to identify the moment of transition from thinking to speaking. This occurs after the pause, around 12.3s. Option C, at 14.1s, shows a bounding box on the person's head as they are facing the camera and beginning to verbalize their answer ('I would have to say probably...'). This is the correct moment of re-engagement and speech onset. \n\n- Options A, B, and E are video-based distractors; they all point to times (~9.5s) and regions (eyes, head, eyebrows) during the 'internal thought' phase, not the transition to speech.\n- Options D and F are video-based distractors; they point to times (~7s) when the person is reading the question aloud, which is before the period of internal thought."
+    },
+    {
+      "category": "Counterfactual Reasoning",
+      "question": "If the person had NOT exhibited the behavior observed around 8.5s - 12.3s, which of the following personality assessments would be MOST affected?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The rating for Conscientiousness would decrease, because the indicator of diligent thought before answering would be removed."
+        },
+        {
+          "id": "B",
+          "text": "The rating for Agreeableness would be lower, as an immediate answer might have seemed less cooperative or thoughtful to the viewer."
+        },
+        {
+          "id": "C",
+          "text": "The assessment for Extraversion would likely increase, as the main evidence for internal processing before speaking would be absent."
+        },
+        {
+          "id": "D",
+          "text": "The assessment for Neuroticism would rise, as the calm composure shown at the start of the video would be contradicted by impulsivity."
+        },
+        {
+          "id": "E",
+          "text": "The assessment for Extraversion would decrease further, since responding instantly is a sign of even deeper introverted reflection."
+        },
+        {
+          "id": "F",
+          "text": "The assessment for Openness would shift significantly lower, because the thoughtful pause is a key sign of intellectual engagement."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The behavior from 8.5s-12.3s is the significant four-second pause with gaze aversion. The personality analysis explicitly states this 'indicates a preference for internal processing before speaking, a common trait in individuals with lower extraversion.' Removing this key piece of evidence would significantly weaken the Low Extraversion assessment, likely causing it to be rated higher. \n\n- Option A is a strong near-miss distractor. The pause is also evidence for Medium Conscientiousness. However, the analysis links the specific combination of pausing *and* gaze aversion more directly to the 'internal processing' aspect of Low Extraversion.\n- Option B is a text-based distractor; Agreeableness is supported by the person's calm and cooperative tone throughout, making it less dependent on this single behavior.\n- Option D is a video-based distractor. The Low Neuroticism assessment is based on the general lack of anxious cues across the entire video, not just the presence of this pause.\n- Option E is a near-miss distractor that gets the trait correct (Extraversion) but proposes the wrong direction of change; an immediate response is characteristic of higher, not lower, extraversion.\n- Option F is a text-based distractor; the Openness rating is also supported by the book-filled background and the topic itself, so it is not solely reliant on this pause."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator14",
+      "version": 1,
+      "clues_total": 21,
+      "clues_correct": 12,
+      "clues_wrong_corrected": 9,
+      "clues_missing_skipped": 0,
+      "clues_bonus": 0
+    }
+  }
+}

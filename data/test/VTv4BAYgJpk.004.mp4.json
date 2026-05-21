@@ -1,0 +1,458 @@
+{
+  "video_id": "VTv4BAYgJpk.004.mp4",
+  "video_path": "VTv4BAYgJpk.004.mp4",
+  "transcription": "That brings us to the second point. We're always limited, physicians and time. Basically in academic centers we do a lot research, there's a lot of meetings, talks presentations so what I tell the patients usually is it's going to be impossible for me to answer 20 patients.",
+  "original_scores": {
+    "extraversion": 0.25233644859813087,
+    "agreeableness": 0.5274725274725275,
+    "conscientiousness": 0.7961165048543688,
+    "neuroticism": 0.5833333333333333,
+    "openness": 0.5777777777777777
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 1.9,
+      "description": "The subject looks directly at the camera with a neutral expression. His eyebrows are relaxed, and his mouth moves naturally with speech.",
+      "bboxes": [
+        {
+          "frame_time": 0.743533,
+          "x": 0.45041118421052634,
+          "y": 0.24824561068886206,
+          "w": 0.140625,
+          "h": 0.28421052631578947,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 0.743533,
+          "x": 0.42672697368421053,
+          "y": 0.29561403174149364,
+          "w": 0.18355263157894738,
+          "h": 0.13157894736842105,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 0.743533,
+          "x": 0.42820723684210527,
+          "y": 0.2850877159520199,
+          "w": 0.18207236842105262,
+          "h": 0.06315789473684211,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 1.03148,
+          "x": 0.4859375,
+          "y": 0.41140350542570414,
+          "w": 0.07401315789473685,
+          "h": 0.09736842105263158,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 1.9,
+      "end_time": 3.1,
+      "description": "The subject's eyes close slightly and his eyebrows lower as he says the words \"limited physicians\".",
+      "bboxes": [
+        {
+          "frame_time": 2.759086,
+          "x": 0.4666940789473684,
+          "y": 0.33771929489938834,
+          "w": 0.14358552631578947,
+          "h": 0.10526315789473684,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 2.994976,
+          "x": 0.4652138157894737,
+          "y": 0.3061403475309673,
+          "w": 0.13914473684210527,
+          "h": 0.07894736842105263,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 3.1,
+      "end_time": 11.2,
+      "description": "His expression returns to a relatively neutral state, maintaining a direct gaze. His eyelids lower briefly around the 11.0-second mark.",
+      "bboxes": [
+        {
+          "frame_time": 5.286029,
+          "x": 0.45485197368421054,
+          "y": 0.2850877159520199,
+          "w": 0.15394736842105264,
+          "h": 0.24736842105263157,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 5.968001,
+          "x": 0.4533717105263158,
+          "y": 0.25877192647833575,
+          "w": 0.12138157894736842,
+          "h": 0.11842105263157894,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 11.209318,
+          "x": 0.43560855263157894,
+          "y": 0.3219298212151778,
+          "w": 0.14654605263157894,
+          "h": 0.07894736842105263,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 11.2,
+      "end_time": 14.9,
+      "description": "As he says \"it's going to be impossible for me,\" his eyebrows press slightly downward and his eyes narrow, creating an expression of emphasis.",
+      "bboxes": [
+        {
+          "frame_time": 13.050771,
+          "x": 0.45041118421052634,
+          "y": 0.2614035054257042,
+          "w": 0.14358552631578947,
+          "h": 0.2631578947368421,
+          "note": "human-annotated",
+          "region": "unknown"
+        },
+        {
+          "frame_time": 13.050771,
+          "x": 0.45041118421052634,
+          "y": 0.2692982422678094,
+          "w": 0.15986842105263158,
+          "h": 0.08421052631578947,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 13.112228,
+          "x": 0.46817434210526315,
+          "y": 0.3271929791099147,
+          "w": 0.13914473684210527,
+          "h": 0.07631578947368421,
+          "note": "face human-annotated",
+          "region": "face"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 14.9,
+      "description": "The subject is seated and framed from the chest up, maintaining a generally still and upright posture. His head performs small nods and slight side-to-side turns that are synchronized with the rhythm and emphasis of his speech.",
+      "bboxes": [
+        {
+          "frame_time": 0.574726,
+          "x": 0.3615953947368421,
+          "y": 0.21140350542570416,
+          "w": 0.3226973684210526,
+          "h": 0.7105263157894737,
+          "note": "human-annotated",
+          "region": "unknown"
+        },
+        {
+          "frame_time": 0.574726,
+          "x": 0.31866776315789475,
+          "y": 0.15877192647833574,
+          "w": 0.3626644736842105,
+          "h": 0.7157894736842105,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 1.187973,
+          "x": 0.31422697368421054,
+          "y": 0.11403508437307257,
+          "w": 0.3582236842105263,
+          "h": 0.7289473684210527,
+          "note": "pose human-annotated",
+          "region": "torso"
+        },
+        {
+          "frame_time": 1.187973,
+          "x": 0.4030427631578947,
+          "y": 0.13508771595201993,
+          "w": 0.20575657894736843,
+          "h": 0.40789473684210525,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 6.3,
+      "description": "Speech is delivered at a moderate and consistent pace with a stable, mid-range pitch.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 6.3,
+      "end_time": 9.4,
+      "description": "The speech rate increases slightly as he lists several items: \"research, there's a lot of meetings, talks, presentations.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 9.4,
+      "end_time": 14.9,
+      "description": "After a brief pause, the pace returns to moderate. There is a noticeable stress with a slight increase in volume and emphasis on the word \"impossible\".",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 14.9,
+      "description": "The subject is a man with dark hair and a medium skin tone. He is wearing a black suit jacket over a light blue collared shirt. A small black lavalier microphone is clipped to his shirt. He is positioned in front of a white backdrop that features a repeating maroon-colored circular logo. The lighting is soft and focused on the subject, with the areas to the left and right of the backdrop being completely dark.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0.687973,
+      "end_time": 1.687973,
+      "description": "The collar of the subject's shirt was unbuttoned, relatively casual.",
+      "bboxes": [
+        {
+          "frame_time": 1.187973,
+          "x": 0.4104440789473684,
+          "y": 0.4008771896362305,
+          "w": 0.16282894736842105,
+          "h": 0.22105263157894736,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Low",
+      "score": 0.25,
+      "rationale": "The subject's Low Extraversion is indicated by his reserved demeanor and contained physical presence. He maintains a generally still and upright posture with minimal expansive movements, which contrasts with the high energy typically associated with extraverts. His vocal delivery is moderate in pace and volume, suggesting a more measured and less socially dominant communication style. Furthermore, the instance of breaking eye contact to look away ([3.1s-11.2s]) while speaking points towards internal processing rather than a continuous outward focus on the audience, a behavior more common in introverted individuals.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Medium",
+      "score": 0.53,
+      "rationale": "The Medium score in Agreeableness is supported by the subject's balanced communication style while delivering potentially disagreeable news (his unavailability). His vocal tone remains stable and moderate, presenting the information in a factual, non-confrontational manner. The brief downward turn of his eyebrows when mentioning limitations ([1.9s-3.1s]) could be interpreted as a sign of sincerity or concern for the patient's perspective, a subtle pro-social cue. He is direct but not harsh, navigating the topic with a neutral stance that is neither overly accommodating nor antagonistic.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Very High",
+      "score": 0.8,
+      "rationale": "The subject's Very High Conscientiousness is strongly evidenced by the structured, goal-oriented nature of his communication and professional presentation. He logically introduces his topic ('That brings us to the second point') and articulates his responsibilities in a clear, organized way ('research, meetings, talks presentations'). His upright posture and formal attire (suit jacket) project an image of discipline and diligence. The deliberate vocal emphasis placed on the word 'impossible' serves to set clear, unambiguous boundaries, reflecting a conscientious individual's preference for order and effective management of expectations.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Medium",
+      "score": 0.58,
+      "rationale": "A Medium level of Neuroticism is suggested by subtle cues indicating cognitive load or mild stress while discussing a demanding aspect of his profession. The slight, momentary eye closures and drooping eyelids ([1.9s-3.1s], [11.0s]) are micro-expressions often associated with mental exertion or concern. The pressing down of his eyebrows when making an emphatic point ([11.2s-14.9s]) further suggests the topic carries a degree of weight for him. However, these indicators are contained within an overall composed and controlled demeanor, preventing a higher rating and pointing to a moderate, rather than high, level of underlying tension.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "Medium",
+      "score": 0.58,
+      "rationale": "The subject's Medium score on Openness is consistent with his articulate and intellectual, yet practical, communication. He discusses his work in an academic center, listing activities like 'research' and 'talks' that are associated with intellectual curiosity. The slightly faster pace when listing these items suggests an engagement with these ideas. However, the overall topic is concrete and pragmatic (managing time), not abstract or highly imaginative. His professional attire, though slightly relaxed with an unbuttoned collar, largely adheres to convention, fitting a profile that is intellectually engaged but not exceptionally unconventional.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their Medium Neuroticism level?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[0.0s - 1.2s]"
+        },
+        {
+          "id": "B",
+          "text": "[6.3s - 7.5s]"
+        },
+        {
+          "id": "C",
+          "text": "[3.1s - 4.3s]"
+        },
+        {
+          "id": "D",
+          "text": "[11.2s - 12.4s]"
+        },
+        {
+          "id": "E",
+          "text": "[4.5s - 5.7s]"
+        },
+        {
+          "id": "F",
+          "text": "[1.9s - 3.1s]"
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The analysis links Medium Neuroticism to subtle signs of mental exertion or concern. During [1.9s - 3.1s], the subject's eyebrows droop and his eyes close slightly as he says 'limited physicians,' a micro-expression indicative of mild stress or cognitive load.\n- Option A is a video-based distractor. This interval shows a neutral expression, which serves as a baseline but is not evidence for Neuroticism.\n- Option B is a video-based distractor. This interval features a slight increase in speech pace, which is more relevant to Openness or Conscientiousness.\n- Option C is a video-based distractor. This interval contains a gaze shift, which is primarily linked to Low Extraversion (internal processing).\n- Option D is a near-miss distractor. This interval shows an emphatic eyebrow press. While this also contributes to the Neuroticism score, it is more strongly tied to the emphatic boundary-setting of Conscientiousness. The expression at [1.9s-3.1s] is a more direct indicator of underlying concern.\n- Option E is a text-based distractor. It presents a plausible-looking time range that falls within a longer period of neutral expression and contains no notable micro-expressions."
+    },
+    {
+      "category": "Mixed Emotion Discrimination",
+      "question": "During 1.9s - 3.1s, the person's emotional state is best characterized as which of the following? Consider both verbal and non-verbal cues.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Deep frustration regarding the issue tempered by reluctant acceptance."
+        },
+        {
+          "id": "B",
+          "text": "Quiet annoyance at constraints mixed with a sense of resignation."
+        },
+        {
+          "id": "C",
+          "text": "Genuine sadness about limitations tempered by a firm feeling of duty."
+        },
+        {
+          "id": "D",
+          "text": "Obvious confusion about the topic mixed with a desire for clarity."
+        },
+        {
+          "id": "E",
+          "text": "Focused concentration on the task mixed with a clear sign of weariness."
+        },
+        {
+          "id": "F",
+          "text": "Mild concern for the situation mixed with practiced professional calm."
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "In this interval, the speaker says 'limited physicians' while his eyebrows droop and eyes close slightly. This combination suggests a subtle negative feeling ('mild concern') that is contained within his overall controlled and composed demeanor ('practiced professional calm').\n- Option A is a near-miss distractor. 'Frustration' is too strong an emotion for the subtle non-verbal cues observed.\n- Option B is a near-miss distractor. 'Annoyance' implies impatience, which is not supported by his moderate pace and stable tone.\n- Option C is a text-based distractor. The word 'limited' might suggest sadness, but the visual evidence does not support such a strong emotion.\n- Option D is a text-based distractor. There are no behavioral cues (like a furrowed brow or questioning tone) to indicate confusion; he is explaining, not questioning.\n- Option E is a video-based distractor. While he is focused, and 'weariness' could be an interpretation of the eye closure, 'mild concern' is more contextually accurate given he is discussing professional limitations."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 13.1s, a region was detected in the video (x=0.450, y=0.261, w=0.144, h=0.263, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A return to a completely neutral facial posture."
+        },
+        {
+          "id": "B",
+          "text": "A brief and subtle closure of both of the eyelids."
+        },
+        {
+          "id": "C",
+          "text": "A downward movement of the eyebrows to show concern."
+        },
+        {
+          "id": "D",
+          "text": "Standard and natural mouth articulation for speech."
+        },
+        {
+          "id": "E",
+          "text": "A slight squinting of the eyes to convey seriousness."
+        },
+        {
+          "id": "F",
+          "text": "A facial expression conveying firm, direct emphasis."
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The specified bounding box at 13.1s captures the subject's entire facial region as he says 'it's going to be impossible'. His eyebrows are pressed down slightly, creating an overall expression of firm emphasis to underscore his point.\n- Option A is a video-based distractor describing the subject's expression from a different time segment (e.g., 3.1s - 11.2s).\n- Option B is a video-based distractor describing a micro-expression from a different time segment (e.g., 2.8s or 11.2s).\n- Option C is a video-based distractor describing the eyebrow movement from an earlier moment ([1.9s-3.1s]) when he discussed limitations, which was more about concern than emphasis.\n- Option D is a text-based distractor; while his mouth is moving, this is not the most prominent or defining feature of his expression in this specific region and time, which is the overall look of emphasis.\n- Option E is a near-miss distractor. It uses the 'Negative Evidence' of a behavior (squinting) that did not actually occur but sounds plausible for a moment of emphasis, testing for over-reliance on language."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "The subject momentarily breaks direct eye contact, a behavior indicative of internal thought processing. At which time and in which region does this specific gaze shift occur?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Time: 3.0s, Bbox: {x=0.465, y=0.306, w=0.139, h=0.079}"
+        },
+        {
+          "id": "B",
+          "text": "Time: 0.7s, Bbox: {x=0.450, y=0.248, w=0.141, h=0.284}"
+        },
+        {
+          "id": "C",
+          "text": "Time: 13.1s, Bbox: {x=0.468, y=0.327, w=0.139, h=0.076}"
+        },
+        {
+          "id": "D",
+          "text": "Time: 11.2s, Bbox: {x=0.436, y=0.322, w=0.147, h=0.079}"
+        },
+        {
+          "id": "E",
+          "text": "Time: 8.5s, Bbox: {x=0.480, y=0.310, w=0.120, h=0.110}"
+        },
+        {
+          "id": "F",
+          "text": "Time: 6.0s, Bbox: {x=0.453, y=0.259, w=0.121, h=0.118}"
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The observation log explicitly states that at 6.0s, 'he has to look to the left, without maintaining direct eye contact'. The provided coordinates match the bounding box for his eyes at that specific moment.\n- Option A is a video-based distractor. This timestamp and bbox correspond to the moment his eyebrows droop, not a lateral gaze shift.\n- Option B is a video-based distractor. This timestamp and bbox correspond to his initial neutral expression where he is maintaining direct eye contact.\n- Option C is a video-based distractor. This timestamp and bbox correspond to his mouth during the emphatic statement at the end of the clip.\n- Option D is a near-miss distractor. This timestamp and bbox correspond to a different eye behavior: a brief downward droop of the eyelids, not a lateral gaze shift to the side.\n- Option E is a text-based distractor. It provides a plausible but incorrect combination of time and coordinates that does not correspond to any specific observed event."
+    },
+    {
+      "category": "Counterfactual Reasoning",
+      "question": "If the person had NOT exhibited the behavior observed around 6.3s - 9.4s, which of the following personality assessments would be MOST affected?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Agreeableness would likely shift to a higher score, because listing duties could be seen as an uncooperative or complaining action."
+        },
+        {
+          "id": "B",
+          "text": "Extraversion rating would increase, because the absence of that faster-paced speech segment would remove a sign of verbal energy."
+        },
+        {
+          "id": "C",
+          "text": "Neuroticism assessment would be lower, as the stress cues from a different moment (around 3.0s) would lose some of their context."
+        },
+        {
+          "id": "D",
+          "text": "Conscientiousness would be rated higher, since that specific burst of faster speech could be interpreted as rushed and less composed."
+        },
+        {
+          "id": "E",
+          "text": "Openness would be rated lower, because that specific list of academic activities is the main evidence for his intellectual engagement."
+        },
+        {
+          "id": "F",
+          "text": "Conscientiousness would be less certain, as this moment provides key evidence for his organized and structured communication style."
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The behavior from 6.3s-9.4s is the clear, organized listing of his duties ('research, meetings, talks presentations'). The personality analysis explicitly cites this as strong evidence for his Very High Conscientiousness, reflecting a structured and goal-oriented approach. Removing this key piece of evidence would significantly weaken the certainty of the 'Very High' rating.\n- Option A is a text-based distractor. It misinterprets the behavior's intent and incorrectly links it to Agreeableness.\n- Option B is a text-based distractor. It misinterprets the relationship between speech pace and Extraversion in this context; removing this burst wouldn't necessarily increase the rating.\n- Option C is a video-based distractor. It correctly identifies stress cues but links them to the wrong behavior segment; removing the list of duties would not affect the interpretation of stress cues from an earlier moment.\n- Option D is a near-miss distractor. It correctly identifies the relevant personality trait (Conscientiousness) but suggests the opposite effect, incorrectly arguing that faster speech is a sign of being less composed.\n- Option E is a strong near-miss distractor. The behavior also supports Medium Openness. However, the 'Very High' Conscientiousness score relies more heavily on this specific instance of structured articulation, whereas Openness is also supported by his general articulateness."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator06",
+      "version": 1,
+      "clues_total": 22,
+      "clues_correct": 19,
+      "clues_wrong_corrected": 1,
+      "clues_missing_skipped": 1,
+      "clues_bonus": 1
+    }
+  }
+}

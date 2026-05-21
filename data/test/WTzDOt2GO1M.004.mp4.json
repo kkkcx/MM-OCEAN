@@ -1,0 +1,331 @@
+{
+  "video_id": "WTzDOt2GO1M.004.mp4",
+  "video_path": "WTzDOt2GO1M.004.mp4",
+  "transcription": "... I'm working like crazy, I'm working like an animal and I'm still not getting ahead. That's when I really started tinkering with how I thought about things and how I looked at my business. I tried a lot of different things. Eventually the bus ...",
+  "original_scores": {
+    "extraversion": 0.37383177570093457,
+    "agreeableness": 0.4945054945054945,
+    "conscientiousness": 0.3980582524271845,
+    "neuroticism": 0.4166666666666667,
+    "openness": 0.4444444444444445
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 15.35,
+      "description": "The subject maintains a direct gaze toward the camera. His eyebrows remain in a neutral position, occasionally raising slightly and briefly with speech emphasis. The mouth moves naturally while speaking. The overall facial expression is relaxed and engaged.",
+      "bboxes": [
+        {
+          "frame_time": 0.988479,
+          "x": 0.3778782894736842,
+          "y": 0.6640350843730726,
+          "w": 0.17023026315789475,
+          "h": 0.07894736842105263,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 4.535523,
+          "x": 0.3290296052631579,
+          "y": 0.5903508738467568,
+          "w": 0.16430921052631578,
+          "h": 0.09473684210526316,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 5.26466,
+          "x": 0.4134046052631579,
+          "y": 0.8403508738467568,
+          "w": 0.08141447368421052,
+          "h": 0.06578947368421052,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 12.839922,
+          "x": 0.35419407894736843,
+          "y": 0.5614035054257042,
+          "w": 0.196875,
+          "h": 0.4368421052631579,
+          "note": "face human-annotated",
+          "region": "face"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 15.35,
+      "description": "The subject is seated and framed from the upper chest up. His head remains relatively still, with subtle, intermittent nods and slight turns that align with his speech cadence. His shoulders are level and stationary.",
+      "bboxes": [
+        {
+          "frame_time": 4.39444,
+          "x": 0.1928453947368421,
+          "y": 0.5403508738467567,
+          "w": 0.41151315789473686,
+          "h": 0.45526315789473687,
+          "note": "human-annotated",
+          "region": "unknown"
+        },
+        {
+          "frame_time": 4.39444,
+          "x": 0.29054276315789473,
+          "y": 0.4956140317414936,
+          "w": 0.28125,
+          "h": 0.5,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 5.023402,
+          "x": 0.3245888157894737,
+          "y": 0.4298245580572831,
+          "w": 0.24276315789473685,
+          "h": 0.5578947368421052,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 12.139739,
+          "x": 0.2564967105263158,
+          "y": 0.8640350843730725,
+          "w": 0.38338815789473685,
+          "h": 0.13157894736842105,
+          "note": "pose human-annotated",
+          "region": "shoulders"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 15.35,
+      "description": "The subject speaks at a moderate, consistent pace with clear articulation. The vocal pitch is stable in a mid-range, exhibiting natural intonational contours typical of declarative speech. The volume remains even throughout. Natural, brief pauses are present between phrases and sentences.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.35,
+      "description": "The subject is a young man with short, dark hair and a light-to-medium complexion, wearing a dark-colored crew-neck shirt. He is in an indoor setting with a plain, off-white wall behind him. To the viewer's left, there is a window with white vertical blinds. Behind him and to his right, a dark desk is visible with several items on it, including a white bowl and a plastic water bottle.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Low",
+      "score": 0.37,
+      "rationale": "The subject's Low Extraversion is indicated by a controlled and reserved demeanor. His physical presence is contained, with a relatively still head and level shoulders, lacking the expansive gestures often associated with high extraversion. His vocal delivery is moderate and steady in pace, pitch, and volume, suggesting a more measured and less outwardly energetic communication style. While he maintains direct eye contact, demonstrating engagement, the overall lack of animated expression and dynamic body language points towards a more introverted disposition.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Medium",
+      "score": 0.49,
+      "rationale": "A Medium Agreeableness score is supported by the subject's balanced social presentation. His relaxed and engaged facial expression, combined with direct eye contact, signals a cooperative and approachable attitude. He appears comfortable and non-confrontational. However, the expression is more neutral and engaged than overtly warm or effusive; for instance, there is no prominent smiling. This calm, composed, and pleasant but not overly expressive style is characteristic of individuals who are agreeable but also maintain a degree of personal reserve.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Medium",
+      "score": 0.4,
+      "rationale": "The subject's Medium Conscientiousness is reflected in his structured and deliberate communication. His speech is clear, evenly paced, and organized, indicating a thoughtful approach. The content itself, describing a period of hard work and methodical problem-solving ('started tinkering with how I thought... I tried a lot of different things'), points to diligence and goal-orientation. His composed and controlled physical posture further reinforces a sense of self-discipline. The overall presentation is competent and orderly, consistent with a moderate level of this trait.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Medium",
+      "score": 0.42,
+      "rationale": "This score indicates a good degree of emotional stability, which is strongly supported by the subject's calm demeanor. Despite discussing a stressful topic ('working like an animal and... not getting ahead'), he shows no physical signs of anxiety. His facial expression is relaxed, his shoulders are still, and his voice is steady and even. The absence of fidgeting, vocal tremors, or other common nervous indicators suggests he can recount stressful experiences with emotional regulation. This stable presentation aligns well with an individual who is not prone to high levels of negative emotion.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "Medium",
+      "score": 0.44,
+      "rationale": "The subject's score for Openness is most clearly supported by the content of his narrative. His statement about 'tinkering with how I thought about things' and trying 'a lot of different things' demonstrates intellectual curiosity and a willingness to explore new perspectives to overcome challenges. This reflects the cognitive aspect of openness. However, his overall presentation—communication style, dress, and environment—is conventional and straightforward rather than artistic or eccentric. This combination of a flexible mindset within a conventional framework is a hallmark of a Medium Openness score.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During 0.0s - 15.3s, the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A high level of Conscientiousness due to his very intense work ethic."
+        },
+        {
+          "id": "B",
+          "text": "A medium level of Openness due to his reflective problem-solving."
+        },
+        {
+          "id": "C",
+          "text": "A low level of Extraversion based on the overall reserved demeanor."
+        },
+        {
+          "id": "D",
+          "text": "A high level of Neuroticism because of the stressful topic discussed."
+        },
+        {
+          "id": "E",
+          "text": "A high level of Openness due to his very creative and curious nature."
+        },
+        {
+          "id": "F",
+          "text": "A low level of Agreeableness based on his detached communication style."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. The personality analysis explicitly states that the Medium Openness score is 'most clearly supported by the content of his narrative' about 'tinkering with how I thought about things' and trying 'a lot of different things', which directly reflects intellectual curiosity and exploring new perspectives. Option A is a text-based distractor; the phrase 'working like crazy' suggests high conscientiousness, but the overall analysis places it at Medium based on his composed delivery, not just the words. Option C is a video-based distractor; while the assessment of Low Extraversion is correct, it's based on his overall reserved non-verbal cues (still posture, steady voice) rather than the specific problem-solving narrative central to this time segment. Option D is a text-based distractor; the topic is stressful, but his calm non-verbals contradict a high neuroticism score. Option E is a near-miss distractor; it correctly identifies Openness but errs in direction. The evidence supports a 'Medium' level, not 'High', as his overall presentation is conventional. Option F is incorrect as his style is engaged, not detached."
+    },
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their moderate level of Agreeableness?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[0.8s - 1.3s]"
+        },
+        {
+          "id": "B",
+          "text": "[4.3s - 4.8s]"
+        },
+        {
+          "id": "C",
+          "text": "[12.6s - 13.1s]"
+        },
+        {
+          "id": "D",
+          "text": "[8.0s - 8.5s]"
+        },
+        {
+          "id": "E",
+          "text": "[5.1s - 5.6s]"
+        },
+        {
+          "id": "F",
+          "text": "[14.5s - 15.0s]"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. The observation notes describe a subtle but distinct eyebrow raise around 4.5s used for emphasis while speaking. This is the most notable change and aligns with a moderately agreeable person who is engaged but not overtly expressive. Option A is a video-based distractor; this is when direct eye contact is established, but it's a static state, not a change. Option C is a video-based distractor; this period is noted for a sustained 'relaxed and engaged' expression, not a change. Option E is a video-based distractor covering a moment of normal mouth movement during speech. Options D and F are text-based distractors; they are plausible time intervals within the clip but do not correspond to any specific annotated facial expression change."
+    },
+    {
+      "category": "Mixed Emotion Discrimination",
+      "question": "During 0.0s - 15.3s, the person's emotional state is best characterized as which of the following? Consider both verbal and non-verbal cues.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Subdued frustration tempered by a hint of underlying exhaustion."
+        },
+        {
+          "id": "B",
+          "text": "Reflective pragmatism mixed with calm and steady self-assurance."
+        },
+        {
+          "id": "C",
+          "text": "Serious contemplation tempered by a trace of lingering stress."
+        },
+        {
+          "id": "D",
+          "text": "Anxious recollection mixed with a subtle desire for group approval."
+        },
+        {
+          "id": "E",
+          "text": "Resigned disappointment mixed with a slight touch of cynicism."
+        },
+        {
+          "id": "F",
+          "text": "Neutral engagement combined with some intellectual detachment."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. The person calmly recounts a past problem and his methodical approach to solving it. This indicates a pragmatic and reflective mindset ('tinkering'), while his steady voice and relaxed posture show self-assurance, not distress. Option A is a text-based distractor; the words 'working like an animal' might suggest frustration and exhaustion, but his calm non-verbals contradict this emotional state. Option C is a near-miss distractor; 'serious contemplation' is plausible, but there are no visual cues of 'lingering stress'—in fact, the evidence points to strong emotional regulation. Option D is a text-based distractor; recalling a struggle could be anxious, but his demeanor is calm, and there is no evidence for a 'desire for approval'. Option E is incorrect as there are no signs of disappointment or cynicism. Option F is a video-based distractor; while he shows 'neutral engagement', he is not intellectually detached, as he is discussing a personal experience."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 12.8s, a region was detected in the video (x=0.354, y=0.561, w=0.197, h=0.437, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A direct and consistently steady gaze toward the camera."
+        },
+        {
+          "id": "B",
+          "text": "A generally relaxed and engaged overall facial expression."
+        },
+        {
+          "id": "C",
+          "text": "A relatively still head position with some very minor nods."
+        },
+        {
+          "id": "D",
+          "text": "A neutral eyebrow position with a single, slight raise."
+        },
+        {
+          "id": "E",
+          "text": "Natural and fluid mouth movements during active speech."
+        },
+        {
+          "id": "F",
+          "text": "A seated posture with shoulders that are kept mostly level."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. The provided coordinates (x=0.354, y=0.561, w=0.197, h=0.437) at 12.8s perfectly frame the person's entire face. The corresponding observation for this region and time is Overall facial expression is relaxed and engaged. Option A is a video-based distractor; this describes the eyes, which are a smaller sub-region within the specified bounding box. Option C is a near-miss distractor; it describes the motion of the entire head, while the question asks about the expression within the facial region. Option D is a video-based distractor describing the eyebrows, a different sub-region. Option E is a video-based distractor describing the mouth, another sub-region. Option F is a video-based distractor describing the body posture, which is outside the specified facial bounding box."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "The subject briefly uses a facial gesture to add emphasis to a spoken point. Which option correctly identifies the time and location of this specific action?",
+      "options": [
+        {
+          "id": "A",
+          "text": "At 1.0s, within the region (x=0.378, y=0.664, w=0.170, h=0.079)."
+        },
+        {
+          "id": "B",
+          "text": "At 4.5s, within the region (x=0.329, y=0.590, w=0.164, h=0.095)."
+        },
+        {
+          "id": "C",
+          "text": "At 5.3s, within the region (x=0.413, y=0.840, w=0.081, h=0.066)."
+        },
+        {
+          "id": "D",
+          "text": "At 4.5s, within the region (x=0.354, y=0.561, w=0.197, h=0.437)."
+        },
+        {
+          "id": "E",
+          "text": "At 12.1s, within the region (x=0.256, y=0.864, w=0.383, h=0.132)."
+        },
+        {
+          "id": "F",
+          "text": "At 1.0s, within the region (x=0.329, y=0.590, w=0.164, h=0.095)."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. The observation data explicitly notes that at 4.5s, the eyebrows 'occasionally... slightly raise' for emphasis, and the provided bounding box corresponds exactly to the eyebrow region at that time. Option A is a video-based distractor; the time and coordinates point to the eyes while they maintain a steady gaze. Option C is a video-based distractor; these are the coordinates for the mouth during speech. Option D is a near-miss distractor; the time is correct for the eyebrow raise, but the bounding box is for the entire face, making it less precise than option B. Option E points to the shoulders. Option F is a video-based distractor; it uses the correct eyebrow location but the wrong time, when the eyebrows were in a neutral position."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator19",
+      "version": 1,
+      "clues_total": 10,
+      "clues_correct": 9,
+      "clues_wrong_corrected": 1,
+      "clues_missing_skipped": 0,
+      "clues_bonus": 0
+    }
+  }
+}

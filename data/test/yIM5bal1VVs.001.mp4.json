@@ -1,0 +1,347 @@
+{
+  "video_id": "yIM5bal1VVs.001.mp4",
+  "video_path": "yIM5bal1VVs.001.mp4",
+  "transcription": "and see the effects it would have on her. It wouldn't be able to bite through because it wouldn't have teeth so she would probably get very ill causing them to cut it out, which is bound to happen at least once an apocalypse. Thoughts?",
+  "original_scores": {
+    "extraversion": 0.4018691588785047,
+    "agreeableness": 0.32967032967032966,
+    "conscientiousness": 0.17475728155339804,
+    "neuroticism": 0.2708333333333333,
+    "openness": 0.28888888888888886
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 15,
+      "description": "The subject's gaze is consistently directed downward, slightly to his right, focusing on an object below the camera (a phone). His eyebrows remain in a neutral, relaxed position. His mouth moves naturally as he speaks, with his lips slightly pursing on words like \"through\" (at 00:04). His overall facial expression is neutral and focused on reading.",
+      "bboxes": [
+        {
+          "frame_time": 0,
+          "x": 0.3075657894736842,
+          "y": 0.2131578947368421,
+          "w": 0.34638157894736843,
+          "h": 0.2,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 0,
+          "x": 0.2631578947368421,
+          "y": 0.18157894736842106,
+          "w": 0.36710526315789477,
+          "h": 0.7315789473684211,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 0,
+          "x": 0.28980263157894737,
+          "y": 0.14473684210526316,
+          "w": 0.34342105263157896,
+          "h": 0.1368421052631579,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 4.979895,
+          "x": 0.3179276315789474,
+          "y": 0.5342105263157895,
+          "w": 0.2501644736842105,
+          "h": 0.19210526315789472,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 4.979895,
+          "x": 0.28980263157894737,
+          "y": 0.16842105263157894,
+          "w": 0.32417763157894736,
+          "h": 0.5605263157894737,
+          "note": "face human-annotated",
+          "region": "face"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 15,
+      "description": "The subject is seated inside a vehicle, leaning slightly forward. His head is tilted down towards a black smartphone held in his hands at the bottom of the frame. His body remains relatively still throughout the video, with only minor head movements synchronized with his speech.",
+      "bboxes": [
+        {
+          "frame_time": 6.799149,
+          "x": 0.3105263157894737,
+          "y": 0.11052631578947368,
+          "w": 0.3404605263157895,
+          "h": 0.7105263157894737,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 6.799149,
+          "x": 0.12549342105263156,
+          "y": 0.5684210526315789,
+          "w": 0.3819078947368421,
+          "h": 0.4105263157894737,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 6.799149,
+          "x": 0.39786184210526315,
+          "y": 0.7052631578947368,
+          "w": 0.4337171052631579,
+          "h": 0.28157894736842104,
+          "note": "pose human-annotated",
+          "region": "torso"
+        },
+        {
+          "frame_time": 6.799149,
+          "x": 0.3179276315789474,
+          "y": 0.12894736842105264,
+          "w": 0.35526315789473684,
+          "h": 0.6763157894736842,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 14.33,
+      "description": "Speech is delivered at a moderate and consistent reading pace with a steady, mid-range pitch. The volume is even. Words are clearly enunciated.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 14.33,
+      "end_time": 15,
+      "description": "The final word, \"Thoughts?\", is spoken with a distinctly rising, questioning intonation.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15,
+      "description": "The subject is a young Black male with short, dark hair. He is wearing a white t-shirt and a pair of on-ear headphones with blue accents. The setting is the interior of a car, with the car's passenger seat and door frame visible. The lighting is bright and appears to be natural daylight coming from the front.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Medium",
+      "score": 0.4,
+      "rationale": "The subject's score falls into the Medium range, reflecting a mix of introverted and extraverted behaviors. Engaging in a video and posing a question ('Thoughts?') to an audience is an outwardly social act. However, this is counterbalanced by strong introverted cues: his gaze is consistently averted from the camera, focused downward on a phone. His body remains still, and his vocal delivery is moderate and steady, lacking the expressive energy and animation typically seen in high extraversion. This reserved presentation style tempers the social nature of the activity.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Low",
+      "score": 0.33,
+      "rationale": "A Low Agreeableness score is supported by the subject's detached and analytical approach to a morbid topic. He discusses illness and surgery in an apocalypse scenario with a neutral facial expression and a steady, unemotional vocal tone. This lack of expressed sympathy or warmth, focusing instead on the functional aspects of the situation, is characteristic of individuals who are more analytical and less driven by communal feeling, aligning with lower agreeableness.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Very Low",
+      "score": 0.17,
+      "rationale": "The subject's presentation appears highly spontaneous and unplanned, which is consistent with a Very Low Conscientiousness score. He is in a casual setting (a car) and is reading directly from a phone rather than delivering a prepared statement. The lack of preparation, formal structure, and polish suggests a preference for impromptu action over diligent, organized effort. The entire segment feels informal and unscripted.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Low",
+      "score": 0.27,
+      "rationale": "The subject demonstrates high emotional stability, supporting a Low Neuroticism score. His demeanor is consistently calm and composed. His voice is steady in pitch and volume, his eyebrows are relaxed, and his body is still. There are no signs of anxiety, stress, or self-consciousness, such as fidgeting or vocal fillers. This unflustered state, even while reading for an audience, points to a low level of neuroticism.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "Low",
+      "score": 0.29,
+      "rationale": "The Low Openness score is justified by the subject's concrete and unembellished approach. Although the topic is imaginative (an apocalypse), his focus is purely practical ('it wouldn't have teeth,' 'cut it out'). His vocal tone is steady and lacks the enthusiasm or curiosity that often accompanies high Openness. Furthermore, his neutral facial expression and the act of reading a pre-written prompt, rather than generating novel ideas, suggest a preference for the conventional and straightforward.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During 0.0s - 15.0s, the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A very low level of Conscientiousness."
+        },
+        {
+          "id": "B",
+          "text": "A moderately high level of Openness."
+        },
+        {
+          "id": "C",
+          "text": "A very high level of Agreeableness."
+        },
+        {
+          "id": "D",
+          "text": "A moderately low level of Neuroticism."
+        },
+        {
+          "id": "E",
+          "text": "A high degree of the Extraversion trait."
+        },
+        {
+          "id": "F",
+          "text": "A very high level of Conscientiousness."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. The person is reading directly from a phone in a casual setting (a car), indicating a spontaneous, unplanned, and unpolished presentation. This is the strongest evidence for Low Conscientiousness.\n- Option B is a text-based distractor because the person's approach is practical and concrete, not imaginative, which contradicts high Openness.\n- Option C is a text-based distractor because the topic discussed is morbid and the person's tone is detached, which contradicts high Agreeableness.\n- Option D is a video-based distractor because while the person does exhibit Low Neuroticism (calm demeanor, steady voice), this trait is less directly supported by the specific act of being unprepared than Conscientiousness is.\n- Option E is a video-based distractor because while making a video has extraverted elements, the averted gaze and reserved delivery support Medium, not High, Extraversion.\n- Option F is a near-miss distractor because it correctly identifies the relevant personality dimension (Conscientiousness) but gets the direction wrong; the evidence points strongly toward low, not high, conscientiousness."
+    },
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their analytical approach?",
+      "options": [
+        {
+          "id": "A",
+          "text": "0.2s - 1.5s"
+        },
+        {
+          "id": "B",
+          "text": "6.1s - 7.4s"
+        },
+        {
+          "id": "C",
+          "text": "8.8s - 10.1s"
+        },
+        {
+          "id": "D",
+          "text": "11.5s - 12.8s"
+        },
+        {
+          "id": "E",
+          "text": "14.1s - 15.0s"
+        },
+        {
+          "id": "F",
+          "text": "3.7s - 5.0s"
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The correct answer is F. The observation log specifically notes a subtle micro-expression: 'his mouth...shows a subtle tightening of the lips on words like 'through' (at 00:04Hour)'. This is the most distinct, localized facial change mentioned in the data.\n- Option A is a video-based distractor marking the start of his speech, which involves movement but not a distinct micro-expression change.\n- Options B, C, and D are text-based distractors; they are plausible time intervals within the video where nothing of specific note occurs regarding facial expressions.\n- Option E is a video-based distractor corresponding to the end of the video, where the speaker asks 'Thoughts?' with an upward inflection. While this is an audible change, the question asks for a facial or micro-expression change, and the most notable one occurs earlier.\n- A near-miss is not easily implemented in this format, but one could consider Option B a near-miss if it were closer to the correct time."
+    },
+    {
+      "category": "Temporal-Causal Reasoning",
+      "question": "Consider the sequence of behaviors observed across the video. Which of the following best describes the causal chain linking the person's actions at different moments?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Social engagement intent (start) is managed via attentional diversion (middle), leading to a direct interaction bid (end)."
+        },
+        {
+          "id": "B",
+          "text": "An external distraction (start) forces focus onto a script (middle), concluding with a final summary statement (end)."
+        },
+        {
+          "id": "C",
+          "text": "A need for clarity (start) prompts a scripted delivery (middle), which is followed by a rhetorical flourish to close (end)."
+        },
+        {
+          "id": "D",
+          "text": "Anxious feelings (start) are regulated by focusing on an object (middle), resulting in an abrupt, questioning finish (end)."
+        },
+        {
+          "id": "E",
+          "text": "A direct interaction bid (start) leads to self-monitoring (middle), causing a retreat into a prepared reading (end)."
+        },
+        {
+          "id": "F",
+          "text": "A creative thought (start) becomes a structured monologue (middle), ending with a direct challenge to the audience (end)."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. This option correctly abstracts the sequence: The act of recording is an 'intent to engage socially'. His introverted tendency (Medium Extraversion) is 'managed' by diverting attention to the phone instead of the camera. The video concludes with 'Thoughts?', a 'direct interaction bid'.\n- Option B is a text-based distractor because there is no evidence of an 'external distraction'; the phone is the intended focus from the beginning.\n- Option C is a near-miss distractor. The chain is plausible, but it misinterprets the motive as 'clarity' (when it's more likely social management) and the ending as a 'rhetorical flourish' (when it's a direct question).\n- Option D is a video-based distractor that incorrectly assumes 'anxious feelings' are the cause, which is contradicted by the Low Neuroticism analysis.\n- Option E is a distractor with reversed temporal order. The video starts with the reading and ends with the interaction bid, not the other way around.\n- Option F is a text-based distractor. The reading from a phone suggests the content is not a 'creative thought' being formalized in the moment, and the ending is a question, not a 'challenge'."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 0.0s, a region was detected in the video (x=0.263, y=0.182, w=0.367, h=0.732, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Head and eyes focused downward on an object out of view."
+        },
+        {
+          "id": "B",
+          "text": "Mouth muscles showing a brief, subtle tightening motion."
+        },
+        {
+          "id": "C",
+          "text": "Facial expression remaining consistently neutral and stable."
+        },
+        {
+          "id": "D",
+          "text": "Hands gripping a smartphone near the bottom of the screen."
+        },
+        {
+          "id": "E",
+          "text": "Torso and shoulders being held in a relatively still pose."
+        },
+        {
+          "id": "F",
+          "text": "Head being held in a slightly lowered, downward-tilted angle."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. The provided coordinates (x=0.263, y=0.182, w=0.367, h=0.732) define a large bounding box that covers the entire head and neck area. The most specific and prominent action associated with the head region in the video is that it is oriented downward, with the gaze focused on the phone.\n- Option B is a video-based distractor; this action occurs, but in a much smaller region corresponding to the mouth, not the entire head.\n- Option C is a video-based distractor describing the overall face, but 'focused downward' is a more specific and primary action for the entire head region.\n- Options D and E are video-based distractors referencing actions in completely different body regions (hands and torso) that are outside the specified bounding box.\n- Option F is a near-miss distractor. While the head is indeed lowered, option A is more precise by including the element of 'focus' on an object, which is the reason for the head's position."
+    },
+    {
+      "category": "Counterfactual Reasoning",
+      "question": "If the person had NOT exhibited the behavior observed around 0.0s - 15.0s (reading from an object below the camera), which of the following personality assessments would be MOST affected?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Conscientiousness would be assessed as higher, as the main evidence for an unplanned approach would be removed."
+        },
+        {
+          "id": "B",
+          "text": "Neuroticism would be judged as higher, since focusing on a device is a common way to manage social anxiety."
+        },
+        {
+          "id": "C",
+          "text": "Agreeableness would be assessed as lower, as a formal speech can seem more detached than a casual reading."
+        },
+        {
+          "id": "D",
+          "text": "Extraversion would be harder to judge, given that averting his gaze is a key indicator of his introversion."
+        },
+        {
+          "id": "E",
+          "text": "Openness would be assessed as much lower, suggesting a greater reliance on external, pre-existing information."
+        },
+        {
+          "id": "F",
+          "text": "Conscientiousness would be judged as lower, because using a tool for communication is an efficient method."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. The primary evidence for the 'Very Low Conscientiousness' score is the spontaneous, unprepared nature of the presentation, signified by reading from a phone in a car. Removing this behavior would remove the strongest evidence for this trait, likely leading to a higher assessment.\n- Option B is a text-based distractor. It presents a plausible psychological theory, but the video evidence (calm voice, relaxed posture) points to low neuroticism, so removing the phone wouldn't logically increase this score.\n- Option C is a text-based distractor. The link between formality and agreeableness is weak and not supported by other cues in the video.\n- Option D is a video-based distractor. While removing the phone would change the gaze behavior, the Extraversion assessment is also based on his moderate vocal energy and the act of making a video itself, so it would be affected, but less directly than Conscientiousness.\n- Option E is a text-based distractor. The Low Openness score is based more on the concrete content of his speech than the act of reading it; removing the reading wouldn't necessarily change the content's nature.\n- Option F is a near-miss distractor. It correctly identifies Conscientiousness as the most affected trait but incorrectly reasons that the score would decrease and provides a flawed rationale."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator14",
+      "version": 1,
+      "clues_total": 13,
+      "clues_correct": 11,
+      "clues_wrong_corrected": 1,
+      "clues_missing_skipped": 1,
+      "clues_bonus": 0
+    }
+  }
+}

@@ -1,0 +1,448 @@
+{
+  "video_id": "bAxlTgobVHE.005.mp4",
+  "video_path": "bAxlTgobVHE.005.mp4",
+  "transcription": "It makes me feel bad for you. Cost of living, and is it expensive here or not? It depends on where you live, if you live in the country, it is relatively cheap, if you live in the city, I think any city, it's relatively expensive.",
+  "original_scores": {
+    "extraversion": 0.4205607476635514,
+    "agreeableness": 0.5714285714285714,
+    "conscientiousness": 0.7281553398058251,
+    "neuroticism": 0.6145833333333333,
+    "openness": 0.7555555555555554
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 0.51,
+      "description": "The subject's gaze is directed up and to her right, as if in thought. Her eyebrows are neutral and her mouth is slightly parted.",
+      "bboxes": [
+        {
+          "frame_time": 0,
+          "x": 0.41710526315789476,
+          "y": 0.25263157894736843,
+          "w": 0.1169407894736842,
+          "h": 0.0868421052631579,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 0,
+          "x": 0.42450657894736843,
+          "y": 0.2026315789473684,
+          "w": 0.14210526315789473,
+          "h": 0.11315789473684211,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 0.375612,
+          "x": 0.42894736842105263,
+          "y": 0.4,
+          "w": 0.10953947368421053,
+          "h": 0.09210526315789473,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 0.51,
+      "end_time": 6.88,
+      "description": "Her gaze shifts forward towards the camera. Her eyebrows raise and lower in sync with her speech for emphasis. She maintains a slight smile while speaking, with her eyes wide and engaged.",
+      "bboxes": [
+        {
+          "frame_time": 4.155971,
+          "x": 0.28536184210526316,
+          "y": 0.26052631578947366,
+          "w": 0.17911184210526315,
+          "h": 0.2710526315789474,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 0.51,
+          "x": 0.40230263157894736,
+          "y": 0.2,
+          "w": 0.1569078947368421,
+          "h": 0.13421052631578947,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 0.51,
+          "x": 0.42154605263157896,
+          "y": 0.3684210526315789,
+          "w": 0.12582236842105263,
+          "h": 0.14473684210526316,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 6.88,
+      "end_time": 7.72,
+      "description": "Her gaze lowers slightly and her expression becomes more neutral as she pauses briefly in thought.",
+      "bboxes": [
+        {
+          "frame_time": 7.096993,
+          "x": 0.42450657894736843,
+          "y": 0.2736842105263158,
+          "w": 0.12582236842105263,
+          "h": 0.12368421052631579,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 7.096993,
+          "x": 0.4126644736842105,
+          "y": 0.2394736842105263,
+          "w": 0.13026315789473683,
+          "h": 0.2657894736842105,
+          "note": "face human-annotated",
+          "region": "face"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 7.72,
+      "end_time": 15,
+      "description": "Gaze returns to the camera. Her eyebrows continue to raise and lower to add emphasis to her words, particularly on \"country\" and \"city.\" Her expression remains open and conversational.",
+      "bboxes": [
+        {
+          "frame_time": 7.72,
+          "x": 0.40970394736842103,
+          "y": 0.26052631578947366,
+          "w": 0.1317434210526316,
+          "h": 0.12105263157894737,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 7.72,
+          "x": 0.41710526315789476,
+          "y": 0.28157894736842104,
+          "w": 0.1317434210526316,
+          "h": 0.28421052631578947,
+          "note": "face human-annotated",
+          "region": "face"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 15,
+      "description": "The subject is sitting on the floor, facing the camera from the chest up. Her posture is upright and largely static. She makes small, periodic head nods and tilts to the right that coincide with the rhythm of her speech. Her shoulders remain relaxed.",
+      "bboxes": [
+        {
+          "frame_time": 4.034761,
+          "x": 0.24095394736842105,
+          "y": 0.5421052631578948,
+          "w": 0.37154605263157897,
+          "h": 0.30526315789473685,
+          "note": "human-annotated",
+          "region": "unknown"
+        },
+        {
+          "frame_time": 4.034761,
+          "x": 0.2868421052631579,
+          "y": 0.4342105263157895,
+          "w": 0.25164473684210525,
+          "h": 0.3631578947368421,
+          "note": "pose human-annotated",
+          "region": "torso"
+        },
+        {
+          "frame_time": 4.034761,
+          "x": 0.23799342105263158,
+          "y": 0.10789473684210527,
+          "w": 0.2338815789473684,
+          "h": 0.45526315789473687,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 4.034761,
+          "x": 0.1625,
+          "y": 0.4473684210526316,
+          "w": 0.46480263157894736,
+          "h": 0.33421052631578946,
+          "note": "pose human-annotated",
+          "region": "shoulders"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 0.6,
+      "description": "A non-speech sound of rustling paper is audible.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 6.7,
+      "end_time": 15,
+      "description": "The speaking pace remains consistent. Key words such as \"country,\" \"cheap,\" and \"city\" receive slight stress with a minor increase in pitch. The pitch consistently falls at the end of each clause, creating a definitive, explanatory tone.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15,
+      "description": "The subject is a woman with dark hair pulled back, a medium skin tone, and is wearing a white halter top, dark red lipstick, and winged eyeliner. The setting is a brightly lit indoor living space with white walls and a light wood floor. In the background, a gray sofa with a maroon cushion and a laptop is visible to the left. A colorful abstract painting hangs on the wall above the sofa. To the right is a white modular shelving unit and a black-and-white graphic decal on the wall. A colorful patterned rug is on the floor in the foreground.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Medium",
+      "score": 0.42,
+      "rationale": "The subject's Extraversion is rated as Medium. She demonstrates sociability by directly addressing the camera with an open, conversational expression and a smile. Her use of eyebrow movements for emphasis indicates expressive engagement. However, this is balanced by a largely still and upright posture with relaxed shoulders, suggesting a controlled rather than overtly high-energy presentation. This combination of social expressiveness and physical composure supports a moderate level of extraversion.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Medium",
+      "score": 0.57,
+      "rationale": "The subject's Agreeableness is rated as Medium. Her warm, smiling expression and pleasant, explanatory vocal tone create a friendly and cooperative demeanor. The opening statement, \"It makes me feel bad for you,\" can be interpreted as an expression of empathy. The overall interaction is pleasant and non-confrontational. These cues of warmth and approachability are consistent with a medium level of agreeableness, indicating a generally harmonious but not effusively accommodating interpersonal style.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "High",
+      "score": 0.73,
+      "rationale": "The subject's Conscientiousness is rated as High. This is supported by the structured and logical nature of her response. She breaks down a complex question ('is it expensive?') into a nuanced answer ('It depends...'), providing a clear, comparative explanation. Brief pauses and initial eye movements upwards suggest careful thought formulation. The deliberate vocal emphasis on keywords ('country,' 'city,' 'cheap') and consistent explanatory tone reflect a methodical and purposeful communication style, characteristic of high conscientiousness.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "High",
+      "score": 0.61,
+      "rationale": "The subject's Neuroticism is rated as High. While she does not display overt anxiety, subtle cues align with this trait. The opening statement expressing concern for the listener ('It makes me feel bad for you') can be seen as a manifestation of worry. Additionally, the brief moments of breaking eye contact — looking up to think at the beginning and glancing down mid-thought — can be interpreted as subtle signs of self-monitoring or cognitive load associated with the desire to answer correctly, which can be linked to the self-consciousness facet of neuroticism.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "High",
+      "score": 0.76,
+      "rationale": "The subject's Openness is rated as High. This is strongly indicated by her cognitive style. She eschews a simple answer in favor of a nuanced, analytical response that considers different conditions ('if you live in the country' vs. 'in the city'). This appreciation for complexity is a core feature of high openness. Furthermore, the background environment, which includes colorful abstract art and graphic wall decals, suggests an aesthetic sensibility and an appreciation for novelty and artistic expression, which are behavioral markers of this trait.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During 7.7s - 15.0s, the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "High Agreeableness, due to her calm and friendly tone of voice."
+        },
+        {
+          "id": "B",
+          "text": "Low Extraversion, seen in her generally still and composed posture."
+        },
+        {
+          "id": "C",
+          "text": "Low Conscientiousness, given the simple nature of the question."
+        },
+        {
+          "id": "D",
+          "text": "High Neuroticism, indicated by her initial thoughtful hesitation."
+        },
+        {
+          "id": "E",
+          "text": "High Conscientiousness, supported by the structured, logical reply."
+        },
+        {
+          "id": "F",
+          "text": "High Openness, because of the abstract artwork seen in the room."
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. During this period, the person provides a nuanced, structured answer, breaking down the question into two conditions ('country' vs. 'city'). This methodical and logical communication style is a strong indicator of High Conscientiousness.\n- Option A is a text-based distractor. While her tone is friendly (related to Agreeableness), the primary evidence in this specific time range is the *structure* of her thought process, which points to Conscientiousness.\n- Option B is a near-miss distractor. She is composed, but her expressiveness (eyebrow movements, direct address) points away from Low Extraversion. The behavior in this segment is less about energy level and more about cognitive organization.\n- Option C is a text-based distractor. It makes a plausible but incorrect assumption that the question's simplicity implies a lack of conscientiousness, which is contradicted by her detailed answer.\n- Option D is a video-based distractor. The thoughtful hesitation occurs at the very beginning of the video (0.0s - 0.5s), not in the 7.7s - 15.0s range specified in the question.\n- Option F is a video-based distractor. The artwork supports High Openness, but it is a static background element, not a behavior exhibited during the specified time range. The question asks about the behavior, which is her structured speech."
+    },
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their Conscientiousness level?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[1.5s - 2.3s]"
+        },
+        {
+          "id": "B",
+          "text": "[11.2s - 12.0s]"
+        },
+        {
+          "id": "C",
+          "text": "[4.1s - 4.9s]"
+        },
+        {
+          "id": "D",
+          "text": "[9.5s - 10.3s]"
+        },
+        {
+          "id": "E",
+          "text": "[6.9s - 7.7s]"
+        },
+        {
+          "id": "F",
+          "text": "[0.0s - 0.8s]"
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. The interval [6.9s - 7.7s] marks a distinct micro-expression shift where the person's expression becomes neutral, her smile drops, and her gaze shifts down briefly. This pause for thought is a key indicator of her methodical and conscientious approach to formulating a structured answer.\n- Option A is a video-based distractor. This interval is in the middle of her continuous, smiling explanation and shows no notable change.\n- Option B is a video-based distractor. Similar to A, this interval shows the continuation of her explanatory expression without a significant shift.\n- Option C is a video-based distractor. This interval is also part of her stable, smiling delivery from the first half of her answer.\n- Option D is a video-based distractor. This interval is within the second phase of her explanation, where her expression is consistently open and conversational.\n- Option F is a near-miss distractor. This interval captures her initial moment of thought, which is also relevant, but the more distinct and transitional *change* in expression occurs at [6.9s - 7.7s] as she shifts from one part of her answer to the next."
+    },
+    {
+      "category": "Mixed Emotion Discrimination",
+      "question": "During 0.0s - 0.5s, the person's emotional state is best characterized as which of the following? Consider both verbal and non-verbal cues.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mild apprehension tempered by a desire to appear socially engaged."
+        },
+        {
+          "id": "B",
+          "text": "Pensive reflection on the topic tempered by a hint of weariness."
+        },
+        {
+          "id": "C",
+          "text": "Polite amusement at the question mixed with a feeling of warmth."
+        },
+        {
+          "id": "D",
+          "text": "Deep concentration on the task mixed with a degree of impatience."
+        },
+        {
+          "id": "E",
+          "text": "Focused contemplation on the question mixed with initial uncertainty."
+        },
+        {
+          "id": "F",
+          "text": "Resigned acceptance of the topic mixed with a sense of nostalgia."
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. In this brief initial phase, the person's eyes move up and left, her eyebrows are neutral, and her mouth is slightly open. This combination strongly suggests a moment of cognitive effort—'focused contemplation'—as she processes the question and formulates her answer. The upward gaze can indicate 'initial uncertainty' or memory recall before speaking.\n- Option A is a text-based distractor. While 'socially engaged' is a theme later, there's no clear evidence of 'apprehension' in her neutral expression.\n- Option B is a near-miss distractor. 'Pensive reflection' is close to 'contemplation', but there are no visual cues (like slumping or sighing) to support 'weariness'.\n- Option C is a video-based distractor. This describes her emotional state later in the video (e.g., 0.5s - 6.9s), when she is actively smiling and speaking, not during the initial silent pause.\n- Option D is a text-based distractor. 'Deep concentration' is plausible, but there are no cues like a furrowed brow or tense posture to suggest 'impatience'.\n- Option F is a text-based distractor. Neither 'resigned acceptance' nor 'nostalgia' is supported by the context or the person's neutral, forward-looking expression."
+    },
+    {
+      "category": "Temporal-Causal Reasoning",
+      "question": "Consider the sequence of behaviors observed across the video. Which of the following best describes the causal chain linking the person's actions at different moments?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A self-monitoring pause leads to an expressive primary statement, which is followed by the initial cognitive planning phase for the whole conversation."
+        },
+        {
+          "id": "B",
+          "text": "An expressive primary statement prompts a moment of cognitive planning, which in turn causes a brief self-monitoring pause before continuing the answer."
+        },
+        {
+          "id": "C",
+          "text": "Emotional regulation efforts result in an initial moment of cognitive planning, which is then compensated for by a highly expressive primary statement."
+        },
+        {
+          "id": "D",
+          "text": "An initial expressive statement is met with internal conflict, leading to a self-monitoring pause that is then followed by cognitive restructuring."
+        },
+        {
+          "id": "E",
+          "text": "Initial cognitive planning leads to an expressive primary statement, which is then followed by a brief self-monitoring pause to structure a later point."
+        },
+        {
+          "id": "F",
+          "text": "A brief self-monitoring pause precedes a secondary expressive statement, which was caused by the initial, less-structured phase of cognitive planning."
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. This option accurately maps the observed sequence: 1) The person first engages in 'initial cognitive planning' (0.0s-0.5s, looking up to think). 2) This leads to the 'expressive primary statement' (0.5s-6.9s, smiling and explaining). 3) This is then followed by a 'brief self-monitoring pause' (6.9s-7.7s, neutral face, looks down) to organize the next part of the explanation.\n- Option A is a distractor with reversed temporal order. The cognitive planning happens first, not last.\n- Option B is a distractor with an incorrect causal link. The expressive statement doesn't cause the planning; the planning causes the statement.\n- Option C is a text-based distractor. It introduces 'emotional regulation efforts' and 'compensation', which are plausible psychological concepts but are not directly evidenced in the video's behavioral chain.\n- Option D is a text-based distractor. It speculates about 'internal conflict' and 'cognitive restructuring' without direct evidence. The pause appears more organizational than conflict-driven.\n- Option F is a near-miss distractor. It gets the elements right but slightly scrambles the causality, suggesting the pause precedes a statement that was caused by the planning, which is a less precise description of the flow than E."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 0.4s, a region was detected in the video (x=0.429, y=0.400, w=0.110, h=0.092, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A neutral facial expression showing a brief moment of thought."
+        },
+        {
+          "id": "B",
+          "text": "A set of eyebrows raising slightly to provide verbal emphasis."
+        },
+        {
+          "id": "C",
+          "text": "The subject's eyes looking directly forward toward the camera."
+        },
+        {
+          "id": "D",
+          "text": "A subtle smile being formed while beginning to speak a phrase."
+        },
+        {
+          "id": "E",
+          "text": "A mouth slightly parted as the subject prepares to begin speaking."
+        },
+        {
+          "id": "F",
+          "text": "An upright and largely stationary posture maintained by the torso."
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. The provided bounding box at 0.4s precisely frames the person's mouth. At this exact moment, just before she begins to speak, her mouth is slightly open in a neutral, preparatory state, as described in the observation cues for [0.0s - 0.5s].\n- Option A is a video-based distractor. This describes the overall face at this time, but the question asks about the specific region of the bounding box, which is the mouth.\n- Option B is a video-based distractor. Eyebrow movement for emphasis occurs later in the video (e.g., after 0.5s) and is located in a different facial region (the upper face).\n- Option C is a video-based distractor. The eyes look forward *after* this moment (starting at 0.5s), and the bbox is on the mouth, not the eyes.\n- Option D is a near-miss distractor. A smile is formed shortly after this moment, but at 0.4s, the expression in the mouth region is neutral and preparatory, not yet a smile.\n- Option F is a text-based distractor. The posture is maintained by the torso, a completely different and much larger body region than the small bbox on the face."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "At what point does the person use a distinct facial gesture to add emphasis to a key concept in their explanation?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[0.5s] in bbox (x=0.410, y=0.261, w=0.132, h=0.121)"
+        },
+        {
+          "id": "B",
+          "text": "[7.7s] in bbox (x=0.417, y=0.282, w=0.132, h=0.284)"
+        },
+        {
+          "id": "C",
+          "text": "[4.2s] in bbox (x=0.285, y=0.261, w=0.179, h=0.271)"
+        },
+        {
+          "id": "D",
+          "text": "[7.7s] in bbox (x=0.410, y=0.201, w=0.132, h=0.121)"
+        },
+        {
+          "id": "E",
+          "text": "[7.7s] in bbox (x=0.410, y=0.261, w=0.132, h=0.121)"
+        },
+        {
+          "id": "F",
+          "text": "[10.1s] in bbox (x=0.350, y=0.350, w=0.150, h=0.150)"
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. At 7.7s, as she begins to draw a comparison, she uses her eyebrows for emphasis. The provided coordinates (x=0.410, y=0.261, w=0.132, h=0.121) accurately capture the eyebrow region at that specific time, as documented in the observation cues.\n- Option A is a video-based distractor. It uses the correct eyebrow bounding box but at the wrong time (0.5s), before the specific emphasis occurs.\n- Option B is a video-based distractor. It uses the correct timestamp (7.7s) but provides a bounding box for the entire lower half of the face, not the specific eyebrow region where the emphasis gesture is happening.\n- Option C is a text-based distractor. This timestamp and bounding box correspond to her eyes during the middle of her first sentence, not an emphatic gesture.\n- Option D is a near-miss distractor. It has the correct time (7.7s) but the bounding box is shifted vertically (y=0.201), placing it on her forehead above the eyebrows, thus missing the correct location of the action.\n- Option F is a text-based distractor. This is a plausible but incorrect combination of a timestamp and a bounding box that does not correspond to a meaningful action of emphasis."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator14",
+      "version": 1,
+      "clues_total": 20,
+      "clues_correct": 16,
+      "clues_wrong_corrected": 1,
+      "clues_missing_skipped": 3,
+      "clues_bonus": 0
+    }
+  }
+}

@@ -1,0 +1,416 @@
+{
+  "video_id": "Agg7z10B_iY.003.mp4",
+  "video_path": "Agg7z10B_iY.003.mp4",
+  "transcription": "Anything. You can video everything. To create a story, you need to learn stories, to do that you got to broaden your horizons, meet new people. Just learn new things about life in general so that you can just kind of...",
+  "original_scores": {
+    "extraversion": 0.588785046728972,
+    "agreeableness": 0.7582417582417583,
+    "conscientiousness": 0.5339805825242718,
+    "neuroticism": 0.6354166666666666,
+    "openness": 0.8999999999999999
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 13.33,
+      "description": "The subject maintains direct eye contact with the camera. His eyebrows are slightly raised, and his eyes are open. His mouth moves naturally as he speaks.",
+      "bboxes": [
+        {
+          "frame_time": 0,
+          "x": 0.4015625,
+          "y": 0.27192982121517784,
+          "w": 0.20575657894736843,
+          "h": 0.35789473684210527,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 13.33,
+      "end_time": 15.22,
+      "description": "Subject's gaze moves downward, head tilts down and to the left, with mouth slightly open.",
+      "bboxes": [
+        {
+          "frame_time": 14.571472,
+          "x": 0.3941611842105263,
+          "y": 0.1429824527941252,
+          "w": 0.24572368421052632,
+          "h": 0.7394736842105263,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 9.7,
+      "description": "The subject is sitting in the driver's seat of a car, wearing a seatbelt and facing forward towards the camera. His body is relatively still.",
+      "bboxes": [
+        {
+          "frame_time": 8.368326,
+          "x": 0.3438322368421053,
+          "y": 0.15350876858359888,
+          "w": 0.3212171052631579,
+          "h": 0.7157894736842105,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 9.7,
+      "end_time": 11.23,
+      "description": "The subject raises his right hand to the right side of the frame in an illustrative gesture.",
+      "bboxes": [
+        {
+          "frame_time": 10.211895,
+          "x": 0.7938322368421054,
+          "y": 0.38508771595201996,
+          "w": 0.1998355263157895,
+          "h": 0.48157894736842105,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 11.23,
+      "end_time": 13.33,
+      "description": "The subject's right hand is lowered out of the frame.",
+      "bboxes": [
+        {
+          "frame_time": 11.692544,
+          "x": 0.7050164473684211,
+          "y": 0.5929824527941252,
+          "w": 0.23536184210526317,
+          "h": 0.2894736842105263,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 13.33,
+      "end_time": 15.22,
+      "description": "The subject tilts his head down and simultaneously brings his left hand, holding a phone, up towards his head, pointing his index finger at the side of his cap.",
+      "bboxes": [
+        {
+          "frame_time": 14.745427,
+          "x": 0.6354440789473684,
+          "y": 0.4403508738467568,
+          "w": 0.2575657894736842,
+          "h": 0.45263157894736844,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 14.2,
+      "description": "Speech is delivered at a moderately fast and continuous pace with a clear, consistent volume. The pitch is in a mid-to-high range with natural inflections. There is a slight stress placed on the word \"everything\" at 0:01.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 14.2,
+      "end_time": 15.22,
+      "description": "The final phrase, \"just kind of,\" is spoken at a slightly lower volume with a falling pitch.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.22,
+      "description": "The subject is a young Black man with a short beard and mustache. He is wearing a dark grey henley-style shirt, a thin gold necklace, and a dark blue Nike baseball cap. He is sitting in the driver's seat of a car with a light-colored interior, a visible seatbelt, dark-colored rear seats, and a sunroof. Through the side window, a moving background of buildings and greenery is visible. The lighting appears to be natural daylight.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Medium",
+      "score": 0.59,
+      "rationale": "The subject's Extraversion is assessed as Medium. He displays sociable characteristics, such as maintaining direct eye contact with the camera and using illustrative hand gestures to emphasize his points. His speech is delivered at a moderately fast pace, indicating social energy. However, this is balanced by a relatively still posture for much of the clip and a moment where he breaks fluency, looks down, and trails off, suggesting that his energy is not consistently and intensely directed outward, which is more typical of a moderate rather than very high level of extraversion.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "High",
+      "score": 0.76,
+      "rationale": "The subject's score indicates a High level of Agreeableness. His overall demeanor is open and engaging. The consistent, direct eye contact combined with natural facial expressions projects a sense of trustworthiness and sincerity. His tone is calm and even, lacking any sign of hostility or skepticism. Furthermore, the content of his speech, which encourages meeting new people, reflects a pro-social and cooperative mindset consistent with high agreeableness.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Medium",
+      "score": 0.53,
+      "rationale": "The subject's Conscientiousness is rated as Medium. While his speech follows a logical progression, building a point about storytelling, it culminates in an unfinished thought ('so that you can just kind of...'). This suggests a degree of spontaneity and a lack of meticulous pre-planning in his communication. The setting, recording a video while in a car, also points to a flexible and improvisational approach rather than a highly structured one, aligning with a mid-range score on this dimension.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "High",
+      "score": 0.64,
+      "rationale": "The subject exhibits behaviors consistent with a High level of Neuroticism. The moderately fast, continuous pace of his speech can be an indicator of nervous energy. More significantly, the sequence towards the end, where his gaze shifts downward, his speech falters, and he brings his hand to his head, suggests a moment of self-consciousness or mental blocking. This brief break in composure and apparent self-monitoring are behavioral markers for heightened anxiety and self-doubt, which are core facets of Neuroticism.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "Very High",
+      "score": 0.9,
+      "rationale": "The subject's Openness is rated as Very High, a conclusion strongly supported by the verbal content of the video. His message is a direct endorsement of the core tenets of Openness: 'broaden your horizons,' 'meet new people,' and 'learn new things about life.' This explicit appreciation for novel experiences, intellectual curiosity, and creativity is the defining characteristic of this trait. The act of creating a video to share these abstract ideas further reinforces his imaginative and intellectually engaged nature.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During 13.3s - 15.2s, the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Low Conscientiousness, reflecting a lack of task-focused completion."
+        },
+        {
+          "id": "B",
+          "text": "High Extraversion, reflecting an outward display of social energy."
+        },
+        {
+          "id": "C",
+          "text": "Low Agreeableness, reflecting a potential critical self-judgment."
+        },
+        {
+          "id": "D",
+          "text": "High Openness, reflecting an engagement with abstract ideation."
+        },
+        {
+          "id": "E",
+          "text": "High Conscientiousness, reflecting a dedication to planned speech."
+        },
+        {
+          "id": "F",
+          "text": "High Neuroticism, reflecting a momentary lapse in composure."
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The behavior in this time range includes a downward gaze shift, faltering speech, and a hand-to-head gesture, which are classic indicators of self-consciousness and anxiety. Option F is correct because these are key behavioral markers for High Neuroticism. \nOption A is a near-miss distractor; while trailing off can suggest lower conscientiousness, the accompanying non-verbal cues point more strongly to an emotional state (Neuroticism) than a trait related to organization. \nOption B is a video-based distractor, as High Extraversion is supported by his energetic speech and gestures earlier in the video (0s-11s), but this specific segment shows the opposite. \nOption D is a video-based distractor because High Openness is supported by his verbal content throughout the video, not by this specific behavioral pattern. \nOptions C and E are text-based distractors; they are plausible personality traits but are not supported or are directly contradicted by the evidence in this specific time segment."
+    },
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their Neuroticism level?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[0.0s - 1.5s]"
+        },
+        {
+          "id": "B",
+          "text": "[3.5s - 5.0s]"
+        },
+        {
+          "id": "C",
+          "text": "[6.8s - 8.2s]"
+        },
+        {
+          "id": "D",
+          "text": "[9.7s - 11.2s]"
+        },
+        {
+          "id": "E",
+          "text": "[11.5s - 13.0s]"
+        },
+        {
+          "id": "F",
+          "text": "[13.3s - 15.2s]"
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The personality analysis links the subject's High Neuroticism score to a moment of self-consciousness, mental blocking, and a break in composure. This corresponds directly to the interval from 13.3s to 15.2s, where his gaze shifts downward, his head tilts, and his speech falters. Therefore, F is the correct answer. \nAll other options are video-based distractors. They are valid time intervals within the video, but they feature a relatively stable and engaged facial expression consistent with his ongoing speech, not the specific break in composure that indicates heightened Neuroticism. Option D, for instance, corresponds to a hand gesture, but his facial expression remains consistent during that time."
+    },
+    {
+      "category": "Mixed Emotion Discrimination",
+      "question": "During 13.3s - 15.2s, the person's emotional state is best characterized as which of the following? Consider both verbal and non-verbal cues.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Deep contemplation mixed with a sense of quiet frustration."
+        },
+        {
+          "id": "B",
+          "text": "Somber reflection tempered by a feeling of mild annoyance."
+        },
+        {
+          "id": "C",
+          "text": "Resigned disappointment mixed with a hint of social fatigue."
+        },
+        {
+          "id": "D",
+          "text": "Feigned confusion tempered by a subtle, underlying sarcasm."
+        },
+        {
+          "id": "E",
+          "text": "Wistful regret mixed with a feeling of detached analysis."
+        },
+        {
+          "id": "F",
+          "text": "Anxious self-consciousness mixed with cognitive searching."
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "This period shows the subject breaking eye contact, looking down, touching his head, and trailing off ('just kind of...'). This combination of verbal and non-verbal cues strongly suggests an internal struggle, fitting the description of anxious self-consciousness (the break in composure) mixed with cognitive searching (trying to find the right words). Therefore, F is the most accurate characterization.\nOption A is a near-miss distractor; 'contemplation' is plausible, but it misses the clear non-verbal signals of anxiety and self-consciousness. \nOptions B and C are text-based distractors; they represent plausible negative emotional states but do not align as well with the specific cues of a mental block and self-monitoring. \nOption D is a text-based distractor because there is no evidence of sarcasm or feigning. \nOption E is a text-based distractor as 'regret' is too strong and 'detached' is inaccurate for this moment of visible self-consciousness."
+    },
+    {
+      "category": "Temporal-Causal Reasoning",
+      "question": "Consider the sequence of behaviors observed across the video. Which of the following best describes the causal chain linking the person's actions at different moments?",
+      "options": [
+        {
+          "id": "A",
+          "text": "An initial period of anxious hesitation (early) causes a compensatory display of confidence (mid-video), which then leads to a final moment of authentic expression (end)."
+        },
+        {
+          "id": "B",
+          "text": "A self-monitoring behavior (early) prompts an illustrative gesture to clarify a point (mid-video), which is followed by a period of sustained, fluent speech (end)."
+        },
+        {
+          "id": "C",
+          "text": "An external distraction (early) leads to a brief loss of focus (mid-video), followed by a deliberate pause to regain composure before continuing his thought (end)."
+        },
+        {
+          "id": "D",
+          "text": "A period of relaxed storytelling (early) is interrupted by a sudden moment of self-doubt (mid-video), which resolves into a confident, concluding statement (end)."
+        },
+        {
+          "id": "E",
+          "text": "A period of expressive communication (early) leads to a deliberate pause for rhetorical effect (mid-video), culminating in a self-conscious glance away from camera (end)."
+        },
+        {
+          "id": "F",
+          "text": "A phase of energetic ideation (early) increases cognitive load (mid-video), culminating in a self-conscious break in fluency and gaze aversion as he trails off (end)."
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The video shows the subject speaking energetically and coherently at the beginning, suggesting active ideation. This effort culminates in a moment where he seems to lose his train of thought, looking down and faltering. This sequence aligns with the causal chain in F: the effort of speaking ('energetic ideation') leads to a cognitive block ('increased cognitive load'), which results in the observed break in composure ('self-conscious break in fluency').\nOption A is a video-based distractor with reversed temporal order; the video begins with confidence and ends with hesitation, not the other way around.\nOption B is a video-based distractor with incorrect causality and temporal order; the illustrative gesture happens during fluent speech, not before it, and the video ends with faltering speech.\nOption C is a text-based distractor; it presents a plausible narrative, but there is no visual or auditory evidence of an external distraction.\nOption E is a near-miss distractor; it correctly identifies the initial and final states but incorrectly attributes the cause of the break to a 'deliberate pause for rhetorical effect' rather than an involuntary break in fluency."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 14.7s, a region was detected in the video (x=0.635, y=0.440, w=0.258, h=0.453, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "An expressive conversational gesture made with the right hand."
+        },
+        {
+          "id": "B",
+          "text": "A steady and direct gaze maintained forward at the camera."
+        },
+        {
+          "id": "C",
+          "text": "The right hand pointing toward the side of the subject's cap."
+        },
+        {
+          "id": "D",
+          "text": "The lowering of the subject's right arm out of the camera's view."
+        },
+        {
+          "id": "E",
+          "text": "A slight downward tilt of the head accompanied by downward gaze."
+        },
+        {
+          "id": "F",
+          "text": "A self-conscious gesture with the left hand pointing toward the head."
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The specified bounding box at 14.7s precisely isolates the subject's left hand and the phone it's holding as it is brought up towards the side of his head, with his index finger pointing at his cap. Option F accurately describes this action.\nOption C is a near-miss distractor; it correctly identifies the action of pointing toward the cap but incorrectly identifies the hand as the right hand, a subtle but critical error.\nOption A is a video-based distractor describing the gesture from an earlier time segment (around 10.2s).\nOption B is a video-based distractor describing the subject's expression from the first 13 seconds, but at 14.7s his gaze is downward and this bbox is on his hand, not his eyes.\nOption D is a video-based distractor describing the action from around 11.7s.\nOption E is a video-based distractor describing a concurrent action (the head tilt), but the given bbox is specifically focused on the hand gesture, not the overall head position."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "Which of the following timestamp and bounding box combinations best isolates the person's overall, relatively still posture while he is seated and speaking?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[14.7s]  x=0.64, y=0.44, w=0.26, h=0.45"
+        },
+        {
+          "id": "B",
+          "text": "[0.0s]  x=0.40, y=0.27, w=0.21, h=0.36"
+        },
+        {
+          "id": "C",
+          "text": "[14.6s]  x=0.39, y=0.14, w=0.25, h=0.74"
+        },
+        {
+          "id": "D",
+          "text": "[10.2s]  x=0.79, y=0.39, w=0.20, h=0.48"
+        },
+        {
+          "id": "E",
+          "text": "[8.4s]  x=0.34, y=0.15, w=0.32, h=0.72"
+        },
+        {
+          "id": "F",
+          "text": "[11.7s]  x=0.71, y=0.59, w=0.24, h=0.29"
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The question asks to identify the bounding box that captures the subject's overall seated posture. Option E, at 8.4s, provides a wide bounding box (w=0.321, h=0.716) that encompasses his head, torso, and seatbelt, accurately representing his general posture while speaking. \nAll other options are video-based distractors that isolate more specific actions or regions. \nOption A isolates the hand-to-head gesture at the end. \nOption B isolates just the face at the beginning. \nOption C provides a full-body view but at the moment he is tilting his head down, not representing his general posture. \nOption D isolates the illustrative hand gesture. \nOption F isolates his hand as it is being lowered."
+    },
+    {
+      "category": "Counterfactual Reasoning",
+      "question": "If the person had NOT exhibited the behavior observed around 13.3s - 15.2s, which of the following personality assessments would be MOST affected?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The assessment of High Openness would be much less certain, as his most creative verbalizations happen in that segment."
+        },
+        {
+          "id": "B",
+          "text": "The assessment of High Agreeableness would be slightly reduced, because the moment of hesitation makes him seem more relatable."
+        },
+        {
+          "id": "C",
+          "text": "The assessment of Medium Conscientiousness would become much higher, since the primary evidence for spontaneity is from this moment."
+        },
+        {
+          "id": "D",
+          "text": "The assessment of High Neuroticism would be strengthened, since avoiding the action would imply greater emotional suppression."
+        },
+        {
+          "id": "E",
+          "text": "The assessment of Medium Extraversion would become significantly lower, because that is his most energetic gestural display."
+        },
+        {
+          "id": "F",
+          "text": "The assessment of High Neuroticism would be weakened, as this segment provides key evidence for self-consciousness and anxiety."
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The personality analysis explicitly states that the behavior in this segment (gaze shift, faltering speech, hand-to-head gesture) is a key indicator for High Neuroticism, suggesting 'self-consciousness' and 'anxiety.' Removing this behavior would remove the strongest evidence for this trait, thus weakening the assessment. Therefore, F is correct.\nOption A is a video-based distractor; the verbal content supporting Openness occurs throughout the video, not just in this final segment.\nOption B is a text-based distractor; it presents a plausible social theory, but the Agreeableness assessment is based on consistent eye contact and tone, not this specific moment of hesitation.\nOption C is a near-miss distractor; removing the faltering speech would indeed increase the Conscientiousness score, but the analysis places more weight on this behavior as evidence for Neuroticism, making that assessment the one that is *most* affected.\nOption D is a near-miss distractor; it correctly identifies the trait but suggests the wrong direction of change.\nOption E is a video-based distractor; the energetic gestural display happens earlier in the video (around 10s), not during this time."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator16",
+      "version": 1,
+      "clues_total": 9,
+      "clues_correct": 7,
+      "clues_wrong_corrected": 2,
+      "clues_missing_skipped": 0,
+      "clues_bonus": 0
+    }
+  }
+}

@@ -1,0 +1,687 @@
+{
+  "video_id": "HTF8k56_Oxo.000.mp4",
+  "video_path": "HTF8k56_Oxo.000.mp4",
+  "transcription": "Have you ever stolen a street sign? I am a good person. I'm like a goody goody. I think. That's not a good thing so maybe I shouldn't say that. Do you cut out [coupons 00:00:30]?",
+  "original_scores": {
+    "extraversion": 0.29906542056074764,
+    "agreeableness": 0.4945054945054945,
+    "conscientiousness": 0.3786407766990291,
+    "neuroticism": 0.5104166666666666,
+    "openness": 0.7444444444444444
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 3.23,
+      "description": "The person's mouth is open as they speak. They maintain eye contact with the camera before tilting their head and briefly looking up and to their right, then returning their gaze to the camera.",
+      "bboxes": [
+        {
+          "frame_time": 0,
+          "x": 0.4082236842105263,
+          "y": 0.3868421052631579,
+          "w": 0.15838815789473684,
+          "h": 0.1736842105263158,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 0,
+          "x": 0.4363486842105263,
+          "y": 0.3026315789473684,
+          "w": 0.14950657894736843,
+          "h": 0.12368421052631579,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 0.714875,
+          "x": 0.3875,
+          "y": 0.29210526315789476,
+          "w": 0.19095394736842106,
+          "h": 0.15526315789473685,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 2.168859,
+          "x": 0.33865131578947366,
+          "y": 0.25263157894736843,
+          "w": 0.17911184210526315,
+          "h": 0.19736842105263158,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 3.23,
+      "end_time": 8.92,
+      "description": "With a serious expression, the person maintains direct eye contact. Their eyes are wide, and their eyebrows remain in a neutral-to-slightly raised position as they speak.",
+      "bboxes": [
+        {
+          "frame_time": 6.821609,
+          "x": 0.3963815789473684,
+          "y": 0.26052631578947366,
+          "w": 0.19095394736842106,
+          "h": 0.3631578947368421,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 6.433879,
+          "x": 0.40230263157894736,
+          "y": 0.27631578947368424,
+          "w": 0.23240131578947368,
+          "h": 0.21842105263157896,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 7.378969,
+          "x": 0.359375,
+          "y": 0.2789473684210526,
+          "w": 0.23536184210526317,
+          "h": 0.16578947368421051,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 6.433879,
+          "x": 0.44226973684210524,
+          "y": 0.30526315789473685,
+          "w": 0.16875,
+          "h": 0.11315789473684211,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 6.433879,
+          "x": 0.40970394736842103,
+          "y": 0.29210526315789476,
+          "w": 0.21907894736842107,
+          "h": 0.4052631578947368,
+          "note": "pose human-annotated",
+          "region": "torso"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 8.92,
+      "end_time": 10.97,
+      "description": "The person's gaze shifts up and to their right. Their eyebrows raise slightly, and their lips purse as if in thought.",
+      "bboxes": [
+        {
+          "frame_time": 10.190005,
+          "x": 0.4407894736842105,
+          "y": 0.2578947368421053,
+          "w": 0.17615131578947368,
+          "h": 0.17894736842105263,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 10.190005,
+          "x": 0.5266447368421052,
+          "y": 0.26052631578947366,
+          "w": 0.07993421052631579,
+          "h": 0.12631578947368421,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 8.966235,
+          "x": 0.44226973684210524,
+          "y": 0.4394736842105263,
+          "w": 0.1480263157894737,
+          "h": 0.15789473684210525,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 10.97,
+      "end_time": 13.79,
+      "description": "Gaze returns to the camera. The person's eyes are wide. They briefly blink before their gaze shifts slightly to their left and then back to the camera. The facial expression appears tense.",
+      "bboxes": [
+        {
+          "frame_time": 13.836946,
+          "x": 0.36085526315789473,
+          "y": 0.28157894736842104,
+          "w": 0.18947368421052632,
+          "h": 0.21052631578947367,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 11.692456,
+          "x": 0.4393092105263158,
+          "y": 0.27631578947368424,
+          "w": 0.19835526315789473,
+          "h": 0.20789473684210527,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 13.025274,
+          "x": 0.3149671052631579,
+          "y": 0.12631578947368421,
+          "w": 0.19095394736842106,
+          "h": 0.21578947368421053,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 12.843526,
+          "x": 0.22023026315789473,
+          "y": 0.11842105263157894,
+          "w": 0.2886513157894737,
+          "h": 0.2,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 13.085857,
+          "x": 0.3401315789473684,
+          "y": 0.16842105263157894,
+          "w": 0.19835526315789473,
+          "h": 0.17894736842105263,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 13.085857,
+          "x": 0.30608552631578945,
+          "y": 0.11052631578947368,
+          "w": 0.21907894736842107,
+          "h": 0.42105263157894735,
+          "note": "face human-annotated",
+          "region": "face"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 13.79,
+      "end_time": 15.17,
+      "description": "The person's gaze again shifts up and to their right before returning to the camera as they begin to speak again.",
+      "bboxes": [
+        {
+          "frame_time": 14.467142,
+          "x": 0.4200657894736842,
+          "y": 0.2026315789473684,
+          "w": 0.1879934210526316,
+          "h": 0.24736842105263157,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 15.036619,
+          "x": 0.3475328947368421,
+          "y": 0.21842105263157896,
+          "w": 0.21907894736842107,
+          "h": 0.19210526315789472,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 1.04,
+      "description": "The person sits upright in a chair, facing forward.",
+      "bboxes": [
+        {
+          "frame_time": 0,
+          "x": 0.3371710526315789,
+          "y": 0.2131578947368421,
+          "w": 0.3167763157894737,
+          "h": 0.6131578947368421,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 1.04,
+      "end_time": 2.05,
+      "description": "The person tilts their head to their left.",
+      "bboxes": [
+        {
+          "frame_time": 1.04,
+          "x": 0.3475328947368421,
+          "y": 0.2,
+          "w": 0.2856907894736842,
+          "h": 0.4421052631578947,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 2.05,
+      "end_time": 3.65,
+      "description": "The head returns to a centered, upright position.",
+      "bboxes": [
+        {
+          "frame_time": 3.610727,
+          "x": 0.3771381578947368,
+          "y": 0.15526315789473685,
+          "w": 0.2338815789473684,
+          "h": 0.4763157894736842,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 3.65,
+      "end_time": 10.97,
+      "description": "The person raises their left hand and places it flat against their upper chest, holding it there as they speak.",
+      "bboxes": [
+        {
+          "frame_time": 7.528905,
+          "x": 0.3726973684210526,
+          "y": 0.6052631578947368,
+          "w": 0.26200657894736845,
+          "h": 0.35,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 7.528905,
+          "x": 0.41710526315789476,
+          "y": 0.5868421052631579,
+          "w": 0.18207236842105262,
+          "h": 0.33157894736842103,
+          "note": "pose human-annotated",
+          "region": "torso"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 10.97,
+      "end_time": 12.11,
+      "description": "The person raises their right hand to eye level, with the tips of their thumb and index finger nearly touching.",
+      "bboxes": [
+        {
+          "frame_time": 11.268377,
+          "x": 0.30608552631578945,
+          "y": 0.3157894736842105,
+          "w": 0.20575657894736843,
+          "h": 0.2868421052631579,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 11.631873,
+          "x": 0.3949013157894737,
+          "y": 0.4368421052631579,
+          "w": 0.10953947368421053,
+          "h": 0.18947368421052632,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 12.11,
+      "end_time": 13.74,
+      "description": "The right hand moves forward in a slight pushing gesture, then clenches into a loose fist and is brought back towards the body as the person leans slightly forward.",
+      "bboxes": [
+        {
+          "frame_time": 13.449353,
+          "x": 0.2720394736842105,
+          "y": 0.6815789473684211,
+          "w": 0.19095394736842106,
+          "h": 0.29473684210526313,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 13.449353,
+          "x": 0.19950657894736842,
+          "y": 0.4236842105263158,
+          "w": 0.44259868421052634,
+          "h": 0.4421052631578947,
+          "note": "pose human-annotated",
+          "region": "torso"
+        },
+        {
+          "frame_time": 13.679567,
+          "x": 0.27351973684210523,
+          "y": 0.6947368421052632,
+          "w": 0.2205592105263158,
+          "h": 0.2894736842105263,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 13.74,
+      "end_time": 15.17,
+      "description": "The person's head turns to look up and to their right while their body remains still.",
+      "bboxes": [
+        {
+          "frame_time": 14.37021,
+          "x": 0.39786184210526315,
+          "y": 0.15,
+          "w": 0.21611842105263157,
+          "h": 0.4394736842105263,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 14.37021,
+          "x": 0.3179276315789474,
+          "y": 0.5263157894736842,
+          "w": 0.3893092105263158,
+          "h": 0.4052631578947368,
+          "note": "pose human-annotated",
+          "region": "torso"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0.89,
+      "end_time": 2.87,
+      "description": "The phrase \"Have you ever stolen a street sign?\" is spoken with a rising pitch at the end, consistent with a question.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 3.22,
+      "end_time": 6.22,
+      "description": "The speech has a steady pace and relatively stable pitch. The tone is declarative.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 6.65,
+      "end_time": 7.39,
+      "description": "The phrase \"I think\" is spoken at a lower volume with a rising, questioning intonation, followed by a pause of approximately 3.5 seconds.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 10.95,
+      "end_time": 13.45,
+      "description": "The speech rate increases significantly, and the pitch becomes higher and more varied throughout the sentence.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 14.39,
+      "end_time": 15.17,
+      "description": "The question \"Do you cut out coupons?\" is delivered with a rising intonation on the final word.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.17,
+      "description": "The subject is a young person with short, reddish-brown hair, a fair complexion, and eyeliner. They are wearing a black choker necklace, small hoop earrings, and a dark green V-neck sweater with white and dark stripes along the collar. They are seated indoors in what appears to be a bedroom. The wall behind them is a light neutral color. To the left is a board covered in photographs. On the wall behind them is a small drawing and a yellow, diamond-shaped sign. To the right, a wooden-slatted bed frame and a poster are visible. The lighting is even and appears to be from a source in front of the subject.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Low",
+      "score": 0.3,
+      "rationale": "The subject's Extraversion is rated Low. While engaging with a camera is an inherently social act, their behavior suggests a more reserved, internally-focused disposition. The self-description 'I'm like a goody goody' is immediately followed by a hesitant, quieter 'I think' and a long pause of approximately 3.5 seconds. This hesitation and period of silence indicate internal processing and self-consciousness rather than the outwardly-projected confidence typical of high extraversion. The initial speaking pace is steady and declarative, lacking the boisterous energy often associated with extraverts.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Medium",
+      "score": 0.49,
+      "rationale": "The subject's Agreeableness is rated Medium. They present a pro-social self-image by stating, 'I am a good person,' and reinforce this with a gesture of sincerity by placing a hand over their chest. This indicates a desire to be seen as trustworthy and compliant. However, this is immediately counterbalanced by their self-critical follow-up, 'That's not a good thing so maybe I shouldn't say that,' which reveals a degree of skepticism and complexity, moving them away from a purely high-agreeableness profile. This balance between a cooperative presentation and internal doubt supports a medium score.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Low",
+      "score": 0.38,
+      "rationale": "The subject's Conscientiousness is rated Low. Their communication style is spontaneous and unfiltered, reflecting a lack of rigid self-regulation. They follow a stream of consciousness, verbalizing a thought ('I'm like a goody goody'), immediately questioning its social value, and then retracting it. This verbal impulsivity and lack of a planned narrative are characteristic of lower conscientiousness. The abrupt, unrelated shift in topic to coupons at the end further underscores a flexible, less structured approach to conversation, rather than a dutiful, goal-oriented one.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Medium",
+      "score": 0.51,
+      "rationale": "The subject's Neuroticism is rated Medium. There are clear indicators of anxiety and self-doubt. After making a self-defining statement, they exhibit classic stress responses: their speech pace significantly accelerates, and their vocal pitch becomes higher and more variable. The description of their facial expression as 'tense' and their eyes being 'wide open' at times can also be interpreted as signs of anxiety or hyper-awareness. These moments of emotional reactivity are interspersed with periods of calm, direct eye contact, suggesting that their emotional stability is not consistently low, thus placing them in the medium range.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "High",
+      "score": 0.74,
+      "rationale": "The subject's Openness is rated High. A key indicator is their engagement in self-reflection and intellectual curiosity. They don't just offer a simple self-assessment; they immediately analyze and critique it, demonstrating comfort with abstract ideas and a willingness to explore nuances of their own personality. The repeated moments of looking up and away, with lips pressed in thought, are classic nonverbal cues for accessing internal ideas and creative construction. This introspective and analytical behavior, combined with the verbally expressed tendency to question norms ('That's not a good thing'), strongly supports a high level of openness to experience.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During 10.9s - 13.4s, the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "High Openness, indicated by the thoughtful and reflective communication style."
+        },
+        {
+          "id": "B",
+          "text": "Medium Neuroticism, shown by the anxious stress response in vocal delivery."
+        },
+        {
+          "id": "C",
+          "text": "High Agreeableness, demonstrated by the clear attempt to appear cooperative."
+        },
+        {
+          "id": "D",
+          "text": "High Neuroticism, revealed through a consistent state of emotional distress."
+        },
+        {
+          "id": "E",
+          "text": "Low Conscientiousness, reflected in the impulsive and unstructured speech."
+        },
+        {
+          "id": "F",
+          "text": "Low Extraversion, suggested by the general hesitance to speak confidently."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. During 10.9s - 13.4s, the person's speech pace accelerates and pitch becomes higher and more variable, which the analysis links to a stress response and self-doubt, supporting a Medium Neuroticism score.\n\n- Option A is a video-based distractor. High Openness is supported by behaviors at other times, such as looking up in thought (e.g., 8.9s - 11.0s), not the vocal changes in this specific interval.\n- Option C is a video-based distractor. The desire to appear cooperative (Agreeableness) is most linked to the hand-on-chest gesture that occurs earlier (3.6s - 11.0s).\n- Option D is a near-miss distractor. While the behavior does indicate neuroticism, the analysis concludes it's 'Medium' because these moments are interspersed with periods of calm, not a 'consistent state' of distress, making 'High' an overstatement.\n- Option E is a text-based distractor. While accelerated speech can sound impulsive (Low Conscientiousness), the context of self-correction and other vocal cues (pitch) strongly point to an emotional stress response (Neuroticism) instead.\n- Option F is a text-based distractor. The behavior in this clip is one of higher energy and faster speech, which is contrary to typical cues for Low Extraversion. A model might incorrectly associate the preceding self-doubt with low extraversion."
+    },
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their High Openness level?",
+      "options": [
+        {
+          "id": "A",
+          "text": "8.9s - 11.0s"
+        },
+        {
+          "id": "B",
+          "text": "3.2s - 8.9s"
+        },
+        {
+          "id": "C",
+          "text": "0.0s - 3.2s"
+        },
+        {
+          "id": "D",
+          "text": "11.0s - 13.8s"
+        },
+        {
+          "id": "E",
+          "text": "13.8s - 15.2s"
+        },
+        {
+          "id": "F",
+          "text": "1.0s - 2.0s"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. The personality analysis identifies High Openness based on cues of self-reflection and accessing internal ideas. The interval 8.9s - 11.0s is where the person's gaze moves up and to the right while their lips are pressed in thought, which are classic nonverbal cues for this internal cognitive process.\n\n- Option B is a video-based distractor. This interval corresponds to the serious expression and direct eye contact while making the 'I am a good person' statement, which is more relevant to Agreeableness.\n- Option C is a video-based distractor. This is the initial period of speaking and making eye contact, which doesn't contain the specific introspective cues.\n- Option D is a video-based distractor. This interval shows a tense facial expression and rapid speech, which is evidence for Neuroticism.\n- Option E is a near-miss distractor. The person does look up and away again in this interval, but it's a much briefer glance before starting a new sentence, rather than the sustained, thoughtful pause seen in 8.9s - 11.0s.\n- Option F is a video-based distractor. This short interval corresponds to the initial head tilt to the left."
+    },
+    {
+      "category": "Temporal-Causal Reasoning",
+      "question": "Consider the sequence of behaviors observed across the video. Which of the following best describes the causal chain linking the person's actions at different moments?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A period of self-monitoring (middle) prompts a pro-social self-presentation (early), which then triggers an anxious verbal correction (late)."
+        },
+        {
+          "id": "B",
+          "text": "A pro-social self-presentation (early) prompts an internal self-monitoring behavior (middle), which then triggers an anxious verbal correction (late)."
+        },
+        {
+          "id": "C",
+          "text": "An external prompt (early) leads to a performative gesture (middle) which is then intentionally abandoned to introduce a new conversational topic (late)."
+        },
+        {
+          "id": "D",
+          "text": "A questioning hand gesture (middle) causes the person to recall a past event (early), leading to an emotionally neutral statement about it (late)."
+        },
+        {
+          "id": "E",
+          "text": "A display of intellectual curiosity (early) is met with an internal challenge (middle), resulting in a confident restatement of the initial idea (late)."
+        },
+        {
+          "id": "F",
+          "text": "A pro-social self-presentation (early) leads directly to an anxious correction (late), which then causes a period of subsequent reflective thought (middle)."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. This option correctly maps the video's sequence: 1) The person makes a pro-social statement ('I am a good person') around 3.2s. 2) This statement causes them to reflect and self-monitor, indicated by the pause and upward glance around 8.9s. 3) This internal doubt then triggers the rushed, anxious verbal correction around 11.0s.\n\n- Option A is a distractor with reversed temporal order. It incorrectly places the self-monitoring behavior before the statement that caused it.\n- Option C is a text-based distractor. It misinterprets the cause of the final action, framing it as an intentional topic shift rather than an emotional reaction to their own previous statement.\n- Option D is a video-based distractor. It completely mischaracterizes the behaviors and their relationships, incorrectly linking gestures and statements from different parts of the video.\n- Option E is a text-based distractor. The final action is an anxious *correction*, not a 'confident restatement,' making the causal conclusion incorrect.\n- Option F is a near-miss distractor. It has the correct elements but swaps the causal order of the last two events, incorrectly suggesting the reflective thought happened *after* the anxious correction, when in fact it preceded and caused it."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 0.0s, a region was detected in the video (x=0.337, y=0.213, w=0.317, h=0.613, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A tense facial expression characterized by wide, unblinking eyes."
+        },
+        {
+          "id": "B",
+          "text": "A stable, upright posture facing directly toward the main camera."
+        },
+        {
+          "id": "C",
+          "text": "A neutral to slightly raised eyebrow position held for a few seconds."
+        },
+        {
+          "id": "D",
+          "text": "A brief, momentary blinking of the eyes as the person is speaking."
+        },
+        {
+          "id": "E",
+          "text": "A static torso posture being maintained while the person is speaking."
+        },
+        {
+          "id": "F",
+          "text": "A pensive expression with the lips held firmly and tightly together."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. The provided bounding box at 0.0s is large and encompasses the person's entire upper body and head. The corresponding observation note states, The person sits upright in the chair, facing forward. This option accurately describes that overall posture.\n\n- Option A is a video-based distractor. The tense facial expression occurs later in the video, around 13.1s.\n- Option C is a video-based distractor. The neutral/raised eyebrow is noted around 6.4s, not at the beginning.\n- Option D is a video-based distractor. The brief blink is observed at 13.0s, in a much smaller region around the eyes.\n- Option E is a near-miss distractor. While the torso is part of the posture, this option focuses on the *maintenance* of the posture *during speech*, whereas the correct answer describes the foundational posture at the very start of the video.\n- Option F is a video-based distractor. The pensive expression with pressed lips occurs around 9.0s."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "At which time and location does the person make a hand gesture that retracts toward their body as they lean slightly forward?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[1.0s] x=0.35, y=0.20, w=0.29, h=0.44"
+        },
+        {
+          "id": "B",
+          "text": "[13.4s] x=0.27, y=0.68, w=0.19, h=0.29"
+        },
+        {
+          "id": "C",
+          "text": "[0.0s] x=0.44, y=0.30, w=0.15, h=0.12"
+        },
+        {
+          "id": "D",
+          "text": "[6.4s] x=0.41, y=0.29, w=0.22, h=0.41"
+        },
+        {
+          "id": "E",
+          "text": "[7.5s] x=0.42, y=0.59, w=0.18, h=0.33"
+        },
+        {
+          "id": "F",
+          "text": "[7.4s] x=0.36, y=0.28, w=0.24, h=0.17"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. The question describes the action observed between 12.1s and 13.7s, where the person's hand forms a loose fist and moves back toward the body as they lean forward. The coordinates provided in option B at 13.4s point to the lower-left area of the frame where this hand action is taking place.\n\n- Option A is a video-based distractor. This time and location correspond to the person's head tilting to the left.\n- Option C is a video-based distractor. This time and location correspond to the person's eyes at the very beginning of the video.\n- Option D is a video-based distractor. This points to the person's face and upper torso during the 'I am a good person' statement.\n- Option E is a video-based distractor and a near-miss. This corresponds to a different hand gesture—the hand placed flat on the chest—which does not retract or coincide with a forward lean.\n- Option F is a video-based distractor. This time and location frame the person's wide eyes during their serious statement."
+    },
+    {
+      "category": "Counterfactual Reasoning",
+      "question": "If the person had NOT exhibited the behavior observed around 3.6s - 11.0s, which of the following personality assessments would be MOST affected?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Conscientiousness would seem higher, as the gesture may indicate a more thoughtful and deliberate communication style."
+        },
+        {
+          "id": "B",
+          "text": "Agreeableness might be assessed as lower because the primary non-verbal cue for sincerity and pro-social intent would be absent."
+        },
+        {
+          "id": "C",
+          "text": "Neuroticism score would be lower, because this specific gesture is a clear outward sign of anxiety about their own self-image."
+        },
+        {
+          "id": "D",
+          "text": "Openness score would be significantly lower, as the gesture signifies a critical moment of deep internal self-reflection."
+        },
+        {
+          "id": "E",
+          "text": "Agreeableness would be assessed as higher, because this gesture is the only real sign of internal conflict about the statement."
+        },
+        {
+          "id": "F",
+          "text": "Extraversion score would be higher, because this is an expressive and self-limiting gesture used to moderate social energy."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. The behavior from 3.6s - 11.0s is placing the hand on the chest. The personality analysis explicitly cites this as a 'gesture of sincerity' that supports a pro-social interpretation (Agreeableness). Without it, the verbal statement 'I am a good person' would lack non-verbal support, making the subsequent self-criticism seem more dominant and potentially lowering the Agreeableness rating.\n\n- Option A is a text-based distractor. The gesture is more about emotional expression (sincerity) than about planned, dutiful communication (Conscientiousness).\n- Option C is a video-based distractor. The analysis links Neuroticism more strongly to the vocal changes and tense expression that happen *later* (from 11.0s onward). While this gesture could be related, the later cues are more direct evidence.\n- Option D is a video-based distractor. The analysis connects High Openness to the gaze aversion and thoughtful pause (8.9s - 11.0s), not specifically the hand-on-chest gesture.\n- Option E is a near-miss distractor. It correctly identifies the trait (Agreeableness) but proposes the wrong direction of change. Removing the sincere gesture would likely decrease, not increase, the perception of agreeableness.\n- Option F is a text-based distractor. The gesture is self-referential and sincerity-signaling, not one typically associated with managing social energy (Extraversion)."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator14",
+      "version": 1,
+      "clues_total": 39,
+      "clues_correct": 37,
+      "clues_wrong_corrected": 1,
+      "clues_missing_skipped": 1,
+      "clues_bonus": 0
+    }
+  }
+}

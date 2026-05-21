@@ -1,0 +1,531 @@
+{
+  "video_id": "TmpP2fXeVtk.005.mp4",
+  "video_path": "TmpP2fXeVtk.005.mp4",
+  "transcription": "Day to day basis, I don't really bother that much. If I do it's only a tiny bit, but even when I do bother I don't go all that. I don't do the whole like contour and highlight and blush, but everything like that I either can't do-",
+  "original_scores": {
+    "extraversion": 0.4299065420560748,
+    "agreeableness": 0.7142857142857143,
+    "conscientiousness": 0.42718446601941745,
+    "neuroticism": 0.39583333333333337,
+    "openness": 0.43333333333333335
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 5.8,
+      "description": "The subject's eyebrows are slightly lowered and drawn together, creating a furrowed brow. Her mouth is slightly pursed as she speaks, and she maintains eye contact with the camera. Her facial muscles appear tense.",
+      "bboxes": [
+        {
+          "frame_time": 3.115088,
+          "x": 0.43560855263157894,
+          "y": 0.44824561068886204,
+          "w": 0.08585526315789474,
+          "h": 0.1368421052631579,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 3.115088,
+          "x": 0.41192434210526313,
+          "y": 0.27456140016254627,
+          "w": 0.1924342105263158,
+          "h": 0.14473684210526316,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 3.115088,
+          "x": 0.40896381578947366,
+          "y": 0.316666663320441,
+          "w": 0.17763157894736842,
+          "h": 0.3131578947368421,
+          "note": "face human-annotated",
+          "region": "face"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 5.8,
+      "end_time": 9.1,
+      "description": "The subject's eyebrows remain slightly furrowed. Her eyes narrow slightly as she speaks the words \"I don't go all out.\"",
+      "bboxes": [
+        {
+          "frame_time": 8.626607,
+          "x": 0.4030427631578947,
+          "y": 0.21929824226780942,
+          "w": 0.1524671052631579,
+          "h": 0.07631578947368421,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 8.626607,
+          "x": 0.39120065789473685,
+          "y": 0.2324561370046515,
+          "w": 0.17023026315789475,
+          "h": 0.10789473684210527,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 9.1,
+      "end_time": 13.5,
+      "description": "Her expression remains serious, with a slight furrow in her brow. Her mouth movements become slightly more pronounced as she lists items.",
+      "bboxes": [
+        {
+          "frame_time": 9.548197,
+          "x": 0.45041118421052634,
+          "y": 0.22719297910991468,
+          "w": 0.19095394736842106,
+          "h": 0.3263157894736842,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 9.548197,
+          "x": 0.4903782894736842,
+          "y": 0.41403508437307257,
+          "w": 0.1287828947368421,
+          "h": 0.19210526315789472,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 13.5,
+      "end_time": 15,
+      "description": "The subject's eyes widen slightly and her eyebrows raise as she says \"I either can't do.\"",
+      "bboxes": [
+        {
+          "frame_time": 14.11779,
+          "x": 0.3837993421052632,
+          "y": 0.266666663320441,
+          "w": 0.23240131578947368,
+          "h": 0.09736842105263158,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 14.798572,
+          "x": 0.41488486842105265,
+          "y": 0.22192982121517785,
+          "w": 0.14210526315789473,
+          "h": 0.06842105263157895,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 7,
+      "description": "The subject is sitting and facing the camera, with her head held mostly still. No significant body movement is visible.",
+      "bboxes": [
+        {
+          "frame_time": 1.854829,
+          "x": 0.41932565789473686,
+          "y": 0.15350876858359888,
+          "w": 0.17023026315789475,
+          "h": 0.5105263157894737,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 1.854829,
+          "x": 0.3852796052631579,
+          "y": 0.21140350542570416,
+          "w": 0.2901315789473684,
+          "h": 0.5842105263157895,
+          "note": "pose human-annotated",
+          "region": "torso"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 7,
+      "end_time": 8.8,
+      "description": "The subject performs a slow, small side-to-side headshake as she says, \"I don't go all out.\"",
+      "bboxes": [
+        {
+          "frame_time": 8.210326,
+          "x": 0.3704769736842105,
+          "y": 0.16403508437307257,
+          "w": 0.20723684210526316,
+          "h": 0.4263157894736842,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 8.8,
+      "end_time": 10.8,
+      "description": "The subject raises her right hand into the frame, holding up her index and middle fingers in a brief illustrative gesture.",
+      "bboxes": [
+        {
+          "frame_time": 9.005478,
+          "x": 0.6280427631578948,
+          "y": 0.6219298212151778,
+          "w": 0.17171052631578948,
+          "h": 0.3,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 10.8,
+      "end_time": 13.5,
+      "description": "The subject's hand moves out of the frame. Her head remains still and facing forward.",
+      "bboxes": [
+        {
+          "frame_time": 12.575181,
+          "x": 0.5273848684210526,
+          "y": 0.7640350843730725,
+          "w": 0.2738486842105263,
+          "h": 0.23157894736842105,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 12.575181,
+          "x": 0.42672697368421053,
+          "y": 0.05350876858359889,
+          "w": 0.2205592105263158,
+          "h": 0.5789473684210527,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 13.5,
+      "end_time": 15,
+      "description": "The subject raises her right hand again, pointing her index finger to her left and then sweeping it to her right as she speaks.",
+      "bboxes": [
+        {
+          "frame_time": 14.538846,
+          "x": 0.28314144736842106,
+          "y": 0.8008771896362304,
+          "w": 0.21611842105263157,
+          "h": 0.19736842105263158,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 14.538846,
+          "x": 0.2757401315789474,
+          "y": 0.8403508738467568,
+          "w": 0.1480263157894737,
+          "h": 0.13421052631578947,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 8.1,
+      "description": "The subject speaks at a moderate pace with a relatively low and stable pitch. The phrase \"I don't go all out\" is spoken with a slight downward inflection.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 8.1,
+      "end_time": 13.2,
+      "description": "The speech rate increases slightly as she lists items (\"contour and highlight and blush\").",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 13.2,
+      "end_time": 15,
+      "description": "The words \"can't do\" are stressed with a slight increase in volume and a rising pitch.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15,
+      "description": "The subject is a young woman with fair skin, brown hair with bangs, styled in a ponytail. She is wearing a grey t-shirt with a graphic of several potted plants. She has a small black stud earring in her left ear. The setting appears to be a bedroom with white walls and a white paneled door. A string of small white lights is visible, and the overall lighting is somewhat dim and cool-toned, coming from the front.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 3.075873,
+      "end_time": 4.075873,
+      "description": "There is a blue umbrella behind the subject on the left",
+      "bboxes": [
+        {
+          "frame_time": 3.575873,
+          "x": 0.784950657894737,
+          "y": 0.2798245580572831,
+          "w": 0.11546052631578947,
+          "h": 0.6236842105263158,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Medium",
+      "score": 0.43,
+      "rationale": "The subject's Medium Extraversion is supported by a mix of reserved and expressive behaviors. On one hand, her averted gaze ([0.0s-5.8s]) and largely static torso ([0.0s-7.0s]) suggest a degree of introversion. On the other hand, she uses illustrative hand gestures ([8.8s-10.8s], [13.5s-15.0s]) and modulates her vocal pace and pitch for emphasis ([8.1s-13.2s], [13.2s-15.0s]), which are more extraverted tendencies. This balance between a contained physical presence and expressive communication aligns with a mid-range score.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "High",
+      "score": 0.71,
+      "rationale": "A High Agreeableness score is indicated by the subject's generally calm and non-confrontational demeanor. Her facial muscles appear relaxed ([0.0s-5.8s]), and her vocal tone is steady and moderate, lacking any harshness ([0.0s-8.1s]). The slow, gentle headshake while disagreeing with a concept ('I don't go all out' [7.0s-8.8s]) is a soft, cooperative form of negation. These cues combine to create an impression of an approachable and pleasant individual.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Medium",
+      "score": 0.43,
+      "rationale": "The Medium Conscientiousness score is reflected in the subject's verbal content and delivery. Her admission that she doesn't 'bother that much' and can't perform complex makeup techniques suggests a relaxed rather than meticulous approach to tasks, arguing against high conscientiousness. However, her speech is structured; she methodically lists items with an accelerated pace ([8.1s-13.2s]) and uses purposeful hand gestures to clarify her point ([8.8s-10.8s]), indicating a degree of organized thought that argues against low conscientiousness.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Medium",
+      "score": 0.4,
+      "rationale": "The subject's Medium Neuroticism score is consistent with a generally calm state punctuated by subtle indicators of mild tension. While her relaxed facial muscles ([0.0s-5.8s]) and steady vocal tone ([0.0s-8.1s]) suggest emotional stability, cues like slightly furrowed eyebrows ([5.8s-9.1s]), a slight squint of the eyes ([5.8s-9.1s]), and an averted gaze ([0.0s-5.8s]) can signal a low level of self-consciousness or cognitive stress. This blend of composure and subtle tension supports a mid-range score.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "Medium",
+      "score": 0.43,
+      "rationale": "A Medium Openness score is suggested by the subject's conventional topic and practical attitude, balanced with expressive communication. She discusses a common topic (makeup) and admits to avoiding its more complex, artistic aspects ('contour and highlight'), which points away from high openness. However, her use of eyebrow raises ([13.5s-15.0s]), hand gestures ([13.5s-15.0s]), and changes in vocal tonality to express herself ([13.2s-15.0s]) demonstrates a level of affective expressiveness that is inconsistent with very low openness. This places her in the medium range.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During 7.0s - 8.8s, the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The assessment of Low Conscientiousness is most strongly indicated by this action."
+        },
+        {
+          "id": "B",
+          "text": "The assessment of High Agreeableness is most strongly indicated by this action."
+        },
+        {
+          "id": "C",
+          "text": "The assessment of Medium Extraversion is most strongly indicated by this action."
+        },
+        {
+          "id": "D",
+          "text": "The assessment of Low Agreeableness is most strongly indicated by this action."
+        },
+        {
+          "id": "E",
+          "text": "The assessment of High Neuroticism is most strongly indicated by this action."
+        },
+        {
+          "id": "F",
+          "text": "The assessment of Medium Openness is most strongly indicated by this action."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. During this interval, the person gives a slow, gentle headshake while saying she doesn't 'go all out.' The personality analysis identifies this as a soft, cooperative form of negation, which is strong evidence for High Agreeableness.\n- Option A is a text-based distractor. The verbal content 'I don't go all out' could be misinterpreted as a lack of effort, textually implying Low Conscientiousness, but the non-verbal behavior is the primary cue for Agreeableness in this moment.\n- Option C is a video-based distractor. Medium Extraversion is supported by evidence in the video (e.g., hand gestures at 8.8s), but not by the specific headshake behavior in the 7.0s-8.8s interval.\n- Option D is a near-miss distractor. It correctly identifies Agreeableness as the relevant dimension but incorrectly assesses the direction of the trait (Low instead of High).\n- Option E is a text-based distractor. A headshake could be contextually linked to negativity or anxiety, making High Neuroticism a plausible but incorrect guess based on text-based associations.\n- Option F is a distractor that is plausible but less directly supported. While the topic relates to Openness, this specific non-verbal cue is a much stronger indicator for Agreeableness."
+    },
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their Medium Neuroticism level?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[5.8s - 9.1s]"
+        },
+        {
+          "id": "B",
+          "text": "[0.0s - 5.8s]"
+        },
+        {
+          "id": "C",
+          "text": "[13.5s - 15.0s]"
+        },
+        {
+          "id": "D",
+          "text": "[9.1s - 13.5s]"
+        },
+        {
+          "id": "E",
+          "text": "[4.1s - 5.5s]"
+        },
+        {
+          "id": "F",
+          "text": "[7.0s - 8.8s]"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. The personality analysis for Medium Neuroticism cites 'subtle indicators of mild tension' such as 'slightly furrowed eyebrows' and 'a slight squint of the eyes.' The observation cues confirm that these specific micro-expressions occur within the [5.8s - 9.1s] interval.\n- Option B is a video-based distractor. In this interval, her facial muscles are noted as relaxed and her gaze is averted, which is a different and distinct facial state.\n- Option C is a video-based distractor. This interval features her eyes widening and eyebrows raising, a distinct expression change related more to emphasis than tension.\n- Option D is a video-based distractor. During this time, her expression is described as 'serious' and her mouth movements become more pronounced, which is another real but different expression phase.\n- Option E is a distractor with no specific event of note, serving as a filler.\n- Option F is a near-miss distractor. It overlaps with the correct interval and contains the headshake, but it misses the initiation of the eyebrow furrow and eye squint which are the key indicators for Neuroticism mentioned in the analysis."
+    },
+    {
+      "category": "Mixed Emotion Discrimination",
+      "question": "During 13.5s - 15.0s, the person's emotional state is best characterized as which of the following? Consider both verbal and non-verbal cues.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mild frustration tempered by a sense of resigned amusement."
+        },
+        {
+          "id": "B",
+          "text": "Frank admission mixed with a hint of emphatic self-awareness."
+        },
+        {
+          "id": "C",
+          "text": "Focused concentration mixed with a feeling of mild skepticism."
+        },
+        {
+          "id": "D",
+          "text": "Creative insecurity tempered by a desire to appear relatable."
+        },
+        {
+          "id": "E",
+          "text": "Subtle annoyance mixed with an underlying feeling of boredom."
+        },
+        {
+          "id": "F",
+          "text": "Quiet contemplation mixed with a touch of defensive posturing."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. During this interval, the person says 'I either can't do' while her eyes widen, eyebrows raise, and vocal pitch/volume increase. This combination of cues points to a direct, frank admission of a fact, with the non-verbal signals adding emphasis and highlighting her awareness of her own limitations.\n- Option A is a near-miss distractor. It's plausible, but 'frustration' is likely too strong an emotion for the observed behavior, and 'amusement' is an interpretation not directly supported by the cues, which are more about emphasis.\n- Option C is a video-based distractor. 'Focused concentration' and 'skepticism' better describe the expression from an earlier segment (around 5.8s-9.1s) where her eyebrows were furrowed and eyes squinted.\n- Option D is a text-based distractor. It infers complex internal states ('creative insecurity', 'desire to be relatable') based purely on the topic of makeup, which is not directly supported by the visual or auditory evidence.\n- Option E is a text-based distractor. 'Annoyance' and 'boredom' are plausible negative emotions one might associate with talking about something they don't do, but they are not reflected in the energetic and emphatic non-verbal cues.\n- Option F is a distractor with an incorrect interpretation. The person is actively communicating, making 'quiet contemplation' inaccurate, and the open expression is not consistent with 'defensive posturing'."
+    },
+    {
+      "category": "Temporal-Causal Reasoning",
+      "question": "Consider the sequence of behaviors observed across the video. Which of the following best describes the causal chain linking the person's actions at different moments?",
+      "options": [
+        {
+          "id": "A",
+          "text": "An emphatic non-verbal gesture leads to a phase of verbal listing, which is later summarized by a more reserved and general statement."
+        },
+        {
+          "id": "B",
+          "text": "Reserved self-disclosure prompts a detailed verbal clarification, which culminates in an emphatic non-verbal gesture to reinforce her point."
+        },
+        {
+          "id": "C",
+          "text": "Organized thought, evidenced by listing items, is interrupted by self-consciousness, causing a final retreat into a reserved posture."
+        },
+        {
+          "id": "D",
+          "text": "A general statement is followed by an emphatic gesture which then prompts a reserved verbal explanation that justifies the initial action."
+        },
+        {
+          "id": "E",
+          "text": "An unseen external prompt leads to a hesitant response, which is then followed by a more confident elaboration as she becomes comfortable."
+        },
+        {
+          "id": "F",
+          "text": "A display of high energy is followed by verbal self-correction, which concludes with a non-verbal signal of appeasement to moderate it."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. The video follows a logical progression: 1) The person starts with a general, somewhat reserved statement (0s-7s). 2) This necessitates clarification, leading to her listing specific makeup items (8s-13s). 3) She concludes with an emphatic statement and gesture (13s-15s) to strongly reinforce her point. This matches the causal chain in option B.\n- Option A is a distractor with reversed temporal order. It incorrectly places the summary statement at the end and the emphatic gesture at the beginning.\n- Option C is a distractor with incorrect causality. The final gesture is one of emphasis, not a 'retreat into a reserved posture' caused by self-consciousness.\n- Option D is a near-miss distractor. It correctly links the general statement to a gesture, but it misidentifies the sequence, placing the detailed verbal explanation after the final gesture when it actually comes before.\n- Option E is a text-based distractor. It assumes an 'unseen external prompt' and a transition from 'hesitant' to 'confident' which is not the primary dynamic observed.\n- Option F is a text-based distractor. The video shows an increase in expressive energy, not a display of high energy followed by moderation or 'appeasement'."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 14.5s, a region was detected in the video (x=0.276, y=0.840, w=0.148, h=0.134, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The clear articulation of the mouth while she is listing several items."
+        },
+        {
+          "id": "B",
+          "text": "A sweeping motion with the hand to add specific emphasis to her words."
+        },
+        {
+          "id": "C",
+          "text": "A subtle shift of the eyes away from the camera during her statement."
+        },
+        {
+          "id": "D",
+          "text": "A neutral and rather serious facial muscle configuration while speaking."
+        },
+        {
+          "id": "E",
+          "text": "A pointing gesture performed with the right hand and directed leftward."
+        },
+        {
+          "id": "F",
+          "text": "A hand gesture clearly mimicking the careful application of some makeup."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. The specified coordinates at 14.5s correspond to the location of the person's left hand as she makes a sweeping gesture to the right while speaking, which serves to emphasize her point.\n- Option A is a video-based distractor. Clear mouth articulation occurs, but it is in a different spatial region (the face) and is more prominent slightly earlier (around 9.5s).\n- Option C is a video-based distractor. The averted gaze occurs at the very beginning of the video (0.0s-5.8s), not at 14.5s.\n- Option D is a video-based distractor. The person's face could be described as serious, but this is a different spatial region, and the most prominent action in the specified bbox is the hand gesture.\n- Option E is a near-miss distractor. The action is a hand gesture, but it is performed with the left hand (not right) and sweeps to the right (not left).\n- Option F is a text-based distractor. This action is plausible given the topic of conversation (makeup), but it is not what is visually depicted in the video."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "Which of the following timestamp and coordinate pairs best isolates a moment where the subject displays a subtle, reserved facial expression characterized by a controlled mouth posture and an indirect gaze?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[8.6s] x=0.39, y=0.23, w=0.17, h=0.11"
+        },
+        {
+          "id": "B",
+          "text": "[3.1s] x=0.44, y=0.45, w=0.09, h=0.14"
+        },
+        {
+          "id": "C",
+          "text": "[14.8s] x=0.41, y=0.22, w=0.14, h=0.07"
+        },
+        {
+          "id": "D",
+          "text": "[12.6s] x=0.53, y=0.76, w=0.27, h=0.23"
+        },
+        {
+          "id": "E",
+          "text": "[14.1s] x=0.38, y=0.27, w=0.23, h=0.10"
+        },
+        {
+          "id": "F",
+          "text": "[14.5s] x=0.28, y=0.80, w=0.22, h=0.20"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. The description of a 'reserved facial expression characterized by a controlled mouth posture and an indirect gaze' corresponds to the behavior observed in the first few seconds of the video (0.0s-5.8s). The coordinates and timestamp in option B point directly to the person's slightly pursed mouth at 3.1s, which is a key component of this described expression.\n- Option A is a video-based distractor pointing to the person's eyes at 8.6s, when they are slightly squinted.\n- Option C is a video-based distractor pointing to the person's eyebrows at 14.8s, when they are raised.\n- Option D is a video-based distractor pointing to a region where the person's hand has just moved out of the frame.\n- Option E is a video-based distractor pointing to the person's eyes at 14.1s, when they are widened.\n- Option F is a video-based distractor pointing to the person's hand at 14.5s, when she is making a pointing gesture."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator06",
+      "version": 5,
+      "clues_total": 24,
+      "clues_correct": 17,
+      "clues_wrong_corrected": 4,
+      "clues_missing_skipped": 2,
+      "clues_bonus": 1
+    }
+  }
+}

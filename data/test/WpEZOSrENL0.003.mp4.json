@@ -1,0 +1,377 @@
+{
+  "video_id": "WpEZOSrENL0.003.mp4",
+  "video_path": "WpEZOSrENL0.003.mp4",
+  "transcription": "That's perfectly okay. The point isn't actually to find the answers in this exercise. The point is simply to ask yourself these questions and then observe. Observe to see if any answers present themselves. If no answers present themselves ...",
+  "original_scores": {
+    "extraversion": 0.3177570093457944,
+    "agreeableness": 0.3846153846153846,
+    "conscientiousness": 0.5242718446601942,
+    "neuroticism": 0.4375,
+    "openness": 0.41111111111111115
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 15,
+      "description": "The subject maintains direct gaze at the camera. Her eyebrows raise slightly at the beginning of phrases for emphasis and lower as she completes them. Her eyes are wide open, and she blinks naturally. The corners of her mouth are slightly upturned at the start, transitioning to a more neutral shape as she speaks.",
+      "bboxes": [
+        {
+          "frame_time": 10.323432,
+          "x": 0.36085526315789473,
+          "y": 0.24210526315789474,
+          "w": 0.27088815789473686,
+          "h": 0.3631578947368421,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 10.323432,
+          "x": 0.4585526315789474,
+          "y": 0.25526315789473686,
+          "w": 0.10213815789473685,
+          "h": 0.1631578947368421,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 10.323432,
+          "x": 0.38453947368421054,
+          "y": 0.3131578947368421,
+          "w": 0.20575657894736843,
+          "h": 0.16842105263157894,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 6.906424,
+          "x": 0.4052631578947368,
+          "y": 0.4868421052631579,
+          "w": 0.17467105263157895,
+          "h": 0.19473684210526315,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 15,
+      "description": "The subject is seated, framed from the chest up. She remains relatively still, with her head performing small, quick movements for emphasis. She nods slightly when saying \"perfectly okay\" (0.8s), shakes her head slightly side-to-side on \"isn't\" (2.8s), and nods forward subtly while speaking from 8.0s to 10.5s.",
+      "bboxes": [
+        {
+          "frame_time": 12.429452,
+          "x": 0.3815789473684211,
+          "y": 0.27631578947368424,
+          "w": 0.3256578947368421,
+          "h": 0.6815789473684211,
+          "note": "human-annotated",
+          "region": "unknown"
+        },
+        {
+          "frame_time": 12.429452,
+          "x": 0.19654605263157895,
+          "y": 0.5447368421052632,
+          "w": 0.5639802631578947,
+          "h": 0.3894736842105263,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 12.429452,
+          "x": 0.40970394736842103,
+          "y": 0.18947368421052632,
+          "w": 0.20723684210526316,
+          "h": 0.5421052631578948,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 9.947675,
+          "x": 0.35345394736842106,
+          "y": 0.19736842105263158,
+          "w": 0.22796052631578947,
+          "h": 0.4921052631578947,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 6.4,
+      "description": "Speech is delivered at a moderate pace with a clear, mid-range pitch. There is a slight upward inflection on \"okay\" (1.0s), followed by a downward intonation at the end of the sentence on \"exercise\" (6.0s).",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 6.4,
+      "end_time": 10.6,
+      "description": "The word \"simply\" (7.0s) is stressed. A brief pause of approximately 0.3 seconds occurs after the word \"observe\" (10.3s).",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 10.6,
+      "end_time": 15,
+      "description": "The word \"Observe\" (10.6s) is repeated with emphasis and a slightly higher initial pitch. The volume remains consistent throughout the clip.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15,
+      "description": "The subject is a woman with fair skin, blue eyes, and shoulder-length brown hair. She is wearing a dark, collared jacket or shirt. She is sitting in a black office chair in an indoor room with an olive-green wall. To the right is a white, paneled door, and to the left is a white piece of furniture. A black-and-white striped object is partially visible at the bottom-left corner. The lighting is diffuse and frontal.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Low",
+      "score": 0.32,
+      "rationale": "The subject's Extraversion is rated as Low. This is supported by her controlled and reserved demeanor. She remains relatively still, using small, contained head movements rather than large, expansive gestures. Her vocal delivery is moderate in pace and consistent in volume, lacking the energetic and varied intonation typical of highly extraverted individuals. While she maintains direct eye contact, her overall presentation is measured and focused, indicating a lower level of social energy and outward expressiveness.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Low",
+      "score": 0.38,
+      "rationale": "The subject's Agreeableness is assessed as Low. While she begins with a slight smile, it quickly transitions to a more neutral, task-focused expression. Her vocal tone is clear and instructional rather than warm or solicitous. Her use of direct, sustained eye contact combined with a corrective head shake when saying \"isn't\" suggests a straightforward, matter-of-fact communication style that prioritizes clarity over social harmony, which is characteristic of the lower end of the Agreeableness scale.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Medium",
+      "score": 0.52,
+      "rationale": "The subject exhibits a Medium level of Conscientiousness. Her speech is highly structured and deliberate, as seen in her use of vocal emphasis on key words like \"simply\" and \"observe\" and a purposeful pause to structure her message. Her gestures, such as nodding and shaking her head, are precise and used to reinforce her verbal points. This methodical and organized communication style demonstrates a clear focus on delivering an effective and understandable message, reflecting a moderate degree of orderliness and self-discipline.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Medium",
+      "score": 0.44,
+      "rationale": "The subject's Neuroticism is rated as Medium. She maintains a generally composed exterior, with a steady vocal tone and controlled posture, which suggests emotional stability. However, subtle indicators such as consistently wide-open eyes and quick, emphatic head movements may suggest an underlying level of alertness or tension. This combination of outward calm with subtle signs of focused intensity prevents a 'Low' rating and is consistent with a Medium level of Neuroticism, indicating a capacity for both composure and reactivity.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "Medium",
+      "score": 0.41,
+      "rationale": "The subject's Openness is assessed as Medium. The content of her speech, which advocates for self-questioning and observation, indicates an appreciation for introspection and abstract thought. However, her delivery is conventional and structured. She presents the idea in a direct, instructional manner rather than with creative flair or intellectual novelty. This blend of an intellectually-oriented topic with a straightforward, pragmatic delivery supports a Medium rating for Openness.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During 6.4s - 10.6s, the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "High Agreeableness, suggesting social warmth"
+        },
+        {
+          "id": "B",
+          "text": "Low Extraversion, suggesting a reserved nature"
+        },
+        {
+          "id": "C",
+          "text": "Medium Conscientiousness, suggesting diligence"
+        },
+        {
+          "id": "D",
+          "text": "High Openness, suggesting intellectual curiosity"
+        },
+        {
+          "id": "E",
+          "text": "Low Neuroticism, suggesting emotional stability"
+        },
+        {
+          "id": "F",
+          "text": "Low Agreeableness, suggesting direct communication"
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. During this interval, the speaker uses deliberate vocal emphasis on 'simply' and 'observe' and a purposeful pause, which are strong indicators of a methodical, structured, and diligent communication style characteristic of Medium Conscientiousness. \nOption A is a text-based distractor; while the phrase 'perfectly okay' (from another segment) could imply agreeableness, her overall instructional tone contradicts this. \nOption B is a video-based distractor; her reserved nature does support Low Extraversion, but the specific behaviors of vocal emphasis and pausing in this segment are more direct evidence for Conscientiousness. \nOption D is a text-based distractor; the topic of observation might seem to relate to Openness, but her delivery is conventional and structured, not creatively expressive. \nOption E is a video-based distractor; she is composed, but her wide eyes throughout the clip suggest an alertness that makes 'Low Neuroticism' less accurate than 'Medium'. \nOption F is a near-miss distractor; her directness supports Low Agreeableness, but the methodical *structure* of her speech is a more specific and primary signal of Conscientiousness in this particular segment."
+    },
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their Low Agreeableness level?",
+      "options": [
+        {
+          "id": "A",
+          "text": "0.5s - 1.1s"
+        },
+        {
+          "id": "B",
+          "text": "6.7s - 7.3s"
+        },
+        {
+          "id": "C",
+          "text": "2.5s - 3.1s"
+        },
+        {
+          "id": "D",
+          "text": "10.0s - 10.6s"
+        },
+        {
+          "id": "E",
+          "text": "8.2s - 8.8s"
+        },
+        {
+          "id": "F",
+          "text": "14.0s - 14.6s"
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. Around 2.8s, within the 2.5s - 3.1s interval, the speaker performs a slight corrective head shake while saying 'isn't'. This gesture, combined with the fading of her initial slight smile into a more neutral, task-focused expression, is a key non-verbal cue supporting a direct, matter-of-fact communication style associated with Low Agreeableness. The other options correspond to different events: \nOption A is a video-based distractor, marking the initial nod. \nOption B is a video-based distractor, covering the vocal emphasis on 'simply'. \nOption D is a video-based distractor, corresponding to the pause after 'observe'. \nOption E is a video-based distractor, marking the start of a slow forward nod. \nOption F is a video-based distractor, a moment near the end with sustained eye contact but no significant change."
+    },
+    {
+      "category": "Mixed Emotion Discrimination",
+      "question": "During 0.5s - 7.0s, the person's emotional state is best characterized as which of the following? Consider both verbal and non-verbal cues.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mild frustration mixed with forced composure"
+        },
+        {
+          "id": "B",
+          "text": "Calm detachment mixed with intellectual curiosity"
+        },
+        {
+          "id": "C",
+          "text": "Patient guidance tempered by focused resolve"
+        },
+        {
+          "id": "D",
+          "text": "Earnest encouragement mixed with nervous energy"
+        },
+        {
+          "id": "E",
+          "text": "Reserved seriousness tempered by subtle disdain"
+        },
+        {
+          "id": "F",
+          "text": "Authoritative confidence mixed with genuine warmth"
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. In this period, the speaker begins with a reassuring phrase ('perfectly okay') and a slight smile, suggesting 'patient guidance'. This quickly transitions to a corrective statement ('The point isn't...') and a more neutral, direct expression, which reflects a 'focused resolve' to convey her point clearly. This blend accurately captures the shift from a soft opening to a firm, instructional purpose. \nOption A is a near-miss distractor; while she is composed, there is no clear evidence of frustration. \nOption B is a text-based distractor; the topic is intellectual, but her expression is engaged and directive, not detached. \nOption D is a video-based distractor; she shows alertness (wide eyes), but her tone is more firm and instructional than earnestly encouraging. \nOption E is a text-based distractor; 'seriousness' is plausible, but interpreting her neutral expression as 'disdain' is unsupported. \nOption F is a near-miss distractor; she shows confidence, but the initial 'warmth' is very fleeting and fades quickly, making 'genuine' an inaccurate qualifier."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 12.4s, a region was detected in the video (x=0.197, y=0.545, w=0.564, h=0.389, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A focused and direct gaze toward the viewing camera."
+        },
+        {
+          "id": "B",
+          "text": "A subtle shift in eyebrow position for verbal emphasis."
+        },
+        {
+          "id": "C",
+          "text": "A stable upper-body posture within a medium shot frame."
+        },
+        {
+          "id": "D",
+          "text": "A slight upward curve of the lips, forming a soft smile."
+        },
+        {
+          "id": "E",
+          "text": "A small, emphatic nodding motion used for reinforcement."
+        },
+        {
+          "id": "F",
+          "text": "Widened eyes indicating a state of heightened attention."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. The provided bounding box is large and covers the subject's shoulders and chest area. The description 'stable upper-body posture within a medium shot frame' accurately describes the content of this specific region, which relates to the overall framing and posture rather than a specific facial expression. \nAll other options are video-based distractors. They describe real actions and expressions from the video (direct gaze, eyebrow movement, lip curve, head nod, wide eyes), but these all occur in the facial region, which is located spatially outside and above the specified bounding box."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "The speaker's mouth area shows a subtle transition in expression during her opening remarks. Which of the following options correctly identifies the location and timing of this specific expressive feature?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[12.4s] x=0.382, y=0.276, w=0.326, h=0.682"
+        },
+        {
+          "id": "B",
+          "text": "[6.9s] x=0.405, y=0.487, w=0.175, h=0.195"
+        },
+        {
+          "id": "C",
+          "text": "[9.9s] x=0.353, y=0.197, w=0.228, h=0.492"
+        },
+        {
+          "id": "D",
+          "text": "[6.9s] x=0.385, y=0.313, w=0.206, h=0.168"
+        },
+        {
+          "id": "E",
+          "text": "[10.3s] x=0.459, y=0.255, w=0.102, h=0.163"
+        },
+        {
+          "id": "F",
+          "text": "[12.4s] x=0.405, y=0.487, w=0.175, h=0.195"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. The observation data contains a specific bounding box for the mouth at 6.9s, which captures its transition to a more neutral shape. This option correctly pairs that timestamp with the accurate coordinates for the mouth region. \nOption A is a video-based distractor showing the bbox for the entire person at the wrong time. \nOption C is a video-based distractor showing the bbox for a head gesture at the wrong time. \nOption D is a near-miss distractor (spatial error); it has the correct timestamp but provides coordinates for the eye region, not the mouth. \nOption E is a video-based distractor showing the bbox for the eyebrows at the wrong time. \nOption F is a near-miss distractor (temporal error); it has the correct mouth coordinates but places them at a much later, incorrect timestamp."
+    },
+    {
+      "category": "Counterfactual Reasoning",
+      "question": "If the person had NOT exhibited the behavior observed around 6.5s - 11.0s, which of the following personality assessments would be MOST affected?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Openness would be less supported as this segment contains the main evidence of abstract, intellectual discourse."
+        },
+        {
+          "id": "B",
+          "text": "Extraversion would be rated higher as this quiet period is the primary indicator of her introverted nature."
+        },
+        {
+          "id": "C",
+          "text": "Conscientiousness would be less supported as this segment has the key evidence of methodical, structured communication."
+        },
+        {
+          "id": "D",
+          "text": "Neuroticism would be rated lower, since the emphatic vocal delivery in this period hints at underlying tension."
+        },
+        {
+          "id": "E",
+          "text": "Conscientiousness would be rated higher because this particular behavior is the only indicator of spontaneity."
+        },
+        {
+          "id": "F",
+          "text": "Agreeableness would increase as the direct, instructional tone of this segment currently lowers the rating."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. The time range 6.5s - 11.0s covers the deliberate vocal emphasis on 'simply' and 'observe' as well as the purposeful pause. This structured and methodical delivery is the strongest evidence for the Medium Conscientiousness rating. Removing it would significantly weaken the basis for this assessment. \nOption A is a text-based distractor; while the topic is intellectual, the *delivery* in this segment is the primary signal, and it points to Conscientiousness more than Openness. \nOption B is a video-based distractor; her Low Extraversion is supported by her contained posture throughout the video, not just this segment. \nOption D is a video-based distractor; evidence for Neuroticism also comes from her wide-open eyes, a consistent feature outside this specific time range. \nOption E is a near-miss distractor; it correctly identifies Conscientiousness as the affected trait but reverses the logic, incorrectly claiming the structured behavior shows spontaneity. \nOption F is a text-based distractor; while her instructional tone relates to Agreeableness, the specific behavior of methodical emphasis is a more direct and unique indicator of Conscientiousness."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator14",
+      "version": 1,
+      "clues_total": 12,
+      "clues_correct": 12,
+      "clues_wrong_corrected": 0,
+      "clues_missing_skipped": 0,
+      "clues_bonus": 0
+    }
+  }
+}

@@ -1,0 +1,326 @@
+{
+  "video_id": "X-GXO_urMow.000.mp4",
+  "video_path": "X-GXO_urMow.000.mp4",
+  "transcription": "Of course, this is not just a story about glass. It's a story about a shift in the way we will communicate and use technology in the future. It's a story about ubiquitous displays, open operating systems, shared applications-",
+  "original_scores": {
+    "extraversion": 0.5140186915887851,
+    "agreeableness": 0.7032967032967032,
+    "conscientiousness": 0.8640776699029126,
+    "neuroticism": 0.5833333333333333,
+    "openness": 0.6333333333333333
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 0.93,
+      "description": "A person is shown with their eyes closed, face relaxed in a state of sleep.",
+      "bboxes": [
+        {
+          "frame_time": 0,
+          "x": 0.7701480263157896,
+          "y": 0.6192982422678094,
+          "w": 0.06661184210526316,
+          "h": 0.27631578947368424,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 0,
+          "x": 0.6739309210526316,
+          "y": 0.5824561370046515,
+          "w": 0.2087171052631579,
+          "h": 0.26052631578947366,
+          "note": "face human-annotated",
+          "region": "face"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 1.13,
+      "end_time": 15.33,
+      "description": "The subject maintains direct and steady eye contact with the camera. His eyebrows lift slightly and briefly for emphasis on words like \"not just\" (00:02), \"shift\" (00:05), and \"story\" (00:09). His facial expression is neutral and engaged, with natural mouth movements corresponding to his speech. There is a slight tightening at the corners of his mouth when pausing between phrases.",
+      "bboxes": [
+        {
+          "frame_time": 1.13,
+          "x": 0.41488486842105265,
+          "y": 0.2140350843730726,
+          "w": 0.18355263157894738,
+          "h": 0.17894736842105263,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 1.13,
+          "x": 0.4178453947368421,
+          "y": 0.2061403475309673,
+          "w": 0.16578947368421054,
+          "h": 0.17105263157894737,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 1.13,
+          "x": 0.4178453947368421,
+          "y": 0.16403508437307257,
+          "w": 0.15394736842105264,
+          "h": 0.43157894736842106,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 1.13,
+          "x": 0.4622532894736842,
+          "y": 0.41140350542570414,
+          "w": 0.09473684210526316,
+          "h": 0.19736842105263158,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 1.13,
+          "x": 0.4385690789473684,
+          "y": 0.42192982121517786,
+          "w": 0.11101973684210527,
+          "h": 0.1,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 0.93,
+      "description": "A person is lying on their side in bed, seemingly asleep. Their body is still.",
+      "bboxes": [
+        {
+          "frame_time": 0,
+          "x": 0.3349506578947368,
+          "y": 0.36929824226780944,
+          "w": 0.32861842105263156,
+          "h": 0.5,
+          "note": "human-annotated",
+          "region": "unknown"
+        },
+        {
+          "frame_time": 0,
+          "x": 0.3053453947368421,
+          "y": 0.4798245580572831,
+          "w": 0.2546052631578947,
+          "h": 0.38421052631578945,
+          "note": "pose human-annotated",
+          "region": "torso"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 1.13,
+      "end_time": 15.33,
+      "description": "The subject is framed from the chest up, standing or sitting upright with shoulders level and relaxed. His head remains relatively stationary, with very subtle nods and shakes that align with his speech for emphasis (e.g., a slight head shake on \"not just\" at 00:02).",
+      "bboxes": [
+        {
+          "frame_time": 1.267684,
+          "x": 0.23133223684210527,
+          "y": 0.5456140317414936,
+          "w": 0.5565789473684211,
+          "h": 0.41842105263157897,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 1.267684,
+          "x": 0.18988486842105262,
+          "y": 0.4824561370046515,
+          "w": 0.6009868421052632,
+          "h": 0.4105263157894737,
+          "note": "pose human-annotated",
+          "region": "shoulders"
+        },
+        {
+          "frame_time": 1.267684,
+          "x": 0.35567434210526316,
+          "y": 0.03771929489938836,
+          "w": 0.27828947368421053,
+          "h": 0.5368421052631579,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 1.13,
+      "description": "Soft, melodic instrumental music plays.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 1.23,
+      "end_time": 15.33,
+      "description": "The subject speaks at a moderate and even pace in a mid-range pitch. There is a slight upward inflection on \"Of course\" (00:01) and a downward inflection at the end of the sentence on \"glass\" (00:04). He places emphasis on key words like \"shift\" (00:05), \"future\" (00:08), and \"ubiquitous displays\" (00:11) with a slight increase in pitch and stress. Volume is consistent. Brief, natural pauses separate his sentences.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.33,
+      "description": "The video opens on a dimly lit bedroom scene (00:00-00:01), showing a person with dark hair in a pink shirt sleeping. The wall is a dark red/maroon color with three blurred pictures. At 00:01, the scene cuts to a man with dark hair and fair skin, wearing a black blazer over a black shirt. He is positioned in front of a soft, out-of-focus background with a light-blue-to-white gradient. The lighting on the man is even and bright. The word 'CORNING' is displayed in the upper right corner throughout the entire video.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Medium",
+      "score": 0.51,
+      "rationale": "The subject's Extraversion is rated as Medium. He is comfortable in a communicative role, evidenced by his direct, steady eye contact and use of vocal and facial emphasis. However, this is balanced by a composed and measured demeanor. His moderate speaking pace, controlled posture, and relatively neutral facial expression suggest a more reserved social energy compared to highly extraverted individuals, placing him in the middle of the spectrum.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "High",
+      "score": 0.7,
+      "rationale": "The subject's High Agreeableness is demonstrated through his calm and cooperative communication style. His relaxed shoulders, steady vocal tone, and engaged but non-threatening facial expression create a trustworthy presence. He conveys his message persuasively rather than assertively, a style typical of individuals who value harmonious interaction and are considerate of their audience.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Very High",
+      "score": 0.86,
+      "rationale": "The subject scores Very High in Conscientiousness, which is strongly supported by his polished and deliberate presentation. The professional attire, structured speech, and articulate delivery point to thorough preparation. His purposeful use of vocal stress on key terms and controlled, subtle head movements for emphasis reflect a methodical, disciplined, and goal-oriented approach, all hallmarks of this trait.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Medium",
+      "score": 0.58,
+      "rationale": "The subject's Medium Neuroticism score reflects a balance between external composure and subtle signs of self-monitoring. While he appears largely calm and confident, evidenced by his steady gaze and relaxed posture, the observation of his mouth corners tightening slightly during pauses could indicate mild tension or careful thought under performance pressure. This suggests general emotional stability but not a complete absence of self-consciousness.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "High",
+      "score": 0.63,
+      "rationale": "The High Openness score is primarily supported by the intellectual and abstract content of the subject's speech. He discusses complex, future-oriented concepts like a 'shift' in technology, 'ubiquitous displays,' and 'open operating systems.' This focus on innovative ideas and his articulate, nuanced language demonstrate a strong intellectual curiosity and a capacity for abstract thought, which are core components of Openness.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Mixed Emotion Discrimination",
+      "question": "During 1.1s - 15.3s, the person's emotional state is best characterized as which of the following? Consider both verbal and non-verbal cues.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Passionate enthusiasm that is tempered by his careful verbal articulation."
+        },
+        {
+          "id": "B",
+          "text": "Intellectual confidence that is mixed with his professional composure."
+        },
+        {
+          "id": "C",
+          "text": "Calm assurance that is mixed with a subtle hint of social apprehension."
+        },
+        {
+          "id": "D",
+          "text": "Earnest sincerity that is tempered by a sense of his deep reflection."
+        },
+        {
+          "id": "E",
+          "text": "Reserved personal warmth that is mixed with an undercurrent of optimism."
+        },
+        {
+          "id": "F",
+          "text": "Authoritative conviction that is tempered by some scholarly detachment."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. The subject's state is defined by a belief in his message (intellectual confidence) delivered in a controlled, measured, and professional manner (professional composure). This aligns with his Very High Conscientiousness and Medium Extraversion. Option A is a near-miss distractor; while he is articulate, 'passionate enthusiasm' overstates his controlled emotional energy. Option C is a near-miss distractor; he does show calm assurance, but 'social apprehension' is too strong for the very subtle cue of his mouth tightening. Option D is a text-based distractor; 'deep reflection' implies introspection, whereas he is actively presenting an idea outwards. Option E is a text-based distractor; his expression is more neutral-engaged than indicative of 'personal warmth'. Option F is a text-based distractor; his direct eye contact shows engagement, which contradicts 'scholarly detachment'."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 1.1s, a region was detected in the video (x=0.462, y=0.411, w=0.095, h=0.197, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The eyebrows lifting briefly to provide emphasis to a word."
+        },
+        {
+          "id": "B",
+          "text": "The mouth forming words in sync with the audible speech."
+        },
+        {
+          "id": "C",
+          "text": "The entire face maintaining a neutral but engaged posture."
+        },
+        {
+          "id": "D",
+          "text": "The eyes maintaining a direct and steady gaze at the camera."
+        },
+        {
+          "id": "E",
+          "text": "The upper torso and shoulders remaining in a relaxed stance."
+        },
+        {
+          "id": "F",
+          "text": "The side profile of a person's head resting on a pillow."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. The provided coordinates (x=0.462, y=0.411, w=0.095, h=0.197) at 1.1s precisely frame the subject's mouth area. At this moment, he is speaking, and the most prominent action in that specific region is the movement of his mouth corresponding to his speech. Option A is a video-based distractor; the eyebrow lift occurs in a different facial region (higher up). Option C is a near-miss distractor; while the overall facial expression is neutral, the question asks for the action in the specific bounding box, which is more specific than the entire face. Option D is a video-based distractor referencing the eyes, which are in a different location. Option E describes the torso, a different body part. Option F describes the sleeping person from the first second of the video, a different time and subject."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "Which option correctly identifies the temporal and spatial location of a subtle facial gesture used to add emphasis to a key concept?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[4.8s - 5.3s] @ (x=0.46, y=0.41, w=0.10, h=0.20)"
+        },
+        {
+          "id": "B",
+          "text": "[4.8s - 5.3s] @ (x=0.42, y=0.21, w=0.17, h=0.17)"
+        },
+        {
+          "id": "C",
+          "text": "[1.0s - 1.5s] @ (x=0.42, y=0.21, w=0.17, h=0.17)"
+        },
+        {
+          "id": "D",
+          "text": "[8.8s - 9.3s] @ (x=0.44, y=0.42, w=0.11, h=0.10)"
+        },
+        {
+          "id": "E",
+          "text": "[0.0s - 0.9s] @ (x=0.67, y=0.58, w=0.21, h=0.26)"
+        },
+        {
+          "id": "F",
+          "text": "[10.5s - 11.5s] @ (x=0.19, y=0.48, w=0.60, h=0.41)"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. The subject uses a brief eyebrow raise for emphasis on several key words. The time interval [4.8s - 5.3s] corresponds to when he says the word 'shift', a key concept he emphasizes. The coordinates (x=0.42, y=0.21, w=0.17, h=0.17) accurately frame the eyebrow region of his face. Option A is a video-based distractor; it has the correct time for the emphasis but the wrong spatial location (it points to the mouth). Option C is a video-based distractor; it has the correct spatial location for the eyebrows but the wrong time (this is just as he begins speaking). Option D is a near-miss distractor; it identifies another moment of verbal emphasis but points to the mouth region during the subsequent pause. Option E is a video-based distractor from the initial sleeping scene. Option F is a near-miss distractor; it has the correct time for another emphasis ('displays') but provides coordinates for the entire torso, not a facial gesture."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator13",
+      "version": 1,
+      "clues_total": 15,
+      "clues_correct": 15,
+      "clues_wrong_corrected": 0,
+      "clues_missing_skipped": 0,
+      "clues_bonus": 0
+    }
+  }
+}

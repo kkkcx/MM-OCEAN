@@ -1,0 +1,439 @@
+{
+  "video_id": "vzttwG7SKZ8.001.mp4",
+  "video_path": "vzttwG7SKZ8.001.mp4",
+  "transcription": "I wish that I could just, you know, come to everybody's house and help them and bring them with me to the gym and say like, \"Come on guys\" like I wish that I can motivate every single person personally, but unfortunately I can't, so you have to be that motivator, you have to find that fi-",
+  "original_scores": {
+    "extraversion": 0.7289719626168225,
+    "agreeableness": 0.7142857142857143,
+    "conscientiousness": 0.7281553398058251,
+    "neuroticism": 0.8645833333333334,
+    "openness": 0.7777777777777777
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 8.5,
+      "description": "The subject maintains direct eye contact with the camera. Her eyebrows raise and lower in coordination with her speech, creating an expressive and engaged look. Her mouth movements are natural.",
+      "bboxes": [
+        {
+          "frame_time": 3.747362,
+          "x": 0.3667763157894737,
+          "y": 0.2900000020077354,
+          "w": 0.16578947368421054,
+          "h": 0.12105263157894737,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 5.661952,
+          "x": 0.3815789473684211,
+          "y": 0.2268421072708933,
+          "w": 0.15394736842105264,
+          "h": 0.09473684210526316,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 6.705878,
+          "x": 0.3786184210526316,
+          "y": 0.437368423060367,
+          "w": 0.11398026315789474,
+          "h": 0.10526315789473684,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 8.5,
+      "end_time": 10.7,
+      "description": "Her eyebrows lower slightly, and her lips press together briefly as she finishes her sentence, transitioning to a more serious expression.",
+      "bboxes": [
+        {
+          "frame_time": 9.636281,
+          "x": 0.3830592105263158,
+          "y": 0.25578947569194593,
+          "w": 0.1524671052631579,
+          "h": 0.0868421052631579,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 10.53333,
+          "x": 0.4037828947368421,
+          "y": 0.4268421072708933,
+          "w": 0.10509868421052632,
+          "h": 0.07894736842105263,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 10.53333,
+          "x": 0.36973684210526314,
+          "y": 0.20842105463931435,
+          "w": 0.16875,
+          "h": 0.3605263157894737,
+          "note": "face human-annotated",
+          "region": "face"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 10.7,
+      "end_time": 15,
+      "description": "Her eyes widen and her eyebrows raise significantly as she speaks, creating a look of emphasis and motivation, particularly on the final phrase.",
+      "bboxes": [
+        {
+          "frame_time": 12.85,
+          "x": 0.3756578947368421,
+          "y": 0.29526315990247226,
+          "w": 0.1317434210526316,
+          "h": 0.1,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 13.416011,
+          "x": 0.3712171052631579,
+          "y": 0.23473684411299856,
+          "w": 0.16430921052631578,
+          "h": 0.10526315789473684,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 1.9,
+      "end_time": 8.3,
+      "description": "She raises both hands into the frame, making open, outward gestures with her palms up to emphasize her points. Her head nods slightly.",
+      "bboxes": [
+        {
+          "frame_time": 4.396859,
+          "x": 0.719078947368421,
+          "y": 0.7031578967445775,
+          "w": 0.28092105263157896,
+          "h": 0.29210526315789476,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 8.3,
+      "end_time": 12,
+      "description": "She lowers her hands out of frame before bringing them back up to her chest level, gesturing with palms facing inward.",
+      "bboxes": [
+        {
+          "frame_time": 10.475637,
+          "x": 0.18914473684210525,
+          "y": 0.7005263177972091,
+          "w": 0.5861842105263158,
+          "h": 0.28157894736842104,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 12,
+      "end_time": 15,
+      "description": "Her gestures become more energetic as she raises both hands to shoulder level, with fingers slightly curled, shaking them for emphasis.",
+      "bboxes": [
+        {
+          "frame_time": 13.545876,
+          "x": 0.12845394736842106,
+          "y": 0.6031578967445775,
+          "w": 0.6661184210526316,
+          "h": 0.34210526315789475,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 13.566876,
+          "x": 0.15805921052631577,
+          "y": 0.605789475691946,
+          "w": 0.6320723684210526,
+          "h": 0.3526315789473684,
+          "note": "pose human-annotated",
+          "region": "shoulders"
+        },
+        {
+          "frame_time": 14.224864,
+          "x": 0.11365131578947368,
+          "y": 0.5268421072708933,
+          "w": 0.6735197368421053,
+          "h": 0.3526315789473684,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 8.6,
+      "description": "The subject speaks at a moderate, conversational pace with a clear tone and even volume. Her pitch has a natural, melodic intonation.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 8.6,
+      "end_time": 10.7,
+      "description": "Her pace slows and her pitch lowers on the phrase \"but unfortunately I can't,\" adding a more somber tone.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 10.7,
+      "end_time": 15,
+      "description": "Her volume and pitch increase significantly for emphasis on the phrases \"you have to be that motivator\" and \"you have to find that fi-\". She places strong stress on the words \"have to\" and \"find\".",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15,
+      "description": "The subject is a woman with tan skin and brown hair styled in a high bun. She is wearing a grey zip-up hoodie, a tan top, and large hoop earrings. The setting is an indoor room, likely a bedroom or dressing area. In the background, there is a white shelf with a mug, a glittery silver reindeer decoration, a softly lit Christmas tree, and a clothing rack with light-colored garments. The lighting is bright and focused on the subject.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 14.670485,
+      "end_time": 15.670485,
+      "description": "The zipper of the sweatshirt is under the chest, and the suspenders of the top are exposed under the sweatshirt.",
+      "bboxes": [
+        {
+          "frame_time": 15.170485,
+          "x": 0.3105263157894737,
+          "y": 0.6005263177972091,
+          "w": 0.2634868421052632,
+          "h": 0.3973684210526316,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "High",
+      "score": 0.73,
+      "rationale": "The subject's High Extraversion is evident in her highly expressive and socially engaging communication style. She maintains direct eye contact, uses dynamic and open hand gestures to emphasize her points, and exhibits significant vocal variety, shifting from a conversational tone to a loud, energetic one. This outward projection of energy and desire to connect with and motivate an audience are hallmark indicators of extraversion.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "High",
+      "score": 0.71,
+      "rationale": "A High level of Agreeableness is strongly supported by the content of her speech, where she expresses a sincere, altruistic desire to personally help and motivate others. This prosocial orientation is complemented by her non-verbal cues, such as the open, palms-up hand gestures, which convey warmth and trustworthiness, and an engaging facial expression characterized by mobile eyebrows, fostering a sense of connection and empathy with her audience.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "High",
+      "score": 0.73,
+      "rationale": "The subject's High Conscientiousness is demonstrated through the central theme of her message: the importance of self-motivation and personal responsibility. Her focused and goal-oriented speech, urging others to 'be that motivator,' reflects a disciplined and achievement-striving mindset. The shift to a more serious facial expression and somber tone when acknowledging limitations underscores the gravity with which she views this responsibility, a key facet of conscientiousness.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Very High",
+      "score": 0.86,
+      "rationale": "The Very High score in Neuroticism is indicated by the subject's pronounced emotional reactivity and intensity. There is a clear and rapid shift in her emotional state, moving from a melodic tone to a 'somber' one, and then escalating to a highly emphatic delivery with increased volume and pitch. This emotional lability, coupled with the impassioned, almost urgent plea for self-motivation, reflects the heightened emotional sensitivity and intensity characteristic of high neuroticism.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "High",
+      "score": 0.78,
+      "rationale": "The subject's High Openness is reflected in her dynamic and imaginative communication style. She uses a wide and nuanced range of expressions, from significantly raised eyebrows to widened eyes, and energetic, varied hand gestures. This comfort with expressing a rich inner emotional state, combined with the use of a vivid, hypothetical scenario ('come to everybody's house and help them') to convey her point, suggests a creative and abstract way of thinking.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During 10.7s - 15.0s, the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Indicative of Low Agreeableness."
+        },
+        {
+          "id": "B",
+          "text": "Indicative of Low Conscientiousness."
+        },
+        {
+          "id": "C",
+          "text": "Indicative of High Conscientiousness."
+        },
+        {
+          "id": "D",
+          "text": "Indicative of High Agreeableness."
+        },
+        {
+          "id": "E",
+          "text": "Indicative of Low Openness."
+        },
+        {
+          "id": "F",
+          "text": "Indicative of High Extraversion."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. During this interval, the person's volume and pitch increase as she delivers a highly goal-oriented message about self-motivation ('you have to be that motivator'). This reflects the disciplined, achievement-striving mindset characteristic of High Conscientiousness.\n\n- Option A is a text-based distractor. One might incorrectly infer that her forceful, demanding tone indicates low agreeableness, but the content is motivational, not antagonistic.\n- Option B is a near-miss distractor. It identifies the correct personality dimension (Conscientiousness) but gets the direction wrong. Her behavior is a clear sign of high, not low, conscientiousness.\n- Option D is a video-based distractor. Her overall message in the video suggests High Agreeableness (e.g., her wish to help everyone from 0-8s), but this specific segment's primary evidence points more strongly toward Conscientiousness.\n- Option E is a text-based distractor. It's plausible that a direct, prescriptive message could be seen as 'closed-minded', but her highly expressive and dynamic delivery throughout the video contradicts Low Openness.\n- Option F is a near-miss distractor. The energetic delivery does support High Extraversion, but the core theme of the speech in this segment—personal responsibility and self-discipline—is more central to the definition of Conscientiousness."
+    },
+    {
+      "category": "Mixed Emotion Discrimination",
+      "question": "During 8.5s - 10.7s, the person's emotional state is best characterized as which of the following? Consider both verbal and non-verbal cues.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Anxiety mixed with a sense of thoughtful concern."
+        },
+        {
+          "id": "B",
+          "text": "Anger tempered by a clear feeling of deep sorrow."
+        },
+        {
+          "id": "C",
+          "text": "Disappointment mixed with a sense of sober resolution."
+        },
+        {
+          "id": "D",
+          "text": "Pessimism mixed with a distinct feeling of defeat."
+        },
+        {
+          "id": "E",
+          "text": "Regret tempered by a growing feeling of frustration."
+        },
+        {
+          "id": "F",
+          "text": "Melancholy mixed with a quiet feeling of resignation."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. In this interval, the person says 'but unfortunately I can't.' Her tone becomes lower and somber, and her facial expression turns serious with lowered eyebrows and pressed lips. This combination reflects disappointment at her limitations, coupled with a firm, matter-of-fact acceptance of reality (sober resolution) before she pivots to her next point.\n\n- Option A is a video-based distractor. The serious expression could be mistaken for concern, but there are no clear cues for anxiety (like fidgeting or wavering voice).\n- Option B is a text-based distractor. The phrase 'unfortunately I can't' does not convey anger, making this interpretation inconsistent with the verbal content.\n- Option D is a near-miss distractor. 'Pessimism' and 'defeat' are too strong; her immediate pivot to a motivational message shows this is a momentary acknowledgement of reality, not a state of defeat.\n- Option E is a near-miss distractor. 'Regret' is very close to disappointment, but 'frustration' implies more agitation than is present in her controlled, serious expression.\n- Option F is a near-miss distractor. 'Resignation' is plausible, but 'sober resolution' better captures the firmness and lack of passivity in her expression as she prepares to deliver her next point."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 13.4s, a region was detected in the video (x=0.371, y=0.235, w=0.164, h=0.105, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A pair of open, outward-facing hand gestures."
+        },
+        {
+          "id": "B",
+          "text": "A set of inward-facing gestures near her chest."
+        },
+        {
+          "id": "C",
+          "text": "Raised eyebrows used to signal strong emphasis."
+        },
+        {
+          "id": "D",
+          "text": "Tightly pressed lips showing high concentration."
+        },
+        {
+          "id": "E",
+          "text": "A generally serious and rather somber expression."
+        },
+        {
+          "id": "F",
+          "text": "Direct and steady eye contact with the audience."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. The provided coordinates at 13.4s precisely frame the person's eyebrows. At this moment, she is in the middle of her motivational appeal, and the video shows her eyebrows are significantly raised to add emphasis and an encouraging, energetic tone to her speech.\n\n- Options A and B are video-based distractors. These hand gestures occur in the video, but they are located in different body regions (hands, not face) and at different times (A is from ~4.4s, B is from ~10.5s).\n- Options D and E are video-based distractors. These facial expressions occur around 10.5s, not at 13.4s. They describe the shift to a serious expression, which is temporally incorrect.\n- Option F is a near-miss distractor. The eyes are directly below the eyebrows, so this action occurs in a spatially adjacent but distinct region from the one specified in the bounding box."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "The person's expression briefly shifts to a more serious and resolute state, punctuated by a specific facial muscle contraction as she concludes a phrase. At which timestamp and bounding box does this action occur?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[5.7s]  x=0.38, y=0.23, w=0.15, h=0.09"
+        },
+        {
+          "id": "B",
+          "text": "[10.5s]  x=0.40, y=0.43, w=0.11, h=0.08"
+        },
+        {
+          "id": "C",
+          "text": "[10.5s]  x=0.37, y=0.21, w=0.17, h=0.36"
+        },
+        {
+          "id": "D",
+          "text": "[4.4s]  x=0.72, y=0.70, w=0.28, h=0.29"
+        },
+        {
+          "id": "E",
+          "text": "[14.2s]  x=0.11, y=0.53, w=0.67, h=0.35"
+        },
+        {
+          "id": "F",
+          "text": "[10.5s]  x=0.19, y=0.70, w=0.59, h=0.28"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. The question describes the moment she concludes the phrase 'but unfortunately I can't.' The observation data confirms that at 10.5s, her lips are briefly pressed shut. The coordinates in option B (x=0.40, y=0.43, w=0.11, h=0.08) correspond precisely to the bounding box of her mouth at that exact moment.\n\n- Option A is a video-based distractor. It points to her eyebrows during her initial expressive speech, which does not match the described action.\n- Option C is a near-miss distractor. It has the correct timestamp (10.5s) but the bounding box covers her entire face, making it less precise than option B, which isolates the specific muscle contraction (the mouth).\n- Option D is a video-based distractor. It shows her open hand gesture from the beginning of the video.\n- Option E is a video-based distractor. It shows her energetic, emphatic hand gestures from the end of the video.\n- Option F is a video-based distractor. It has the correct timestamp (10.5s) but shows her hands, which are held near her chest at that moment, not her facial expression."
+    },
+    {
+      "category": "Counterfactual Reasoning",
+      "question": "If the person had NOT exhibited the behavior observed around 8.5s - 10.7s, which of the following personality assessments would be MOST affected?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Extraversion would shift from High to Medium, as that quiet moment is a critical part of her social engagement pattern."
+        },
+        {
+          "id": "B",
+          "text": "Agreeableness would shift from High to Low, because that specific moment contains her only expression of empathy."
+        },
+        {
+          "id": "C",
+          "text": "Neuroticism would shift from Very High to a lower rating, as the main evidence for emotional reactivity would be absent."
+        },
+        {
+          "id": "D",
+          "text": "Conscientiousness would be much lower, as this is the primary indicator of her thoughtful and disciplined mindset."
+        },
+        {
+          "id": "E",
+          "text": "Openness would shift from High to Low, since that behavior is the primary evidence for her imaginative style of thinking."
+        },
+        {
+          "id": "F",
+          "text": "Neuroticism would shift from Very High to an even higher rating, as its absence would imply emotional suppression."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. The behavior during 8.5s - 10.7s is the rapid shift from a melodic, engaging tone to a somber, serious one. The personality analysis explicitly cites this 'pronounced emotional reactivity and intensity' as the primary evidence for Very High Neuroticism. Removing this behavior would eliminate the strongest indicator of emotional lability, thus significantly lowering the Neuroticism score.\n\n- Option A is a text-based distractor. High Extraversion is supported by her energetic delivery and expressive gestures at the beginning and end of the video. Removing the brief, quiet middle section would not substantially change this assessment.\n- Option B is a video-based distractor. The main evidence for High Agreeableness comes from her stated desire to help everyone at the beginning of the video (0-8s), not from the serious moment in question.\n- Option D is a text-based distractor. The main evidence for High Conscientiousness is the goal-oriented, motivational content of her speech at the end (10.7s-15.0s), not the behavior in the specified interval.\n- Option E is a text-based distractor. High Openness is supported by her dynamic range of expression and use of a hypothetical scenario, not this specific moment of seriousness.\n- Option F is a near-miss distractor. It identifies the correct trait (Neuroticism) but proposes an incorrect direction of change based on a complex and unsupported psychological inference."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator11",
+      "version": 1,
+      "clues_total": 22,
+      "clues_correct": 16,
+      "clues_wrong_corrected": 1,
+      "clues_missing_skipped": 4,
+      "clues_bonus": 1
+    }
+  }
+}

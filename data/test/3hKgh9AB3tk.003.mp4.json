@@ -1,0 +1,321 @@
+{
+  "video_id": "3hKgh9AB3tk.003.mp4",
+  "video_path": "3hKgh9AB3tk.003.mp4",
+  "transcription": "In the shallow drop-offs, in like four to ten feet of water, imitating the [shout 00:00:05] again, and using a, not really as much as a twitch or a jerk, using more of a pull than a pause, and use a long pause when the ...",
+  "original_scores": {
+    "extraversion": 0.37383177570093457,
+    "agreeableness": 0.5604395604395604,
+    "conscientiousness": 0.4563106796116505,
+    "neuroticism": 0.42708333333333337,
+    "openness": 0.5222222222222223
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 1.25,
+      "description": "The subject looks directly at the camera while speaking. His eyes briefly close and his eyebrows are neutral.",
+      "bboxes": [
+        {
+          "frame_time": 0.9896,
+          "x": 0.3171875,
+          "y": 0.3061403475309673,
+          "w": 0.20723684210526316,
+          "h": 0.12368421052631579,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 0.71919,
+          "x": 0.32310855263157895,
+          "y": 0.32456140016254625,
+          "w": 0.1924342105263158,
+          "h": 0.11052631578947368,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 0.34927,
+          "x": 0.31422697368421054,
+          "y": 0.24824561068886206,
+          "w": 0.20575657894736843,
+          "h": 0.1394736842105263,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 1.25,
+      "end_time": 15.55,
+      "description": "His eyes reopen and he maintains his gaze toward the camera. His facial expression is neutral and relaxed, with his mouth moving naturally as he speaks.",
+      "bboxes": [
+        {
+          "frame_time": 2.415789,
+          "x": 0.2964638157894737,
+          "y": 0.3798245580572831,
+          "w": 0.18207236842105262,
+          "h": 0.11578947368421053,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 6.813272,
+          "x": 0.28610197368421053,
+          "y": 0.23508771595201994,
+          "w": 0.24572368421052632,
+          "h": 0.4921052631578947,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 7.61611,
+          "x": 0.3734375,
+          "y": 0.5061403475309673,
+          "w": 0.12434210526315789,
+          "h": 0.10789473684210527,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 15.55,
+      "description": "The subject remains seated and relatively still throughout the clip. His head moves with very subtle nods and turns that are in sync with his speech rhythm.",
+      "bboxes": [
+        {
+          "frame_time": 2.999624,
+          "x": 0.2046875,
+          "y": 0.16403508437307257,
+          "w": 0.45592105263157895,
+          "h": 0.8315789473684211,
+          "note": "pose human-annotated",
+          "region": "torso"
+        },
+        {
+          "frame_time": 9.788377,
+          "x": 0.2698190789473684,
+          "y": 0.10614034753096731,
+          "w": 0.2945723684210526,
+          "h": 0.6105263157894737,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 4.16,
+      "description": "The subject speaks at a moderate pace and volume with a conversational, even pitch.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 4.16,
+      "end_time": 6.36,
+      "description": "He inserts a brief filler sound, \"uh,\" before continuing at the same pace.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 6.36,
+      "end_time": 15.55,
+      "description": "The pace remains consistent. The words \"pull\" and \"long pause\" are slightly stressed and elongated. His pitch falls slightly at the end of the sentence.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.55,
+      "description": "The subject is a young adult male of East Asian descent with short, dark hair. He is wearing a white and blue short-sleeved t-shirt and has black in-ear headphones on. He is in a well-lit indoor room with beige-colored walls. To his left is a tall wooden cabinet. Behind him is a doorway leading into another lit space. A recessed light is visible in the ceiling.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Low",
+      "score": 0.37,
+      "rationale": "The subject's Low Extraversion is indicated by his reserved and controlled demeanor. He remains relatively still throughout the clip, lacking the expansive body language or high physical energy often seen in more extraverted individuals. His speech is delivered at a moderate, steady pace and volume, which is more characteristic of an introverted, thoughtful communication style rather than the typically rapid and assertive speech of extraverts. His overall facial expression is neutral and relaxed, suggesting a lower need for social stimulation and outward emotional expression.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Medium",
+      "score": 0.56,
+      "rationale": "The Medium level of Agreeableness is supported by the subject's calm and cooperative communication style. His vocal delivery is conversational and steady, and his facial expression is relaxed and neutral, creating an approachable and non-confrontational presence. There are no observable cues of antagonism or skepticism, such as sharp tones or critical expressions. This combination of a pleasant vocal quality and a relaxed physical state points to a moderately agreeable temperament, focused on straightforward and harmonious interaction.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Medium",
+      "score": 0.46,
+      "rationale": "The subject's Medium Conscientiousness is reflected in his focused and structured communication. He appears to be explaining a specific technique, and his deliberate emphasis on key words ('pull', 'long pause') suggests a methodical approach and a desire for clarity. His speech is paced and controlled, and his physical mannerisms are minimal and aligned with his verbal rhythm, indicating self-discipline rather than impulsivity. The overall impression is that of an individual who is focused on the task at hand and is attempting to convey information in an orderly fashion.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Medium",
+      "score": 0.43,
+      "rationale": "The subject demonstrates a high degree of emotional stability, evidenced by his relaxed facial expression, steady vocal tone, and still posture. These behaviors are inconsistent with high Neuroticism. However, the use of a filler word ('uh') can be interpreted as a minor sign of self-monitoring or cognitive load management under the pressure of being recorded. This subtle cue of cognitive effort prevents a classification of Very Low, aligning with a Medium score that suggests a generally calm disposition with a typical capacity for mild, situational stress responses.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "Medium",
+      "score": 0.52,
+      "rationale": "A Medium score for Openness is consistent with the subject's focused yet conventional demeanor. He is engaged in the intellectual task of explaining a technique, which points to a degree of engagement with ideas and a willingness to share knowledge. However, he does not display the imaginative expressiveness, wide range of emotional displays, or unconventional style often associated with high Openness. His presentation is grounded and practical, focused on conveying specific information, which places him in the middle range of this trait.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During [0.0s - 15.6s], the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "High Conscientiousness, suggested by his methodical and focused explanation."
+        },
+        {
+          "id": "B",
+          "text": "Low Agreeableness, based on a neutral facial expression lacking clear warmth."
+        },
+        {
+          "id": "C",
+          "text": "Low Extraversion, seen in his reserved posture and moderate vocal delivery."
+        },
+        {
+          "id": "D",
+          "text": "High Neuroticism, indicated by subtle signs of anxiety or being very nervous."
+        },
+        {
+          "id": "E",
+          "text": "Medium Openness, reflected in his practical and grounded style of discourse."
+        },
+        {
+          "id": "F",
+          "text": "High Agreeableness, demonstrated by a very friendly and warm vocal intonation."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The person's reserved posture, moderate speech pace, and lack of expansive gestures throughout the video are primary indicators of Low Extraversion. The analysis explicitly links his 'reserved and controlled demeanor' and 'moderate, steady pace' of speech to this trait.\n- Option A is a text-based distractor. While he is explaining something (suggesting conscientiousness), the evidence for his controlled, low-energy state (Extraversion) is more prominent and consistent throughout the clip. His conscientiousness is rated Medium, not High.\n- Option B is a text-based distractor. A neutral expression does not automatically mean low agreeableness; his overall vocal tone is calm and cooperative, leading to a Medium Agreeableness score.\n- Option D is a near-miss distractor. It correctly identifies a trait (Neuroticism) but gets the direction wrong. His steady and calm demeanor points to low-to-medium, not high, neuroticism.\n- Option E is a video-based distractor. While his practical style does support Medium Openness, this is a more general assessment of his content rather than a specific, observable behavioral pattern as strong as his introverted presentation.\n- Option F is a near-miss distractor. It correctly identifies the trait of Agreeableness but misjudges the level; his tone is calm and cooperative (Medium), not exceptionally warm or friendly (High)."
+    },
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their measured Conscientiousness level?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[4.1s - 4.4s]"
+        },
+        {
+          "id": "B",
+          "text": "[0.6s - 0.9s]"
+        },
+        {
+          "id": "C",
+          "text": "[8.5s - 8.8s]"
+        },
+        {
+          "id": "D",
+          "text": "[1.1s - 1.4s]"
+        },
+        {
+          "id": "E",
+          "text": "[14.9s - 15.2s]"
+        },
+        {
+          "id": "F",
+          "text": "[3.2s - 3.5s]"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The observation data explicitly notes, '[Expression] [0.0s - 1.2s]: [eyes] His eyes briefly close (bbox@0.7s)'. This brief eye closure is a distinct micro-expression, often associated with cognitive processing or thought formulation, which is relevant to the trait of Conscientiousness (planning, methodical thinking). The interval [0.6s - 0.9s] correctly isolates this event.\n- Option A is a video-based distractor. This interval corresponds to the auditory event of the filler word 'uh' at 4.2s, which is relevant but is not a facial expression change.\n- Option C is a video-based distractor. This interval corresponds to when he audibly emphasizes the word 'pull', but there is no distinct facial micro-expression noted at this specific moment.\n- Option D is a near-miss distractor. This interval is immediately after the eye closure event, capturing the moment his eyes have reopened, but it misses the 'change' itself.\n- Option E is a text-based distractor. This interval is at the very end of the video, where no notable expression change occurs.\n- Option F is a text-based distractor. This is a random interval during his speech where his expression remains stable and neutral."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around [0.7s], a region was detected in the video (x=0.323, y=0.325, w=0.192, h=0.111, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A generally neutral and relaxed facial expression set across the entire face."
+        },
+        {
+          "id": "B",
+          "text": "The natural articulation of the mouth region as it forms words during speech."
+        },
+        {
+          "id": "C",
+          "text": "A brief closure of the eyes suggesting a short pause for thought or focus."
+        },
+        {
+          "id": "D",
+          "text": "A subtle rhythmic nodding of the head that is synchronized with verbal pacing."
+        },
+        {
+          "id": "E",
+          "text": "A still and stable posture being maintained throughout the torso and shoulders."
+        },
+        {
+          "id": "F",
+          "text": "A steady and direct gaze from the eyes being fixed directly upon the camera."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The provided coordinates and timestamp pinpoint the exact moment and location of the subject's eyes. The observation log for [0.0s - 1.2s] explicitly states '[eyes] his eyes briefly close (bbox@0.7s)'. This option accurately describes that action.\n- Option A is a video-based distractor. While the overall facial expression is neutral, this specific bounding box isolates the eyes, which are actively closing, not just passively neutral.\n- Option B is a video-based distractor. Mouth articulation is happening at the same time but in a different spatial region (lower on the face).\n- Option D is a video-based distractor. Head movement involves a different, larger region than the small bounding box around the eyes.\n- Option E is a video-based distractor. The torso posture is a general body state and is located well outside the specified facial coordinates.\n- Option F is a near-miss distractor. This describes the state of the eyes *before* and *after* the 0.7s mark, but not the specific action of closing that occurs within the specified bounding box at that time."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "The subject audibly emphasizes certain keywords to clarify his explanation. Which option correctly identifies the precise time and location of the facial region most involved in articulating one such keyword?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Time: 7.6s, covering the facial region at x=0.30, y=0.38, w=0.18, h=0.12"
+        },
+        {
+          "id": "B",
+          "text": "Time: 1.0s, covering the facial region at x=0.37, y=0.51, w=0.12, h=0.11"
+        },
+        {
+          "id": "C",
+          "text": "Time: 7.6s, covering the facial region at x=0.37, y=0.51, w=0.12, h=0.11"
+        },
+        {
+          "id": "D",
+          "text": "Time: 6.8s, covering the facial region at x=0.29, y=0.24, w=0.25, h=0.49"
+        },
+        {
+          "id": "E",
+          "text": "Time: 9.8s, covering the facial region at x=0.27, y=0.11, w=0.30, h=0.61"
+        },
+        {
+          "id": "F",
+          "text": "Time: 3.0s, covering the facial region at x=0.21, y=0.16, w=0.46, h=0.83"
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The observation log notes his mouth moving with speech with a representative bounding box at 7.6s (x=0.373, y=0.506, w=0.124, h=0.108). This time falls within the period where he is audibly emphasizing words like 'pull', and the bounding box correctly isolates the mouth region responsible for articulation.\n- Option A is a video-based distractor. The time (7.6s) is correct, but the bounding box corresponds to the eye region, not the mouth.\n- Option B is a video-based distractor. The bounding box correctly targets the mouth region, but the time (1.0s) is during his initial, less emphasized speech.\n- Option D is a near-miss distractor. The time (6.8s) is close, and the bounding box covers the general face, but it is not as precise as the correct option, which specifically targets the mouth during articulation.\n- Option E is a video-based distractor. This time and bounding box correspond to a general head position, not the specific region of articulation.\n- Option F is a text-based distractor. This time is plausible, but the large bounding box corresponds to the torso, which is not involved in articulating keywords."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator19",
+      "version": 1,
+      "clues_total": 12,
+      "clues_correct": 12,
+      "clues_wrong_corrected": 0,
+      "clues_missing_skipped": 0,
+      "clues_bonus": 0
+    }
+  }
+}

@@ -1,0 +1,415 @@
+{
+  "video_id": "dB2XYhvqUBU.002.mp4",
+  "video_path": "dB2XYhvqUBU.002.mp4",
+  "transcription": "All right, next question is from Snow Tiger. Do you think you're getting stronger this summer with the new strength and conditioning coach?",
+  "original_scores": {
+    "extraversion": 0.29906542056074764,
+    "agreeableness": 0.6263736263736264,
+    "conscientiousness": 0.6213592233009709,
+    "neuroticism": 0.5,
+    "openness": 0.5444444444444444
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 4.67,
+      "description": "The subject's gaze is directed upwards and to his right. His mouth moves naturally as he speaks. His eyebrows remain in a neutral position.",
+      "bboxes": [
+        {
+          "frame_time": 0,
+          "x": 0.5754934210526316,
+          "y": 0.16578947368421051,
+          "w": 0.14654605263157894,
+          "h": 0.14210526315789473,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 0,
+          "x": 0.5932565789473684,
+          "y": 0.30526315789473685,
+          "w": 0.10657894736842105,
+          "h": 0.1,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 0,
+          "x": 0.5532894736842106,
+          "y": 0.16578947368421051,
+          "w": 0.15986842105263158,
+          "h": 0.06842105263157895,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 4.67,
+      "end_time": 8.5,
+      "description": "His eyebrows raise slightly as he says, \"five years.\" His gaze remains steady, directed upwards and to his right. He blinks normally.",
+      "bboxes": [
+        {
+          "frame_time": 6.091297,
+          "x": 0.5266447368421052,
+          "y": 0.14473684210526316,
+          "w": 0.17319078947368421,
+          "h": 0.09736842105263158,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 6.805783,
+          "x": 0.5932565789473684,
+          "y": 0.15,
+          "w": 0.1169407894736842,
+          "h": 0.2131578947368421,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 6.805783,
+          "x": 0.584375,
+          "y": 0.2,
+          "w": 0.1524671052631579,
+          "h": 0.08947368421052632,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 8.5,
+      "end_time": 15.65,
+      "description": "His eyebrows move up and down subtly in coordination with his speech. His gaze remains directed upwards and to his right, with a brief downward shift around 12.5 seconds. His facial muscles appear relaxed.",
+      "bboxes": [
+        {
+          "frame_time": 14.61648,
+          "x": 0.562171052631579,
+          "y": 0.15526315789473685,
+          "w": 0.17171052631578948,
+          "h": 0.10263157894736842,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 14.61648,
+          "x": 0.5710526315789474,
+          "y": 0.21578947368421053,
+          "w": 0.12730263157894736,
+          "h": 0.07631578947368421,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 15.306958,
+          "x": 0.5873355263157894,
+          "y": 0.15,
+          "w": 0.13766447368421053,
+          "h": 0.25526315789473686,
+          "note": "face human-annotated",
+          "region": "face"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 15.65,
+      "description": "The subject sits in a brown leather chair, leaning back with his body angled slightly to his right. His head is tilted slightly to his left. His left hand is raised, with his thumb and index finger resting against his chin and cheek. He maintains this posture throughout the clip with minimal body movement.",
+      "bboxes": [
+        {
+          "frame_time": 3.292593,
+          "x": 0.4955592105263158,
+          "y": 0.07631578947368421,
+          "w": 0.2590460526315789,
+          "h": 0.6394736842105263,
+          "note": "pose human-annotated",
+          "region": "torso"
+        },
+        {
+          "frame_time": 3.292593,
+          "x": 0.5355263157894737,
+          "y": 0.0868421052631579,
+          "w": 0.13914473684210527,
+          "h": 0.3605263157894737,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 3.292593,
+          "x": 0.5384868421052632,
+          "y": 0.3263157894736842,
+          "w": 0.1125,
+          "h": 0.18157894736842106,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 3.292593,
+          "x": 0.5296052631578947,
+          "y": 0.3078947368421053,
+          "w": 0.13766447368421053,
+          "h": 0.16578947368421051,
+          "note": "human-annotated",
+          "region": "chin"
+        },
+        {
+          "frame_time": 3.292593,
+          "x": 0.5118421052631579,
+          "y": 0.2578947368421053,
+          "w": 0.15838815789473684,
+          "h": 0.2894736842105263,
+          "note": "pose human-annotated",
+          "region": "torso"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 4.7,
+      "description": "The subject speaks at a moderate pace with a conversational tone. There is a slight pause filled with \"um\" at 2.6 seconds.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 4.7,
+      "end_time": 7.33,
+      "description": "He pauses with another \"um\" sound. His pitch rises slightly at the end of the phrase \"in five years?\", typical of a rhetorical question.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 7.33,
+      "end_time": 15.65,
+      "description": "His speech rate becomes slightly more fluid and faster from 8.8 to 12.2 seconds. The overall volume and pitch remain consistent and within a normal conversational range.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.65,
+      "description": "The subject is a dark-skinned male with short, dark, curly hair. He is wearing a light blue collared shirt, a navy blue vest, and a dark tie with a red stripe pattern worn loosely. The setting is an indoor room, likely a hotel room, with striped beige wallpaper. A large circular mirror with a dark frame and a floor lamp with a white shade are visible in the background. A silver ice bucket is on a table in the foreground to the left. The lighting is soft and even.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Low",
+      "score": 0.3,
+      "rationale": "The subject's Low Extraversion is indicated by his reserved and internally-focused demeanor. He exhibits minimal body movement, maintaining a single, contemplative posture throughout the clip, which suggests a low expenditure of social energy. His speech is measured and includes thoughtful pauses (\"uhm\"), reflecting an internal processing style rather than an outward, assertive projection. The sustained pensive gesture (hand to chin) and upward gaze further support this interpretation of an individual who is more reflective and less demonstrative, consistent with lower extraversion.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "High",
+      "score": 0.63,
+      "rationale": "The High Agreeableness score is supported by the subject's calm and cooperative demeanor. His facial muscles remain relaxed and his vocal tone is consistently conversational and even, creating an approachable and non-confrontational atmosphere. The slight head tilt can be interpreted as a non-verbal cue of engagement and a willingness to consider the question earnestly. His entire response is delivered with a steady, pleasant temper, a hallmark of individuals high in agreeableness who tend to be cooperative and good-natured in social interactions.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "High",
+      "score": 0.62,
+      "rationale": "The subject's High Conscientiousness is evident in his deliberate and methodical approach to answering the question. His use of thinking pauses, a sustained pensive posture with his hand on his chin, and an upward gaze for cognitive recall all indicate that he is carefully constructing his response rather than answering impulsively. This structured thought process, where he takes time to formulate his ideas before speaking more fluently, reflects the thoroughness and self-discipline characteristic of a highly conscientious individual.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Medium",
+      "score": 0.5,
+      "rationale": "The Medium Neuroticism score is reflected in the subject's balanced emotional state. While he appears generally calm and composed, as evidenced by relaxed facial muscles and a steady vocal tone, he is not entirely devoid of self-monitoring. The brief pauses and measured speech could be interpreted as a mild form of carefulness that prevents him from being completely spontaneous. He manages the inherent pressure of being recorded with composure, showing emotional stability without being overly nonchalant, which aligns with a mid-range score for this trait.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "Medium",
+      "score": 0.54,
+      "rationale": "The subject's Medium Openness is suggested by his engaged yet conventional approach. He demonstrates a willingness to reflect and contemplate, as shown by his upward gaze and pensive posture, which aligns with intellectual curiosity. However, his overall expression and delivery do not indicate a strong preference for abstract or unconventional thinking. The thoughtful consideration he gives the question points away from low openness, while the lack of particularly novel or creative language in his response supports a score in the medium range.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During 0.0s - 15.7s, the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "High Extraversion, shown by his consistently engaging and expressive mannerisms."
+        },
+        {
+          "id": "B",
+          "text": "Low Agreeableness, suggested by the distant and somewhat uncooperative posture."
+        },
+        {
+          "id": "C",
+          "text": "High Neuroticism, indicated by the frequent, anxious pauses in his speech."
+        },
+        {
+          "id": "D",
+          "text": "High Conscientiousness, evidenced by the sustained, reflective thinking pose."
+        },
+        {
+          "id": "E",
+          "text": "Low Conscientiousness, as the long pauses suggest a disorganized thought process."
+        },
+        {
+          "id": "F",
+          "text": "Low Openness, reflected by a closed-off posture that hints at rigid thinking."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "The correct answer is D. The subject's sustained contemplative posture with his hand on his chin, coupled with thoughtful pauses and an upward gaze for recall, strongly indicates a deliberate, methodical, and careful approach to answering the question. This is a classic behavioral marker for High Conscientiousness.\n- Option A is a video-based distractor; his mannerisms are reserved, not expressive, which actually points to Low Extraversion.\n- Option B is a text-based distractor; 'distant' and 'uncooperative' are plausible interpretations of the pose from text alone, but his relaxed face and calm tone contradict this, supporting High Agreeableness instead.\n- Option C is a text-based distractor; the pauses are better interpreted as cognitive processing (Conscientiousness) rather than anxiety, as he shows no other signs of nervousness.\n- Option E is a near-miss distractor; it correctly identifies the relevant trait (Conscientiousness) but incorrectly interprets the evidence, assigning the wrong direction (Low instead of High).\n- Option F is a text-based distractor; the posture is for cognitive access, not a sign of being closed-off or having rigid thinking, making this an inaccurate interpretation."
+    },
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their engaged and methodical thought process?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[0.1s - 0.7s]"
+        },
+        {
+          "id": "B",
+          "text": "[2.4s - 3.0s]"
+        },
+        {
+          "id": "C",
+          "text": "[12.3s - 12.9s]"
+        },
+        {
+          "id": "D",
+          "text": "[5.8s - 6.4s]"
+        },
+        {
+          "id": "E",
+          "text": "[9.1s - 9.7s]"
+        },
+        {
+          "id": "F",
+          "text": "[15.0s - 15.6s]"
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "The correct answer is D. In the interval [5.8s - 6.4s], the person's eyebrows raise slightly as he says the word \"five\". This is the most distinct and singular micro-expression change in the clip, breaking from his otherwise stable and neutral expression, and it serves to add emphasis to his rhetorical question, reflecting his engagement with the topic.\n- Option A is a video-based distractor; this is the start of the clip where his expression is just settling into a neutral state.\n- Option B is a video-based distractor; this interval covers one of his 'uhm' pauses, which is an auditory cue, but there is no notable facial expression change.\n- Option C is a video-based distractor; this is when his eyes briefly shift downward, which is a subtle change but less of a distinct micro-expression than the eyebrow raise.\n- Option E is a video-based distractor; this is in the middle of his more fluent speech phase where his expression is stable and relaxed.\n- Option F is a near-miss distractor; it represents the very end of the clip, a plausible place for an expression change, but his face remains relaxed and neutral."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 0.0s, a region was detected in the video (x=0.59, y=0.31, w=0.11, h=0.10, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A slight, momentary raising of the eyebrows is occurring."
+        },
+        {
+          "id": "B",
+          "text": "An upward and leftward shift of the eyes is clearly visible."
+        },
+        {
+          "id": "C",
+          "text": "The head is maintained in a gentle and sustained side-tilt."
+        },
+        {
+          "id": "D",
+          "text": "Subtle lip articulation from ongoing speech can be observed."
+        },
+        {
+          "id": "E",
+          "text": "The upper cheek muscles appear to be completely relaxed."
+        },
+        {
+          "id": "F",
+          "text": "The upper torso is being held in a stable, seated posture."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "The correct answer is D. The provided coordinates (x=0.59, y=0.31, w=0.11, h=0.10) at t=0.0s precisely frame the subject's mouth. At this moment, he is beginning to speak, and the observation log confirms that his mouth is moving naturally for speech. Therefore, 'subtle lip articulation' is the correct description for the action in this specific bounding box.\n- Option A is a video-based distractor; an eyebrow raise occurs, but at a different time (around 6.1s) and in a different location (the forehead).\n- Option B is a video-based distractor; the upward and leftward eye gaze occurs at this time, but in the region of the eyes, not the mouth.\n- Option C is a video-based distractor; the head tilt is a broader action involving the entire head, not just the localized mouth region.\n- Option E is a video-based distractor; relaxed cheek muscles are adjacent to the mouth but are not the primary feature within this specific bbox.\n- Option F is a text-based distractor; this describes the overall posture, which is far outside the small bounding box focused on the mouth."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "The video contains a moment of subtle facial emphasis that briefly breaks the subject's otherwise neutral expression. At which time and location does this specific expressive change occur?",
+      "options": [
+        {
+          "id": "A",
+          "text": "t=3.3s, region=(x=0.538, y=0.326, w=0.113, h=0.182)"
+        },
+        {
+          "id": "B",
+          "text": "t=14.6s, region=(x=0.562, y=0.155, w=0.172, h=0.103)"
+        },
+        {
+          "id": "C",
+          "text": "t=6.1s, region=(x=0.527, y=0.245, w=0.173, h=0.097)"
+        },
+        {
+          "id": "D",
+          "text": "t=6.1s, region=(x=0.527, y=0.145, w=0.173, h=0.097)"
+        },
+        {
+          "id": "E",
+          "text": "t=0.0s, region=(x=0.575, y=0.166, w=0.147, h=0.142)"
+        },
+        {
+          "id": "F",
+          "text": "t=3.3s, region=(x=0.530, y=0.308, w=0.138, h=0.166)"
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "The correct answer is D. The most distinct moment of 'facial emphasis' is the slight eyebrow raise that occurs as he says 'five years'. The observation log places this event at t=6.1s and provides the corresponding bounding box for the eyebrows (x=0.527, y=0.145, w=0.173, h=0.097), which exactly matches this option.\n- Option A is a video-based distractor; it correctly identifies a time and location of a gesture (hand), but it's the sustained thinking pose, not a brief moment of facial emphasis.\n- Option B is a video-based distractor; this is a correct location for the eyebrows, but at a later time (t=14.6s) when they are moving subtly with speech, not the distinct, singular emphasis gesture at 6.1s.\n- Option C is a near-miss distractor; the time is correct (t=6.1s), but the y-coordinate (y=0.245) is incorrect, placing the box over the nose/cheeks instead of the eyebrows.\n- Option E is a video-based distractor; this corresponds to the eyes at the very beginning of the clip, which reflects cognitive access but not a moment of expressive emphasis.\n- Option F is a video-based distractor; this is the location of his chin during his thinking pose, which is a sustained state, not a brief expressive change."
+    },
+    {
+      "category": "Counterfactual Reasoning",
+      "question": "If the person had NOT exhibited the behavior observed around 0.0s - 8.5s, which of the following personality assessments would be MOST affected?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The assessment for High Agreeableness would be weakened, as this period contains crucial cues of his cooperative and calm nature."
+        },
+        {
+          "id": "B",
+          "text": "The assessment for Low Extraversion would be less certain, as this contemplative behavior is the main indicator of his social introversion."
+        },
+        {
+          "id": "C",
+          "text": "The assessment for Medium Neuroticism would be revised, as the thinking pauses would seem more indicative of anxiety without the calm pose."
+        },
+        {
+          "id": "D",
+          "text": "The assessment for High Conscientiousness would be weaker, as this period has the strongest evidence of deliberate, methodical thought."
+        },
+        {
+          "id": "E",
+          "text": "The assessment for High Conscientiousness would grow stronger, as it would imply he could process information quickly without any effort."
+        },
+        {
+          "id": "F",
+          "text": "The assessment for Medium Openness would shift, as the gesture provides key evidence of his particular style of intellectual engagement."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "The correct answer is D. The behavior in the first 8.5 seconds is the sustained, pensive pose (hand to chin, upward gaze) and thoughtful pauses. This is the primary evidence cited for a deliberate, methodical, and structured thought process, which are core facets of High Conscientiousness. Removing this behavior would remove the strongest support for that assessment, thus weakening it significantly.\n- Option A is a video-based distractor; while he is agreeable in this period, the evidence for High Agreeableness (relaxed face, calm tone) persists throughout the entire clip and is not confined to this specific contemplative behavior.\n- Option B is a text-based distractor; the pensive pose does contribute to the Low Extraversion assessment, but it's not the main indicator. His overall low level of animation, measured speech, and lack of expressive gestures provide strong support for Low Extraversion regardless of this specific pose. The pose is more uniquely indicative of Conscientiousness.\n- Option C is a text-based distractor; while a plausible inference, his calm facial muscles and steady vocal tone would still remain, likely keeping the Neuroticism assessment in the medium range.\n- Option E is a near-miss distractor; it correctly identifies the trait (Conscientiousness) but gets the reasoning and direction of change completely wrong. Removing evidence weakens a conclusion; it does not strengthen it.\n- Option F is a text-based distractor; the gesture is more about the *process* of thinking (Conscientiousness) than the *style or content* of thought (Openness), so the impact on the Openness score would be less direct."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator14",
+      "version": 1,
+      "clues_total": 18,
+      "clues_correct": 16,
+      "clues_wrong_corrected": 2,
+      "clues_missing_skipped": 0,
+      "clues_bonus": 0
+    }
+  }
+}

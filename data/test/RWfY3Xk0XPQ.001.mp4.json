@@ -1,0 +1,361 @@
+{
+  "video_id": "RWfY3Xk0XPQ.001.mp4",
+  "video_path": "RWfY3Xk0XPQ.001.mp4",
+  "transcription": "To answer everybody's questions on the follow-up video, this video here is just the announcement to let you guys know to please [inaudible 00:00:24] place your questions here, and in about four days ... I'm going to give it about four days to accumulate a good amount of questions-",
+  "original_scores": {
+    "extraversion": 0.4299065420560748,
+    "agreeableness": 0.4945054945054945,
+    "conscientiousness": 0.33980582524271846,
+    "neuroticism": 0.5729166666666666,
+    "openness": 0.6333333333333333
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 3.78,
+      "description": "The subject maintains direct gaze with the camera. His facial expression is neutral, with natural mouth movements corresponding to his speech.",
+      "bboxes": [
+        {
+          "frame_time": 0.842224,
+          "x": 0.4844572368421053,
+          "y": 0.14824561068886205,
+          "w": 0.14654605263157894,
+          "h": 0.07105263157894737,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 1.14222,
+          "x": 0.4533717105263158,
+          "y": 0.058771926478335734,
+          "w": 0.19539473684210526,
+          "h": 0.38421052631578945,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 2.875986,
+          "x": 0.49185855263157896,
+          "y": 0.3035087685835989,
+          "w": 0.11990131578947369,
+          "h": 0.12894736842105264,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 3.78,
+      "end_time": 6.81,
+      "description": "His eyebrows raise slightly as he speaks. He blinks once at 00:06.",
+      "bboxes": [
+        {
+          "frame_time": 3.813333,
+          "x": 0.5066611842105263,
+          "y": 0.12456140016254626,
+          "w": 0.12730263157894736,
+          "h": 0.07631578947368421,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 6.000041,
+          "x": 0.5111019736842105,
+          "y": 0.16403508437307257,
+          "w": 0.10805921052631579,
+          "h": 0.07105263157894737,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 6.81,
+      "end_time": 11.41,
+      "description": "The expression returns to a relatively neutral state, with minor brow movements accompanying his speech.",
+      "bboxes": [
+        {
+          "frame_time": 10.076657,
+          "x": 0.48149671052631576,
+          "y": 0.12719297910991467,
+          "w": 0.15542763157894737,
+          "h": 0.29473684210526313,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 8.647595,
+          "x": 0.45929276315789475,
+          "y": 0.11403508437307257,
+          "w": 0.17171052631578948,
+          "h": 0.12368421052631579,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 3.42,
+      "description": "The subject sits upright, facing forward. A small lizard rests on his left shoulder. His hands are out of frame.",
+      "bboxes": [
+        {
+          "frame_time": 1.804795,
+          "x": 0.4370888157894737,
+          "y": 0.08245613700465153,
+          "w": 0.26200657894736845,
+          "h": 0.7026315789473684,
+          "note": "human-annotated",
+          "region": "unknown"
+        },
+        {
+          "frame_time": 2.579996,
+          "x": 0.6280427631578948,
+          "y": 0.39035087384675676,
+          "w": 0.1361842105263158,
+          "h": 0.3026315789473684,
+          "note": "pose human-annotated",
+          "region": "shoulders"
+        },
+        {
+          "frame_time": 2.579996,
+          "x": 0.27870065789473686,
+          "y": 0.8061403475309673,
+          "w": 0.5950657894736843,
+          "h": 0.19210526315789472,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 3.42,
+      "end_time": 8.41,
+      "description": "He raises both hands into the frame, making open, illustrative gestures. He then briefly brings his right hand toward his left shoulder before lowering both hands.",
+      "bboxes": [
+        {
+          "frame_time": 3.886662,
+          "x": 0.2979440789473684,
+          "y": 0.6219298212151778,
+          "w": 0.46036184210526315,
+          "h": 0.3026315789473684,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 3.653331,
+          "x": 0.26389802631578946,
+          "y": 0.41403508437307257,
+          "w": 0.3034539473684211,
+          "h": 0.39210526315789473,
+          "note": "pose human-annotated",
+          "region": "shoulders"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 8.41,
+      "end_time": 11.51,
+      "description": "He clasps his hands together in front of his chest, making small rocking motions with them.",
+      "bboxes": [
+        {
+          "frame_time": 9.082196,
+          "x": 0.5333059210526315,
+          "y": 0.5692982422678095,
+          "w": 0.28125,
+          "h": 0.3473684210526316,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 11.51,
+      "end_time": 14.97,
+      "description": "He unclasps his hands and raises them again to make a wide, illustrative gesture with both palms facing inwards.",
+      "bboxes": [
+        {
+          "frame_time": 12.793671,
+          "x": 0.3852796052631579,
+          "y": 0.3956140317414936,
+          "w": 0.3848684210526316,
+          "h": 0.45789473684210524,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 14.97,
+      "description": "Speech is delivered at a moderate and consistent pace in a mid-range pitch. The volume is steady. There is slight vocal stress placed on the words \"follow-up video,\" \"here\" (00:06), \"please\" (00:08), and \"four days\" (00:12). A brief pause occurs at 00:11 before he says, \"I'm going to give it...\".",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 14.97,
+      "description": "The subject is a male with long, curly brown hair, a beard, and a mustache. He is wearing a black short-sleeved t-shirt with a yellow and orange logo. A tattoo is visible on his left forearm. He is in an indoor setting, likely a kitchen or dining area. Behind him to his left is a white wall with framed pictures of a lizard. To his right are light brown kitchen cabinets, a countertop with various items, and a white dishwasher. A small, light-colored lizard is perched on his left shoulder.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Medium",
+      "score": 0.43,
+      "rationale": "The subject's Extraversion level is assessed as Medium. While the act of creating a video for an audience and soliciting interaction indicates social engagement, this is counterbalanced by more reserved behaviors. His vocal delivery is moderate in pace and volume, and his facial expression remains largely neutral throughout the clip. He uses illustrative hand gestures, a sign of expressive energy, but also briefly adopts a more self-contained, crossed-arm posture. This combination of socially-oriented action with a controlled, non-boisterous demeanor supports a mid-range score for Extraversion.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Medium",
+      "score": 0.49,
+      "rationale": "The subject's Agreeableness is rated as Medium. His pro-social and cooperative intent is evident in the video's purpose: to answer audience questions, which he frames politely by using the word 'please'. This suggests a willingness to engage and accommodate others. However, his emotional expression is subdued, with a consistently neutral facial affect rather than overt displays of warmth or enthusiasm. The direct eye contact establishes connection, but the overall presentation is more functional than effusively friendly, justifying a score in the medium range.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Low",
+      "score": 0.34,
+      "rationale": "The subject's Conscientiousness is assessed as Low. The communication has a spontaneous and unplanned quality. The video itself is an 'announcement' for a future video, a less direct and efficient method of execution. His phrasing, particularly the slight pause and self-correction around the timeline ('in about four days ... I'm going to give it about four days'), suggests he is thinking aloud rather than following a script. This flexible, in-the-moment approach is characteristic of lower Conscientiousness, which prioritizes spontaneity over meticulous planning.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Medium",
+      "score": 0.57,
+      "rationale": "The subject's Neuroticism level is rated as Medium. On the surface, he appears calm and emotionally stable, demonstrated by his steady vocal tone, consistent pace, and direct eye contact with the camera. However, subtle cues suggest a mild degree of self-consciousness or cognitive load. The brief gesture of crossing his hands in front of his chest can be interpreted as a fleeting self-soothing or protective action. This combination of outward composure with minor, non-verbal indicators of internal monitoring points to a medium level of Neuroticism.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "High",
+      "score": 0.63,
+      "rationale": "The subject's Openness is assessed as High. The most compelling evidence is the highly unconventional behavior of having a live lizard resting on his shoulder during the recording. This, along with the framed lizard photos in the background, points to a deep engagement with unique interests and a strong comfort with the unusual. His personal aesthetic—long hair, beard, and a visible tattoo—further aligns with traits commonly associated with high Openness. This constellation of cues strongly suggests a personality that is curious, non-traditional, and receptive to novel experiences.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Mixed Emotion Discrimination",
+      "question": "During [3.8s - 6.8s], the person's emotional state is best characterized as which of the following? Consider both verbal and non-verbal cues.",
+      "options": [
+        {
+          "id": "A",
+          "text": "A sense of focused engagement tempered by a largely neutral demeanor."
+        },
+        {
+          "id": "B",
+          "text": "A feeling of mild amusement tempered by a need for full concentration."
+        },
+        {
+          "id": "C",
+          "text": "A state of slight confusion tempered by a strong desire to be helpful."
+        },
+        {
+          "id": "D",
+          "text": "A hint of genuine warmth mixed with a highly professional presentation."
+        },
+        {
+          "id": "E",
+          "text": "A sense of focused engagement mixed with a degree of nervous tension."
+        },
+        {
+          "id": "F",
+          "text": "A state of neutral delivery mixed with moments of subtle vocal emphasis."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "During this period, the subject raises his eyebrows slightly as he speaks, indicating social engagement and focus. However, the rest of his facial expression remains neutral and his vocal tone is steady, as noted in the analysis. This combination supports 'focused engagement' (the eyebrow raise) 'tempered by a largely neutral demeanor' (the overall affect).\n\n- Option B is a video-based distractor because while there is concentration, there are no visual or auditory cues supporting 'mild amusement'.\n- Option C is a text-based distractor because there is no evidence of confusion in his clear and direct speech.\n- Option D is a text-based distractor as his expression is described as 'subdued' and 'neutral', not conveying 'genuine warmth'.\n- Option E is a near-miss distractor. 'Focused engagement' is correct, but there are no strong cues for 'nervous tension' in this specific segment; his delivery is calm.\n- Option F is a near-miss distractor. This is very close, but 'focused engagement' is a better characterization of the internal state behind the eyebrow raise than simply 'subtle vocal emphasis,' which is a resulting behavior."
+    },
+    {
+      "category": "Temporal-Causal Reasoning",
+      "question": "Consider the sequence of behaviors observed across the video. Which of the following best describes the causal chain linking the person's actions at different moments?",
+      "options": [
+        {
+          "id": "A",
+          "text": "An initial expressive display (t1) is followed by a momentary self-regulatory behavior (t2), which then gives way to a resumption of expressive gesturing (t3)."
+        },
+        {
+          "id": "B",
+          "text": "A self-regulatory behavior (t1) causes a transition to an expressive display (t2), which then culminates in a more constrained and final posture (t3)."
+        },
+        {
+          "id": "C",
+          "text": "An initial period of neutral behavior (t1) is interrupted by an emphatic statement (t2), causing a subsequent shift to a closed-off defensive posture (t3)."
+        },
+        {
+          "id": "D",
+          "text": "An expressive communication attempt (t1) prompts a moment of cognitive planning (t2), which then results in a more structured and deliberate verbal delivery (t3)."
+        },
+        {
+          "id": "E",
+          "text": "A moment of cognitive planning (t1) leads to an initial expressive display (t2), which is then abruptly terminated by a self-conscious regulatory gesture (t3)."
+        },
+        {
+          "id": "F",
+          "text": "A momentary self-regulatory behavior (t1) is followed by an expressive display (t2) that serves as a compensatory act for an earlier moment of hesitation (t3)."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "This option correctly maps the video's event sequence: (t1) The person uses illustrative hand gestures from [3.4s-8.4s]. (t2) He briefly crosses his hands in a self-regulatory gesture at [8.4s-11.5s]. (t3) He then returns to making wide, illustrative gestures from [11.5s-15.0s].\n\n- Option B is a near-miss distractor with reversed temporal order; the self-regulatory behavior happens in the middle, not the beginning.\n- Option C is a video-based distractor; it misplaces the closed-off posture (hand cross) at the end of the sequence when it actually occurs in the middle.\n- Option D is a text-based distractor; it plausibly suggests 'cognitive planning', but there is no evidence that the verbal delivery becomes more structured afterwards.\n- Option E is a distractor with reversed temporal order; the self-regulatory gesture happens in the middle, not at the end.\n- Option F is a text-based distractor with incorrect causality; the expressive display is not a compensatory act, but a resumption of the initial state."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 2.6s, a region was detected in the video (x=0.279, y=0.806, w=0.595, h=0.192, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The lower torso area, with the hands currently positioned out of view."
+        },
+        {
+          "id": "B",
+          "text": "The hands brought together and crossed in front of the speaker's chest."
+        },
+        {
+          "id": "C",
+          "text": "A direct and steady gaze from the eyes, focused towards the camera."
+        },
+        {
+          "id": "D",
+          "text": "The hands resting calmly on the speaker's lap, just out of the frame."
+        },
+        {
+          "id": "E",
+          "text": "A subtle tensing of the shoulder muscles while beginning a sentence."
+        },
+        {
+          "id": "F",
+          "text": "A slight shift in posture, leaning forward to address the audience."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The specified bounding box at 2.6s covers the lower part of the screen where one might expect to see hands. However, at this specific moment, his hands are not in the frame, which is correctly described by this option.\n\n- Option B is a video-based distractor. It describes a real action involving the hands, but this action occurs later in the video, around 9.1s, not at 2.6s.\n- Option C is a video-based distractor. It describes the subject's eyes, which are in a completely different spatial region (the upper part of the face).\n- Option D is a near-miss distractor. It correctly states the hands are out of the frame, but it makes an unsubstantiated assumption that they are 'resting calmly on the speaker's lap'. We only know they are out of view.\n- Option E is a text-based distractor. This describes a plausible but unobserved action in a different body region (shoulders).\n- Option F is a text-based distractor. This describes a plausible action that does not occur in the video."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator10",
+      "version": 1,
+      "clues_total": 19,
+      "clues_correct": 15,
+      "clues_wrong_corrected": 1,
+      "clues_missing_skipped": 3,
+      "clues_bonus": 0
+    }
+  }
+}

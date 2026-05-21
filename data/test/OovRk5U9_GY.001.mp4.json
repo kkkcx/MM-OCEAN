@@ -1,0 +1,584 @@
+{
+  "video_id": "OovRk5U9_GY.001.mp4",
+  "video_path": "OovRk5U9_GY.001.mp4",
+  "transcription": "Drinking and metabolism. That's something that I'd kind of be leery about because you can't really trick your metabolism. You're metabolism is basically a set standard in your body and it doesn't really fluctuate like a switch does. It takes time gradually over time.",
+  "original_scores": {
+    "extraversion": 0.7009345794392524,
+    "agreeableness": 0.7802197802197802,
+    "conscientiousness": 0.6504854368932039,
+    "neuroticism": 0.7604166666666666,
+    "openness": 0.7666666666666666
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 2.7,
+      "description": "The subject maintains direct eye contact with the camera, speaking with natural mouth movements. His eyebrows are in a neutral position.",
+      "bboxes": [
+        {
+          "frame_time": 0.534254,
+          "x": 0.4341282894736842,
+          "y": 0.15877192647833574,
+          "w": 0.2590460526315789,
+          "h": 0.1631578947368421,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 0.976922,
+          "x": 0.4430098684210526,
+          "y": 0.42719297910991466,
+          "w": 0.16726973684210528,
+          "h": 0.11315789473684211,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 0.976922,
+          "x": 0.3808388157894737,
+          "y": 0.14824561068886205,
+          "w": 0.25608552631578946,
+          "h": 0.13157894736842105,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 2.7,
+      "end_time": 3.8,
+      "description": "The subject's eyes close slightly for a moment as he speaks, then return to a neutral open state.",
+      "bboxes": [
+        {
+          "frame_time": 3.632931,
+          "x": 0.4296875,
+          "y": 0.13508771595201993,
+          "w": 0.25164473684210525,
+          "h": 0.1868421052631579,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 3.785575,
+          "x": 0.4563322368421053,
+          "y": 0.13508771595201993,
+          "w": 0.22203947368421054,
+          "h": 0.2131578947368421,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 3.8,
+      "end_time": 6.7,
+      "description": "He continues to speak with a direct gaze. The corners of his mouth are slightly upturned in a subtle smile.",
+      "bboxes": [
+        {
+          "frame_time": 5.22043,
+          "x": 0.43560855263157894,
+          "y": 0.11140350542570415,
+          "w": 0.20575657894736843,
+          "h": 0.1631578947368421,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 6.487377,
+          "x": 0.42820723684210527,
+          "y": 0.38245613700465153,
+          "w": 0.17763157894736842,
+          "h": 0.12105263157894737,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 6.7,
+      "end_time": 9.4,
+      "description": "The subject's eyebrows raise slightly and his smile widens as he brings his hands into the frame.",
+      "bboxes": [
+        {
+          "frame_time": 9.097593,
+          "x": 0.3897203947368421,
+          "y": 0.1403508738467568,
+          "w": 0.24720394736842105,
+          "h": 0.15789473684210525,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 9.082328,
+          "x": 0.4385690789473684,
+          "y": 0.34824561068886206,
+          "w": 0.15542763157894737,
+          "h": 0.2026315789473684,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 9.082328,
+          "x": 0.24613486842105262,
+          "y": 0.6614035054257041,
+          "w": 0.5447368421052632,
+          "h": 0.33421052631578946,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 9.4,
+      "end_time": 14.8,
+      "description": "His expression returns to a neutral, conversational state, maintaining direct eye contact with the camera while speaking.",
+      "bboxes": [
+        {
+          "frame_time": 11.11034,
+          "x": 0.37935855263157897,
+          "y": 0.09824561068886205,
+          "w": 0.24868421052631579,
+          "h": 0.48947368421052634,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 11.11034,
+          "x": 0.3245888157894737,
+          "y": 0.13508771595201993,
+          "w": 0.3404605263157895,
+          "h": 0.17894736842105263,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 2.7,
+      "description": "The subject's head and shoulders are mostly stationary, facing the camera. His hands are not visible.",
+      "bboxes": [
+        {
+          "frame_time": 1.190624,
+          "x": 0.2372532894736842,
+          "y": 0.6377192948993884,
+          "w": 0.6379934210526316,
+          "h": 0.3447368421052632,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 0.183173,
+          "x": 0.2579769736842105,
+          "y": 0.3877192948993884,
+          "w": 0.5491776315789474,
+          "h": 0.6105263157894737,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 2.7,
+      "end_time": 3.8,
+      "description": "The subject brings his right hand up and briefly taps his upper chest with his fingertips.",
+      "bboxes": [
+        {
+          "frame_time": 3.449758,
+          "x": 0.3023848684210526,
+          "y": 0.6877192948993883,
+          "w": 0.24276315789473685,
+          "h": 0.3105263157894737,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 3.8,
+      "end_time": 6.7,
+      "description": "He lowers his right hand out of the frame.",
+      "bboxes": [
+        {
+          "frame_time": 4.793027,
+          "x": 0.1928453947368421,
+          "y": 0.7929824527941252,
+          "w": 0.20131578947368423,
+          "h": 0.20526315789473684,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 6.7,
+      "end_time": 9.4,
+      "description": "He raises both hands into the lower portion of the frame with his thumbs pointing up.",
+      "bboxes": [
+        {
+          "frame_time": 8.425958,
+          "x": 0.22837171052631577,
+          "y": 0.6087719264783358,
+          "w": 0.5565789473684211,
+          "h": 0.3894736842105263,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 9.4,
+      "end_time": 11.5,
+      "description": "While keeping his hands raised, he gestures forward with his right index finger.",
+      "bboxes": [
+        {
+          "frame_time": 9.4,
+          "x": 0.2846217105263158,
+          "y": 0.5956140317414936,
+          "w": 0.5151315789473684,
+          "h": 0.4026315789473684,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 11.280404,
+          "x": 0.21800986842105263,
+          "y": 0.4403508738467568,
+          "w": 0.23832236842105264,
+          "h": 0.5131578947368421,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 11.5,
+      "end_time": 14.8,
+      "description": "He lowers both hands out of the frame.",
+      "bboxes": [
+        {
+          "frame_time": 14.134851,
+          "x": 0.21949013157894737,
+          "y": 0.6324561370046515,
+          "w": 0.675,
+          "h": 0.36578947368421055,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 4.4,
+      "description": "The subject speaks at a moderately fast, conversational pace with consistent volume. There is a slight rise in pitch and added stress on the word \"leery\" (2.2) and \"trick\" (3.9).",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 4.4,
+      "end_time": 12.8,
+      "description": "The speech rate remains consistent. Pitch emphasis is placed on the words \"set\" (6.7), \"fluctuate\" (10.0), and \"switch\" (11.6). A brief filler word, \"um,\" is audible at 11.0.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 12.8,
+      "end_time": 14.8,
+      "description": "The subject's speech rate slows slightly. He places stress on both instances of the word \"time\" (13.3 and 14.5).",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 14.8,
+      "description": "The subject is a young adult male with a light brown skin tone, short dark hair, and visible freckles across his nose and cheeks. He is wearing a neon-green, short-sleeved athletic shirt with a black Nike logo. He is indoors in what appears to be a bedroom or living area. The background is dimly lit and out of focus, showing a cluttered desk, a chair with clothing on it, and a wardrobe with a mirror. A lamp with a white shade is visible to the right. The lighting on the subject is bright and direct, contrasting with the darker background.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0.388991,
+      "end_time": 1.3889909999999999,
+      "description": "The subject is a young adult male with a light brown skin tone, short dark hair, and visible freckles across his nose and cheeks. He is wearing a neon-green, short-sleeved athletic shirt with a black Nike logo. He is indoors in what appears to be a bedroom or living area. The background is dimly lit and out of focus, showing a cluttered desk, a chair with clothing on it, and a wardrobe with a mirror. A lamp with a white shade is visible to the right. The lighting on the subject is bright and direct, contrasting with the darker background.",
+      "bboxes": [
+        {
+          "frame_time": 0.888991,
+          "x": 0.6147203947368421,
+          "y": 0.30877192647833573,
+          "w": 0.08733552631578947,
+          "h": 0.16578947368421051,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "High",
+      "score": 0.7,
+      "rationale": "The subject's High Extraversion is demonstrated by his socially confident and expressive communication style. He maintains direct and consistent eye contact with the camera, a key indicator of social engagement. His speech is delivered at a moderately fast, energetic pace, and he uses a variety of illustrative hand gestures (e.g., pointing, thumbs up) to add emphasis and dynamism to his words. This outward projection of energy and comfort in a presentational role aligns well with high extraversion.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "High",
+      "score": 0.78,
+      "rationale": "The High Agreeableness score is reflected in the subject's pleasant and cooperative demeanor. His facial expressions, which include subtle, warm smiles, create a friendly and non-confrontational atmosphere. The vocal tone is consistently conversational and informative, suggesting a desire to be helpful rather than critical. This combination of positive affect and a collaborative communication style is characteristic of individuals high in agreeableness.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "High",
+      "score": 0.65,
+      "rationale": "The subject's High Conscientiousness is evident in the structured and purposeful nature of his speech. He presents a clear, logical argument, beginning with a central thesis ('you can't really trick your metabolism') and supporting it with specific details and explanations. His verbal delivery is fluent and focused, with deliberate emphasis on key terms ('set', 'fluctuate', 'switch') to ensure clarity. This methodical approach to conveying information reflects the diligence and precision associated with conscientiousness.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "High",
+      "score": 0.76,
+      "rationale": "Despite an outwardly calm appearance, subtle cues support the High Neuroticism score. The subject frames the topic with a statement of caution ('That's something that I'd kind of be leery about'), indicating a predisposition to focus on potential problems or worries. This is accompanied by a brief, self-referential chest-tapping gesture, which can function as a self-pacifying behavior when discussing a topic that elicits mild concern. These behaviors suggest an underlying tendency toward vigilance and worry, which are core facets of neuroticism.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "High",
+      "score": 0.77,
+      "rationale": "The subject's High Openness is strongly indicated by his engagement with a complex and abstract scientific topic (metabolism). He demonstrates intellectual curiosity by not just stating facts, but by actively explaining the underlying mechanism. His use of an analogy ('it doesn't really fluctuate like a switch does') to simplify this abstract concept for the viewer reveals cognitive flexibility and an aptitude for creative, abstract thinking. This focus on ideas and complex systems is a hallmark of individuals high in openness.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During 2.7s - 3.8s, the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "High Neuroticism, reflecting a tendency to focus on potential worries."
+        },
+        {
+          "id": "B",
+          "text": "Low Neuroticism, demonstrating an overall calm and stable emotionality."
+        },
+        {
+          "id": "C",
+          "text": "High Extraversion, indicated by the subject's energetic expressiveness."
+        },
+        {
+          "id": "D",
+          "text": "High Openness, shown through engagement with abstract, complex ideas."
+        },
+        {
+          "id": "E",
+          "text": "Low Agreeableness, suggesting a more critical or challenging approach."
+        },
+        {
+          "id": "F",
+          "text": "High Conscientiousness, supported by a structured and logical demeanor."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. The personality analysis identifies the chest-tapping gesture during this interval as a potential self-pacifying behavior linked to the verbal expression of being 'leery,' which supports a higher level of Neuroticism (tendency toward worry).\n\n- Option B is a near-miss distractor. It identifies the correct personality dimension (Neuroticism) but proposes the wrong direction (Low instead of High).\n- Option C is a video-based distractor. High Extraversion is supported by evidence in the video, such as the illustrative hand gestures, but those occur later (e.g., 6.7s-9.4s), not during the 2.7s-3.8s interval in question.\n- Option D is a video-based distractor. High Openness is supported by the person's use of an analogy, but that happens later in the video (around 10.0s-11.6s).\n- Option E is a text-based distractor. A chest tap could be misinterpreted from text alone as a gesture of defiance, which would align with Low Agreeableness, but this is not supported by the video's context.\n- Option F is a text-based distractor. The gesture might sound like an act of conviction, which could plausibly relate to Conscientiousness, but the primary evidence for that trait comes from the speech's logical structure, not this specific action."
+    },
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their Agreeableness level?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[6.7s - 9.4s]"
+        },
+        {
+          "id": "B",
+          "text": "[2.7s - 3.8s]"
+        },
+        {
+          "id": "C",
+          "text": "[9.4s - 11.5s]"
+        },
+        {
+          "id": "D",
+          "text": "[0.0s - 2.7s]"
+        },
+        {
+          "id": "E",
+          "text": "[12.8s - 14.8s]"
+        },
+        {
+          "id": "F",
+          "text": "[3.8s - 6.7s]"
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The personality analysis for High Agreeableness highlights the subject's 'pleasant... demeanor' and 'subtle, warm smiles.' While the smile widens at [6.7s - 9.4s], the most notable initial change related to this trait occurs at [3.8s - 6.7s]. During this interval, a 'faint smile' first appears, marking the shift from a neutral expression to a friendly one, which is core evidence for agreeableness mentioned in the rationale."
+    },
+    {
+      "category": "Mixed Emotion Discrimination",
+      "question": "During 6.7s - 9.4s, the person's emotional state is best characterized as which of the following? Consider both verbal and non-verbal cues.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Confident engagement blended with a feeling of warm agreeability."
+        },
+        {
+          "id": "B",
+          "text": "Simple amusement mixed with a small hint of genuine surprise."
+        },
+        {
+          "id": "C",
+          "text": "Intellectual curiosity tempered by a thoughtful level of seriousness."
+        },
+        {
+          "id": "D",
+          "text": "Slight skepticism balanced with an attempt at open-mindedness."
+        },
+        {
+          "id": "E",
+          "text": "Mild anxiety about the subject mixed with a desire to appear calm."
+        },
+        {
+          "id": "F",
+          "text": "Calm neutrality combined with a focused, direct presentational style."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. During this interval, the person's smile widens, their eyebrows raise, and they bring their hands into the frame to gesture. This combination of a warm facial expression (agreeability) and dynamic gesturing (confident engagement) points to this specific mixed emotional state.\n\n- Option B is a near-miss distractor. The raised eyebrows could be misinterpreted as surprise, but in the context of the widening smile and illustrative gestures, it signals engagement and emphasis rather than genuine surprise.\n- Option C is a video-based distractor. This emotional state might better describe other parts of the video where the person is explaining the complex topic (e.g., around 10.0s), but it doesn't fit the overt smiling in the specified interval.\n- Option D is a text-based distractor. The topic of 'tricking metabolism' could imply skepticism, but the visual cues (a broad smile) directly contradict this interpretation.\n- Option E is a text-based distractor. While the analysis suggests underlying neuroticism, making 'anxiety' plausible from text, the visual evidence in this specific segment is overwhelmingly positive and engaged, not anxious.\n- Option F is a video-based distractor. This accurately describes the person's demeanor at the very beginning (0.0s-2.7s) or end (after 9.4s) of the clip, but not this peak moment of expressiveness."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 9.1s, a region was detected in the video (x=0.439, y=0.348, w=0.155, h=0.203, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A distinctly widened, expressive smile appearing."
+        },
+        {
+          "id": "B",
+          "text": "A brief, subtle and momentary closure of the eyes."
+        },
+        {
+          "id": "C",
+          "text": "The eyebrows held in a steady, neutral position."
+        },
+        {
+          "id": "D",
+          "text": "The entire face beginning to return to neutral."
+        },
+        {
+          "id": "E",
+          "text": "The head and shoulders remaining largely static."
+        },
+        {
+          "id": "F",
+          "text": "A hand being lowered slowly out of the frame."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. The provided coordinates at 9.1s pinpoint the person's mouth. The observation log for the interval [6.7s - 9.4s] explicitly states smile widens, which matches this description.\n\n- Option B is a video-based distractor. The eye closure occurs at a different time (~3.6s) and in a different facial region (eyes, not mouth).\n- Option C is a video-based distractor. The eyebrows are neutral at the beginning of the video (~1.0s), not at 9.1s when they are slightly raised, and this bbox is on the mouth.\n- Option D is a near-miss distractor. The face does return to neutral, but this process starts *after* 9.4s. At 9.1s, the smile is at its peak width, not receding.\n- Option E is a video-based distractor. While the head is relatively still, the specified bbox is small and focused on the mouth, where a very prominent action (smiling) is occurring.\n- Option F is a video-based distractor. Hand movements occur, but not in this specific region of the frame (which is on the face) and not at this exact time."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "Which of the following options correctly identifies the time and location of a gesture involving hand contact with the upper torso?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[3.4s]  x=0.30, y=0.69, w=0.24, h=0.31"
+        },
+        {
+          "id": "B",
+          "text": "[9.1s]  x=0.25, y=0.66, w=0.54, h=0.33"
+        },
+        {
+          "id": "C",
+          "text": "[11.1s]  x=0.38, y=0.10, w=0.25, h=0.49"
+        },
+        {
+          "id": "D",
+          "text": "[0.2s]  x=0.26, y=0.39, w=0.55, h=0.61"
+        },
+        {
+          "id": "E",
+          "text": "[14.1s]  x=0.22, y=0.63, w=0.68, h=0.37"
+        },
+        {
+          "id": "F",
+          "text": "[6.5s]  x=0.43, y=0.38, w=0.18, h=0.12"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. The question asks to identify a gesture involving hand-to-torso contact. The observation log for [2.7s - 3.8s] describes the person raising their right hand and tapping their upper chest. The timestamp and bounding box in option A correctly capture this specific action.\n\n- Option B is a video-based distractor. This bbox at 9.1s shows both hands in the frame with thumbs up, but not making contact with the torso.\n- Option C is a video-based distractor. This bbox at 11.1s is located on the person's face, showing a neutral expression.\n- Option D is a video-based distractor. This bbox at 0.2s shows the hands just entering the frame at the beginning, not making contact with the chest.\n- Option E is a near-miss distractor. This bbox at 14.1s shows the general area where the hands are being lowered out of frame, but it's at the wrong time and doesn't depict the specific chest-contact gesture.\n- Option F is a video-based distractor. This bbox at 6.5s is located on the person's mouth, capturing a subtle smile."
+    },
+    {
+      "category": "Counterfactual Reasoning",
+      "question": "If the person had NOT exhibited the behavior observed around 6.7s - 9.4s, which of the following personality assessments would be MOST affected?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Extraversion would be rated lower, as this part has key evidence of their social energy and expressive dynamism."
+        },
+        {
+          "id": "B",
+          "text": "Extraversion would be rated higher, because the absence of that gesturing would suggest more internal focus."
+        },
+        {
+          "id": "C",
+          "text": "Neuroticism assessment would be less certain, as the self-pacifying chest tap gesture occurs in this segment."
+        },
+        {
+          "id": "D",
+          "text": "Openness score would decrease, because the complex analogy about the 'switch' is presented during this time."
+        },
+        {
+          "id": "E",
+          "text": "Agreeableness rating would be unaffected, as their warm vocal tone provides sufficient evidence for this trait."
+        },
+        {
+          "id": "F",
+          "text": "Conscientiousness would be rated lower, since this is the moment where their argument's structure is clear."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. The behavior from 6.7s - 9.4s includes widening the smile and making illustrative hand gestures. The personality analysis explicitly cites 'illustrative hand gestures... to add emphasis and dynamism' and 'outward projection of energy' as key evidence for High Extraversion. Removing this segment would remove the strongest evidence for this trait, thus lowering the assessment.\n\n- Option B is a near-miss distractor. It identifies the correct trait (Extraversion) but incorrectly predicts the direction of the change. Removing evidence for a trait would lower, not raise, its score.\n- Option C is a video-based distractor. It refers to a real behavior (chest tap) linked to a real trait (Neuroticism), but that behavior occurs earlier, around 3.4s, not in the [6.7s-9.4s] interval.\n- Option D is a video-based distractor. The 'switch' analogy, evidence for Openness, occurs later in the video (around 11.6s), not during the specified interval.\n- Option E is a text-based distractor. This is incorrect because the analysis also relies on the 'warm smiles' from this period as evidence for Agreeableness. Removing them would certainly affect the score, making the claim 'unaffected' false.\n- Option F is a text-based distractor. The evidence for Conscientiousness is the logical structure of the verbal argument throughout the video, not a specific non-verbal behavior in this short time slice."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [
+      {
+        "check": "B",
+        "q_idx": 1,
+        "issue": "The correct answer is 'A' ([6.7s - 9.4s]), where a smile widens. However, option 'F' ([3.8s - 6.7s]) is arguably a better answer, as this is when the smile first appears. The emergence of the smile is a more 'notable change' from neutral and a primary piece of evidence for High Agreeableness.",
+        "action": "Changed correct_answer from 'A' to 'F' and updated the explanation accordingly."
+      }
+    ],
+    "corrections": {
+      "mcq_questions[1].correct_answer": "F",
+      "mcq_questions[1].explanation": "The personality analysis for High Agreeableness highlights the subject's 'pleasant... demeanor' and 'subtle, warm smiles.' While the smile widens at [6.7s - 9.4s], the most notable initial change related to this trait occurs at [3.8s - 6.7s]. During this interval, a 'faint smile' first appears, marking the shift from a neutral expression to a friendly one, which is core evidence for agreeableness mentioned in the rationale."
+    },
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator16",
+      "version": 2,
+      "clues_total": 25,
+      "clues_correct": 23,
+      "clues_wrong_corrected": 1,
+      "clues_missing_skipped": 0,
+      "clues_bonus": 1
+    }
+  }
+}

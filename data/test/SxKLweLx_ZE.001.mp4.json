@@ -1,0 +1,347 @@
+{
+  "video_id": "SxKLweLx_ZE.001.mp4",
+  "video_path": "SxKLweLx_ZE.001.mp4",
+  "transcription": "How I got where I am? I feel like that would be a video all by itself so I'm going to address that next time and hopefully I'll have my sewing machine back by then because I really need to sad stitch some stuff. Have a good week and I will see you later.",
+  "original_scores": {
+    "extraversion": 0.47663551401869164,
+    "agreeableness": 0.6923076923076923,
+    "conscientiousness": 0.4563106796116505,
+    "neuroticism": 0.40625000000000006,
+    "openness": 0.4888888888888889
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 4.1,
+      "description": "The subject maintains a direct gaze toward the camera with a neutral, conversational facial expression. Their eyebrows raise very briefly and slightly in sync with speech at 0.7s and 2.9s. The mouth moves naturally with speech.",
+      "bboxes": [
+        {
+          "frame_time": 0.23308,
+          "x": 0.5555098684210527,
+          "y": 0.2429824527941252,
+          "w": 0.1480263157894737,
+          "h": 0.06578947368421052,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 0.742942,
+          "x": 0.5732730263157895,
+          "y": 0.166666663320441,
+          "w": 0.16430921052631578,
+          "h": 0.08421052631578947,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 2.593015,
+          "x": 0.5688322368421053,
+          "y": 0.3798245580572831,
+          "w": 0.10361842105263158,
+          "h": 0.0868421052631579,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 4.1,
+      "end_time": 6,
+      "description": "As the subject begins speaking the phrase \"and hopefully,\" their eyebrows raise and remain elevated.",
+      "bboxes": [
+        {
+          "frame_time": 5.797865,
+          "x": 0.5629111842105263,
+          "y": 0.13771929489938836,
+          "w": 0.1450657894736842,
+          "h": 0.08157894736842106,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 6,
+      "end_time": 15.68,
+      "description": "The eyebrows return to a neutral position. The expression remains largely neutral, with the corners of the mouth pulling back into a subtle smile at 10.8s and again at 14.8s. Natural blinking occurs throughout.",
+      "bboxes": [
+        {
+          "frame_time": 7.138075,
+          "x": 0.5865953947368421,
+          "y": 0.2061403475309673,
+          "w": 0.17615131578947368,
+          "h": 0.08947368421052632,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 9.706495,
+          "x": 0.5214638157894737,
+          "y": 0.08508771595201994,
+          "w": 0.2338815789473684,
+          "h": 0.49473684210526314,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 10.809085,
+          "x": 0.5806743421052631,
+          "y": 0.41929824226780943,
+          "w": 0.1125,
+          "h": 0.1,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 14.742311,
+          "x": 0.5466282894736842,
+          "y": 0.2429824527941252,
+          "w": 0.17911184210526315,
+          "h": 0.08421052631578947,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 15.68,
+      "description": "The subject is framed from the chest up, sitting relatively still. They are holding a purple book with both hands, positioned in the lower right quadrant of the frame. Head movements are minimal and correspond naturally with their speech rhythm.",
+      "bboxes": [
+        {
+          "frame_time": 4.079471,
+          "x": 0.4415296052631579,
+          "y": 0.04298245279412521,
+          "w": 0.3582236842105263,
+          "h": 0.9552631578947368,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 12.790265,
+          "x": 0.5259046052631579,
+          "y": 0.014035084373072574,
+          "w": 0.21167763157894737,
+          "h": 0.531578947368421,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 4.1,
+      "description": "Speech is delivered at a moderate, conversational pace. A slight rising intonation occurs on the word \"am\" (0.9s), followed by a falling intonation at the end of the sentence on \"next time\" (4.1s).",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 4.1,
+      "end_time": 11.5,
+      "description": "The pitch rises on the word \"hopefully\" (4.7s). The word \"really\" (8.0s) is emphasized with a slight increase in both pitch and volume. The sentence ends with a clear falling intonation on \"stuff\" (11.5s).",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 11.5,
+      "end_time": 15.68,
+      "description": "After a brief pause, a filled pause \"um\" is heard at 12.2s. The final two phrases are spoken with a falling intonation, concluding the video.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.68,
+      "description": "The subject is a person with short dark hair, with a prominent green-dyed section on their right side. They have a fair complexion, wear black-framed glasses, and have a stud piercing in their left nostril. They are wearing a dark grey or black jacket/cardigan. The setting is indoors, in front of a plain, light-colored wall. A dark-framed object, possibly a picture, is visible on the wall to the right of the subject. The lighting is even and bright from the front.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Medium",
+      "score": 0.48,
+      "rationale": "The subject's Extraversion is rated as Medium. While they engage directly with the camera, a socially forward behavior, their physical energy is contained. They remain 'relatively still' with 'minimal' head movements. Vocal modulations, like emphasizing the word 'really', show a degree of expressiveness, but the overall calm and controlled physical presence suggests a balance between social engagement and personal reserve, which is characteristic of individuals in the mid-range of the extraversion spectrum.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "High",
+      "score": 0.69,
+      "rationale": "The subject's Agreeableness is rated as High. This is supported by their warm and cooperative communication style. They maintain a pleasant, conversational tone throughout and offer subtle smiles at several points (e.g., 10.8s). Concluding the video with a direct, positive address to the audience ('Have a good week and I will see you later') is a clear pro-social behavior. This combination of pleasant facial expressions and polite, considerate language points to a person who values harmonious social interaction.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Medium",
+      "score": 0.46,
+      "rationale": "The subject's Conscientiousness is rated as Medium. They exhibit planning and organization by clearly structuring their response, acknowledging a question and formally deferring it ('I'm going to address that next time'). This shows forethought. However, the delivery includes a filler word ('um') and a somewhat casual approach to a pending task ('I really need to sad stitch some stuff'), which indicates a more flexible and less rigidly dutiful style than would be expected from someone with high conscientiousness.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Medium",
+      "score": 0.41,
+      "rationale": "The subject's Neuroticism is rated as Medium. They present a calm and stable demeanor, with a 'generally neutral' facial expression and natural, controlled movements. Their vocal delivery is steady and lacks indicators of anxiety or stress. The overall composure suggests good emotional regulation. The score remains in the medium range, rather than low, as the subject's relative stillness and use of a filler word ('um') could suggest a mild degree of self-monitoring or internal processing, but there are no overt signs of negative emotionality.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "Medium",
+      "score": 0.49,
+      "rationale": "The subject's Openness is rated as Medium. Their aesthetic choices, specifically the 'prominent green dye' in their hair and a nose stud, suggest an inclination towards non-conventional self-expression, a key indicator of openness. However, this is counterbalanced by the very simple, unadorned background and the use of concrete, straightforward language. The subject does not delve into abstract ideas or use imaginative vocabulary. This blend of stylistic individuality with a conventional presentation and setting is consistent with a medium level of openness.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their High Agreeableness level?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[0.5s - 1.1s]"
+        },
+        {
+          "id": "B",
+          "text": "[2.7s - 3.3s]"
+        },
+        {
+          "id": "C",
+          "text": "[4.5s - 5.1s]"
+        },
+        {
+          "id": "D",
+          "text": "[7.8s - 8.4s]"
+        },
+        {
+          "id": "E",
+          "text": "[12.0s - 12.6s]"
+        },
+        {
+          "id": "F",
+          "text": "[10.5s - 11.1s]"
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The correct answer is F. The observation log notes, The corners of the mouth remained neutral, pulling back slightly into a subtle smile at 10.8s and 14.8s. The interval [10.5s - 11.1s] correctly isolates the first subtle smile, a key non-verbal cue for Agreeableness.\n- Option A is a video-based distractor. This interval captures a brief eyebrow raise that accompanies speech, which is more related to conversational emphasis than agreeableness.\n- Option B is a video-based distractor. This interval also captures an eyebrow raise synchronized with speech, not a smile.\n- Option C is a video-based distractor. This interval corresponds to a vocal pitch rise on the word 'hopefully', an auditory cue, not a facial micro-expression of warmth.\n- Option D is a video-based distractor. This interval covers the vocal emphasis on the word 'really', not a facial expression related to agreeableness.\n- Option E is a video-based distractor. This interval captures the filler word 'um', which is a speech disfluency, not an expression of warmth."
+    },
+    {
+      "category": "Temporal-Causal Reasoning",
+      "question": "Consider the sequence of behaviors observed across the video. Which of the following best describes the causal chain linking the person's actions at different moments?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A concluding social gesture prompts a planned explanation, which then frames an external query."
+        },
+        {
+          "id": "B",
+          "text": "An expression of creative need leads to a closing, which causes the recall of a prior topic."
+        },
+        {
+          "id": "C",
+          "text": "An emotional regulation cue causes a practical plan to be verbalized, leading to a conclusion."
+        },
+        {
+          "id": "D",
+          "text": "An attempt at self-expression is cut short by a distraction, forcing a standard sign-off."
+        },
+        {
+          "id": "E",
+          "text": "Self-monitoring behavior pivots a narrative into a direct social address and a quick ending."
+        },
+        {
+          "id": "F",
+          "text": "An initial response to a prompt is followed by a structured deferral and a social closing."
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The correct answer is F. The video follows a clear logical sequence: 1) The person acknowledges a prompt/question at the start ('How I got where I am?'). 2) They then execute a structured deferral, explaining they will address it later due to a practical reason ('address that next time... sewing machine'). 3) They conclude with a standard pro-social closing ('Have a good week'). This option accurately abstracts this causal chain.\n- Option A is a temporal reversal distractor. It incorrectly places the closing gesture at the beginning of the chain.\n- Option B is a video-based distractor with wrong causality. The 'creative need' (sewing) is a reason for the deferral, it doesn't lead directly to the closing.\n- Option C is a near-miss distractor. The deferral is based on practical planning (needing the sewing machine), not a response to an emotional regulation cue.\n- Option D is a text-based distractor. There is no evidence of an external distraction or an interrupted attempt at self-expression.\n- Option E is a video-based distractor. It overstates the importance of a minor behavior (the 'um' at 12.2s), incorrectly identifying it as the main causal pivot for the video's structure."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 10.8s, a region was detected in the video (x=0.581, y=0.419, w=0.113, h=0.100, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The rapid and complete closure of the upper and lower eyelids in a routine blink."
+        },
+        {
+          "id": "B",
+          "text": "A brief and synchronized upward movement of both eyebrows to add some emphasis."
+        },
+        {
+          "id": "C",
+          "text": "The hands and fingers remaining in a mostly steady and composed resting posture."
+        },
+        {
+          "id": "D",
+          "text": "A minor, rhythmic nodding motion of the head that is aligned with speech cadence."
+        },
+        {
+          "id": "E",
+          "text": "An undulating eyebrow motion that occurs in close coordination with vocal prosody."
+        },
+        {
+          "id": "F",
+          "text": "A subtle, fleeting smile that is indicated by the corners of the mouth pulling back."
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The correct answer is F. The provided coordinates (x=0.58, y=0.42) at 10.8s precisely isolate the person's mouth. The observation log for this timestamp states the corners of the mouth... at 10.8s... pulled back slightly into a subtle smile. This option correctly describes that action.\n- Option A is a video-based distractor. This describes an action of the eyes, which are located in a different spatial region (higher y-coordinate).\n- Option B is a video-based distractor. This describes eyebrow movement, which is also in a different spatial region (higher y-coordinate).\n- Option C is a video-based distractor. The hands are outside the detected bounding box, located lower in the frame.\n- Option D is a video-based distractor. This describes a motion of the entire head, whereas the bounding box is small and focused on a single facial feature.\n- Option E is a near-miss distractor. This also describes eyebrow movement, which is spatially distinct from the mouth region specified by the coordinates."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "Which option correctly identifies the time and location of a specific non-verbal gesture used to punctuate speech?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A subtle smile at 14.8s, within the facial region defined by {x:0.58, y:0.42, w:0.11, h:0.10}."
+        },
+        {
+          "id": "B",
+          "text": "A deliberate head tilt at 4.1s, within the head region defined by {x:0.53, y:0.01, w:0.21, h:0.53}."
+        },
+        {
+          "id": "C",
+          "text": "A brief eye closure at 7.1s, within the eye region defined by {x:0.55, y:0.24, w:0.18, h:0.08}."
+        },
+        {
+          "id": "D",
+          "text": "An eyebrow lowering at 0.7s, within the brow region defined by {x:0.57, y:0.17, w:0.16, h:0.08}."
+        },
+        {
+          "id": "E",
+          "text": "An eyebrow raise at 0.7s, within the brow region defined by {x:0.57, y:0.17, w:0.16, h:0.08}."
+        },
+        {
+          "id": "F",
+          "text": "A distinct hand gesture at 8.0s, within the torso region defined by {x:0.44, y:0.04, w:0.36, h:0.96}."
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. At 0.7s, the person briefly raises their eyebrows to add emphasis to the word 'am'. The observation log confirms this: Their eyebrows at 0.7s... briefly and slightly raised. The provided coordinates correctly isolate the eyebrow region at that moment.\n- Option A is a video-based distractor. A subtle smile appears at 14.8s, but its primary function is warmth/closing, not punctuation of a specific word.\n- Option B is a text-based distractor. A head tilt is a plausible punctuation gesture, but it is not what occurs at 4.1s.\n- Option C is a video-based distractor. A blink (eye closure) occurs around this time, but it is a natural, reflexive action, not a deliberate gesture for emphasis.\n- Option D is a near-miss distractor. It has the correct time and location but describes the opposite action (lowering instead of raising).\n- Option F is a video-based distractor. The observation states the person remains 'relatively still', and no distinct hand gesture occurs at 8.0s."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator19",
+      "version": 1,
+      "clues_total": 15,
+      "clues_correct": 11,
+      "clues_wrong_corrected": 3,
+      "clues_missing_skipped": 1,
+      "clues_bonus": 0
+    }
+  }
+}

@@ -1,0 +1,407 @@
+{
+  "video_id": "NZXtEENlWL4.002.mp4",
+  "video_path": "NZXtEENlWL4.002.mp4",
+  "transcription": "... You guys would tell me to do tutorials and that's how I started. I'm going to take mascara, this Essence mascara, I would take concealer, probably like L'Oreal True Match concealer and I would take something for my lips.",
+  "original_scores": {
+    "extraversion": 0.3457943925233645,
+    "agreeableness": 0.3846153846153846,
+    "conscientiousness": 0.6213592233009709,
+    "neuroticism": 0.4375,
+    "openness": 0.611111111111111
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 15.11,
+      "description": "The subject maintains a direct and steady gaze at the camera. Her eyebrows are held in a neutral to slightly raised position throughout. Her eyes are wide open, with natural blinking. Her mouth moves in sync with her speech, opening and closing with a neutral expression. The overall facial posture is engaged and consistent.",
+      "bboxes": [
+        {
+          "frame_time": 1.848022,
+          "x": 0.41118421052631576,
+          "y": 0.10052631779720908,
+          "w": 0.2501644736842105,
+          "h": 0.1394736842105263,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 3.047208,
+          "x": 0.38453947368421054,
+          "y": 0.042631580955103825,
+          "w": 0.28125,
+          "h": 0.08947368421052632,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 5.499585,
+          "x": 0.39342105263157895,
+          "y": 0.23210526516563015,
+          "w": 0.21463815789473684,
+          "h": 0.12368421052631579,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 6.143523,
+          "x": 0.4925986842105263,
+          "y": 0.33210526516563016,
+          "w": 0.14950657894736843,
+          "h": 0.1631578947368421,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 2.50614,
+          "x": 0.3815789473684211,
+          "y": 0.018947370428788034,
+          "w": 0.3212171052631579,
+          "h": 0.48157894736842105,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 8.550844,
+          "x": 0.33865131578947366,
+          "y": 0.018947370428788034,
+          "w": 0.34342105263157896,
+          "h": 0.5578947368421052,
+          "note": "face human-annotated",
+          "region": "face"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 0.5,
+      "description": "The subject is framed from the upper torso up, facing forward with her head held still.",
+      "bboxes": [
+        {
+          "frame_time": 0.261056,
+          "x": 0.23059210526315788,
+          "y": 0.49789473884984065,
+          "w": 0.5832236842105263,
+          "h": 0.4605263157894737,
+          "note": "pose human-annotated",
+          "region": "torso"
+        },
+        {
+          "frame_time": 0.513385,
+          "x": 0.34161184210526313,
+          "y": 0.04789473884984067,
+          "w": 0.37006578947368424,
+          "h": 0.5052631578947369,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0.5,
+      "end_time": 4.58,
+      "description": "The subject's right hand makes a brief, open gesture to her right side.",
+      "bboxes": [
+        {
+          "frame_time": 1.548933,
+          "x": 0.5769736842105263,
+          "y": 0.6268421072708933,
+          "w": 0.28125,
+          "h": 0.3684210526315789,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 4.58,
+      "end_time": 8.08,
+      "description": "With her right hand, the subject lifts a black and green mascara tube into the center of the frame, holding it up briefly before lowering it.",
+      "bboxes": [
+        {
+          "frame_time": 6.73708,
+          "x": 0.40970394736842103,
+          "y": 0.3400000020077354,
+          "w": 0.2501644736842105,
+          "h": 0.6447368421052632,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 8.08,
+      "end_time": 12.8,
+      "description": "The subject raises her right hand again, pointing to her left with her index finger as she speaks.",
+      "bboxes": [
+        {
+          "frame_time": 10.154269,
+          "x": 0.7427631578947368,
+          "y": 0.7478947388498407,
+          "w": 0.25608552631578946,
+          "h": 0.24736842105263157,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 10.154269,
+          "x": 0.47039473684210525,
+          "y": 0.3426315809551038,
+          "w": 0.14654605263157894,
+          "h": 0.13157894736842105,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 4.29,
+      "description": "The subject speaks at a moderate and consistent pace. Her pitch is in a mid-to-high range, with a falling intonation on the final phrase, 'that's how I started.'",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 4.29,
+      "end_time": 15.11,
+      "description": "The speech rate remains consistent as she lists items. Her volume is steady. A brief filled pause ('um') is audible at 00:10. The pitch has slight rises on the product names 'mascara' and 'concealer' before falling on the final phrase 'for my lips.'",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.11,
+      "description": "The subject is a young woman with a medium skin tone and long, dark black hair styled with a straight fringe. She is wearing prominent makeup, including dark eyeliner and eyeshadow, and a matte dark pink lipstick. She is wearing a long-sleeved blouse with a red, white, and black floral-style pattern and a keyhole neckline. The background is a brightly lit, out-of-focus gold sequin curtain, creating a sparkling bokeh effect. The scene is indoors.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Low",
+      "score": 0.35,
+      "rationale": "The subject's Extraversion is rated as Low. This is supported by her controlled and reserved demeanor. Her vocal delivery is described as having a 'moderate and consistent pace' and 'steady' volume, lacking the energetic variation and rapid speech often associated with high extraversion. Furthermore, her facial expressions are consistently 'neutral,' without broad smiles or overt displays of positive emotion that typically signal extraverted personalities. Her hand gestures are functional and illustrative rather than expansive and socially expressive.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Low",
+      "score": 0.38,
+      "rationale": "The subject's Agreeableness is rated as Low. Her communication style appears more task-focused and direct than warm or affiliative. The consistent 'neutral expression' and 'direct and steady' eye contact project confidence and focus on the information being delivered, rather than an attempt to create a warm, interpersonal connection. The overall tone is factual and declarative, aligning with the straightforwardness characteristic of lower agreeableness.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "High",
+      "score": 0.62,
+      "rationale": "The subject's Conscientiousness is rated as High. The context of creating a structured tutorial video in response to audience requests implies a planned, goal-directed effort. Her delivery is methodical; she systematically lists the items and uses deliberate gestures, such as holding up the mascara, to clearly illustrate her points. Her speech is described as 'consistent,' her posture is stable ('head remains still'), and her overall presentation is organized and focused, all of which are strong indicators of a conscientious individual.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Medium",
+      "score": 0.44,
+      "rationale": "The subject's Neuroticism is rated as Medium. While she demonstrates many signs of emotional stability (low Neuroticism), such as a 'steady' vocal volume and 'direct and stable' eye contact, there are subtle cues that prevent a 'Low' rating. Her eyes are described as 'wide open' and her eyebrows are in a 'slightly raised position' throughout the clip. These can be subtle indicators of heightened alertness or slight underlying tension, balancing out the otherwise calm demeanor and placing her score in the medium range.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "High",
+      "score": 0.61,
+      "rationale": "The subject's Openness is rated as High. This is strongly supported by her engagement in a creative and aesthetic activity—a makeup tutorial. Her personal style is distinct and intentionally curated, evidenced by her 'distinct makeup,' patterned shirt, and the choice of a highly stylized 'bright, blurry golden sequin curtain' background. This deliberate creation of a specific aesthetic and her willingness to share this creative process are hallmarks of a high degree of Openness to Experience.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During 4.6s - 8.1s, the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "High Extraversion, indicated by socially engaging and bold behavior."
+        },
+        {
+          "id": "B",
+          "text": "Low Agreeableness, shown through a detached and critical verbal tone."
+        },
+        {
+          "id": "C",
+          "text": "Low Openness, demonstrated by a distinct lack of creative expression."
+        },
+        {
+          "id": "D",
+          "text": "Low Conscientiousness, suggested by a disorganized and unplanned talk."
+        },
+        {
+          "id": "E",
+          "text": "High Conscientiousness, evidenced by a methodical and clear demonstration."
+        },
+        {
+          "id": "F",
+          "text": "High Neuroticism, reflected by several apparent signs of nervousness."
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. During this interval, the person methodically holds up a mascara tube to visually illustrate the item she is discussing. This deliberate, organized, and goal-directed action is a strong indicator of High Conscientiousness, which involves being careful and diligent.\n- Option A is a text-based distractor. While presenting to an audience is social, her reserved demeanor and functional gestures do not support High Extraversion.\n- Option B is a text-based distractor. Her tone is neutral and informative, not overtly critical or detached, and this specific action is not the primary evidence for her Agreeableness score.\n- Option C is a text-based distractor. This action is part of a creative tutorial, which contradicts a lack of creative expression.\n- Option D is a near-miss distractor. It correctly identifies the Conscientiousness dimension but gets the direction wrong. The action is highly organized, not disorganized.\n- Option F is a video-based distractor. While the personality analysis rates her as Medium Neuroticism due to subtle cues like wide eyes, this specific illustrative gesture is not a sign of nervousness; rather, it shows control and focus."
+    },
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does the person initiate a methodical, illustrative action that is most relevant to their High Conscientiousness level?",
+      "options": [
+        {
+          "id": "A",
+          "text": "00.5s - 01.0s"
+        },
+        {
+          "id": "B",
+          "text": "09.9s - 10.4s"
+        },
+        {
+          "id": "C",
+          "text": "02.8s - 03.3s"
+        },
+        {
+          "id": "D",
+          "text": "13.5s - 14.0s"
+        },
+        {
+          "id": "E",
+          "text": "04.6s - 05.1s"
+        },
+        {
+          "id": "F",
+          "text": "06.5s - 07.0s"
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. Around 4.6s, the person transitions from her introductory sentence to methodically listing specific items ('I'm going to take mascara...'). This marks a cognitive shift to a structured, task-oriented part of her presentation. Her facial expression subtly aligns with this increased focus, becoming more directed and illustrative, which is a key behavioral marker for High Conscientiousness.\n- Option A is a video-based distractor. This interval captures the start of her speaking after a moment of stillness, but it reflects the initiation of communication in general, not the specific methodical behavior linked to conscientiousness.\n- Option B is a video-based distractor. This interval corresponds to her thumb gesture, but the primary facial change linked to her methodical approach begins earlier.\n- Option C is a video-based distractor. During this time, she is in the middle of her first sentence with a consistent, neutral expression, showing no notable change.\n- Option D is a text-based distractor. This is a plausible interval near the end of the clip, but no specific facial change relevant to conscientiousness occurs here.\n- Option F is a near-miss distractor. This interval is when the mascara is held up, which is a conscientious action. However, the *change* in facial expression to support this methodical sequence begins earlier, around 4.6s, when she verbally initiates the list."
+    },
+    {
+      "category": "Mixed Emotion Discrimination",
+      "question": "During 0.0s - 4.3s, the person's emotional state is best characterized as which of the following? Consider both verbal and non-verbal cues.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Anxious apprehension mixed with forced confidence."
+        },
+        {
+          "id": "B",
+          "text": "Subtle amusement mixed with feigned seriousness."
+        },
+        {
+          "id": "C",
+          "text": "Mild enthusiasm tempered by careful articulation."
+        },
+        {
+          "id": "D",
+          "text": "Genuine warmth tempered by a slight hint of shyness."
+        },
+        {
+          "id": "E",
+          "text": "Focused concentration mixed with professional composure."
+        },
+        {
+          "id": "F",
+          "text": "Deep satisfaction mixed with expressed humble gratitude."
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. In this initial segment, the person explains the origin of her tutorials. Her delivery is steady, her gaze is direct, and her expression is neutral and engaged. This combination indicates a state of professional composure and a clear focus on the task of delivering information, consistent with her High Conscientiousness and Low Extraversion scores.\n- Option A is a text-based distractor. The idea of starting something new might imply anxiety, but her steady voice and stable posture contradict this.\n- Option B is a video-based distractor. One could misinterpret her wide eyes as amusement, but the overall context is informative and professional, not playful.\n- Option C is a near-miss distractor. She is carefully articulating, but 'mild enthusiasm' is too strong given her controlled, low-extraversion demeanor.\n- Option D is a text-based distractor. Responding to audience requests suggests warmth, but her non-verbal cues (direct gaze, neutral expression) do not indicate shyness.\n- Option F is a text-based distractor. While she is fulfilling requests, her expression does not convey strong satisfaction or gratitude; it conveys focus."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 3.0s, a region was detected in the video (x=0.385, y=0.043, w=0.281, h=0.089, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Lips moving in perfect sync with clear vocal articulation."
+        },
+        {
+          "id": "B",
+          "text": "A wide-eyed and consistently engaged ocular expression."
+        },
+        {
+          "id": "C",
+          "text": "A continuously still and stable positioning of the head."
+        },
+        {
+          "id": "D",
+          "text": "An overall facial posture strongly indicating attentiveness."
+        },
+        {
+          "id": "E",
+          "text": "A neutral to slightly raised and stable eyebrow position."
+        },
+        {
+          "id": "F",
+          "text": "A centered and consistently forward-facing body frame."
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. The provided coordinates at 3.0s precisely frame the person's eyebrows. The observation notes state that her eyebrows 'remain in a neutral to slightly raised position' throughout the video, which is the action visible within this bounding box.\n- Option A is a video-based distractor. This describes the mouth, which is located below the specified bounding box.\n- Option B is a near-miss distractor. This describes the eyes, which are spatially very close to the eyebrows, testing fine-grained spatial discrimination. However, the box specifically targets the eyebrows.\n- Option C is a video-based distractor. This describes the entire head, which is a much larger region than the specified bounding box.\n- Option D is a video-based distractor. This is a general description of the entire face, whereas the question asks about the specific, smaller region of the eyebrows.\n- Option F is a video-based distractor. This describes the torso, which is located well outside the specified facial region."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "The person makes a distinct, illustrative hand gesture to emphasize a point in their verbal explanation. At which timestamp and within which bounding box does this specific action primarily occur?",
+      "options": [
+        {
+          "id": "A",
+          "text": "At 01.5s, within the bounding box {x:0.58, y:0.63, w:0.28, h:0.37}"
+        },
+        {
+          "id": "B",
+          "text": "At 06.7s, within the bounding box {x:0.41, y:0.34, w:0.25, h:0.65}"
+        },
+        {
+          "id": "C",
+          "text": "At 10.2s, within the bounding box {x:0.47, y:0.34, w:0.15, h:0.13}"
+        },
+        {
+          "id": "D",
+          "text": "At 03.0s, within the bounding box {x:0.38, y:0.04, w:0.28, h:0.09}"
+        },
+        {
+          "id": "E",
+          "text": "At 10.2s, within the bounding box {x:0.74, y:0.75, w:0.26, h:0.25}"
+        },
+        {
+          "id": "F",
+          "text": "At 14.5s, within the bounding box {x:0.25, y:0.85, w:0.50, h:0.15}"
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. This option correctly identifies both the time (10.2s) and the location (a bounding box on the lower right of the screen) of the distinct thumb gesture the person uses to emphasize her point while speaking.\n- Option A is a video-based distractor. It points to a different, earlier hand gesture, an open-handed movement.\n- Option B is a video-based distractor. It correctly identifies a hand action, but it's the action of holding the mascara tube, not the later illustrative gesture.\n- Option C is a near-miss distractor. It has the correct timestamp (10.2s) but points to the bounding box around her mouth, not her hand. This tests whether the model can spatially distinguish two simultaneous events.\n- Option D is a video-based distractor. This timestamp and bounding box correspond to her eyebrows and is unrelated to a hand gesture.\n- Option F is a text-based distractor. It uses a plausible timestamp and a location where a hand might rest, but no such gesture occurs at this time; it's based on an incorrect AI observation."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [
+      {
+        "check": "B",
+        "q_idx": 1,
+        "issue": "The question asks for a 'notable change in the person's facial expression', but the observation records state that the facial expression is consistent and neutral throughout the entire clip. The question's premise is factually incorrect.",
+        "action": "Corrected the question stem to focus on the initiation of a key action related to the personality trait, which is supported by the observation records."
+      }
+    ],
+    "corrections": {
+      "mcq_questions[1].question": "At which time interval does the person initiate a methodical, illustrative action that is most relevant to their High Conscientiousness level?"
+    },
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator05",
+      "version": 1,
+      "clues_total": 16,
+      "clues_correct": 12,
+      "clues_wrong_corrected": 3,
+      "clues_missing_skipped": 1,
+      "clues_bonus": 0
+    }
+  }
+}

@@ -1,0 +1,407 @@
+{
+  "video_id": "VbiUhNAdzus.005.mp4",
+  "video_path": "VbiUhNAdzus.005.mp4",
+  "transcription": "I'm going to answer some of your questions first. All this hair straightened or curl? I have not straightened or curled this hair, but I am going to do a quick test on just ...",
+  "original_scores": {
+    "extraversion": 0.5140186915887851,
+    "agreeableness": 0.4285714285714285,
+    "conscientiousness": 0.5728155339805825,
+    "neuroticism": 0.37499999999999994,
+    "openness": 0.6444444444444444
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 6.5,
+      "description": "The subject maintains direct eye contact with the camera. Her eyebrows are slightly arched, and her facial expression is engaged. Her mouth opens wide as she enunciates words like \"Okay\" and \"I\".",
+      "bboxes": [
+        {
+          "frame_time": 0.166665,
+          "x": 0.39564144736842105,
+          "y": 0.18508771595201995,
+          "w": 0.16430921052631578,
+          "h": 0.10526315789473684,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 1.326919,
+          "x": 0.39120065789473685,
+          "y": 0.116666663320441,
+          "w": 0.15986842105263158,
+          "h": 0.09473684210526316,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 3.03004,
+          "x": 0.3926809210526316,
+          "y": 0.12719297910991467,
+          "w": 0.1998355263157895,
+          "h": 0.35789473684210527,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 1.291816,
+          "x": 0.4178453947368421,
+          "y": 0.3350877159520199,
+          "w": 0.11101973684210527,
+          "h": 0.16578947368421051,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 6.5,
+      "end_time": 8.5,
+      "description": "As she asks the question \"straighten or curl?\", her eyebrows raise slightly and her eyes widen for emphasis before returning to their previous state.",
+      "bboxes": [
+        {
+          "frame_time": 6.851873,
+          "x": 0.4104440789473684,
+          "y": 0.0798245580572831,
+          "w": 0.16578947368421054,
+          "h": 0.4105263157894737,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 8.5,
+      "end_time": 15.2,
+      "description": "The subject resumes her engaged expression with direct eye contact and mouth movements corresponding to her speech.",
+      "bboxes": [
+        {
+          "frame_time": 11.584019,
+          "x": 0.3971217105263158,
+          "y": 0.13771929489938836,
+          "w": 0.17615131578947368,
+          "h": 0.3526315789473684,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 14.917121,
+          "x": 0.37639802631578945,
+          "y": 0.18508771595201995,
+          "w": 0.1805921052631579,
+          "h": 0.09473684210526316,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 9.812392,
+          "x": 0.4208059210526316,
+          "y": 0.3956140317414936,
+          "w": 0.13026315789473683,
+          "h": 0.14736842105263157,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 1.43,
+      "description": "The subject is sitting upright, facing the camera. Both of her hands are raised at the bottom of the frame in an open, illustrative gesture.",
+      "bboxes": [
+        {
+          "frame_time": 0.262215,
+          "x": 0.2801809210526316,
+          "y": 0.11140350542570415,
+          "w": 0.3537828947368421,
+          "h": 0.8,
+          "note": "human-annotated",
+          "region": "unknown"
+        },
+        {
+          "frame_time": 0.607634,
+          "x": 0,
+          "y": 0.7482456106888621,
+          "w": 1,
+          "h": 0.22631578947368422,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 1.43,
+      "end_time": 13.6,
+      "description": "Her hands are lowered out of the frame. Her head remains mostly still, with small, subtle tilts and nods that align with her speech patterns.",
+      "bboxes": [
+        {
+          "frame_time": 2.672526,
+          "x": 0.024095394736842097,
+          "y": 0.6429824527941252,
+          "w": 0.2768092105263158,
+          "h": 0.33157894736842103,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 4.112434,
+          "x": 0.30978618421052634,
+          "y": 0.03771929489938836,
+          "w": 0.2768092105263158,
+          "h": 0.5236842105263158,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 13.6,
+      "end_time": 15.2,
+      "description": "Her right hand comes back into the frame from the bottom left, gesturing with slightly spread fingers to emphasize her point.",
+      "bboxes": [
+        {
+          "frame_time": 14.499988,
+          "x": 0.0403782894736842,
+          "y": 0.5061403475309673,
+          "w": 0.22796052631578947,
+          "h": 0.3763157894736842,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 6.5,
+      "description": "The subject speaks at a moderate, clear pace with a mid-range pitch. Her tone is declarative, with a falling intonation at the end of her sentence.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 6.5,
+      "end_time": 8.5,
+      "description": "The pitch rises into a questioning intonation on the final word, \"curl?\".",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 8.5,
+      "end_time": 15.2,
+      "description": "The speech returns to a moderate pace and declarative tone. There is a slight increase in pitch and stress on the word \"am\" (00:11) for emphasis.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.2,
+      "description": "The subject is a Black woman with long, voluminous, tightly curled black hair. She is wearing prominent makeup, including winged eyeliner and bright, matte pink lipstick. She is dressed in a dark gray sweatshirt. The background is a large, tufted, buttoned pink surface, resembling a headboard or wall panel. The lighting is soft and comes from the front, illuminating her face clearly.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 11.069756,
+      "end_time": 12.069756,
+      "description": "The subject is a black female with pure black native curly hair that is as long as her chest and has a very thick volume. The hair is made of highly elastic, fine spiral curls (spring curls/twisted curls), with compact and even curls, and a large, fluffy and full arc. It falls naturally from the middle of the top of the head and completely wraps both sides of the cheeks. It has not been straightened or additionally permed or dyed, giving it a healthy matte black luster.",
+      "bboxes": [
+        {
+          "frame_time": 11.569756,
+          "x": 0.24317434210526315,
+          "y": 0.04561403174149363,
+          "w": 0.540296052631579,
+          "h": 0.8026315789473685,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Medium",
+      "score": 0.51,
+      "rationale": "The subject's score places her in the Medium range for Extraversion. She demonstrates social engagement by directly addressing an audience and maintaining consistent eye contact, which are characteristic of extraverted tendencies. Her use of illustrative hand gestures and clear articulation also suggests a comfortable and expressive communication style. However, these behaviors are balanced by a moderate pace of speech and controlled head movements, lacking the high energy and pronounced animation often seen in individuals with very high extraversion. This blend of social expressiveness and controlled delivery supports a medium classification.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Medium",
+      "score": 0.43,
+      "rationale": "The subject's Agreeableness is rated as Medium. The act of creating a video to answer audience questions is inherently cooperative and pro-social. Her engaged facial expression and direct eye contact suggest attentiveness to her viewers. However, the overall tone is more declarative and informational than overtly warm or affectionate. The absence of prominent smiling or other strong affiliative cues prevents a higher rating, positioning her in the medium range, indicative of a straightforward and task-focused form of social interaction.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Medium",
+      "score": 0.57,
+      "rationale": "The subject scores in the Medium range for Conscientiousness. She displays goal-oriented behavior by clearly stating her purpose at the outset (\"I'm going to answer some of your questions first\"). Her articulate speech and composed, upright posture suggest a degree of self-discipline and focus. Furthermore, her intention to \"do a quick test\" on her hair indicates a methodical approach. The overall presentation is structured but not rigid, balancing organized communication with a relatively casual setting (e.g., wearing a hoodie), which aligns well with a medium level of conscientiousness.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Low",
+      "score": 0.37,
+      "rationale": "The subject's Neuroticism is rated as Low, indicating a high degree of emotional stability. Throughout the clip, she exhibits a calm and composed demeanor. Her ability to maintain steady, direct eye contact with the camera points to social confidence and a lack of anxiety. Her speech is delivered at a moderate, even pace, free from nervous hesitations. Her movements are purposeful and controlled, rather than fidgety or restless. The absence of any discernible signs of stress or negative emotionality strongly supports this low rating.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "High",
+      "score": 0.64,
+      "rationale": "The subject's Openness is rated as High. This is strongly supported by her investment in aesthetic self-expression, evidenced by the noticeable makeup (winged eyeliner, bright lipstick) and the focus on her voluminous, natural hair. Choosing to create content and experiment with her appearance publicly (\"do a quick test\") reflects curiosity and a willingness to engage in new experiences. The unique, stylized background (large, tufted pink surface) further suggests an appreciation for aesthetics and a departure from conventional environments, all of which are hallmarks of a high degree of openness.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During 11.1s - 12.1s, the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "High Extraversion, as she is speaking directly to an audience and using many clear gestures."
+        },
+        {
+          "id": "B",
+          "text": "Low Conscientiousness, given the casual attire and the relaxed setting she has chosen for filming."
+        },
+        {
+          "id": "C",
+          "text": "High Agreeableness, demonstrated by her stated intention of answering viewer questions now."
+        },
+        {
+          "id": "D",
+          "text": "Low Openness, because she does not explore any particularly new or abstract concepts in speech."
+        },
+        {
+          "id": "E",
+          "text": "Low Neuroticism, shown by the calm vocal tone and the very steady posture she holds throughout."
+        },
+        {
+          "id": "F",
+          "text": "High Openness, supported by her distinctive aesthetic and very stylistic self-presentation."
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The correct answer is F. The time range 11.1s - 12.1s is when the observation notes specifically describe her hair and overall aesthetic (makeup, background). These elements of stylistic self-expression are the strongest evidence for a High Openness score.\n- Option A is a video-based distractor. While she is extraverted, this is shown by her speech and gestures throughout the video, not specifically by the static visual presentation highlighted in this time window.\n- Option B is a near-miss distractor. It correctly identifies visual cues (attire, setting) but misinterprets them. Her casual attire in a structured video is more indicative of Medium Conscientiousness, not Low.\n- Option C is a text-based distractor. The intention to answer questions is evidence for Agreeableness, but this is established by her verbal statement at the start, not the visual evidence at 11s.\n- Option D is a near-miss distractor. It correctly identifies the trait (Openness) but gets the direction wrong. Her visual presentation strongly supports High Openness, overriding the lack of abstract verbal content in this short clip.\n- Option E is a video-based distractor. Her calm demeanor supports Low Neuroticism, but this is a general trait observed throughout the entire video, not the most specific one highlighted by the aesthetic focus at 11s."
+    },
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their vocal shift?",
+      "options": [
+        {
+          "id": "A",
+          "text": "0.2s - 1.6s"
+        },
+        {
+          "id": "B",
+          "text": "2.5s - 3.9s"
+        },
+        {
+          "id": "C",
+          "text": "9.4s - 10.8s"
+        },
+        {
+          "id": "D",
+          "text": "11.1s - 12.5s"
+        },
+        {
+          "id": "E",
+          "text": "13.8s - 15.2s"
+        },
+        {
+          "id": "F",
+          "text": "6.5s - 8.2s"
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The correct answer is F. The interval 6.5s - 8.2s is precisely when the subject asks the question \"straighten or curl?\" with a rising, questioning intonation. This vocal shift is accompanied by a subtle but distinct facial change corresponding to the question, making it the most notable change.\n- Option A is a video-based distractor. This interval covers the start of her speech, where her mouth forms words, but it's part of a continuous expression, not a distinct change point.\n- Option B is a video-based distractor. This interval captures a hand gesture and steady, engaged expression, but no notable change in the facial expression itself.\n- Option C is a video-based distractor. During this period, her expression is engaged but stable as she continues her declarative statement.\n- Option D is a video-based distractor. This is a period of stable, engaged expression while she discusses her plan.\n- Option E is a video-based distractor. This interval captures her final hand gesture, but her facial expression remains consistent with the preceding moments."
+    },
+    {
+      "category": "Mixed Emotion Discrimination",
+      "question": "During 0.0s - 6.5s, the person's emotional state is best characterized as which of the following? Consider both verbal and non-verbal cues.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Warm friendliness combined with a measure of personal vulnerability in her speech."
+        },
+        {
+          "id": "B",
+          "text": "Joyful amusement mixed with a hint of playful teasing directed towards her audience."
+        },
+        {
+          "id": "C",
+          "text": "Focused determination tempered by slight apprehension about the upcoming experiment."
+        },
+        {
+          "id": "D",
+          "text": "Intellectual seriousness combined with methodical calm in her overall presentation."
+        },
+        {
+          "id": "E",
+          "text": "Polite deference blended with the professional formality of a prepared speech."
+        },
+        {
+          "id": "F",
+          "text": "Engaged curiosity combined with confident assertiveness in her direct address."
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The correct answer is F. In this initial segment, the subject directly addresses her audience (assertiveness) to answer questions (implying curiosity and engagement). Her direct eye contact, clear speech, and slightly raised eyebrows support this confident and engaged state.\n- Option A is a text-based distractor. While she is addressing an audience, there are no clear cues of 'vulnerability'; her tone is confident and declarative.\n- Option B is a text-based distractor. Her expression is engaged, but lacks the key markers of amusement (e.g., smiling, crinkling around the eyes) or teasing.\n- Option C is a near-miss distractor. 'Focused' is partially correct, but there is no evidence of 'apprehension'. Her demeanor is calm and composed, indicating low neuroticism.\n- Option D is a video-based distractor. She is methodical and calm, but 'intellectual seriousness' misses the social engagement and expressiveness conveyed by her direct gaze and facial animation.\n- Option E is a text-based distractor. Her style is not formal; she is wearing a hoodie and the setting is casual, which contradicts 'professional formality'."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 11.6s, a region was detected in the video (x=0.397, y=0.138, w=0.176, h=0.353, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A pronounced O-shaped mouth articulation for a specific word that she has spoken."
+        },
+        {
+          "id": "B",
+          "text": "An open-palm gesture originating from below the frame to emphasize a verbal point."
+        },
+        {
+          "id": "C",
+          "text": "A direct and steady gaze being maintained toward the viewer with minimal blinking."
+        },
+        {
+          "id": "D",
+          "text": "A slight but noticeable upward movement of the eyebrows to convey an expression."
+        },
+        {
+          "id": "E",
+          "text": "A questioning expression with a subtle head tilt as a question is being finished."
+        },
+        {
+          "id": "F",
+          "text": "A return to a neutral but engaged facial expression after a prior vocal inflection."
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The correct answer is F. The specified bounding box at 11.6s isolates the subject's face. At this moment, she has finished asking the question and is stating her intention to perform a test, having 'restored her engaged expression' as noted in the observation data. This matches the description of returning to a neutral but engaged state.\n- Option A is a video-based distractor. This describes the mouth action at 1.3s, not 11.6s. It's an incorrect temporal localization.\n- Option B is a video-based distractor. This describes a hand gesture, which is outside the specified bounding box that covers the face.\n- Option C is a near-miss distractor. While she is maintaining eye contact, this describes only the eyes. The bounding box covers the whole face, and the overall facial expression is the most prominent feature.\n- Option D is a video-based distractor. The eyebrow raise occurs at the beginning of the video (around 1.3s), not at 11.6s.\n- Option E is a video-based distractor. The questioning expression occurs from 6.5s to 8.5s, not at 11.6s."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator10",
+      "version": 1,
+      "clues_total": 21,
+      "clues_correct": 15,
+      "clues_wrong_corrected": 2,
+      "clues_missing_skipped": 3,
+      "clues_bonus": 1
+    }
+  }
+}

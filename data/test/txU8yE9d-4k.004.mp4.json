@@ -1,0 +1,313 @@
+{
+  "video_id": "txU8yE9d-4k.004.mp4",
+  "video_path": "txU8yE9d-4k.004.mp4",
+  "transcription": "Car accident. No god bless the fact that you got in that car accident but you have a second chance. I've been in a car accident myself and I refused to allow that car accident to take me down even though I had injuries, I came back stronger with the right mindset.",
+  "original_scores": {
+    "extraversion": 0.2149532710280374,
+    "agreeableness": 0.31868131868131866,
+    "conscientiousness": 0.2815533980582524,
+    "neuroticism": 0.3020833333333333,
+    "openness": 0.24444444444444444
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 15.58,
+      "description": "The subject maintains eye contact with the camera and smiles throughout the clip. The corners of her mouth are pulled up, showing her upper teeth as she speaks. Her eyebrows remain relatively static in a high arch. Her eyes are open with natural blinks.",
+      "bboxes": [
+        {
+          "frame_time": 14.174143,
+          "x": 0.3894736842105263,
+          "y": 0.2710526315789474,
+          "w": 0.28596491228070176,
+          "h": 0.17105263157894737,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 0.242677,
+          "x": 0.49298245614035086,
+          "y": 0.4868421052631579,
+          "w": 0.21052631578947367,
+          "h": 0.2026315789473684,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 0.242677,
+          "x": 0.4614035087719298,
+          "y": 0.15789473684210525,
+          "w": 0.2964912280701754,
+          "h": 0.16578947368421051,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 0.242677,
+          "x": 0.4807017543859649,
+          "y": 0.29210526315789476,
+          "w": 0.2649122807017544,
+          "h": 0.15526315789473685,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 15.58,
+      "description": "The subject's head remains relatively still, with very slight, subtle nods and turns that are synchronized with her speech. The video is a close-up shot, showing only her head and the top of her shoulders.",
+      "bboxes": [
+        {
+          "frame_time": 15.337203,
+          "x": 0.3684210526315789,
+          "y": 0.1394736842105263,
+          "w": 0.4052631578947368,
+          "h": 0.5684210526315789,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 15.337203,
+          "x": 0.15087719298245614,
+          "y": 0.618421052631579,
+          "w": 0.712280701754386,
+          "h": 0.37894736842105264,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 15.58,
+      "description": "The subject speaks at a moderate, conversational pace in a mid-to-high pitch range with consistent volume. Her tone is light and melodic, with natural pauses between phrases (e.g., at 00:09).",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.58,
+      "description": "The subject is a young woman with fair skin, long black hair, and distinctly styled, arched eyebrows. She is wearing black-framed glasses, a silver septum piercing, and dark reddish lipstick. She is dressed in a white t-shirt. The background is split between a light-colored curtain with a pink floral pattern on the left and a plain, light blue-green wall on the right. The lighting is soft and frontal, causing a slight reflection on her glasses.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Low",
+      "score": 0.21,
+      "rationale": "The subject's Extraversion is rated as Low. While she maintains eye contact and a smile, which are social signals, her overall physical energy is highly contained. Her head remains relatively still with only minimal, subtle movements. The absence of expansive gestures or significant bodily animation, coupled with a moderate and consistent vocal delivery, points to a more reserved and less outwardly energetic disposition. This suggests that her social presentation is controlled and measured rather than spontaneously expressive, which is characteristic of lower Extraversion.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Low",
+      "score": 0.32,
+      "rationale": "The subject's Agreeableness is rated as Low. Although the topic is framed as encouragement, the narrative is strongly self-referential ('I've been in a car accident myself', 'I refused to allow', 'I came back stronger'). This focus on her own experience and resilience, rather than a more empathetic exploration of the other person's situation, suggests a more independent and less deferential stance. The message, while positive, is delivered with a certain assertiveness ('refused to allow that car accident to take me down'), which aligns more with the straightforward and sometimes challenging nature of individuals with lower Agreeableness.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Low",
+      "score": 0.28,
+      "rationale": "The subject's Conscientiousness is rated as Low. Her speech appears to be spontaneous and conversational rather than carefully scripted or structured. The phrasing 'No god bless the fact that you got in that car accident but...' is slightly disorganized, reflecting an impromptu communication style. The core message centers on a general 'mindset' rather than a disciplined, step-by-step plan for recovery. This preference for a more flexible and less methodical approach to problem-solving is a common indicator of lower Conscientiousness.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Low",
+      "score": 0.3,
+      "rationale": "The subject's Neuroticism is rated as Low, indicating high emotional stability. This is strongly supported by her ability to discuss a traumatic personal event—a car accident—with complete composure. Her vocal tone is light and steady, her facial expression remains consistently positive (smiling), and she exhibits no signs of anxiety, distress, or emotional volatility. Her narrative of overcoming adversity ('I came back stronger') further reinforces a resilient and emotionally secure personality, which is the hallmark of low Neuroticism.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "Low",
+      "score": 0.24,
+      "rationale": "The subject's Openness to Experience is rated as Low. Her communication is focused on a concrete, personal event and a practical, straightforward solution ('the right mindset'). She does not engage in abstract thinking, use complex vocabulary, or explore nuanced ideas. Her physical environment is simple and conventional (plain wall, standard curtains). While her personal appearance includes a piercing and makeup, these are presented without additional context and can represent adherence to a specific subculture's norms rather than a broad curiosity for diverse aesthetic or intellectual experiences. The overall presentation is grounded and conventional, consistent with low Openness.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During 0s - 15.6s, the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A high degree of Agreeableness"
+        },
+        {
+          "id": "B",
+          "text": "A high degree of Extraversion"
+        },
+        {
+          "id": "C",
+          "text": "A high degree of Neuroticism"
+        },
+        {
+          "id": "D",
+          "text": "A low degree of Openness"
+        },
+        {
+          "id": "E",
+          "text": "A low degree of Conscientiousness"
+        },
+        {
+          "id": "F",
+          "text": "A low degree of Neuroticism"
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The correct answer is F. The most prominent and consistent behavior throughout the video is the person's ability to discuss a traumatic event (a car accident) with complete emotional composure, a steady voice, and a persistent smile. This is the strongest evidence for high emotional stability, which corresponds to Low Neuroticism.\n\n- Option A is a text-based distractor. The topic of encouragement might suggest agreeableness, but the analysis notes her self-referential language points to Low Agreeableness.\n- Option B is a text-based distractor. Speaking to a camera with a smile might suggest extraversion, but her contained physical energy and lack of gestures lead to a Low Extraversion score.\n- Option C is a near-miss distractor. It correctly identifies the relevant personality dimension (Neuroticism) but gets the direction wrong. Her composure indicates low, not high, neuroticism.\n- Option D is a video-based distractor. While the analysis does conclude Low Openness, this is based more on the conventional content of her speech and simple environment, not the behavioral pattern of composure, which is the most direct evidence for Low Neuroticism.\n- Option E is a video-based distractor. While she is assessed as having Low Conscientiousness due to her spontaneous speech, her emotional stability is a more pervasive and defining behavioral pattern throughout the entire clip."
+    },
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their Low Neuroticism level?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[0.5s - 1.5s]"
+        },
+        {
+          "id": "B",
+          "text": "[3.5s - 4.5s]"
+        },
+        {
+          "id": "C",
+          "text": "[6.0s - 7.0s]"
+        },
+        {
+          "id": "D",
+          "text": "[11.5s - 12.5s]"
+        },
+        {
+          "id": "E",
+          "text": "[14.0s - 15.0s]"
+        },
+        {
+          "id": "F",
+          "text": "[8.8s - 9.8s]"
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The correct answer is F. The person's expression is remarkably stable. However, around 8.8s - 9.8s, as she says '...to take me down', there is a subtle, reinforcing head nod. This micro-action adds emphasis to her statement of resilience and control, which is a behavioral manifestation of her high emotional stability (Low Neuroticism). It's the most notable 'change' that reinforces this specific trait.\n\n- Option A is a video-based distractor. This interval covers the phrase 'Car accident', a moment one might expect an emotional reaction, but her expression remains unchanged, showing stability rather than a 'change'.\n- Option B is a video-based distractor. During this time, she says 'second chance'. While a key phrase, no notable expression change occurs.\n- Option C is a video-based distractor. This is the beginning of her assertive statement 'I refused to allow...', but the most distinct reinforcing gesture happens slightly later.\n- Option D is a video-based distractor. She says 'came back stronger', another key point for resilience, but her expression and head position are consistent with the preceding moments.\n- Option E is a near-miss distractor. This covers the final phrase 'right mindset', a point of emphasis. A minor head movement occurs, but the one at 8.8s is slightly more pronounced and serves as a clearer punctuation of her resolve."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 0.2s, a region was detected in the video (x=0.461, y=0.158, w=0.296, h=0.166, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "An upward-curved mouth shape forming a natural and consistent smile."
+        },
+        {
+          "id": "B",
+          "text": "The subject's wide-open eyes, signaling an overall attentive state."
+        },
+        {
+          "id": "C",
+          "text": "A slight furrowing of the brows to emphasize a point of seriousness."
+        },
+        {
+          "id": "D",
+          "text": "A brief, involuntary twitch of the muscle above the eye from strain."
+        },
+        {
+          "id": "E",
+          "text": "A lowering of the eyebrows indicating a shift to a somber reflection."
+        },
+        {
+          "id": "F",
+          "text": "A pair of still, high-arched eyebrows expressing a neutral, alert state."
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The correct answer is F. The provided coordinates (y=0.158) correspond to the upper part of the face. The observation data confirms that this bounding box isolates the eyebrows, which are described as being 'relatively still' and in a 'high-arched' shape throughout the video.\n\n- Option A is a video-based distractor. This describes the mouth, which is located in a different spatial region (lower on the face, around y=0.49).\n- Option B is a video-based distractor. This describes the eyes, which are in a different spatial region (just below the eyebrows, around y=0.29).\n- Option C is a near-miss distractor. It correctly identifies the body part (brows) but describes the wrong action. Her brows are consistently arched and still, not furrowed.\n- Option D is a text-based distractor. This describes a plausible micro-expression, but it is not observed in the video within this or any other region.\n- Option E is a text-based distractor. This action is plausible given the topic of a car accident, but it is contrary to what is visually present in the video; her brows remain high and arched."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "Which of the following timestamp and bounding box combinations best isolates the facial feature primarily responsible for both verbal articulation and the consistent positive expression?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[15.3s] (x=0.37, y=0.14, w=0.41, h=0.57)"
+        },
+        {
+          "id": "B",
+          "text": "[0.2s] (x=0.48, y=0.29, w=0.27, h=0.16)"
+        },
+        {
+          "id": "C",
+          "text": "[0.2s] (x=0.46, y=0.16, w=0.30, h=0.17)"
+        },
+        {
+          "id": "D",
+          "text": "[5.0s] (x=0.52, y=0.42, w=0.10, h=0.10)"
+        },
+        {
+          "id": "E",
+          "text": "[10.0s] (x=0.40, y=0.30, w=0.15, h=0.15)"
+        },
+        {
+          "id": "F",
+          "text": "[0.2s] (x=0.49, y=0.49, w=0.21, h=0.20)"
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The correct answer is F. The feature responsible for verbal articulation and the positive expression (smile) is the mouth. The observation data confirms that at 0.2s, the mouth is located at this specific bounding box (x=0.493, y=0.487, w=0.211, h=0.203), and this expression is consistent throughout the video.\n\n- Option A is a video-based distractor. This bounding box covers the entire head region at a later timestamp.\n- Option B is a video-based distractor. This bounding box correctly identifies the timestamp but isolates the eyes, which show expression but are not responsible for articulation.\n- Option C is a video-based distractor. This bounding box correctly identifies the timestamp but isolates the eyebrows.\n- Option D is a near-miss distractor. This bounding box isolates the nose/septum piercing region. While it's a facial feature, it's not involved in articulation or the primary positive expression.\n- Option E is a video-based distractor. This bounding box isolates a reflection on her glasses, which is a visual artifact, not a facial feature involved in communication."
+    },
+    {
+      "category": "Counterfactual Reasoning",
+      "question": "If the person had NOT exhibited the calm and composed behavior observed throughout 0s - 15.6s while discussing a personal trauma, which of the following personality assessments would be MOST affected?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The assessment of Low Extraversion would be unsupported, because vocal confidence is the main indicator of her otherwise reserved and controlled social presentation style."
+        },
+        {
+          "id": "B",
+          "text": "The assessment of Low Agreeableness would be challenged, because her calm demeanor is key to interpreting her narrative as being cooperative rather than overly assertive."
+        },
+        {
+          "id": "C",
+          "text": "The assessment of Low Conscientiousness would have to be revised, since her verbal organization throughout the clip is the strongest evidence used for that particular trait."
+        },
+        {
+          "id": "D",
+          "text": "The assessment of Low Neuroticism would shift towards High, as the absence of composure would provide definitive evidence for high emotional reactivity and internal distress."
+        },
+        {
+          "id": "E",
+          "text": "The assessment of Low Openness would be less certain, as the management of emotional displays is often related to one's overall willingness to engage with inner feelings."
+        },
+        {
+          "id": "F",
+          "text": "The assessment of Low Neuroticism would be unsubstantiated, as the primary evidence for emotional stability comes directly from her composed handling of this sensitive topic."
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The correct answer is F. The personality analysis heavily relies on her composure while discussing a traumatic event as the cornerstone for the Low Neuroticism (high emotional stability) rating. Removing this behavior would eliminate the primary evidence, making the assessment difficult to justify or 'unsubstantiated'.\n\n- Option A is a text-based distractor. The Low Extraversion assessment is based on her minimal gestures and contained energy, not her vocal confidence. This rating would still hold.\n- Option B is a text-based distractor. The Low Agreeableness assessment is based on the self-referential content of her speech, which is independent of her calm demeanor.\n- Option C is a video-based distractor. The Low Conscientiousness rating is based on her slightly disorganized speech structure ('No god bless... but...'). This evidence is separate from her emotional composure. Therefore, this assessment would be largely unaffected.\n- Option D is a near-miss distractor. While a lack of composure would weaken the Low Neuroticism score, it doesn't automatically provide 'definitive evidence' for High Neuroticism. The assessment would become uncertain, not necessarily flip to the opposite extreme. 'Unsubstantiated' is a more accurate outcome.\n- Option E is a text-based distractor. This makes a weak connection. While emotional expression is a facet of Openness, her calm behavior is far more central and direct evidence for the Neuroticism dimension."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator14",
+      "version": 3,
+      "clues_total": 8,
+      "clues_correct": 7,
+      "clues_wrong_corrected": 1,
+      "clues_missing_skipped": 0,
+      "clues_bonus": 0
+    }
+  }
+}

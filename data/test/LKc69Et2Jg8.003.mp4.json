@@ -1,0 +1,367 @@
+{
+  "video_id": "LKc69Et2Jg8.003.mp4",
+  "video_path": "LKc69Et2Jg8.003.mp4",
+  "transcription": "[inaudible 00:00:17] I didn't know the prominence then [inaudible 00:00:24] and for sure [inaudible 00:00:24] I feel proud about that day and that [inaudible 00:00:28]",
+  "original_scores": {
+    "extraversion": 0.47663551401869164,
+    "agreeableness": 0.6373626373626373,
+    "conscientiousness": 0.6116504854368932,
+    "neuroticism": 0.5520833333333334,
+    "openness": 0.5777777777777777
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 4.9,
+      "description": "The subject maintains a steady gaze, looking slightly to the right of the camera. His facial muscles are relaxed, with neutral eyebrows and mouth movements corresponding to his speech.",
+      "bboxes": [
+        {
+          "frame_time": 3.250794,
+          "x": 0.5725308641975309,
+          "y": 0.29698216735253774,
+          "w": 0.11728395061728394,
+          "h": 0.09876543209876543,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 3.250794,
+          "x": 0.5787037037037037,
+          "y": 0.294238683127572,
+          "w": 0.12191358024691358,
+          "h": 0.2496570644718793,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 3.250794,
+          "x": 0.5709876543209876,
+          "y": 0.2777777777777778,
+          "w": 0.12654320987654322,
+          "h": 0.06584362139917696,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 4.9,
+      "end_time": 8.7,
+      "description": "His eyebrows raise slightly as he speaks, and the corners of his mouth pull back into a faint, fleeting smile. His gaze remains consistent.",
+      "bboxes": [
+        {
+          "frame_time": 5.470534,
+          "x": 0.5138888888888888,
+          "y": 0.28600823045267487,
+          "w": 0.13271604938271606,
+          "h": 0.05761316872427984,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 6.619612,
+          "x": 0.5493827160493827,
+          "y": 0.39849108367626884,
+          "w": 0.07407407407407407,
+          "h": 0.09876543209876543,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 8.7,
+      "end_time": 15,
+      "description": "The expression becomes more earnest. His eyebrows return to a neutral position, and there's a slight, brief tightening around the mouth as he speaks, maintaining direct eye contact with his focal point.",
+      "bboxes": [
+        {
+          "frame_time": 10.252971,
+          "x": 0.49074074074074076,
+          "y": 0.2613168724279835,
+          "w": 0.14660493827160495,
+          "h": 0.27709190672153633,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 10.252971,
+          "x": 0.48919753086419754,
+          "y": 0.28052126200274347,
+          "w": 0.12037037037037036,
+          "h": 0.09602194787379972,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 4.8,
+      "description": "The subject sits upright, leaning slightly forward. He gestures with his right hand, keeping it low and close to the laptop, with fingers loosely together.",
+      "bboxes": [
+        {
+          "frame_time": 0,
+          "x": 0.3888888888888889,
+          "y": 0.39574759945130317,
+          "w": 0.4012345679012346,
+          "h": 0.5185185185185185,
+          "note": "pose human-annotated",
+          "region": "torso"
+        },
+        {
+          "frame_time": 0,
+          "x": 0.5401234567901234,
+          "y": 0.7304526748971193,
+          "w": 0.16358024691358025,
+          "h": 0.2695473251028807,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 0,
+          "x": 0.37191358024691357,
+          "y": 0.4204389574759945,
+          "w": 0.41358024691358025,
+          "h": 0.5020576131687243,
+          "note": "pose human-annotated",
+          "region": "torso"
+        },
+        {
+          "frame_time": 0,
+          "x": 0.5771604938271605,
+          "y": 0.8182441700960219,
+          "w": 0.1404320987654321,
+          "h": 0.1817558299039781,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 4.8,
+      "end_time": 6,
+      "description": "He raises his right hand and extends his index finger, pointing forward and to the left of the frame.",
+      "bboxes": [
+        {
+          "frame_time": 4.82322,
+          "x": 0.4506172839506173,
+          "y": 0.4615912208504801,
+          "w": 0.17592592592592593,
+          "h": 0.3401920438957476,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 6,
+      "end_time": 8.8,
+      "description": "The hand lowers back down, and he transitions to an open-palmed gesture, palm up, as he continues speaking.",
+      "bboxes": [
+        {
+          "frame_time": 7.4,
+          "x": 0.5972222222222222,
+          "y": 0.678326474622771,
+          "w": 0.16203703703703703,
+          "h": 0.2880658436213992,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 8.8,
+      "end_time": 11.2,
+      "description": "He brings his right hand up towards his left shoulder/chest area in a self-referential gesture with an open palm.",
+      "bboxes": [
+        {
+          "frame_time": 11.2,
+          "x": 0.6219135802469136,
+          "y": 0.4396433470507545,
+          "w": 0.16203703703703703,
+          "h": 0.30727023319615915,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 11.2,
+      "end_time": 15,
+      "description": "He lowers his right hand again, making fluid, illustrative gestures with an open palm just above the desk.",
+      "bboxes": [
+        {
+          "frame_time": 15,
+          "x": 0.5154320987654321,
+          "y": 0.6344307270233196,
+          "w": 0.22993827160493827,
+          "h": 0.3347050754458162,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 5,
+      "description": "The subject speaks in a moderate, even-paced tone. His pitch is stable and his volume is consistent.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 5,
+      "end_time": 8.5,
+      "description": "When speaking the English phrase \"So I didn't know the prominence then,\" his pitch rises slightly on the words \"know\" and \"prominence,\" adding emphasis.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 8.5,
+      "end_time": 12.5,
+      "description": "The phrases \"for sure\" and \"I feel proud\" are delivered with a slight increase in volume and a more assertive, slightly lower pitch, conveying conviction.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 12.5,
+      "end_time": 15,
+      "description": "The subject's speech rate slightly increases towards the end of the segment, maintaining a clear and articulate delivery.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15,
+      "description": "A male with dark, wavy hair and a light beard is seated at a desk in an indoor studio setting. He is wearing a dark brown, collared shirt and a watch with a brown strap on his left wrist. In front of him is a black HP laptop. To his right is a white teacup. The background is a digital blue screen with overlaid graphics, including a large, stylized eye, the Telugu text \"ఓ మై గాడ్\" in a white, brushed font, and the \"Telugu FilmNagar\" logo in the top-left and right corners.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Medium",
+      "score": 0.48,
+      "rationale": "The subject's Extraversion score is in the Medium range. This is supported by a blend of socially engaged and reserved behaviors. On one hand, he demonstrates social energy by leaning forward, indicating interest, and using a variety of hand gestures to supplement his speech. His vocal delivery is also modulated with changes in tone and volume for emphasis, which is a method to engage an audience. On the other hand, these expressive behaviors are controlled and measured rather than overtly expansive. His facial expressions, including a brief and subtle smile, are contained, suggesting a moderate, not high, level of outward emotional expression.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "High",
+      "score": 0.64,
+      "rationale": "The subject exhibits behaviors consistent with a High level of Agreeableness. His baseline facial expression is relaxed, creating a non-threatening and approachable demeanor. A key indicator is his repeated use of open-palm gestures, particularly when making a self-referential statement ('I feel proud'). This non-verbal cue is strongly associated with sincerity, honesty, and a desire to build trust. Combined with a brief, warm smile and a generally even vocal tone, these behaviors collectively signal a cooperative and prosocial orientation.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "High",
+      "score": 0.61,
+      "rationale": "The subject's behavior points to a High level of Conscientiousness. His posture is upright and attentive, reflecting a diligent and focused approach to the task of communication. His speech is clear and fluent, suggesting thoughtfulness and preparation. Critically, his hand gestures are not random but are purposeful and illustrative, serving to add structure and clarity to his narrative. The shift to a more serious and earnest facial expression when discussing a point of personal pride further underscores a dutiful and principled mindset, which is characteristic of conscientious individuals.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Medium",
+      "score": 0.55,
+      "rationale": "The subject's Medium Neuroticism is indicated by his overall emotional stability, which is nonetheless responsive to the content of his speech. His relaxed facial muscles and steady gaze suggest a lack of overt anxiety or stress. However, he is not emotionally inert; his expression becomes more serious and his vocal tone becomes firmer and slightly lower when discussing a topic of personal significance ('I feel proud'). This demonstrates an appropriate emotional reactivity that is both controlled and context-dependent, which is typical for individuals in the mid-range of the Neuroticism spectrum.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "Medium",
+      "score": 0.58,
+      "rationale": "The subject's Medium level of Openness is reflected in his expressive and intellectually engaged communication style. He uses a variety of hand gestures—shifting from pointing to make a specific point to open-palmed gestures for broader ideas—which suggests a degree of cognitive flexibility. His use of vocal intonation to emphasize specific words ('know', 'prominence') indicates an appreciation for nuance. Furthermore, the slight raising of his eyebrows while speaking suggests curiosity and an active engagement with the concepts he is articulating, consistent with an inquisitive nature.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During 8.8s - 11.2s, the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "High Agreeableness, as the specific behavior reflects sincerity and a prosocial orientation."
+        },
+        {
+          "id": "B",
+          "text": "High Extraversion, as the prominent gestures indicate a significant level of social energy."
+        },
+        {
+          "id": "C",
+          "text": "Low Neuroticism, because the speaker's composed manner suggests high emotional stability."
+        },
+        {
+          "id": "D",
+          "text": "High Openness, since the expressive style of communication points to cognitive flexibility."
+        },
+        {
+          "id": "E",
+          "text": "Low Conscientiousness, as the action suggests a lack of clear and structured communication."
+        },
+        {
+          "id": "F",
+          "text": "Low Agreeableness, because the gesture suggests a defensive rather than open interaction."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. During this interval, the person makes a self-referential open-palm gesture while saying \"I feel proud.\" The personality analysis explicitly links open-palm gestures with sincerity, honesty, and a desire to build trust, which are core facets of High Agreeableness.\n\n- Option B is a text-based distractor. While gestures can relate to Extraversion, the analysis notes his gestures are controlled and measured, leading to a Medium Extraversion score, not High. This specific gesture is a stronger signal for Agreeableness.\n- Option C is a text-based distractor. The speaker's composure is relevant to Neuroticism, but the specific gesture in this timeframe is not the primary evidence for it. His overall stability throughout the video supports Medium Neuroticism.\n- Option D is a video-based distractor. Other gestures in the video (e.g., pointing) are linked to Openness, but the specific open-palm gesture in *this* time range is a classic indicator of Agreeableness.\n- Option E is a near-miss distractor. The gesture is in fact very structured and purposeful, supporting High, not Low, Conscientiousness. This option identifies a relevant trait but in the wrong direction.\n- Option F is a near-miss distractor. It correctly identifies the trait (Agreeableness) but misinterprets the open-palm gesture as defensive, when it is universally considered a signal of openness and honesty. This is the opposite of the correct interpretation."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "Which timestamp and bounding box combination best captures a relaxed, preparatory hand posture held low while the speaker is attentively positioned at the start of their statement?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[10.3s]  x=0.49, y=0.28, w=0.12, h=0.10"
+        },
+        {
+          "id": "B",
+          "text": "[11.2s]  x=0.62, y=0.44, w=0.16, h=0.31"
+        },
+        {
+          "id": "C",
+          "text": "[15.0s]  x=0.52, y=0.63, w=0.23, h=0.33"
+        },
+        {
+          "id": "D",
+          "text": "[5.5s]  x=0.51, y=0.29, w=0.13, h=0.06"
+        },
+        {
+          "id": "E",
+          "text": "[3.3s]  x=0.58, y=0.29, w=0.12, h=0.25"
+        },
+        {
+          "id": "F",
+          "text": "[0.0s]  x=0.58, y=0.82, w=0.14, h=0.18"
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The correct answer is F. The question asks for a 'relaxed, preparatory hand posture held low' at the 'start of their statement.' The observation log for [0.0s - 4.8s] describes the hand being held low ('Keep hands low') with fingers loosely together ('Fingers loosely held together'). The combination in F provides a timestamp of 0.0s (the start) and a bounding box that correctly isolates the hand in this low, relaxed position.\n\n- Option A is a video-based distractor. This timestamp and bbox combination corresponds to the eyebrow region when the face is serious.\n- Option B is a video-based distractor. This points to the self-referential open-palm gesture, which is an active communicative gesture, not a preparatory one, and occurs later in the video.\n- Option C is a video-based distractor. This points to a final illustrative hand gesture near the end of the video, not the initial preparatory posture.\n- Option D is a video-based distractor. This timestamp and bbox combination corresponds to the eyebrow region during the eyebrow raise.\n- Option E is a video-based distractor. This points to the overall facial region during the initial neutral expression, not the hand."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator15",
+      "version": 1,
+      "clues_total": 24,
+      "clues_correct": 20,
+      "clues_wrong_corrected": 0,
+      "clues_missing_skipped": 4,
+      "clues_bonus": 0
+    }
+  }
+}

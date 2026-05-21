@@ -1,0 +1,672 @@
+{
+  "video_id": "J8N2OCqM6N0.004.mp4",
+  "video_path": "J8N2OCqM6N0.004.mp4",
+  "transcription": "Actually go, or when I get done with class, I can actually go home. I don't need to go to the library after two. So I'm just sitting in my car getting ready to go to class. I don't have a ton going on today, not a ton going on. I got a bathing-",
+  "original_scores": {
+    "extraversion": 0.4299065420560748,
+    "agreeableness": 0.4395604395604395,
+    "conscientiousness": 0.4563106796116505,
+    "neuroticism": 0.4791666666666667,
+    "openness": 0.43333333333333335
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 1.1,
+      "description": "The woman's eyes are half-lidded and looking forward. Her mouth is slightly open as she speaks, and her overall expression appears tired or relaxed.",
+      "bboxes": [
+        {
+          "frame_time": 0.844915,
+          "x": 0.3290296052631579,
+          "y": 0.1429824527941252,
+          "w": 0.28273026315789473,
+          "h": 0.2,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 0.978138,
+          "x": 0.3527138157894737,
+          "y": 0.45877192647833576,
+          "w": 0.18207236842105262,
+          "h": 0.19473684210526315,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 1.005157,
+          "x": 0.3112664473684211,
+          "y": 0.0008771896362304687,
+          "w": 0.3271381578947368,
+          "h": 0.7263157894736842,
+          "note": "face human-annotated",
+          "region": "face"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 1.1,
+      "end_time": 2.8,
+      "description": "Her eyes open to a normal width as she looks directly at the camera. Her eyebrows remain in a neutral, relaxed position.",
+      "bboxes": [
+        {
+          "frame_time": 2.202632,
+          "x": 0.3349506578947368,
+          "y": 0.14824561068886205,
+          "w": 0.2546052631578947,
+          "h": 0.15,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 2.248786,
+          "x": 0.3053453947368421,
+          "y": 0.05350876858359889,
+          "w": 0.3078947368421053,
+          "h": 0.15263157894736842,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 2.8,
+      "end_time": 3.8,
+      "description": "Her gaze shifts to her right (camera's left), and her lips purse slightly.",
+      "bboxes": [
+        {
+          "frame_time": 3.423362,
+          "x": 0.31422697368421054,
+          "y": 0.15087718963623048,
+          "w": 0.3049342105263158,
+          "h": 0.17105263157894737,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 3.423362,
+          "x": 0.3734375,
+          "y": 0.43508771595201995,
+          "w": 0.17023026315789475,
+          "h": 0.1394736842105263,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 3.8,
+      "end_time": 5.8,
+      "description": "Her gaze returns to the camera, maintaining a neutral expression. Her mouth moves naturally with her speech.",
+      "bboxes": [
+        {
+          "frame_time": 4.531171,
+          "x": 0.3171875,
+          "y": 0.1429824527941252,
+          "w": 0.27532894736842106,
+          "h": 0.15526315789473685,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 4.531171,
+          "x": 0.3260690789473684,
+          "y": 0.016666663320440995,
+          "w": 0.2634868421052632,
+          "h": 0.6842105263157895,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 5.797642,
+          "x": 0.35419407894736843,
+          "y": 0.45877192647833576,
+          "w": 0.16726973684210528,
+          "h": 0.1368421052631579,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 5.8,
+      "end_time": 7.2,
+      "description": "Her gaze shifts again to her right.",
+      "bboxes": [
+        {
+          "frame_time": 6.569942,
+          "x": 0.3290296052631579,
+          "y": 0.02719297910991468,
+          "w": 0.2901315789473684,
+          "h": 0.6763157894736842,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 7.2,
+      "end_time": 13.3,
+      "description": "Her gaze is directed toward the camera. Her expression is neutral with slight, natural mouth movements during speech.",
+      "bboxes": [
+        {
+          "frame_time": 7.312885,
+          "x": 0.32754934210526315,
+          "y": 0.14824561068886205,
+          "w": 0.2501644736842105,
+          "h": 0.1631578947368421,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 7.312885,
+          "x": 0.30386513157894735,
+          "y": 0.019298242267809417,
+          "w": 0.29901315789473687,
+          "h": 0.7236842105263158,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 8.143233,
+          "x": 0.3615953947368421,
+          "y": 0.4535087685835989,
+          "w": 0.16282894736842105,
+          "h": 0.1631578947368421,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 13.3,
+      "end_time": 15.5,
+      "description": "She performs a long blink, after which her gaze is directed down and to her left (camera's right).",
+      "bboxes": [
+        {
+          "frame_time": 13.46037,
+          "x": 0.30978618421052634,
+          "y": 0.19561403174149364,
+          "w": 0.253125,
+          "h": 0.13157894736842105,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 14.319853,
+          "x": 0.21356907894736843,
+          "y": 0.21140350542570416,
+          "w": 0.16875,
+          "h": 0.12631578947368421,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 1.2,
+      "description": "A woman is seated in a vehicle, framed from the chest up, facing the camera. Her head is mostly still.",
+      "bboxes": [
+        {
+          "frame_time": 0.5827,
+          "x": 0.23133223684210527,
+          "y": 0.014035084373072574,
+          "w": 0.43519736842105267,
+          "h": 0.881578947368421,
+          "note": "human-annotated",
+          "region": "unknown"
+        },
+        {
+          "frame_time": 0.961455,
+          "x": 0.2328125,
+          "y": 0.021929821215177836,
+          "w": 0.4633223684210526,
+          "h": 0.9736842105263158,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 0.961455,
+          "x": 0.2668585526315789,
+          "y": 0.00350876858359889,
+          "w": 0.42483552631578947,
+          "h": 0.7552631578947369,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 0.597267,
+          "x": 0.2372532894736842,
+          "y": 0.008771926478335731,
+          "w": 0.42335526315789473,
+          "h": 0.6921052631578948,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 1.2,
+      "end_time": 2.2,
+      "description": "She lifts her right hand to the right side of her head and tucks her hair behind her ear. A small star tattoo is visible on the back of her hand.",
+      "bboxes": [
+        {
+          "frame_time": 1.51502,
+          "x": 0.592516447368421,
+          "y": 0.3350877159520199,
+          "w": 0.4041118421052632,
+          "h": 0.48947368421052634,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 1.51502,
+          "x": 0.7346217105263158,
+          "y": 0.4745614001625463,
+          "w": 0.26200657894736845,
+          "h": 0.33421052631578946,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 2.2,
+      "end_time": 5.8,
+      "description": "Her hands are out of the frame. Her head remains facing forward with a slight turn to her right at approximately 3.0 seconds.",
+      "bboxes": [
+        {
+          "frame_time": 5.06949,
+          "x": 0.5599506578947369,
+          "y": 0.08508771595201994,
+          "w": 0.44004934210526314,
+          "h": 0.7289473684210527,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 3.113634,
+          "x": 0.2668585526315789,
+          "y": 0.011403505425704154,
+          "w": 0.3759868421052632,
+          "h": 0.6736842105263158,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 5.8,
+      "end_time": 7.2,
+      "description": "Her left hand briefly enters the frame from the bottom left, gesturing with an open palm before moving out of view.",
+      "bboxes": [
+        {
+          "frame_time": 6.00181,
+          "x": 0.6813322368421053,
+          "y": 0.516666663320441,
+          "w": 0.3186677631578947,
+          "h": 0.39473684210526316,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 6.948697,
+          "x": 0.8915296052631579,
+          "y": 0.266666663320441,
+          "w": 0.10847039473684206,
+          "h": 0.5973684210526315,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 7.2,
+      "end_time": 13.3,
+      "description": "Her right hand rises into the frame and rests on the interior car door handle to her left (camera's right). Her fingers gently grip the handle.",
+      "bboxes": [
+        {
+          "frame_time": 11.234262,
+          "x": 0.7064967105263158,
+          "y": 0.18508771595201995,
+          "w": 0.2935032894736842,
+          "h": 0.4842105263157895,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 11.085868,
+          "x": 0.7405427631578947,
+          "y": 0.15350876858359888,
+          "w": 0.2594572368421053,
+          "h": 0.8447368421052631,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 10.722453,
+          "x": 0.6902138157894737,
+          "y": 0.216666663320441,
+          "w": 0.3097861842105263,
+          "h": 0.4342105263157895,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 13.3,
+      "end_time": 15.5,
+      "description": "Her head tilts slightly down and to her left (camera's right). Her hand remains on the door handle.",
+      "bboxes": [
+        {
+          "frame_time": 14.075759,
+          "x": 0.17804276315789472,
+          "y": 0.006140347530967311,
+          "w": 0.3804276315789474,
+          "h": 0.718421052631579,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 15.208471,
+          "x": 0.7405427631578947,
+          "y": 0.048245610688862045,
+          "w": 0.2594572368421053,
+          "h": 0.5105263157894737,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 6.8,
+      "description": "Speech is delivered at a moderate, conversational pace with a relatively low and even pitch. A slight falling intonation is audible at the end of the phrases \"go home\" and \"after two.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 6.8,
+      "end_time": 13.1,
+      "description": "The pace remains consistent. The phrase \"not a ton going on today\" is delivered with a descending pitch contour. The repetition \"not a ton going on\" is spoken slightly faster and at a lower volume.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 13.1,
+      "end_time": 15.5,
+      "description": "A brief pause occurs after \"going on.\" Speech resumes at a normal pace and volume for the final phrase, \"I got a bathing-\".",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.5,
+      "description": "The subject is a young woman with long, dark hair, brown eyes, and medium-toned skin. She is wearing a light gray, casual T-shirt. She is filmed from a close-up perspective inside a vehicle, likely in the driver's seat. A dark car seat and the passenger-side door are visible. The lighting is dim, suggesting an indoor or covered location like a parking garage, with the primary light source illuminating her from the front.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Medium",
+      "score": 0.43,
+      "rationale": "The subject's Extraversion is assessed as Medium. While the act of recording a video for an audience implies a degree of social engagement, her overall demeanor is subdued. Her speech pace is moderate and conversational, and her tone is relatively low and even, lacking the high energy and expressive modulation typical of high extraversion. Her facial expressions are predominantly neutral, and she frequently averts her gaze, which suggests a more reserved or internally-focused state rather than an outwardly-focused, socially dominant one. This balance between engaging in a social act and maintaining a calm, low-key presentation supports a medium rating.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Medium",
+      "score": 0.44,
+      "rationale": "The subject's Agreeableness is rated as Medium. Her overall presentation is non-confrontational and her vocal tone is even and conversational. A brief, open-palmed gesture at the 5.8s mark can be interpreted as a cooperative and open signal. However, her facial expressions remain largely neutral throughout the clip, lacking the frequent smiling or overt warmth often associated with high Agreeableness. She presents as placid and straightforward, neither overtly accommodating nor disagreeable, which aligns with a mid-range score on this trait.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Medium",
+      "score": 0.46,
+      "rationale": "The subject's Conscientiousness is rated as Medium. The content of her speech reveals an awareness of her daily schedule ('when I get done with class, I can actually go home. I don't need to go to the library'). This indicates a degree of planning and orderliness. However, the casual context (sitting in her car) and her self-description ('not a ton going on today') suggest a relaxed, rather than a rigidly disciplined, approach to her responsibilities. This blend of structured planning with a laid-back attitude is characteristic of a medium level of Conscientiousness.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Medium",
+      "score": 0.48,
+      "rationale": "The subject's Neuroticism is assessed as Medium. There are subtle cues that could suggest mild tension, such as the initial look of fatigue, slight lip tightening when looking away (2.8s), and the self-grooming gesture of tucking her hair behind her ear (1.2s). The repetition of the phrase 'not a ton going on' might also serve as a form of self-reassurance. However, these indicators are mild and infrequent. For the majority of the video, she maintains a neutral expression and a steady vocal delivery. The absence of significant negative affect, agitation, or vocal stress points away from high Neuroticism, placing her in the medium range.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "Medium",
+      "score": 0.43,
+      "rationale": "The subject's Openness is rated as Medium. The context of her monologue is very concrete and focused on her immediate daily routine ('go home,' 'go to class'), lacking engagement with abstract ideas or imaginative topics that would suggest high Openness. However, the act of creating a vlog-style video itself demonstrates an openness to the modern experience of digital self-expression. The small tattoo on her hand is a minor signifier of aesthetic choice. This combination of conventional conversational content with a non-traditional medium of communication supports a medium score for Openness.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During 1.2s - 2.2s, the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "High Extraversion, as the gesture is a preparatory act for engaging a social audience."
+        },
+        {
+          "id": "B",
+          "text": "Medium Neuroticism, because the self-grooming action is a common sign of mild tension."
+        },
+        {
+          "id": "C",
+          "text": "Low Conscientiousness, given the casual nature of the action in an informal setting."
+        },
+        {
+          "id": "D",
+          "text": "High Openness, as such self-aware gestures can relate to a focus on personal styling."
+        },
+        {
+          "id": "E",
+          "text": "High Neuroticism, because this self-focused behavior indicates a high level of anxiety."
+        },
+        {
+          "id": "F",
+          "text": "Low Agreeableness, as the self-directed action suggests a brief lack of focus on others."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. During 1.2s - 2.2s, the person tucks her hair behind her ear. The personality analysis explicitly identifies this self-grooming gesture as a subtle cue for mild tension, directly supporting the Medium Neuroticism assessment.\n- Option A is a text-based distractor; associating a self-grooming gesture with social preparation is plausible from text alone but not supported by the overall low-energy context of the video.\n- Option C is a video-based distractor; it references the casual setting, which is used to assess Conscientiousness, but this specific gesture at this time is not the primary evidence for that trait.\n- Option D is a text-based distractor; linking hair-tucking to aesthetics and Openness is a logical leap but is not the interpretation provided by the analysis, which links Openness to other factors like the vlog format.\n- Option E is a near-miss distractor; it correctly identifies the trait (Neuroticism) and the behavior type, but incorrectly escalates the interpretation from 'mild tension' (Medium) to 'high level of anxiety' (High).\n- Option F is a text-based distractor; interpreting a self-grooming gesture as a lack of focus on the audience is a plausible but incorrect reading of social cues in this context."
+    },
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their Neuroticism level?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[0.0s - 1.1s]"
+        },
+        {
+          "id": "B",
+          "text": "[2.8s - 3.8s]"
+        },
+        {
+          "id": "C",
+          "text": "[1.2s - 2.2s]"
+        },
+        {
+          "id": "D",
+          "text": "[5.8s - 7.2s]"
+        },
+        {
+          "id": "E",
+          "text": "[13.3s - 15.5s]"
+        },
+        {
+          "id": "F",
+          "text": "[3.8s - 5.8s]"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. The personality analysis for Neuroticism specifically mentions 'slight lip tightening when looking away (2.8s)' as a subtle cue for mild tension. The observation log confirms that during [2.8s - 3.8s], her 'sightline shifts to the left' and her 'lips tighten slightly.' This is the most direct micro-expression evidence for the Neuroticism score.\n- Option A is a video-based distractor; it's the interval where she has a tired expression, which is mentioned, but the lip tightening is a more specific micro-expression cue.\n- Option C is a video-based distractor; this is when she tucks her hair, a behavioral cue for Neuroticism, but not a facial micro-expression.\n- Option D is a video-based distractor; this is when she makes a hand gesture and looks away again, but without the lip tightening noted earlier.\n- Option E is a video-based distractor; this is when she blinks and looks down, which are valid actions but not the specific micro-expression linked to the trait analysis.\n- Option F is a near-miss distractor; it's the interval immediately following the correct one, where her expression returns to neutral, making it temporally close but incorrect."
+    },
+    {
+      "category": "Temporal-Causal Reasoning",
+      "question": "Consider the sequence of behaviors observed across the video. Which of the following best describes the causal chain linking the person's actions at different moments?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A distracting external event is followed by verbal re-orientation and then a state of fatigue."
+        },
+        {
+          "id": "B",
+          "text": "An initial low-energy state precedes non-verbal cognitive processing, leading to verbal reassurance."
+        },
+        {
+          "id": "C",
+          "text": "Verbal self-reassurance leads to a state of fatigue, which prompts non-verbal cognitive processing."
+        },
+        {
+          "id": "D",
+          "text": "An expression of anxiety prompts a self-soothing gesture, leading to verbal topic avoidance."
+        },
+        {
+          "id": "E",
+          "text": "An initial low-energy state precedes non-verbal cognitive processing, causing verbal uncertainty."
+        },
+        {
+          "id": "F",
+          "text": "Social self-monitoring leads to a compensatory gesture, which precedes a verbal summary of plans."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. This option accurately maps the video's progression: 1) She begins with an 'initial low-energy state' (fatigue, 0.0s). 2) She then engages in 'non-verbal cognitive processing' (looks away, tightens lips at 2.8s, suggesting she is thinking). 3) This leads to 'verbal reassurance' (stating and then repeating 'not a ton going on' around 6.8s+).\n- Option A is a video-based distractor with incorrect causality; there is no evidence of an external distraction causing her gaze shift.\n- Option C is a near-miss distractor that reverses the temporal order of the events, incorrectly placing the verbalization before the fatigue and cognitive processing.\n- Option D is a text-based distractor; it uses plausible psychological terms but misinterprets the cues. The hair tuck is a sign of mild tension, not necessarily anxiety, and her speech is a statement, not topic avoidance.\n- Option E is a near-miss distractor; the first two links are correct, but the final outcome is 'reassurance' ('not a ton going on'), not 'uncertainty'.\n- Option F is a text-based distractor; this is a plausible but less accurate interpretation of the events. The hand gesture at 6.0s is open-palmed, not necessarily compensatory, and it follows, rather than precedes, the initial verbal summary."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 1.0s, a region was detected in the video (x=0.311, y=0.001, w=0.327, h=0.726, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A neutral eye gaze directed consistently towards the camera's lens."
+        },
+        {
+          "id": "B",
+          "text": "A facial expression displaying a notable and clear sense of fatigue."
+        },
+        {
+          "id": "C",
+          "text": "A relaxed facial expression that shows a high degree of general ease."
+        },
+        {
+          "id": "D",
+          "text": "The subject's left hand is observed gesturing within the video frame."
+        },
+        {
+          "id": "E",
+          "text": "A subtle but distinct turn of the head while still facing the camera."
+        },
+        {
+          "id": "F",
+          "text": "Natural lip movement that corresponds directly with audible speech."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. The provided bounding box at 1.0s covers the subject's entire face. The observation log for this time and region explicitly states, 'overall look of fatigue.' This option is a direct and accurate description of the content within that specific spatio-temporal region.\n- Option A is a video-based distractor; it describes the eyes, which are inside the bbox, but the *overall* facial expression is the most prominent feature, and it is one of fatigue, not just neutrality.\n- Option C is a near-miss distractor; it correctly identifies a low-arousal state but misinterprets 'fatigue' as 'relaxation,' which is a common AI error pattern noted in the material.\n- Option D is a video-based distractor; it describes the hand, which is a different body region and is not visible in the frame at this exact moment, testing spatial awareness.\n- Option E is a video-based distractor; a head turn occurs later (around 3.0s), not at 1.0s, testing temporal awareness.\n- Option F is a video-based distractor; while her mouth is slightly open, significant speech-related movement happens later in the video, not at this initial moment."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "The person makes a brief, non-verbal communicative gesture with one hand. Which option correctly identifies the precise moment and location of this action?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[6.0s]  x=0.68, y=0.52, w=0.32, h=0.39"
+        },
+        {
+          "id": "B",
+          "text": "[13.5s]  x=0.31, y=0.20, w=0.25, h=0.13"
+        },
+        {
+          "id": "C",
+          "text": "[2.2s]  x=0.31, y=0.05, w=0.31, h=0.15"
+        },
+        {
+          "id": "D",
+          "text": "[8.1s]  x=0.36, y=0.45, w=0.16, h=0.16"
+        },
+        {
+          "id": "E",
+          "text": "[10.7s]  x=0.69, y=0.22, w=0.31, h=0.43"
+        },
+        {
+          "id": "F",
+          "text": "[1.0s]  x=0.35, y=0.46, w=0.18, h=0.19"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. The question asks to identify a 'brief, non-verbal communicative gesture with one hand.' The observation log for [5.8s - 7.2s] notes, 'Her left hand briefly enters the frame from the bottom left, making an open-palmed gesture.' The coordinates and timestamp in option A match this event precisely.\n- Option B points to the eye region during a quick blink.\n- Option C points to the eyebrow region when her expression is neutral.\n- Option D points to the mouth region during natural speech movement.\n- Option E points to her left hand resting on the car door handle with fingers slightly bent, which is a resting posture, not a brief communicative gesture.\n- Option F points to her mouth region at the very beginning when it is slightly open."
+    },
+    {
+      "category": "Counterfactual Reasoning",
+      "question": "If the person had NOT exhibited the behavior observed around 0.0s - 5.8s, which of the following personality assessments would be MOST affected?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The Extraversion score would be less supported, as this period contains her main social cues."
+        },
+        {
+          "id": "B",
+          "text": "The Conscientiousness score would be less supported, as this moment provides key evidence of planning."
+        },
+        {
+          "id": "C",
+          "text": "The Openness rating would be largely unaffected, as its evidence comes from other sources."
+        },
+        {
+          "id": "D",
+          "text": "The Neuroticism rating would decrease, because the key evidence for her tension is in her speech."
+        },
+        {
+          "id": "E",
+          "text": "The Conscientiousness score would increase, since removing casual talk implies greater focus."
+        },
+        {
+          "id": "F",
+          "text": "The Agreeableness score would be reduced, because this segment contains her cooperative gestures."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. During 0.0s-5.8s, the person describes her schedule ('when I get done with class, I can actually go home. I don't need to go to the library'). The analysis explicitly states this speech content is the primary evidence for Medium Conscientiousness, as it 'indicates a degree of planning and orderliness.' Removing this verbal behavior would remove the main support for this trait assessment, making it weaker or less certain.\n- Option A is a text-based distractor; the Extraversion score is based on her overall subdued energy and the act of vlogging, not just the speech in this segment.\n- Option C is technically a true statement, but the question asks what would be MOST affected, not unaffected. It's a distractor by being correct but not answering the core question.\n- Option D is a video-based distractor; the evidence for Neuroticism (hair tuck, lip purse) occurs at specific moments, not within her speech content about her schedule.\n- Option E is a near-miss distractor; it correctly identifies the trait (Conscientiousness) but suggests the score would increase, which is the wrong direction. Removing evidence weakens an assessment, it does not strengthen it.\n- Option F is a video-based distractor; the primary cooperative gesture (open palm) happens just at the end of this period (5.8s), but the core evidence for Conscientiousness (the speech content) is much more central to this time block."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator19",
+      "version": 2,
+      "clues_total": 35,
+      "clues_correct": 21,
+      "clues_wrong_corrected": 14,
+      "clues_missing_skipped": 0,
+      "clues_bonus": 0
+    }
+  }
+}

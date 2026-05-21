@@ -1,0 +1,746 @@
+{
+  "video_id": "IQNNEfYYYiw.000.mp4",
+  "video_path": "IQNNEfYYYiw.000.mp4",
+  "transcription": "[inaudible 00:00:14] I want to build a hospital for kids, just for kids, and it's going to be pink and blue. Basically, blue for the guys, pink for the girls. Probably, I don't know ... at that age I always wanted to do something ...",
+  "original_scores": {
+    "extraversion": 0.6448598130841123,
+    "agreeableness": 0.5934065934065933,
+    "conscientiousness": 0.4854368932038835,
+    "neuroticism": 0.6979166666666666,
+    "openness": 0.7555555555555554
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 0.83,
+      "description": "The subject looks directly at the camera, smiling with teeth visible. Her eyebrows are in a neutral, relaxed position.",
+      "bboxes": [
+        {
+          "frame_time": 0.408015,
+          "x": 0.3926809210526316,
+          "y": 0.3956140317414936,
+          "w": 0.21019736842105263,
+          "h": 0.07368421052631578,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 0.408015,
+          "x": 0.4415296052631579,
+          "y": 0.5324561370046516,
+          "w": 0.10657894736842105,
+          "h": 0.12631578947368421,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 0.306011,
+          "x": 0.3837993421052632,
+          "y": 0.29561403174149364,
+          "w": 0.1924342105263158,
+          "h": 0.12105263157894737,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 0.83,
+      "end_time": 3.01,
+      "description": "Her smile fades as she speaks. Her gaze shifts upwards and to her left as her eyebrows raise slightly, then returns to the camera. Her mouth is open in an expressive manner.",
+      "bboxes": [
+        {
+          "frame_time": 1.948919,
+          "x": 0.42672697368421053,
+          "y": 0.3350877159520199,
+          "w": 0.1805921052631579,
+          "h": 0.11315789473684211,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 2.025504,
+          "x": 0.41488486842105265,
+          "y": 0.2903508738467568,
+          "w": 0.18207236842105262,
+          "h": 0.06842105263157895,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 2.921023,
+          "x": 0.43560855263157894,
+          "y": 0.46140350542570413,
+          "w": 0.10953947368421053,
+          "h": 0.11842105263157894,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 3.01,
+      "end_time": 6.83,
+      "description": "Her eyebrows are raised, and her eyes are wide as she speaks emphatically. Her gaze is fixed on the camera. Her mouth shapes the words with high animation.",
+      "bboxes": [
+        {
+          "frame_time": 5.755928,
+          "x": 0.35863486842105263,
+          "y": 0.2929824527941252,
+          "w": 0.1924342105263158,
+          "h": 0.07631578947368421,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 5.417798,
+          "x": 0.36751644736842104,
+          "y": 0.3429824527941252,
+          "w": 0.20131578947368423,
+          "h": 0.11052631578947368,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 6.223336,
+          "x": 0.3660361842105263,
+          "y": 0.35350876858359886,
+          "w": 0.1805921052631579,
+          "h": 0.11578947368421053,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 5.417798,
+          "x": 0.4074835526315789,
+          "y": 0.5087719264783357,
+          "w": 0.10805921052631579,
+          "h": 0.11315789473684211,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 6.83,
+      "end_time": 11.02,
+      "description": "Her expression softens slightly, but remains engaged with the camera. Her eyebrows return to a more neutral, slightly raised position. Her lips are slightly pursed at times between phrases.",
+      "bboxes": [
+        {
+          "frame_time": 8.241957,
+          "x": 0.3438322368421053,
+          "y": 0.3061403475309673,
+          "w": 0.19539473684210526,
+          "h": 0.3473684210526316,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 8.678172,
+          "x": 0.2979440789473684,
+          "y": 0.14824561068886205,
+          "w": 0.2886513157894737,
+          "h": 0.6026315789473684,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 10.462675,
+          "x": 0.37639802631578945,
+          "y": 0.30087718963623045,
+          "w": 0.20131578947368423,
+          "h": 0.0868421052631579,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 10.566171,
+          "x": 0.42672697368421053,
+          "y": 0.4903508738467568,
+          "w": 0.1613486842105263,
+          "h": 0.14210526315789473,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 11.02,
+      "end_time": 12.35,
+      "description": "She looks up and to her left, her eyebrows raised in a thoughtful expression. Her mouth is slightly open.",
+      "bboxes": [
+        {
+          "frame_time": 11.919872,
+          "x": 0.3734375,
+          "y": 0.2850877159520199,
+          "w": 0.17763157894736842,
+          "h": 0.12105263157894737,
+          "note": "human-annotated",
+          "region": "unknown"
+        },
+        {
+          "frame_time": 12.368749,
+          "x": 0.3778782894736842,
+          "y": 0.27456140016254627,
+          "w": 0.17911184210526315,
+          "h": 0.1,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 11.141378,
+          "x": 0.37935855263157897,
+          "y": 0.23771929489938837,
+          "w": 0.18355263157894738,
+          "h": 0.3526315789473684,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 12.036448,
+          "x": 0.45041118421052634,
+          "y": 0.42719297910991466,
+          "w": 0.0962171052631579,
+          "h": 0.13157894736842105,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 12.35,
+      "end_time": 15.42,
+      "description": "Her gaze returns to the camera. Her eyebrows are slightly furrowed as she speaks, and she nods her head in coordination with her words, maintaining an earnest expression.",
+      "bboxes": [
+        {
+          "frame_time": 14.36109,
+          "x": 0.4104440789473684,
+          "y": 0.3429824527941252,
+          "w": 0.18207236842105262,
+          "h": 0.10789473684210527,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 14.703119,
+          "x": 0.40008223684210525,
+          "y": 0.1929824527941252,
+          "w": 0.18651315789473685,
+          "h": 0.4605263157894737,
+          "note": "face human-annotated",
+          "region": "face"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 1.1,
+      "description": "The subject is sitting, facing the camera. Her left hand is resting on her upper chest.",
+      "bboxes": [
+        {
+          "frame_time": 0.915091,
+          "x": 0.33199013157894736,
+          "y": 0.15877192647833574,
+          "w": 0.3330592105263158,
+          "h": 0.7052631578947368,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 0.915091,
+          "x": 0.40008223684210525,
+          "y": 0.7561403475309673,
+          "w": 0.3123355263157895,
+          "h": 0.23684210526315788,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 1.1,
+      "end_time": 2.21,
+      "description": "She raises her right hand to the side of her head, gesturing with her index finger as she speaks.",
+      "bboxes": [
+        {
+          "frame_time": 2.021457,
+          "x": 0.3971217105263158,
+          "y": 0.2140350843730726,
+          "w": 0.3315789473684211,
+          "h": 0.46842105263157896,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 2.021457,
+          "x": 0.5954769736842105,
+          "y": 0.28771929489938836,
+          "w": 0.22796052631578947,
+          "h": 0.6263157894736842,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 2.21,
+      "end_time": 6.77,
+      "description": "She extends her right arm upward and to her right, pointing her index finger emphatically, then brings both arms down and out in an expansive gesture.",
+      "bboxes": [
+        {
+          "frame_time": 4.441836,
+          "x": 0.6221217105263158,
+          "y": 0.11140350542570415,
+          "w": 0.3360197368421053,
+          "h": 0.7236842105263158,
+          "note": "human-annotated",
+          "region": "arms"
+        },
+        {
+          "frame_time": 4.887204,
+          "x": 0.8382401315789475,
+          "y": 0.2692982422678094,
+          "w": 0.15542763157894737,
+          "h": 0.4394736842105263,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 6.696626,
+          "x": 0.006332236842105254,
+          "y": 0.02456140016254626,
+          "w": 0.16282894736842105,
+          "h": 0.3973684210526316,
+          "note": "human-annotated",
+          "region": "arms"
+        },
+        {
+          "frame_time": 6.696626,
+          "x": 0.7005756578947369,
+          "y": 0.7535087685835989,
+          "w": 0.1805921052631579,
+          "h": 0.24210526315789474,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 6.77,
+      "end_time": 10.98,
+      "description": "She makes a wide, shrugging motion with both shoulders and arms. Her hands then rest out of frame.",
+      "bboxes": [
+        {
+          "frame_time": 9.09291,
+          "x": 0.032976973684210514,
+          "y": 0.5403508738467567,
+          "w": 0.7060855263157895,
+          "h": 0.45789473684210524,
+          "note": "pose human-annotated",
+          "region": "shoulders"
+        },
+        {
+          "frame_time": 9.09291,
+          "x": 0.07442434210526315,
+          "y": 0.8245614001625463,
+          "w": 0.5713815789473684,
+          "h": 0.17105263157894737,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 10.98,
+      "end_time": 13.56,
+      "description": "Her head tilts back and up as she looks toward the ceiling, then returns to a forward-facing position.",
+      "bboxes": [
+        {
+          "frame_time": 11.697684,
+          "x": 0.3660361842105263,
+          "y": 0.1798245580572831,
+          "w": 0.20131578947368423,
+          "h": 0.4052631578947368,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 12.550804,
+          "x": 0.3290296052631579,
+          "y": 0.14561403174149362,
+          "w": 0.24572368421052632,
+          "h": 0.5947368421052631,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 13.56,
+      "end_time": 15.42,
+      "description": "She brings her right hand up and makes a quick, small gesture near her chin before it moves out of frame again.",
+      "bboxes": [
+        {
+          "frame_time": 13.566505,
+          "x": 0.25501644736842105,
+          "y": 0.5798245580572831,
+          "w": 0.21907894736842107,
+          "h": 0.41578947368421054,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 13.726797,
+          "x": 0.38231907894736844,
+          "y": 0.5456140317414936,
+          "w": 0.27976973684210527,
+          "h": 0.41578947368421054,
+          "note": "human-annotated",
+          "region": "chin"
+        },
+        {
+          "frame_time": 13.959948,
+          "x": 0.24021381578947368,
+          "y": 0.7087719264783358,
+          "w": 0.5713815789473684,
+          "h": 0.2789473684210526,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 1,
+      "end_time": 3.84,
+      "description": "Speech rate increases with rising pitch and volume on the phrase \"I want to build a hospital\".",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 3.84,
+      "end_time": 4.9,
+      "description": "The phrase \"just for kids\" is delivered with strong emphasis and a slightly higher pitch.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 4.9,
+      "end_time": 9.41,
+      "description": "The pace becomes more measured and rhythmic. The pitch rises on the words \"pink\" and \"blue,\" and again on \"guys\" and \"girls.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 9.41,
+      "end_time": 12.44,
+      "description": "Speech slows down, becoming more conversational in tone. Pitch drops, with a rising, questioning intonation on \"know?\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 12.44,
+      "end_time": 15.42,
+      "description": "The pace quickens slightly again. There is moderate pitch variation throughout the sentence to add emphasis.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.42,
+      "description": "The subject is a Black woman with dark, curly, shoulder-length hair. She is wearing a patterned sweater (red, black, and white) over a dark-colored shirt. The setting is an indoor room, likely a bedroom, with light-colored walls decorated with pink cherry blossom decals. A wooden door is visible on the left, and a light-wood wardrobe is on the right. Lighting is bright and even.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "High",
+      "score": 0.64,
+      "rationale": "The subject's High Extraversion is demonstrated by her highly engaging and expressive communication style. She maintains direct eye contact with the camera initially, projecting social confidence. Her speech is animated, with significant variations in pitch, volume, and pace to create emphasis. This is complemented by a high level of physical energy, seen in her frequent, expansive, and emphatic hand gestures, such as pointing and swinging her arms. This combination of vocal dynamism and expressive body language is characteristic of individuals who are energized by social expression and comfortable being the center of attention.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Medium",
+      "score": 0.59,
+      "rationale": "The subject's Medium Agreeableness is reflected in the blend of warmth and assertiveness in her presentation. The content of her speech—a desire to build a children's hospital—reveals a clear prosocial and altruistic inclination, a key facet of agreeableness. Her initial warm smile also fosters a sense of connection. However, this is balanced by a very assertive and emphatic delivery style, using strong, directive gestures. This suggests she is not passively compliant but is confident in expressing her own ideas, a trait combination that aligns well with a mid-range Agreeableness score.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Medium",
+      "score": 0.49,
+      "rationale": "A Medium level of Conscientiousness is indicated by the presence of a clear, future-oriented goal balanced with a spontaneous, less-structured delivery. The subject articulates a specific ambition (building a hospital), which points to a capacity for planning. However, her speech pattern appears unrehearsed, as she pauses to search for words ('Probably, I don't know ...') and looks away to formulate thoughts. This combination of having a defined objective but expressing it in a flexible and impromptu manner suggests a moderate, rather than a rigidly disciplined or disorganized, approach.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "High",
+      "score": 0.7,
+      "rationale": "The subject's High Neuroticism is suggested by cues indicating emotional reactivity and a degree of self-consciousness. Her high-energy gesturing and accelerated speech can be interpreted as nervous energy, not just extraverted enthusiasm. Moments of verbal hesitation ('Probably, I don't know...') and upward gazes to recall thoughts suggest a degree of self-monitoring and potential self-doubt. The overall emotional intensity with which she discusses her idea—using wide eyes and strong vocal emphasis—points to a high level of emotional responsiveness, a core component of neuroticism.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "High",
+      "score": 0.76,
+      "rationale": "The subject's High Openness is strongly supported by the imaginative and abstract nature of her conversation. She is not discussing a mundane topic but rather a creative, aspirational vision: designing and building a color-coded children's hospital. This demonstrates a capacity for imaginative thinking. Her expressive and animated communication style serves as a vehicle for this creativity. Furthermore, her pauses to look up and away while thinking aloud indicate a process of active cognitive exploration, reflecting the intellectual curiosity and introspection characteristic of individuals high in openness.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During 2.2s - 6.8s, the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A reduced level of Agreeableness due to a confrontational stance."
+        },
+        {
+          "id": "B",
+          "text": "An elevated level of Openness shown by the content of her speech."
+        },
+        {
+          "id": "C",
+          "text": "A reduced level of Extraversion due to moments of introspection."
+        },
+        {
+          "id": "D",
+          "text": "An elevated level of Conscientiousness shown by detailed planning."
+        },
+        {
+          "id": "E",
+          "text": "An elevated level of Extraversion shown by expressive energy."
+        },
+        {
+          "id": "F",
+          "text": "A reduced level of Neuroticism due to a confident presentation."
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. During this interval, the person uses expansive arm movements, emphatic pointing, and highly animated speech, which are strong indicators of the energy, social expressiveness, and dynamism characteristic of High Extraversion.\n\n- Option A is a text-based distractor. One could interpret emphatic gestures as 'confrontational' from a text description, but visually they convey passion and enthusiasm for her idea.\n- Option B is a video-based distractor. While her idea itself supports High Openness, the specific *behaviors* in this time range (physical and vocal energy) are more direct evidence for Extraversion. The evidence for Openness comes from the abstract content, not the physical delivery in this segment.\n- Option C is a near-miss distractor. It correctly identifies the trait dimension (Extraversion) but points in the wrong direction (Reduced instead of Elevated).\n- Option D is a text-based distractor. The speech content involves a future goal, which might suggest planning (Conscientiousness), but the behavior is about expression, not detailing a plan.\n- Option F is a text-based distractor. The high energy could be read as confidence (Low Neuroticism), but the personality analysis suggests this energy is also partly linked to High Neuroticism (nervous energy)."
+    },
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their level of Openness?",
+      "options": [
+        {
+          "id": "A",
+          "text": "0.0s - 1.0s"
+        },
+        {
+          "id": "B",
+          "text": "2.5s - 3.5s"
+        },
+        {
+          "id": "C",
+          "text": "5.1s - 6.1s"
+        },
+        {
+          "id": "D",
+          "text": "11.0s - 12.0s"
+        },
+        {
+          "id": "E",
+          "text": "8.2s - 9.2s"
+        },
+        {
+          "id": "F",
+          "text": "13.7s - 14.7s"
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "The correct answer is D. In this interval, the person looks up and away with a contemplative expression while saying 'Probably, I don't know...'. The personality analysis for High Openness explicitly cites this type of behavior ('pauses to look up and away while thinking aloud') as key evidence for 'active cognitive exploration'.\n\n- Option A is a video-based distractor. This interval shows her initial warm smile, which is more relevant to Agreeableness or Extraversion.\n- Option B is a video-based distractor. This interval shows her mouth moving expressively while speaking, which is part of her overall extraverted delivery.\n- Option C is a video-based distractor. This interval shows her eyes wide and fixed on the camera for emphasis, a behavior more directly tied to Extraversion.\n- Option E is a video-based distractor. This interval shows her expression softening during a shrug, which is a transitional moment but not the key 'cognitive exploration' moment.\n- Option F is a near-miss distractor. This interval shows her returning her gaze to the camera with a serious expression, which is a thoughtful moment, but the upward gaze in 11.0s-12.0s is the more classic and explicit indicator of the internal thought process described in the Openness analysis."
+    },
+    {
+      "category": "Mixed Emotion Discrimination",
+      "question": "During 9.4s - 12.4s, the person's emotional state is best characterized as which of the following? Consider both verbal and non-verbal cues.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Anxious apprehension tempered by a need for social approval."
+        },
+        {
+          "id": "B",
+          "text": "Frustrated confusion mixed with a feeling of being rushed."
+        },
+        {
+          "id": "C",
+          "text": "Hesitant self-doubt tempered by a desire to appear certain."
+        },
+        {
+          "id": "D",
+          "text": "Earnest conviction mixed with her enthusiastic storytelling."
+        },
+        {
+          "id": "E",
+          "text": "Reflective uncertainty mixed with imaginative exploration."
+        },
+        {
+          "id": "F",
+          "text": "Social apprehension tempered by a warm and inviting smile."
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. In this period, the speaker's pace slows, she says 'Probably, I don't know...' (reflective uncertainty), and simultaneously looks upward and away with a thoughtful expression as she considers her creative idea (imaginative exploration).\n\n- Option A is a text-based distractor. While her Neuroticism score is high, her calm and thoughtful expression during this specific interval does not support 'anxious apprehension'.\n- Option B is a text-based distractor. The phrase 'I don't know' could imply confusion, but her demeanor is calm and contemplative, not frustrated or rushed.\n- Option C is a near-miss distractor. This is very close, as 'hesitant self-doubt' captures the verbal cue. However, 'imaginative exploration' more accurately describes the non-verbal cue (the thoughtful upward gaze) than the more generic 'desire to appear certain'.\n- Option D is a video-based distractor. This accurately describes her emotional state in an earlier segment (e.g., 3.0s - 6.8s) but not during this specific pensive moment.\n- Option F is a video-based distractor. This might describe the very beginning of the video (0.0s-0.8s), but it does not match the contemplative state observed later."
+    },
+    {
+      "category": "Temporal-Causal Reasoning",
+      "question": "Consider the sequence of behaviors observed across the video. Which of the following best describes the causal chain linking the person's actions at different moments?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A moment of cognitive exploration leads to expressive illustration, which prompts a return to social engagement."
+        },
+        {
+          "id": "B",
+          "text": "An initial display of uncertainty leads to a compensatory burst of energy, concluding with self-monitoring."
+        },
+        {
+          "id": "C",
+          "text": "Social engagement leads to expressive illustration, which then prompts a display of emotional regulation."
+        },
+        {
+          "id": "D",
+          "text": "A period of emphatic gesturing leads to a neutral display, which then prompts a new emphatic gesture."
+        },
+        {
+          "id": "E",
+          "text": "Social engagement leads to expressive illustration, which then prompts a moment of cognitive exploration."
+        },
+        {
+          "id": "F",
+          "text": "Social engagement leads to cognitive exploration, which then prompts a phase of expressive illustration."
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. The video follows a logical sequence: she begins by connecting with the audience (social engagement, ~0.0s-1.1s), then uses high energy and gestures to explain her idea (expressive illustration, ~2.2s-6.8s), and this act of explaining prompts a pause where she looks up to think further about the details (cognitive exploration, ~11.0s-12.3s).\n\n- Option A is a video-based distractor with reversed temporal order. The cognitive exploration happens after the main expressive burst, not before.\n- Option B is a text-based distractor. This describes a plausible psychological pattern but does not match the video's timeline; the energy burst comes before the moment of uncertainty.\n- Option C is a near-miss distractor. The final step is plausible, but calling the thoughtful pause 'emotional regulation' is less precise than 'cognitive exploration,' which is explicitly tied to the High Openness trait in the analysis for this specific behavior.\n- Option D is a video-based distractor. It mischaracterizes the final phase of the video, which is a return to a serious, focused expression, not another period of emphatic gesturing.\n- Option F is a video-based distractor with an incorrect causal link. The cognitive exploration is a result of her trying to explain her idea, not the precursor to it."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 0.9s, a region was detected in the video (x=0.400, y=0.756, w=0.312, h=0.237, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The head tilted upward and backward to look at the ceiling."
+        },
+        {
+          "id": "B",
+          "text": "A direct gaze from the eyes fixed toward the camera's lens."
+        },
+        {
+          "id": "C",
+          "text": "Slightly parted lips visible during a moment of verbal pause."
+        },
+        {
+          "id": "D",
+          "text": "Relaxed eyebrows indicating a generally neutral facial state."
+        },
+        {
+          "id": "E",
+          "text": "A hand resting gently on the upper part of the person's chest."
+        },
+        {
+          "id": "F",
+          "text": "A facial expression softening into a significantly milder look."
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. The provided coordinates at 0.9s correspond to the lower-middle portion of the frame, precisely where the observation log notes 'Her left hand is placed on her upper chest'.\n\n- Option A is a video-based distractor. This action occurs, but much later around 11.7s, and the coordinates would be higher up in the frame, focused on the head.\n- Option B is a video-based distractor. The eyes are located in the upper half of the head, well outside this bbox which is located on the torso.\n- Option C is a near-miss distractor. The mouth is part of the face and is located above the specified bbox. This tests spatial precision.\n- Option D is a near-miss distractor. The eyebrows are also part of the face and are located significantly higher than the specified bbox.\n- Option F is a text-based distractor as no such specific action is described; her expression softens later, but this label is too vague and in the wrong location."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "Which of the following options correctly identifies the moment when the person establishes their initial, centered posture before beginning their main narrative?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[2.9s]  x=0.44, y=0.46, w=0.11, h=0.12"
+        },
+        {
+          "id": "B",
+          "text": "[6.2s]  x=0.37, y=0.35, w=0.18, h=0.12"
+        },
+        {
+          "id": "C",
+          "text": "[14.7s]  x=0.40, y=0.19, w=0.19, h=0.46"
+        },
+        {
+          "id": "D",
+          "text": "[10.5s]  x=0.38, y=0.30, w=0.20, h=0.09"
+        },
+        {
+          "id": "E",
+          "text": "[0.9s]  x=0.33, y=0.16, w=0.33, h=0.71"
+        },
+        {
+          "id": "F",
+          "text": "[10.6s]  x=0.43, y=0.49, w=0.16, h=0.14"
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. The question asks for the initial, centered posture. The timestamp 0.9s is at the very beginning of the video, and the large bounding box (w=0.33, h=0.71) encompasses most of her upper body, consistent with a general posture. The observation log for [0.0s - 1.1s] confirms this is when she is 'sitting, facing the camera' with her hand on her chest.\n\n- Option A is a video-based distractor. This points to her mouth while she is actively speaking.\n- Option B is a video-based distractor. This highlights her eyes as she makes an emphatic point, well after her initial posture is established.\n- Option C is a video-based distractor. This is her face at the very end of the clip, showing her concluding expression, not her initial one.\n- Option D is a video-based distractor. This isolates her neutral eyebrows during a pause in the middle of her speech.\n- Option F is a near-miss distractor. This points to her mouth during the conversational pause around 10.6s. While it is a moment of relative stillness, it is not her *initial* posture."
+    },
+    {
+      "category": "Counterfactual Reasoning",
+      "question": "If the person had NOT exhibited the behavior observed around 11.0s - 12.3s, which of the following personality assessments would be MOST affected?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Agreeableness assessment would be lower, as looking away can often signal a lack of social warmth."
+        },
+        {
+          "id": "B",
+          "text": "Conscientiousness assessment would be higher, since the absent pause implies more fluid planning."
+        },
+        {
+          "id": "C",
+          "text": "Extraversion evidence would be weaker, as the pause breaks the flow of high social energy outward."
+        },
+        {
+          "id": "D",
+          "text": "Openness assessment would be higher, because the pause might otherwise signal a creative struggle."
+        },
+        {
+          "id": "E",
+          "text": "Openness evidence would be weaker, as this moment is key evidence of cognitive exploration behavior."
+        },
+        {
+          "id": "F",
+          "text": "Neuroticism evidence would be weaker, as this hesitation is a primary indicator of self-doubt."
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. The behavior in this interval is the contemplative upward glance while pausing, which the personality analysis explicitly identifies as a key indicator of 'active cognitive exploration' and 'intellectual curiosity,' grounding the High Openness rating. Removing this behavior would remove the strongest piece of evidence for that specific cognitive style.\n\n- Option A is a text-based distractor. This is an incorrect interpretation of the behavior; the analysis links it to thought, not a lack of warmth, and Agreeableness is supported by other cues (prosocial goal).\n- Option B is a text-based distractor. This makes a plausible-sounding claim but one that is not supported by the analysis, which doesn't frame this pause as a failure of Conscientiousness.\n- Option C is a video-based distractor. While true that the pause is a break in extraverted expression, the High Extraversion score is supported by abundant evidence of high energy throughout the rest of the clip. The impact would be minor.\n- Option D is a near-miss distractor. It correctly identifies Openness as the affected trait but reverses the logic. The pause is interpreted as evidence *for* imaginative thought, so removing it would weaken, not strengthen, the assessment.\n- Option F is a video-based distractor. This is a strong distractor because the hesitation ('I don't know') is linked to Neuroticism. However, the *visual* behavior (the glance) is more uniquely and strongly tied to the Openness analysis ('cognitive exploration') than to the Neuroticism analysis, making Openness the MOST affected trait if the behavior were absent."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator17",
+      "version": 1,
+      "clues_total": 45,
+      "clues_correct": 35,
+      "clues_wrong_corrected": 6,
+      "clues_missing_skipped": 4,
+      "clues_bonus": 0
+    }
+  }
+}

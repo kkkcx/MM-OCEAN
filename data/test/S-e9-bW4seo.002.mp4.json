@@ -1,0 +1,389 @@
+{
+  "video_id": "S-e9-bW4seo.002.mp4",
+  "video_path": "S-e9-bW4seo.002.mp4",
+  "transcription": "[inaudible 00:00:15] you look at what time that transport gets into major stops that you're going to stop at along the way. There's no point in saving 60 dollars on buying a ticket if you're going to arrive somewhere at 11 o'clock at night.",
+  "original_scores": {
+    "extraversion": 0.33644859813084116,
+    "agreeableness": 0.5164835164835165,
+    "conscientiousness": 0.5922330097087379,
+    "neuroticism": 0.5208333333333334,
+    "openness": 0.4
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 3.4,
+      "description": "The man looks directly at the camera with a neutral expression, his eyebrows slightly raised as he speaks. He blinks normally.",
+      "bboxes": [
+        {
+          "frame_time": 1.062365,
+          "x": 0.4060032894736842,
+          "y": 0.2771929791099147,
+          "w": 0.22351973684210527,
+          "h": 0.37105263157894736,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 0.335201,
+          "x": 0.4163651315789474,
+          "y": 0.3140350843730726,
+          "w": 0.17023026315789475,
+          "h": 0.08157894736842106,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 1.682956,
+          "x": 0.4134046052631579,
+          "y": 0.3429824527941252,
+          "w": 0.17615131578947368,
+          "h": 0.11578947368421053,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 3.4,
+      "end_time": 5.5,
+      "description": "His eyes close briefly, and then he looks up and toward his left. His eyebrows lower to a more neutral position.",
+      "bboxes": [
+        {
+          "frame_time": 3.898262,
+          "x": 0.4222861842105263,
+          "y": 0.30087718963623045,
+          "w": 0.18651315789473685,
+          "h": 0.15789473684210525,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 5.030237,
+          "x": 0.43264802631578947,
+          "y": 0.3192982422678094,
+          "w": 0.17615131578947368,
+          "h": 0.11842105263157894,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 5.5,
+      "end_time": 8.5,
+      "description": "His gaze returns to the camera, maintaining a neutral facial expression.",
+      "bboxes": [
+        {
+          "frame_time": 6.799987,
+          "x": 0.4459703947368421,
+          "y": 0.31140350542570416,
+          "w": 0.1480263157894737,
+          "h": 0.13157894736842105,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 8.178756,
+          "x": 0.42820723684210527,
+          "y": 0.29561403174149364,
+          "w": 0.1998355263157895,
+          "h": 0.3447368421052632,
+          "note": "face human-annotated",
+          "region": "face"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 8.5,
+      "end_time": 15.2,
+      "description": "His eyebrows raise and lower in sync with his speech for emphasis, particularly when saying \"saving\" and \"11 o'clock at night.\" He blinks naturally throughout.",
+      "bboxes": [
+        {
+          "frame_time": 10.547224,
+          "x": 0.4533717105263158,
+          "y": 0.2614035054257042,
+          "w": 0.15098684210526317,
+          "h": 0.12368421052631579,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 11.079837,
+          "x": 0.42820723684210527,
+          "y": 0.36929824226780944,
+          "w": 0.17911184210526315,
+          "h": 0.08421052631578947,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 15.2,
+      "description": "The man is shown in a chest-up shot, centered in the frame. His head and shoulders remain relatively still, with only slight nods and turns that correspond to the cadence of his speech.",
+      "bboxes": [
+        {
+          "frame_time": 7.754174,
+          "x": 0.3808388157894737,
+          "y": 0.2403508738467568,
+          "w": 0.2930921052631579,
+          "h": 0.6078947368421053,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 14.868608,
+          "x": 0.36307565789473684,
+          "y": 0.1771929791099147,
+          "w": 0.2738486842105263,
+          "h": 0.65,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 8.2,
+      "description": "The man speaks at a moderate, conversational pace. There is a short pause and a filler word, \"uh,\" at 00:05. His pitch falls at the end of the sentence on the word \"way.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 8.2,
+      "end_time": 15.2,
+      "description": "The speech rate remains consistent. There is a slight rise in pitch for emphasis on the word \"saving,\" followed by a falling intonation at the end of the clause on \"ticket\" and again at the end of the sentence on \"night.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.2,
+      "description": "The subject is a middle-aged man with fair skin and short dark hair, wearing a dark blue t-shirt. He is positioned in front of a virtual background depicting a sunset over the ocean, with a pier in the foreground and a catamaran on the water to the left. A dark blue banner with white text is at the bottom of the screen, reading \"Matt - Backpacking Podcast\" and \"Episode 3 of the Backpacker Q&A.\" The subject is clearly lit from the front.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Low",
+      "score": 0.34,
+      "rationale": "The subject's score indicates Low Extraversion. This is supported by a reserved physical demeanor; his head and shoulders remain relatively still throughout the clip, lacking the broad, energetic movements often seen in highly extraverted individuals. His facial expression is predominantly neutral, and his vocal pace is moderate and conversational rather than rapid or forceful. While he is engaging in a public-facing activity (a podcast), his controlled and measured presentation style is more characteristic of introversion.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Medium",
+      "score": 0.52,
+      "rationale": "The subject scores in the Medium range for Agreeableness. His behavior is consistent with this, as he is in the process of offering helpful, practical advice to an audience, which is a prosocial act. His vocal tone is calm and non-confrontational. However, he maintains a neutral facial expression rather than displaying overt warmth or frequent smiles, which would suggest higher agreeableness. This balance between helpful intent and a reserved emotional affect supports a medium rating.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Medium",
+      "score": 0.59,
+      "rationale": "The subject's Conscientiousness is assessed as Medium. Strong evidence for this trait comes from the content of his speech, which is logical, structured, and focused on planning and avoiding negative consequences—hallmarks of conscientiousness. The organized setup, with a clear title banner for 'Episode 3', also suggests preparation and orderliness. His delivery is deliberate, though a brief pause and filler word indicate a degree of spontaneity rather than being fully scripted, placing him in the medium range.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Medium",
+      "score": 0.52,
+      "rationale": "The subject is rated as Medium on the Neuroticism scale. His external demeanor is largely calm and stable, with a normal blink rate and steady posture, which argues against high neuroticism. However, there are subtle indicators that prevent a 'low' rating. A brief moment of eye closure and looking away, coupled with a filler word ('uh'), can suggest a degree of cognitive load or mild self-consciousness. Furthermore, the content of his advice is rooted in anticipating and preventing potential problems, a form of practical worry consistent with a medium level of neuroticism.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "Medium",
+      "score": 0.4,
+      "rationale": "The subject's Openness score is in the Medium range. The topic of his podcast, 'Backpacking', implies an interest in new experiences. However, his treatment of the subject is highly practical and concrete, focusing on logistics like transport times and cost-saving, rather than on abstract ideas, feelings, or aesthetics associated with travel. This pragmatic communication style, combined with a functionally expressive but not particularly creative or expansive demeanor, aligns with a medium level of openness.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During 8.5s - 15.2s, the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "High Extraversion, as he is actively engaging a public audience on his podcast."
+        },
+        {
+          "id": "B",
+          "text": "Low Agreeableness, as his facial expressions lack overt warmth and friendliness."
+        },
+        {
+          "id": "C",
+          "text": "High Openness, given that the topic of backpacking involves new experiences."
+        },
+        {
+          "id": "D",
+          "text": "Medium Conscientiousness, evident in his structured and plan-oriented advice."
+        },
+        {
+          "id": "E",
+          "text": "Low Extraversion, supported by his controlled gestures and moderate vocal pace."
+        },
+        {
+          "id": "F",
+          "text": "High Conscientiousness, which would imply a more rigid and scripted presentation."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "The correct answer is D. During this period, the person explains the logic of checking transport times to avoid late-night arrivals, which is a clear example of structured, planning-oriented thinking—a core facet of Conscientiousness. The 'Medium' level is supported by the overall delivery which includes some spontaneity.\n\n- Option A is a text-based distractor because the general context of a 'podcast' suggests Extraversion, but his actual low-energy and reserved demeanor in the video points to Low Extraversion.\n- Option B is a video-based distractor. While he does exhibit a neutral expression (lacking warmth), the primary evidence in this specific time segment is the *content* of his speech, which points more directly to Conscientiousness.\n- Option C is a text-based distractor because the topic 'backpacking' sounds related to Openness, but his highly practical and logistical focus, rather than an abstract or aesthetic one, is not strong evidence for high Openness.\n- Option E is a video-based distractor. His controlled gestures are evidence for Low Extraversion, a correct overall assessment. However, the specific behavior in this time range (giving logical advice) is stronger and more direct evidence for Conscientiousness.\n- Option F is a near-miss distractor. He is indeed conscientious, but the analysis notes his delivery has some spontaneity (like the earlier 'uh'), which makes 'Medium' a better fit than 'High'."
+    },
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their Medium Neuroticism level?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[0.5s - 2.5s]"
+        },
+        {
+          "id": "B",
+          "text": "[6.5s - 8.5s]"
+        },
+        {
+          "id": "C",
+          "text": "[9.0s - 11.0s]"
+        },
+        {
+          "id": "D",
+          "text": "[3.4s - 5.4s]"
+        },
+        {
+          "id": "E",
+          "text": "[13.1s - 15.1s]"
+        },
+        {
+          "id": "F",
+          "text": "[11.2s - 13.2s]"
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "The correct answer is D. The personality analysis notes that the primary evidence preventing a 'low' Neuroticism rating is a moment of 'eye closure and looking away' which suggests cognitive load or mild self-consciousness. This action is observed in the video between 3.4s and 5.5s.\n\n- Option A is a video-based distractor. During this interval, the person maintains a steady, neutral gaze at the camera, showing stability rather than a neuroticism-related cue.\n- Option B is a near-miss distractor. This interval is immediately after the key event, when his gaze has returned to the camera. It tests for temporal precision, as this is a period of stability, not the change itself.\n- Option C is a video-based distractor. This interval captures eyebrow movements used for linguistic emphasis, which relates more to his communication style (Conscientiousness) than to Neuroticism.\n- Option E is a video-based distractor. Similar to option C, this interval shows more eyebrow movements for emphasis, not a micro-expression related to neuroticism.\n- Option F is a video-based distractor, capturing another period of illustrative eyebrow movement rather than the specific cue related to internal state."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 6.8s, a region was detected in the video (x=0.45, y=0.31, w=0.15, h=0.13, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A brief but noticeable, thoughtful closure of both of the eyes."
+        },
+        {
+          "id": "B",
+          "text": "A subtle and inquisitive upward movement of the person's eyebrows."
+        },
+        {
+          "id": "C",
+          "text": "A slight, compensatory nod and repositioning of the entire head."
+        },
+        {
+          "id": "D",
+          "text": "A direct gaze that is re-establishing focus towards the camera lens."
+        },
+        {
+          "id": "E",
+          "text": "An upward and sideways shift of the person's attentive gaze away."
+        },
+        {
+          "id": "F",
+          "text": "A natural, mid-speech and momentary closing of the person's eyelids."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "The correct answer is D. The specified timestamp and bounding box correspond to the moment the person's eyes are returning to look directly at the camera after having looked away. This action of re-establishing focus is the most prominent event in that specific region at that time.\n\n- Option A is a video-based distractor. The thoughtful eye closure happens, but it occurs earlier, around 3.9s, not at 6.8s.\n- Option B is a video-based distractor. Eyebrow movements occur, but they are in a different spatial region (above the specified bounding box) and at different times (e.g., 10.5s).\n- Option C is a video-based distractor. This describes the movement of the entire head, which is a much larger area than the small bounding box focused on the eyes.\n- Option E is a video-based distractor. The gaze shifts away from the camera earlier in the video, around 5.0s. At 6.8s, the gaze is returning, not shifting away.\n- Option F is a near-miss distractor. While a blink ('momentary closing of the eyelids') is a possible action within the eye region, the most significant and defining action at 6.8s is the larger motion of the gaze re-centering on the camera, not a simple blink."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "The speaker uses a non-verbal cue to add emphasis to a key part of his advice. Which option correctly identifies both the timing and location of this specific emphatic cue?",
+      "options": [
+        {
+          "id": "A",
+          "text": "At 1.1s, in the region defined by x=0.41, y=0.28, w=0.22, h=0.37."
+        },
+        {
+          "id": "B",
+          "text": "At 5.0s, in the region defined by x=0.43, y=0.32, w=0.18, h=0.12."
+        },
+        {
+          "id": "C",
+          "text": "At 10.5s, in the region defined by x=0.43, y=0.37, w=0.18, h=0.08."
+        },
+        {
+          "id": "D",
+          "text": "At 10.5s, in the region defined by x=0.45, y=0.26, w=0.15, h=0.12."
+        },
+        {
+          "id": "E",
+          "text": "At 7.8s, in the region defined by x=0.38, y=0.24, w=0.29, h=0.61."
+        },
+        {
+          "id": "F",
+          "text": "At 3.9s, in the region defined by x=0.42, y=0.30, w=0.19, h=0.16."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "The correct answer is D. The observation log notes that the speaker's eyebrows 'rise and fall to add emphasis' and provides a specific example at timestamp 10.5s with a bounding box that correctly isolates the eyebrow region. This option matches that data perfectly.\n\n- Option A is a video-based distractor. This time and region correspond to his initial neutral expression, which is not an emphatic cue.\n- Option B is a video-based distractor. This time and region capture the moment he looks away, which is a cue for thought formulation, not for emphasizing advice.\n- Option C is a near-miss distractor. It has the correct timestamp (10.5s) for the emphatic cue, but the bounding box is located too low on the face (around the mouth/chin area), failing the spatial component of the question.\n- Option E is a video-based distractor. This region is a very large box covering the person's entire head and shoulders, which is too general to isolate a 'specific emphatic cue'.\n- Option F is a video-based distractor. This time and region correspond to his eyes being briefly closed, which is not the emphatic cue described in the question."
+    },
+    {
+      "category": "Counterfactual Reasoning",
+      "question": "If the person had NOT exhibited the behavior observed around 3.4s - 5.5s, which of the following personality assessments would be MOST affected?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The score for Agreeableness would be lower, as this gesture can signal a moment of connection."
+        },
+        {
+          "id": "B",
+          "text": "The assessment for Conscientiousness would be higher without this apparent flaw in the delivery."
+        },
+        {
+          "id": "C",
+          "text": "The rating for Extraversion would increase, as this moment is a key indicator of his introversion."
+        },
+        {
+          "id": "D",
+          "text": "The assessment for Neuroticism would be lower, as this is a key cue for mild self-consciousness."
+        },
+        {
+          "id": "E",
+          "text": "The rating for Openness would decrease, as this reflective pause signals some creative thought."
+        },
+        {
+          "id": "F",
+          "text": "The assessment for Neuroticism would be higher, since the action shows successful self-control."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "The correct answer is D. The behavior at 3.4s-5.5s is the eye closure and gaze aversion. The personality analysis explicitly states this moment 'can suggest a degree of cognitive load or mild self-consciousness' and that it is the key evidence that 'prevent[s] a 'low' rating' for Neuroticism. Removing this behavior would remove the primary justification for the Medium Neuroticism score, likely causing it to be assessed as Low.\n\n- Option A is a text-based distractor. It assigns an implausible positive social meaning ('connection') to a gesture more commonly indicating internal thought or aversion.\n- Option B is a text-based distractor. It's plausible to see a pause as a 'flaw', but his Conscientiousness score is primarily derived from the logical *content* of his speech, which is independent of this pause.\n- Option C is a video-based distractor. This is a strong distractor because the behavior is indeed introverted. However, the analysis text specifically ties this cue to the Neuroticism assessment, making the impact there more direct and pivotal than on the Extraversion score, which is supported by his overall reserved demeanor.\n- Option E is a video-based distractor. Linking a pause to creative thought (Openness) is possible, but the analysis grounds his Openness score in the *topic* of his podcast, not this specific gesture.\n- Option F is a near-miss distractor. It correctly identifies Neuroticism as the affected trait but argues for the opposite effect (an increase), making the reasoning incorrect."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator10",
+      "version": 1,
+      "clues_total": 15,
+      "clues_correct": 14,
+      "clues_wrong_corrected": 0,
+      "clues_missing_skipped": 1,
+      "clues_bonus": 0
+    }
+  }
+}

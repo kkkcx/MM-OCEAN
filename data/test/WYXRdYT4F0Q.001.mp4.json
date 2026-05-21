@@ -1,0 +1,393 @@
+{
+  "video_id": "WYXRdYT4F0Q.001.mp4",
+  "video_path": "WYXRdYT4F0Q.001.mp4",
+  "transcription": "Every night because it really relies on the decisions that people make and the folks who come up on stage, their choices, their personality, that kind of thing. It will be the same show both nights but it will feel completely different.",
+  "original_scores": {
+    "extraversion": 0.5046728971962617,
+    "agreeableness": 0.5384615384615384,
+    "conscientiousness": 0.6796116504854369,
+    "neuroticism": 0.7291666666666667,
+    "openness": 0.6333333333333333
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 10.74,
+      "description": "The subject maintains direct eye contact with the camera. His eyebrows are slightly raised in an engaged expression, lowering and raising slightly as he speaks. He blinks naturally, and his mouth movements are relaxed and correspond to his speech.",
+      "bboxes": [
+        {
+          "frame_time": 0.495025,
+          "x": 0.35567434210526316,
+          "y": 0.19824561068886204,
+          "w": 0.21611842105263157,
+          "h": 0.2578947368421053,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 2.882794,
+          "x": 0.33199013157894736,
+          "y": 0.22719297910991468,
+          "w": 0.27828947368421053,
+          "h": 0.2131578947368421,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 4.042992,
+          "x": 0.29054276315789473,
+          "y": 0.16140350542570414,
+          "w": 0.3078947368421053,
+          "h": 0.5473684210526316,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 5.852945,
+          "x": 0.28758223684210527,
+          "y": 0.13245613700465153,
+          "w": 0.2694078947368421,
+          "h": 0.39473684210526316,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 6.318851,
+          "x": 0.3260690789473684,
+          "y": 0.12719297910991467,
+          "w": 0.29901315789473687,
+          "h": 0.5052631578947369,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 10.74,
+      "end_time": 15.36,
+      "description": "The subject's gaze shifts downward, away from the camera, to read something. His expression becomes focused, with eyebrows slightly lowered in concentration.",
+      "bboxes": [
+        {
+          "frame_time": 11.265493,
+          "x": 0.30830592105263155,
+          "y": 0.13771929489938836,
+          "w": 0.3138157894736842,
+          "h": 0.5026315789473684,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 11.265493,
+          "x": 0.3216282894736842,
+          "y": 0.0929824527941252,
+          "w": 0.2768092105263158,
+          "h": 0.5552631578947368,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 12.259154,
+          "x": 0.3112664473684211,
+          "y": 0.11403508437307257,
+          "w": 0.2634868421052632,
+          "h": 0.5710526315789474,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 6.84,
+      "description": "The subject is centered in the frame, with his upper torso and head visible. He remains relatively still, with slight head movements accompanying his speech.",
+      "bboxes": [
+        {
+          "frame_time": 0.926225,
+          "x": 0.33199013157894736,
+          "y": 0.09824561068886205,
+          "w": 0.2694078947368421,
+          "h": 0.55,
+          "note": "human-annotated",
+          "region": "unknown"
+        },
+        {
+          "frame_time": 0.926225,
+          "x": 0.3053453947368421,
+          "y": 0.516666663320441,
+          "w": 0.4174342105263158,
+          "h": 0.48157894736842105,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 0.926225,
+          "x": 0.3290296052631579,
+          "y": 0.19035087384675678,
+          "w": 0.3004934210526316,
+          "h": 0.42894736842105263,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 6.84,
+      "end_time": 8.79,
+      "description": "The subject raises his right hand into the lower portion of the frame, making a small, open-palmed illustrative gesture to his right.",
+      "bboxes": [
+        {
+          "frame_time": 7.658331,
+          "x": 0.2964638157894737,
+          "y": 0.5745614001625463,
+          "w": 0.37154605263157897,
+          "h": 0.3763157894736842,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 8.79,
+      "end_time": 10.74,
+      "description": "The subject's hand moves out of frame as he continues speaking to the camera.",
+      "bboxes": [
+        {
+          "frame_time": 9.973302,
+          "x": 0.17508223684210525,
+          "y": 0.6692982422678094,
+          "w": 0.5817434210526315,
+          "h": 0.32894736842105265,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 10.74,
+      "end_time": 15.36,
+      "description": "The subject's head tilts down as he looks at something below the camera line.",
+      "bboxes": [
+        {
+          "frame_time": 11.57421,
+          "x": 0.3453125,
+          "y": 0.13771929489938836,
+          "w": 0.2738486842105263,
+          "h": 0.5552631578947368,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 12.215476,
+          "x": 0.29942434210526314,
+          "y": 0.14824561068886205,
+          "w": 0.2768092105263158,
+          "h": 0.4921052631578947,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 10.45,
+      "description": "The subject speaks at a moderate, conversational pace with clear articulation and a neutral pitch range. There is a slight drop in pitch at the end of clauses and sentences.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 10.45,
+      "end_time": 11.53,
+      "description": "A brief pause in speech.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 11.53,
+      "end_time": 15.36,
+      "description": "The subject's speech resumes at a slightly slower, more deliberate pace with a more monotonous pitch, consistent with reading text aloud.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.36,
+      "description": "The subject is a young adult male with fair skin and dark, styled hair. He is wearing a black crew-neck t-shirt with large white text reading \"MAJOR TROUBLE\". He is in a well-lit room. The wall behind him is beige and decorated with several pieces of art, primarily black and white illustrations, and a cardboard deer head trophy. To the viewer's right is a tall white bookshelf filled with books, boxes, a stuffed animal, a Rubik's cube, and other miscellaneous items.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 1.5591689999999998,
+      "end_time": 2.559169,
+      "description": "The subject wore a slicked back hair and looked fresh and handsome. The bookshelf and art behind him made the artistic atmosphere even more obvious.",
+      "bboxes": [
+        {
+          "frame_time": 2.059169,
+          "x": 0.08182565789473684,
+          "y": 0.10614034753096731,
+          "w": 0.8422697368421053,
+          "h": 0.5368421052631579,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Medium",
+      "score": 0.5,
+      "rationale": "The subject exhibits a balance of social engagement and reserve, consistent with a Medium Extraversion score. He comfortably addresses the camera with direct eye contact, an engaged expression, and a conversational tone, which are extroverted behaviors. However, his physical energy is contained; head movements are slight, and his hand gestures are minimal and controlled rather than large and expansive. This suggests a person who is socially adept but not necessarily driven by high levels of social stimulation.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Medium",
+      "score": 0.54,
+      "rationale": "The subject's demeanor is generally pleasant and approachable, supporting a Medium level of Agreeableness. His relaxed mouth, natural blinking, and moderate, conversational vocal tone create a non-confrontational and cooperative impression. There is an absence of strong cues for either very high agreeableness (e.g., constant, warm smiling) or low agreeableness (e.g., frowning, critical tone), placing him firmly in the middle range.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "High",
+      "score": 0.68,
+      "rationale": "A High level of Conscientiousness is indicated by multiple cues related to orderliness and preparation. The subject's speech is articulate and fluent, suggesting he has prepared his thoughts. His background is deliberately arranged, featuring a well-organized bookshelf and decorative art, pointing to a structured and tidy nature. His well-groomed appearance (styled hair) further reflects attention to detail and self-discipline.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "High",
+      "score": 0.73,
+      "rationale": "While the subject appears calm initially, subtle shifts in behavior suggest a high degree of self-monitoring consistent with High Neuroticism. When he begins reading, his expression becomes intensely focused, his eyebrows lower in concentration, and his speech becomes slower and more monotonous. This pronounced shift can be interpreted as a cognitive strategy to avoid error under the pressure of being recorded, reflecting a heightened self-consciousness and a potential anxiety about performance.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "High",
+      "score": 0.63,
+      "rationale": "The subject's environment and self-presentation strongly support a High Openness score. His stylish haircut and expressive T-shirt ('MAJOR TROUBLE') indicate a creative and non-conformist approach to personal identity. The background, filled with books, diverse art, and eclectic objects like a Rubik's cube, signals a broad range of interests and an appreciation for both aesthetic and intellectual experiences. His verbal content, analyzing the fluid nature of a performance based on personality, also shows an interest in abstract ideas.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During 10.7s - 15.4s, the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "High Neuroticism, reflecting anxious self-monitoring."
+        },
+        {
+          "id": "B",
+          "text": "Low Agreeableness, suggesting a lack of cooperation."
+        },
+        {
+          "id": "C",
+          "text": "High Extraversion, shown by energetic social display."
+        },
+        {
+          "id": "D",
+          "text": "Low Openness, indicating a resistance to new ideas."
+        },
+        {
+          "id": "E",
+          "text": "High Conscientiousness, based on diligent reading."
+        },
+        {
+          "id": "F",
+          "text": "Low Neuroticism, implying a calm and relaxed state."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. During this interval, the person's expression becomes intensely focused, his speech slows, and he looks down to read, which the analysis interprets as a self-monitoring strategy to avoid error under performance pressure, a key indicator of High Neuroticism.\n- Option B is a text-based distractor; 'focus' could be misinterpreted as being aloof, but there are no cues for low agreeableness.\n- Option C is a video-based distractor; High Extraversion cues (e.g., direct engagement) are present in the first part of the video (0-10s), not this segment.\n- Option D is a text-based distractor; there is no evidence for low openness; in fact, other cues point to high openness.\n- Option E is a near-miss distractor; while focused reading can suggest conscientiousness, the *pronounced shift* in behavior under performance pressure is a stronger and more specific indicator for Neuroticism (self-consciousness) than for general diligence.\n- Option F is a near-miss distractor as it identifies the correct dimension (Neuroticism) but in the completely wrong direction."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 12.3s, a region was detected in the video (x=0.31, y=0.11, w=0.26, h=0.57, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A slight furrowing of the eyebrows in concentration."
+        },
+        {
+          "id": "B",
+          "text": "Maintaining direct and steady eye contact with the camera."
+        },
+        {
+          "id": "C",
+          "text": "A relaxed mouth posture that corresponds with the speech."
+        },
+        {
+          "id": "D",
+          "text": "A subtle, minor movement of the entire head region."
+        },
+        {
+          "id": "E",
+          "text": "An overall engaged facial expression while delivering lines."
+        },
+        {
+          "id": "F",
+          "text": "The subject’s general centered position in the frame."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. The specified bounding box at 12.3s primarily covers the subject's forehead and eyes. The observation cue for this time and region is Eyebrows slightly lowered, showing concentration, which is best described as a slight furrowing in concentration.\n- Option B is a video-based distractor; at 12.3s, the subject is looking down, not maintaining eye contact with the camera. This behavior occurs earlier in the video.\n- Option C is a video-based distractor; this describes the mouth area during the first 10 seconds, not the eyebrow region at 12.3s.\n- Option D is a video-based distractor; while there might be minor head movement, the most prominent and specific facial expression change within this box is the eyebrow movement.\n- Option E is a near-miss distractor; this describes the general expression from the first part of the video. At 12.3s, the expression is specifically one of intense focus, not general engagement, and the box isolates a specific part of the face.\n- Option F is a video-based distractor; this describes the overall composition of the shot, which is at the wrong spatial scale for the given bounding box."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "Which of the following timestamp and coordinate pairs best isolates the facial region during a period of open, direct-to-camera engagement?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[5.9s]  x=0.29, y=0.13, w=0.27, h=0.39"
+        },
+        {
+          "id": "B",
+          "text": "[0.9s]  x=0.33, y=0.10, w=0.27, h=0.55"
+        },
+        {
+          "id": "C",
+          "text": "[11.6s]  x=0.35, y=0.14, w=0.27, h=0.56"
+        },
+        {
+          "id": "D",
+          "text": "[12.2s]  x=0.30, y=0.15, w=0.28, h=0.49"
+        },
+        {
+          "id": "E",
+          "text": "[11.3s]  x=0.32, y=0.09, w=0.28, h=0.56"
+        },
+        {
+          "id": "F",
+          "text": "[11.3s]  x=0.31, y=0.14, w=0.31, h=0.50"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. The timestamp 5.9s falls squarely within the initial period (0.0s-10.7s) where the subject is speaking directly to the camera with an engaged expression (direct eye contact, relaxed mouth, raised eyebrows). The coordinates correctly isolate his facial region during this action.\n- Option B is a video-based distractor; while the time is early, the bounding box describes the subject's overall position in the frame, not specifically the facial region.\n- Option C is a video-based distractor; the timestamp 11.6s is during the second phase where he is looking down and reading, not showing open engagement.\n- Option D is a video-based distractor; the timestamp 12.2s is also during the reading phase.\n- Option E is a video-based distractor; the timestamp 11.3s is at the very beginning of the reading phase.\n- Option F is a near-miss distractor; the timestamp 11.3s marks the shift away from direct engagement, so it is not the best representation of that state."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator20",
+      "version": 4,
+      "clues_total": 20,
+      "clues_correct": 15,
+      "clues_wrong_corrected": 4,
+      "clues_missing_skipped": 0,
+      "clues_bonus": 1
+    }
+  }
+}

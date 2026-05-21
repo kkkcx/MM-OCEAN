@@ -1,0 +1,425 @@
+{
+  "video_id": "VIKk25Ozx40.001.mp4",
+  "video_path": "VIKk25Ozx40.001.mp4",
+  "transcription": "... frequent and take a protein throughout the day. If you have a big gap of the day where you're not able to do so with solid food, bring a protein shake with you. Otherwise, if this is available to you, this is what you want to be going for every single time.",
+  "original_scores": {
+    "extraversion": 0.4018691588785047,
+    "agreeableness": 0.5604395604395604,
+    "conscientiousness": 0.6699029126213591,
+    "neuroticism": 0.5104166666666666,
+    "openness": 0.5222222222222223
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 11.9,
+      "description": "The subject maintains direct eye contact with the camera. His eyebrows are slightly raised throughout, with more pronounced upward movements for emphasis on certain words (e.g., at 0.0, 2.3, 8.5). His mouth moves naturally with his speech.",
+      "bboxes": [
+        {
+          "frame_time": 5.232337,
+          "x": 0.44004934210526314,
+          "y": 0.10877192647833574,
+          "w": 0.16726973684210528,
+          "h": 0.11578947368421053,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 5.283109,
+          "x": 0.43116776315789473,
+          "y": 0.066666663320441,
+          "w": 0.17763157894736842,
+          "h": 0.13157894736842105,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 5.283109,
+          "x": 0.49629934210526316,
+          "y": 0.2614035054257042,
+          "w": 0.10657894736842105,
+          "h": 0.10526315789473684,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 11.9,
+      "end_time": 13.5,
+      "description": "The subject's lips part and pull back and up into a smile, causing his cheeks to raise and his eyes to crinkle slightly at the corners. He maintains the smile until the end of the clip.",
+      "bboxes": [
+        {
+          "frame_time": 13.345195,
+          "x": 0.4296875,
+          "y": 0.22456140016254625,
+          "w": 0.10953947368421053,
+          "h": 0.09473684210526316,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 13.345195,
+          "x": 0.40452302631578946,
+          "y": 0.02456140016254626,
+          "w": 0.15986842105263158,
+          "h": 0.35,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 13.345195,
+          "x": 0.3941611842105263,
+          "y": 0.19824561068886204,
+          "w": 0.16430921052631578,
+          "h": 0.11578947368421053,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 13.345195,
+          "x": 0.41192434210526313,
+          "y": 0.2035087685835989,
+          "w": 0.13322368421052633,
+          "h": 0.12105263157894737,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 1.7,
+      "description": "The subject stands facing the camera, holding a clear plastic food container in his left hand. He makes a small, open-palmed gesture with his right hand toward his left.",
+      "bboxes": [
+        {
+          "frame_time": 0,
+          "x": 0.36455592105263157,
+          "y": 0.6087719264783358,
+          "w": 0.4174342105263158,
+          "h": 0.3894736842105263,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 0.33592,
+          "x": 0.1691611842105263,
+          "y": 0.6719298212151779,
+          "w": 0.2042763157894737,
+          "h": 0.3263157894736842,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 1.7,
+      "end_time": 5.8,
+      "description": "The subject gestures with his left hand, moving it slightly forward and to the side in a small circular motion. His right hand rests at his side, out of frame.",
+      "bboxes": [
+        {
+          "frame_time": 5.160956,
+          "x": 0.22393092105263157,
+          "y": 0.5035087685835989,
+          "w": 0.2338815789473684,
+          "h": 0.42105263157894735,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 5.8,
+      "end_time": 8.2,
+      "description": "He brings his right hand up to steady the container, holding it with both hands. He then gestures with his left hand, moving it slightly forward from the container.",
+      "bboxes": [
+        {
+          "frame_time": 5.8,
+          "x": 0.3068256578947368,
+          "y": 0.7298245580572831,
+          "w": 0.4366776315789474,
+          "h": 0.26842105263157895,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 6.318608,
+          "x": 0.17212171052631578,
+          "y": 0.53508771595202,
+          "w": 0.17171052631578948,
+          "h": 0.3684210526315789,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 8.2,
+      "end_time": 11.9,
+      "description": "The subject holds the container with both hands, keeping it steady in front of his torso.",
+      "bboxes": [
+        {
+          "frame_time": 8.764464,
+          "x": 0.2757401315789474,
+          "y": 0.5877192948993883,
+          "w": 0.4440789473684211,
+          "h": 0.39473684210526316,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 11.9,
+      "end_time": 13.5,
+      "description": "He gestures with his right hand, extending it out to his right side with an open palm.",
+      "bboxes": [
+        {
+          "frame_time": 12.856584,
+          "x": 0.15139802631578947,
+          "y": 0.7561403475309673,
+          "w": 0.24720394736842105,
+          "h": 0.23684210526315788,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 13,
+      "description": "The subject speaks at a moderate, conversational pace with a clear, resonant tone. His pitch rises and falls naturally with his speech, with upward inflections for emphasis on phrases like \"solid food\" (0:05), \"available to you\" (0:09), and a higher overall pitch on \"every single time\" (0:12).",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.3,
+      "description": "A muscular man with short dark hair, a trimmed beard, and fair skin is centered in the frame. He is wearing a plain black short-sleeved t-shirt and a silver-colored chain bracelet on his left wrist. He is standing indoors in a spacious, modern lobby with a high, curved ceiling and large structural pillars. The floor is covered with a patterned brown and red carpet. In the background, there are large windows, a curved second-floor balcony, and a glass elevator shaft. To the right of the frame is a large, bright lime-green and white promotional banner. The scene is well-lit by a combination of natural and artificial light.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Medium",
+      "score": 0.4,
+      "rationale": "The subject's Medium Extraversion is demonstrated by a balance of socially engaging and controlled behaviors. While his direct and sustained eye contact, expressive hand gestures, and clear, modulated voice indicate comfort in a social or presentational setting, his overall demeanor is that of a calm instructor rather than an overtly energetic or attention-seeking individual. His gestures are purposeful and illustrative, supporting his speech rather than dominating it, which is consistent with a moderate level of extraverted energy.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Medium",
+      "score": 0.56,
+      "rationale": "A Medium Agreeableness score is supported by the subject's blend of warmth and directness. His helpful, instructional tone and the genuine Duchenne smile at the end of the clip (indicated by raised cheeks and crinkling at the corners of the eyes) suggest a prosocial and approachable nature. However, his communication is also assertive and declarative (e.g., \"this is what you want to be going for every single time\"), balancing the warmth with a directness that is characteristic of a mid-range Agreeableness.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "High",
+      "score": 0.67,
+      "rationale": "The subject's High Conscientiousness is strongly indicated by his structured and goal-oriented presentation. The topic itself—advocating a disciplined approach to nutrition—reflects a conscientious mindset. His speech is clear, focused, and methodical. Furthermore, the deliberate use of a prop (the food container) to illustrate his point suggests careful preparation and a desire for clarity and efficiency in his communication, which are hallmarks of this trait.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Medium",
+      "score": 0.51,
+      "rationale": "The subject displays strong indicators of emotional stability, consistent with a Medium Neuroticism score. His vocal delivery is clear and steady, he maintains unwavering eye contact with the camera, and his hand gestures are controlled and purposeful. There are no observable signs of anxiety, such as fidgeting, stammering, or avoidance of eye contact. This calm, composed demeanor under the pressure of being recorded points to an individual who is not prone to high levels of stress or negative emotion.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "Medium",
+      "score": 0.52,
+      "rationale": "The Medium Openness score is reflected in the subject's practical and concrete communication style. While he is participating in the relatively modern format of an instructional video, the content is straightforward, conventional advice. His language is direct and factual, focusing on practical application rather than exploring abstract ideas, novel theories, or creative concepts. This pragmatic, results-oriented approach is typical for individuals with a moderate level of openness.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their Agreeableness level?",
+      "options": [
+        {
+          "id": "A",
+          "text": "0.0s - 1.7s"
+        },
+        {
+          "id": "B",
+          "text": "2.0s - 3.5s"
+        },
+        {
+          "id": "C",
+          "text": "5.2s - 6.3s"
+        },
+        {
+          "id": "D",
+          "text": "8.2s - 9.0s"
+        },
+        {
+          "id": "E",
+          "text": "11.9s - 13.5s"
+        },
+        {
+          "id": "F",
+          "text": "11.0s - 11.8s"
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. The analysis highlights a genuine Duchenne smile at the end of the clip as a key indicator for his Medium Agreeableness score. This smile, involving the mouth, cheeks, and eyes, begins at 11.9s and is held until the end.\n\n- Option A is a video-based distractor: This interval marks the beginning of his speech and includes a slight eyebrow raise for emphasis, but it is not the most significant expression related to Agreeableness.\n- Option B is a text-based distractor: This is a plausible-sounding interval from the middle of his speech where no significant facial expression change relevant to Agreeableness occurs.\n- Option C is a video-based distractor: The subject is speaking and gesturing, but his facial expression remains relatively neutral and instructional, with no major shift.\n- Option D is a video-based distractor: Similar to other moments, this interval shows him speaking with slight eyebrow emphasis, but it does not contain the key smile.\n- Option F is a near-miss distractor: This interval is immediately before the correct one, testing for temporal precision. The smile has not yet begun at 11.8s."
+    },
+    {
+      "category": "Mixed Emotion Discrimination",
+      "question": "During 11.9s - 13.5s, the person's emotional state is best characterized as which of the following? Consider both verbal and non-verbal cues.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Calm concentration mixed with a hint of focused intent"
+        },
+        {
+          "id": "B",
+          "text": "Subtle relief mixed with a clear sense of accomplishment"
+        },
+        {
+          "id": "C",
+          "text": "Enthusiastic encouragement mixed with deep felt passion"
+        },
+        {
+          "id": "D",
+          "text": "Instructive pride tempered by an expression of humility"
+        },
+        {
+          "id": "E",
+          "text": "Confident assertion mixed with a display of genuine amity"
+        },
+        {
+          "id": "F",
+          "text": "Pure satisfaction tempered by an expression of amusement"
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. In this final segment, the subject concludes with a direct, assertive statement (\"this is what you want to be going for every single time\") immediately followed by a warm, genuine Duchenne smile. This combination reflects both confidence in his message and a friendly, approachable (amicable) demeanor.\n\n- Option A is a video-based distractor: This describes his emotional state for the majority of the video (0-11.9s) but fails to capture the significant shift to a warm smile in the specified interval.\n- Option B is a text-based distractor: While plausible for someone finishing a take, there are no visual cues for \"relief.\" His expression is consistently confident.\n- Option C is a text-based distractor: The words \"enthusiastic\" and \"passion\" are too strong; his delivery is measured and calm, not overtly passionate.\n- Option D is a near-miss distractor: \"Instructive pride\" is a reasonable interpretation, but \"humility\" is incorrect. His assertive statement and confident smile do not suggest humility.\n- Option F is a near-miss distractor: \"Satisfaction\" is close, but \"assertion\" better captures the tone of his final spoken words. There is no clear evidence of \"amusement.\""
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 13.3s, a region was detected in the video (x=0.405, y=0.025, w=0.160, h=0.350, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A slight furrowing of the brow to add more emphasis"
+        },
+        {
+          "id": "B",
+          "text": "The mouth moving naturally along with his specific speech"
+        },
+        {
+          "id": "C",
+          "text": "A small, circular motion being made with the right hand"
+        },
+        {
+          "id": "D",
+          "text": "Sustained and direct eye contact with the camera lens"
+        },
+        {
+          "id": "E",
+          "text": "A raising of the cheeks as part of a warm, genuine smile"
+        },
+        {
+          "id": "F",
+          "text": "The steady holding of a container with both of his hands"
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. The specified bounding box at 13.3s covers the subject's entire face. At this moment, the most prominent action is the Duchenne smile, characterized by the raising of the cheeks, which is explicitly noted in the observation data.\n\n- Option A is a text-based distractor: The subject's brows are generally slightly raised, not furrowed. This action is not occurring.\n- Option B is a video-based distractor: While his mouth was moving with speech just before this moment, at 13.3s he is holding a static smile, not speaking. This describes behavior from a different, earlier time segment.\n- Option C is a video-based distractor: This hand gesture occurs much earlier in the video (around 5.2s) and is in a different spatial region.\n- Option D is a near-miss distractor: He is making eye contact, which is within the bbox, but the most prominent *change* or *action* at this specific moment is the formation of the smile, involving the whole face, not just the static gaze.\n- Option F is a video-based distractor: This action occurs earlier (around 8.8s) and involves the hands and chest area, not the face."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "Which of the following options correctly identifies the location and timing of the moment when the subject is using an object as a stable, central point of focus in his presentation?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[13.3s] x=0.39, y=0.20, w=0.16, h=0.12"
+        },
+        {
+          "id": "B",
+          "text": "[5.2s] x=0.22, y=0.50, w=0.23, h=0.42"
+        },
+        {
+          "id": "C",
+          "text": "[13.3s] x=0.40, y=0.02, w=0.16, h=0.35"
+        },
+        {
+          "id": "D",
+          "text": "[5.8s] x=0.31, y=0.73, w=0.44, h=0.27"
+        },
+        {
+          "id": "E",
+          "text": "[8.8s] x=0.28, y=0.59, w=0.44, h=0.39"
+        },
+        {
+          "id": "F",
+          "text": "[13.3s] x=0.41, y=0.20, w=0.13, h=0.12"
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. The question asks for the moment the object is a stable, central focus. Option E corresponds to the observation at 8.8s where he is holding the container steadily with both hands in front of his chest. This timestamp and bounding box correctly capture the described action.\n\n- Option A is a video-based distractor: This bbox at 13.3s isolates the eye region during the final smile.\n- Option B is a video-based distractor: This bbox at 5.2s captures a hand gesture, not the stable holding of the object.\n- Option C is a video-based distractor: This bbox at 13.3s captures the entire face during the final smile.\n- Option D is a near-miss distractor: This bbox at 5.8s captures the moment he brings his left hand *to* the container to steady it, which is just before he holds it in a stable, central position.\n- Option F is a video-based distractor: This bbox at 13.3s isolates the mouth region during the final smile."
+    },
+    {
+      "category": "Counterfactual Reasoning",
+      "question": "If the person had NOT exhibited the behavior observed around 11.9s - 13.5s, which of the following personality assessments would be MOST affected?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Conscientiousness would be rated lower, because this is the concluding evidence for his structured and prepared presentation style."
+        },
+        {
+          "id": "B",
+          "text": "Neuroticism would be rated higher, since this relaxed expression is a key indicator of his emotional stability under the recording pressure."
+        },
+        {
+          "id": "C",
+          "text": "Extraversion would be rated lower, as this behavior is the most significant indicator of his social energy during the entire presentation."
+        },
+        {
+          "id": "D",
+          "text": "Agreeableness might be rated higher, as no smile would make his instructional tone appear even more professionally detached and firm."
+        },
+        {
+          "id": "E",
+          "text": "Agreeableness would be rated lower, as this is the primary cue of warmth that balances his otherwise direct and assertive communication."
+        },
+        {
+          "id": "F",
+          "text": "Openness would be rated higher, as this conventional gesture detracts from an otherwise unconventional and creative presentation style."
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. The behavior from 11.9s-13.5s is the Duchenne smile. According to the analysis, this smile is the primary evidence of warmth that balances his direct, assertive communication, leading to a Medium Agreeableness score. Without it, he would appear much less warm, and the assessment would likely shift lower.\n\n- Option A is a video-based distractor: The evidence for Conscientiousness (structured speech, prop use, methodical tone) is present throughout the entire video and is unrelated to the final smile.\n- Option B is a text-based distractor: While the smile shows calmness, his emotional stability (low neuroticism) is demonstrated by his steady voice, hands, and gaze throughout the clip. The absence of the smile alone would not be enough to significantly increase his Neuroticism rating.\n- Option C is a text-based distractor: His Medium Extraversion is supported by sustained eye contact, clear speech, and gestures all through the video, not just the smile. This behavior is more relevant to Agreeableness (warmth) than Extraversion (energy).\n- Option D is a near-miss distractor: This correctly identifies Agreeableness as the affected trait but posits the wrong direction of change. Removing a key indicator of warmth would lower, not raise, the Agreeableness score.\n- Option F is a video-based distractor: This is incorrect because his presentation style is conventional, not unconventional, and the smile is a conventional sign of agreeableness."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator16",
+      "version": 4,
+      "clues_total": 17,
+      "clues_correct": 12,
+      "clues_wrong_corrected": 4,
+      "clues_missing_skipped": 1,
+      "clues_bonus": 0
+    }
+  }
+}

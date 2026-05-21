@@ -1,0 +1,490 @@
+{
+  "video_id": "T9xSEBSaL7Q.000.mp4",
+  "video_path": "T9xSEBSaL7Q.000.mp4",
+  "transcription": "Really. One when I was in school and was coming off the bus. A car almost hit me and second time was when I was driving and...",
+  "original_scores": {
+    "extraversion": 0.35514018691588783,
+    "agreeableness": 0.4945054945054945,
+    "conscientiousness": 0.4368932038834952,
+    "neuroticism": 0.39583333333333337,
+    "openness": 0.41111111111111115
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 1.9,
+      "description": "The subject's gaze is directed down and to his left. His eyebrows are neutral, and his mouth is slightly parted as he begins to speak.",
+      "bboxes": [
+        {
+          "frame_time": 1.149465,
+          "x": 0.3460526315789474,
+          "y": 0.2768421072708933,
+          "w": 0.3375,
+          "h": 0.25,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 1.149465,
+          "x": 0.3993421052631579,
+          "y": 0.668947370428788,
+          "w": 0.21167763157894737,
+          "h": 0.1868421052631579,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 1.9,
+      "end_time": 13,
+      "description": "The subject raises his head and directs his gaze toward the camera, maintaining it for the duration. His eyes are open in a neutral state, widening slightly from 6.6 to 7.1. His mouth movements are congruent with his speech.",
+      "bboxes": [
+        {
+          "frame_time": 2.702898,
+          "x": 0.3401315789473684,
+          "y": 0.1400000020077354,
+          "w": 0.3360197368421053,
+          "h": 0.6868421052631579,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 7.300882,
+          "x": 0.3046052631578947,
+          "y": 0.11631579148141961,
+          "w": 0.3759868421052632,
+          "h": 0.7605263157894737,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 3.256564,
+          "x": 0.4082236842105263,
+          "y": 0.5794736862182617,
+          "w": 0.2634868421052632,
+          "h": 0.31842105263157894,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 13,
+      "end_time": 15,
+      "description": "Gaze remains directed at the camera. The corners of his mouth are slightly downturned as his fingers touch his chin.",
+      "bboxes": [
+        {
+          "frame_time": 14.113007,
+          "x": 0.36973684210526314,
+          "y": 0.24526315990247224,
+          "w": 0.29161184210526314,
+          "h": 0.25263157894736843,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 14.607641,
+          "x": 0.38453947368421054,
+          "y": 0.6768421072708933,
+          "w": 0.27828947368421053,
+          "h": 0.26842105263157895,
+          "note": "human-annotated",
+          "region": "chin"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 2.23,
+      "description": "The subject's head is tilted down. His right hand is raised, with the index finger resting on his neck just below his right ear.",
+      "bboxes": [
+        {
+          "frame_time": 0.868995,
+          "x": 0.31200657894736844,
+          "y": 0.13473684411299855,
+          "w": 0.3863486842105263,
+          "h": 0.8131578947368421,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 0.868995,
+          "x": 0.22911184210526314,
+          "y": 0.5742105283235249,
+          "w": 0.23240131578947368,
+          "h": 0.4105263157894737,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 0.868995,
+          "x": 0.2542763157894737,
+          "y": 0.5136842125340512,
+          "w": 0.13914473684210527,
+          "h": 0.17894736842105263,
+          "note": "human-annotated",
+          "region": "neck"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 2.23,
+      "end_time": 13.23,
+      "description": "The subject raises his head to a forward-facing position. His right hand is lowered out of the frame.",
+      "bboxes": [
+        {
+          "frame_time": 3.979744,
+          "x": 0.32532894736842105,
+          "y": 0.10842105463931435,
+          "w": 0.3759868421052632,
+          "h": 0.8026315789473685,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 2.291511,
+          "x": 0.17434210526315788,
+          "y": 0.8057894756919459,
+          "w": 0.28421052631578947,
+          "h": 0.18421052631578946,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 13.23,
+      "end_time": 15,
+      "description": "The subject's right hand comes back into the frame, with the pads of his index and middle fingers touching his chin as he speaks.",
+      "bboxes": [
+        {
+          "frame_time": 14.704804,
+          "x": 0.3786184210526316,
+          "y": 0.7347368441129986,
+          "w": 0.24720394736842105,
+          "h": 0.2631578947368421,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 14.704804,
+          "x": 0.39342105263157895,
+          "y": 0.6873684230603669,
+          "w": 0.24720394736842105,
+          "h": 0.3105263157894737,
+          "note": "human-annotated",
+          "region": "chin"
+        },
+        {
+          "frame_time": 14.704804,
+          "x": 0.3756578947368421,
+          "y": 0.5347368441129986,
+          "w": 0.26644736842105265,
+          "h": 0.40789473684210525,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 15,
+      "description": "The subject speaks at a moderate, conversational pace with a relatively stable, low-pitched voice. The volume is consistent throughout. Short pauses and filler words like \"um\" and \"uh\" are present at 3.5s, 5.9s, and 13.5s. The overall vocal quality is even and narrative.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15,
+      "description": "The subject is a young-adult male with short, light brown hair and fair skin, wearing a dark grey, marled t-shirt. He is in an indoor setting, possibly a bedroom, with a plain, light-beige wall behind him. A warm light source from a lamp is visible on the left, and the corner of a wooden piece of furniture, possibly a headboard, is visible on the right.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Low",
+      "score": 0.36,
+      "rationale": "The subject's Extraversion is rated as Low. This is supported by his vocal delivery, which is described as having a moderate pace, low pitch, and stable, consistent volume. This lacks the vocal dynamism and high energy often associated with extraverts. His physical gestures, such as initially touching his neck and later his chin, are contained and self-directed rather than expansive and outwardly expressive. While he maintains eye contact, his overall demeanor is reserved and measured, consistent with a more introverted disposition.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Medium",
+      "score": 0.49,
+      "rationale": "The subject's Agreeableness is assessed as Medium. He demonstrates a cooperative stance by engaging directly with the task and maintaining consistent eye contact with the camera. His vocal tone is even and narrative, indicating a straightforward and compliant approach. However, the presentation lacks overt cues of high agreeableness, such as warm smiling or frequent affiliative signals. The neutral facial expression and matter-of-fact storytelling style suggest a balanced, but not exceptionally compassionate or effusive, interpersonal style.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Medium",
+      "score": 0.44,
+      "rationale": "The subject's Conscientiousness is rated as Medium. He approaches the narrative in a structured manner, sequentially recounting events ('One when... second time was...'), which points to an organized thought process. However, the presence of several pauses and filler words ('um,' 'uh') suggests a degree of spontaneity rather than a meticulously rehearsed delivery. The thoughtful gesture of touching his chin while speaking could also be a sign of self-monitoring, a characteristic of conscientiousness. This combination of structured recall and minor hesitations aligns well with a medium level of this trait.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Medium",
+      "score": 0.4,
+      "rationale": "The subject's Neuroticism is assessed as Medium. While discussing a potentially stressful memory of a near-accident, his voice remains remarkably stable and his overall expression is neutral, indicating good emotional regulation and an absence of high anxiety. Nevertheless, subtle cues prevent a 'Low' rating. The initial hand-to-neck gesture and the later chin-touching are often interpreted as self-pacifying or self-monitoring behaviors, which can signal a mild level of internal stress or self-consciousness. These subtle indicators of discomfort, combined with overall composure, place him in the medium range for this trait.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "Medium",
+      "score": 0.41,
+      "rationale": "The subject's Openness is rated as Medium. He is willing to share a personal experience, which suggests a basic level of comfort with self-disclosure. However, his delivery is factual and straightforward, lacking the imaginative language, abstract connections, or rich emotional detail that would characterize high openness. His even, narrative tone and conventional presentation do not suggest a strong inclination towards aesthetic experiences or unconventional thinking, placing him firmly in the medium range for this dimension.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During [0.0s - 2.2s], the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "High Extraversion, demonstrated by energetic preparatory gestures."
+        },
+        {
+          "id": "B",
+          "text": "Low Agreeableness, suggested by an initial uncooperative posture."
+        },
+        {
+          "id": "C",
+          "text": "Low Conscientiousness, shown by a lack of initial clear focus."
+        },
+        {
+          "id": "D",
+          "text": "High Openness, reflecting a moment of deep imaginative recall."
+        },
+        {
+          "id": "E",
+          "text": "Low Neuroticism, evidenced by a calm and collected preparation."
+        },
+        {
+          "id": "F",
+          "text": "Moderate Neuroticism, indicated by subtle self-soothing actions."
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The behavior in the first two seconds involves a downward head tilt and a hand-to-neck gesture. This is a classic self-pacifying or self-monitoring behavior, which is a key indicator for a moderate level of Neuroticism, signaling mild internal stress or self-consciousness. Option F is correct. Option A is a text-based distractor; the gestures are contained, not energetic. Option B is a text-based distractor; this initial posture is not the primary basis for the Agreeableness score. Option C is a video-based distractor, as later filler words could hint at lower conscientiousness, but this specific gesture is not evidence for it. Option D is a text-based distractor, misinterpreting the gesture as creative thought. Option E is a near-miss distractor; it correctly identifies the trait (Neuroticism) but misinterprets the direction, claiming the gesture shows calmness when it indicates the opposite."
+    },
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their Neuroticism level?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[0.5s - 1.3s]"
+        },
+        {
+          "id": "B",
+          "text": "[2.2s - 3.0s]"
+        },
+        {
+          "id": "C",
+          "text": "[5.5s - 6.3s]"
+        },
+        {
+          "id": "D",
+          "text": "[8.1s - 8.9s]"
+        },
+        {
+          "id": "E",
+          "text": "[10.4s - 11.2s]"
+        },
+        {
+          "id": "F",
+          "text": "[13.2s - 14.0s]"
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The analysis highlights two key gestures related to Neuroticism: the initial hand-to-neck gesture and the later hand-to-chin gesture around 13.2s-15.0s. This later gesture is a distinct, notable change where the hand re-enters the frame to touch the chin, interpreted as a self-monitoring action. Option F captures this event. Options A and B are video-based distractors capturing the initial head movement and lifting. Option C is a video-based distractor corresponding to a pause/filler word. Options D and E are video-based distractors from the middle of his steady narration where no significant expression change occurs."
+    },
+    {
+      "category": "Mixed Emotion Discrimination",
+      "question": "During [13.0s - 15.0s], the person's emotional state is best characterized as which of the following? Consider both verbal and non-verbal cues.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Anxious worry mixed with overt signs of personal frustration."
+        },
+        {
+          "id": "B",
+          "text": "Deep sadness tempered by a carefully feigned indifference."
+        },
+        {
+          "id": "C",
+          "text": "Mild surprise mixed with a growing sense of skepticism."
+        },
+        {
+          "id": "D",
+          "text": "Detached analysis mixed with subtle, understated amusement."
+        },
+        {
+          "id": "E",
+          "text": "Regretful nostalgia tempered by a quiet sense of resignation."
+        },
+        {
+          "id": "F",
+          "text": "Pensive recollection tempered by controlled, calm composure."
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "During this period, the person touches his chin thoughtfully while continuing to speak in a calm, stable tone. This combination of a self-monitoring gesture (pensive) and a regulated vocal delivery (controlled composure) while recounting a serious event points to Option F. Option A is a text-based distractor; there are no overt signs of frustration. Option B is a text-based distractor; no sadness cues are visible. Option C is a text-based distractor; neither surprise nor skepticism is displayed. Option D is a text-based distractor; there is no evidence of amusement. Option E is a near-miss distractor; while the topic could evoke nostalgia or resignation, his demeanor is more actively controlled and cognitive ('pensive') than passively emotional."
+    },
+    {
+      "category": "Temporal-Causal Reasoning",
+      "question": "Consider the sequence of behaviors observed across the video. Which of the following best describes the causal chain linking the person's actions at different moments?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A thoughtful self-monitoring action (~14s) causes a period of controlled narrative delivery (~7s), followed by a final self-regulatory gesture (~1s)."
+        },
+        {
+          "id": "B",
+          "text": "An assertive opening display (~1s) establishes confidence, followed by a period of reflective silence (~7s) and a concluding gesture of dismissal (~14s)."
+        },
+        {
+          "id": "C",
+          "text": "A preparatory vocalization (~3.5s) triggers sustained direct engagement (~7s), which is then interrupted by a gesture indicating cognitive load (~14s)."
+        },
+        {
+          "id": "D",
+          "text": "A period of controlled narrative delivery (~7s) is disrupted by a sudden self-regulatory gesture (~1s), leading to a loss of focus at the end (~14s)."
+        },
+        {
+          "id": "E",
+          "text": "An initial self-regulatory gesture (~1s) leads to a thoughtful self-monitoring action (~14s), which enables the period of controlled delivery (~7s)."
+        },
+        {
+          "id": "F",
+          "text": "An initial self-regulatory gesture (~1s) precedes a period of controlled narrative delivery (~7s), culminating in a thoughtful self-monitoring action (~14s)."
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The video shows a logical progression: an initial self-pacifying gesture (hand-to-neck at ~1s), followed by the main narrative told with composure (~2-13s), and concluding with another thoughtful gesture (hand-to-chin at ~14s). Option F correctly captures this temporal and causal sequence. Option A is a video-based distractor with a reversed temporal order. Option B is a text-based distractor using abstract terms that do not match the video content at all. Option D is a text-based distractor with an incorrect causal interpretation (the initial gesture doesn't disrupt anything). Option E is a near-miss distractor that has the correct components but scrambles the temporal order of the last two events."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around [0.9s], a region was detected in the video (x=0.312, y=0.135, w=0.386, h=0.813, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A steady and direct gaze fixed towards the video camera."
+        },
+        {
+          "id": "B",
+          "text": "Mouth movements that are synchronized with verbal speech."
+        },
+        {
+          "id": "C",
+          "text": "Fingertips making contact with the chin in a thoughtful pose."
+        },
+        {
+          "id": "D",
+          "text": "The right hand moving up from outside the video frame area."
+        },
+        {
+          "id": "E",
+          "text": "A neutral facial expression maintained while he is speaking."
+        },
+        {
+          "id": "F",
+          "text": "A downward tilt of the head, indicating a preparatory state."
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The provided bounding box at 0.9s covers the entire head region. At this moment, the most prominent action of the head is its downward tilt as the person prepares to speak. Therefore, Option F is the correct description. Option A is a video-based distractor describing the eye gaze from a later time segment. Option B is a video-based distractor describing the mouth movement during the main narration. Option C is a video-based distractor describing the hand-to-chin gesture that occurs much later in the video. Options D and E are also video-based distractors describing actions that occur at different times or are too general for this specific moment."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "The video contains a subtle, self-directed gesture where the hand makes contact with the neck region. At which time and location does this specific self-pacifying action occur?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[7.3s] x=0.30, y=0.12, w=0.38, h=0.76"
+        },
+        {
+          "id": "B",
+          "text": "[14.7s] x=0.39, y=0.69, w=0.25, h=0.31"
+        },
+        {
+          "id": "C",
+          "text": "[14.1s] x=0.37, y=0.25, w=0.29, h=0.25"
+        },
+        {
+          "id": "D",
+          "text": "[4.0s] x=0.33, y=0.11, w=0.38, h=0.80"
+        },
+        {
+          "id": "E",
+          "text": "[3.3s] x=0.41, y=0.58, w=0.26, h=0.32"
+        },
+        {
+          "id": "F",
+          "text": "[0.9s] x=0.25, y=0.51, w=0.14, h=0.18"
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The question asks to locate the hand-to-neck gesture. This action occurs at the very beginning of the video, around 0.9s. The bounding box [0.9s] x=0.25, y=0.51, w=0.14, h=0.18 specifically covers the index finger on the neck below the right ear. Thus, F is the correct answer. Option A is a video-based distractor showing the head during narration. Option B shows the hand on the chin at the end. Option C shows the eyes at the end. Option D shows the head during narration. Option E shows the mouth during narration. All are incorrect localizations for the specific action described."
+    },
+    {
+      "category": "Counterfactual Reasoning",
+      "question": "If the person had NOT exhibited the behavior observed around [0.0s - 2.2s], which of the following personality assessments would be MOST affected?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The Agreeableness score would likely decrease, as the posture is a primary signal of cooperation."
+        },
+        {
+          "id": "B",
+          "text": "The Conscientiousness score would likely increase, as this initial hesitation suggests a lack of prep."
+        },
+        {
+          "id": "C",
+          "text": "The Extraversion score would be unaffected, as vocal delivery from [3.0s-13.0s] is the main factor."
+        },
+        {
+          "id": "D",
+          "text": "The Openness score would shift, as the chin-touching gesture at [14.0s] is the only sign of reflection."
+        },
+        {
+          "id": "E",
+          "text": "The Neuroticism score would likely increase, because removing this calm gesture would emphasize the stress."
+        },
+        {
+          "id": "F",
+          "text": "The Neuroticism score would likely decrease, as this moment provides a key indicator of self-consciousness."
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The behavior from [0.0s - 2.2s] is the head tilt and hand-to-neck gesture, which is interpreted as a self-pacifying action indicating mild stress or self-consciousness. This is a primary piece of evidence for the Medium Neuroticism score. Without it, the person's otherwise composed delivery would suggest a lower Neuroticism score. Therefore, F is correct. Option A is a text-based distractor; the gesture is not a primary signal of cooperation. Option B is a text-based distractor; the logic is plausible but the gesture is more strongly linked to Neuroticism. Option C, while technically a correct statement, is a distractor because it doesn't answer which score would be *most affected*. Option D is a video-based distractor referencing a different behavior at a different time. Option E is a near-miss distractor; it identifies the correct trait but incorrectly predicts the direction of change."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator11",
+      "version": 1,
+      "clues_total": 20,
+      "clues_correct": 17,
+      "clues_wrong_corrected": 0,
+      "clues_missing_skipped": 3,
+      "clues_bonus": 0
+    }
+  }
+}

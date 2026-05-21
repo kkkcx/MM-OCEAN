@@ -1,0 +1,494 @@
+{
+  "video_id": "cjbh1lfr43c.003.mp4",
+  "video_path": "cjbh1lfr43c.003.mp4",
+  "transcription": "That was the first time I dyed my hair. Then I made it ombre, like it was brown to blonde. My hair was like down to there. Then I dyed my whole head purple, and then it was like really dark purple, but-",
+  "original_scores": {
+    "extraversion": 0.4672897196261683,
+    "agreeableness": 0.4615384615384615,
+    "conscientiousness": 0.33980582524271846,
+    "neuroticism": 0.4791666666666667,
+    "openness": 0.5333333333333333
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 1.25,
+      "description": "The subject looks slightly down with their eyes partially closed, maintaining a neutral expression while their hand is in their hair.",
+      "bboxes": [
+        {
+          "frame_time": 1.236865,
+          "x": 0.3260690789473684,
+          "y": 0.09035087384675679,
+          "w": 0.3863486842105263,
+          "h": 0.631578947368421,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 1.047812,
+          "x": 0.35567434210526316,
+          "y": 0.09035087384675679,
+          "w": 0.30197368421052634,
+          "h": 0.5342105263157895,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 0.4948,
+          "x": 0.30830592105263155,
+          "y": 0.06929824226780941,
+          "w": 0.3981907894736842,
+          "h": 0.5763157894736842,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 1.25,
+      "end_time": 4.54,
+      "description": "The subject looks directly at the camera with their eyebrows slightly raised and a neutral mouth shape that moves with their speech.",
+      "bboxes": [
+        {
+          "frame_time": 2.910589,
+          "x": 0.29942434210526314,
+          "y": 0.12192982121517784,
+          "w": 0.3049342105263158,
+          "h": 0.5210526315789473,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 3.827425,
+          "x": 0.3171875,
+          "y": 0.16929824226780943,
+          "w": 0.4055921052631579,
+          "h": 0.2394736842105263,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 3.827425,
+          "x": 0.4074835526315789,
+          "y": 0.41929824226780943,
+          "w": 0.14358552631578947,
+          "h": 0.12631578947368421,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 4.54,
+      "end_time": 10.36,
+      "description": "The subject's eyebrows raise slightly as they speak, and their gaze remains directed at the camera with occasional slight shifts. The expression is neutral and conversational.",
+      "bboxes": [
+        {
+          "frame_time": 5.639322,
+          "x": 0.3438322368421053,
+          "y": 0.20087718963623047,
+          "w": 0.25164473684210525,
+          "h": 0.15789473684210525,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 6.577932,
+          "x": 0.37639802631578945,
+          "y": 0.21140350542570416,
+          "w": 0.29753289473684214,
+          "h": 0.21052631578947367,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 6.577932,
+          "x": 0.3852796052631579,
+          "y": 0.12719297910991467,
+          "w": 0.2634868421052632,
+          "h": 0.5105263157894737,
+          "note": "face human-annotated",
+          "region": "face"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 10.36,
+      "end_time": 15.53,
+      "description": "The subject's eyes widen and their eyebrows lift significantly, creating a look of emphasis or surprise as they describe dyeing their hair.",
+      "bboxes": [
+        {
+          "frame_time": 10.69778,
+          "x": 0.2964638157894737,
+          "y": 0.216666663320441,
+          "w": 0.309375,
+          "h": 0.18157894736842106,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 11.221753,
+          "x": 0.3068256578947368,
+          "y": 0.23771929489938837,
+          "w": 0.3315789473684211,
+          "h": 0.5157894736842106,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 1.13,
+      "description": "The subject's right hand is raised, running their fingers through their hair at the front of their head.",
+      "bboxes": [
+        {
+          "frame_time": 0.585285,
+          "x": 0.2564967105263158,
+          "y": 0.11140350542570415,
+          "w": 0.5269736842105264,
+          "h": 0.7552631578947369,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 0.585285,
+          "x": 0.2846217105263158,
+          "y": 0.09035087384675679,
+          "w": 0.4485197368421053,
+          "h": 0.7052631578947368,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 1.13,
+      "end_time": 4.67,
+      "description": "The right hand is lowered out of the frame. The subject sits upright, facing the camera.",
+      "bboxes": [
+        {
+          "frame_time": 2.170288,
+          "x": 0.2801809210526316,
+          "y": 0.23508771595201994,
+          "w": 0.43223684210526314,
+          "h": 0.6289473684210526,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 2.418621,
+          "x": 0.3023848684210526,
+          "y": 0.0929824527941252,
+          "w": 0.3449013157894737,
+          "h": 0.9026315789473685,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 4.67,
+      "end_time": 6.88,
+      "description": "The subject brings their right arm up and gestures from their right to their left in a broad, sweeping motion.",
+      "bboxes": [
+        {
+          "frame_time": 5.480639,
+          "x": 0.13363486842105263,
+          "y": 0.058771926478335734,
+          "w": 0.5240131578947369,
+          "h": 0.6842105263157895,
+          "note": "human-annotated",
+          "region": "arms"
+        },
+        {
+          "frame_time": 6.098462,
+          "x": 0.09958881578947368,
+          "y": 0.03508771595201994,
+          "w": 0.6069078947368421,
+          "h": 0.6868421052631579,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 6.88,
+      "end_time": 8.78,
+      "description": "The subject's right hand moves down towards their lower left torso, palm down, to indicate a length.",
+      "bboxes": [
+        {
+          "frame_time": 8.111454,
+          "x": 0.15583881578947367,
+          "y": 0.15877192647833574,
+          "w": 0.5580592105263158,
+          "h": 0.75,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 8.78,
+      "end_time": 10.87,
+      "description": "The right arm is lowered. The subject's left shoulder raises and lowers in a slight shrug.",
+      "bboxes": [
+        {
+          "frame_time": 9.724973,
+          "x": 0.07738486842105262,
+          "y": 0.4561403475309673,
+          "w": 0.5580592105263158,
+          "h": 0.41578947368421054,
+          "note": "human-annotated",
+          "region": "arms"
+        },
+        {
+          "frame_time": 9.926375,
+          "x": 0.08922697368421052,
+          "y": 0.48508771595201994,
+          "w": 0.6898026315789474,
+          "h": 0.38421052631578945,
+          "note": "pose human-annotated",
+          "region": "shoulders"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 10.87,
+      "end_time": 15.53,
+      "description": "The subject raises their right hand to the top of their head, gesturing over their hair as they speak.",
+      "bboxes": [
+        {
+          "frame_time": 11.745725,
+          "x": 0.09662828947368421,
+          "y": 0.12456140016254626,
+          "w": 0.6083881578947369,
+          "h": 0.5105263157894737,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0.35,
+      "end_time": 4.38,
+      "description": "The subject speaks at a moderate pace and volume, with a slight downward inflection at the end of the phrase \"dyed my hair.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 4.38,
+      "end_time": 9.07,
+      "description": "The speech rate remains moderate. The word \"ombre\" is spoken with slightly higher pitch. The phrase \"down to there\" has a falling intonation.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 9.07,
+      "end_time": 15.53,
+      "description": "The pitch rises and volume increases for emphasis on the words \"whole head purple\" and again on \"really dark purple.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.53,
+      "description": "The subject is a young person with short, dark blue hair and fair skin. They are wearing a v-neck t-shirt with blue, green, and white horizontal stripes. They wear a black choker and a longer black cord necklace with a silver sun-shaped pendant. The setting is a dimly lit room with a distinct green ambient light. A computer monitor is visible on the left, and a cluttered background with a doorway is visible behind them.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Medium",
+      "score": 0.47,
+      "rationale": "The subject exhibits a moderate level of Extraversion. They engage with the camera, a proxy for a social audience, and use illustrative hand gestures (e.g., indicating length from 4.7s-8.8s) to add energy to their narrative. Vocal modulation, such as increasing volume and pitch to emphasize key points ([9.1s-15.5s]), also suggests social expressiveness. However, this is balanced by cues that temper a high extraversion rating, such as an initial downward gaze ([0.0s-1.2s]) and darting eyes while recalling information ([1.2s-4.5s]), indicating a mix of outward engagement and internal focus.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Medium",
+      "score": 0.46,
+      "rationale": "The subject's Agreeableness is assessed as Medium. Their overall demeanor is cooperative and non-confrontational, maintaining a neutral, conversational tone throughout the narrative. The slight shoulder shrug around 9.9s can be interpreted as a casual, easy-going mannerism. There are no overt signs of either high agreeableness (like frequent smiling or expressions of empathy) or low agreeableness (like a critical tone or dismissive expressions). In the absence of strong indicators, their neutral and pleasant storytelling style supports a mid-range assessment.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Low",
+      "score": 0.34,
+      "rationale": "The subject's score indicates a Low level of Conscientiousness. This assessment is primarily based on environmental cues. The observation notes a 'cluttered background' ([0.0s-15.5s]), which is a classic behavioral indicator often correlated with lower levels of orderliness and organization — key facets of Conscientiousness. While the subject's narrative is linear, the disorganization of their personal space provides a more potent and direct piece of evidence for this trait, suggesting a preference for spontaneity over structured planning.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Medium",
+      "score": 0.48,
+      "rationale": "A Medium level of Neuroticism is indicated by a mix of calm and subtly anxious behaviors. While the subject's speech is generally paced and composed, there are minor cues that can suggest underlying nervous energy. The initial act of running fingers through their hair ([0.0s-1.1s]) can function as a self-soothing gesture. Additionally, the brief period of darting eye movements ([1.2s-4.5s]) while speaking can reflect cognitive load but also a degree of social anxiety. These subtle signs are not pronounced enough for a high rating, suggesting a moderate and typical level of emotional stability.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "Medium",
+      "score": 0.53,
+      "rationale": "The subject's Openness is rated as Medium. Strong evidence comes from their verbal content and personal appearance. They recount a history of experimenting with their look by dyeing their hair unconventional colors like 'ombre' and 'purple.' Their current 'dark blue' hair and choice of accessories (choker, pendant necklace) further support an inclination towards novel self-expression and aesthetics. The score remains in the medium range because the observed evidence is primarily related to aesthetic choices rather than a broader engagement with abstract ideas or diverse activities, which would be needed to justify a higher rating.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During 9.1s - 15.5s, the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Low Conscientiousness, given the disorganized visual background details."
+        },
+        {
+          "id": "B",
+          "text": "Medium Openness, since the verbal content concerns new aesthetic choices."
+        },
+        {
+          "id": "C",
+          "text": "Medium Extraversion, evidenced by the use of expressive vocal modulation."
+        },
+        {
+          "id": "D",
+          "text": "Low Extraversion, as the speaker is recounting a past event by themself."
+        },
+        {
+          "id": "E",
+          "text": "High Agreeableness, due to the consistently cooperative narrative style."
+        },
+        {
+          "id": "F",
+          "text": "Low Neuroticism, shown by the lack of any significant anxious behaviors."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The correct answer is C because during 9.1s - 15.5s, the subject's pitch and volume increase significantly to add emphasis to their story. This vocal modulation is a classic indicator of social expressiveness, which is a key facet of Extraversion. The 'Medium' level is consistent with the overall analysis.\n\n- Option A is a video-based distractor: Low Conscientiousness is supported by evidence (cluttered background), but this evidence is present throughout the entire video, not specific to the behavioral pattern of vocal modulation in the 9.1s-15.5s range.\n- Option B is a video-based distractor: Medium Openness is also supported by the video, but it's based on the *content* of what is said (dyeing hair), not the *behavioral pattern* of how it is said (vocal emphasis).\n- Option D is a near-miss distractor: It correctly identifies the relevant trait (Extraversion) but interprets the evidence in the wrong direction (Low instead of Medium/High). Speaking alone to a camera doesn't automatically imply low extraversion.\n- Option E is a text-based distractor: While the person is not disagreeable, the vocal emphasis is more directly related to Extraversion than Agreeableness.\n- Option F is a text-based distractor: This statement describes a lack of a behavior and is less directly supported by the specific, active vocal changes occurring in this time frame compared to the evidence for Extraversion."
+    },
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their Openness level?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[0.3s - 1.3s]"
+        },
+        {
+          "id": "B",
+          "text": "[5.8s - 6.8s]"
+        },
+        {
+          "id": "C",
+          "text": "[10.9s - 11.9s]"
+        },
+        {
+          "id": "D",
+          "text": "[2.5s - 3.5s]"
+        },
+        {
+          "id": "E",
+          "text": "[9.4s - 10.4s]"
+        },
+        {
+          "id": "F",
+          "text": "[7.8s - 8.8s]"
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. The personality analysis links Openness to the subject's history of aesthetic experimentation (dyeing hair). The most expressive moment related to this topic occurs around 11.2s, within the [10.9s - 11.9s] interval, where their eyebrows raise significantly to emphasize the story about dyeing their hair purple. This expression of emphasis directly relates to their self-expression, a facet of Openness.\n\n- All other options are video-based distractors. They point to real events but are less relevant to the trait of Openness:\n- Option A ([0.3s - 1.3s]): The person runs their hand through their hair, a self-soothing gesture more relevant to Neuroticism.\n- Option B ([5.8s - 6.8s]): The person makes a broad gesture to indicate length, which is an expressive behavior more related to Extraversion.\n- Option D ([2.5s - 3.5s]): The person's eyes dart side-to-side while recalling information, a behavior more relevant to cognitive load or Neuroticism.\n- Option E ([9.4s - 10.4s]): The person gives a slight shoulder shrug, a casual gesture more indicative of their medium Agreeableness.\n- Option F ([7.8s - 8.8s]): The person uses their hand to indicate a specific length, another illustrative gesture related to Extraversion."
+    },
+    {
+      "category": "Temporal-Causal Reasoning",
+      "question": "Consider the sequence of behaviors observed across the video. Which of the following best describes the causal chain linking the person's actions at different moments?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A desire for engagement prompts continuous vocal emphasis (entire video), occasionally interrupted by self-monitoring (early) and gestures (mid-video)."
+        },
+        {
+          "id": "B",
+          "text": "Illustrative gestures (mid-video) prompt emphatic expressions (late video), which are followed by self-monitoring behaviors (early video) for reflection."
+        },
+        {
+          "id": "C",
+          "text": "Initial self-monitoring (early video) transitions to illustrative gestures for clarity (mid-video), then escalates to emphatic expressions for climax (late video)."
+        },
+        {
+          "id": "D",
+          "text": "The slight shoulder shrug (mid-video) signals uncertainty, leading to more forceful gestures (mid-video) and vocal modulations (late video) to compensate."
+        },
+        {
+          "id": "E",
+          "text": "Initial self-monitoring behavior (early video) leads to a compensatory display of vocal emphasis (late video), followed by illustrative gestures (mid-video)."
+        },
+        {
+          "id": "F",
+          "text": "A moment of narrative climax (late video) causes a period of reflective thought with self-soothing gestures (early video), justified by illustrative actions."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. This option accurately describes the narrative arc of the subject's behavior. The video starts with subtle self-monitoring/self-soothing cues (hand in hair, darting eyes). As the story progresses, they use illustrative gestures to explain (e.g., indicating hair length). The sequence culminates in heightened vocal and facial emphasis to deliver the story's main point. This represents a natural progression from recall to illustration to emphasis.\n\n- Option A is a text-based distractor: It incorrectly claims that vocal emphasis is 'continuous' when it is actually concentrated at the end.\n- Option B is a distractor with reversed temporal order: It places the self-monitoring behaviors of the early video at the end of the causal chain.\n- Option D is a video-based distractor: It misinterprets a real behavior (the shoulder shrug) as a sign of uncertainty and builds an incorrect causal chain based on that misinterpretation. The analysis suggests the shrug is a casual, easy-going mannerism.\n- Option E is a near-miss distractor: It gets the temporal order of the first two elements correct but scrambles the middle and end, and incorrectly labels the vocal emphasis as 'compensatory'.\n- Option F is another distractor with reversed temporal order: It claims the climax at the end causes the behaviors at the beginning."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "At which of the following moments and locations does the subject display a sustained, neutral, and conversational facial expression while maintaining eye contact?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[2.9s] x=0.30, y=0.12, w=0.30, h=0.52"
+        },
+        {
+          "id": "B",
+          "text": "[5.6s] x=0.34, y=0.20, w=0.25, h=0.16"
+        },
+        {
+          "id": "C",
+          "text": "[11.7s] x=0.10, y=0.12, w=0.61, h=0.51"
+        },
+        {
+          "id": "D",
+          "text": "[0.5s] x=0.31, y=0.07, w=0.40, h=0.58"
+        },
+        {
+          "id": "E",
+          "text": "[9.9s] x=0.09, y=0.49, w=0.69, h=0.38"
+        },
+        {
+          "id": "F",
+          "text": "[2.2s] x=0.28, y=0.24, w=0.43, h=0.63"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. The question asks for the moment of a 'sustained, neutral, and conversational facial expression'. According to the observation log, this occurs during the [4.5s - 10.4s] interval. The timestamp and bounding box in option B ([5.6s] x=0.34, y=0.20, w=0.25, h=0.16) fall squarely within this period and correspond to the location of the subject's eyebrows, which are noted as 'slightly raised' as part of this conversational expression.\n\n- All other options are video-based distractors pointing to different moments and actions:\n- Option A ([2.9s]): This shows the subject's face while their eyes are darting, which is not 'sustained eye contact'.\n- Option C ([11.7s]): This bounding box captures the subject's hand gesturing near their head during the high-emphasis part of the story, not a neutral expression.\n- Option D ([0.5s]): This captures the subject's hand in their hair at the very beginning of the video, a self-soothing gesture.\n- Option E ([9.9s]): This bounding box is located on the subject's shoulder during a slight shrug, not their face.\n- Option F ([2.2s]): This shows the subject's face, but it is from the earlier segment where they are still settling into the narrative and their hand has just been lowered."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator20",
+      "version": 2,
+      "clues_total": 25,
+      "clues_correct": 18,
+      "clues_wrong_corrected": 7,
+      "clues_missing_skipped": 0,
+      "clues_bonus": 0
+    }
+  }
+}

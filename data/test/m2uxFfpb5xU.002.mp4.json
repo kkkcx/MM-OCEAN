@@ -1,0 +1,455 @@
+{
+  "video_id": "m2uxFfpb5xU.002.mp4",
+  "video_path": "m2uxFfpb5xU.002.mp4",
+  "transcription": "Fact or proof reading. It's thinking about things like, how does this piece of content fit in the overall user journey. How does it fit with the rest of the content in the site. It's looking at things like format structure. Is it written in plain English? Do the tone, challenging use of certain ...",
+  "original_scores": {
+    "extraversion": 0.3457943925233645,
+    "agreeableness": 0.4615384615384615,
+    "conscientiousness": 0.5533980582524272,
+    "neuroticism": 0.3020833333333333,
+    "openness": 0.4888888888888889
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 15.09,
+      "description": "The subject maintains her gaze slightly to her right, off-camera. Her eyebrows remain in a relatively neutral, slightly raised position throughout, moving subtly in coordination with her speech. Her mouth opens and closes naturally as she speaks, with the corners remaining neutral or slightly downturned. Her overall facial expression is engaged and consistent.",
+      "bboxes": [
+        {
+          "frame_time": 2.156651,
+          "x": 0.2520559210526316,
+          "y": 0.15877192647833574,
+          "w": 0.17467105263157895,
+          "h": 0.10263157894736842,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 2.156651,
+          "x": 0.22689144736842104,
+          "y": 0.09035087384675679,
+          "w": 0.19391447368421053,
+          "h": 0.3473684210526316,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 3.042457,
+          "x": 0.27129934210526313,
+          "y": 0.18508771595201995,
+          "w": 0.12286184210526316,
+          "h": 0.07105263157894737,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 3.042457,
+          "x": 0.29942434210526314,
+          "y": 0.2798245580572831,
+          "w": 0.08289473684210527,
+          "h": 0.08157894736842106,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 3.042457,
+          "x": 0.27870065789473686,
+          "y": 0.13245613700465153,
+          "w": 0.140625,
+          "h": 0.26052631578947366,
+          "note": "face human-annotated",
+          "region": "face"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 3.73,
+      "description": "The subject sits at a table, torso facing forward. Her hands are clasped in front of her, resting on the table, and she makes small movements with them as she speaks.",
+      "bboxes": [
+        {
+          "frame_time": 0.638894,
+          "x": 0.1484375,
+          "y": 0.10087718963623046,
+          "w": 0.4899671052631579,
+          "h": 0.8263157894736842,
+          "note": "pose human-annotated",
+          "region": "torso"
+        },
+        {
+          "frame_time": 1.317561,
+          "x": 0.35419407894736843,
+          "y": 0.766666663320441,
+          "w": 0.2338815789473684,
+          "h": 0.22894736842105262,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 3.73,
+      "end_time": 7.15,
+      "description": "She unclasps her hands and begins to make illustrative gestures, primarily with her right hand, moving it outward with fingers spread.",
+      "bboxes": [
+        {
+          "frame_time": 4.458491,
+          "x": 0.3527138157894737,
+          "y": 0.6324561370046515,
+          "w": 0.34786184210526316,
+          "h": 0.3263157894736842,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 7.15,
+      "end_time": 12.8,
+      "description": "Her hands come back together in a clasped position in front of her. She continues to make small, contained movements with her hands.",
+      "bboxes": [
+        {
+          "frame_time": 10.292967,
+          "x": 0.44449013157894735,
+          "y": 0.7429824527941252,
+          "w": 0.14210526315789473,
+          "h": 0.25263157894736843,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 10.292967,
+          "x": 0.4385690789473684,
+          "y": 0.7508771896362305,
+          "w": 0.16282894736842105,
+          "h": 0.24473684210526317,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 12.8,
+      "end_time": 15.09,
+      "description": "She points with her right index finger to her right side and then brings her hands back together, gesturing with both to emphasize her point.",
+      "bboxes": [
+        {
+          "frame_time": 13.492115,
+          "x": 0.5273848684210526,
+          "y": 0.6271929791099147,
+          "w": 0.13322368421052633,
+          "h": 0.2631578947368421,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 15.186664,
+          "x": 0.3734375,
+          "y": 0.8324561370046515,
+          "w": 0.20279605263157896,
+          "h": 0.16052631578947368,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 3.23,
+      "description": "Speech is delivered at a moderate, even pace with a stable pitch. There is a slight pause after the word \"like.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 3.23,
+      "end_time": 9.49,
+      "description": "The pace remains consistent. Pitch drops at the end of each statement, such as on \"journey,\" \"site,\" and \"structure.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 9.49,
+      "end_time": 11.75,
+      "description": "The pitch rises slightly at the end of the phrase \"plain English,\" consistent with a question.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 11.75,
+      "end_time": 15.09,
+      "description": "There is a slight pause after the word \"tone.\" The word \"challenging\" receives slight stress, with a marginally higher pitch and volume before the audio cuts off.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.09,
+      "description": "The subject is a woman with fair skin and shoulder-length blonde hair. She is wearing black-framed, cat-eye style glasses, a black short-sleeved dress with white polka dots and a collar, and a wide black belt. She is seated at a light-colored wooden conference table in a modern office environment. Behind her is a frosted glass partition. Orange upholstered chairs are visible further down the table to her right, and a silver laptop with a visible Apple logo sits in front of them.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 14.632513,
+      "end_time": 15.632513,
+      "description": "The subject is slightly obese",
+      "bboxes": [
+        {
+          "frame_time": 15.132513,
+          "x": 0.10402960526315788,
+          "y": 0.2771929791099147,
+          "w": 0.48404605263157896,
+          "h": 0.65,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    },
+    {
+      "dimension": "Background",
+      "start_time": 14.632513,
+      "end_time": 15.632513,
+      "description": "There is a glass door behind you",
+      "bboxes": [
+        {
+          "frame_time": 15.132513,
+          "x": 0.648766447368421,
+          "y": 0.07456140016254625,
+          "w": 0.13026315789473683,
+          "h": 0.8710526315789474,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Low",
+      "score": 0.35,
+      "rationale": "The subject's Low Extraversion is indicated by several cues. Her tendency to avert her gaze from the camera suggests a focus on internal thought rather than external engagement. Her vocal delivery is moderate and even-paced, lacking the energetic modulation typical of high extraversion. Additionally, her gestures are controlled and her hands are often crossed, reflecting a more reserved and self-contained posture rather than an expansive, socially outgoing one.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Medium",
+      "score": 0.46,
+      "rationale": "The subject's Medium Agreeableness is supported by her engaged and cooperative demeanor. Her facial expressions are consistent and her vocal tone is stable and non-confrontational, suggesting a willingness to communicate information helpfully. She presents as professional and composed. The score remains in the medium range as there are no overt displays of warmth or strong rapport-building behaviors, such as frequent smiling, which would indicate a higher level of this trait.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Medium",
+      "score": 0.55,
+      "rationale": "The subject demonstrates Medium Conscientiousness through her structured and methodical communication style. She systematically discusses abstract concepts like 'user journey' and 'format structure'. Her speech is delivered at a consistent pace, and her hand gestures are controlled and purposeful, serving to illustrate her organized points. This deliberate and thoughtful presentation is a strong indicator of a conscientious individual.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Low",
+      "score": 0.3,
+      "rationale": "The subject's Low Neuroticism, or high emotional stability, is evident in her calm and composed presence. Her vocal tone is stable and her speech is evenly paced, without signs of anxiety or stress. Her body language is controlled and lacks any nervous fidgeting or self-soothing gestures. Her ability to articulate complex ideas clearly under observation points to a high degree of emotional resilience.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "Medium",
+      "score": 0.49,
+      "rationale": "The subject's Medium Openness is reflected in the intellectual and abstract nature of her monologue. She engages with complex concepts like 'user journey' and considers nuanced aspects such as 'tone' and writing in 'plain English'. This demonstrates an analytical and intellectually curious mindset. The score is not higher because the context is confined to a professional domain, providing limited evidence of broader aesthetic interests or unconventional thinking.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During 3.7s - 7.2s, the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A high level of Agreeableness"
+        },
+        {
+          "id": "B",
+          "text": "A medium level of Conscientiousness"
+        },
+        {
+          "id": "C",
+          "text": "A low level of Neuroticism"
+        },
+        {
+          "id": "D",
+          "text": "A low level of Conscientiousness"
+        },
+        {
+          "id": "E",
+          "text": "A high level of Extraversion"
+        },
+        {
+          "id": "F",
+          "text": "A high level of Openness"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. During this interval, the person unclasps her hands and makes controlled, illustrative gestures while explaining a concept. This purposeful and organized use of gestures to structure communication is a key indicator of Conscientiousness. Her score is medium because while the behavior is structured, it's within a normal professional context.\n\n- Option A is a text-based distractor. Illustrative gestures can sound agreeable, but in the video, their primary function is organizational, not rapport-building.\n- Option C is a video-based distractor. The person does exhibit low Neuroticism (calmness), but this specific gesturing action is more directly related to her methodical communication style (Conscientiousness) than her emotional stability.\n- Option D is a near-miss distractor. It correctly identifies the personality dimension (Conscientiousness) but gets the direction wrong. The gestures are controlled and purposeful, indicating at least a medium level, not a low level, of this trait.\n- Option E is a text-based distractor. Gesturing is often associated with Extraversion, but her gestures are controlled and illustrative rather than broad and energetic, which aligns with her overall Low Extraversion rating.\n- Option F is a video-based distractor. While the content of her speech supports Openness, the physical act of gesturing in this structured manner is a stronger signal for Conscientiousness."
+    },
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable behavior occur that is most relevant to their Openness level?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[0.5s - 1.7s]"
+        },
+        {
+          "id": "B",
+          "text": "[3.8s - 5.0s]"
+        },
+        {
+          "id": "C",
+          "text": "[11.8s - 13.0s]"
+        },
+        {
+          "id": "D",
+          "text": "[7.5s - 8.7s]"
+        },
+        {
+          "id": "E",
+          "text": "[9.5s - 10.7s]"
+        },
+        {
+          "id": "F",
+          "text": "[14.0s - 15.2s]"
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. The analysis links Medium Openness to her engagement with complex concepts. Around 11.8s, the audio log notes that she slightly emphasizes the word 'challenging' with a higher pitch and volume. This vocal shift, which occurs within the [11.8s - 13.0s] interval, signals intellectual engagement and is the most distinct cue related to Openness.\n\n- Option A is a video-based distractor. This interval shows her in a baseline state with crossed hands and stable speech, with no notable expression change.\n- Option B is a video-based distractor. This interval captures the beginning of her illustrative hand gestures, which are more strongly linked to Conscientiousness than Openness.\n- Option D is a video-based distractor. During this time, her hands are crossed again and her expression is neutral, showing no significant change.\n- Option E is a near-miss distractor. This interval captures a slight rise in pitch on 'plain English', which is a minor cue for Openness, but the emphasis on 'challenging' in interval C is more pronounced and thus more relevant.\n- Option F is a near-miss distractor. This interval occurs just after the key vocal emphasis and pointing gesture have begun, capturing the tail end of the action rather than the notable change itself."
+    },
+    {
+      "category": "Mixed Emotion Discrimination",
+      "question": "During 0.0s - 15.1s, the person's emotional state is best characterized as which of the following? Consider both verbal and non-verbal cues.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Apprehensive uncertainty tempered by forced confidence"
+        },
+        {
+          "id": "B",
+          "text": "Detached professionalism mixed with slight impatience"
+        },
+        {
+          "id": "C",
+          "text": "Focused concentration mixed with thoughtful articulation"
+        },
+        {
+          "id": "D",
+          "text": "Mild skepticism tempered by professional courtesy"
+        },
+        {
+          "id": "E",
+          "text": "Passive receptiveness mixed with intellectual curiosity"
+        },
+        {
+          "id": "F",
+          "text": "Calm assurance tempered by subtle social reticence"
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. Throughout the video, the person maintains a stable vocal tone, averted gaze, and neutral expression. This combination indicates deep concentration on the topic she is explaining. Her clear, even-paced speech shows she is articulating these thoughts methodically. This blend of internal focus and external explanation is best described as 'focused concentration mixed with thoughtful articulation'.\n\n- Option A is a text-based distractor. Her calm demeanor and stable voice (Low Neuroticism) contradict any notion of apprehension or forced confidence.\n- Option B is a near-miss distractor. While she is professional, the observation notes her expression is 'engaged,' not 'detached.' There are no signs of impatience in her steady pacing.\n- Option D is a text-based distractor. There is nothing in her neutral expression (e.g., a raised lip corner) or tone to suggest skepticism.\n- Option E is a near-miss distractor. 'Intellectual curiosity' is plausible (related to Openness), but she is actively explaining, not 'passively receptive'.\n- Option F is a video-based distractor. This is a very strong distractor, as 'calm assurance' (Low Neuroticism) and 'social reticence' (Low Extraversion) are accurate personality traits. However, option C better describes her immediate cognitive-emotional *state* of explaining, rather than her underlying personality traits."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 3.0s, a region was detected in the video (x=0.299, y=0.280, w=0.083, h=0.082, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Her torso remains oriented directly forward to the camera."
+        },
+        {
+          "id": "B",
+          "text": "Her hands are firmly clasped together for added emphasis."
+        },
+        {
+          "id": "C",
+          "text": "Her mouth is moving with a neutral, downturned expression."
+        },
+        {
+          "id": "D",
+          "text": "Her left index finger is clearly pointing out to her right."
+        },
+        {
+          "id": "E",
+          "text": "Her eyebrows are held slightly raised in a neutral state."
+        },
+        {
+          "id": "F",
+          "text": "Her hands are held crossed in front of her on the table."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. The provided coordinates at 3.0s correspond to the region of the person's mouth. The observation log for this period states that her mouth opens and closes naturally as she speaks, with corners that are neutral or slightly downturned. This option accurately describes that action.\n\n- Option A is a video-based distractor. This action is occurring at 3.0s, but the bbox is on her mouth, not her torso.\n- Option B is a video-based distractor. This hand gesture occurs much later in the video (around 15.2s), not at 3.0s.\n- Option D is a video-based distractor. The pointing gesture occurs much later in the video (around 13.5s), not at 3.0s.\n- Option E is a near-miss distractor. This describes the eyebrows, which are spatially very close to the mouth region but are not within the specified bounding box. This tests for precise spatial localization.\n- Option F is a video-based distractor. At 3.0s, her hands are indeed crossed on the table, but the bounding box is clearly focused on her mouth area, not her hands."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "The person makes a distinct, controlled gesture with one hand to emphasize a specific conceptual point. Which option correctly identifies both the timing and location of this precise illustrative action?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[1.3s] (x=0.354, y=0.767, w=0.234, h=0.229)"
+        },
+        {
+          "id": "B",
+          "text": "[4.5s] (x=0.353, y=0.632, w=0.348, h=0.326)"
+        },
+        {
+          "id": "C",
+          "text": "[13.5s] (x=0.527, y=0.627, w=0.133, h=0.263)"
+        },
+        {
+          "id": "D",
+          "text": "[10.3s] (x=0.439, y=0.751, w=0.163, h=0.245)"
+        },
+        {
+          "id": "E",
+          "text": "[3.0s] (x=0.279, y=0.132, w=0.141, h=0.261)"
+        },
+        {
+          "id": "F",
+          "text": "[15.2s] (x=0.373, y=0.832, w=0.203, h=0.161)"
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. The question asks to identify a 'distinct, controlled gesture with one hand'. The observation log notes that at 13.5s, 'She uses her left index finger to point to the right'. This specific pointing gesture matches the description, and the timestamp and bounding box in option C correspond exactly to this event.\n\n- Option A is a video-based distractor. At this time, her hands are crossed and making small movements, which is not a distinct pointing gesture.\n- Option B is a video-based distractor. This captures her making a broader illustrative gesture with her right hand, but not the specific pointing action described.\n- Option D is a video-based distractor. At this time, her hands are crossed again in her baseline posture.\n- Option E is a video-based distractor. This bounding box is on her face, not her hands, and therefore cannot be the correct location of a hand gesture.\n- Option F is a video-based distractor. This captures her hands coming together, which is a different gesture from the one described."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [
+      {
+        "check": "B",
+        "q_idx": 1,
+        "issue": "The question asks for a change in 'facial expression or micro-expression', but the observation log for expressions states the subject's expression was 'consistent' throughout. The intended evidence seems to be based on hand gestures or vocal cues, making the question stem factually inaccurate.",
+        "action": "Modified the question to ask about 'notable behavior' in general, which makes the correct answer defensible based on the available observations of gestures and vocal changes."
+      }
+    ],
+    "corrections": {
+      "mcq_questions[1].question": "At which time interval does a notable behavior occur that is most relevant to their Openness level?"
+    },
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator06",
+      "version": 1,
+      "clues_total": 19,
+      "clues_correct": 14,
+      "clues_wrong_corrected": 3,
+      "clues_missing_skipped": 0,
+      "clues_bonus": 2
+    }
+  }
+}

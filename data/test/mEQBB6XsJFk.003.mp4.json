@@ -1,0 +1,454 @@
+{
+  "video_id": "mEQBB6XsJFk.003.mp4",
+  "video_path": "mEQBB6XsJFk.003.mp4",
+  "transcription": "And, I had a one-shoulder type of top on and a little bit of my shoulder was sticking out, and some douche drew a pair of boobs, a pair of breasts on my shoulder, and I don't know how I didn't know that, but I didn't.",
+  "original_scores": {
+    "extraversion": 0.4672897196261683,
+    "agreeableness": 0.5164835164835165,
+    "conscientiousness": 0.5145631067961165,
+    "neuroticism": 0.53125,
+    "openness": 0.4888888888888889
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 4,
+      "description": "The subject maintains direct eye contact with the camera, her mouth open as she speaks. Her eyebrows are held in a neutral to slightly raised position.",
+      "bboxes": [
+        {
+          "frame_time": 2.944317,
+          "x": 0.4911184210526316,
+          "y": 0.14210526315789473,
+          "w": 0.24720394736842105,
+          "h": 0.2736842105263158,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 2.944317,
+          "x": 0.5103618421052631,
+          "y": 0.4026315789473684,
+          "w": 0.17319078947368421,
+          "h": 0.20526315789473684,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 2.944317,
+          "x": 0.4407894736842105,
+          "y": 0.09473684210526316,
+          "w": 0.3167763157894737,
+          "h": 0.16052631578947368,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 4,
+      "end_time": 7,
+      "description": "Her gaze briefly shifts to her right (viewer's left) and then back to the camera. Her eyebrows lower slightly.",
+      "bboxes": [
+        {
+          "frame_time": 6.191549,
+          "x": 0.27351973684210523,
+          "y": 0.18421052631578946,
+          "w": 0.3004934210526316,
+          "h": 0.1736842105263158,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 6.748909,
+          "x": 0.2986842105263158,
+          "y": 0.1394736842105263,
+          "w": 0.21759868421052633,
+          "h": 0.12894736842105264,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 7,
+      "end_time": 11,
+      "description": "Her eyes widen slightly as she speaks with more emphasis. Her lips are parted, and her facial expression is animated.",
+      "bboxes": [
+        {
+          "frame_time": 10.008257,
+          "x": 0.34901315789473686,
+          "y": 0.3131578947368421,
+          "w": 0.29753289473684214,
+          "h": 0.1631578947368421,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 10.008257,
+          "x": 0.4185855263157895,
+          "y": 0.6026315789473684,
+          "w": 0.19539473684210526,
+          "h": 0.13157894736842105,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 10.008257,
+          "x": 0.36973684210526314,
+          "y": 0.2631578947368421,
+          "w": 0.2768092105263158,
+          "h": 0.4710526315789474,
+          "note": "face human-annotated",
+          "region": "face"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 11,
+      "end_time": 15,
+      "description": "Her eyebrows raise, and her eyes widen again in an expression of disbelief. She slightly shakes her head from side to side.",
+      "bboxes": [
+        {
+          "frame_time": 14.673123,
+          "x": 0.46151315789473685,
+          "y": 0.19736842105263158,
+          "w": 0.3271381578947368,
+          "h": 0.5368421052631579,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 13.291838,
+          "x": 0.42894736842105263,
+          "y": 0.1,
+          "w": 0.29901315789473687,
+          "h": 0.6868421052631579,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 1,
+      "end_time": 3,
+      "description": "The subject raises her right hand, palm down, and makes a sweeping horizontal gesture across her upper chest from right to left.",
+      "bboxes": [
+        {
+          "frame_time": 1.490333,
+          "x": 0.13733552631578946,
+          "y": 0.49473684210526314,
+          "w": 0.28273026315789473,
+          "h": 0.4789473684210526,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 4,
+      "end_time": 11,
+      "description": "She moves her right hand to her right shoulder, touching it, and then gestures outward to her right with an open hand.",
+      "bboxes": [
+        {
+          "frame_time": 10.06884,
+          "x": 0.7753289473684212,
+          "y": 0.6815789473684211,
+          "w": 0.22467105263157883,
+          "h": 0.27631578947368424,
+          "note": "pose human-annotated",
+          "region": "shoulders"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 11,
+      "end_time": 13,
+      "description": "She raises her left hand, palm facing outward, to the left side of her face in an emphasizing gesture.",
+      "bboxes": [
+        {
+          "frame_time": 11.486475,
+          "x": 0.06776315789473683,
+          "y": 0.4263157894736842,
+          "w": 0.1805921052631579,
+          "h": 0.4868421052631579,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 13,
+      "end_time": 15,
+      "description": "She lowers her left hand out of the frame.",
+      "bboxes": [
+        {
+          "frame_time": 13.207022,
+          "x": 0.0662828947368421,
+          "y": 0.6657894736842105,
+          "w": 0.2901315789473684,
+          "h": 0.33157894736842103,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 6,
+      "description": "The subject speaks at a moderate, conversational pace with a relatively stable pitch.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 6,
+      "end_time": 9,
+      "description": "Her volume and pitch noticeably increase with added stress on the words \"douche\" and \"boobs.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 9,
+      "end_time": 11,
+      "description": "Her voice has a slightly breathy quality, bordering on a disbelieving laugh, as she says \"on my shoulder.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 11,
+      "end_time": 14,
+      "description": "Her speech rate quickens and her pitch rises on the phrase \"I don't know how I didn't know that.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15,
+      "description": "The subject is a woman with fair skin and long, vibrant red hair. She is wearing heavy eye makeup and light pink lipstick. Her attire is a black, short-sleeved shirt. The setting is indoors, with holiday-themed decorations. To her left is a small white tree with silver tinsel and colorful ornaments. Behind her is a black-and-white cityscape backdrop, a white ornate picture frame, and a sheer curtain with vertical strings of warm-toned lights.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Medium",
+      "score": 0.47,
+      "rationale": "The subject's Extraversion is assessed as Medium. She demonstrates sociability by directly addressing the camera and sharing a personal story, using animated facial expressions and illustrative hand gestures. However, these behaviors are not sustained at a high intensity. For instance, her energy is moderate, and she briefly breaks eye contact to look aside, suggesting a balance between outward engagement and internal processing. This combination of expressive storytelling and moments of reserve supports a mid-range score.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Medium",
+      "score": 0.52,
+      "rationale": "The subject's Agreeableness is rated as Medium. While she engages the audience in a cooperative act of storytelling, her narrative contains direct and critical judgment of another person. The sharp increase in volume and pitch on the word 'douche' indicates a willingness to express negative sentiment bluntly, which contrasts with the conflict-avoidant tendencies of highly agreeable individuals. This blend of social engagement and straightforward criticism points to a medium level of Agreeableness.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Medium",
+      "score": 0.51,
+      "rationale": "The subject's Conscientiousness is assessed as Medium. Evidence for this is indirect but balanced. She presents her story in a structured, linear fashion, suggesting organized thought. However, the core content of the story revolves around a lack of situational awareness ('I don't know how I didn't know that'), which runs counter to the vigilance and attentiveness characteristic of high conscientiousness. This combination of organized communication and a narrative centered on a lapse in awareness supports a medium score.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Medium",
+      "score": 0.53,
+      "rationale": "The subject's Neuroticism is rated as Medium. She is recounting a potentially embarrassing or stressful event, and her emotional response is palpable. The accelerated speech and rising pitch at the end of the clip, coupled with an expression of disbelief, reflect emotional arousal. However, she maintains overall composure and is able to frame the negative experience as an anecdote. This ability to express distress while still maintaining narrative control, rather than being overwhelmed by it, is indicative of a mid-range Neuroticism score.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "Medium",
+      "score": 0.49,
+      "rationale": "The subject's Openness is assessed as Medium. Her distinct aesthetic, including vibrant red hair and heavy makeup, suggests an appreciation for unconventional self-expression. The choice to share a bizarre and unusual personal story also points towards openness to experience. However, the narrative itself is delivered using conventional language and structure, without forays into abstract thought or complex ideas. This balance between a non-traditional appearance and straightforward communication style is consistent with a medium level of Openness.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During 6.0s - 9.0s, the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "High Extraversion, as suggested by the animated facial expressions."
+        },
+        {
+          "id": "B",
+          "text": "High Agreeableness, as suggested by the engaging storytelling tone."
+        },
+        {
+          "id": "C",
+          "text": "High Neuroticism, as suggested by the emotional vocal intensity."
+        },
+        {
+          "id": "D",
+          "text": "Low Agreeableness, as suggested by the unfiltered negative judgment."
+        },
+        {
+          "id": "E",
+          "text": "Low Conscientiousness, as suggested by the story's core admission."
+        },
+        {
+          "id": "F",
+          "text": "Low Openness, as suggested by the linear progression of the story."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "The correct answer is D. During this interval, the subject's volume and pitch increase sharply on the words 'douche' and 'boobs', expressing a direct and unfiltered negative judgment. This behavior is the primary evidence supporting a lower score on Agreeableness, as it contrasts with the conflict-avoidant tendencies of highly agreeable individuals. Option B is a near-miss distractor; it correctly identifies the trait (Agreeableness) but suggests the wrong direction (High). Her tone is engaging elsewhere, but this specific moment points to Low Agreeableness. Option A is a video-based distractor; she is animated throughout the video, which relates to Extraversion, but this specific vocal pattern is more indicative of Agreeableness. Option E is also a video-based distractor; the admission of not knowing ('I don't know how I didn't know that') supports a lower Conscientiousness score, but that occurs later (11s-14s). Options C and F are text-based distractors; while 'emotional intensity' might sound like Neuroticism and 'linear progression' might relate to Openness, the core behavior is an interpersonal judgment, making it most relevant to Agreeableness."
+    },
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their Neuroticism level?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[0.5s - 2.0s]"
+        },
+        {
+          "id": "B",
+          "text": "[4.0s - 5.5s]"
+        },
+        {
+          "id": "C",
+          "text": "[13.0s - 14.5s]"
+        },
+        {
+          "id": "D",
+          "text": "[6.5s - 8.0s]"
+        },
+        {
+          "id": "E",
+          "text": "[9.5s - 11.0s]"
+        },
+        {
+          "id": "F",
+          "text": "[11.5s - 13.0s]"
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. The personality analysis for Neuroticism notes that her 'accelerated speech and rising pitch at the end of the clip, coupled with an expression of disbelief, reflect emotional arousal.' This expression of disbelief, including a head shake and specific facial set, peaks around 13.0s-14.5s. All other options are video-based distractors pointing to different events. Option A [0.5s - 2.0s] is the initial setup gesture. Option B [4.0s - 5.5s] is when she briefly shifts her gaze away from the camera. Option D [6.5s - 8.0s] is when her vocal intensity increases to show anger. Option E [9.5s - 11.0s] is when she touches her shoulder while describing the event. Option F [11.5s - 13.0s] is just before the peak expression of disbelief fully forms."
+    },
+    {
+      "category": "Mixed Emotion Discrimination",
+      "question": "During 7.0s - 11.0s, the person's emotional state is best characterized as which of the following? Consider both verbal and non-verbal cues.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Annoyance blended with a clear sense of regretfulness."
+        },
+        {
+          "id": "B",
+          "text": "Embarrassment mixed with a pronounced sense of shame."
+        },
+        {
+          "id": "C",
+          "text": "Sadness tempered by an overarching feeling of despair."
+        },
+        {
+          "id": "D",
+          "text": "Indignation mixed with a strong feeling of revulsion."
+        },
+        {
+          "id": "E",
+          "text": "Anger tempered by a subtle feeling of frustration."
+        },
+        {
+          "id": "F",
+          "text": "Fear blended with a growing feeling of apprehension."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "The correct answer is D. In this interval, the subject's voice becomes louder and higher-pitched as she says 'douche' and 'boobs,' and her eyes widen. This combination of verbal emphasis and facial expression conveys strong negative judgment (indignation) about the person's action and disgust (revulsion) at the act itself. Option E is a near-miss distractor; while anger is present, 'revulsion' is more specific than 'frustration' to the nature of the described event. Option B is a video-based distractor; while the event could be embarrassing, her emotional display is directed outward at the perpetrator, not inward as shame would be. Options A, C, and F are text-based distractors. There are no cues for regret (A), sadness/despair (C), or fear/apprehension (F); her vocal tones are sharp and accusatory, not sad or fearful."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "The subject displays a complex expression of incredulity regarding their own past awareness. At which timestamp and bounding box does this peak moment of disbelief occur?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[6.7s] x=0.30, y=0.14, w=0.22, h=0.13"
+        },
+        {
+          "id": "B",
+          "text": "[6.2s] x=0.27, y=0.18, w=0.30, h=0.17"
+        },
+        {
+          "id": "C",
+          "text": "[10.0s] x=0.37, y=0.26, w=0.28, h=0.47"
+        },
+        {
+          "id": "D",
+          "text": "[14.7s] x=0.46, y=0.20, w=0.33, h=0.54"
+        },
+        {
+          "id": "E",
+          "text": "[10.1s] x=0.78, y=0.68, w=0.22, h=0.28"
+        },
+        {
+          "id": "F",
+          "text": "[2.9s] x=0.44, y=0.09, w=0.32, h=0.16"
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "The correct answer is D. The description of 'incredulity' and 'disbelief' corresponds to the observation note '[11.0s - 15.0s]: [face] expression of disbelief and '[head] shakes head slightly. The provided timestamp and bounding box [14.7s] x=0.46, y=0.20, w=0.33, h=0.54 accurately captures the peak of this facial expression. All other options are video-based distractors pointing to different actions at different times: A points to lowered eyebrows, B points to a sideways glance, C points to her animated face during the angry part of the story, E points to her hand touching her shoulder, and F points to her eyebrows in a neutral state at the beginning."
+    },
+    {
+      "category": "Counterfactual Reasoning",
+      "question": "If the person had NOT exhibited the behavior observed around 6.0s - 9.0s, which of the following personality assessments would be MOST affected?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Extraversion would be assessed as lower, as this is the main moment she engages the audience with energetic, expressive storytelling."
+        },
+        {
+          "id": "B",
+          "text": "Neuroticism would be assessed as lower, since that moment contains the primary display of her emotional arousal and vocal intensity."
+        },
+        {
+          "id": "C",
+          "text": "Agreeableness would be assessed as lower, as removing the vocalization would make her narration seem more detached and uncooperative."
+        },
+        {
+          "id": "D",
+          "text": "Agreeableness would be rated much higher, as the key evidence for her expression of unfiltered negative judgment would then be absent."
+        },
+        {
+          "id": "E",
+          "text": "Conscientiousness would be assessed as higher, because the primary evidence for her lack of self-awareness comes from that single remark."
+        },
+        {
+          "id": "F",
+          "text": "Openness would be assessed as lower, as the specific choice of words in this section is the strongest signal of an unconventional mindset."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "The correct answer is D. The behavior between 6.0s-9.0s is the sharp vocal emphasis on 'douche,' which is the primary evidence cited in the analysis for a lower Agreeableness score ('indicates a willingness to express negative sentiment bluntly'). Removing this would remove the strongest counter-evidence to high agreeableness, likely resulting in a higher assessment. Option C is a near-miss distractor; it correctly identifies Agreeableness but posits the wrong direction of change. Option B is a video-based distractor; while the moment shows arousal relevant to Neuroticism, its impact on the Agreeableness score is more direct and critical. Option E is another video-based distractor that references a behavior (lack of awareness) from a different time segment (11s-14s). Options A and F are text-based distractors; her extraversion is supported throughout the video, not just in this moment, and while the word choice might relate to Openness, it is a much weaker signal than the interpersonal judgment signal for Agreeableness."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator14",
+      "version": 2,
+      "clues_total": 25,
+      "clues_correct": 17,
+      "clues_wrong_corrected": 2,
+      "clues_missing_skipped": 6,
+      "clues_bonus": 0
+    }
+  }
+}

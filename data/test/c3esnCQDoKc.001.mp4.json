@@ -1,0 +1,371 @@
+{
+  "video_id": "c3esnCQDoKc.001.mp4",
+  "video_path": "c3esnCQDoKc.001.mp4",
+  "transcription": "I didn't see it as a big of a deal as some people do, because a lot of rappers out there do that, and people that side of the hip hop genre do that. I know in hip hop, we want people to be 100% authentic and do their own shit. You definitely get points for that, and I'm not saying you could make a top 10.",
+  "original_scores": {
+    "extraversion": 0.4953271028037384,
+    "agreeableness": 0.6373626373626373,
+    "conscientiousness": 0.5728155339805825,
+    "neuroticism": 0.6458333333333333,
+    "openness": 0.611111111111111
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 15.11,
+      "description": "The subject maintains direct eye contact with the camera. His eyebrows are slightly raised throughout, and his eyes are wide open, creating an engaged and expressive look. His mouth moves naturally as he speaks.",
+      "bboxes": [
+        {
+          "frame_time": 0,
+          "x": 0.48963815789473686,
+          "y": 0.22894736842105262,
+          "w": 0.14210526315789473,
+          "h": 0.06842105263157895,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 0,
+          "x": 0.4955592105263158,
+          "y": 0.18157894736842106,
+          "w": 0.13914473684210527,
+          "h": 0.06842105263157895,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 0.745663,
+          "x": 0.5207236842105263,
+          "y": 0.19210526315789472,
+          "w": 0.15098684210526317,
+          "h": 0.11052631578947368,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 0.745663,
+          "x": 0.5458881578947369,
+          "y": 0.35789473684210527,
+          "w": 0.09917763157894736,
+          "h": 0.08947368421052632,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 12.6,
+      "description": "The subject is seated in a chair, leaning slightly forward. His head moves in sync with his speech, with subtle nods and turns for emphasis. His hands are out of frame.",
+      "bboxes": [
+        {
+          "frame_time": 0.745663,
+          "x": 0.3726973684210526,
+          "y": 0.45789473684210524,
+          "w": 0.4307565789473684,
+          "h": 0.31842105263157894,
+          "note": "pose human-annotated",
+          "region": "torso"
+        },
+        {
+          "frame_time": 0.745663,
+          "x": 0.4837171052631579,
+          "y": 0.018421052631578946,
+          "w": 0.2087171052631579,
+          "h": 0.4921052631578947,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 3.745265,
+          "x": 0.2542763157894737,
+          "y": 0.8789473684210526,
+          "w": 0.10509868421052632,
+          "h": 0.11315789473684211,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 12.6,
+      "end_time": 15.11,
+      "description": "The subject raises both hands into the lower portion of the frame, making open, outward gestures to emphasize his point.",
+      "bboxes": [
+        {
+          "frame_time": 13.472787,
+          "x": 0.3179276315789474,
+          "y": 0.8184210526315789,
+          "w": 0.5950657894736843,
+          "h": 0.1763157894736842,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 15.11,
+      "description": "The subject speaks at a moderate, conversational pace with a clear vocal quality. His pitch has a natural, declarative intonation, typically falling at the end of statements. He places vocal stress on key words for emphasis, such as \"lot\" (0.04), \"authentic\" (0.10), and \"definitely\" (0.12).",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.11,
+      "description": "The subject is a young adult male with a light brown skin tone and a short beard. He is wearing a black athletic jacket with white piping, a green collar, and the word 'CELTICS' in white on the chest, along with a Reebok logo. He wears a green baseball cap with a white and green logo. He is in an indoor setting with a light-colored wall behind him. To the viewer's left is a graphic of a yellow question mark in a blue circle. To the viewer's right is a painting depicting two nude female figures embracing against a dark background.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Medium",
+      "score": 0.5,
+      "rationale": "The subject's Medium Extraversion is indicated by a balance of social engagement and controlled delivery. He leans forward and maintains direct eye contact, showing a clear desire to connect with the audience. His use of head nods and hand gestures for emphasis reflects social energy. However, his moderate speaking pace and natural, declarative tone lack the high-energy, rapid-fire delivery often seen in highly extraverted individuals. This blend of expressive but measured communication is characteristic of an ambivert, aligning with a mid-range score.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "High",
+      "score": 0.64,
+      "rationale": "The subject's High Agreeableness is evident in his cooperative and non-confrontational communication style. Verbally, he validates opposing viewpoints within the topic ('I know in hip hop, we want people to be 100% authentic. You definitely get points for that...'), aiming to build consensus rather than create conflict. Nonverbally, his use of open, outward hand gestures serves to underscore his points in an inclusive manner, signaling a desire to build rapport and be seen as sincere and trustworthy.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Medium",
+      "score": 0.57,
+      "rationale": "A Medium level of Conscientiousness is suggested by the subject's structured and coherent argumentation. His speech is clear and follows a logical progression, and he uses vocal stress on keywords to ensure his points are understood, indicating a degree of thoughtfulness and preparation. While he presents an organized argument, the casual setting and conversational nature of the video do not provide strong evidence of the meticulousness or high-level planning characteristic of a higher score, making a Medium assessment most appropriate.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "High",
+      "score": 0.65,
+      "rationale": "The subject's High Neuroticism is subtly revealed through his careful handling of a socially sensitive topic. His opening statement, 'I didn't see it as a big of a deal as some people do,' immediately establishes a defensive posture, suggesting an underlying concern about potential disagreement or criticism. The intermittent, slight raising of his eyebrows while making his case can be interpreted as a nonverbal marker of worry or social apprehension about how his opinion will be received, which is consistent with a higher level of neuroticism.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "High",
+      "score": 0.61,
+      "rationale": "The High Openness score is strongly supported by environmental cues and the subject's intellectual approach. The prominent placement of an artistic painting depicting nudity in his background indicates a clear appreciation for aesthetics and a comfort with unconventional or provocative expression. Verbally, his nuanced analysis of cultural norms and authenticity within a specific genre ('hip hop') demonstrates a proclivity for engaging with abstract ideas and exploring complex systems, a hallmark of the Openness trait.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During 0.0s - 3.0s, the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "High Neuroticism, reflecting a cautious and self-monitoring stance."
+        },
+        {
+          "id": "B",
+          "text": "Low Agreeableness, reflecting a confrontational communication style."
+        },
+        {
+          "id": "C",
+          "text": "High Extraversion, reflecting an energetic and assertive expression."
+        },
+        {
+          "id": "D",
+          "text": "High Openness, reflecting an intellectual exploration of an idea."
+        },
+        {
+          "id": "E",
+          "text": "High Agreeableness, reflecting a cooperative and validating approach."
+        },
+        {
+          "id": "F",
+          "text": "Low Neuroticism, reflecting a confident and relaxed communication."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. The person begins with 'I didn't see it as a big of a deal as some people do,' which is a defensive posture suggesting concern about how their opinion will be received. This aligns with High Neuroticism.\n\n- Option B is a text-based distractor. The text involves disagreement, which might imply low agreeableness, but the person's overall tone and later conciliatory remarks contradict this.\n- Option C is a text-based distractor. Speaking directly to an audience can be a sign of extraversion, but the specific content of this opening statement does not support it.\n- Option E is a video-based distractor. High Agreeableness is supported by behaviors later in the video (e.g., open hand gestures around 13.5s and validating others' views), but not by the defensive opening in this specific time range.\n- Option D is a video-based distractor. High Openness is supported by the nuanced argument and background art, but this specific opening phrase is more directly indicative of Neuroticism.\n- Option F is a near-miss distractor. It correctly identifies Neuroticism as the relevant dimension but gets the direction wrong. The defensive framing suggests high, not low, neuroticism."
+    },
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their Neuroticism level?",
+      "options": [
+        {
+          "id": "A",
+          "text": "0.0s - 0.5s"
+        },
+        {
+          "id": "B",
+          "text": "4.8s - 5.3s"
+        },
+        {
+          "id": "C",
+          "text": "8.1s - 8.6s"
+        },
+        {
+          "id": "D",
+          "text": "1.4s - 1.9s"
+        },
+        {
+          "id": "E",
+          "text": "12.5s - 13.0s"
+        },
+        {
+          "id": "F",
+          "text": "9.9s - 10.4s"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. The personality analysis links High Neuroticism to the 'intermittent, slight raising of his eyebrows' as a marker of worry. The observation log confirms this occurs from the very start of the video.\n\n- Option B is a video-based distractor. This interval is in the middle of a sentence with no notable expression change relevant to neuroticism.\n- Option C is a video-based distractor. Similar to B, this is a period of standard conversational expression.\n- Option D is a video-based distractor. This interval captures a large head nod for emphasis, which relates more to Extraversion or Conscientiousness (making a point clear) than to Neuroticism.\n- Option E is a video-based distractor. This interval is just before the subject begins their large, open hand gesture, an action more relevant to Agreeableness.\n- Option F is a video-based distractor. This is the moment the subject says the word 'authentic', which is emphasized vocally, but the key micro-expression of worry (eyebrow raise) is more distinctly noted at the video's start."
+    },
+    {
+      "category": "Mixed Emotion Discrimination",
+      "question": "During 0.0s - 15.1s, the person's emotional state is best characterized as which of the following? Consider both verbal and non-verbal cues.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Earnest explanation tempered by a degree of social apprehension."
+        },
+        {
+          "id": "B",
+          "text": "Defensive justification mixed with a strong sense of intellectual pride."
+        },
+        {
+          "id": "C",
+          "text": "Passionate conviction mixed with subtle frustration toward others."
+        },
+        {
+          "id": "D",
+          "text": "Confident persuasion tempered by a series of thoughtful pauses."
+        },
+        {
+          "id": "E",
+          "text": "Guarded skepticism mixed with a sense of reluctant agreement."
+        },
+        {
+          "id": "F",
+          "text": "Dismissive judgment tempered by a display of feigned interest."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. The subject's structured argument and direct engagement show earnestness, while the defensive opening ('I didn't see it as a big deal...') and intermittent eyebrow raises suggest apprehension about how the message will be received.\n\n- Option B is a near-miss distractor. 'Defensive justification' is plausible, but there is little evidence of 'intellectual pride'; the tone is more explanatory than boastful.\n- Option C is a text-based distractor. The topic could evoke passion, but the subject's measured pace and calm demeanor do not support 'passionate conviction' or 'frustration'.\n- Option D is a near-miss distractor. The subject is persuasive and thoughtful, but 'confident' overlooks the subtle cues of neuroticism (apprehension) identified in the analysis.\n- Option E is a text-based distractor. While he is expressing a different viewpoint, his verbal cues are about presenting his case, not agreeing reluctantly with another.\n- Option F is a text-based distractor. The phrase 'not a big deal' might sound dismissive, but his overall engagement (eye contact, gestures) contradicts 'feigned interest'."
+    },
+    {
+      "category": "Temporal-Causal Reasoning",
+      "question": "Consider the sequence of behaviors observed across the video. Which of the following best describes the causal chain linking the person's actions at different moments?",
+      "options": [
+        {
+          "id": "A",
+          "text": "An initial self-protective statement leads to a structured verbal argument, reinforced by a non-verbal display to ensure social connection."
+        },
+        {
+          "id": "B",
+          "text": "An inclusive non-verbal display prompts a structured argument, which concludes with a final self-protective statement from the speaker."
+        },
+        {
+          "id": "C",
+          "text": "A structured verbal argument triggers self-doubt, followed by a compensatory non-verbal display designed to reassert his confidence."
+        },
+        {
+          "id": "D",
+          "text": "An initial self-protective statement leads to a structured argument, which culminates in a dismissive gesture to finalize the point."
+        },
+        {
+          "id": "E",
+          "text": "An expression of conviction leads to a disorganized explanation, concluding with a gesture of finality to end the entire discussion."
+        },
+        {
+          "id": "F",
+          "text": "A period of focused eye contact leads to emphatic head movements, causing a shift toward a more relaxed and open physical posture."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. This accurately describes the flow: the defensive opening (0-3s) sets a self-protective tone, followed by the main logical points of his argument (3-12s), and concluding with an open, inclusive hand gesture (around 13s) to build rapport.\n\n- Option B is a distractor with reversed temporal order. The inclusive gesture happens at the end, not the beginning.\n- Option F is a video-based distractor. It describes real events (eye contact, head movement) but fails to capture the main rhetorical and causal structure linking the verbal and non-verbal elements of the argument.\n- Option D is a near-miss distractor. The first two causal links are correct, but it misinterprets the final gesture. The open, outward hand motion is inclusive, not dismissive.\n- Option C is a distractor with incorrect causality. The argument does not appear to trigger self-doubt; rather, the final gesture reinforces the argument's point in a socially agreeable way.\n- Option E is a text-based distractor. The verbal explanation is coherent and structured, not disorganized, and the final gesture is inclusive, not one of finality."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 0.7s, a region was detected in the video (x=0.484, y=0.018, w=0.209, h=0.492, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Emphatic head movements that are synchronized with the speech pattern."
+        },
+        {
+          "id": "B",
+          "text": "Articulate mouth movements that correspond directly with spoken words."
+        },
+        {
+          "id": "C",
+          "text": "Direct and sustained eye contact directed forward toward the camera."
+        },
+        {
+          "id": "D",
+          "text": "A slight forward lean of the upper body originating from the torso."
+        },
+        {
+          "id": "E",
+          "text": "Open-handed gestures used at the bottom of the frame for emphasis."
+        },
+        {
+          "id": "F",
+          "text": "Subtle head movements that are synchronized with the speech pattern."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. The specified bounding box covers the subject's entire head. The observation log notes that the most prominent action involving the whole head is its 'large' and emphatic movement synchronized with speech to add emphasis.\n\n- Options B and C are video-based distractors. While mouth movements and eye contact occur within this bounding box, they describe actions of smaller sub-regions (mouth, eyes) and are not the most prominent action of the entire head region itself.\n- Options D and E are video-based distractors. They describe real actions (torso lean, hand gestures) that occur outside the specified bounding box for the head.\n- Option F is a near-miss distractor. It correctly identifies the action (head movements synchronized with speech) but uses the incorrect descriptor 'subtle'. The observation log and the 'near-miss material' confirm the movements were 'large' or 'emphatic', not subtle."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "At which point does the subject use a significant non-verbal gesture with both hands to inclusively underscore a key part of their argument?",
+      "options": [
+        {
+          "id": "A",
+          "text": "At 13.5s, a gesture is located in the lower region of the frame (x=0.318, y=0.818, w=0.595, h=0.176)."
+        },
+        {
+          "id": "B",
+          "text": "At 3.7s, a gesture is located in the bottom-left part of the frame (x=0.254, y=0.879, w=0.105, h=0.113)."
+        },
+        {
+          "id": "C",
+          "text": "At 13.5s, a gesture is located in the upper region of the frame (x=0.484, y=0.018, w=0.209, h=0.492)."
+        },
+        {
+          "id": "D",
+          "text": "At 0.7s, a gesture is located in the central torso region of the frame (x=0.373, y=0.458, w=0.431, h=0.318)."
+        },
+        {
+          "id": "E",
+          "text": "At 7.2s, a gesture is located in the lower-right part of the frame (x=0.750, y=0.600, w=0.150, h=0.200)."
+        },
+        {
+          "id": "F",
+          "text": "At 10.1s, a gesture is located in the lower region of the frame (x=0.318, y=0.818, w=0.595, h=0.176)."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. The observation log explicitly states that at 13.5s, the subject makes an 'open, outward hand gesture' to emphasize a point, and the provided coordinates match this event, which involves both hands in the lower part of the frame.\n\n- Option B is a video-based distractor. It points to a real but much more minor hand appearance at 3.7s, which does not fit the description of a 'significant' gesture to 'inclusively underscore' a point.\n- Option C is a near-miss distractor. It uses the correct timestamp (13.5s) but provides the wrong bounding box, incorrectly localizing the gesture to the head region.\n- Option D is a video-based distractor. It points to the torso lean at the beginning of the video, which is not a hand gesture.\n- Option E is a text-based distractor. It provides a plausible timestamp and location, but no such gesture occurs at 7.2s in the specified region.\n- Option F is a near-miss distractor. It uses the correct bounding box for the significant hand gesture but provides an incorrect timestamp (10.1s instead of 13.5s)."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator04",
+      "version": 1,
+      "clues_total": 10,
+      "clues_correct": 7,
+      "clues_wrong_corrected": 3,
+      "clues_missing_skipped": 0,
+      "clues_bonus": 0
+    }
+  }
+}

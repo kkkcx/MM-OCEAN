@@ -1,0 +1,357 @@
+{
+  "video_id": "H6yu96w7tUc.004.mp4",
+  "video_path": "H6yu96w7tUc.004.mp4",
+  "transcription": "A lot of algae growth, but the real trick is patience, maturity, letting the tank get old enough to take care of itself and get well balanced. As far as nutrients go ...",
+  "original_scores": {
+    "extraversion": 0.29906542056074764,
+    "agreeableness": 0.5384615384615384,
+    "conscientiousness": 0.6213592233009709,
+    "neuroticism": 0.59375,
+    "openness": 0.5444444444444444
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 2.9,
+      "description": "The subject maintains a direct gaze at the camera with a neutral expression. His eyebrows are slightly raised as he speaks, and he blinks normally.",
+      "bboxes": [
+        {
+          "frame_time": 0,
+          "x": 0.4012345679012346,
+          "y": 0.247599451303155,
+          "w": 0.13271604938271606,
+          "h": 0.0823045267489712,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 1.208684,
+          "x": 0.4382716049382716,
+          "y": 0.22565157750342935,
+          "w": 0.10648148148148148,
+          "h": 0.10425240054869685,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 1.208684,
+          "x": 0.42746913580246915,
+          "y": 0.2613168724279835,
+          "w": 0.12962962962962962,
+          "h": 0.10150891632373114,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 2.9,
+      "end_time": 5.43,
+      "description": "The subject's eyebrows lower slightly and his eyes narrow minimally as he says \"the real trick is patience\".",
+      "bboxes": [
+        {
+          "frame_time": 2.9,
+          "x": 0.4027777777777778,
+          "y": 0.2393689986282579,
+          "w": 0.12037037037037036,
+          "h": 0.0823045267489712,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 5.320177,
+          "x": 0.3873456790123457,
+          "y": 0.266803840877915,
+          "w": 0.11419753086419752,
+          "h": 0.07956104252400549,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 5.43,
+      "end_time": 12.33,
+      "description": "His expression returns to a neutral, conversational state. The eyebrows are relaxed, and he maintains steady eye contact with the camera while speaking.",
+      "bboxes": [
+        {
+          "frame_time": 5.43,
+          "x": 0.38117283950617287,
+          "y": 0.21193415637860083,
+          "w": 0.1419753086419753,
+          "h": 0.3347050754458162,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 5.43,
+          "x": 0.375,
+          "y": 0.21467764060356653,
+          "w": 0.1527777777777778,
+          "h": 0.15089163237311384,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 5.43,
+          "x": 0.38425925925925924,
+          "y": 0.27503429355281206,
+          "w": 0.11574074074074074,
+          "h": 0.0877914951989026,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 12.33,
+      "end_time": 15.195,
+      "description": "The subject's eyebrows raise slightly as he begins a new thought, maintaining his direct gaze.",
+      "bboxes": [
+        {
+          "frame_time": 13.7625,
+          "x": 0.39197530864197533,
+          "y": 0.28052126200274347,
+          "w": 0.12345679012345678,
+          "h": 0.07956104252400549,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 15.195,
+      "description": "The subject is seated, facing the camera from the chest up. His posture is upright and largely still, with his head remaining level. There are very subtle, small nods that occasionally accompany his speech.",
+      "bboxes": [
+        {
+          "frame_time": 0,
+          "x": 0.2654320987654321,
+          "y": 0.39849108367626884,
+          "w": 0.4691358024691358,
+          "h": 0.5459533607681756,
+          "note": "human-annotated",
+          "region": "unknown"
+        },
+        {
+          "frame_time": 0,
+          "x": 0.2638888888888889,
+          "y": 0.4396433470507545,
+          "w": 0.46296296296296297,
+          "h": 0.5294924554183813,
+          "note": "pose human-annotated",
+          "region": "torso"
+        },
+        {
+          "frame_time": 0,
+          "x": 0.3549382716049383,
+          "y": 0.0747599451303155,
+          "w": 0.24382716049382716,
+          "h": 0.45816186556927296,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 0,
+          "x": 0.3549382716049383,
+          "y": 0.06927297668038408,
+          "w": 0.25308641975308643,
+          "h": 0.5075445816186557,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 2.9,
+      "description": "The subject speaks at a moderate, even pace with a stable pitch. There is a brief pause filled with \"uh\" at 0.9 seconds.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 2.9,
+      "end_time": 5.8,
+      "description": "The pitch rises slightly on the phrase \"the real trick is\" for emphasis, then falls to a lower register on the words \"patience, maturity\".",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 5.8,
+      "end_time": 12.33,
+      "description": "The speech rate remains consistent. His tone is informative, with a falling intonation at the end of the phrase \"get well balanced\".",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 12.33,
+      "end_time": 15.195,
+      "description": "The subject uses a filler \"um\" at 13.0 seconds before continuing his sentence at a consistent volume and pace.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.195,
+      "description": "The subject is a middle-aged male with fair skin, short brown hair, glasses, and a prominent mustache with sideburns. He is wearing a grey t-shirt with a \"Walt Disney World\" logo. The setting is indoors, in front of two large, well-lit aquariums filled with green aquatic plants. A framed picture hangs on the light-colored wall behind him.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Low",
+      "score": 0.3,
+      "rationale": "The subject's Low Extraversion is indicated by his reserved physical demeanor. He maintains a still, upright posture with minimal body movement and only very subtle head nods. His speech is delivered at a moderate and even pace, characteristic of a more reflective and less outwardly energetic individual, rather than the rapid, animated speech often associated with high extraversion.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Medium",
+      "score": 0.54,
+      "rationale": "The Medium Agreeableness rating is supported by a generally cooperative and pleasant demeanor. The subject maintains a neutral, conversational facial expression and steady eye contact, suggesting a non-confrontational and engaging attitude. His vocal tone is informative and aims to clearly convey helpful information, reflecting a willingness to be helpful and maintain a positive social interaction.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "High",
+      "score": 0.62,
+      "rationale": "High Conscientiousness is evident in the subject's structured and deliberate communication style. He methodically explains his point with a steady vocal pace and an informative tone, demonstrating a clear intent to provide accurate and well-thought-out information. His upright, controlled posture and moments of focused expression, such as squinting slightly when emphasizing a key phrase, further suggest the self-discipline and goal-oriented nature associated with this trait.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Medium",
+      "score": 0.59,
+      "rationale": "The Medium Neuroticism score is reflected in a combination of overall composure and subtle signs of cognitive load. While he maintains a stable posture and direct eye contact, the presence of filler words ('uh,' 'um') indicates minor breaks in speech fluency. These moments suggest a moderate level of self-consciousness or pressure while trying to articulate his thoughts accurately, which aligns with a mid-range score for this trait.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "Medium",
+      "score": 0.54,
+      "rationale": "A Medium level of Openness is suggested by the subject's engagement in a specialized hobby (aquariums) and his articulate explanation of its abstract principles, such as 'patience' and 'maturity' in an ecosystem. This indicates intellectual curiosity. However, his communication style is more informative and grounded than overtly imaginative, and his overall demeanor is conventional, which supports a mid-range score rather than a high one.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During [2.9s - 5.8s], the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Low Neuroticism, reflecting a calm and emotionally stable disposition."
+        },
+        {
+          "id": "B",
+          "text": "High Agreeableness, indicating a strong tendency for social cooperation."
+        },
+        {
+          "id": "C",
+          "text": "Low Extraversion, characterized by a reserved and reflective demeanor."
+        },
+        {
+          "id": "D",
+          "text": "High Conscientiousness, shown through disciplined and deliberate focus."
+        },
+        {
+          "id": "E",
+          "text": "High Openness, suggested by curiosity and abstract conceptual thinking."
+        },
+        {
+          "id": "F",
+          "text": "Low Agreeableness, demonstrated by a critical or skeptical expression."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "The correct answer is D. During this interval, the person's eyes slightly squint and eyebrows lower as he emphasizes the key phrase 'the real trick is patience'. The personality analysis explicitly links this 'focused expression' to the 'self-discipline and goal-oriented nature' of High Conscientiousness.\n\nOption A is a near-miss distractor. While he is generally calm, this specific action is about deliberate focus, not emotional stability. The evidence for his neuroticism level comes from other cues like filler words.\nOption B is a video-based distractor. His overall informative tone supports Agreeableness, but this specific facial action is not about social warmth but about precise communication, which is a hallmark of Conscientiousness.\nOption C is a video-based distractor. His Low Extraversion is supported by his overall still posture and moderate speech rate throughout the video, not this specific, momentary facial expression.\nOption E is a text-based distractor. The topic of conversation (abstract principles like 'patience' in a hobby) relates to Openness, but the *manner* of expression (the focused squint) is a behavioral cue for Conscientiousness.\nOption F is a near-miss distractor. The expression could be misinterpreted as critical or skeptical (Low Agreeableness), but given the verbal context of explaining a 'trick', it functions as a marker of emphasis, supporting Conscientiousness."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around [5.4s], a region was detected in the video (x=0.384, y=0.275, w=0.116, h=0.088, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The head held in a stable, level position without any visible tilting."
+        },
+        {
+          "id": "B",
+          "text": "An upright and largely motionless posture maintained by the upper torso."
+        },
+        {
+          "id": "C",
+          "text": "A neutral and passive gaze directed forward towards the camera lens."
+        },
+        {
+          "id": "D",
+          "text": "Maintaining a steady and direct line of sight toward the camera."
+        },
+        {
+          "id": "E",
+          "text": "A subtle lowering of the eyebrows to add some minor verbal emphasis."
+        },
+        {
+          "id": "F",
+          "text": "The general upper-body view of the person sitting for the video."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "The correct answer is D. The provided coordinates at 5.4s precisely frame the subject's eyes. At this moment, following his point of emphasis, his expression returns to a conversational neutral, and the observation cue for [5.4s - 12.3s] notes he 'maintains steady eye contact', which is best described as maintaining a steady and direct line of sight.\n\nOption A is a video-based distractor. This describes the head's position, a larger region than the specified bounding box.\nOption B is a video-based distractor. This describes the torso's posture, which is outside the specified bounding box.\nOption C is a near-miss distractor. This describes the eye behavior from a different time segment ([0.0s - 2.9s]), where the gaze is more passive and neutral before the moment of emphasis. The gaze at 5.4s is part of an active, conversational flow.\nOption E is a video-based distractor. This describes the action of the eyebrows, which are in a nearby but separate region from the eye bounding box.\nOption F is a video-based distractor. This describes the overall framing of the shot, which is far too broad for the specific coordinates given."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "The video shows a brief, subtle facial action indicating focused emphasis on a key concept. Which of the following options correctly identifies the location and timing of this specific action?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The entire head region at [0.0s] (x=0.355, y=0.069, w=0.253, h=0.508)."
+        },
+        {
+          "id": "B",
+          "text": "The region of the eyebrows at [1.2s] (x=0.438, y=0.226, w=0.106, h=0.104)."
+        },
+        {
+          "id": "C",
+          "text": "The region of the eyebrows at [2.9s] (x=0.403, y=0.239, w=0.120, h=0.082)."
+        },
+        {
+          "id": "D",
+          "text": "The region around the eyes at [5.3s] (x=0.387, y=0.267, w=0.114, h=0.080)."
+        },
+        {
+          "id": "E",
+          "text": "The region around the eyes at [0.0s] (x=0.401, y=0.248, w=0.133, h=0.082)."
+        },
+        {
+          "id": "F",
+          "text": "The entire upper torso region at [0.0s] (x=0.264, y=0.440, w=0.463, h=0.529)."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "The correct answer is D. The behavior described as 'focused emphasis' corresponds to the observation at 5.3s where his 'eyes slightly squint' while he is saying 'patience'. This option provides the correct timestamp and the precise bounding box for the eyes during that action.\n\nOption A is a video-based distractor. This refers to a subtle head nod at the beginning of the video, which is not an expression of focused emphasis.\nOption B is a video-based distractor. This refers to a slight eyebrow raise early in the video, which is a general conversational cue, not the specific moment of emphasis.\nOption C is a near-miss distractor. This refers to the lowering of the eyebrows, which happens just before and concurrently with the eye squint. However, the squint itself is the more definitive action of focus, and the question asks for the specific action.\nOption E is a video-based distractor. This correctly identifies the eye region but at the wrong time ([0.0s]), when the expression is neutral, not focused.\nOption F is a video-based distractor. This refers to the person's overall posture, which is irrelevant to the specific facial action of emphasis."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator15",
+      "version": 1,
+      "clues_total": 19,
+      "clues_correct": 18,
+      "clues_wrong_corrected": 0,
+      "clues_missing_skipped": 1,
+      "clues_bonus": 0
+    }
+  }
+}

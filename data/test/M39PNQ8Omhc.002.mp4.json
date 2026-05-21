@@ -1,0 +1,407 @@
+{
+  "video_id": "M39PNQ8Omhc.002.mp4",
+  "video_path": "M39PNQ8Omhc.002.mp4",
+  "transcription": "Don't change your macros too quickly. Let's say your goal is to lose weight and you change your macros one day and the next day you're like, \"Why am I not down two pounds?\" You have to trust the process.",
+  "original_scores": {
+    "extraversion": 0.5420560747663552,
+    "agreeableness": 0.5494505494505494,
+    "conscientiousness": 0.5825242718446602,
+    "neuroticism": 0.59375,
+    "openness": 0.5888888888888889
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 9.35,
+      "description": "The subject maintains direct eye contact with the camera, speaking with a neutral to informative expression. Her eyebrows are slightly raised, and her mouth movements follow her speech.",
+      "bboxes": [
+        {
+          "frame_time": 0.326819,
+          "x": 0.43042763157894737,
+          "y": 0.15789473684210525,
+          "w": 0.1569078947368421,
+          "h": 0.10526315789473684,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 1.694836,
+          "x": 0.4452302631578947,
+          "y": 0.11052631578947368,
+          "w": 0.1480263157894737,
+          "h": 0.35526315789473684,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 0.907832,
+          "x": 0.4200657894736842,
+          "y": 0.10263157894736842,
+          "w": 0.18207236842105262,
+          "h": 0.3473684210526316,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 0,
+          "x": 0.4555921052631579,
+          "y": 0.2631578947368421,
+          "w": 0.12138157894736842,
+          "h": 0.16578947368421051,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 9.35,
+      "end_time": 11.43,
+      "description": "To illustrate a point, her eyebrows raise higher, and her eyes widen slightly as she speaks, creating a questioning expression.",
+      "bboxes": [
+        {
+          "frame_time": 11.442264,
+          "x": 0.4200657894736842,
+          "y": 0.13157894736842105,
+          "w": 0.17467105263157895,
+          "h": 0.15263157894736842,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 10.58062,
+          "x": 0.45263157894736844,
+          "y": 0.1736842105263158,
+          "w": 0.13470394736842106,
+          "h": 0.12894736842105264,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 10.689574,
+          "x": 0.42450657894736843,
+          "y": 0.11578947368421053,
+          "w": 0.1805921052631579,
+          "h": 0.3394736842105263,
+          "note": "face human-annotated",
+          "region": "face"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 11.43,
+      "end_time": 15.32,
+      "description": "Her expression softens, returning to a more neutral state as she concludes her thought. Her mouth forms a slight smile at the very end.",
+      "bboxes": [
+        {
+          "frame_time": 12.50547,
+          "x": 0.43486842105263157,
+          "y": 0.12368421052631579,
+          "w": 0.16875,
+          "h": 0.3394736842105263,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 14.962982,
+          "x": 0.4555921052631579,
+          "y": 0.12105263157894737,
+          "w": 0.14654605263157894,
+          "h": 0.2710526315789474,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 2.2,
+      "description": "The subject is sitting, holding a gold-colored smartphone in her right hand and gesturing outward with an open left hand.",
+      "bboxes": [
+        {
+          "frame_time": 0,
+          "x": 0.4363486842105263,
+          "y": 0.7289473684210527,
+          "w": 0.18503289473684212,
+          "h": 0.21052631578947367,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 2.2,
+      "end_time": 5.4,
+      "description": "She lowers her left hand out of frame, keeping her right hand and the phone stationary in the lower center of the frame.",
+      "bboxes": [
+        {
+          "frame_time": 2.2,
+          "x": 0.3268092105263158,
+          "y": 0.7736842105263158,
+          "w": 0.3730263157894737,
+          "h": 0.21578947368421053,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 5.4,
+      "end_time": 12.35,
+      "description": "She brings her left hand up to hold the phone with both hands, making small, subtle gestures with the phone to punctuate her speech.",
+      "bboxes": [
+        {
+          "frame_time": 7.626763,
+          "x": 0.15213815789473684,
+          "y": 0.7684210526315789,
+          "w": 0.225,
+          "h": 0.21052631578947367,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 12.35,
+      "end_time": 14.28,
+      "description": "The subject makes a wider, open-handed gesture with her left hand while continuing to hold the phone in her right.",
+      "bboxes": [
+        {
+          "frame_time": 13.328676,
+          "x": 0.21282894736842103,
+          "y": 0.6421052631578947,
+          "w": 0.2368421052631579,
+          "h": 0.3368421052631579,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 13.328676,
+          "x": 0.6273026315789474,
+          "y": 0.5842105263157895,
+          "w": 0.09029605263157894,
+          "h": 0.4131578947368421,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 9.27,
+      "description": "The subject speaks at a moderate, conversational pace with a relatively even pitch and volume. There is a brief pause at 4.22.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 9.27,
+      "end_time": 11.43,
+      "description": "The subject's pitch rises significantly to mimic a question on the phrase \"Why am I not down two pounds?\" and her volume increases slightly.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 11.43,
+      "end_time": 15.32,
+      "description": "Her speech rate slows, and her pitch returns to its baseline, ending with a downward inflection on the word \"process.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.32,
+      "description": "The subject is a woman with long, dark hair and tan skin, wearing a grey tank top with a visible \"PINK\" logo on the strap. She is in a bedroom setting, sitting on a wooden chair. In the background, there are white closet doors, a bed with a patterned comforter and a sweater on it, a nightstand with a phone, a small framed picture on the wall, and a television mounted in the upper right corner. The lighting appears to be natural and is coming from the front left.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Medium",
+      "score": 0.54,
+      "rationale": "The subject's score indicates a Medium level of Extraversion. She demonstrates social engagement through sustained, direct eye contact and the use of illustrative hand gestures. Her vocal expressiveness, particularly the significant increase in pitch to imitate a question, shows a capacity for social animation. However, these expressive moments are balanced by a generally moderate and controlled conversational pace and a neutral-to-informational baseline expression, which temper the indicators of high extraversion, thus supporting a mid-range assessment.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Medium",
+      "score": 0.55,
+      "rationale": "The subject scores in the Medium range for Agreeableness. Prosocial indicators are present; she offers helpful advice in a direct, clear manner and concludes her thought with a slight, pleasant smile, suggesting a degree of warmth. However, her predominant facial expression is informational and neutral rather than consistently emotive or warm. This more task-focused, instructional style, balanced with a pleasant demeanor, is characteristic of an individual with a medium level of Agreeableness.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Medium",
+      "score": 0.58,
+      "rationale": "A Medium level of Conscientiousness is indicated. The core content of her speech—advising against rapid changes and emphasizing the need to \"trust the process\"—directly reflects key conscientious traits like discipline, planning, and goal-orientation. Her communication is structured and concludes with a definitive downward intonation. While her message is highly indicative of a conscientious mindset, the short duration of the observation provides limited evidence for other facets of the trait, such as orderliness or dutifulness, thus placing her in the medium range.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Medium",
+      "score": 0.59,
+      "rationale": "The subject's score places her in the Medium range for Neuroticism. This is supported by a notable contrast between her delivery and her content. Her demeanor is calm and stable, evidenced by a steady vocal tone, controlled pace, and consistent eye contact, all of which are markers of low neuroticism. Conversely, the subject matter focuses on the impatience and potential anxiety associated with weight loss, and she expressively mimics a moment of frustration. This ability to acknowledge and articulate negative emotional states, while maintaining a composed presentation, points to a moderate, rather than high or low, level of this trait.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "Medium",
+      "score": 0.59,
+      "rationale": "The subject is assessed as having a Medium level of Openness. She demonstrates a degree of creative expression by not just stating a point but enacting it through a rhetorical question with heightened vocal pitch and corresponding facial expressions (raised eyebrows, widened eyes). This shows an inclination towards more imaginative and illustrative communication. However, the topic itself is practical and conventional (diet advice) rather than abstract or novel. This blend of a creative delivery style with a grounded, practical topic supports a medium score for Openness.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Mixed Emotion Discrimination",
+      "question": "During 9.3s - 11.4s, the person's emotional state is best characterized as which of the following? Consider both verbal and non-verbal cues.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Genuine confusion tempered by intellectual curiosity over the problem."
+        },
+        {
+          "id": "B",
+          "text": "Mock frustration mixed with a clear rhetorical emphasis to make a point."
+        },
+        {
+          "id": "C",
+          "text": "Deep-seated anxiety mixed with a vocal pleading for an answer or change."
+        },
+        {
+          "id": "D",
+          "text": "Quiet resolve mixed with slight amusement at the situation she described."
+        },
+        {
+          "id": "E",
+          "text": "Mild irritation blended with a performative questioning of the circumstances."
+        },
+        {
+          "id": "F",
+          "text": "Sudden surprise tempered by a self-aware acknowledgment of the thought."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. In this interval, she raises her vocal pitch, widens her eyes, and raises her eyebrows to enact the question, 'Why am I not down two pounds?'. This is not a genuine emotional display but a performance to illustrate a common impatient mindset. 'Mock frustration' captures the enacted emotion, and 'rhetorical emphasis' describes its communicative purpose.\n\n- Option A is a near-miss distractor. It correctly identifies a questioning state but wrongly assumes it is 'genuine confusion' rather than a deliberate, illustrative performance.\n- Option C is a text-based distractor. The words spoken could imply anxiety or pleading, but her controlled, illustrative demeanor does not support this interpretation; she is calm and in control.\n- Option D is a video-based distractor. This description better fits the end of the video (after 11.4s), where she returns to a calm state and concludes with a slight smile (amusement/resolve).\n- Option E is a near-miss distractor. This is very close, but 'mock frustration' is more specific to the weight-loss context than 'mild irritation,' and 'rhetorical emphasis' is more precise than 'performative questioning.'\n- Option F is a text-based distractor. The expression is not one of 'sudden surprise'; it's a controlled and deliberate shift for illustrative effect."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 1.7s, a region was detected in the video (x=0.445, y=0.111, w=0.148, h=0.355, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A broad and open-handed gesture indicating expansiveness in communication."
+        },
+        {
+          "id": "B",
+          "text": "A calm, neutral, and informational facial expression to deliver direct advice."
+        },
+        {
+          "id": "C",
+          "text": "Subtly widened eyes and raised eyebrows that are used to pose a question."
+        },
+        {
+          "id": "D",
+          "text": "Carefully synchronized lip movements that are for articulating her words."
+        },
+        {
+          "id": "E",
+          "text": "A subtle illustrative hand motion that is timed to emphasize a specific word."
+        },
+        {
+          "id": "F",
+          "text": "A brief, slight smile that appears just at the very end of her statement."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. The provided coordinates at 1.7s frame her entire face. At this moment, she is in the initial phase of her speech, maintaining direct eye contact with a neutral, informational expression, which aligns with the observation log.\n\n- Option A is a video-based distractor. This describes a hand gesture that occurs much later in the video, around 13.3s, and is in a different spatial region (the hands).\n- Option C is a video-based distractor. The widened eyes and raised eyebrows occur during the questioning enactment between 9.3s and 11.4s, not at 1.7s.\n- Option D is a near-miss distractor. While her lips are moving in the specified facial region, the bounding box covers the entire face. The 'neutral and informational' expression is a more holistic and accurate description of the entire region's state than just the lip movement.\n- Option E is a video-based distractor. This describes a hand gesture from a different time (around 7.6s) and a different body region.\n- Option F is a video-based distractor. The slight smile appears at the very end of the video, around 15.0s, not at 1.7s."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "At which time and location does the person's expression shift to one of performative inquiry, used to illustrate a rhetorical point?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[0.9s]  x=0.42, y=0.10, w=0.18, h=0.35"
+        },
+        {
+          "id": "B",
+          "text": "[11.4s]  x=0.42, y=0.13, w=0.17, h=0.15"
+        },
+        {
+          "id": "C",
+          "text": "[0.3s]  x=0.43, y=0.16, w=0.16, h=0.11"
+        },
+        {
+          "id": "D",
+          "text": "[0.0s]  x=0.46, y=0.26, w=0.12, h=0.17"
+        },
+        {
+          "id": "E",
+          "text": "[2.2s]  x=0.33, y=0.77, w=0.37, h=0.22"
+        },
+        {
+          "id": "F",
+          "text": "[0.0s]  x=0.44, y=0.73, w=0.19, h=0.21"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. The behavior described is the enacted questioning expression, which involves raised eyebrows and widened eyes. This occurs between 9.3s and 11.4s. The timestamp 11.4s and the associated bounding box correctly isolate the eyebrow region at the peak of this expressive moment.\n\n- Option A points to the face during the initial neutral expression.\n- Option C points to the eye region during the initial neutral expression.\n- Option D points to the mouth region as she begins speaking.\n- Option E points to her hands resting in her lap at the beginning.\n- Option F points to her hands holding the phones at the very start of the video."
+    },
+    {
+      "category": "Counterfactual Reasoning",
+      "question": "If the person had NOT exhibited the behavior observed around 9.3s - 11.4s, which of the following personality assessments would be MOST affected?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Conscientiousness would be assessed as lower, as this is her most structured and goal-oriented moment."
+        },
+        {
+          "id": "B",
+          "text": "Openness would be assessed as lower because the key evidence for imaginative communication would be absent."
+        },
+        {
+          "id": "C",
+          "text": "Extraversion would be assessed as higher, as the rest of the clip shows a more reserved and quiet demeanor."
+        },
+        {
+          "id": "D",
+          "text": "Openness would be assessed as higher, since removing this moment would leave only practical communication."
+        },
+        {
+          "id": "E",
+          "text": "Agreeableness would be assessed as lower, as the pleasant smile at the end would be the main prosocial cue."
+        },
+        {
+          "id": "F",
+          "text": "Neuroticism would be assessed as higher, because this moment of calm enactment shows strong regulation."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. The behavior between 9.3s and 11.4s is the expressive, illustrative enactment of a rhetorical question. The personality analysis explicitly cites this 'creative expression' as the primary evidence supporting a medium Openness score. Removing this behavior would eliminate the main indicator of an 'imaginative and illustrative communication' style, thus likely leading to a lower assessment of Openness.\n\n- Option A is a video-based distractor. The evidence for Conscientiousness comes primarily from the structured message and the definitive conclusion after 11.4s, not from this expressive moment.\n- Option C is a near-miss distractor. It correctly identifies a trait that might be affected but gets the direction wrong. Removing this animated moment would likely lower, not raise, the Extraversion assessment.\n- Option D is a near-miss distractor. It correctly identifies the trait (Openness) but gets the direction of change wrong. Removing the evidence for creativity would result in a lower, not higher, score.\n- Option E is a video-based distractor. It refers to a real behavior (the smile at the end) supporting Agreeableness, but this is irrelevant to the counterfactual about the 9.3s-11.4s segment.\n- Option F is a text-based distractor. While the logic sounds plausible (removing evidence of regulation might imply higher neuroticism), the analysis links this moment most directly and strongly to Openness, making that assessment the most affected."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator14",
+      "version": 2,
+      "clues_total": 20,
+      "clues_correct": 11,
+      "clues_wrong_corrected": 7,
+      "clues_missing_skipped": 2,
+      "clues_bonus": 0
+    }
+  }
+}

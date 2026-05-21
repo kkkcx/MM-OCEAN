@@ -1,0 +1,524 @@
+{
+  "video_id": "w2FKw8IhbFw.004.mp4",
+  "video_path": "w2FKw8IhbFw.004.mp4",
+  "transcription": "Hello?",
+  "original_scores": {
+    "extraversion": 0.30841121495327106,
+    "agreeableness": 0.2857142857142857,
+    "conscientiousness": 0.33980582524271846,
+    "neuroticism": 0.2708333333333333,
+    "openness": 0.41111111111111115
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 0.74,
+      "description": "The subject's eyes are closed, and his mouth is slightly open.",
+      "bboxes": [
+        {
+          "frame_time": 0.438004,
+          "x": 0.42746913580246915,
+          "y": 0.33904892198015796,
+          "w": 0.1743827160493827,
+          "h": 0.0850480109739369,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 0.171806,
+          "x": 0.45987654320987653,
+          "y": 0.4844535859033404,
+          "w": 0.12654320987654322,
+          "h": 0.0877914951989026,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 0.74,
+      "end_time": 6.06,
+      "description": "He opens his eyes, looking forward with a neutral expression while listening. His mouth remains slightly open. His expression remains neutral as he speaks.",
+      "bboxes": [
+        {
+          "frame_time": 2.389662,
+          "x": 0.44135802469135804,
+          "y": 0.3143575639554666,
+          "w": 0.16049382716049382,
+          "h": 0.10425240054869685,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 3.828825,
+          "x": 0.4382716049382716,
+          "y": 0.25674439523118675,
+          "w": 0.21296296296296297,
+          "h": 0.44170096021947874,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 3.828825,
+          "x": 0.42592592592592593,
+          "y": 0.226566068756564,
+          "w": 0.2021604938271605,
+          "h": 0.4060356652949246,
+          "note": "human-annotated",
+          "region": "unknown"
+        },
+        {
+          "frame_time": 3.828825,
+          "x": 0.47530864197530864,
+          "y": 0.525605849277826,
+          "w": 0.10493827160493827,
+          "h": 0.07407407407407407,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 3.828825,
+          "x": 0.41975308641975306,
+          "y": 0.19364425805697552,
+          "w": 0.25,
+          "h": 0.4609053497942387,
+          "note": "face human-annotated",
+          "region": "face"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 6.06,
+      "end_time": 8.16,
+      "description": "As he speaks with excitement, his eyebrows raise, his eyes widen slightly, and the corners of his mouth lift into a slight smile.",
+      "bboxes": [
+        {
+          "frame_time": 6.812735,
+          "x": 0.47530864197530864,
+          "y": 0.3143575639554666,
+          "w": 0.2191358024691358,
+          "h": 0.40054869684499317,
+          "note": "human-annotated",
+          "region": "unknown"
+        },
+        {
+          "frame_time": 6.577725,
+          "x": 0.46141975308641975,
+          "y": 0.3637402800048493,
+          "w": 0.21604938271604937,
+          "h": 0.11248285322359397,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 7.314037,
+          "x": 0.49074074074074076,
+          "y": 0.34453589043008936,
+          "w": 0.19444444444444445,
+          "h": 0.10699588477366255,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 6.970425,
+          "x": 0.49074074074074076,
+          "y": 0.5667581126523116,
+          "w": 0.16358024691358025,
+          "h": 0.13991769547325103,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 8.16,
+      "end_time": 13.29,
+      "description": "His expression returns to a neutral, attentive state, with relaxed eyebrows as he listens and then speaks again.",
+      "bboxes": [
+        {
+          "frame_time": 11.068155,
+          "x": 0.44135802469135804,
+          "y": 0.22107910030663258,
+          "w": 0.21296296296296297,
+          "h": 0.438957475994513,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 11.068155,
+          "x": 0.42592592592592593,
+          "y": 0.28692272170580957,
+          "w": 0.21450617283950618,
+          "h": 0.10425240054869685,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 13.29,
+      "end_time": 15.5,
+      "description": "After speaking the word \"Um,\" he briefly glances down and to his right, then returns his gaze forward with a thoughtful, neutral expression.",
+      "bboxes": [
+        {
+          "frame_time": 14.33355,
+          "x": 0.4691358024691358,
+          "y": 0.3363054377551923,
+          "w": 0.17592592592592593,
+          "h": 0.0877914951989026,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 15.192581,
+          "x": 0.4660493827160494,
+          "y": 0.24577045833132394,
+          "w": 0.19135802469135801,
+          "h": 0.411522633744856,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 15.5,
+      "description": "The subject is sitting, framed from the chest up, and holds a blue smartphone in his right hand for the duration of the clip.",
+      "bboxes": [
+        {
+          "frame_time": 15.192581,
+          "x": 0.3487654320987654,
+          "y": 0.4817101016783747,
+          "w": 0.5478395061728395,
+          "h": 0.5182898983216253,
+          "note": "human-annotated",
+          "region": "unknown"
+        },
+        {
+          "frame_time": 15.192581,
+          "x": 0.3966049382716049,
+          "y": 0.029035204559033138,
+          "w": 0.3333333333333333,
+          "h": 0.8724279835390947,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 15.192581,
+          "x": 0.35802469135802467,
+          "y": 0.5036579754781003,
+          "w": 0.2623456790123457,
+          "h": 0.4963420245218997,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 3.73,
+      "description": "The subject is sitting, framed from the chest up, and holds a blue smartphone in his right hand for the duration of the clip.",
+      "bboxes": [
+        {
+          "frame_time": 1.595343,
+          "x": 0.36728395061728397,
+          "y": 0.41860996450416343,
+          "w": 0.28858024691358025,
+          "h": 0.49382716049382713,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 3.33795,
+          "x": 0.41358024691358025,
+          "y": 0.46799268055354615,
+          "w": 0.1882716049382716,
+          "h": 0.15089163237311384,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 3.73,
+      "end_time": 15.5,
+      "description": "He lowers the phone slightly so that the bottom of it is directly in front of his mouth, speaking and listening in this position for the remainder of the clip.",
+      "bboxes": [
+        {
+          "frame_time": 4.352561,
+          "x": 0.3333333333333333,
+          "y": 0.5228623650528603,
+          "w": 0.2716049382716049,
+          "h": 0.23045267489711935,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 4.352561,
+          "x": 0.44753086419753085,
+          "y": 0.49542752280320324,
+          "w": 0.15123456790123457,
+          "h": 0.16186556927297668,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 6.785534,
+          "x": 0.29012345679012347,
+          "y": 0.544810238852586,
+          "w": 0.6157407407407407,
+          "h": 0.45518976114741405,
+          "note": "pose human-annotated",
+          "region": "torso"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 0.7,
+      "description": "A phone ringing tone is heard.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0.7,
+      "end_time": 2.8,
+      "description": "A click sound is followed by a male voice with distorted, low-fidelity phone-line quality speaking unintelligibly.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 3.91,
+      "end_time": 4.4,
+      "description": "The subject says \"Hello?\" with a clear voice and a rising intonation.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 6.2,
+      "end_time": 7.6,
+      "description": "The subject says, \"Holy shit, you answered?\" The first two words are spoken at a faster rate and slightly higher pitch. The final word has a rising, questioning intonation.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 10.3,
+      "end_time": 11,
+      "description": "The subject says, \"Can you hear me?\" with a rising intonation.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 11.75,
+      "end_time": 12.5,
+      "description": "A voice with phone-line quality says, \"Yeah, what's up?\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 13.4,
+      "end_time": 13.8,
+      "description": "The subject utters a filled pause, \"Um,\" at a moderate pitch and volume.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.5,
+      "description": "The subject is a young male with brown hair and fair skin, wearing a grey patterned button-down shirt. He is in an indoor room with blue walls. In the background, an electronic keyboard, a wall clock, a framed picture of an American flag, a hanging acoustic guitar, and a wooden door are visible. The lighting is soft and even.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Low",
+      "score": 0.31,
+      "rationale": "The subject's behavior is indicative of low Extraversion. He is observed alone in a private space, and his interaction is mediated by a phone rather than being face-to-face. His predominant facial expression is neutral and reserved, and his body language is contained and static. While there is a brief display of positive affect ([6.1s-8.2s]), it's a reactive moment of surprise that quickly subsides to a calm baseline, rather than a sustained state of high energy. This pattern suggests a preference for lower-stimulation environments and a more reserved social style.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Low",
+      "score": 0.29,
+      "rationale": "The low Agreeableness score is supported by the lack of overt pro-social cues. The subject's default expression is neutral and unsmiling, not projecting warmth or immediate affability. The conversation is purely functional, focused on establishing a connection ('Can you hear me?') without any social pleasantries or small talk. This task-oriented, rather than relationship-oriented, approach in a social context is consistent with a more reserved, and potentially skeptical, interpersonal style characteristic of lower Agreeableness.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Low",
+      "score": 0.34,
+      "rationale": "Evidence for low Conscientiousness is subtle but present. The subject's verbal hesitation, marked by the filler 'Um' ([13.4s-13.8s]) and a brief downward gaze to the side ([13.3s-15.5s]), suggests a degree of unpreparedness or a need to organize his thoughts in the moment. This lack of immediate, structured response points away from the high levels of preparedness and goal-directedness associated with high Conscientiousness. The overall passive context of simply waiting for a call provides no evidence of diligent or organized behavior.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Low",
+      "score": 0.27,
+      "rationale": "The subject displays strong emotional stability, supporting a low Neuroticism score. Despite the potential minor stressor of an unclear phone connection, his demeanor remains calm and composed. His facial expressions are consistently neutral and relaxed, with no signs of tension, anxiety, or frustration (e.g., furrowed brow, tight jaw). His brief emotional reaction is positive and well-regulated. This consistent emotional evenness under uncertainty is a hallmark of low Neuroticism.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "Medium",
+      "score": 0.41,
+      "rationale": "The Medium Openness rating is primarily inferred from environmental cues. The presence of both an electronic keyboard and a guitar in his room indicates an interest and likely engagement in creative and aesthetic pursuits, a core facet of Openness. However, this is balanced by his conventional appearance and straightforward communication style. His brief, pensive glance away from the camera ([13.3s-15.5s]) could suggest an internal, reflective cognitive style, but the overall lack of more expressive or intellectual behaviors keeps the assessment in the medium, rather than high, range.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During 8.2s - 13.3s, the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "High Conscientiousness, indicated by the sustained, unwavering focus on the task."
+        },
+        {
+          "id": "B",
+          "text": "Low Neuroticism, demonstrated by the quick return to a calm and stable demeanor."
+        },
+        {
+          "id": "C",
+          "text": "Low Agreeableness, suggested by the lack of a warm or inviting facial expression."
+        },
+        {
+          "id": "D",
+          "text": "High Neuroticism, shown by the subtle tension present in his focused expression."
+        },
+        {
+          "id": "E",
+          "text": "Low Extraversion, evidenced by the contained posture and lack of energetic output."
+        },
+        {
+          "id": "F",
+          "text": "High Openness, reflected in the contemplative and internally focused appearance."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Option B is correct. This time period immediately follows a brief moment of positive excitement. The person's ability to quickly return to a neutral, calm, and focused state demonstrates high emotional stability, which is a key marker of Low Neuroticism. Option D is a near-miss distractor because it identifies the correct trait (Neuroticism) but gets the direction wrong; his demeanor is calm, not tense. Options C and E are video-based distractors; while his neutral face and contained posture do support Low Agreeableness and Low Extraversion respectively, the most salient behavioral cue in this specific interval is the *return* to baseline, which is about emotional regulation (Neuroticism), not social style. Options A and F are text-based distractors; they sound plausible but misinterpret the visual evidence—his focus is punctuated by later hesitation (contradicting High Conscientiousness) and the expression is more attentive than contemplative (unrelated to Openness)."
+    },
+    {
+      "category": "Mixed Emotion Discrimination",
+      "question": "During 6.1s - 8.2s, the person's emotional state is best characterized as which of the following? Consider both verbal and non-verbal cues.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Surprised relief tempered by an inquisitive pleasure at making contact."
+        },
+        {
+          "id": "B",
+          "text": "Anxious hopefulness mixed with a cautious optimism about the outcome."
+        },
+        {
+          "id": "C",
+          "text": "Confident amusement blended with a sense of calm overall satisfaction."
+        },
+        {
+          "id": "D",
+          "text": "Overwhelming excitement mixed with a strong and unrestrained sense of joy."
+        },
+        {
+          "id": "E",
+          "text": "Wistful nostalgia tempered by a quiet acceptance of the circumstances."
+        },
+        {
+          "id": "F",
+          "text": "Focused concentration blended with a hint of skepticism toward the call."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Option A is correct. The person's eyebrows raise and eyes widen (\"surprise\"), he smiles (\"relief,\" \"pleasure\"), and his vocal tone is questioning (\"inquisitive\"). This combination accurately captures the nuanced emotional state. Option D is a near-miss distractor; it correctly identifies the positive valence but overstates the intensity—the reaction is brief and mild, not \"overwhelming\" or \"unrestrained.\" Option F is a video-based distractor describing his emotional state *after* this moment, not during it. Options B, C, and E are text-based distractors; they represent plausible but incorrect emotional blends for a phone call context, as there is no visual or auditory evidence of anxiety, confident amusement, or nostalgia."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 4.4s, a region was detected in the video (x=0.33, y=0.52, w=0.27, h=0.23, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A brief and subtle upward motion of the eyebrows."
+        },
+        {
+          "id": "B",
+          "text": "A downward adjustment of the object held in hand."
+        },
+        {
+          "id": "C",
+          "text": "A focused and neutral gaze directed straight ahead."
+        },
+        {
+          "id": "D",
+          "text": "The initial opening motion of the person's eyelids."
+        },
+        {
+          "id": "E",
+          "text": "A slight parting of the lips while speaking a word."
+        },
+        {
+          "id": "F",
+          "text": "A slight tensing of the jaw indicating confusion."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Option B is correct. The specified bounding box at 4.4s isolates the person's right hand holding the phone. At this moment, he is lowering the phone slightly from his ear to speak into the microphone, which is accurately described as a downward adjustment. Options A, C, D, and E are all video-based distractors; they describe real actions that occur in the video but in different spatial regions (eyebrows, eyes, lips) or at different times, testing spatial attention. Option F is a near-miss distractor; it describes a plausible action for a phone call (jaw tensing) but is not visually present in the video."
+    },
+    {
+      "category": "Counterfactual Reasoning",
+      "question": "If the person had NOT exhibited the behavior observed around 6.1s - 8.2s, which of the following personality assessments would be MOST affected?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The Low Extraversion score would be less certain, as this is the only evidence of his reserved and solitary social interaction style."
+        },
+        {
+          "id": "B",
+          "text": "The Low Neuroticism assessment would be less supported, as this moment provides the main evidence of his positive and controlled emotional reactivity."
+        },
+        {
+          "id": "C",
+          "text": "The Medium Openness score would be weakened, since this spontaneous and expressive behavior is a key indicator of his aesthetic interests."
+        },
+        {
+          "id": "D",
+          "text": "The Low Conscientiousness score would be less reliable, because this quick, attentive reaction demonstrates a high degree of focused diligence."
+        },
+        {
+          "id": "E",
+          "text": "The Low Agreeableness score would be much stronger, because the clip would then contain no evidence whatsoever of any pro-social warmth."
+        },
+        {
+          "id": "F",
+          "text": "Neuroticism would shift from Low to High, because the absence of this positive moment would strongly suggest a state of suppressed anxiety."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Option B is correct. The personality analysis for Low Neuroticism explicitly cites his \"brief emotional reaction is positive and well-regulated\" as key evidence. Removing this behavior would eliminate the primary data point demonstrating his emotional stability and regulation in response to a stimulus, thus weakening the confidence in the Low Neuroticism assessment. Option A is a near-miss distractor that gets the logic backward; removing the most energetic moment would make the evidence for Low Extraversion *stronger*, not less certain. Option F is another near-miss that correctly identifies the trait (Neuroticism) but makes an unjustifiably strong claim; the absence of this evidence would not be sufficient to shift the score from Low to High. Options C and D are video-based distractors that incorrectly link this emotional behavior to Openness and Conscientiousness. Option E is a text-based distractor; while plausible, the smile is more reactive than pro-social, and the Low Agreeableness score is based more on the overall task-focused nature of the call."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator08",
+      "version": 1,
+      "clues_total": 31,
+      "clues_correct": 28,
+      "clues_wrong_corrected": 3,
+      "clues_missing_skipped": 0,
+      "clues_bonus": 0
+    }
+  }
+}

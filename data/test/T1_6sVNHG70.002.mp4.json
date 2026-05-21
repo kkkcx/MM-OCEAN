@@ -1,0 +1,370 @@
+{
+  "video_id": "T1_6sVNHG70.002.mp4",
+  "video_path": "T1_6sVNHG70.002.mp4",
+  "transcription": "[Necessary Truth 00:00:16] asks more questions. One, \"Why do you have such a high opinion of me?\" I don't. Two, \"You want to become a history professor, right? If so, then how are you going to talk about socialism, communist ... \"",
+  "original_scores": {
+    "extraversion": 0.19626168224299068,
+    "agreeableness": 0.2747252747252747,
+    "conscientiousness": 0.2621359223300971,
+    "neuroticism": 0.19791666666666666,
+    "openness": 0.23333333333333334
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 7.03,
+      "description": "The subject's gaze is directed downward, with his eyelids heavily lidded, almost closed. His brows are neutral, and his mouth moves in coordination with his speech.",
+      "bboxes": [
+        {
+          "frame_time": 0.278639,
+          "x": 0.4689144736842105,
+          "y": 0.33736842306036696,
+          "w": 0.17911184210526315,
+          "h": 0.11315789473684211,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 1.792586,
+          "x": 0.4585526315789474,
+          "y": 0.2900000020077354,
+          "w": 0.17911184210526315,
+          "h": 0.08947368421052632,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 1.792586,
+          "x": 0.4881578947368421,
+          "y": 0.4900000020077354,
+          "w": 0.1125,
+          "h": 0.11315789473684211,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 7.03,
+      "end_time": 8,
+      "description": "The subject briefly lifts his head and opens his eyes slightly, looking forward but not directly into the camera, before looking down again.",
+      "bboxes": [
+        {
+          "frame_time": 8.036503,
+          "x": 0.36973684210526314,
+          "y": 0.0636842125340512,
+          "w": 0.28421052631578947,
+          "h": 0.6815789473684211,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 7.955438,
+          "x": 0.415625,
+          "y": 0.3057894756919459,
+          "w": 0.2205592105263158,
+          "h": 0.12105263157894737,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 8,
+      "end_time": 15.69,
+      "description": "The subject's gaze returns to a downward direction, with his eyelids again mostly closed.",
+      "bboxes": [
+        {
+          "frame_time": 9.593247,
+          "x": 0.5370065789473685,
+          "y": 0.37157894937615643,
+          "w": 0.17023026315789475,
+          "h": 0.11052631578947368,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 15.69,
+      "description": "The subject is sitting, framed from the upper chest up. His head is consistently tilted downward, with only minor, slow movements and nods accompanying his speech. His shoulders remain relaxed and still.",
+      "bboxes": [
+        {
+          "frame_time": 9.593247,
+          "x": 0.2720394736842105,
+          "y": 0.6031578967445775,
+          "w": 0.5476973684210527,
+          "h": 0.2657894736842105,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 9.593247,
+          "x": 0.42894736842105263,
+          "y": 0.0768421072708933,
+          "w": 0.31973684210526315,
+          "h": 0.6973684210526315,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 9.593247,
+          "x": 0.28388157894736843,
+          "y": 0.618947370428788,
+          "w": 0.5151315789473684,
+          "h": 0.22894736842105262,
+          "note": "pose human-annotated",
+          "region": "shoulders"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 1.77,
+      "end_time": 7.07,
+      "description": "Speech is delivered at a slow and deliberate pace. The pitch is low and relatively monotonous. The volume is soft.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 7.8,
+      "end_time": 8.3,
+      "description": "The phrase \"I don't\" is spoken very softly and with a low, flat pitch.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 9.47,
+      "end_time": 15.69,
+      "description": "The speech continues at a slow pace with a low, soft, and consistent vocal tone.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.69,
+      "description": "The subject is a young adult male with light skin, reddish-brown hair, and a full beard. He is wearing a dark t-shirt. The setting is an indoor room with light-colored walls. To the subject's left is a window with horizontal blinds. To his right, a bed with a white cover is visible, and on the wall behind him are a poster of a football player with the number 15, a white piece of paper, and another sign with red writing and an arrow. The lighting is soft and appears to originate from the front.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Low",
+      "score": 0.2,
+      "rationale": "The subject's behavior aligns with a Low Extraversion score. Key indicators include his vocal qualities—a consistently soft volume, slow pace, and low, monotone pitch, which are characteristic of introversion rather than the energetic, varied speech of an extravert. Visually, his posture is withdrawn, with his head tilted down and his gaze averted for most of the clip. This avoidance of direct engagement, combined with a general lack of physical animation such as gestures or expressive movement, points to low social energy and a preference for internal focus.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Low",
+      "score": 0.27,
+      "rationale": "The Low Agreeableness rating is primarily supported by the subject's communication style. His response, \"I don't,\" to a personal question is blunt and direct, prioritizing factual candor over social pleasantries or cushioning the impact on the questioner. The statement is delivered with a flat, unemotional affect. This straightforward, almost curt, interaction style is characteristic of individuals who are less focused on maintaining social harmony and more inclined towards unembellished honesty.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Low",
+      "score": 0.26,
+      "rationale": "The subject's overall demeanor supports a Low Conscientiousness score. While his speech is deliberate, it appears to stem from low energy rather than careful, structured thought. His posture is consistently relaxed, with still shoulders and a downward-tilted head, suggesting a passive and unstructured state rather than the purposeful, goal-oriented disposition of a highly conscientious individual. The lack of physical vigor or organized presentation aligns with a lower level of discipline and drive.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Low",
+      "score": 0.2,
+      "rationale": "A Low Neuroticism score is indicated by the subject's consistent emotional stability. Throughout the video, he displays a calm and composed demeanor. His vocal delivery is steady and even, free from any signs of anxiety like trembling or stammering. Physically, his relaxed shoulders and neutral eyebrows show an absence of tension. Even when delivering a potentially confrontational line, his affect remains flat and unperturbed, demonstrating a high degree of emotional resilience and a lack of negative emotionality.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "Low",
+      "score": 0.23,
+      "rationale": "The Low Openness score is reflected in the subject's disengaged and affectively constrained presentation. Although the subject matter is intellectual, his delivery lacks the curiosity and expressive engagement typical of individuals high in Openness. His monotone voice, neutral expression, and downcast eyes suggest a detached, matter-of-fact approach rather than an imaginative or enthusiastic exploration of ideas. This contained, unembellished style points towards a more conventional and less outwardly curious cognitive style.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their assessed Low Agreeableness?",
+      "options": [
+        {
+          "id": "A",
+          "text": "1.8s - 3.5s"
+        },
+        {
+          "id": "B",
+          "text": "9.5s - 11.2s"
+        },
+        {
+          "id": "C",
+          "text": "0.0s - 1.7s"
+        },
+        {
+          "id": "D",
+          "text": "4.0s - 5.8s"
+        },
+        {
+          "id": "E",
+          "text": "8.1s - 9.8s"
+        },
+        {
+          "id": "F",
+          "text": "7.0s - 8.0s"
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The correct answer is F. In the interval 7.0s - 8.0s, the person breaks his consistent downcast gaze, briefly lifts his head, and looks directly at the camera to deliver the blunt response 'I don't.' This is the most significant behavioral shift in the video and is directly tied to the Low Agreeableness trait assessment.\n- Option A is a video-based distractor. The person is speaking during this time, but there is no notable change in expression, just continued speech with a downcast gaze.\n- Option B is a video-based distractor. This is another period of monotonous speech with no significant expressive change.\n- Option C is a video-based distractor. This marks the beginning of the clip where his withdrawn state is established, but it is not a moment of *change*.\n- Option D is a video-based distractor. This is another segment of his initial monologue where his expression remains consistently disengaged and downcast.\n- Option E is a near-miss distractor. This interval immediately follows the key event, capturing the moment he looks back down. While this is a change, the more salient action is the preceding upward glance and direct statement."
+    },
+    {
+      "category": "Mixed Emotion Discrimination",
+      "question": "During 0.0s - 7.0s, the person's emotional state is best characterized as which of the following? Consider both verbal and non-verbal cues.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Subtle skepticism mixed with passive acceptance of the premise."
+        },
+        {
+          "id": "B",
+          "text": "Deep concentration tempered by a sense of careful reflection."
+        },
+        {
+          "id": "C",
+          "text": "Nervous apprehension mixed with determined intellectual focus."
+        },
+        {
+          "id": "D",
+          "text": "Mild annoyance tempered by a desire to maintain politeness."
+        },
+        {
+          "id": "E",
+          "text": "Resigned frustration mixed with a feeling of general malaise."
+        },
+        {
+          "id": "F",
+          "text": "Detached indifference tempered by a feeling of low-key weariness."
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The correct answer is F. During this period, the person's downcast eyes, neutral expression, and low, monotone vocal delivery strongly suggest a lack of emotional engagement (indifference). The slow pace and overall low energy contribute to a sense of weariness, fitting the Low Extraversion and Low Conscientiousness scores.\n- Option A is a text-based distractor. While his tone might be interpreted as skeptical, 'passive acceptance' is not supported, and the overall state is more about disengagement than skepticism.\n- Option B is a near-miss distractor. His downcast eyes and slow speech could be mistaken for concentration, but the lack of any tension or focused expression points more towards detachment than deep thought.\n- Option C is a text-based distractor. The topic might suggest 'intellectual focus,' but his demeanor shows no signs of nervousness or apprehension, which is contradicted by his Low Neuroticism score.\n- Option D is a text-based distractor. Annoyance is a stronger emotion than what is displayed; his affect is flat. The idea of 'politeness' is contradicted by his assessed Low Agreeableness.\n- Option E is a text-based distractor. 'Frustration' is too active and negative of an emotion for his calm, stable presentation."
+    },
+    {
+      "category": "Temporal-Causal Reasoning",
+      "question": "Consider the sequence of behaviors observed across the video. Which of the following best describes the causal chain linking the person's actions at different moments?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A moment of direct assertion (7-8s) leads to a state of self-conscious withdrawal (8-15s) that differs from an initially engaged state (0-7s)."
+        },
+        {
+          "id": "B",
+          "text": "An attempt at emotional regulation (0-7s) fails, causing an unplanned emotional outburst (7-8s), requiring a calm recovery period (8-15s)."
+        },
+        {
+          "id": "C",
+          "text": "An initial display of social anxiety (0-7s) builds to a peak during direct confrontation (7-8s), then resolves into a state of resignation (8-15s)."
+        },
+        {
+          "id": "D",
+          "text": "A period of intellectual processing (0-7s) culminates in a formulated counter-argument (7-8s), followed by listening for a response (8-15s)."
+        },
+        {
+          "id": "E",
+          "text": "A state of deep thought (0-7s) is concluded by a confident declaration (7-8s), which is then followed by a new phase of quiet contemplation (8-15s)."
+        },
+        {
+          "id": "F",
+          "text": "A baseline introverted state (0-7s) is briefly interrupted for a required direct assertion (7-8s), followed by a rapid return to that withdrawn state (8-15s)."
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The correct answer is F. This option accurately maps the video's abstract structure: 1) A baseline of withdrawn, low-energy behavior (introverted state) is established. 2) This state is momentarily broken by an external prompt that requires a direct answer (assertion). 3) The person immediately reverts to the baseline withdrawn state after the assertion is made.\n- Option A has a reversed temporal order and incorrect causality. The initial state is withdrawn, not engaged, and the final state is a return to baseline, not a new state of self-consciousness.\n- Option B uses incorrect causality. The video shows no evidence of a failed emotional regulation attempt or an 'outburst'; the person's affect is consistently flat and calm.\n- Option C is a text-based distractor. The personality analysis indicates Low Neuroticism, contradicting the idea of 'social anxiety'.\n- Option D is a text-based distractor. It misinterprets the person's actions. He continues speaking after the 8s mark, he is not 'listening for a response'.\n- Option E is a near-miss distractor. It correctly identifies the sequence of events but mislabels the behaviors. 'Deep thought' and 'confident declaration' imply more active engagement and internal processing than is suggested by the visual evidence, which points more to disengagement and reaction."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 8.0s, a region was detected in the video (x=0.370, y=0.064, w=0.284, h=0.682, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The shoulders remaining in a relaxed and perfectly static posture."
+        },
+        {
+          "id": "B",
+          "text": "A subtle glance forward without making any direct camera contact."
+        },
+        {
+          "id": "C",
+          "text": "The mouth region moving in precise coordination with verbal speech."
+        },
+        {
+          "id": "D",
+          "text": "A sustained downward gaze with heavy, almost completely closed eyelids."
+        },
+        {
+          "id": "E",
+          "text": "A neutral and still eyebrow position showing a lack of emotion."
+        },
+        {
+          "id": "F",
+          "text": "A momentary upward tilt of the head to briefly face the camera."
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The correct answer is F. The provided bounding box covers the entire head region at 8.0s. At this exact moment, the most prominent action is that the subject, after looking down, briefly lifts his head to look directly at the camera.\n- Option A is a video-based distractor. The shoulders are indeed relaxed and static, but the bounding box specifies the head region, not the shoulders.\n- Option B is a near-miss distractor. It correctly identifies a forward glance, but incorrectly states he avoids direct contact. The verified observation notes he looks 'directly toward the camera,' making this subtly wrong.\n- Option C is a video-based distractor. The mouth is moving, but this is a secondary action within the larger, more significant movement of the entire head tilting up.\n- Option D is a video-based distractor. This describes his posture *before and after* the 8.0s mark, but not during it. It is temporally incorrect for the specified timestamp.\n- Option E is a video-based distractor. The eyebrows are neutral, but this is a static feature, whereas the head movement is the most salient *action* within the specified region and time."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "Which option correctly identifies the time and location of the subject's initial, sustained downcast gaze?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Timestamp: 9.6s, Bbox: (x=0.272, y=0.603, w=0.548, h=0.266)"
+        },
+        {
+          "id": "B",
+          "text": "Timestamp: 8.0s, Bbox: (x=0.416, y=0.306, w=0.221, h=0.121)"
+        },
+        {
+          "id": "C",
+          "text": "Timestamp: 1.8s, Bbox: (x=0.488, y=0.490, w=0.113, h=0.113)"
+        },
+        {
+          "id": "D",
+          "text": "Timestamp: 12.5s, Bbox: (x=0.750, y=0.500, w=0.150, h=0.150)"
+        },
+        {
+          "id": "E",
+          "text": "Timestamp: 0.3s, Bbox: (x=0.469, y=0.237, w=0.179, h=0.113)"
+        },
+        {
+          "id": "F",
+          "text": "Timestamp: 0.3s, Bbox: (x=0.469, y=0.337, w=0.179, h=0.113)"
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The correct answer is F. This option provides the correct timestamp (0.3s, within the initial phase) and the precise bounding box that isolates the eyes, which are exhibiting the downcast gaze described in the observation log [0.0s - 7.0s].\n- Option A is a video-based distractor. This bbox corresponds to the hands/torso region, not the gaze.\n- Option B is a video-based distractor. This timestamp and bbox correspond to the moment he looks *up* at the camera, the opposite of the behavior described.\n- Option C is a video-based distractor. This is from the correct time period but isolates the mouth, not the eyes.\n- Option D is a text-based distractor. This timestamp and bbox point to an empty area near the poster on the wall where no relevant action occurs.\n- Option E is a near-miss distractor. It has the correct timestamp and width/height, but the y-coordinate is shifted upwards, framing the forehead instead of the eyes, making it spatially inaccurate."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator03",
+      "version": 2,
+      "clues_total": 14,
+      "clues_correct": 12,
+      "clues_wrong_corrected": 1,
+      "clues_missing_skipped": 1,
+      "clues_bonus": 0
+    }
+  }
+}

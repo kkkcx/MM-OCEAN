@@ -1,0 +1,505 @@
+{
+  "video_id": "1mReUxIEuw0.004.mp4",
+  "video_path": "1mReUxIEuw0.004.mp4",
+  "transcription": "I already did the plan to show you guys my makeover team, but as I said before, my camera already died while I was filming, so, need to get that worked on.",
+  "original_scores": {
+    "extraversion": 0.4392523364485981,
+    "agreeableness": 0.4175824175824176,
+    "conscientiousness": 0.3786407766990291,
+    "neuroticism": 0.34374999999999994,
+    "openness": 0.5111111111111111
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 1.5,
+      "description": "The subject's eyes are partially closed as she looks down, with her lips pursed around a straw.",
+      "bboxes": [
+        {
+          "frame_time": 1.518763,
+          "x": 0.11957236842105262,
+          "y": 0.32157894937615644,
+          "w": 0.4100328947368421,
+          "h": 0.16578947368421051,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 1.555845,
+          "x": 0.048519736842105254,
+          "y": 0.14263158095510384,
+          "w": 0.5166118421052631,
+          "h": 0.7736842105263158,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 1.5,
+      "end_time": 8.97,
+      "description": "Her eyes are open, and she looks directly at the camera. Her eyebrows are in a neutral position, raising slightly as she speaks. Her mouth moves naturally with her speech.",
+      "bboxes": [
+        {
+          "frame_time": 4.111301,
+          "x": 0.20394736842105263,
+          "y": 0.14526315990247224,
+          "w": 0.4766447368421053,
+          "h": 0.3684210526315789,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 4.111301,
+          "x": 0.19210526315789472,
+          "y": 0.0900000020077354,
+          "w": 0.4100328947368421,
+          "h": 0.2026315789473684,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 4.111301,
+          "x": 0.28832236842105263,
+          "y": 0.5557894756919459,
+          "w": 0.2575657894736842,
+          "h": 0.27631578947368424,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 8.97,
+      "end_time": 10.74,
+      "description": "Her lips purse tightly, and she looks to her right (viewer's left). Her eyebrows lower slightly.",
+      "bboxes": [
+        {
+          "frame_time": 10.710377,
+          "x": 0.26611842105263156,
+          "y": 0.44789473884984066,
+          "w": 0.3848684210526316,
+          "h": 0.2789473684210526,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 10.618046,
+          "x": 0.2646381578947368,
+          "y": 0.07947368621826172,
+          "w": 0.3848684210526316,
+          "h": 0.12894736842105264,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 10.74,
+      "end_time": 15.2,
+      "description": "She looks back towards the camera. Her mouth is slightly open, and her eyes narrow slightly at the end of the clip.",
+      "bboxes": [
+        {
+          "frame_time": 11.515007,
+          "x": 0.23651315789473684,
+          "y": 0.16894737042878805,
+          "w": 0.500328947368421,
+          "h": 0.3,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 12.149662,
+          "x": 0.30608552631578945,
+          "y": 0.5978947388498407,
+          "w": 0.2087171052631579,
+          "h": 0.2,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 15.2,
+          "x": 0.23799342105263158,
+          "y": 0.16631579148141962,
+          "w": 0.42779605263157894,
+          "h": 0.43157894736842106,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 1.9,
+      "description": "The subject is holding a green straw to her lips and then lowers it, with only her head and shoulders visible in the frame.",
+      "bboxes": [
+        {
+          "frame_time": 0.245836,
+          "x": 0.2542763157894737,
+          "y": 0.4821052651656301,
+          "w": 0.24720394736842105,
+          "h": 0.3078947368421053,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 0.723771,
+          "x": 0.3786184210526316,
+          "y": 0.7557894756919459,
+          "w": 0.22203947368421054,
+          "h": 0.23684210526315788,
+          "note": "human-annotated",
+          "region": "unknown"
+        },
+        {
+          "frame_time": 1.241956,
+          "x": 0.061842105263157886,
+          "y": 0.00842105463931435,
+          "w": 0.5580592105263158,
+          "h": 0.8894736842105263,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 1.9,
+      "end_time": 8.97,
+      "description": "Her head moves slightly forward and back in a natural motion as she talks.",
+      "bboxes": [
+        {
+          "frame_time": 3.615149,
+          "x": 0.07368421052631578,
+          "y": 0.07157894937615646,
+          "w": 0.5773026315789473,
+          "h": 0.7921052631578948,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 8.97,
+      "end_time": 10.74,
+      "description": "She turns her head slightly to her right.",
+      "bboxes": [
+        {
+          "frame_time": 10.496191,
+          "x": 0.07220394736842105,
+          "y": 0.08210526516563015,
+          "w": 0.5935855263157895,
+          "h": 0.7473684210526316,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 10.74,
+      "end_time": 13.57,
+      "description": "She turns her head back to face forward.",
+      "bboxes": [
+        {
+          "frame_time": 11.608449,
+          "x": 0.18618421052631579,
+          "y": 0.08473684411299856,
+          "w": 0.48404605263157896,
+          "h": 0.6921052631578948,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 13.57,
+      "end_time": 14.81,
+      "description": "She raises her right hand and taps the tip of her nose once with her index finger.",
+      "bboxes": [
+        {
+          "frame_time": 13.714191,
+          "x": 0.6894736842105263,
+          "y": 0.0900000020077354,
+          "w": 0.2723684210526316,
+          "h": 0.7526315789473684,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 14.802898,
+          "x": 0.38898026315789475,
+          "y": 0.437368423060367,
+          "w": 0.4662828947368421,
+          "h": 0.5421052631578948,
+          "note": "human-annotated",
+          "region": "nose"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 1.4,
+      "description": "A soft, low-pitched vocalization is heard after a sipping sound.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 2.44,
+      "end_time": 8.97,
+      "description": "The subject speaks at a moderate pace with a conversational, slightly falling intonation at the end of clauses. There is a slight increase in pitch and stress on the word \"died.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 9.28,
+      "end_time": 10,
+      "description": "She says an elongated \"so\" with a falling pitch, followed by a pause of approximately 1.5 seconds.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 11.59,
+      "end_time": 13.57,
+      "description": "Her speech continues at a moderate pace and volume.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 14.18,
+      "end_time": 15.2,
+      "description": "A soft, breathy vocalization is heard as the clip ends.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.2,
+      "description": "The subject is a female with long, dark hair, dark eyes, and light-to-medium skin tone. She is wearing rectangular-framed glasses. The setting is indoors, in a room with a white wall. A large, dark-framed picture of a green forest hangs on the wall behind her. The lighting is bright and even.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Medium",
+      "score": 0.44,
+      "rationale": "The subject's Extraversion is rated as Medium. While the act of filming a video for an audience ('you guys') and maintaining direct eye contact with the camera suggests social engagement, this is counterbalanced by a moderate vocal pace and volume, and a soft, low-pitched voice at times. This combination of outward-facing behavior with a more reserved delivery supports a mid-range score, indicating someone comfortable with social expression but not overly energetic or assertive.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Medium",
+      "score": 0.42,
+      "rationale": "The subject's Agreeableness is rated as Medium. She explains a problem to her audience in a cooperative and non-confrontational manner. However, the fleeting expression of pressing her lips tightly and averting her gaze ([9.0s-10.7s]) suggests a brief, controlled moment of frustration. This balance between a generally pleasant demeanor and a minor, contained negative reaction to a setback is characteristic of a medium Agreeableness level.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Low",
+      "score": 0.38,
+      "rationale": "The subject's Conscientiousness is rated as Low. The central theme of her communication is explaining a failure to complete a planned task due to equipment failure. The statement 'need to get that worked on' is a passive acknowledgment rather than a proactive plan. This reactive approach to a problem, combined with the disorganized pause after the drawn-out 'so', points towards lower levels of planning and preparedness.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Low",
+      "score": 0.34,
+      "rationale": "The subject's Neuroticism is rated as Low, indicating high emotional stability. Despite experiencing a frustrating setback (a dead camera), she recounts the event with a calm tone and a moderate speech pace. The brief non-verbal signs of frustration (tightly pressed lips) are minimal and quickly regulated. Her ability to discuss a problem without significant anxiety or negative emotional display is a strong indicator of low Neuroticism.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "Medium",
+      "score": 0.51,
+      "rationale": "The subject's Openness is rated as Medium. The intention to create a 'makeover team' video and the presence of a large art piece in her background suggest an appreciation for aesthetics and creative expression. However, her verbal delivery is very direct and factual, focusing on the practical problem at hand rather than abstract ideas. This blend of creative interests with a concrete communication style aligns with a medium level of Openness.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During 9.0s - 10.7s, the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Low Conscientiousness, since the behavior signals a lack of organization."
+        },
+        {
+          "id": "B",
+          "text": "Medium Agreeableness, as the behavior shows a controlled reaction to a problem."
+        },
+        {
+          "id": "C",
+          "text": "High Extraversion, as the behavior indicates a strong focus on social poise."
+        },
+        {
+          "id": "D",
+          "text": "Low Agreeableness, because the behavior is a clear sign of social friction."
+        },
+        {
+          "id": "E",
+          "text": "High Neuroticism, since the visible action suggests a high level of anxiety."
+        },
+        {
+          "id": "F",
+          "text": "Medium Openness, because the action points to an unconventional expression."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The behavior at 9.0s-10.7s consists of pressing her lips tightly and averting her gaze. The personality analysis explicitly cites this as a 'brief, controlled moment of frustration' that balances her otherwise pleasant demeanor, leading to a Medium Agreeableness score.\n\n- Option A is a video-based distractor: Low Conscientiousness is supported by her overall story of the camera dying, but not by the specific facial expression at this moment.\n- Option B is the correct answer.\n- Option C is a text-based distractor: Behaviors in a video might be generally associated with Extraversion, but this specific behavior (gaze aversion, tight lips) is contrary to high social energy.\n- Option D is a near-miss distractor: This correctly identifies the trait (Agreeableness) and the negative valence of the expression, but it misinterprets the intensity. The analysis highlights the *controlled* and *brief* nature of the frustration, which points to a medium, not low, score.\n- Option E is a near-miss distractor: The expression could be misinterpreted as anxiety (Neuroticism), but the analysis notes her overall calm tone, framing this as controlled frustration (Agreeableness) rather than a sign of emotional instability.\n- Option F is a text-based distractor: There is no evidence in this specific action to support any conclusion about Openness."
+    },
+    {
+      "category": "Mixed Emotion Discrimination",
+      "question": "During 9.0s - 10.7s, the person's emotional state is best characterized as which of the following? Consider both verbal and non-verbal cues.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Deep disappointment tempered by verbal resignation."
+        },
+        {
+          "id": "B",
+          "text": "Controlled frustration mixed with reflective pause."
+        },
+        {
+          "id": "C",
+          "text": "Social awkwardness blended with a hint of shame."
+        },
+        {
+          "id": "D",
+          "text": "Passive acceptance blended with an aura of fatigue."
+        },
+        {
+          "id": "E",
+          "text": "Anxious uncertainty mixed with hesitant planning."
+        },
+        {
+          "id": "F",
+          "text": "Slight annoyance combined with direct confusion."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "In this interval, the person says a drawn-out 'so...', pauses, presses her lips tightly, raises her eyebrows, and looks away. This combination signifies managed frustration (lip press) combined with thinking or pausing for thought (the drawn-out word and gaze shift).\n\n- Option A is a near-miss distractor: 'Disappointment' is plausible, but 'deep' may overstate the emotion. More importantly, 'reflective pause' better describes the non-verbal state than 'verbal resignation', which happens later.\n- Option B is the correct answer.\n- Option C is a text-based distractor: Averting the gaze can be a sign of awkwardness or shame, but in the context of recounting a technical failure, frustration is the more direct and fitting interpretation.\n- Option D is a video-based distractor: This might describe her overall low-energy demeanor in other parts of the video, but it fails to capture the more active, tense expression in this specific moment.\n- Option E is a text-based distractor: The transcript mentions a problem, which could suggest uncertainty, but the non-verbal cues (firm lip press) are not hesitant or anxious; they are controlled and definitive.\n- Option F is a near-miss distractor: 'Slight annoyance' is close to 'controlled frustration'. However, her expression is not one of confusion; the raised eyebrows and lip press are more indicative of exasperation."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 4.1s, a region was detected in the video (x=0.192, y=0.090, w=0.410, h=0.203, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Parted lips while pausing between her words."
+        },
+        {
+          "id": "B",
+          "text": "Subtly raised eyebrows during her speech."
+        },
+        {
+          "id": "C",
+          "text": "Averted eyes slowly returning to the camera."
+        },
+        {
+          "id": "D",
+          "text": "Slightly lowered eyebrows in deep thought."
+        },
+        {
+          "id": "E",
+          "text": "A raised right hand moving toward her face."
+        },
+        {
+          "id": "F",
+          "text": "A neutral head-and-shoulders posture."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The provided bounding box at 4.1s (x=0.192, y=0.090, w=0.410, h=0.203) specifically isolates the person's eyebrows. The observation log for this time period states, 'Her eyebrows are in a neutral position, raising slightly as she speaks.'\n\n- Option A is a video-based distractor: This describes the mouth region, not the eyebrow region indicated by the coordinates.\n- Option B is the correct answer.\n- Option C is a video-based distractor: This describes the eyes, which are below the specified bounding box, and this action occurs at a different time (after 10.7s).\n- Option D is a near-miss distractor: This correctly identifies the body part (eyebrows) but describes the opposite motion (lowered instead of raised), which is a common AI error pattern.\n- Option E is a video-based distractor: This describes a hand gesture that occurs at a different time (around 13.7s) and in a different spatial location.\n- Option F is a text-based distractor: This describes the overall framing of the shot, not the specific action occurring within the small bounding box on her face."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "At which time and location does the subject display a baseline expression of direct, neutral engagement while speaking to the audience?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[4.1s] x=0.29, y=0.56, w=0.26, h=0.28"
+        },
+        {
+          "id": "B",
+          "text": "[10.6s] x=0.26, y=0.08, w=0.38, h=0.13"
+        },
+        {
+          "id": "C",
+          "text": "[13.7s] x=0.69, y=0.09, w=0.27, h=0.75"
+        },
+        {
+          "id": "D",
+          "text": "[11.5s] x=0.24, y=0.17, w=0.50, h=0.30"
+        },
+        {
+          "id": "E",
+          "text": "[0.2s] x=0.25, y=0.48, w=0.25, h=0.31"
+        },
+        {
+          "id": "F",
+          "text": "[11.6s] x=0.19, y=0.08, w=0.48, h=0.69"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The question asks for the time and location of the 'baseline expression of direct, neutral engagement while speaking'. This corresponds to the long segment from 1.5s to 9.0s where she looks at the camera and speaks calmly. The coordinates in option A at 4.1s point directly to her mouth as it moves naturally during speech, which is a key part of this baseline expression.\n\n- Option A is the correct answer.\n- Option B is a video-based distractor: This time and location correspond to her raised eyebrows during the moment of frustration, which is not a neutral expression.\n- Option C is a video-based distractor: This time and location correspond to her hand being raised, which is a gesture, not the baseline facial expression.\n- Option D is a near-miss distractor: This time and location show her eyes returning to the camera after the moment of frustration. While it shows engagement, it's part of a recovery phase, not the initial baseline expression.\n- Option E is a video-based distractor: This time and location show her mouth near the straw at the very beginning of the video, before she begins speaking directly to the audience.\n- Option F is a video-based distractor: This time and location show her entire head as she turns back to the front, which is a larger motion rather than a specific facial expression."
+    },
+    {
+      "category": "Counterfactual Reasoning",
+      "question": "If the person had NOT exhibited the behavior observed around 9.0s - 10.7s, which of the following personality assessments would be MOST affected?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Extraversion would shift from Medium to High, as the primary evidence for introverted reservation would have been removed from the video."
+        },
+        {
+          "id": "B",
+          "text": "Agreeableness score would likely increase, as the main evidence for controlled frustration would be absent from the interaction."
+        },
+        {
+          "id": "C",
+          "text": "Conscientiousness would appear higher, since the non-verbal display of disorganization would no longer be present in the clip."
+        },
+        {
+          "id": "D",
+          "text": "Agreeableness score would likely decrease, because the key evidence for her cooperative spirit would no longer be available."
+        },
+        {
+          "id": "E",
+          "text": "Neuroticism would be rated much higher, because this moment is the main indicator of her high degree of emotional self-regulation."
+        },
+        {
+          "id": "F",
+          "text": "Openness would appear to be lower, as this specific behavior is the primary signal of her creative and aesthetic leanings."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The behavior at 9.0s-10.7s is the brief, controlled expression of frustration (tightly pressed lips, averted gaze). The personality analysis for Agreeableness hinges on this specific moment, stating it 'suggests a brief, controlled moment of frustration' which balances her otherwise cooperative tone, resulting in a Medium score. Removing this negative signal would remove the primary evidence *against* a higher Agreeableness score, thus likely increasing it.\n\n- Option A is a text-based distractor: Extraversion is assessed based on her overall delivery and direct address to the camera, not this fleeting moment of gaze aversion.\n- Option B is the correct answer.\n- Option C is a video-based distractor: The assessment of Low Conscientiousness is based on her verbal report of equipment failure and a vague plan, not this specific non-verbal expression.\n- Option D is a near-miss distractor: It correctly identifies the trait (Agreeableness) but proposes the wrong direction of change and gives the wrong reason. This behavior is evidence of frustration, not cooperation.\n- Option E is a near-miss distractor: This is a subtle error. The moment does show emotional regulation (relevant to Neuroticism), but its impact on the Agreeableness score is more direct and central to the analysis. The Low Neuroticism score is also supported by her overall calm tone, not just this one moment.\n- Option F is a text-based distractor: This behavior has no connection to the assessment of Openness, which is based on the mention of a 'makeover team' and the art in the background."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator09",
+      "version": 1,
+      "clues_total": 24,
+      "clues_correct": 17,
+      "clues_wrong_corrected": 7,
+      "clues_missing_skipped": 0,
+      "clues_bonus": 0
+    }
+  }
+}

@@ -1,0 +1,460 @@
+{
+  "video_id": "4kIHxR6s1L4.003.mp4",
+  "video_path": "4kIHxR6s1L4.003.mp4",
+  "transcription": "Find someone who you can give it to. Someone you can trust. Someone you can ask musical questions, that will be able to give you advice and help you. It doesn't have to be somebody that makes the kid of music you make. For instance, my mentor is more of a ...",
+  "original_scores": {
+    "extraversion": 0.6355140186915887,
+    "agreeableness": 0.6703296703296703,
+    "conscientiousness": 0.6116504854368932,
+    "neuroticism": 0.6770833333333334,
+    "openness": 0.6444444444444444
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 0.28,
+      "description": "Eyes are closed, with slight tension around the eye area. Mouth is slightly open.",
+      "bboxes": [
+        {
+          "frame_time": 0.152558,
+          "x": 0.28980263157894737,
+          "y": 0.35789473684210527,
+          "w": 0.20723684210526316,
+          "h": 0.09736842105263158,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 0.152558,
+          "x": 0.35789473684210527,
+          "y": 0.5526315789473685,
+          "w": 0.1361842105263158,
+          "h": 0.11842105263157894,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 0.28,
+      "end_time": 5.76,
+      "description": "Eyes are closed, with slight tension around the eye area. Mouth is slightly open.",
+      "bboxes": [
+        {
+          "frame_time": 1.52323,
+          "x": 0.32532894736842105,
+          "y": 0.3,
+          "w": 0.2131578947368421,
+          "h": 0.12368421052631579,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 1.52323,
+          "x": 0.3134868421052632,
+          "y": 0.2236842105263158,
+          "w": 0.2205592105263158,
+          "h": 0.11578947368421053,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 5.396937,
+          "x": 0.33865131578947366,
+          "y": 0.47368421052631576,
+          "w": 0.11842105263157895,
+          "h": 0.17105263157894737,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 5.76,
+      "end_time": 13.56,
+      "description": "The smile fades, and the expression becomes more neutral and earnest. Gaze remains direct. Eyebrows move up and down in sync with speech emphasis, particularly on the words \"advice\" and \"help you\".",
+      "bboxes": [
+        {
+          "frame_time": 6.414491,
+          "x": 0.3549342105263158,
+          "y": 0.4421052631578947,
+          "w": 0.13766447368421053,
+          "h": 0.19473684210526315,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 7.870022,
+          "x": 0.303125,
+          "y": 0.1763157894736842,
+          "w": 0.2042763157894737,
+          "h": 0.4631578947368421,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 7.870022,
+          "x": 0.3179276315789474,
+          "y": 0.31842105263157894,
+          "w": 0.1879934210526316,
+          "h": 0.07631578947368421,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 8.310066,
+          "x": 0.2957236842105263,
+          "y": 0.29473684210526313,
+          "w": 0.19835526315789473,
+          "h": 0.11578947368421053,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 13.56,
+      "end_time": 15.2,
+      "description": "Eyebrows are raised, and the eyes widen slightly. A slight smile returns as the corners of the mouth lift.",
+      "bboxes": [
+        {
+          "frame_time": 14.421749,
+          "x": 0.33421052631578946,
+          "y": 0.25,
+          "w": 0.21463815789473684,
+          "h": 0.12631578947368421,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 14.370968,
+          "x": 0.33865131578947366,
+          "y": 0.2868421052631579,
+          "w": 0.20723684210526316,
+          "h": 0.16578947368421051,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 14.794141,
+          "x": 0.3268092105263158,
+          "y": 0.5657894736842105,
+          "w": 0.20723684210526316,
+          "h": 0.12894736842105264,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 13.71,
+      "description": "The subject is sitting, facing the camera. The head is mostly still, with minor nods and tilts that correspond with speech patterns. Shoulders remain relaxed and level. No hand gestures are visible.",
+      "bboxes": [
+        {
+          "frame_time": 0,
+          "x": 0.26907894736842103,
+          "y": 0.18421052631578946,
+          "w": 0.28125,
+          "h": 0.5263157894736842,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 0.4401,
+          "x": 0.24095394736842105,
+          "y": 0.17105263157894737,
+          "w": 0.3404605263157895,
+          "h": 0.5210526315789473,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 0.4401,
+          "x": 0.13733552631578946,
+          "y": 0.7263157894736842,
+          "w": 0.6231907894736842,
+          "h": 0.21052631578947367,
+          "note": "pose human-annotated",
+          "region": "shoulders"
+        },
+        {
+          "frame_time": 6.889262,
+          "x": 0.25279605263157895,
+          "y": 0.7421052631578947,
+          "w": 0.5654605263157895,
+          "h": 0.21578947368421053,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 13.71,
+      "end_time": 15.2,
+      "description": "The subject's shoulders shrug upward slightly. Both hands come up from the bottom of the frame in an open, expressive gesture, palms facing inward.",
+      "bboxes": [
+        {
+          "frame_time": 14.218626,
+          "x": 0.15805921052631577,
+          "y": 0.6578947368421053,
+          "w": 0.6098684210526316,
+          "h": 0.32105263157894737,
+          "note": "pose human-annotated",
+          "region": "shoulders"
+        },
+        {
+          "frame_time": 14.404822,
+          "x": 0.07072368421052631,
+          "y": 0.6368421052631579,
+          "w": 0.7712171052631579,
+          "h": 0.3605263157894737,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 9.22,
+      "description": "Speech is delivered at a conversational pace with a clear, resonant tone. Pitch rises for emphasis on key phrases like \"somebody who you can trust\" and \"give you advice\".",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 9.22,
+      "end_time": 15.2,
+      "description": "The speaking rate increases slightly. Pitch rises noticeably on the phrase \"my mentor\" for emphasis.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.2,
+      "description": "The subject is a young Black male with short black hair and a goatee. He is wearing a black T-shirt. He is indoors, sitting in front of a large window that looks out onto a green lawn and trees. To his left, part of a wooden upright piano is visible. The lighting is soft and appears to be natural light from the window. A logo for \"NIBC productions\" is in the bottom-right corner.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "High",
+      "score": 0.64,
+      "rationale": "The subject's High Extraversion is demonstrated through his engaging and socially confident communication style. He maintains a direct gaze at the camera, a non-verbal cue indicating comfort with being the center of attention. His speech is animated by expressive hand gestures that enter the frame, particularly the open, two-handed gesture towards the end, which serves to connect with and captivate an audience. Furthermore, the use of vocal emphasis on certain phrases indicates a conscious effort to make his delivery more dynamic and engaging, a behavior typical of individuals who derive energy from social interaction.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "High",
+      "score": 0.67,
+      "rationale": "The High Agreeableness score is strongly supported by the prosocial and altruistic nature of the subject's message. He is focused on providing helpful advice, encouraging others to find trust and support, which reflects a genuine concern for others' well-being. This cooperative sentiment is mirrored in his approachable demeanor, characterized by a relaxed shoulder posture and moments of smiling. His emphasis on qualities like 'trust' and 'help' highlights a worldview centered on positive, collaborative human relationships, a core facet of agreeableness.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "High",
+      "score": 0.61,
+      "rationale": "The subject exhibits traits of High Conscientiousness through the structured, deliberate, and goal-oriented nature of his presentation. The video is not a casual ramble but a focused piece of advice, suggesting prior planning and organization. His speech is clear and follows a logical progression, and he adopts a more serious, focused expression when delivering the key message, underscoring a sense of duty and responsibility in his communication. This purposeful and methodical approach is a clear indicator of a conscientious personality.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "High",
+      "score": 0.68,
+      "rationale": "Despite a generally composed appearance, subtle behavioral markers align with a High Neuroticism score. A 'slight tension' noted around the eyes at the very beginning of the clip can be interpreted as a sign of initial performance anxiety or self-consciousness. Additionally, the slight acceleration in his speech pace towards the end of the segment may indicate a build-up of nervous energy. These fleeting signs of tension and anxiety, even in a controlled setting, are consistent with the heightened emotional sensitivity and self-awareness characteristic of individuals with higher neuroticism.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "High",
+      "score": 0.64,
+      "rationale": "The subject's High Openness is evident in both the content of his speech and the environmental context. He discusses mentorship in a creative field (music), which is reinforced by the piano visible in the background. Crucially, his specific advice that a mentor 'doesn't have to be somebody that makes the kind of music you make' demonstrates significant cognitive flexibility and an appreciation for diverse perspectives. This willingness to embrace unconventional ideas and experiences is the defining characteristic of the Openness trait.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their High Neuroticism level?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[5.2s - 5.7s]"
+        },
+        {
+          "id": "B",
+          "text": "[7.7s - 8.2s]"
+        },
+        {
+          "id": "C",
+          "text": "[8.1s - 8.6s]"
+        },
+        {
+          "id": "D",
+          "text": "[13.4s - 13.9s]"
+        },
+        {
+          "id": "E",
+          "text": "[0.0s - 0.5s]"
+        },
+        {
+          "id": "F",
+          "text": "[14.6s - 15.1s]"
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. The personality analysis explicitly notes that 'slight tension' around the eyes at the very beginning of the clip can be interpreted as a sign of initial performance anxiety, which is a marker for High Neuroticism. This occurs in the [0.0s - 0.5s] interval.\n- Options A, B, C, D, and F are all video-based distractors. Each option corresponds to a real moment of facial expression change in the video (A: subtle mouth corner lift; B: face becomes more neutral; C: eyebrow movement for emphasis; D: transition to the final smile; F: peak of the final smile), but none of these moments are cited in the analysis as the primary evidence for the High Neuroticism trait. The question specifically asks for the expression most relevant to that trait."
+    },
+    {
+      "category": "Mixed Emotion Discrimination",
+      "question": "During 7.5s - 9.5s, the person's emotional state is best characterized as which of the following? Consider both verbal and non-verbal cues.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Quiet confidence tempered by a slight feeling of general amusement."
+        },
+        {
+          "id": "B",
+          "text": "Reflective contemplation mixed with a subtle flicker of warm nostalgia."
+        },
+        {
+          "id": "C",
+          "text": "Enthusiastic engagement blended with a moment of focused concentration."
+        },
+        {
+          "id": "D",
+          "text": "Sincere earnestness mixed with a subtle and transient hint of anxiety."
+        },
+        {
+          "id": "E",
+          "text": "Focused purposefulness combined with an undercurrent of friendly warmth."
+        },
+        {
+          "id": "F",
+          "text": "Joyful expression tempered by a brief moment of quiet consideration."
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. In this interval, the person's expression is described as more 'neutral and serious' and his gaze is direct as he delivers the core advice ('advice and help you'), indicating 'focused purposefulness'. Simultaneously, the observation notes he was 'maintaining a smile' just prior and his overall demeanor is helpful, suggesting an 'undercurrent of friendly warmth'.\n- Option A is a text-based distractor. While he appears confident, there are no visual or auditory cues to suggest amusement.\n- Option B is a text-based distractor. The topic is advice-giving, which could involve reflection, but there is no specific evidence of nostalgia in his expression.\n- Option C is a video-based distractor. The 'enthusiastic engagement' is more characteristic of the very end of the video (after 13.6s), not this more serious middle section.\n- Option D is a near-miss distractor. The 'sincere earnestness' is accurate, but the subtle smile points towards warmth, not anxiety. The cues for anxiety were noted at the very beginning of the clip, not here.\n- Option F is a video-based distractor. The expression is more neutral and serious than overtly 'joyful' in this specific time segment."
+    },
+    {
+      "category": "Temporal-Causal Reasoning",
+      "question": "Consider the sequence of behaviors observed across the video. Which of the following best describes the causal chain linking the person's actions at different moments?",
+      "options": [
+        {
+          "id": "A",
+          "text": "An illustrative non-verbal display prompts a period of focused didactic communication, which then concludes with a brief act of self-monitoring at the video's end."
+        },
+        {
+          "id": "B",
+          "text": "A period of didactic communication causes an increase in self-monitoring behavior, which is then compensated for by an open, illustrative display for social connection."
+        },
+        {
+          "id": "C",
+          "text": "An initial act of self-monitoring is followed by an illustrative non-verbal display, which then transitions into a period of focused, didactic communication to conclude."
+        },
+        {
+          "id": "D",
+          "text": "A period of focused vocal emphasis leads directly to an expressive physical gesture, which then causes a momentary lapse in direct visual engagement with the viewer."
+        },
+        {
+          "id": "E",
+          "text": "An initial act of self-monitoring is followed by a period of focused, didactic communication, which transitions into an illustrative non-verbal display for emphasis."
+        },
+        {
+          "id": "F",
+          "text": "A display of social appeal is followed by a moment of intellectual reflection, which concludes with a gesture of emotional vulnerability to build a sense of rapport."
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. This option accurately represents the video's temporal flow: 1) Initial tension/self-monitoring at the very beginning (0.0s-0.3s), 2) a shift to serious, direct delivery of advice (didactic communication) in the middle, and 3) a concluding expressive gesture to illustrate a personal point ('my mentor') for emphasis (13.7s-15.2s).\n- Option A is a distractor with reversed temporal order. The illustrative display happens at the end, not the beginning.\n- Option B is a distractor with incorrect causality. The didactic communication does not cause an increase in self-monitoring; self-monitoring is highest at the start and then decreases.\n- Option C is a near-miss distractor. It correctly identifies the three behavioral stages but swaps the order of the last two, incorrectly placing the illustrative display before the focused communication.\n- Option D is a video-based distractor. The last part of the chain is incorrect; the person maintains direct visual engagement throughout the gesture, he does not look away.\n- Option F is a text-based distractor. It uses plausible-sounding abstract terms ('intellectual reflection', 'emotional vulnerability') that do not accurately map onto the observed behaviors in the video."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 6.4s, a region was detected in the video (x=0.355, y=0.442, w=0.138, h=0.195, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A stable and unwavering head posture indicating strong focus."
+        },
+        {
+          "id": "B",
+          "text": "Slight raising of the eyebrows used for adding vocal emphasis."
+        },
+        {
+          "id": "C",
+          "text": "Relaxed and balanced positioning of the shoulders and torso."
+        },
+        {
+          "id": "D",
+          "text": "A direct and steady gaze directed forward from the eye area."
+        },
+        {
+          "id": "E",
+          "text": "A subtle smile being maintained across the person's mouth."
+        },
+        {
+          "id": "F",
+          "text": "The corners of the mouth just beginning to turn up to smile."
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. The provided bounding box at 6.4s isolates the person's mouth. The observation for the time range [5.8s - 13.6s] explicitly states maintaining a smile for a period. Therefore, 'a subtle smile being maintained' is the most accurate description for that specific region and time.\n- Options A, B, C, and D are video-based distractors. They describe real actions happening at or around that time but in DIFFERENT spatial regions (A: head, B: eyebrows, C: shoulders, D: eyes), testing the model's ability to localize correctly.\n- Option F is a near-miss distractor. Based on the error pattern 'smile disappears' vs 'keep smiling', this distractor incorrectly describes the *initiation* of a smile rather than the correct action of *maintaining* an existing one. The video shows the smile is already present and being held."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "At which time and location does the person use a broad, illustrative gesture involving their hands and upper body to emphasize a personal example in their speech?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[0.0s] x=0.27, y=0.18, w=0.28, h=0.53"
+        },
+        {
+          "id": "B",
+          "text": "[0.4s] x=0.14, y=0.73, w=0.62, h=0.21"
+        },
+        {
+          "id": "C",
+          "text": "[14.4s] x=0.07, y=0.64, w=0.77, h=0.36"
+        },
+        {
+          "id": "D",
+          "text": "[1.5s] x=0.31, y=0.22, w=0.22, h=0.12"
+        },
+        {
+          "id": "E",
+          "text": "[7.9s] x=0.32, y=0.32, w=0.19, h=0.08"
+        },
+        {
+          "id": "F",
+          "text": "[7.9s] x=0.30, y=0.18, w=0.20, h=0.46"
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. The question asks for a broad, illustrative gesture involving hands and upper body. This action is described in the observation for [13.7s - 15.2s] as 'shoulders...shrug' and 'hands...lifted...open, expressive gesture'. The timestamp [14.4s] falls squarely in this interval, and the wide bounding box (w=0.77, h=0.36) correctly encompasses the full extent of the hands, arms, and shoulders during this large gesture.\n- Option A is a video-based distractor showing the head at the start.\n- Option B is a video-based distractor showing the shoulders at rest near the beginning.\n- Option D is a video-based distractor isolating the eyebrows during speech.\n- Option E is a video-based distractor isolating the eyes during the middle of the speech.\n- Option F is a video-based distractor showing the face during the middle of the speech. All of these distractors pinpoint incorrect times, incorrect locations, or both."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator04",
+      "version": 1,
+      "clues_total": 21,
+      "clues_correct": 15,
+      "clues_wrong_corrected": 6,
+      "clues_missing_skipped": 0,
+      "clues_bonus": 0
+    }
+  }
+}

@@ -1,0 +1,557 @@
+{
+  "video_id": "HUHFlCs3YJ8.002.mp4",
+  "video_path": "HUHFlCs3YJ8.002.mp4",
+  "transcription": "You're body's really efficient at recycling the B12 that it has in it's body already. In nature, I feel like a lot of our B12 would have come from living in a dirt environment, where the soil is getting into our food and we eat that bacteria. We're living in really clean environments nowadays. We're not getting-",
+  "original_scores": {
+    "extraversion": 0.35514018691588783,
+    "agreeableness": 0.4285714285714285,
+    "conscientiousness": 0.4174757281553398,
+    "neuroticism": 0.45833333333333337,
+    "openness": 0.5
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 1.9,
+      "description": "The subject's gaze is directed at the camera. His eyebrows are in a neutral position, and his mouth moves in sync with his speech. He blinks at 1.4 seconds.",
+      "bboxes": [
+        {
+          "frame_time": 1.039603,
+          "x": 0.3201480263157895,
+          "y": 0.10087718963623046,
+          "w": 0.34638157894736843,
+          "h": 0.25,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 0.931388,
+          "x": 0.3216282894736842,
+          "y": 0.0929824527941252,
+          "w": 0.29753289473684214,
+          "h": 0.2236842105263158,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 0.932376,
+          "x": 0.3497532894736842,
+          "y": 0.32456140016254625,
+          "w": 0.21167763157894737,
+          "h": 0.2657894736842105,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 1.469847,
+          "x": 0.35567434210526316,
+          "y": 0.1771929791099147,
+          "w": 0.3271381578947368,
+          "h": 0.24473684210526317,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 1.9,
+      "end_time": 8.3,
+      "description": "His gaze shifts upwards and to his left, holding this position as if recalling information. His eyebrows remain mostly neutral with a slight lift. He blinks naturally throughout.",
+      "bboxes": [
+        {
+          "frame_time": 3.144154,
+          "x": 0.39120065789473685,
+          "y": 0.2035087685835989,
+          "w": 0.23980263157894738,
+          "h": 0.22631578947368422,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 4.361755,
+          "x": 0.3009046052631579,
+          "y": 0.06140350542570415,
+          "w": 0.3804276315789474,
+          "h": 0.5894736842105263,
+          "note": "pose human-annotated",
+          "region": "torso"
+        },
+        {
+          "frame_time": 6.375003,
+          "x": 0.4370888157894737,
+          "y": 0.16140350542570414,
+          "w": 0.21759868421052633,
+          "h": 0.21578947368421053,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 5.792811,
+          "x": 0.4060032894736842,
+          "y": 0.19035087384675678,
+          "w": 0.2694078947368421,
+          "h": 0.28157894736842104,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 8.3,
+      "end_time": 15.3,
+      "description": "His gaze returns to the camera and remains steady. His eyebrows lift slightly at 10.7 seconds and again at 11.8 seconds, coinciding with his speech. His mouth continues to move naturally as he talks.",
+      "bboxes": [
+        {
+          "frame_time": 9.431512,
+          "x": 0.35863486842105263,
+          "y": 0.13245613700465153,
+          "w": 0.2723684210526316,
+          "h": 0.26842105263157895,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 13.011993,
+          "x": 0.35863486842105263,
+          "y": 0.11403508437307257,
+          "w": 0.3537828947368421,
+          "h": 0.24473684210526317,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 13.375863,
+          "x": 0.4015625,
+          "y": 0.3561403475309673,
+          "w": 0.18651315789473685,
+          "h": 0.17105263157894737,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 1.9,
+      "description": "The subject is sitting upright. His right hand briefly enters the bottom right of the frame, making a small gesture with his index finger.",
+      "bboxes": [
+        {
+          "frame_time": 0.674254,
+          "x": 0.1573190789473684,
+          "y": 0.4429824527941252,
+          "w": 0.6424342105263158,
+          "h": 0.5,
+          "note": "human-annotated",
+          "region": "unknown"
+        },
+        {
+          "frame_time": 0.915091,
+          "x": 0.00041118421052630644,
+          "y": 0.6035087685835989,
+          "w": 0.3493421052631579,
+          "h": 0.3894736842105263,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 1.9,
+      "end_time": 10.6,
+      "description": "His hands are not visible in the frame. His head and torso remain relatively still with minimal movement.",
+      "bboxes": [
+        {
+          "frame_time": 10.593833,
+          "x": 0.07886513157894737,
+          "y": 0.7008771896362305,
+          "w": 0.6083881578947369,
+          "h": 0.29736842105263156,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 10.593833,
+          "x": 0.2757401315789474,
+          "y": 0.10877192647833574,
+          "w": 0.3848684210526316,
+          "h": 0.8657894736842106,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 10.6,
+      "end_time": 12.3,
+      "description": "He raises both hands into the frame to chest level. With palms facing inward, he makes an illustrative gesture by moving his hands apart and then slightly back together.",
+      "bboxes": [
+        {
+          "frame_time": 11.512849,
+          "x": 0.0640625,
+          "y": 0.416666663320441,
+          "w": 0.7238486842105263,
+          "h": 0.5605263157894737,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 11.512849,
+          "x": 0.13955592105263157,
+          "y": 0.5271929791099147,
+          "w": 0.6128289473684211,
+          "h": 0.4710526315789474,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 11.556513,
+          "x": 0.09366776315789473,
+          "y": 0.4403508738467568,
+          "w": 0.646875,
+          "h": 0.5578947368421052,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 12.3,
+      "end_time": 15.3,
+      "description": "He lowers his hands out of the frame. His body remains still.",
+      "bboxes": [
+        {
+          "frame_time": 14.947394,
+          "x": 0.04925986842105262,
+          "y": 0.6587719264783357,
+          "w": 0.8822368421052632,
+          "h": 0.3394736842105263,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 14.947394,
+          "x": 0.10106907894736841,
+          "y": 0.3771929791099147,
+          "w": 0.7312500000000001,
+          "h": 0.618421052631579,
+          "note": "pose human-annotated",
+          "region": "torso"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 5,
+      "description": "The subject speaks at a moderate pace and volume. His pitch is mostly level, with a slight downward inflection at the end of the first sentence. There is a brief pause after the word \"already.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 5,
+      "end_time": 13,
+      "description": "The speech rate remains consistent. The pitch rises slightly on the phrase \"dirty environment.\" Increased stress is placed on the words \"eat that bacteria.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 13,
+      "end_time": 15.3,
+      "description": "The pace and volume remain steady. The speech has a conversational, explanatory tone and is abruptly cut off mid-word at the end of the clip.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.3,
+      "description": "The subject is a young man with dark hair, a mustache, and a beard. He is wearing a black beanie with the word \"VEGAN\" in white capital letters and a black short-sleeved t-shirt. He is in an indoor setting, possibly a bedroom, with a plain, off-white wall behind him. A white door with a silver handle is visible to the right. The lighting is soft and appears to be from a frontal source.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Low",
+      "score": 0.36,
+      "rationale": "The subject's Low Extraversion is indicated by his reserved physical demeanor. His body remains relatively still throughout the clip, with minimal spontaneous movement ('The head and torso remain relatively still'). His gestures are controlled and illustrative rather than frequent or expansive, and his vocal delivery is moderate in pace and volume, lacking the high energy typical of more extraverted individuals. The extended period of looking down and away [1.9s-8.3s] while recalling information, combined with the overall lack of expressive dynamism, points to an introverted, internally-focused processing style.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Medium",
+      "score": 0.43,
+      "rationale": "A Medium level of Agreeableness is supported by the subject's cooperative and non-confrontational communication style. His vocal tone is described as 'conversational' and 'explanatory,' indicating a willingness to inform rather than challenge. His facial expressions are generally neutral and engaged, lacking any markers of skepticism or impatience. The subject presents his points in a measured, factual manner, which aligns with a moderately agreeable tendency to maintain harmonious and straightforward interactions.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Medium",
+      "score": 0.42,
+      "rationale": "The Medium Conscientiousness score is reflected in the subject's structured and deliberate communication. He presents a logical argument, and his pause to look away while 'recalling information' ('As if recalling information') [1.9s-8.3s] suggests a desire for accuracy. His upright posture ('The subject sat up straight') and the consistent, clear vocal delivery further point to a moderately organized and disciplined approach to self-presentation and the task of explaining his point.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Medium",
+      "score": 0.46,
+      "rationale": "The subject's Medium Neuroticism is suggested by a controlled and emotionally steady demeanor. There are no overt signs of anxiety, such as fidgeting, vocal strain, or excessive blinking. However, his physical composure is quite contained, with his head and torso remaining 'relatively still' ('The head and torso remain relatively still'). This level of control, which is neither completely relaxed nor visibly tense, fits a mid-range score on the neuroticism spectrum, indicating a baseline of emotional stability under low-stress conditions.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "Medium",
+      "score": 0.5,
+      "rationale": "A Medium level of Openness is supported by the subject's choice of topic and presentation style. He engages with an abstract, science-based concept (the origins of B12), indicating a degree of intellectual curiosity. However, his delivery is primarily factual and explanatory rather than highly imaginative or creative. The use of a simple, illustrative hand gesture [11.5s] to clarify a point reinforces this practical approach to communicating ideas, which is consistent with a moderate, rather than high, level of Openness to experience.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During [1.9s - 8.3s], the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A significantly high level of Agreeableness"
+        },
+        {
+          "id": "B",
+          "text": "A considerably low level of Openness to new ideas"
+        },
+        {
+          "id": "C",
+          "text": "A significantly high level of emotional Neuroticism"
+        },
+        {
+          "id": "D",
+          "text": "A considerably high level of trait Extraversion"
+        },
+        {
+          "id": "E",
+          "text": "A significantly low level of trait Extraversion"
+        },
+        {
+          "id": "F",
+          "text": "A considerably high level of trait Conscientiousness"
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "During [1.9s - 8.3s], the subject looks down and away, a classic introverted behavior for managing cognitive load by reducing external stimuli to focus internally. This is the strongest piece of evidence for Low Extraversion. \nOption A is a video-based distractor; his agreeable tone is evident elsewhere but not the primary trait demonstrated in this specific interval. \nOption B is a text-based distractor; looking away might textually imply being closed off, but his topic choice suggests moderate openness. \nOption C is a text-based distractor; gaze aversion can be a sign of anxiety (Neuroticism), but his calm demeanor in the video contradicts this. \nOption D is a near-miss distractor because it identifies the correct personality dimension (Extraversion) but gets the direction wrong. \nOption F is a video-based distractor; this moment of recall supports his desire for accuracy (Conscientiousness), but the behavior itself is more fundamentally about social energy and focus (Extraversion)."
+    },
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their explanatory emphasis?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[0.7s - 1.4s]"
+        },
+        {
+          "id": "B",
+          "text": "[2.8s - 3.5s]"
+        },
+        {
+          "id": "C",
+          "text": "[11.3s - 12.0s]"
+        },
+        {
+          "id": "D",
+          "text": "[8.1s - 8.8s]"
+        },
+        {
+          "id": "E",
+          "text": "[12.8s - 13.5s]"
+        },
+        {
+          "id": "F",
+          "text": "[5.5s - 6.2s]"
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. Around 13.0s, the subject's eyebrows lift distinctly as he emphasizes a point in his speech ('We're living in really clean environments...'). This is a clear, meaningful facial expression change linked to his verbal content.\nOption A is a video-based distractor; his eyebrows are slightly raised at the start, but the change at 13s is more dynamic and linked to emphasis.\nOption B is a video-based distractor; this interval captures his slow gaze shift downwards, which is a change in posture, not a fleeting facial expression.\nOption C is a video-based distractor; this is when he brings his hands into frame, a significant gesture but not a facial micro-expression.\nOption D is a video-based distractor; his gaze returns to the camera here, which is a deliberate action rather than a micro-expression.\nOption F is a near-miss distractor; a natural blink occurs in this window, which is a facial change, but it's a routine action, not a notable expression of emphasis."
+    },
+    {
+      "category": "Mixed Emotion Discrimination",
+      "question": "During [1.9s - 8.3s], the person's emotional state is best characterized as which of the following? Consider both verbal and non-verbal cues.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Social anxiety tempered by a strong desire to communicate effectively."
+        },
+        {
+          "id": "B",
+          "text": "Mild frustration mixed with a determined effort to find the right words."
+        },
+        {
+          "id": "C",
+          "text": "Deep contemplation mixed with an underlying hint of some uncertainty."
+        },
+        {
+          "id": "D",
+          "text": "Pensive reflection that is tempered by a brief moment of confusion."
+        },
+        {
+          "id": "E",
+          "text": "Focused recollection that is mixed with a state of neutral concentration."
+        },
+        {
+          "id": "F",
+          "text": "A feeling of boredom that is mixed with a clear sense of social obligation."
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "During this period, the subject looks down and away 'as if recalling information.' His expression is neutral, and his posture is still. This state is cognitive rather than emotional, best described as focused recollection mixed with neutral concentration. \nOption A is a text-based distractor; gaze aversion is a common textual cue for social anxiety, but his calm demeanor in the video does not support this. \nOption B is a video-based distractor; while he is making a mental effort, there are no visual cues for frustration like brow furrowing or lip tension. \nOption C is a near-miss distractor; 'deep contemplation' is close, but there's no evidence of uncertainty, making 'neutral concentration' a more accurate descriptor. \nOption D is a near-miss distractor; 'pensive reflection' is plausible, but the video does not show any signs of confusion. \nOption F is a text-based distractor; one might interpret looking away as boredom, but the context of his speech shows he is engaged in the topic."
+    },
+    {
+      "category": "Temporal-Causal Reasoning",
+      "question": "Consider the sequence of behaviors observed across the video. Which of the following best describes the causal chain linking the person's actions at different moments?",
+      "options": [
+        {
+          "id": "A",
+          "text": "An explanatory display prompts cognitive load, which is then resolved by a period of direct engagement with the audience."
+        },
+        {
+          "id": "B",
+          "text": "Initial disinterest causes a loss of mental focus, followed by a compensatory physical gesture to regain lost attention."
+        },
+        {
+          "id": "C",
+          "text": "A confident opening is followed by a brief moment of self-doubt, requiring a display of hesitation to mentally regroup."
+        },
+        {
+          "id": "D",
+          "text": "An emotional appeal transitions to factual recall, which is then reinforced by a gesture meant to establish authority."
+        },
+        {
+          "id": "E",
+          "text": "Direct engagement gives way to a focus shift to manage cognitive load, which enables a subsequent clarifying gesture."
+        },
+        {
+          "id": "F",
+          "text": "An initial engagement is followed by a memory recall phase, which then triggers a brief display of social anxiety."
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The video follows a clear pattern: 1) He starts by engaging the camera directly [0-1.9s]. 2) He then looks away to reduce external input and recall information (manage cognitive load) [1.9-8.3s]. 3) Having retrieved the information, he re-engages and uses a hand gesture to help explain the concept [10.6-12.3s]. Option E accurately abstracts this causal chain. \nOption A is a video-based distractor with reversed temporal order; the engagement comes first, not last. \nOption B is a video-based distractor with incorrect causality; the gaze aversion is for focus, not due to disinterest, and the gesture is illustrative, not compensatory. \nOption C is a text-based distractor; it presents a plausible narrative of losing confidence, but the video shows a controlled, thoughtful process, not self-doubt. \nOption D is a text-based distractor; his tone is explanatory, not emotional, and the gesture is for clarification, not authority. \nOption F is a near-miss distractor; the first two links are correct, but the final outcome is confident re-engagement, not a display of social anxiety."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around [6.4s], a region was detected in the video (x=0.437, y=0.161, w=0.218, h=0.216, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The upper torso remaining in a completely static and still position."
+        },
+        {
+          "id": "B",
+          "text": "Mouth movement that is perfectly synchronized with audible speech."
+        },
+        {
+          "id": "C",
+          "text": "Eyebrows being held in a completely neutral and unexpressive state."
+        },
+        {
+          "id": "D",
+          "text": "A direct and focused gaze from the eyes aimed toward the camera."
+        },
+        {
+          "id": "E",
+          "text": "A mostly neutral expression with the eyebrows held in a raised state."
+        },
+        {
+          "id": "F",
+          "text": "Both of the subject's hands being raised together up to chest level."
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The specified coordinates at 6.4s isolate the subject's eyebrows. During this period [1.9s - 8.3s], the observation notes, His eyebrows are mostly neutral, slightly raised. Option E is the most accurate description of this state.\nOption A is a video-based distractor; the torso is indeed static, but this is happening in a different, larger region than the specified bounding box.\nOption B is a video-based distractor; the mouth is moving, but it is located below the specified eyebrow region.\nOption C is a near-miss distractor; it correctly identifies the eyebrows but incorrectly describes them as 'completely neutral,' missing the subtle but important detail that they are slightly raised.\nOption D is a video-based distractor; at 6.4s, his gaze is averted down and to the left, not aimed at the camera.\nOption F is a video-based distractor; the hand gesture occurs much later in the video, around 11.5s, not at 6.4s."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "At which of the following moments and locations is the subject maintaining the most physically reserved and static posture while speaking?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[13.4s] x=0.40, y=0.36, w=0.19, h=0.17"
+        },
+        {
+          "id": "B",
+          "text": "[13.0s] x=0.36, y=0.11, w=0.35, h=0.24"
+        },
+        {
+          "id": "C",
+          "text": "[1.5s]  x=0.36, y=0.18, w=0.33, h=0.24"
+        },
+        {
+          "id": "D",
+          "text": "[0.9s]  x=0.35, y=0.32, w=0.21, h=0.27"
+        },
+        {
+          "id": "E",
+          "text": "[10.6s] x=0.28, y=0.11, w=0.38, h=0.87"
+        },
+        {
+          "id": "F",
+          "text": "[6.4s]  x=0.44, y=0.16, w=0.22, h=0.22"
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The question asks for the moment of greatest physical stillness. The observation for the period including 10.6s states, His head and torso remain relatively still, with almost no movement. The bounding box in option E is large, covering the entire upper body, and the timestamp falls at the end of this static period just before he begins his gesture, making it the best answer.\nOption A is a video-based distractor; it isolates the mouth while it's moving during speech.\nOption B is a video-based distractor; it captures the eyebrows as they are actively raising for emphasis.\nOption C is a video-based distractor; it captures the eyes during a blink, which is a movement.\nOption D is a video-based distractor; it isolates the mouth during the initial phase of speaking.\nOption F is a video-based distractor; it isolates the eyebrows during the period of recall, which are slightly raised but the overall static posture is best captured by the larger bbox in E."
+    },
+    {
+      "category": "Counterfactual Reasoning",
+      "question": "If the person had NOT exhibited the behavior observed around [1.9s - 8.3s], which of the following personality assessments would be MOST affected?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The Agreeableness score would be reduced, as the behavior is the main evidence supporting his cooperative and open manner."
+        },
+        {
+          "id": "B",
+          "text": "The Extraversion score would likely decrease, because removing this behavior suggests he is even more withdrawn and unengaged."
+        },
+        {
+          "id": "C",
+          "text": "The Conscientiousness score would be lowered, as this action is a critical indicator for his organized and careful thinking."
+        },
+        {
+          "id": "D",
+          "text": "The Openness score would be significantly changed, as this moment is vital to demonstrating his deep intellectual curiosity."
+        },
+        {
+          "id": "E",
+          "text": "The Extraversion score would likely increase, as this behavior is the primary evidence for his reserved processing style."
+        },
+        {
+          "id": "F",
+          "text": "The Neuroticism score would be higher, because the pause helps counter an interpretation of anxiety throughout the video."
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The behavior from [1.9s - 8.3s] is looking down and away to recall information. This is the primary evidence for a reserved, internally-focused processing style, which is a core component of introversion (Low Extraversion). Without this key behavior, the assessment would lose its strongest support, and his score would likely shift higher (less introverted). \nOption A is a video-based distractor; Agreeableness is judged more from his overall calm, explanatory tone, not this specific action. \nOption B is a near-miss distractor; it identifies the correct trait (Extraversion) but posits the wrong direction of change. Removing an introverted behavior would make him seem more, not less, extraverted. \nOption C is a text-based distractor; while the pause does show he is thinking carefully, his overall structured speech also supports Conscientiousness, so removing this one piece of evidence would not be the MOST impactful change. \nOption D is a text-based distractor; his Openness is cued by his choice of topic, not this specific recall behavior. \nOption F is a text-based distractor; this logic is plausible but weak. His calmness is evident throughout, not just in this moment."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator20",
+      "version": 1,
+      "clues_total": 24,
+      "clues_correct": 18,
+      "clues_wrong_corrected": 6,
+      "clues_missing_skipped": 0,
+      "clues_bonus": 0
+    }
+  }
+}

@@ -1,0 +1,354 @@
+{
+  "video_id": "_65KGQpiabs.002.mp4",
+  "video_path": "_65KGQpiabs.002.mp4",
+  "transcription": "Summer jobs and stuff and everything and started saving up money to build my PC and get my dual monitors and all my stuff. My set up is probably worth like $2,600.",
+  "original_scores": {
+    "extraversion": 0.28037383177570097,
+    "agreeableness": 0.4175824175824176,
+    "conscientiousness": 0.31067961165048547,
+    "neuroticism": 0.1458333333333333,
+    "openness": 0.41111111111111115
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 15.18,
+      "description": "The subject maintains a direct gaze toward the camera. His facial expression is neutral, with his mouth moving in sync with his speech. His eyebrows are relaxed and his blinking appears normal.",
+      "bboxes": [
+        {
+          "frame_time": 2.022022,
+          "x": 0.34679276315789476,
+          "y": 0.3035087685835989,
+          "w": 0.19095394736842106,
+          "h": 0.10789473684210527,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 1.275518,
+          "x": 0.3379111842105263,
+          "y": 0.116666663320441,
+          "w": 0.22648026315789474,
+          "h": 0.5789473684210527,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 2.359935,
+          "x": 0.39120065789473685,
+          "y": 0.4903508738467568,
+          "w": 0.11546052631578947,
+          "h": 0.11578947368421053,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 9.597387,
+          "x": 0.36751644736842104,
+          "y": 0.2692982422678094,
+          "w": 0.19835526315789473,
+          "h": 0.10263157894736842,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 8.594825,
+          "x": 0.35567434210526316,
+          "y": 0.3140350843730726,
+          "w": 0.18651315789473685,
+          "h": 0.10263157894736842,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 15.18,
+      "description": "The subject is seated in a high-backed chair, facing forward. His head remains relatively still, with only slight, natural movements as he speaks. His shoulders are relaxed and level. The shot is a medium close-up, and no hand or arm gestures are visible.",
+      "bboxes": [
+        {
+          "frame_time": 2.525412,
+          "x": 0.15139802631578947,
+          "y": 0.12192982121517784,
+          "w": 0.5491776315789474,
+          "h": 0.8763157894736842,
+          "note": "human-annotated",
+          "region": "unknown"
+        },
+        {
+          "frame_time": 8.903909,
+          "x": 0.2801809210526316,
+          "y": 0.03245613700465152,
+          "w": 0.3271381578947368,
+          "h": 0.6473684210526316,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 11.71227,
+          "x": 0.12623355263157893,
+          "y": 0.6219298212151778,
+          "w": 0.6024671052631579,
+          "h": 0.2736842105263158,
+          "note": "pose human-annotated",
+          "region": "shoulders"
+        },
+        {
+          "frame_time": 0,
+          "x": 0.2772203947368421,
+          "y": 0.048245610688862045,
+          "w": 0.32861842105263156,
+          "h": 0.6578947368421053,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 8.94,
+      "description": "The subject speaks at a moderate, conversational pace with a relatively stable pitch in his mid-range. There is a brief pause after the word \"stuff.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 9.38,
+      "end_time": 11.23,
+      "description": "Speech continues at a similar pace, with a slight hesitation and repetition on the word \"my.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 11.72,
+      "end_time": 15.18,
+      "description": "The phrase \"I don't know\" is spoken with a slight upward inflection, and the pitch falls at the end of the final sentence on the word \"whatever.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.18,
+      "description": "The subject is a young male with short, light-brown hair, fair skin, and glasses with dark frames. He is wearing a black t-shirt with a pair of white, over-ear headphones resting around his neck. He is indoors in what appears to be a bedroom with blue walls and a slanted ceiling. Behind him and to his right is a bed with a wooden headboard and a patterned pillow. To his left is a wooden dresser, with a computer tower case labeled \"CYBERPOWER\" visible beside it. A framed picture hangs on the wall. The scene is evenly lit from the front.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Low",
+      "score": 0.28,
+      "rationale": "The subject exhibits characteristics consistent with a Low level of Extraversion. His physical demeanor is reserved, marked by a consistently neutral facial expression and a head that remains relatively still. His vocal delivery is moderate in pace and stable in tone, lacking the energetic variation and expressive volume often seen in highly extraverted individuals. This overall subdued and composed presentation suggests a lower need for external stimulation and a more introverted disposition.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Medium",
+      "score": 0.42,
+      "rationale": "The subject's Agreeableness is assessed as Medium. His direct eye contact with the camera and relaxed facial features suggest a baseline level of cooperation and a non-antagonistic attitude. However, his expression remains neutral throughout, without overt cues of warmth like smiling or nodding. This balanced presentation, lacking both negative (e.g., scowling) and strong positive social signals, places him in the middle range of Agreeableness.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Low",
+      "score": 0.31,
+      "rationale": "The subject's behavior suggests a Low level of Conscientiousness. Although the content of his speech involves saving money for a goal, his delivery is casual and lacks precision. Phrases like \"and stuff and everything\" and estimating the value as \"probably like $2,600\" reflect a relaxed, rather than meticulous, approach to communication. The slightly shrugged posture can also be interpreted as a sign of a casual, less-structured disposition, which aligns with a lower conscientiousness score.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Very Low",
+      "score": 0.15,
+      "rationale": "The subject demonstrates strong indicators of a Very Low Neuroticism score. His overall demeanor is exceptionally calm and stable. His facial expression is neutral, his eyebrows are relaxed, and his blinking appears normal, with no signs of tension or anxiety. His speech is delivered at a measured pace with a steady vocal tone. This consistent composure and absence of any nervous indicators strongly support a high degree of emotional stability.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "Medium",
+      "score": 0.41,
+      "rationale": "The subject's Openness is rated as Medium. He is discussing a technical hobby (building a PC), but his description is factual and straightforward, without venturing into abstract concepts or imaginative language. His environment and general presentation do not provide strong evidence for either high (e.g., unusual aesthetics, highly creative expression) or low (e.g., resistance to new topics) Openness. This conventional and fact-based communication style supports a score in the medium range.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During 11.7s - 15.2s, the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "High Agreeableness, as his detailed sharing of personal interests suggests an inherent desire to build social rapport."
+        },
+        {
+          "id": "B",
+          "text": "Low Conscientiousness, as the combination of a casual posture and imprecise language points to a relaxed attitude."
+        },
+        {
+          "id": "C",
+          "text": "High Extraversion, because he is actively engaging in a monologue which is a typical sign of expressing social energy."
+        },
+        {
+          "id": "D",
+          "text": "Very Low Neuroticism, given that his calm demeanor and steady vocal tone project strong and consistent emotional stability."
+        },
+        {
+          "id": "E",
+          "text": "Low Openness to Experience, because the topic of his speech is conventional and lacks any kind of imaginative descriptions."
+        },
+        {
+          "id": "F",
+          "text": "Medium Conscientiousness, because saving money for a goal reflects some planning, despite his casual overall manner here."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. During this interval, the person gives a casual estimate ('probably like $2,600') and shrugs slightly (11.7s). These behaviors—imprecision and a relaxed/indifferent posture—are primary indicators for Low Conscientiousness.\n\n- Option A is a text-based distractor. Sharing interests can relate to Agreeableness, but the non-verbal cues in the video (neutral face, shrug) do not support a 'High' rating.\n- Option C is a text-based distractor. While talking is an action, his low-energy delivery and reserved posture throughout the video point to Low Extraversion, not High.\n- Option D is a video-based distractor. The subject does exhibit Very Low Neuroticism, but this assessment is based on his consistent calm state throughout the entire video, not the specific behaviors (shrug, imprecise language) in this particular time window, which are more diagnostic for Conscientiousness.\n- Option E is a text-based distractor. The topic could be seen as conventional, but this is weak evidence and less directly supported by the specific behaviors in this time segment compared to the evidence for Conscientiousness.\n- Option F is a near-miss distractor. It correctly identifies the relevant trait (Conscientiousness) and acknowledges the conflicting evidence (planning vs. casualness), but incorrectly concludes a 'Medium' rating. The behavioral evidence in this specific clip strongly points towards the 'Low' end of the spectrum."
+    },
+    {
+      "category": "Mixed Emotion Discrimination",
+      "question": "During 0.0s - 15.2s, the person's emotional state is best characterized as which of the following? Consider both verbal and non-verbal cues.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Quiet pride for his accomplishment tempered by an attempt at being modest."
+        },
+        {
+          "id": "B",
+          "text": "Factual recollection of past events mixed with a sense of detached neutrality."
+        },
+        {
+          "id": "C",
+          "text": "Mild enthusiasm for the subject matter tempered by natural social reservation."
+        },
+        {
+          "id": "D",
+          "text": "Nervous apprehension about being recorded mixed with practiced composure."
+        },
+        {
+          "id": "E",
+          "text": "Slight boredom with the topic mixed with a feeling of obligatory compliance."
+        },
+        {
+          "id": "F",
+          "text": "Annoyance at the situation tempered by a general sense of forced cooperation."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. The subject's speech is a straightforward account of saving money and building a PC (factual recollection). His non-verbal cues—a consistently neutral expression, relaxed eyebrows, and stable vocal tone—strongly support a state of emotional neutrality and detachment. The analysis highlights his calm, stable, and composed demeanor.\n\n- Option A is a near-miss distractor. One might infer pride from the topic (text-based), but there are no visual cues like a smile or excited tone to support this; his demeanor is neutral, not modest.\n- Option C is a near-miss distractor. Enthusiasm is plausible given the topic is a hobby, but his low-energy delivery and lack of expressive variation contradict this. 'Factual recollection' is a more accurate description of his communication style.\n- Option D is a near-miss distractor. While he is composed, the video evidence strongly suggests this is his baseline emotional state (Very Low Neuroticism), not an attempt to mask nervousness. There are no signs of apprehension.\n- Option E is a text-based distractor. His low energy might be misinterpreted as boredom, but his expression is neutral, not indicative of boredom (e.g., sighing, averted gaze). There is no evidence he feels obligated.\n- Option F is a text-based distractor. There are no visual or auditory cues (e.g., scowling, sharp tone) to suggest annoyance or that his cooperation is forced."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 8.6s, a region was detected in the video (x=0.356, y=0.314, w=0.187, h=0.103, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A quick glance briefly directed away from the camera and then back again."
+        },
+        {
+          "id": "B",
+          "text": "A normal and relaxed eye blink observed in the middle of its full motion."
+        },
+        {
+          "id": "C",
+          "text": "A subtle upward shrugging motion involving the shoulders and upper torso."
+        },
+        {
+          "id": "D",
+          "text": "Mouth movement that is fully synchronized with the subject's ongoing speech."
+        },
+        {
+          "id": "E",
+          "text": "A slight narrowing of the eyes that appears to be for aiding concentration."
+        },
+        {
+          "id": "F",
+          "text": "A generally neutral and consistently stable facial expression in the region."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. The provided coordinates (x=0.356, y=0.314, w=0.187, h=0.103) at 8.6s precisely frame the subject's eyes. The observation log for this time confirms blinking appears normal. Therefore, 'A normal and relaxed eye blink' is the correct description of the action within the specified bounding box.\n\n- Option A is a text-based distractor. A glance away is a plausible action during speech, but it does not occur in the video; the subject maintains a direct gaze.\n- Option C is a video-based distractor. A shoulder shrug does occur, but it happens at a different time (around 11.7s) and in a different body region (shoulders, not eyes).\n- Option D is a video-based distractor. The mouth is moving with speech at 8.6s, but the bounding box is localized on the eyes, not the mouth.\n- Option E is a near-miss distractor. It correctly identifies the body part (eyes) but misinterprets the action. The movement is a normal blink, not a squint or narrowing for concentration.\n- Option F is a video-based distractor. While the overall facial expression is neutral, the specified bounding box is small and captures a specific, transient action—the blink—which is more prominent than the static state of the surrounding face."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "The video contains a brief, subtle non-verbal gesture indicating a casual or relaxed attitude. At which time and location does this specific gesture occur?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[2.4s] (x=0.391, y=0.490, w=0.115, h=0.116)"
+        },
+        {
+          "id": "B",
+          "text": "[11.7s] (x=0.126, y=0.622, w=0.602, h=0.274)"
+        },
+        {
+          "id": "C",
+          "text": "[8.9s] (x=0.280, y=0.032, w=0.327, h=0.647)"
+        },
+        {
+          "id": "D",
+          "text": "[2.0s] (x=0.347, y=0.304, w=0.191, h=0.108)"
+        },
+        {
+          "id": "E",
+          "text": "[11.7s] (x=0.391, y=0.490, w=0.115, h=0.116)"
+        },
+        {
+          "id": "F",
+          "text": "[5.5s] (x=0.126, y=0.622, w=0.602, h=0.274)"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. The 'brief, subtle non-verbal gesture indicating a casual or relaxed attitude' is the shoulder shrug. The observation data pinpoints this action at 11.7s in the shoulder region, and the bounding box (x=0.126, y=0.622, w=0.602, h=0.274) correctly corresponds to the shoulders at that exact moment.\n\n- Option A is a video-based distractor. This timestamp and bbox correspond to the subject's mouth while speaking.\n- Option C is a video-based distractor. This timestamp and bbox correspond to the subject's head, which is held relatively still.\n- Option D is a video-based distractor. This timestamp and bbox correspond to the subject's eyes, showing direct gaze.\n- Option E is a near-miss distractor. It has the correct timestamp (11.7s) for the shrug, but the bounding box is incorrect, pointing to the mouth. This tests for joint temporal and spatial accuracy.\n- Option F is a near-miss distractor. It has the correct bounding box for the shoulders, but the timestamp (5.5s) is incorrect, as the shrug had not yet occurred. This also tests for joint temporal and spatial accuracy."
+    },
+    {
+      "category": "Counterfactual Reasoning",
+      "question": "If the person had NOT exhibited the behavior observed around 11.5s - 12.5s, which of the following personality assessments would be MOST affected?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The assessment for Conscientiousness would likely increase, as this behavior is the primary signal of a disorganized mindset."
+        },
+        {
+          "id": "B",
+          "text": "The assessment for Conscientiousness would be less certain, as a key physical sign of a casual disposition would be lost."
+        },
+        {
+          "id": "C",
+          "text": "The rating for Agreeableness would be impacted, since the gesture is a main indicator of his cooperative and friendly attitude."
+        },
+        {
+          "id": "D",
+          "text": "The Very Low Neuroticism score would be weakened, as the action is a key part of his emotionally stable presentation."
+        },
+        {
+          "id": "E",
+          "text": "The assessment for Extraversion would likely change, because that behavior is a primary signal of his general social introversion."
+        },
+        {
+          "id": "F",
+          "text": "The Openness rating would be less certain, because that specific action reflects a conventional mindset about his interests."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. The behavior in this interval is the slight shoulder shrug at 11.7s. The personality analysis explicitly cites this posture as evidence for Low Conscientiousness ('a sign of a casual, less-structured disposition'). Removing this key piece of physical evidence would weaken the conclusion, making the 'Low' rating less certain, even if other evidence (imprecise language) remains.\n\n- Option A is a near-miss distractor. It correctly identifies the trait (Conscientiousness) but incorrectly describes the impact. Removing evidence for a 'Low' rating doesn't automatically mean the rating would 'increase'; it means the existing assessment becomes less supported. It also mischaracterizes the signal as representing a 'disorganized mindset' rather than a 'casual disposition'.\n- Option C is a text-based distractor. The shrug is not an indicator of Agreeableness; other cues like direct eye contact are more relevant for that trait. The assessment for Agreeableness would be largely unaffected by the absence of the shrug.\n- Option D is a video-based distractor. It correctly identifies a trait (Very Low Neuroticism) that is present in the video, but the shrug is not a primary piece of evidence for it. His stable facial expression and steady voice are far more important for the Neuroticism score.\n- Option E is a video-based distractor. The shrug is not a primary indicator of Extraversion. His low vocal energy and minimal expressive range are the key signals for his low score in that domain.\n- Option F is a text-based distractor. The shoulder shrug is not typically interpreted as a signal related to Openness or a 'conventional mindset'."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator19",
+      "version": 1,
+      "clues_total": 14,
+      "clues_correct": 11,
+      "clues_wrong_corrected": 2,
+      "clues_missing_skipped": 1,
+      "clues_bonus": 0
+    }
+  }
+}

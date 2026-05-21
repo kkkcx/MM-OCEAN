@@ -1,0 +1,292 @@
+{
+  "video_id": "c672aEuUa-g.005.mp4",
+  "video_path": "c672aEuUa-g.005.mp4",
+  "transcription": "The non physical energy that is working during a reading does not operate on our linear time and physical space so-",
+  "original_scores": {
+    "extraversion": 0.4392523364485981,
+    "agreeableness": 0.4945054945054945,
+    "conscientiousness": 0.4563106796116505,
+    "neuroticism": 0.46875,
+    "openness": 0.4666666666666667
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 15.39,
+      "description": "The subject maintains a direct gaze toward the camera. Her eyebrows are slightly lowered and drawn together throughout the clip, with a slight, brief raise for emphasis around 00:03. Her mouth moves naturally with her speech, with the corners slightly turned down. There is consistent mild tension in her lower facial muscles.",
+      "bboxes": [
+        {
+          "frame_time": 3.285576,
+          "x": 0.5432098765432098,
+          "y": 0.21010516340676977,
+          "w": 0.14814814814814814,
+          "h": 0.09327846364883402,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 3.808196,
+          "x": 0.5432098765432098,
+          "y": 0.17718335270718127,
+          "w": 0.16358024691358025,
+          "h": 0.09876543209876543,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 9.199657,
+          "x": 0.5817901234567902,
+          "y": 0.3582533115549179,
+          "w": 0.09722222222222222,
+          "h": 0.09876543209876543,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 5.693829,
+          "x": 0.5246913580246914,
+          "y": 0.15523547890745562,
+          "w": 0.18981481481481483,
+          "h": 0.31275720164609055,
+          "note": "face human-annotated",
+          "region": "face"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 15.39,
+      "description": "The subject is framed from the upper chest up, maintaining an upright posture. Her head is mostly still with very slight tilts. Her hands are held low, mostly out of the frame, with subtle shoulder movements indicating minimal gesturing.",
+      "bboxes": [
+        {
+          "frame_time": 5.693829,
+          "x": 0.5061728395061729,
+          "y": 0.05372656258372449,
+          "w": 0.2808641975308642,
+          "h": 0.8148148148148148,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 5.693829,
+          "x": 0.3966049382716049,
+          "y": 0.41860996450416343,
+          "w": 0.45524691358024694,
+          "h": 0.5813900354958366,
+          "note": "pose human-annotated",
+          "region": "torso"
+        },
+        {
+          "frame_time": 13.440617,
+          "x": 0.5169753086419753,
+          "y": 0.029035204559033138,
+          "w": 0.22376543209876543,
+          "h": 0.8120713305898491,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 3.058082,
+          "x": 0.6404320987654321,
+          "y": 0.8685413773985393,
+          "w": 0.1712962962962963,
+          "h": 0.13145862260146068,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 6.37532,
+          "x": 0.36419753086419754,
+          "y": 0.4707361647785119,
+          "w": 0.49537037037037035,
+          "h": 0.3292181069958848,
+          "note": "pose human-annotated",
+          "region": "shoulders"
+        },
+        {
+          "frame_time": 0.882804,
+          "x": 0.33641975308641975,
+          "y": 0.8795153142984021,
+          "w": 0.16049382716049382,
+          "h": 0.12048468570159787,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0.54,
+      "end_time": 8.71,
+      "description": "Speech is delivered at a moderate pace with a clear, even volume. Pitch is relatively stable, with emphasis placed on the words 'non-physical' and 'working'. A falling intonation occurs at the end of the phrase 'a reading'.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 9.38,
+      "end_time": 15.39,
+      "description": "The pace and volume remain consistent. The word 'not' is stressed with a slightly higher pitch. The speaker's voice trails off on the final word 'so-' as the clip ends.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.39,
+      "description": "The subject is a woman with fair skin and long, straight blonde hair. She is wearing a black, wide-neck top. The background is a plain, light-colored wall. The lighting is soft and has a warm, reddish-yellow tint.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Medium",
+      "score": 0.44,
+      "rationale": "The subject presents a balanced profile of extraverted and introverted cues. Her willingness to speak directly to the camera with a clear, steady voice indicates a degree of social confidence. However, her physical presentation is highly restrained, characterized by a still head and torso, minimal hand gestures, and a lack of animated facial expressions. This reserved body language counters the traits of high extraversion, placing her in the Medium range.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Medium",
+      "score": 0.49,
+      "rationale": "The subject's demeanor is neutral and professional. The relaxed eyebrows and calm vocal delivery suggest a non-confrontational attitude, which aligns with agreeableness. However, the consistent slight tension in her lower face and the subtly downturned corners of her mouth detract from a perception of overt warmth or friendliness. This combination of calm composure without effusive warmth supports a Medium score.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Medium",
+      "score": 0.46,
+      "rationale": "Evidence suggests a moderate level of conscientiousness. The subject's upright posture, controlled demeanor, and articulate, even-paced speech imply preparation and self-discipline. The simple, uncluttered background also points to an organized approach. However, the presentation is not rigidly formal, and the speech trails off at the end, which slightly tempers the impression of high meticulousness. This balance between preparedness and a relaxed finish is indicative of a Medium level.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Medium",
+      "score": 0.47,
+      "rationale": "The subject displays a mix of emotionally stable and subtly tense cues. Her overall composure is high, with a steady posture, relaxed eyebrows, and a controlled vocal tone, all of which argue against high neuroticism. Conversely, the persistent, slight tension in the lower facial muscles can be an indicator of underlying stress or anxiety. This combination of external calm with a subtle, contained sign of tension is characteristic of a Medium Neuroticism score.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "Medium",
+      "score": 0.47,
+      "rationale": "The subject's Openness level is assessed as Medium based on a contrast between content and delivery. Her choice to discuss an abstract, metaphysical topic ('non-physical energy') suggests an interest in unconventional ideas. However, her presentation style is very conventional and straightforward, with plain attire, a simple background, and a measured, unembellished delivery. This juxtaposition of an abstract topic with a grounded, non-expressive communication style points to a Medium level of Openness.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During 0.0s - 15.4s, the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by the contrast between their verbal topic and their physical delivery style?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Medium Openness"
+        },
+        {
+          "id": "B",
+          "text": "High Openness"
+        },
+        {
+          "id": "C",
+          "text": "Medium Neuroticism"
+        },
+        {
+          "id": "D",
+          "text": "Low Agreeableness"
+        },
+        {
+          "id": "E",
+          "text": "High Extraversion"
+        },
+        {
+          "id": "F",
+          "text": "Low Conscientiousness"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The analysis highlights a key contrast: the person discusses an abstract, metaphysical topic (a sign of high Openness) but does so with a very conventional, restrained, and unembellished delivery (a sign of lower Openness). This specific conflict between content and style is the primary evidence for a Medium Openness score.\n- Option B is a near-miss distractor. It correctly identifies the relevant trait (Openness) but focuses only on the abstract topic while ignoring the conventional delivery style, leading to an incorrect level (High instead of Medium).\n- Option C is a video-based distractor. The video does contain evidence for Medium Neuroticism (calm demeanor vs. facial tension), but this assessment is not based on the specific contrast between verbal topic and delivery style mentioned in the question.\n- Option D is a text-based distractor. One might infer 'Low Agreeableness' from a written description of 'downturned mouth corners' or 'facial tension', but her overall calm and neutral demeanor in the video does not support this.\n- Option E is a text-based distractor. The act of speaking to a camera could plausibly suggest high extraversion, but the video evidence of highly restrained body language and minimal gestures strongly contradicts this.\n- Option F is a video-based distractor. It focuses on a single minor detail (speech trailing off at the end) to incorrectly suggest low conscientiousness, while ignoring the stronger evidence of preparedness like upright posture and articulate speech."
+    },
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable facial expression occur that is most relevant to the assessment of the person's Medium Neuroticism level, specifically pertaining to underlying tension?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[9.0s - 9.5s]"
+        },
+        {
+          "id": "B",
+          "text": "[0.5s - 1.0s]"
+        },
+        {
+          "id": "C",
+          "text": "[3.8s - 4.3s]"
+        },
+        {
+          "id": "D",
+          "text": "[8.0s - 8.5s]"
+        },
+        {
+          "id": "E",
+          "text": "[6.5s - 7.0s]"
+        },
+        {
+          "id": "F",
+          "text": "[13.0s - 13.5s]"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The key indicator for Medium Neuroticism is the subtle but persistent tension in the lower face. Around 9.0s-9.5s, when the speaker emphasizes the word 'not', the movement of her mouth makes this underlying tension particularly observable. The slight downward pull at the corners is also clear here.\n- Option B is a video-based distractor. This interval covers the start of her speech, which is a distinct event, but it's not the clearest moment to observe the subtle, persistent facial tension.\n- Option C is a video-based distractor. This interval covers the emphasis on the word 'working', another real event, but the specific expression related to tension is more pronounced around 9.2s.\n- Option D is a near-miss distractor. This time interval is very close to the correct one but occurs just before the key word and expression, making it slightly less optimal for observation.\n- Options E and F are text-based distractors. They represent plausible time intervals within the video's duration but do not correspond to any specific or particularly revealing facial expression."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 3.8s, a region was detected in the video (x=0.543, y=0.177, w=0.164, h=0.099, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A neutral and relaxed brow line with no discernible muscle activation."
+        },
+        {
+          "id": "B",
+          "text": "A slight downward turn of the lip corners during articulate speech."
+        },
+        {
+          "id": "C",
+          "text": "Persistent tension visible in the muscles surrounding the lower jaw."
+        },
+        {
+          "id": "D",
+          "text": "A static and largely unmoving position maintained by the speaker's head."
+        },
+        {
+          "id": "E",
+          "text": "A subtle lowering and furrowing of the brows indicating concentration."
+        },
+        {
+          "id": "F",
+          "text": "An upright and stable posture consistently held in the upper torso area."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The provided coordinates at 3.8s precisely frame the person's eyebrows. The observation data confirms that throughout the video, her eyebrows remain in a relaxed, neutral position. This option accurately describes that state.\n- Option B is a video-based distractor. This action occurs, but it is located in the mouth region, which is outside the specified bounding box.\n- Option C is a video-based distractor. This tension is present, but it is in the lower face and jaw region, not in the eyebrow area defined by the coordinates.\n- Option D is a video-based distractor. The head is indeed still, but the bounding box is too small and positioned too high to be describing the entire head's motion.\n- Option E is a near-miss distractor. It correctly identifies the body part (eyebrows) but describes an incorrect action (lowering and furrowing), which is a common misinterpretation of a neutral expression. This distractor is based on documented AI error patterns.\n- Option F is a video-based distractor. The posture is upright, but this pertains to the torso, a region far from the specified bounding box around the eyebrows."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator08",
+      "version": 1,
+      "clues_total": 13,
+      "clues_correct": 12,
+      "clues_wrong_corrected": 1,
+      "clues_missing_skipped": 0,
+      "clues_bonus": 0
+    }
+  }
+}

@@ -1,0 +1,424 @@
+{
+  "video_id": "d8skGb2ycio.002.mp4",
+  "video_path": "d8skGb2ycio.002.mp4",
+  "transcription": "Get away from niche so much and I want you to focus on someone in your life and a problem they're having and see if you can help them solve that problem. Moral of the story, you've got to man up and you've got to pick something because nobody's going to pick anything for you. The second--",
+  "original_scores": {
+    "extraversion": 0.6542056074766356,
+    "agreeableness": 0.6043956043956044,
+    "conscientiousness": 0.6893203883495147,
+    "neuroticism": 0.7708333333333334,
+    "openness": 0.6777777777777777
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 4.9,
+      "description": "The subject maintains a direct gaze toward the camera with a neutral to slightly serious expression. His eyebrows raise and lower subtly as he speaks. He briefly winks his left eye at 3.3 seconds.",
+      "bboxes": [
+        {
+          "frame_time": 1.506802,
+          "x": 0.3963815789473684,
+          "y": 0.20052631779720909,
+          "w": 0.19095394736842106,
+          "h": 0.09736842105263158,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 2.373358,
+          "x": 0.3963815789473684,
+          "y": 0.10842105463931435,
+          "w": 0.2042763157894737,
+          "h": 0.4026315789473684,
+          "note": "face human-annotated",
+          "region": "face"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 4.9,
+      "end_time": 10.6,
+      "description": "His expression becomes more animated, with a brief, slight smile appearing as he speaks. His eyebrows continue to move up and down for emphasis, synchronized with his speech.",
+      "bboxes": [
+        {
+          "frame_time": 6.213369,
+          "x": 0.3712171052631579,
+          "y": 0.1531578967445775,
+          "w": 0.225,
+          "h": 0.38421052631578945,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 6.213369,
+          "x": 0.4319078947368421,
+          "y": 0.36631579148141963,
+          "w": 0.12286184210526316,
+          "h": 0.11052631578947368,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 10.6,
+      "end_time": 15.6,
+      "description": "The subject's expression becomes more firm and serious. He raises his eyebrows and opens his eyes wider for emphasis on the phrase \"man up,\" maintaining direct, steady eye contact.",
+      "bboxes": [
+        {
+          "frame_time": 14.010624,
+          "x": 0.4008223684210526,
+          "y": 0.19263158095510383,
+          "w": 0.2205592105263158,
+          "h": 0.3605263157894737,
+          "note": "face human-annotated",
+          "region": "face"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 1.05,
+      "description": "The subject sits facing the camera, with head and shoulders relatively still.",
+      "bboxes": [
+        {
+          "frame_time": 0.564421,
+          "x": 0.4126644736842105,
+          "y": 0.06631579148141961,
+          "w": 0.2412828947368421,
+          "h": 0.6236842105263158,
+          "note": "human-annotated",
+          "region": "unknown"
+        },
+        {
+          "frame_time": 1.05,
+          "x": 0.3815789473684211,
+          "y": 0.03736842306036698,
+          "w": 0.26644736842105265,
+          "h": 0.6631578947368421,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 1.05,
+      "end_time": 10.5,
+      "description": "The subject frequently gestures with his right hand, which moves in and out of the frame. The gestures are open-palmed and illustrative, moving away from his body to the right.",
+      "bboxes": [
+        {
+          "frame_time": 3.17177,
+          "x": 0.7072368421052632,
+          "y": 0.6847368441129985,
+          "w": 0.2131578947368421,
+          "h": 0.3105263157894737,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 1.862394,
+          "x": 0.5547697368421053,
+          "y": 0.30052631779720906,
+          "w": 0.25164473684210525,
+          "h": 0.41578947368421054,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 4.952537,
+          "x": 0.2113486842105263,
+          "y": 0.4794736862182617,
+          "w": 0.7886513157894737,
+          "h": 0.42105263157894735,
+          "note": "pose human-annotated",
+          "region": "torso"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 10.5,
+      "end_time": 15.6,
+      "description": "The subject's right hand gestures become more emphatic, rising to chest level with an open palm and then gesturing forward with the index finger extended. His head nods in sync with his speech for emphasis.",
+      "bboxes": [
+        {
+          "frame_time": 12.450548,
+          "x": 0.6569078947368421,
+          "y": 0.1768421072708933,
+          "w": 0.1879934210526316,
+          "h": 0.4763157894736842,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 15.084174,
+          "x": 0.66875,
+          "y": 0.41894737042878805,
+          "w": 0.21019736842105263,
+          "h": 0.46842105263157896,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 15.084174,
+          "x": 0.41710526315789476,
+          "y": 0.07421052832352487,
+          "w": 0.2501644736842105,
+          "h": 0.531578947368421,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 9,
+      "description": "Speech is delivered at a steady, conversational pace and volume.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 10.8,
+      "end_time": 15.6,
+      "description": "The pace of speech becomes more deliberate and then quickens. There is increased volume and emphatic stress on the words \"man up\" and \"pick something.\" The final sentence is spoken rapidly before being cut off.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.6,
+      "description": "The video is in black and white. The subject is a man wearing a dark V-neck shirt and a black baseball cap with a white logo resembling the St. Louis Cardinals 'StL' symbol. He is indoors against a plain, light-colored wall. A bright light source is visible on the right side of the frame. A logo for 'FearlessSOCIAL' is in the bottom-left corner, and the handle '@benadkins' is in the bottom-right.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "High",
+      "score": 0.65,
+      "rationale": "The subject's high extraversion is evident in his assertive and engaging communication style. He maintains direct eye contact, uses frequent and expressive hand gestures, and modulates his vocal tone for emphasis. His facial expressions become more lively as he warms to his topic. The context of delivering a direct-to-camera monologue is itself an extraverted act, indicating comfort with being the center of attention and a drive to socially engage and influence an audience.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "High",
+      "score": 0.6,
+      "rationale": "This score is supported by the pro-social nature of his core message, which is to 'help them solve that problem.' This reflects a concern for others' well-being. Furthermore, his use of open-palm gestures often signals honesty and a cooperative stance. While his tone becomes directive ('man up'), within a motivational context, this can be interpreted as a form of tough but well-intentioned guidance rather than a lack of agreeableness.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "High",
+      "score": 0.69,
+      "rationale": "The subject demonstrates traits of high conscientiousness through his structured and goal-oriented communication. His message is clear and organized, moving from a broad concept to a specific call to action. The deliberate emphasis on key phrases and the use of a pointing gesture indicate a purposeful, results-driven mindset. The very act of creating instructional content suggests a disciplined and methodical approach to achieving a goal.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "High",
+      "score": 0.77,
+      "rationale": "High neuroticism is suggested by the subject's emotional reactivity and the intensity of his delivery. He shifts from a calm, conversational state to a more urgent and forceful tone, marked by increased volume and a faster pace. This escalation, particularly around the phrase 'man up,' conveys a sense of frustration or agitation regarding the topic. This emotional lability and the palpable urgency are characteristic of individuals who experience and express emotions more intensely.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "High",
+      "score": 0.68,
+      "rationale": "The content of the subject's message is the primary indicator of his high openness. He encourages his audience to 'Get away from niche' and adopt a more abstract, problem-solving mindset. This advocacy for unconventional thinking and challenging established norms is a hallmark of openness to new experiences. His dynamic communication style, employing varied gestures and vocal intonations, further reflects a cognitive flexibility and comfort with abstract ideas.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During 10.8s - 15.6s, the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "High Extraversion, due to the assertive and engaging communication."
+        },
+        {
+          "id": "B",
+          "text": "Low Agreeableness, due to the use of confrontational phrasing."
+        },
+        {
+          "id": "C",
+          "text": "Low Neuroticism, due to the speaker's confident and stable posture."
+        },
+        {
+          "id": "D",
+          "text": "High Openness, due to the abstract nature of his core argument."
+        },
+        {
+          "id": "E",
+          "text": "High Conscientiousness, due to the goal-oriented call to action."
+        },
+        {
+          "id": "F",
+          "text": "High Neuroticism, due to the shift towards emotional intensity."
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "Option E is correct. During this interval, the subject's tone becomes more forceful, he uses a pointing gesture (15.1s), and verbally delivers a direct call to action ('man up and you've got to pick something'). This combination of verbal and non-verbal cues strongly indicates a purposeful, organized, and results-driven mindset, which are core facets of high Conscientiousness. Option A is a near-miss distractor; while the assertive communication is also a feature of Extraversion, the specific goal-oriented nature of the behavior in this segment is a more direct indicator of Conscientiousness. Option B is a text-based distractor, misinterpreting the motivational phrase 'man up' as simple confrontation, which would suggest low agreeableness without considering the context. Option C is a text-based distractor, incorrectly associating a forceful delivery with low neuroticism (emotional stability). Option D is a video-based distractor, referencing the trait of Openness, which is supported by the message earlier in the video ('Get away from niche') but not by the specific behaviors in this time segment. Option F is a near-miss distractor; the intensity does support the High Neuroticism rating, but the *structure* of that intensity (pointing, direct command) is more specifically indicative of a conscientious drive."
+    },
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their Agreeableness level?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[0.0s - 1.5s]"
+        },
+        {
+          "id": "B",
+          "text": "[13.5s - 15.0s]"
+        },
+        {
+          "id": "C",
+          "text": "[2.5s - 4.0s]"
+        },
+        {
+          "id": "D",
+          "text": "[9.0s - 10.5s]"
+        },
+        {
+          "id": "E",
+          "text": "[4.9s - 6.4s]"
+        },
+        {
+          "id": "F",
+          "text": "[7.0s - 8.5s]"
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "Option E is correct. The analysis notes that High Agreeableness is supported by a pro-social message and cooperative gestures. The most significant facial change supporting this is the shift from a serious expression to a more lively one, including a brief smile noted at 6.2s. The interval [4.9s - 6.4s] captures this transition perfectly. Option A is a video-based distractor, representing the initial, static neutral expression. Option B is a video-based distractor, showing the later, more determined and serious expression. Option C is a video-based distractor, showing a period of hand gesturing while the face remains serious. Option D is a near-miss distractor; this interval is toward the end of the 'lively expression' phase but occurs after the key micro-expression (the smile) has already passed. Option F is a text-based distractor that falls within the lively expression phase but does not capture the initial, most notable change."
+    },
+    {
+      "category": "Mixed Emotion Discrimination",
+      "question": "During 4.9s - 10.6s, the person's emotional state is best characterized as which of the following? Consider both verbal and non-verbal cues.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Simple amusement tempered by a genuine sense of deep sincerity."
+        },
+        {
+          "id": "B",
+          "text": "Casual confidence mixed with some moments of slight hesitation."
+        },
+        {
+          "id": "C",
+          "text": "Cheerful optimism tempered by a subtle feeling of wistfulness."
+        },
+        {
+          "id": "D",
+          "text": "Assertive determination mixed with a clear sign of frustration."
+        },
+        {
+          "id": "E",
+          "text": "Encouraging warmth mixed with a strong degree of focused conviction."
+        },
+        {
+          "id": "F",
+          "text": "Neutral seriousness tempered by an attitude of quiet engagement."
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "Option E is correct. In this segment, the subject's expression becomes more lively, featuring a brief smile (6.2s) while he delivers the pro-social message to 'help them solve that problem.' This combination of a warm, affiliative expression and a focused, advice-giving verbal content is best described as 'encouraging warmth mixed with focused conviction.' Option A is a near-miss distractor; 'sincerity' is appropriate, but 'amusement' is incorrect for the instructional context. Option B is a text-based distractor, as there is no evidence of hesitation. Option C is a text-based distractor; 'wistfulness' is entirely unsupported by the video. Option D is a video-based distractor, as it accurately describes the emotional state of the *next* time segment (10.6s onwards). Option F is also a video-based distractor, as it describes the emotional state of the *previous* time segment (0.0s - 4.9s)."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 14.0s, a region was detected in the video (x=0.401, y=0.193, w=0.221, h=0.361, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A raised, open-palmed gesture made with the left hand."
+        },
+        {
+          "id": "B",
+          "text": "A brief and transient smile appearing around the mouth area."
+        },
+        {
+          "id": "C",
+          "text": "A steady, direct, and unwavering gaze towards the camera."
+        },
+        {
+          "id": "D",
+          "text": "A raised, open-palmed gesture made with the right hand."
+        },
+        {
+          "id": "E",
+          "text": "A determined and very serious overall facial expression."
+        },
+        {
+          "id": "F",
+          "text": "A slight and subtle raising of the eyebrows for emphasis."
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "Option E is correct. The provided coordinates at 14.0s isolate the subject's face. At this moment, during the phrase 'man up,' his expression is noted as becoming 'more determined and serious,' which is the most prominent feature within that bounding box. Option A is a video-based distractor; a hand gesture is occurring, but it is outside the specified facial region. Option B is a video-based distractor from a different time segment; the smile occurs much earlier in the video (around 6.2s). Option C is a video-based distractor that describes an aspect of the face (the eyes) but fails to capture the more holistic and dominant 'determined' expression of the entire region. Option D is a near-miss distractor, correctly identifying a hand gesture but specifying the wrong hand (he gestures with his left, not right hand). Option F is a text-based distractor based on 'negative evidence'; eyebrow raising for emphasis was an AI error and is not present in the video."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "Which timestamp and bounding box best captures the moment when the subject's expressive, open-handed gestures are most expansive and accompanied by a lateral shift in his upper body?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[15.1s] x=0.67, y=0.42, w=0.21, h=0.47"
+        },
+        {
+          "id": "B",
+          "text": "[2.4s] x=0.40, y=0.11, w=0.20, h=0.40"
+        },
+        {
+          "id": "C",
+          "text": "[1.1s] x=0.38, y=0.04, w=0.27, h=0.66"
+        },
+        {
+          "id": "D",
+          "text": "[5.0s] x=0.21, y=0.48, w=0.79, h=0.42"
+        },
+        {
+          "id": "E",
+          "text": "[1.5s] x=0.40, y=0.20, w=0.19, h=0.10"
+        },
+        {
+          "id": "F",
+          "text": "[14.0s] x=0.40, y=0.19, w=0.22, h=0.36"
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Option D is correct. At 5.0s, the wide bounding box (w=0.79) captures a large area of the screen, corresponding to the observation that the subject's torso moves laterally to the right while he is making an expressive, open-palmed gesture. This combination of an expansive gesture and body movement is uniquely identified by this specific timestamp and wide bounding box. Option A captures the pointing hand gesture at the end. Option B isolates the face during the initial neutral phase. Option C shows the static head and shoulders at the beginning. Option E isolates only the eyes during the initial phase. Option F isolates the face during the later, determined phase."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [
+      {
+        "check": "A",
+        "q_idx": 0,
+        "issue": "The correct answer is 'E' (High Conscientiousness), but the personality analysis for High Neuroticism is almost entirely based on the behaviors in the specified time window (10.8s - 15.6s), specifically the 'shift towards emotional intensity' and 'urgent and forceful tone'. The analysis makes a much stronger case for 'F' (High Neuroticism) being the trait most directly supported by this specific behavior.",
+        "action": "Changed correct answer from E to F."
+      }
+    ],
+    "corrections": {
+      "mcq_questions[0].correct_answer": "F"
+    },
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator11",
+      "version": 1,
+      "clues_total": 22,
+      "clues_correct": 14,
+      "clues_wrong_corrected": 2,
+      "clues_missing_skipped": 6,
+      "clues_bonus": 0
+    }
+  }
+}

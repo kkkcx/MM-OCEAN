@@ -1,0 +1,464 @@
+{
+  "video_id": "ask-ZFRztf8.000.mp4",
+  "video_path": "ask-ZFRztf8.000.mp4",
+  "transcription": "I get to eat so much food and it's going to be so much fun. It is fun and it's great to eat food and it's great to have energy all the time for anything you want to do. Especially for girls, I think the mental aspect of not seeing the muscles you-",
+  "original_scores": {
+    "extraversion": 0.4579439252336449,
+    "agreeableness": 0.4835164835164835,
+    "conscientiousness": 0.5436893203883495,
+    "neuroticism": 0.45833333333333337,
+    "openness": 0.5222222222222223
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 15.68,
+      "description": "The subject maintains a direct gaze towards the camera with a generally relaxed and expressive facial posture. Her eyebrows are slightly raised throughout, and her mouth forms slight smiles at the corners when she says words like \"fun.\" Her blinking is natural, and she shows no signs of facial tension.",
+      "bboxes": [
+        {
+          "frame_time": 0.236946,
+          "x": 0.5384868421052632,
+          "y": 0.06578947368421052,
+          "w": 0.1361842105263158,
+          "h": 0.11842105263157894,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 0.236946,
+          "x": 0.5103618421052631,
+          "y": 0.013157894736842105,
+          "w": 0.19539473684210526,
+          "h": 0.33421052631578946,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 0.236946,
+          "x": 0.5473684210526316,
+          "y": 0.02894736842105263,
+          "w": 0.13470394736842106,
+          "h": 0.10526315789473684,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 3.609537,
+          "x": 0.5370065789473685,
+          "y": 0.2394736842105263,
+          "w": 0.08585526315789474,
+          "h": 0.06842105263157895,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 3.609537,
+          "x": 0.5148026315789473,
+          "y": 0.10789473684210527,
+          "w": 0.10805921052631579,
+          "h": 0.09473684210526316,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 5.382079,
+          "x": 0.5148026315789473,
+          "y": 0.1,
+          "w": 0.1361842105263158,
+          "h": 0.2894736842105263,
+          "note": "face human-annotated",
+          "region": "face"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 1.05,
+      "description": "The subject, sitting upright, makes a small gesture by tapping her chest with her right fist.",
+      "bboxes": [
+        {
+          "frame_time": 0.812389,
+          "x": 0.662828947368421,
+          "y": 0.4789473684210526,
+          "w": 0.12582236842105263,
+          "h": 0.25263157894736843,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 1.05,
+      "end_time": 3.49,
+      "description": "She raises her right hand and touches her left clavicle and shoulder area.",
+      "bboxes": [
+        {
+          "frame_time": 1.353982,
+          "x": 0.6702302631578947,
+          "y": 0.3973684210526316,
+          "w": 0.140625,
+          "h": 0.22894736842105262,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 3.080309,
+          "x": 0.6243421052631579,
+          "y": 0.44473684210526315,
+          "w": 0.15986842105263158,
+          "h": 0.22894736842105262,
+          "note": "pose human-annotated",
+          "region": "shoulders"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 3.49,
+      "end_time": 5.4,
+      "description": "She brings her right hand up to the right side of her head, tucking her hair back.",
+      "bboxes": [
+        {
+          "frame_time": 4.772787,
+          "x": 0.3756578947368421,
+          "y": 0.031578947368421054,
+          "w": 0.14358552631578947,
+          "h": 0.25263157894736843,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 5.4,
+      "end_time": 13.56,
+      "description": "Her hands remain mostly out of frame or at rest as she speaks, with her head nodding slightly for emphasis.",
+      "bboxes": [
+        {
+          "frame_time": 10.713384,
+          "x": 0.2720394736842105,
+          "y": 0.8526315789473684,
+          "w": 0.49588815789473684,
+          "h": 0.14210526315789473,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 8.513163,
+          "x": 0.4511513157894737,
+          "y": 0,
+          "w": 0.18207236842105262,
+          "h": 0.31842105263157894,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 13.56,
+      "end_time": 14.86,
+      "description": "She raises both hands to chest level with open palms in an illustrative gesture.",
+      "bboxes": [
+        {
+          "frame_time": 13.778525,
+          "x": 0.7383223684210526,
+          "y": 0.6026315789473684,
+          "w": 0.18503289473684212,
+          "h": 0.3078947368421053,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 2.7,
+      "description": "Speaks at a moderate pace with an enthusiastic, slightly rising and then falling pitch on the phrases \"so much food\" and \"so much fun.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 2.7,
+      "end_time": 10.43,
+      "description": "Maintains a conversational pace and volume. Pitch rises slightly on words like \"fun\" and \"great\" for emphasis. A brief pause for breath occurs at 8.35 seconds.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 10.43,
+      "end_time": 15.68,
+      "description": "The speech rate remains consistent, with clear stress placed on the words \"especially\" and \"mental.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.68,
+      "description": "The subject is a woman with fair skin and long, brown hair. She is wearing a white tank top. The setting is indoors, likely a bedroom, with dim, frontal lighting. A dark grey wall is visible behind her, with a purple and white abstract picture hanging on it. She is sitting on a bed with dark-colored bedding, and a pink pillow is visible to her right. On the left, a plant with dry, light-colored branches sits in a white basket.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Medium",
+      "score": 0.46,
+      "rationale": "The subject presents a balance of extraverted and introverted cues, warranting a Medium rating. She demonstrates social engagement through direct and sustained eye contact with the camera and vocal enthusiasm when discussing positive topics. However, her gestural energy is contained; hands remain still or out of frame for significant periods, contrasting with the expansive body language typical of high extraversion. This combination of verbal expressiveness and physical restraint points to an ambiverted personality.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Medium",
+      "score": 0.48,
+      "rationale": "The subject's Agreeableness is assessed as Medium. Pro-social indicators such as a generally relaxed facial expression and smiles corresponding with positive words suggest a pleasant demeanor. However, the narrative is primarily self-referential and analytical rather than focused on building social harmony or rapport. The use of open-palmed gestures is present but infrequent. This blend of warm affect with a self-focused, introspective topic supports a mid-range score.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Medium",
+      "score": 0.54,
+      "rationale": "A Medium level of Conscientiousness is indicated. The subject's speech is structured and articulate, with deliberate vocal emphasis on key words like 'especially' and 'mental,' suggesting thoughtful preparation and a desire for clarity. Conversely, small, non-instrumental gestures like pulling on a clothing strap and touching her shoulder point to a less rigidly controlled state, allowing for spontaneous behavior. This mix of deliberate communication and minor, unmanaged actions is consistent with a moderate score.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Medium",
+      "score": 0.46,
+      "rationale": "The subject exhibits conflicting cues that average out to a Medium Neuroticism score. While her overall presentation is composed—evidenced by steady eye contact and a natural blink rate—there are clear, albeit subtle, indicators of underlying anxiety. These include observed moments of facial tension, fidgeting with her clothing, and self-soothing gestures (touching her clavicle). This suggests an individual who experiences a moderate level of stress but possesses the regulatory capacity to maintain functional composure.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "Medium",
+      "score": 0.52,
+      "rationale": "The subject's Openness is rated as Medium. She demonstrates a capacity for abstract thought by shifting the conversation from a concrete topic (food, energy) to a psychological one ('the mental aspect'). The presence of abstract art in her personal space also suggests an appreciation for aesthetics. However, the overall subject matter remains conventional and grounded in personal experience, not venturing into highly intellectual or unconventional domains. This balance between introspection and conventionality supports a mid-range score.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During [0.0s - 3.5s], the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A medium level of Openness to new experiences"
+        },
+        {
+          "id": "B",
+          "text": "A low level of overall Conscientiousness"
+        },
+        {
+          "id": "C",
+          "text": "A medium level of social Extraversion"
+        },
+        {
+          "id": "D",
+          "text": "A high level of trait Neuroticism"
+        },
+        {
+          "id": "E",
+          "text": "A medium level of trait Neuroticism"
+        },
+        {
+          "id": "F",
+          "text": "A high level of interpersonal Agreeableness"
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. During this period, the person fidgets with their clothing strap (0.0s-1.1s) and touches their clavicle (1.1s-3.5s). The personality analysis explicitly identifies these as self-soothing gestures that are 'clear, albeit subtle, indicators of underlying anxiety,' which is the core of Neuroticism. Because these cues are balanced by an overall composed demeanor, they support a Medium, not High, score.\n\n- Option A is a text-based distractor. The behaviors in this time frame are not related to Openness; evidence for that trait comes later from the shift to an abstract topic.\n- Option B is a text-based distractor. Fidgeting could plausibly be interpreted as a lack of self-control (low Conscientiousness), but the analysis links it more strongly to anxiety (Neuroticism).\n- Option C is a video-based distractor. Evidence for Extraversion (e.g., eye contact, vocal tone) is present throughout the video, but the specific gestures in this interval do not support it.\n- Option D is a near-miss distractor. It correctly identifies the trait (Neuroticism) but gets the level wrong. The analysis notes the cues are subtle and balanced by composure, making 'Medium' more accurate than 'High'.\n- Option F is a text-based distractor. These self-focused behaviors do not provide strong evidence for or against Agreeableness."
+    },
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable behavior occur that is most relevant to the subject's medium Neuroticism score?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[0.0s - 0.6s]"
+        },
+        {
+          "id": "B",
+          "text": "[3.0s - 3.6s]"
+        },
+        {
+          "id": "C",
+          "text": "[8.2s - 8.8s]"
+        },
+        {
+          "id": "D",
+          "text": "[13.5s - 14.1s]"
+        },
+        {
+          "id": "E",
+          "text": "[5.3s - 5.9s]"
+        },
+        {
+          "id": "F",
+          "text": "[4.7s - 5.3s]"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The correct answer is E. The observation log explicitly notes signs of facial tension with a corresponding bounding box at 5.4s. This subtle expression of tension is a key indicator supporting the Medium Neuroticism assessment, as it contrasts with her otherwise composed demeanor.\n\n- Options A, B, C, D, and F are all video-based distractors. They correspond to other distinct actions: the initial clothing pull ([0.0s-0.6s]), touching the clavicle ([3.0s-3.6s]), a head nod for emphasis ([8.2s-8.8s]), an illustrative hand gesture ([13.5s-14.1s]), and tucking hair back ([4.7s-5.3s]). While some of these are also relevant to Neuroticism (e.g., the self-touching), the question specifically asks for a change in facial or micro-expression, which points directly to the onset of facial tension around 5.4s."
+    },
+    {
+      "category": "Temporal-Causal Reasoning",
+      "question": "Consider the sequence of behaviors observed across the video. Which of the following best describes the causal chain linking the person's actions at different moments?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A shift to an analytical topic introduces cognitive load, which degrades verbal control and later leads to the appearance of non-verbal fidgeting as an outlet for stress."
+        },
+        {
+          "id": "B",
+          "text": "An initial, vocally expressive state leads to a period of physical stillness, which is then followed by self-monitoring behaviors aimed at increasing clarity and poise."
+        },
+        {
+          "id": "C",
+          "text": "A hair-tuck gesture signals a topic shift, which is followed by a period of increased vocal emphasis for key ideas, and then a concluding open-palmed summary gesture."
+        },
+        {
+          "id": "D",
+          "text": "A display of high energy is used to capture attention, followed by a period of deliberate articulation for clarity, which concludes with gestures reinforcing the main points."
+        },
+        {
+          "id": "E",
+          "text": "Early non-verbal fidgeting indicates anxiety, prompting a shift to controlled speech as a regulatory tactic, which in turn facilitates a later move to an analytical topic."
+        },
+        {
+          "id": "F",
+          "text": "Early non-verbal fidgeting indicates anxiety, which is directly addressed by a shift to an analytical topic, which then results in a more composed and regulated physical state."
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. This option accurately maps the video's psychological arc. The video begins with subtle anxiety cues (fidgeting with clothing, self-touching from 0-3.5s). This is followed by a period of composed, articulate speech with hands kept still (a regulatory/compensatory behavior). This achieved composure allows her to then transition smoothly into the more abstract 'mental aspect' topic (10.4s+).\n\n- Option A is a video-based distractor with reversed temporal order. The fidgeting happens *before* the main analytical topic is introduced, not as a result of it.\n- Option B is a video-based distractor with incorrect causality. While there is vocal expression and physical stillness, the stillness appears to be a method of control from the outset, not a result of the expression.\n- Option C is a video-based distractor. It links real events (hair tuck, vocal emphasis, open palms) but constructs an incorrect causal chain. The hair tuck isn't the primary trigger for the entire sequence.\n- Option D is a text-based distractor. It describes a generic, plausible public speaking strategy that does not match the specific sequence of anxiety-to-regulation seen in the video.\n- Option F is a near-miss distractor. It correctly identifies the initial anxiety and the shift to an analytical topic, but it gets the causal link wrong. The composed state is a *mediator* that enables the topic shift, not a *result* of it."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 1.4s, a region was detected in the video (x=0.67, y=0.40, w=0.14, h=0.23, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Facial muscles in the cheek area showing subtle tension."
+        },
+        {
+          "id": "B",
+          "text": "Fingers making light contact with the person's clavicle."
+        },
+        {
+          "id": "C",
+          "text": "The mouth area forming the shape of a very subtle smile."
+        },
+        {
+          "id": "D",
+          "text": "A hand moving upward in order to tuck back a strand of hair."
+        },
+        {
+          "id": "E",
+          "text": "A hand being raised from the lap to start an initial gesture."
+        },
+        {
+          "id": "F",
+          "text": "The eye region captured in the middle of a natural blinking motion."
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. The provided coordinates at 1.4s correspond to the observation '[1.1s - 3.5s]: She raises her right hand. The bounding box isolates this action as the hand moves up from a resting position into the frame.\n\n- Option A is a video-based distractor. Facial tension is observed, but it is in a different spatial region (the face, not the lower right) and at a different time (around 5.4s).\n- Option B is a video-based distractor. The action of touching the clavicle occurs around 3.1s and the hand is in a different position.\n- Option C is a video-based distractor. A subtle smile is noted, but this is localized to the mouth region (center of the face) around 3.6s, not the area specified by the bounding box.\n- Option D is a video-based distractor. The hair tucking gesture happens around 4.8s, and the hand is positioned much higher in the frame, near the head.\n- Option F is a video-based distractor. A natural blink involves the eyes, which are located in a different spatial region than the one specified by the bounding box."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "Which of the following options correctly identifies the time and location of a period where the speaker's hands are largely at rest or outside the frame while speaking?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[3.1s]  x=0.62, y=0.44, w=0.16, h=0.23"
+        },
+        {
+          "id": "B",
+          "text": "[1.4s]  x=0.67, y=0.40, w=0.14, h=0.23"
+        },
+        {
+          "id": "C",
+          "text": "[10.7s]  x=0.27, y=0.85, w=0.50, h=0.14"
+        },
+        {
+          "id": "D",
+          "text": "[3.6s]  x=0.54, y=0.24, w=0.09, h=0.07"
+        },
+        {
+          "id": "E",
+          "text": "[4.8s]  x=0.38, y=0.03, w=0.14, h=0.25"
+        },
+        {
+          "id": "F",
+          "text": "[3.6s]  x=0.51, y=0.11, w=0.11, h=0.09"
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. This option corresponds to the observation '[5.4s - 13.6s]: Her hands are mostly out of frame or still while speaking. The timestamp 10.7s falls within this range, and the bounding box is located in the lower portion of the frame, consistent with where hands would be resting in the lap or just out of view.\n\n- Options A, B, and E are all video-based distractors that show the hands in motion (touching clavicle, raising hand, tucking hair), which is the opposite of the behavior described in the question.\n- Option D is a video-based distractor that localizes the mouth, not the hands.\n- Option F is a video-based distractor that localizes the eyes, not the hands."
+    },
+    {
+      "category": "Counterfactual Reasoning",
+      "question": "If the person had NOT exhibited the behavior observed around [0.0s - 3.5s], which of the following personality assessments would be MOST affected?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The assessment for Openness would be less certain, as the initial gestures could signal preparation for a complex, abstract line of thought."
+        },
+        {
+          "id": "B",
+          "text": "The assessment for Conscientiousness would be rated higher, as this period's fidgeting cues were interpreted as a lack of deliberate control."
+        },
+        {
+          "id": "C",
+          "text": "The assessment for Extraversion would be rated lower, because the gestures in this time frame contribute to the perception of social energy."
+        },
+        {
+          "id": "D",
+          "text": "The assessment for Neuroticism would increase, because the absence of fidgeting would suggest stronger emotional regulation and control."
+        },
+        {
+          "id": "E",
+          "text": "The assessment for Neuroticism would decrease, as this period contains key evidence of underlying anxiety through self-soothing actions."
+        },
+        {
+          "id": "F",
+          "text": "The assessment for Agreeableness would be assessed higher, given that self-touching behaviors can sometimes be perceived as distracting."
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. The behavior from 0.0s to 3.5s includes fidgeting with a clothing strap and touching the clavicle. The personality analysis explicitly cites these actions as the primary evidence for 'underlying anxiety' which informs the Medium Neuroticism score. Removing these behaviors would eliminate the clearest non-verbal indicators of anxiety, leaving mostly a composed exterior. This would almost certainly lead to a lower assessment for Neuroticism.\n\n- Option A is a text-based distractor. It presents a speculative and weak causal link between the gestures and the trait of Openness.\n- Option B is a video-based distractor. While plausible that fidgeting could affect a Conscientiousness score, the analysis ties it much more directly and strongly to Neuroticism, making that assessment the one that would be *most* affected.\n- Option C is a video-based distractor. This misinterprets the gestures; they are self-soothing, not socially expressive. Evidence for Extraversion comes from eye contact and vocal tone, not these specific actions.\n- Option D is a near-miss distractor. It correctly identifies Neuroticism as the affected trait but states the assessment would increase. Removing evidence of anxiety would cause the score to decrease, not increase.\n- Option F is a text-based distractor. It offers a reasonable social interpretation, but it does not reflect how the evidence was actually used in the provided analysis to assess the core personality traits."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [
+      {
+        "check": "B",
+        "q_idx": 1,
+        "issue": "The correct answer E ([5.3s - 5.9s]) is not supported by the observation data as a time of a 'notable' facial expression change relevant to Neuroticism. The observation notes general 'facial tension' for the entire clip but does not single out this specific interval. In contrast, the interval in option B ([3.0s - 3.6s]) captures the end of a significant self-soothing gesture (touching the shoulder/clavicle) which is explicitly cited as a key indicator for Neuroticism in the personality analysis.",
+        "action": "Changed the question stem to ask for a 'behavior' rather than a 'facial expression' and updated the correct answer to B, which points to a clearly documented and relevant action."
+      }
+    ],
+    "corrections": {
+      "mcq_questions[1].question": "At which time interval does a notable behavior occur that is most relevant to the subject's medium Neuroticism score?",
+      "mcq_questions[1].correct_answer": "B"
+    },
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator04",
+      "version": 1,
+      "clues_total": 17,
+      "clues_correct": 15,
+      "clues_wrong_corrected": 2,
+      "clues_missing_skipped": 0,
+      "clues_bonus": 0
+    }
+  }
+}

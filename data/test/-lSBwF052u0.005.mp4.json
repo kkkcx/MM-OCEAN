@@ -1,0 +1,478 @@
+{
+  "video_id": "-lSBwF052u0.005.mp4",
+  "video_path": "-lSBwF052u0.005.mp4",
+  "transcription": "At the same time I definitely need moments to step back and recharge. I do love being around people, but there is a line, and when I've had too many people become really not sociable, almost rude, do you know what I mean? ...",
+  "original_scores": {
+    "extraversion": 0.4485981308411215,
+    "agreeableness": 0.5934065934065933,
+    "conscientiousness": 0.6019417475728155,
+    "neuroticism": 0.5729166666666666,
+    "openness": 0.6222222222222222
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 2.9,
+      "description": "The subject maintains direct eye contact with the camera. Her eyebrows are relaxed, and her mouth moves naturally as she speaks, with a neutral to serious expression.",
+      "bboxes": [
+        {
+          "frame_time": 2.650456,
+          "x": 0.3897203947368421,
+          "y": 0.20877192647833573,
+          "w": 0.21463815789473684,
+          "h": 0.14736842105263157,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 0.891504,
+          "x": 0.3897203947368421,
+          "y": 0.14561403174149362,
+          "w": 0.21611842105263157,
+          "h": 0.12368421052631579,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 2.412095,
+          "x": 0.4222861842105263,
+          "y": 0.4903508738467568,
+          "w": 0.1317434210526316,
+          "h": 0.10526315789473684,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 0.820972,
+          "x": 0.40008223684210525,
+          "y": 0.21140350542570416,
+          "w": 0.20279605263157896,
+          "h": 0.3684210526315789,
+          "note": "face human-annotated",
+          "region": "face"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 2.9,
+      "end_time": 6.87,
+      "description": "Her eyes widen slightly as she says \"recharge.\" She then returns to a neutral expression, occasionally pressing her lips together between phrases.",
+      "bboxes": [
+        {
+          "frame_time": 4.04126,
+          "x": 0.39120065789473685,
+          "y": 0.19035087384675678,
+          "w": 0.2042763157894737,
+          "h": 0.40789473684210525,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 6.365387,
+          "x": 0.3926809210526316,
+          "y": 0.19561403174149364,
+          "w": 0.18947368421052632,
+          "h": 0.3763157894736842,
+          "note": "face human-annotated",
+          "region": "face"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 6.87,
+      "end_time": 10.9,
+      "description": "The subject's eyes widen significantly, and her eyebrows lift in a quick, sharp movement as she emphasizes her point. Her mouth is slightly open.",
+      "bboxes": [
+        {
+          "frame_time": 7.376336,
+          "x": 0.41192434210526313,
+          "y": 0.4692982422678094,
+          "w": 0.12434210526315789,
+          "h": 0.15526315789473685,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 10.9,
+      "end_time": 15.3,
+      "description": "Her eyebrows lower slightly while her eyes remain wide, creating an intense, focused expression. Her eyebrows then lift again as she moves her hand toward her forehead.",
+      "bboxes": [
+        {
+          "frame_time": 11.845181,
+          "x": 0.3986019736842105,
+          "y": 0.14824561068886205,
+          "w": 0.196875,
+          "h": 0.18947368421052632,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 13.583539,
+          "x": 0.40896381578947366,
+          "y": 0.21140350542570416,
+          "w": 0.18355263157894738,
+          "h": 0.11578947368421053,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 13.583539,
+          "x": 0.42376644736842106,
+          "y": 0.18508771595201995,
+          "w": 0.17171052631578948,
+          "h": 0.3631578947368421,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 13.479326,
+          "x": 0.4060032894736842,
+          "y": 0.16929824226780943,
+          "w": 0.1924342105263158,
+          "h": 0.11578947368421053,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 14.839967,
+          "x": 0.29054276315789473,
+          "y": 0.08245613700465153,
+          "w": 0.35230263157894737,
+          "h": 0.3105263157894737,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 2.5,
+      "description": "The subject sits facing the camera with her head mostly still. Her hands are just out of frame at the bottom, making small movements.",
+      "bboxes": [
+        {
+          "frame_time": 1.216281,
+          "x": 0.3482730263157895,
+          "y": 0.07456140016254625,
+          "w": 0.30641447368421054,
+          "h": 0.5842105263157895,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 1.622658,
+          "x": 0.6902138157894737,
+          "y": 0.7377192948993884,
+          "w": 0.2338815789473684,
+          "h": 0.26052631578947366,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 2.5,
+      "end_time": 4.5,
+      "description": "Her right hand, with red nail polish, rises into the frame and makes a small illustrative gesture to the side before moving back down.",
+      "bboxes": [
+        {
+          "frame_time": 3.322148,
+          "x": 0.16027960526315788,
+          "y": 0.8692982422678094,
+          "w": 0.08585526315789474,
+          "h": 0.11578947368421053,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 3.382753,
+          "x": 0.16768092105263158,
+          "y": 0.898245610688862,
+          "w": 0.07401315789473685,
+          "h": 0.1,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 4.5,
+      "end_time": 8.1,
+      "description": "She clasps her hands together in front of her, just at the bottom of the frame. Her head remains relatively still.",
+      "bboxes": [
+        {
+          "frame_time": 7.488645,
+          "x": 0.30830592105263155,
+          "y": 0.1429824527941252,
+          "w": 0.3256578947368421,
+          "h": 0.531578947368421,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 8.1,
+      "end_time": 13.9,
+      "description": "She unclasps her hands. Her right hand gestures upwards and outwards to her right side as she speaks.",
+      "bboxes": [
+        {
+          "frame_time": 11.674444,
+          "x": 0.2698190789473684,
+          "y": 0.5719298212151779,
+          "w": 0.4529605263157895,
+          "h": 0.4,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 13.9,
+      "end_time": 15.3,
+      "description": "She raises her right hand to her forehead, brushing her hair back with her fingers. A pink bracelet is visible on her left wrist.",
+      "bboxes": [
+        {
+          "frame_time": 14.877309,
+          "x": 0.27425986842105265,
+          "y": 0.08245613700465153,
+          "w": 0.34786184210526316,
+          "h": 0.2894736842105263,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 14.878027,
+          "x": 0.2668585526315789,
+          "y": 0.0798245580572831,
+          "w": 0.3907894736842105,
+          "h": 0.5684210526315789,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 14.878027,
+          "x": 0.2372532894736842,
+          "y": 0.24824561068886206,
+          "w": 0.2945723684210526,
+          "h": 0.45789473684210524,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 4,
+      "description": "The subject speaks at a moderate pace and volume. Her pitch rises slightly on the word \"need\" and again at the end of the word \"recharge.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 4,
+      "end_time": 8.5,
+      "description": "Her speech remains at a steady pace. There is a slight emphasis on the word \"love\" and a definitive downward inflection on the word \"line,\" which is followed by a brief pause.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 8.5,
+      "end_time": 13.8,
+      "description": "Her speech rate and volume increase. She places clear stress on the words \"really,\" \"not sociable,\" and \"rude,\" with a slightly staccato delivery.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 13.8,
+      "end_time": 15.3,
+      "description": "The phrase \"you know what I mean\" is spoken more quickly, with a rising, questioning intonation at the end.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.3,
+      "description": "The subject is a young woman with fair skin, long brown hair, and light-colored eyes. She is wearing makeup, including winged eyeliner and dark pink lipstick, and a stud earring in her right ear. She is wearing a casual, dark grey T-shirt. The setting is an indoor room, likely a bedroom, with grey walls. In the background, a white electric guitar on a stand and a black guitar case are visible on the left. On the right is a white nightstand with a lamp and decorations. A red chair and two decorative items wrapped in warm string lights are also visible.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 12.088149,
+      "end_time": 13.088149,
+      "description": "There is a painting or photo hanging on the wall. Although it is blocked by the head, a faint outline can still be seen.",
+      "bboxes": [
+        {
+          "frame_time": 12.588149,
+          "x": 0.3704769736842105,
+          "y": 0.0008771896362304687,
+          "w": 0.24868421052631579,
+          "h": 0.09473684210526316,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Medium",
+      "score": 0.45,
+      "rationale": "The subject's score falls into the Medium range, indicative of ambiversion. Her verbal statements perfectly capture this duality: she explicitly states, \"I do love being around people,\" a classic extraverted sentiment, but immediately qualifies it with, \"I definitely need moments to step back and recharge\" and admits to becoming \"not sociable\" when overstimulated. This balance is reflected in her non-verbal cues. While she uses some illustrative hand gestures and shows moments of vocal emphasis, her eye contact is not consistently direct, suggesting periods of internal processing more common in introversion. This mixture of socially engaged and reserved behaviors supports a medium classification.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Medium",
+      "score": 0.59,
+      "rationale": "The subject's Agreeableness is rated as Medium. She demonstrates a cooperative communication style by concluding her thought with the phrase \"do you know what I mean?\" delivered with a rising, questioning intonation. This is a rapport-building technique used to ensure the listener understands and agrees with her perspective. However, this pro-social behavior is balanced by her candid admission that she can become \"almost rude.\" This self-aware acknowledgment of a potential for social friction, combined with a generally neutral-to-serious facial expression rather than overt smiling, places her in the medium range for this trait.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "High",
+      "score": 0.6,
+      "rationale": "The High Conscientiousness score is supported by the subject's structured and analytical self-description. She clearly articulates her personal boundaries (\"there is a line\") and explains the cause-and-effect dynamics of her social energy, demonstrating a high degree of self-awareness and an organized thought process. This deliberation is also evident in the attention to detail in her environment; the background is tidy and aesthetically arranged with decorative items and string lights. Her well-applied makeup (winged eyeliner, lipstick) further suggests a degree of diligence and orderliness, which are core facets of Conscientiousness.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Medium",
+      "score": 0.57,
+      "rationale": "The Medium Neuroticism score is indicated by the subject's description of her sensitivity to social stimuli. She identifies a specific trigger (too many people) that leads to a negative emotional state (\"not sociable, almost rude\"). Her emotional arousal is visible when discussing this; her speech becomes faster and more emphasized, and her facial expression becomes more \"intense, focused.\" The gesture of bringing her hand to her forehead while talking about this can be seen as a self-regulating behavior to manage the mild stress of recalling the negative feeling. However, because she describes this state with analytical control rather than being overcome by it, the level remains in the medium range.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "High",
+      "score": 0.62,
+      "rationale": "The subject's High Openness is strongly supported by both her verbal content and environmental cues. Her entire statement is an act of deep introspection, exploring the complexities and nuances of her own personality—a hallmark of intellectual curiosity and openness to feelings. This is externally validated by the background of her room, which contains a guitar stand and case, suggesting an interest in artistic and creative pursuits. Furthermore, her curated personal aesthetic, including distinct makeup and decorative room elements, indicates an appreciation for beauty and a developed sense of self-expression, both of which are central components of the Openness trait.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During 0s - 15s, the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "High Extraversion, indicated by the continuous and energetic speech pattern."
+        },
+        {
+          "id": "B",
+          "text": "High Conscientiousness, supported by the structured and analytical self-description."
+        },
+        {
+          "id": "C",
+          "text": "Low Agreeableness, demonstrated by the admission of potentially rude conduct."
+        },
+        {
+          "id": "D",
+          "text": "Low Conscientiousness, as shown by the casual and unstructured presentation."
+        },
+        {
+          "id": "E",
+          "text": "High Neuroticism, because of the emotional intensity displayed when speaking."
+        },
+        {
+          "id": "F",
+          "text": "Low Openness, evidenced by a focus on very concrete and familiar social topics."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. The person's entire monologue is a structured, cause-and-effect analysis of her own social boundaries and energy levels, which is a strong indicator of the self-awareness and organized thought process associated with High Conscientiousness. \nOption A is a near-miss distractor; while she speaks energetically at times, her verbal content describes a balance between extraversion and introversion (ambiversion), making 'High' an overstatement.\nOption C is a text-based distractor; it focuses on the single phrase 'almost rude' but ignores the broader context and rapport-building cues that lead to a Medium Agreeableness score.\nOption D is a near-miss distractor; it identifies the correct personality dimension but gets the direction wrong, as her explanation is actually quite structured, not casual.\nOption E is a video-based distractor; it correctly identifies the emotional intensity (a real visual cue from 8.5s onwards) but this supports Neuroticism, which is less central to the overall structured self-analysis than Conscientiousness is.\nOption F is a text-based distractor; it is directly contradicted by her introspective and nuanced self-exploration, which is a hallmark of High Openness, not Low."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 13.6s, a region was detected in the video (x=0.42, y=0.19, w=0.17, h=0.36, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Slight and subtle movements of the person's entire head region."
+        },
+        {
+          "id": "B",
+          "text": "An intense and focused facial expression combining eye and brow cues."
+        },
+        {
+          "id": "C",
+          "text": "Averting gaze by looking upwards and to the side, away from the camera."
+        },
+        {
+          "id": "D",
+          "text": "Relaxed eyebrows that are held in a completely neutral facial position."
+        },
+        {
+          "id": "E",
+          "text": "Hand gesturing just slightly below the bottom edge of the video frame."
+        },
+        {
+          "id": "F",
+          "text": "Natural mouth movement occurring as part of the person's steady speech."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. The provided coordinates at 13.6s precisely frame the person's central facial features. At this moment, the observation log states she forms 'an intense, focused expression,' characterized by raised eyebrows and wide-open eyes. This option accurately describes the content of that specific bounding box.\nOption A is a video-based distractor; it describes a different action (general head movement) which is more subtle and not the primary feature in this specific bbox at this time.\nOption C is a video-based distractor; this describes her eye movement from a different time segment (0.0s-2.9s), not what is happening at 13.6s.\nOption D is a video-based distractor; this describes the state of her eyebrows at the beginning of the video, whereas at 13.6s they are raised.\nOption E is a video-based distractor; this describes a hand gesture that is not visible within the specified facial bounding box.\nOption F is a near-miss distractor; while her mouth is moving, the most *prominent* expression in this region at this time is the intensity in her eyes and brows, making it a less accurate description."
+    },
+    {
+      "category": "Counterfactual Reasoning",
+      "question": "If the person had NOT engaged in the detailed self-analysis observed throughout the video [0.0s - 15.3s], which of the following personality assessments would be MOST affected?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The Medium Extraversion score would become Low, as the speech contains the key evidence for her social side."
+        },
+        {
+          "id": "B",
+          "text": "The High Openness assessment would be weakened, as the primary evidence for her introspection would be absent."
+        },
+        {
+          "id": "C",
+          "text": "The High Openness assessment would increase, because the absence of self-doubt would show greater confidence."
+        },
+        {
+          "id": "D",
+          "text": "The High Conscientiousness score would be unchanged, since it is derived from her organized room background."
+        },
+        {
+          "id": "E",
+          "text": "The Medium Agreeableness score would become High, since the admission of being 'rude' would be removed."
+        },
+        {
+          "id": "F",
+          "text": "The Medium Neuroticism score would be unaffected, as it is based on non-verbal expressions, not on speech."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. The personality analysis explicitly states that the High Openness score is 'strongly supported by... her entire statement is an act of deep introspection, exploring the complexities and nuances of her own personality.' Removing this entire verbal act would eliminate the main evidence for intellectual curiosity and openness to feelings, thus weakening the assessment significantly.\nOption A is a text-based distractor; removing the speech would make Extraversion hard to assess, but it is not the *most* affected trait, as the core of the speech is its introspective quality (Openness), not just its social content.\nOption C is a near-miss distractor; it correctly identifies the trait (Openness) but gets the direction of change and reasoning completely wrong. Removing evidence weakens an assessment, it does not strengthen it.\nOption D is a text-based distractor; this is false, as the analysis links Conscientiousness to both her tidy room AND her 'structured and analytical self-description.' Removing the speech would definitely affect this score.\nOption E is a video-based distractor; while removing the 'rude' comment would affect the Agreeableness score, the loss of the entire introspective monologue is a more fundamental blow to the evidence for High Openness.\nOption F is a text-based distractor; this is incorrect because the analysis for Neuroticism links the trait to both her non-verbal expressions and her verbal description of sensitivity to stimuli."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator06",
+      "version": 1,
+      "clues_total": 32,
+      "clues_correct": 19,
+      "clues_wrong_corrected": 7,
+      "clues_missing_skipped": 5,
+      "clues_bonus": 1
+    }
+  }
+}

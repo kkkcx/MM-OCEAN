@@ -1,0 +1,548 @@
+{
+  "video_id": "8KyS0FKbKfI.004.mp4",
+  "video_path": "8KyS0FKbKfI.004.mp4",
+  "transcription": "Don't say this is private life because you showed your ex-boyfriend before. Well, I don't show my boyfriend because he doesn't want to be on the camera, first of all. Second of all, yes I showed my ex-boyfriend, but then once we broke up, it was kind of awkward because-",
+  "original_scores": {
+    "extraversion": 0.6074766355140188,
+    "agreeableness": 0.6373626373626373,
+    "conscientiousness": 0.6990291262135921,
+    "neuroticism": 0.6145833333333333,
+    "openness": 0.711111111111111
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 4.9,
+      "description": "Gaze is directed downward and to her left. Eyes are slightly narrowed, and she blinks slowly. Eyebrows are in a neutral position. Mouth is closed with lips lightly touching, corners slightly downturned.",
+      "bboxes": [
+        {
+          "frame_time": 3.35855,
+          "x": 0.3837993421052632,
+          "y": 0.3061403475309673,
+          "w": 0.15542763157894737,
+          "h": 0.09210526315789473,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 3.161147,
+          "x": 0.38675986842105264,
+          "y": 0.3140350843730726,
+          "w": 0.1569078947368421,
+          "h": 0.09210526315789473,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 1.485885,
+          "x": 0.38675986842105264,
+          "y": 0.27192982121517784,
+          "w": 0.15838815789473684,
+          "h": 0.06842105263157895,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 2.257962,
+          "x": 0.41488486842105265,
+          "y": 0.4692982422678094,
+          "w": 0.10805921052631579,
+          "h": 0.09210526315789473,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 4.9,
+      "end_time": 7.9,
+      "description": "Gaze lifts to look directly at the camera. Eyebrows raise slightly as she begins to speak. Her mouth opens, and her lips purse slightly.",
+      "bboxes": [
+        {
+          "frame_time": 4.982085,
+          "x": 0.42672697368421053,
+          "y": 0.2692982422678094,
+          "w": 0.16726973684210528,
+          "h": 0.07894736842105263,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 5.59392,
+          "x": 0.42376644736842106,
+          "y": 0.23771929489938837,
+          "w": 0.16578947368421054,
+          "h": 0.06842105263157895,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 5.59392,
+          "x": 0.45929276315789475,
+          "y": 0.4561403475309673,
+          "w": 0.09473684210526316,
+          "h": 0.08157894736842106,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 7.9,
+      "end_time": 15,
+      "description": "Her gaze shifts slightly to her right while speaking, then returns to the camera. Her eyebrows move up and down in coordination with speech emphasis. The inner corners of her eyebrows pull slightly together and down when saying \"awkward\".",
+      "bboxes": [
+        {
+          "frame_time": 9.811807,
+          "x": 0.45041118421052634,
+          "y": 0.366666663320441,
+          "w": 0.15986842105263158,
+          "h": 0.08157894736842106,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 10.95476,
+          "x": 0.38231907894736844,
+          "y": 0.08245613700465153,
+          "w": 0.2546052631578947,
+          "h": 0.5684210526315789,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 13.22729,
+          "x": 0.4859375,
+          "y": 0.16403508437307257,
+          "w": 0.16726973684210528,
+          "h": 0.1,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 13.22729,
+          "x": 0.49481907894736843,
+          "y": 0.18508771595201995,
+          "w": 0.1480263157894737,
+          "h": 0.1394736842105263,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 4.9,
+      "description": "The subject is sitting with her head tilted forward and down. Her shoulders are relaxed and slightly slumped.",
+      "bboxes": [
+        {
+          "frame_time": 2.807547,
+          "x": 0.30830592105263155,
+          "y": 0.09824561068886205,
+          "w": 0.478125,
+          "h": 0.7342105263157894,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 2.807547,
+          "x": 0.22245065789473684,
+          "y": 0.5692982422678095,
+          "w": 0.6202302631578948,
+          "h": 0.3394736842105263,
+          "note": "pose human-annotated",
+          "region": "shoulders"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 4.9,
+      "end_time": 8,
+      "description": "She lifts her head to an upright, forward-facing position.",
+      "bboxes": [
+        {
+          "frame_time": 5.899837,
+          "x": 0.3112664473684211,
+          "y": 0.06403508437307258,
+          "w": 0.45592105263157895,
+          "h": 0.7078947368421052,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 8,
+      "end_time": 10.8,
+      "description": "Her right hand, with fingers loosely curled, raises into the bottom right of the frame in a brief illustrative gesture. Her head simultaneously turns slightly to her right.",
+      "bboxes": [
+        {
+          "frame_time": 8.478285,
+          "x": 0.6665296052631579,
+          "y": 0.4324561370046515,
+          "w": 0.17023026315789475,
+          "h": 0.3368421052631579,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 8.929878,
+          "x": 0.37935855263157897,
+          "y": 0.05614034753096731,
+          "w": 0.24868421052631579,
+          "h": 0.5710526315789474,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 10.8,
+      "end_time": 15,
+      "description": "She lowers her hand out of the frame and returns her head to a forward-facing position, maintaining a stable seated posture.",
+      "bboxes": [
+        {
+          "frame_time": 11.173273,
+          "x": 0.6339638157894737,
+          "y": 0.8640350843730725,
+          "w": 0.1924342105263158,
+          "h": 0.13157894736842105,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 12.2367,
+          "x": 0.40896381578947366,
+          "y": 0.021929821215177836,
+          "w": 0.24424342105263158,
+          "h": 0.6105263157894737,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 12.884605,
+          "x": 0.2564967105263158,
+          "y": 0.516666663320441,
+          "w": 0.5550986842105263,
+          "h": 0.4789473684210526,
+          "note": "pose human-annotated",
+          "region": "torso"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 4.9,
+      "description": "Speech is delivered at a moderate pace with a relatively low and stable pitch. A slight downward inflection occurs at the end of the word \"before.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 4.9,
+      "end_time": 10.8,
+      "description": "There is an audible inhalation. The speaker's pitch rises on the word \"Well.\" Her speech rate increases slightly, and there is clear stress and a higher pitch on the word \"doesn't.\" The phrase \"first of all\" is spoken quickly.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 10.8,
+      "end_time": 15,
+      "description": "Speech slows noticeably on the phrase \"it was kind of awkward,\" which is delivered with a falling intonation. There is a brief pause before the final, partially spoken word.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15,
+      "description": "The subject is a young woman with a tan complexion and long, dark brown hair with lighter highlights. She is wearing eye makeup. Her attire is a high-necked, fuzzy grey sweater. The setting is an indoor space, likely a bedroom, with a large, grey, tufted headboard visible behind her. A white fluffy pillow is on the bed. To the right, a lit candle on a nightstand is partially visible. The lighting is soft and warm.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "High",
+      "score": 0.61,
+      "rationale": "The subject's High Extraversion is demonstrated by her choice to engage directly with an audience in a Q&A format, a fundamentally social act. Her communication style is energetic and expressive, characterized by direct eye contact with the camera, dynamic vocal modulations (e.g., increased speed and pitch for emphasis), and the use of illustrative hand gestures. This cluster of behaviors indicates a high level of social energy, assertiveness, and a comfort with being the center of attention.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "High",
+      "score": 0.64,
+      "rationale": "High Agreeableness is indicated by the subject's considerate and cooperative approach to a potentially confrontational question. Instead of being defensive, she explains her reasoning by prioritizing her boyfriend's feelings ('he doesn't want to be on the camera'), which shows respect and empathy. Her vocal tone is explanatory rather than aggressive, and the initial slight smile and thoughtful pause suggest a desire to maintain social harmony and provide a polite, considered response.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "High",
+      "score": 0.7,
+      "rationale": "The subject exhibits high Conscientiousness through her structured and methodical communication. She organizes her argument with clear markers ('first of all,' 'Second of all'), reflecting a deliberate and orderly thought process. Her behavior of looking down initially to gather her thoughts before lifting her head to deliver a composed answer further suggests a high degree of deliberation and a preference for careful, rather than impulsive, responses.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "High",
+      "score": 0.61,
+      "rationale": "The score for High Neuroticism is supported by the subject's emotional reactivity to a socially sensitive topic. She explicitly labels a past experience as 'awkward' and her facial expression at that moment—raised eyebrows, widened eyes, inner brows pulled down—is a classic display of worry or social discomfort. This non-verbal leakage of negative emotion, combined with a slight self-soothing body sway, indicates a sensitivity to social evaluation and a tendency to experience and express negative affect.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "High",
+      "score": 0.71,
+      "rationale": "High Openness is reflected in the subject's willingness to publicly engage in self-reflection about her personal life and values. She openly discusses and analyzes her past and present choices, demonstrating intellectual curiosity and an openness to experience. Furthermore, her nuanced emotional expression when describing the situation as 'awkward' shows an attunement to her feelings and a willingness to share them. The curated, aesthetically pleasing background (soft light, candle) also suggests an appreciation for aesthetics, a core facet of Openness.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During [10.8s - 15.0s], the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A high degree of Openness to Experience is demonstrated here."
+        },
+        {
+          "id": "B",
+          "text": "A low degree of Agreeableness is primarily shown in this part."
+        },
+        {
+          "id": "C",
+          "text": "A high degree of Extraversion is the main trait being displayed."
+        },
+        {
+          "id": "D",
+          "text": "A low degree of Neuroticism is clearly supported by her actions."
+        },
+        {
+          "id": "E",
+          "text": "A high degree of Conscientiousness is the most evident trait."
+        },
+        {
+          "id": "F",
+          "text": "A high degree of Neuroticism is the most supported dimension."
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The correct answer is F. During this interval, the person's speech slows, she explicitly labels the past experience as 'awkward', and her facial expression (raised eyebrows, widened eyes) shows worry or social discomfort. This emotional reactivity and leakage of negative affect is a classic indicator of High Neuroticism.\n- Option A is a text-based distractor. While she is open, this specific moment's emotional display is not the primary evidence for Openness, which is more about her general willingness to self-reflect.\n- Option B is a text-based distractor. Discussing an ex might sound disagreeable, but her behavior is explanatory and considerate, not disagreeable.\n- Option C is a video-based distractor. High Extraversion is supported by her overall energetic communication style, but this specific segment is marked by hesitation and discomfort, not social energy.\n- Option D is a near-miss distractor. It correctly identifies Neuroticism as the relevant trait but gets the direction wrong. Her behavior indicates high emotional sensitivity, not the emotional stability characteristic of low Neuroticism.\n- Option E is a video-based distractor. High Conscientiousness is supported by her structured argument earlier in the video ('first of all'), not by this moment of emotional expression."
+    },
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their Neuroticism level?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[4.9s - 5.4s]"
+        },
+        {
+          "id": "B",
+          "text": "[8.3s - 8.8s]"
+        },
+        {
+          "id": "C",
+          "text": "[2.1s - 2.6s]"
+        },
+        {
+          "id": "D",
+          "text": "[0.5s - 1.0s]"
+        },
+        {
+          "id": "E",
+          "text": "[9.6s - 10.1s]"
+        },
+        {
+          "id": "F",
+          "text": "[13.0s - 13.5s]"
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The correct answer is F. Around 13.2s, as she says the word 'awkward', her eyebrows raise, her eyes widen, and the inner corners of her brows pull slightly down and in. This is a classic expression of worry or social discomfort, which is the key piece of evidence for her High Neuroticism score.\n- Option A is a video-based distractor. This interval is when she first lifts her head and makes eye contact with the camera, a shift in posture but not the key emotional expression.\n- Option B is a video-based distractor. This is when she makes a hand gesture to her right, an illustrative beat gesture, not a facial micro-expression of worry.\n- Option C is a video-based distractor. In this interval, she is looking down with a slight, thoughtful smile before beginning her answer.\n- Option D is a video-based distractor. This captures the very beginning of the clip as she is finishing listening to the prompt, before her main response begins.\n- Option E is a near-miss distractor. This interval captures her shifting her gaze to the left while speaking, which is part of her overall expression but not the specific moment of emotional leakage related to 'awkwardness'."
+    },
+    {
+      "category": "Mixed Emotion Discrimination",
+      "question": "During [12.5s - 14.5s], the person's emotional state is best characterized as which of the following? Consider both verbal and non-verbal cues.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Deep regret mixed with overt frustration."
+        },
+        {
+          "id": "B",
+          "text": "Annoyance tempered by dismissive confidence."
+        },
+        {
+          "id": "C",
+          "text": "Thoughtful composure mixed with hesitation."
+        },
+        {
+          "id": "D",
+          "text": "Embarrassment blended with feigned amusement."
+        },
+        {
+          "id": "E",
+          "text": "Worry combined with defensive justification."
+        },
+        {
+          "id": "F",
+          "text": "Social discomfort tinged with vulnerable candor."
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The correct answer is F. In this segment, she says 'awkward' with slowed speech, and her face displays raised eyebrows and widened eyes. This combination indicates social discomfort and a sense of worry about the topic. The act of sharing this feeling directly with the audience points to a state of vulnerable candor, or honesty.\n- Option A is a text-based distractor. While discussing an ex can involve regret, her expression lacks any signs of anger or frustration.\n- Option B is a text-based distractor. Her tone and expression do not suggest annoyance or dismissal; she appears to be taking the topic seriously.\n- Option C is a video-based distractor. This description better fits the beginning of the video ([0.0s-4.9s]), where she pauses and looks down thoughtfully before speaking, not this later moment of emotional expression.\n- Option D is a near-miss distractor. While 'embarrassment' is related to discomfort, her expression is serious and lacks any trace of a smile or amusement, making 'feigned amusement' incorrect.\n- Option E is a near-miss distractor. 'Worry' is accurate, but her expression seems more reflective and vulnerable than actively defensive. The justification part of her speech occurs earlier."
+    },
+    {
+      "category": "Temporal-Causal Reasoning",
+      "question": "Consider the sequence of behaviors observed across the video. Which of the following best describes the causal chain linking the person's actions at different moments?",
+      "options": [
+        {
+          "id": "A",
+          "text": "An emotional disclosure (end) prompts a structured justification (middle), which then necessitates a cognitive withdrawal (start) to manage the feeling."
+        },
+        {
+          "id": "B",
+          "text": "A self-monitoring action to correct a verbal error is followed by a compensatory hand gesture and a concluding phase of emotional self-regulation."
+        },
+        {
+          "id": "C",
+          "text": "An initial display of social confidence prompts a challenging query from the audience, which then results in a period of defensive justification."
+        },
+        {
+          "id": "D",
+          "text": "A period of cognitive withdrawal (start) leads directly to an emotional disclosure (end), which is then rationalized through a structured justification (middle)."
+        },
+        {
+          "id": "E",
+          "text": "A structured justification (middle) causes an emotional disclosure (end), which subsequently forces a cognitive withdrawal (start) to recover composure."
+        },
+        {
+          "id": "F",
+          "text": "A cognitive withdrawal to formulate a response (start) precedes a direct, structured justification (middle), concluding with an emotional disclosure (end)."
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The correct answer is F. This option accurately maps the abstract behavioral sequence to the video. She starts with cognitive withdrawal (looking down to think, 0-4.9s), then moves into a structured justification ('first of all...', 4.9-10.8s), and finally concludes with an emotional disclosure about feeling 'awkward' (10.8-15.0s).\n- Option A is a distractor with reversed temporal order. The cognitive withdrawal happened at the start, not the end.\n- Option B is a text-based distractor. This describes a plausible sequence of self-correction, but it doesn't match the events in the video; there is no verbal error being corrected.\n- Option C is a text-based distractor. It introduces an unstated premise ('challenging query') and mischaracterizes her response as primarily defensive rather than explanatory.\n- Option D is a near-miss distractor. It has the correct start and end points but reverses the order of the middle and end events; the structured justification came before the main emotional disclosure.\n- Option E is a distractor with incorrect causality. The justification did not 'cause' the disclosure in this direct way, and the withdrawal was preparatory, not a result of losing composure."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around [11.2s], a region was detected in the video (x=0.634, y=0.864, w=0.192, h=0.132, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A direct gaze toward the camera's lens."
+        },
+        {
+          "id": "B",
+          "text": "Eyebrows raising to express discomfort."
+        },
+        {
+          "id": "C",
+          "text": "Slightly tensed lips while beginning talk."
+        },
+        {
+          "id": "D",
+          "text": "Head tilted forward in downward posture."
+        },
+        {
+          "id": "E",
+          "text": "Shoulders held in a relaxed, slouched state."
+        },
+        {
+          "id": "F",
+          "text": "Hand lowering out of the camera's view."
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The correct answer is F. The specified bounding box at 11.2s is located in the bottom right of the frame, capturing the person's hand as she lowers it out of view after making a gesture. This matches the observation cue She lowers her hand, moving it out of frame.\n- Option A is a video-based distractor. This action occurs, but it involves the eyes (around y=0.27), not the region in the bottom-right corner.\n- Option B is a video-based distractor. This expression happens later (around 13.2s) and is located on the eyebrows (around y=0.18), not in the specified bbox.\n- Option C is a near-miss distractor. The mouth action happens earlier (around 5.6s) and is in a different spatial location (around x=0.46, y=0.46).\n- Option D is a video-based distractor. The head is tilted down at the beginning of the video (around 2.8s), and the region covers the entire head, not just the hand area.\n- Option E is a video-based distractor. The shoulders are in the center of the frame (around y=0.57), not in the bottom-right corner where the hand is."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "At which specific moment and location does the person transition from a state of silent thought to direct verbal engagement with the audience?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[2.8s] x=0.31, y=0.10, w=0.48, h=0.73"
+        },
+        {
+          "id": "B",
+          "text": "[13.2s] x=0.49, y=0.16, w=0.17, h=0.10"
+        },
+        {
+          "id": "C",
+          "text": "[12.9s] x=0.26, y=0.52, w=0.56, h=0.48"
+        },
+        {
+          "id": "D",
+          "text": "[9.8s] x=0.45, y=0.37, w=0.16, h=0.08"
+        },
+        {
+          "id": "E",
+          "text": "[12.2s] x=0.41, y=0.02, w=0.24, h=0.61"
+        },
+        {
+          "id": "F",
+          "text": "[5.6s] x=0.42, y=0.24, w=0.17, h=0.07"
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The correct answer is F. The question asks for the transition from thought to verbal engagement. This happens between 4.9s and 7.9s. The coordinates at 5.6s (x=0.42, y=0.24, w=0.17, h=0.07) specifically capture her eyebrows raising as she lifts her head, makes eye contact, and begins to speak ('Well...'). This is the most precise localization of that transition.\n- Option A is a video-based distractor. This shows her head tilted down during the 'silent thought' phase, before the transition.\n- Option B is a video-based distractor. This captures her expression of discomfort much later in the video while she is already speaking.\n- Option C is a video-based distractor. This bbox covers her torso swaying later in her explanation.\n- Option D is a video-based distractor. This shows her eyes shifting mid-sentence, well after the initial engagement.\n- Option E is a near-miss distractor. This shows her head returning to a forward-facing position, but it's a moment of re-centering during her speech, not the initial transition from silence to speaking."
+    },
+    {
+      "category": "Counterfactual Reasoning",
+      "question": "If the person had NOT exhibited the behavior observed around [4.9s - 8.0s], which of the following personality assessments would be MOST affected?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The Openness assessment would be lower, as her willingness to engage with the personal topic is established in this moment."
+        },
+        {
+          "id": "B",
+          "text": "Her Agreeableness score would seem much higher, as this segment contains her most assertive and oppositional vocal qualities."
+        },
+        {
+          "id": "C",
+          "text": "Neuroticism would be judged as lower, because the clearest non-verbal signals of anxiety are confined to this specific time frame."
+        },
+        {
+          "id": "D",
+          "text": "The rating for Extraversion would decrease, as the primary evidence for social energy and expression is from this interaction."
+        },
+        {
+          "id": "E",
+          "text": "The Conscientiousness score would increase, since this segment's delivery could be viewed as impulsive and its absence implies care."
+        },
+        {
+          "id": "F",
+          "text": "Conscientiousness would be judged lower, because the key evidence for an orderly thought process would be missing from her reply."
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The correct answer is F. The behavior in [4.9s - 8.0s] includes her starting her explanation with 'Well... first of all'. This structured, methodical way of organizing her argument is the primary evidence cited for her High Conscientiousness. Removing it would significantly weaken that assessment.\n- Option A is a text-based distractor. Her willingness to engage (Openness) is evident from the entire act of answering the question, not just this specific phrase.\n- Option B is a text-based distractor. Her Agreeableness score is high because of her considerate reasoning (respecting her boyfriend's privacy), not her vocal tone. Her tone is explanatory, not highly oppositional.\n- Option C is a video-based distractor. The clearest signals of Neuroticism (anxiety/discomfort) appear later in the video, around 13.2s when she says 'awkward', not during this segment.\n- Option D is a video-based distractor. Evidence for Extraversion (direct eye contact, dynamic tone, gestures) is distributed throughout the video, not confined to this one moment.\n- Option E is a near-miss distractor. It correctly identifies Conscientiousness as the affected trait but gets the direction of change wrong. This segment shows orderliness, not impulsivity, so removing it would decrease, not increase, the Conscientiousness score."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator19",
+      "version": 1,
+      "clues_total": 23,
+      "clues_correct": 17,
+      "clues_wrong_corrected": 6,
+      "clues_missing_skipped": 0,
+      "clues_bonus": 0
+    }
+  }
+}

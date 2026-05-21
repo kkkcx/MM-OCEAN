@@ -1,0 +1,340 @@
+{
+  "video_id": "rW3hFpfGMHs.002.mp4",
+  "video_path": "rW3hFpfGMHs.002.mp4",
+  "transcription": "By the time it was time to push, that's when it gets really crazy and intense, hurts, like O-M-G does it hurt ...",
+  "original_scores": {
+    "extraversion": 0.7383177570093458,
+    "agreeableness": 0.5934065934065933,
+    "conscientiousness": 0.4660194174757281,
+    "neuroticism": 0.6666666666666667,
+    "openness": 0.7555555555555554
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 2.8,
+      "description": "The subject looks directly at the camera with a gentle smile, her mouth moving as she speaks. Her eyebrows remain in a neutral position.",
+      "bboxes": [
+        {
+          "frame_time": 0.887496,
+          "x": 0.35123355263157896,
+          "y": 0.3403508738467568,
+          "w": 0.2590460526315789,
+          "h": 0.1394736842105263,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 0.887496,
+          "x": 0.41488486842105265,
+          "y": 0.5640350843730726,
+          "w": 0.13322368421052633,
+          "h": 0.15526315789473685,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 2.39326,
+          "x": 0.3527138157894737,
+          "y": 0.3271929791099147,
+          "w": 0.26644736842105265,
+          "h": 0.10526315789473684,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 2.8,
+      "end_time": 5,
+      "description": "Her smile widens significantly, causing her cheeks to raise and the corners of her eyes to crinkle. She maintains direct eye contact while waving.",
+      "bboxes": [
+        {
+          "frame_time": 4.242366,
+          "x": 0.43116776315789473,
+          "y": 0.5561403475309673,
+          "w": 0.1879934210526316,
+          "h": 0.17894736842105263,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 4.242366,
+          "x": 0.3882401315789474,
+          "y": 0.4035087685835989,
+          "w": 0.2634868421052632,
+          "h": 0.23684210526315788,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 4.183567,
+          "x": 0.36751644736842104,
+          "y": 0.34561403174149363,
+          "w": 0.27828947368421053,
+          "h": 0.10263157894736842,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 4.276329,
+          "x": 0.3882401315789474,
+          "y": 0.33245613700465154,
+          "w": 0.23832236842105264,
+          "h": 0.14210526315789473,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 2.8,
+      "description": "The subject holds both hands up at chest level, displaying a thumbs-up gesture with each hand.",
+      "bboxes": [
+        {
+          "frame_time": 0.831376,
+          "x": 0.1928453947368421,
+          "y": 0.36929824226780944,
+          "w": 0.49736842105263157,
+          "h": 0.6078947368421053,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 4,
+      "end_time": 5,
+      "description": "She raises her right hand to her right side and performs a waving gesture.",
+      "bboxes": [
+        {
+          "frame_time": 4.697851,
+          "x": 0,
+          "y": 0.216666663320441,
+          "w": 0.27828947368421053,
+          "h": 0.6263157894736842,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 2.8,
+      "description": "Speaks at a moderate pace in a clear, friendly tone. The pitch is melodic and falls at the end of the sentence.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 2.8,
+      "end_time": 4.1,
+      "description": "Says the word \"Bye\" with a cheerful, high-to-low falling intonation.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 5,
+      "description": "The subject is a young woman with a medium complexion, long, dark curly hair, and red-framed glasses. She is wearing a light gray, long-sleeved shirt. She is positioned in front of a white wall that has a large, brown, corkboard-style world map decoration on it. The lighting is bright and even.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "High",
+      "score": 0.74,
+      "rationale": "The subject exhibits numerous classic markers of high Extraversion. She maintains direct, engaging eye contact with the camera and displays a broad, genuine Duchenne smile, indicating social warmth and positive emotionality. Her use of expressive, energetic gestures like a double thumbs-up and a wave, combined with a friendly and melodious vocal tone, points to a person who is comfortable and energized in social situations.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Medium",
+      "score": 0.59,
+      "rationale": "The subject's agreeableness is assessed as Medium. She displays pro-social behaviors such as smiling, maintaining a friendly tone, and waving, which are indicative of warmth and politeness. However, the short duration of the clip does not provide sufficient evidence for the core facets of high agreeableness, such as trust or altruism in a more complex social context. Her overtly friendly demeanor supports a score above low, but without further information, it remains in the medium range.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Medium",
+      "score": 0.47,
+      "rationale": "The evidence for Conscientiousness is subtle, supporting a Medium rating. The subject's speech is clear and delivered at a moderate pace, suggesting some degree of preparedness. The background is orderly and features an intentional decorative element (the world map), which can be a weak indicator of an organized nature. As there are no clear displays of either high conscientiousness (e.g., goal-oriented speech) or low conscientiousness (e.g., disorganization, tardiness), a medium assessment is most appropriate.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "High",
+      "score": 0.67,
+      "rationale": "Despite her cheerful demeanor, the subject's choice of topic and language supports a High Neuroticism score. She is recounting a highly stressful and painful memory, emphasizing the negative emotional components with phrases like \"really crazy and intense\" and \"O-M-G does it hurt.\" This focus on and vivid recall of distressing feelings is a hallmark of Neuroticism, reflecting a tendency to experience and express strong negative emotions.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "High",
+      "score": 0.76,
+      "rationale": "The subject's high level of Openness is suggested by multiple cues. The most direct is the large world map in the background, a common symbol for curiosity, interest in travel, and an appreciation for different cultures. Furthermore, her expressive communication style, involving varied facial expressions and vocal intonations, aligns with the aesthetic sensitivity and emotional expressiveness characteristic of individuals high in Openness.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During 2.8s - 5.0s, the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "High Neuroticism, indicated by the detailed recall of a very stressful life event."
+        },
+        {
+          "id": "B",
+          "text": "Low Agreeableness, suggested by the abrupt end to the conversation with a wave."
+        },
+        {
+          "id": "C",
+          "text": "Low Conscientiousness, inferred from the casual and unstructured communication."
+        },
+        {
+          "id": "D",
+          "text": "High Extraversion, supported by an expressive Duchenne smile and engaging wave."
+        },
+        {
+          "id": "E",
+          "text": "High Openness, as the world map in the background suggests intellectual curiosity."
+        },
+        {
+          "id": "F",
+          "text": "High Agreeableness, demonstrated by the warm, friendly, and pro-social gestures."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "The correct answer is D. During 2.8s - 5.0s, the person displays a broad, genuine (Duchenne) smile, raises her cheeks, crinkles her eyes, and waves directly at the camera. These are classic indicators of social warmth, positive emotionality, and energy, which are core facets of High Extraversion.\n- Option A is a video-based distractor. The recall of a stressful event happens earlier (0.0s-2.8s) and is evidence for Neuroticism, but the question asks about the 2.8s-5.0s interval.\n- Option B is a near-miss distractor. It correctly identifies the behavior (wave) but misinterprets it as abrupt and linking it to Low Agreeableness, whereas it is a friendly, pro-social closing gesture.\n- Option C is a text-based distractor. It presents a plausible-sounding link between casual communication and Low Conscientiousness, but this is not the most salient trait demonstrated in this specific interval, nor is the evidence strong.\n- Option E is a video-based distractor. The world map is present throughout the video and supports High Openness, but it is a static background element, not a behavioral pattern exhibited by the person during the specified time.\n- Option F is a text-based distractor. While the gestures are friendly and could relate to Agreeableness, their high energy and expressive nature are more direct and stronger evidence for Extraversion in this context."
+    },
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their High Extraversion level?",
+      "options": [
+        {
+          "id": "A",
+          "text": "0.1s - 0.8s"
+        },
+        {
+          "id": "B",
+          "text": "1.0s - 1.7s"
+        },
+        {
+          "id": "C",
+          "text": "4.3s - 5.0s"
+        },
+        {
+          "id": "D",
+          "text": "2.8s - 3.5s"
+        },
+        {
+          "id": "E",
+          "text": "1.8s - 2.5s"
+        },
+        {
+          "id": "F",
+          "text": "3.6s - 4.3s"
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "The correct answer is D. The most notable change relevant to High Extraversion is the transition from a standard speaking smile to a broad, high-intensity Duchenne smile. This transition begins right after she stops talking (around 2.8s) and culminates in the wide smile with raised cheeks and eye crinkling. The interval 2.8s - 3.5s captures the onset of this significant positive emotional expression.\n- Option A is a video-based distractor. This interval shows the initial formation of her speaking expression but not a significant change.\n- Option B is a video-based distractor. During this time, her expression is relatively stable as she is speaking her first sentence.\n- Option C is a video-based distractor. This interval captures the end of the wave and smile, but the expression is already fully formed and is holding steady, not changing notably.\n- Option E is a video-based distractor. This period is in the middle of her speech, where her expression is consistent with articulation, not undergoing a major emotional shift.\n- Option F is a near-miss distractor. This is close, but the key transition point from a neutral/speaking face to the broad smile happens earlier, starting right at 2.8s."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "At which time and location does the person make a clear, reinforcing gesture of positive affirmation while beginning her statement?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[4.7s] at (x=0.000, y=0.217, w=0.278, h=0.626)"
+        },
+        {
+          "id": "B",
+          "text": "[4.2s] at (x=0.431, y=0.556, w=0.188, h=0.179)"
+        },
+        {
+          "id": "C",
+          "text": "[0.9s] at (x=0.415, y=0.564, w=0.133, h=0.155)"
+        },
+        {
+          "id": "D",
+          "text": "[0.8s] at (x=0.193, y=0.369, w=0.497, h=0.608)"
+        },
+        {
+          "id": "E",
+          "text": "[4.5s] at (x=0.193, y=0.369, w=0.497, h=0.608)"
+        },
+        {
+          "id": "F",
+          "text": "[0.8s] at (x=0.351, y=0.340, w=0.259, h=0.139)"
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "The correct answer is D. The question asks for a 'reinforcing gesture of positive affirmation' at the 'beginning of her statement'. This perfectly describes the double thumbs-up gesture she makes at the start of the video. Option D provides the correct timestamp (0.8s) and the correct bounding box that covers both hands making the gesture.\n- Option A is a video-based distractor. This corresponds to the waving gesture, which occurs at the end of the video, not the beginning.\n- Option B is a video-based distractor. This is the location of her wide smile at the end of the clip, which is an expression, not a hand gesture.\n- Option C is a video-based distractor. This bbox covers her mouth while she is speaking at the beginning. While it's the right time, it's not a gesture of affirmation.\n- Option E is a near-miss distractor. It has the correct location (the bbox for the thumbs-up gesture) but the wrong timestamp (4.5s, when she is waving).\n- Option F is a near-miss distractor. It has the correct timestamp (0.8s) but the wrong location (it points to her eyes/face, not the hands making the gesture)."
+    },
+    {
+      "category": "Counterfactual Reasoning",
+      "question": "If the person had NOT exhibited the behavior observed around 0.0s - 2.8s, which of the following personality assessments would be MOST affected?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Extraversion would shift from High to Medium because her main display of social energy is during that opening statement."
+        },
+        {
+          "id": "B",
+          "text": "Openness would shift from High to Low, as her willingness to share this personal story is the key indicator for that trait."
+        },
+        {
+          "id": "C",
+          "text": "Agreeableness assessment would be largely unaffected, as the cues for that trait derive from non-verbal signals throughout."
+        },
+        {
+          "id": "D",
+          "text": "Neuroticism would shift from High to Medium, as the verbal content is the primary evidence for focusing on negative feelings."
+        },
+        {
+          "id": "E",
+          "text": "Conscientiousness would shift from Medium to High, because the somewhat unstructured speech is the main negative factor."
+        },
+        {
+          "id": "F",
+          "text": "Neuroticism would shift from High to Low, as removing the verbal content would eliminate almost all signs of negative affect."
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The correct answer is D. The behavior in 0.0s - 2.8s is her verbal recounting of a painful and intense memory ('really crazy and intense, hurts, like O-M-G does it hurt'). The personality analysis explicitly states this is the hallmark evidence for her High Neuroticism score. Removing this would remove the primary support, likely causing the score to regress to a more neutral or Medium level, but not necessarily Low.\n- Option A is a video-based distractor. The strongest evidence for High Extraversion (the broad Duchenne smile and energetic wave) actually comes *after* this period, so removing the initial statement would have less impact on that score.\n- Option B is a text-based distractor. While sharing is related to Openness, the analysis also cites the world map and expressive style as key indicators, so the Openness score would be affected but likely not as much as Neuroticism.\n- Option C is a text-based distractor. This statement is likely true, but the question asks which assessment would be MOST affected. This option describes a lack of effect, making it an incorrect answer to the question.\n- Option E is a text-based distractor with flawed reasoning. Removing the speech would remove evidence; it wouldn't logically cause the score for Conscientiousness to increase.\n- Option F is a near-miss distractor. It correctly identifies Neuroticism as the affected trait and the right reason. However, it overstates the effect. The complete absence of evidence would likely lead to a Medium (or uncertain) assessment, not a confident Low one. Shifting from High to Medium is a more precise and defensible counterfactual claim."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [
+      {
+        "check": "A",
+        "q_idx": 6,
+        "issue": "The personality rationale for High Neuroticism is based entirely on the verbal content from 0.0s-2.8s, where the subject describes a painful memory. Removing this segment would eliminate all evidence for High Neuroticism. The remaining evidence (smiling, waving) points toward positive affect, which is indicative of Low Neuroticism (emotional stability). Therefore, a shift from High to Low (Option F) is more logically consistent than a shift from High to Medium (Option D).",
+        "action": "Change correct answer from D to F."
+      }
+    ],
+    "corrections": {
+      "mcq_questions[6].correct_answer": "F"
+    },
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator17",
+      "version": 1,
+      "clues_total": 13,
+      "clues_correct": 12,
+      "clues_wrong_corrected": 0,
+      "clues_missing_skipped": 1,
+      "clues_bonus": 0
+    }
+  }
+}

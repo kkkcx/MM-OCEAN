@@ -1,0 +1,387 @@
+{
+  "video_id": "V9roK_mLM-w.005.mp4",
+  "video_path": "V9roK_mLM-w.005.mp4",
+  "transcription": "Which is that works great for us because home schooling fell in our lap. Literally, we just felt that we had no other choices for Melanie. To have a program that allows us the-",
+  "original_scores": {
+    "extraversion": 0.4953271028037384,
+    "agreeableness": 0.6813186813186812,
+    "conscientiousness": 0.5922330097087379,
+    "neuroticism": 0.4895833333333333,
+    "openness": 0.6777777777777777
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 15.15,
+      "description": "The subject maintains consistent eye contact with the camera, blinking naturally. Her eyebrows are relaxed and move slightly upward with speech emphasis. The corners of her mouth are slightly upturned in a consistent, gentle smile throughout the clip. The skin around her eyes crinkles slightly when she smiles more broadly, particularly from 0:02 to 0:04 and 0:09 to 0:11.",
+      "bboxes": [
+        {
+          "frame_time": 3.124163,
+          "x": 0.3615953947368421,
+          "y": 0.2850877159520199,
+          "w": 0.20131578947368423,
+          "h": 0.2,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 3.124163,
+          "x": 0.33643092105263156,
+          "y": 0.26403508437307255,
+          "w": 0.20575657894736843,
+          "h": 0.11315789473684211,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 3.124163,
+          "x": 0.3660361842105263,
+          "y": 0.46403508437307256,
+          "w": 0.16430921052631578,
+          "h": 0.15,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 3.124163,
+          "x": 0.3941611842105263,
+          "y": 0.4692982422678094,
+          "w": 0.12582236842105263,
+          "h": 0.15526315789473685,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 3.124163,
+          "x": 0.3778782894736842,
+          "y": 0.2903508738467568,
+          "w": 0.17615131578947368,
+          "h": 0.2,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 12.63,
+      "description": "The subject is sitting upright, facing forward. Her head moves in small, subtle nods and tilts that are synchronized with her speech. Her shoulders remain relaxed and mostly still.",
+      "bboxes": [
+        {
+          "frame_time": 3.124163,
+          "x": 0.3438322368421053,
+          "y": 0.316666663320441,
+          "w": 0.20279605263157896,
+          "h": 0.32894736842105265,
+          "note": "human-annotated",
+          "region": "unknown"
+        },
+        {
+          "frame_time": 3.124163,
+          "x": 0.33939144736842103,
+          "y": 0.30087718963623045,
+          "w": 0.26200657894736845,
+          "h": 0.41578947368421054,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 3.124163,
+          "x": 0.1884046052631579,
+          "y": 0.5561403475309673,
+          "w": 0.5047697368421052,
+          "h": 0.30526315789473685,
+          "note": "pose human-annotated",
+          "region": "shoulders"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 12.63,
+      "end_time": 15.15,
+      "description": "The subject's right hand rises into the lower right of the frame. With an open palm facing her chest, she makes a small, sweeping gesture from right to left as she says \"allows us.\"",
+      "bboxes": [
+        {
+          "frame_time": 12.63,
+          "x": 0.6354440789473684,
+          "y": 0.7087719264783358,
+          "w": 0.17911184210526315,
+          "h": 0.2710526315789474,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 12.63,
+          "x": 0.6546875,
+          "y": 0.6824561370046516,
+          "w": 0.19835526315789473,
+          "h": 0.30526315789473685,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 2.89,
+      "description": "Speech is delivered at a moderate pace. The pitch rises slightly on the word \"great\" (0:02) for emphasis.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 2.89,
+      "end_time": 6.78,
+      "description": "The subject's pitch has a downward inflection on the phrase \"fell in our lap\" (0:05), ending the clause.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 6.78,
+      "end_time": 11.58,
+      "description": "The pitch rises on \"literally\" (0:07) and again on \"choices\" (0:09) for emphasis. The volume remains consistent with the rest of her speech.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 11.58,
+      "end_time": 15.15,
+      "description": "The speaking pace remains moderate and even. There is a slight pause for breath at 11.85 before she continues.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.15,
+      "description": "The subject is a woman with curly, shoulder-length, dark reddish-brown hair, glasses, and a light-to-medium complexion. She is wearing a black, scoop-neck shirt with a pattern of small white stars or dots. The setting is indoors, with a light blue wall behind her. To her left, there is a decorated and lit Christmas tree standing in front of a window. To her right is the edge of a light-colored piece of furniture. The lighting is bright and appears to come from the front. At 0:11, a small, light-colored dog walks past in the background behind the Christmas tree.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Medium",
+      "score": 0.5,
+      "rationale": "The subject exhibits a balanced extraversion profile, aligning with a Medium score. While she maintains confident and direct eye contact with the camera and uses vocal intonation for emphasis—behaviors associated with social engagement—other cues suggest a more moderate energy level. Her posture is composed and largely still, her shoulders are relaxed, and hand gestures are used sparingly. This combination of comfortable social expression without the high-energy, expansive non-verbal communication typical of high extraversion supports a mid-range assessment.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "High",
+      "score": 0.68,
+      "rationale": "A High level of Agreeableness is strongly indicated by the subject's consistently warm and pro-social non-verbal cues. She maintains a gentle, soft smile throughout the clip, and her wider smiles are genuine, as evidenced by the crinkling around the eyes (a Duchenne smile). This authentic expression of positive emotion, combined with a relaxed posture and a calm, even vocal tone, projects an approachable, trustworthy, and cooperative demeanor, which are core facets of high agreeableness.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Medium",
+      "score": 0.59,
+      "rationale": "The subject's behavior suggests a Medium level of Conscientiousness. She presents her thoughts in a clear and organized manner, speaking at a moderate, deliberate pace with logical pauses. This indicates a degree of thoughtfulness and self-discipline. Her upright posture further contributes to an impression of purposefulness. However, the overall presentation is natural and not overly formal or rigid, which moderates the assessment. She appears competent and organized in her communication without displaying the markers of exceptionally high conscientiousness.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Medium",
+      "score": 0.49,
+      "rationale": "The subject displays strong emotional stability, which corresponds to a score in the Medium range of Neuroticism (i.e., not high in neuroticism). Her demeanor is consistently calm and composed. There are no observable signs of anxiety, such as fidgeting, vocal trembling, or a tense posture; on the contrary, her shoulders are relaxed, her blinking is natural, and her speech is steady. Discussing a potentially stressful family decision with such equanimity points away from high neuroticism. The medium score reflects a well-adjusted individual who appears resilient to stress in this context.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "High",
+      "score": 0.68,
+      "rationale": "A High level of Openness is primarily inferred from the content of the subject's speech. Her discussion of homeschooling indicates a receptiveness to unconventional ideas and a willingness to diverge from traditional paths. This choice itself is a strong behavioral marker for openness. This is supported by her articulate and expressive communication style, where she uses vocal emphasis and subtle gestures to convey her perspective, suggesting an intellectual and emotional engagement with her chosen topic.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During 0.0s - 15.2s, the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A low degree of Neuroticism"
+        },
+        {
+          "id": "B",
+          "text": "A high degree of Extraversion"
+        },
+        {
+          "id": "C",
+          "text": "A low degree of Agreeableness"
+        },
+        {
+          "id": "D",
+          "text": "A high degree of Openness"
+        },
+        {
+          "id": "E",
+          "text": "A high degree of Agreeableness"
+        },
+        {
+          "id": "F",
+          "text": "A high degree of Conscientiousness"
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. The subject consistently displays a warm, gentle Duchenne smile (crinkling around the eyes), maintains a relaxed posture, and uses a calm vocal tone. These are strong, direct behavioral indicators of a pro-social, trustworthy, and cooperative demeanor, which are core facets of High Agreeableness.\n- Option A is a near-miss distractor. While she is calm (low neuroticism), the score is assessed as Medium, and the positive, pro-social cues for Agreeableness are much stronger and more consistent throughout the video.\n- Option B is a near-miss distractor. She shows some socially expressive traits like eye contact, but her overall energy, limited gestures, and still posture are more indicative of Medium rather than High Extraversion.\n- Option C is a text-based distractor. It is the direct opposite of the visual evidence, which shows consistently warm and approachable non-verbal cues.\n- Option D is a text-based distractor. The evidence for High Openness comes almost entirely from the *content* of her speech (discussing homeschooling), not from the general behavioral pattern of her non-verbal cues during the specified time range.\n- Option F is a text-based distractor. While her speech is organized, suggesting some conscientiousness, there are no strong behavioral patterns (like meticulous gestures or an exceptionally formal posture) to support a *high* degree of this trait over others."
+    },
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their Agreeableness level?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[0.0s - 2.0s]"
+        },
+        {
+          "id": "B",
+          "text": "[4.5s - 6.5s]"
+        },
+        {
+          "id": "C",
+          "text": "[12.5s - 14.5s]"
+        },
+        {
+          "id": "D",
+          "text": "[9.0s - 11.0s]"
+        },
+        {
+          "id": "E",
+          "text": "[7.0s - 8.9s]"
+        },
+        {
+          "id": "F",
+          "text": "[5.0s - 7.0s]"
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "The correct answer is D. The observation notes state that the skin around her eyes crinkles between 9s and 11s. This is a key component of a Duchenne smile, indicating genuine positive emotion and providing strong evidence for the High Agreeableness assessment.\n- Option A is a video-based distractor. This is the start of her speech, where her baseline gentle smile is present, but the more significant 'Duchenne' marker relevant to agreeableness appears later.\n- Option B is a near-miss distractor. This interval is just after the first Duchenne smile (which occurs from 2-4s) and before the second one, capturing a period of more neutral smiling.\n- Option C is a video-based distractor. During this period, the most notable action is her hand gesture, not a significant facial micro-expression related to agreeableness.\n- Option E is a video-based distractor. Around this time she says 'literally' with vocal emphasis, which involves eyebrow movement, but the key smile-related expression occurs slightly after this window.\n- Option F is a video-based distractor. This time range captures the *first* instance of the eye-crinkling smile, making it a plausible but alternate correct time. However, the one from 9-11s is also explicitly noted and serves as the targeted correct answer for this question's construction."
+    },
+    {
+      "category": "Mixed Emotion Discrimination",
+      "question": "During 0.0s - 15.2s, the person's emotional state is best characterized as which of the following? Consider both verbal and non-verbal cues.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Joyful excitement subtly tempered by a touch of apprehension."
+        },
+        {
+          "id": "B",
+          "text": "Nostalgic reflection clearly mixed with an overall sense of relief."
+        },
+        {
+          "id": "C",
+          "text": "Polite amusement evidently blended with a feeling of social duty."
+        },
+        {
+          "id": "D",
+          "text": "Quiet satisfaction combined with a degree of guarded optimism."
+        },
+        {
+          "id": "E",
+          "text": "Sincere warmth displayed along with a sense of confident resolve."
+        },
+        {
+          "id": "F",
+          "text": "Gentle pride in her choices mixed with a hint of defensiveness."
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. The subject's consistent, gentle Duchenne smile conveys 'sincere warmth'. Her steady posture, direct eye contact, and clear, deliberate speech about a major family decision project a 'confident resolve'. This combination accurately captures her overall demeanor.\n- Option A is a near-miss distractor. While she is positive, her calm energy does not align with 'joyful excitement', and there are no visual or vocal cues to suggest 'apprehension'.\n- Option B is a text-based distractor. The topic of past decisions could suggest 'nostalgic reflection', but her affect is present-focused and positive, not reflective or specifically relieved.\n- Option C is a text-based distractor. This suggests her smile is merely for social conformity, but the Duchenne marker (crinkling eyes) indicates genuine emotion, contradicting the idea of it being just 'polite' or a 'duty'.\n- Option D is a near-miss distractor. 'Quiet satisfaction' is close, but her open expression and direct eye contact contradict the idea of being 'guarded' in her optimism.\n- Option F is a text-based distractor. While she may feel pride, there are absolutely no non-verbal or verbal cues (like crossed arms, sharp tones, or specific phrasing) that would suggest 'defensiveness'."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 3.1s, a region was detected in the video (x=0.188, y=0.556, w=0.505, h=0.305, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A subtle nodding and tilting motion of the entire head."
+        },
+        {
+          "id": "B",
+          "text": "A raised hand is positioned up and toward her chest."
+        },
+        {
+          "id": "C",
+          "text": "A small sweeping gesture is made with one of her hands."
+        },
+        {
+          "id": "D",
+          "text": "A gentle and continuous smile is held on the mouth."
+        },
+        {
+          "id": "E",
+          "text": "A relaxed and fundamentally stable shoulder posture."
+        },
+        {
+          "id": "F",
+          "text": "A brief, wider smile appears that shows engagement."
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. The provided bounding box (x=0.188, y=0.556, w=0.505, h=0.305) at 3.1s covers the person's shoulders and upper torso. The observation data for this time confirms that 'Her shoulders remain relaxed and largely still,' which matches the description of a stable shoulder posture.\n- Option A is a video-based distractor. The head is indeed nodding, but this occurs in a different spatial region (higher up in the frame) than the specified bounding box.\n- Option B is a video-based distractor. The hand is raised much later in the video (around 12.6s), not at 3.1s, and is in a different location.\n- Option C is a video-based distractor. The sweeping hand gesture occurs at 12.6s, not 3.1s, and is located on the side of the frame.\n- Option D is a video-based distractor. The smile is located on the mouth, which is in the facial region, spatially distinct from and above the large bounding box covering the shoulders.\n- Option F is a near-miss distractor. While she does smile wider at times, this is an action of the mouth, which is not located within the specified shoulder-area bounding box."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "The speaker uses a distinct, small illustrative hand movement to add emphasis to her point. At which time and in which location does this specific emphatic gesture occur?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[3.1s], within x={0.34}, y={0.30}, w={0.26}, h={0.42}"
+        },
+        {
+          "id": "B",
+          "text": "[9.5s], within x={0.38}, y={0.29}, w={0.18}, h={0.20}"
+        },
+        {
+          "id": "C",
+          "text": "[12.6s], within x={0.37}, y={0.46}, w={0.16}, h={0.15}"
+        },
+        {
+          "id": "D",
+          "text": "[5.0s], within x={0.64}, y={0.71}, w={0.18}, h={0.27}"
+        },
+        {
+          "id": "E",
+          "text": "[12.6s], within x={0.66}, y={0.68}, w={0.20}, h={0.31}"
+        },
+        {
+          "id": "F",
+          "text": "[12.6s], within x={0.10}, y={0.70}, w={0.20}, h={0.30}"
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. The observation data confirms that at 12.6s, her left hand (viewer's right) makes a small sweeping gesture. The bounding box provided in option E correctly isolates this hand in the lower right area of the frame at the precise moment the gesture occurs.\n- Option A is a video-based distractor. This time and bounding box correspond to her head, not a hand gesture.\n- Option B is a video-based distractor. This time and bounding box correspond to her eyes, capturing the Duchenne smile, but not the hand movement.\n- Option C is a near-miss distractor. The time is correct (12.6s), but the bounding box is incorrectly placed on her mouth, not her hand.\n- Option D is a near-miss distractor. The spatial coordinates are approximately correct for the hand's location, but the timestamp (5.0s) is wrong; the hand is not gesturing at that moment.\n- Option F is a near-miss distractor. The time is correct, but the bounding box is on the opposite (left) side of the frame, where no hand gesture is occurring."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [
+      {
+        "check": "B",
+        "q_idx": 1,
+        "issue": "The question asks for a single time interval, but based on the observation data ('...especially between 0:02 to 0:04 and 0:09 to 0:11'), both option D '[9.0s - 11.0s]' and option F '[2.5s - 4.4s]' are correct. The options are not properly differentiated, as there are two valid answers.",
+        "action": "Modified option F to refer to a time interval with no specific highlighted expression, making option D the unique correct answer."
+      }
+    ],
+    "corrections": {
+      "mcq_questions[1].options[5].text": "[5.0s - 7.0s]"
+    },
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator13",
+      "version": 1,
+      "clues_total": 15,
+      "clues_correct": 14,
+      "clues_wrong_corrected": 1,
+      "clues_missing_skipped": 0,
+      "clues_bonus": 0
+    }
+  }
+}

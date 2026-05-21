@@ -1,0 +1,327 @@
+{
+  "video_id": "5T2PhH-OMds.002.mp4",
+  "video_path": "5T2PhH-OMds.002.mp4",
+  "transcription": "... so I'm really awkward, and I don't know, and I'm really awkward in this one, so, yeah ... So, Cat Planet 96 asked \"Do you have a separate app that overlays text on pictures?\"",
+  "original_scores": {
+    "extraversion": 0.4672897196261683,
+    "agreeableness": 0.5054945054945055,
+    "conscientiousness": 0.31067961165048547,
+    "neuroticism": 0.32291666666666663,
+    "openness": 0.5333333333333333
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 3.71,
+      "description": "The subject looks directly at the camera with a neutral expression that transitions into a slight, self-conscious smile. Her eyebrows are relaxed and her mouth moves naturally with her speech.",
+      "bboxes": [
+        {
+          "frame_time": 1.619207,
+          "x": 0.4351851851851852,
+          "y": 0.21010516340676977,
+          "w": 0.19598765432098766,
+          "h": 0.4060356652949246,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 3.71,
+      "end_time": 7.37,
+      "description": "Her expression becomes neutral as she looks towards the right side of the frame (her left), appearing to read something. Her mouth is slightly open.",
+      "bboxes": [
+        {
+          "frame_time": 7.383946,
+          "x": 0.5277777777777778,
+          "y": 0.42409693295409484,
+          "w": 0.09567901234567901,
+          "h": 0.07407407407407407,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 7.37,
+      "end_time": 15.1,
+      "description": "While speaking, she maintains her gaze to the right of the frame. Her expression is neutral and focused, with mouth movements corresponding to her speech.",
+      "bboxes": [
+        {
+          "frame_time": 10.78761,
+          "x": 0.49228395061728397,
+          "y": 0.13328760510772997,
+          "w": 0.18055555555555555,
+          "h": 0.41975308641975306,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 1.44,
+      "description": "The subject's right hand is initially near her mouth, then moves up to briefly touch the hair on the right side of her head.",
+      "bboxes": [
+        {
+          "frame_time": 1.25048,
+          "x": 0.26697530864197533,
+          "y": 0.4844535859033404,
+          "w": 0.22067901234567902,
+          "h": 0.5155464140966596,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 1.44,
+      "end_time": 4.04,
+      "description": "She lowers her right hand out of the frame.",
+      "bboxes": [
+        {
+          "frame_time": 2.648076,
+          "x": 0.27469135802469136,
+          "y": 0.8657978931735736,
+          "w": 0.20987654320987653,
+          "h": 0.13420210682642641,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 4.04,
+      "end_time": 15.1,
+      "description": "Both of her hands come into view at the bottom right of the frame, resting on a surface (possibly a keyboard or armrest). Her head remains mostly still, angled slightly to her left.",
+      "bboxes": [
+        {
+          "frame_time": 8.728846,
+          "x": 0.4521604938271605,
+          "y": 0.7258801977003225,
+          "w": 0.45524691358024694,
+          "h": 0.2741198022996775,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 3.7,
+      "description": "Speaks at a moderate pace with a slightly breathy and hesitant quality in her voice. Her pitch is in a mid-to-high range.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 4.34,
+      "end_time": 5.04,
+      "description": "The word \"yeah\" is spoken with a drawn-out, falling intonation.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 7.3,
+      "end_time": 15.1,
+      "description": "Speech becomes clearer and more measured, consistent with reading aloud. There is a distinct pause after the word \"asked.\" The pitch rises at the end of the sentence, indicating a question.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.1,
+      "description": "A young female with fair skin and long, light brown hair. She is wearing a dark, patterned top. The scene is indoors, with a very bright light source (likely a window) to the viewer's left, creating a strong backlight and high contrast. The video is heavily desaturated, appearing almost black and white with a slight sepia tone. To the right, the back of a red or maroon chair is visible. In the background, a musical keyboard can be partially seen.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Medium",
+      "score": 0.47,
+      "rationale": "The subject's Extraversion score is in the Medium range. While engaging in a Q&A video format is a socially oriented activity, her demeanor displays introverted characteristics. Her initial self-description as \"really awkward,\" combined with hesitant, breathy speech and a self-conscious, \"unnatural\" smile, indicates a lack of social assertiveness and energy. She appears more comfortable when shifting to the structured task of reading a question, suggesting she is not energized by spontaneous social performance, which is consistent with a moderate level of extraversion.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Medium",
+      "score": 0.51,
+      "rationale": "The subject's Agreeableness is assessed as Medium. The fundamental act of creating a Q&A video is cooperative, as it involves responding to audience interest. This suggests a willingness to engage positively with others. However, the interaction is impersonal and lacks strong cues of warmth or empathy. Her expression is largely neutral and task-focused, especially when reading the question. This balance between the cooperative premise of the video and a lack of overt pro-social emotional expression supports a mid-range score.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Low",
+      "score": 0.31,
+      "rationale": "The subject's Conscientiousness is rated as Low. This is supported by the seemingly unprepared and unstructured nature of her introduction. Her verbal stumbling and self-description as \"awkward, and I don't know\" suggest a lack of a prepared script or polished opening. While she proceeds to the task, the initial phase lacks the purposefulness and orderliness characteristic of high conscientiousness. The overall impression is more spontaneous and less meticulously planned.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Low",
+      "score": 0.32,
+      "rationale": "The subject's Neuroticism is assessed as Low. Although she explicitly states she is \"awkward\" and displays initial self-soothing behaviors like touching her hair, these signs of anxiety are transient. She quickly transitions into a calm, focused state to read the question, with her speech becoming \"clearer and more measured.\" This ability to regulate her initial discomfort and proceed with the task in a composed manner is indicative of emotional stability and resilience, which aligns with a low Neuroticism score.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "Medium",
+      "score": 0.53,
+      "rationale": "The subject's Openness is rated as Medium. Creating and publishing a video for a public audience demonstrates a willingness to engage in novel forms of self-expression. The presence of a musical keyboard in the background may suggest artistic interests, a key facet of Openness. Furthermore, the video's highly stylized, desaturated aesthetic could be a deliberate creative choice. However, the content of the interaction itself is straightforward, which moderates the score to the medium range.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During 0.0s - 3.7s, the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A low level of the trait Conscientiousness"
+        },
+        {
+          "id": "B",
+          "text": "A high level of the trait Neuroticism"
+        },
+        {
+          "id": "C",
+          "text": "A high level of the trait Agreeableness"
+        },
+        {
+          "id": "D",
+          "text": "A medium level of the trait Openness"
+        },
+        {
+          "id": "E",
+          "text": "A low level of the trait Extraversion"
+        },
+        {
+          "id": "F",
+          "text": "A high level of the trait Conscientiousness"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The analysis explicitly links the subject's verbal stumbling and self-description as 'awkward' in the introduction to a lack of preparation and structure, which are key indicators for Low Conscientiousness.\n- Option B is a near-miss distractor. The behaviors (awkwardness, self-soothing) are often associated with high neuroticism, but the analysis uses them to support a different conclusion (low conscientiousness). Furthermore, the overall neuroticism score is low due to her quick regulation of this state.\n- Option C is a text-based distractor. A Q&A format might imply agreeableness, but her behavior in this specific segment does not provide strong evidence for a high level of this trait.\n- Option D is a video-based distractor. Openness is inferred from cues present throughout the video (keyboard, video aesthetic) rather than the specific introductory behaviors.\n- Option E is a text-based distractor. While her demeanor could be seen as introverted, the analysis links the specific unpreparedness of this moment more directly to Conscientiousness.\n- Option F is a near-miss distractor. It identifies the correct personality dimension but indicates the wrong direction (high instead of low)."
+    },
+    {
+      "category": "Temporal-Causal Reasoning",
+      "question": "Consider the sequence of behaviors observed across the video. Which of the following best describes the causal chain linking the person's actions at different moments?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Social discomfort is managed by redirecting attention to a structured task, leading to a more composed and focused state."
+        },
+        {
+          "id": "B",
+          "text": "A period of focus is disrupted by an internal thought, which then leads to a brief, visible display of self-consciousness."
+        },
+        {
+          "id": "C",
+          "text": "Initial anxiety prompts an exaggerated display of confidence as a coping mechanism, before settling into a neutral state."
+        },
+        {
+          "id": "D",
+          "text": "An external prompt generates a positive emotional response, which is then regulated back to a neutral, task-focused baseline."
+        },
+        {
+          "id": "E",
+          "text": "A task-focused state is momentarily interrupted by a self-regulating gesture, allowing for a quick return to concentration."
+        },
+        {
+          "id": "F",
+          "text": "High confidence from reading a question degrades into social discomfort when she has to improvise an immediate answer."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "This option accurately abstracts the video's narrative arc: she starts with signs of discomfort (0.0s-3.7s), then shifts to the structured task of reading a question (3.7s onwards), which results in a more stable and focused demeanor (7.4s onwards).\n- Option B is a temporal-reversal distractor. It incorrectly reverses the causal order; the focus follows the self-consciousness, it does not precede it.\n- Option C is a near-miss distractor. The first and last parts are correct (initial anxiety, settling into a neutral state), but the middle causal link is wrong. There is no 'exaggerated display of confidence'; she simply shifts to a task.\n- Option D is a text-based distractor. This describes a plausible scenario for a Q&A video but does not match the observed emotional sequence, which starts with discomfort, not a neutral state leading to a positive response.\n- Option E is a video-based distractor. It misinterprets the timeline; the self-regulating gesture (hair touch) occurs *before* the main task-focused state begins, not as an interruption to it.\n- Option F is a text-based distractor. It describes a plausible but unobserved sequence; the video ends while she is still reading, so we do not see her improvise an answer or her confidence degrade."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 2.6s, a region was detected in the video (x=0.275, y=0.866, w=0.210, h=0.134, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The person's right hand being lowered out of the camera's view."
+        },
+        {
+          "id": "B",
+          "text": "A faint, slightly self-conscious smile forming on her mouth."
+        },
+        {
+          "id": "C",
+          "text": "Both of the person's hands resting calmly on a desk or keyboard."
+        },
+        {
+          "id": "D",
+          "text": "The person's gaze shifting towards the right side of the screen."
+        },
+        {
+          "id": "E",
+          "text": "The right hand moving upwards in order to touch the side of her hair."
+        },
+        {
+          "id": "F",
+          "text": "A neutral and focused expression while reading text from a screen."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The provided coordinates at 2.6s correspond to the lower-left portion of the frame, capturing the moment her right hand, which had previously touched her hair, is being lowered out of the shot, as described in the observation log [1.4s - 4.0s].\n- Option B is a video-based distractor. This action occurs around 1.6s and is located in the facial region, not the lower-left corner.\n- Option C is a video-based distractor. This action occurs later (after 4.0s) and is located in the lower-right portion of the frame.\n- Option D is a video-based distractor. The gaze shift occurs around 3.7s and involves the eye/face region, which is located elsewhere.\n- Option E is a video-based distractor. This is the action that occurs *before* the correct action, around 1.3s, and is located higher up in the frame near her head.\n- Option F is a near-miss distractor. This describes her state later in the video, but the specified bounding box is not on her face, making it spatially incorrect."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "The person's facial expression shifts from a neutral state to a tentative, slightly forced smile. Identify the correct timestamp and bounding box that best captures this specific facial action.",
+      "options": [
+        {
+          "id": "A",
+          "text": "[2.6s]  x=0.27, y=0.87, w=0.21, h=0.13"
+        },
+        {
+          "id": "B",
+          "text": "[1.3s]  x=0.27, y=0.48, w=0.22, h=0.52"
+        },
+        {
+          "id": "C",
+          "text": "[7.4s]  x=0.53, y=0.42, w=0.10, h=0.07"
+        },
+        {
+          "id": "D",
+          "text": "[10.8s]  x=0.49, y=0.13, w=0.18, h=0.42"
+        },
+        {
+          "id": "E",
+          "text": "[8.7s]  x=0.45, y=0.73, w=0.46, h=0.27"
+        },
+        {
+          "id": "F",
+          "text": "[1.6s]  x=0.44, y=0.21, w=0.20, h=0.41"
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The observation log for [0.0s - 3.7s] notes a transition to a 'light, unnatural smile'. The provided bbox at 1.6s accurately isolates the subject's face during this specific event.\n- Option A is a video-based distractor. This timestamp and bbox capture her hand being lowered from the frame.\n- Option B is a video-based distractor. This timestamp and bbox capture her hand moving up to touch her hair.\n- Option C is a video-based distractor. This timestamp and bbox capture her face as she begins to look to the side to read, but the 'unnatural smile' has already faded.\n- Option D is a video-based distractor. This timestamp and bbox capture her face while she is already in a stable, focused state of reading.\n- Option E is a video-based distractor. This timestamp and bbox capture her hands resting on a surface, not her face."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator08",
+      "version": 1,
+      "clues_total": 10,
+      "clues_correct": 9,
+      "clues_wrong_corrected": 1,
+      "clues_missing_skipped": 0,
+      "clues_bonus": 0
+    }
+  }
+}

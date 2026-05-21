@@ -1,0 +1,254 @@
+{
+  "video_id": "EmGTj1DRMbo.001.mp4",
+  "video_path": "EmGTj1DRMbo.001.mp4",
+  "transcription": "For as long as I can remember, even as a little girl, I would dream about going to New York and I used to want to move there, and you know, part of me still does want to move there but I just know that I would-",
+  "original_scores": {
+    "extraversion": 0.39252336448598135,
+    "agreeableness": 0.5934065934065933,
+    "conscientiousness": 0.5922330097087379,
+    "neuroticism": 0.45833333333333337,
+    "openness": 0.5444444444444444
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 12.08,
+      "description": "The subject maintains a direct gaze toward the camera with a neutral to slightly engaged expression. Her eyebrows are relaxed, and her mouth movements are natural and correspond with her speech. Her blink rate is normal.",
+      "bboxes": [
+        {
+          "frame_time": 0.261953,
+          "x": 0.34679276315789476,
+          "y": 0.2798245580572831,
+          "w": 0.1805921052631579,
+          "h": 0.12105263157894737,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 2.237538,
+          "x": 0.3379111842105263,
+          "y": 0.18508771595201995,
+          "w": 0.196875,
+          "h": 0.3973684210526316,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 6.361691,
+          "x": 0.3379111842105263,
+          "y": 0.23771929489938837,
+          "w": 0.19835526315789473,
+          "h": 0.10526315789473684,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 6.490614,
+          "x": 0.37935855263157897,
+          "y": 0.4692982422678094,
+          "w": 0.12434210526315789,
+          "h": 0.08947368421052632,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 7.90225,
+          "x": 0.3423519736842105,
+          "y": 0.29561403174149364,
+          "w": 0.20279605263157896,
+          "h": 0.12631578947368421,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 12.08,
+      "end_time": 14.88,
+      "description": "The subject's gaze shifts upward and to her left. Her eyebrows raise slightly, and her lips part slightly as she appears to be thinking or recalling information.",
+      "bboxes": [
+        {
+          "frame_time": 13.943501,
+          "x": 0.35863486842105263,
+          "y": 0.26403508437307255,
+          "w": 0.16578947368421054,
+          "h": 0.1,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 12.866065,
+          "x": 0.35419407894736843,
+          "y": 0.2403508738467568,
+          "w": 0.21759868421052633,
+          "h": 0.0868421052631579,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 12.866065,
+          "x": 0.3971217105263158,
+          "y": 0.42719297910991466,
+          "w": 0.12138157894736842,
+          "h": 0.11578947368421053,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 14.88,
+      "description": "The subject is seated and facing the camera. Her posture is upright and her shoulders are relaxed. She makes very subtle head movements as she speaks, with a slight tilt to her right around 00:08.",
+      "bboxes": [
+        {
+          "frame_time": 2.400946,
+          "x": 0.3171875,
+          "y": 0.08771929489938836,
+          "w": 0.2634868421052632,
+          "h": 0.5842105263157895,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 2.400946,
+          "x": 0.20172697368421053,
+          "y": 0.3140350843730726,
+          "w": 0.5032894736842105,
+          "h": 0.6552631578947369,
+          "note": "pose human-annotated",
+          "region": "torso"
+        },
+        {
+          "frame_time": 2.400946,
+          "x": 0.18692434210526315,
+          "y": 0.5982456106888621,
+          "w": 0.5180921052631579,
+          "h": 0.39473684210526316,
+          "note": "pose human-annotated",
+          "region": "shoulders"
+        },
+        {
+          "frame_time": 9.299185,
+          "x": 0.3290296052631579,
+          "y": 0.1298245580572831,
+          "w": 0.23092105263157894,
+          "h": 0.4763157894736842,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 11.53,
+      "description": "The subject speaks at a moderate, conversational pace with a relatively stable mid-range pitch. There is natural falling intonation at the ends of clauses.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 11.53,
+      "end_time": 14.88,
+      "description": "The speech rate slows slightly. The pitch rises on the word \"know\" for emphasis, and the sentence ends abruptly after the word \"would-\".",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 14.88,
+      "description": "The subject is a young woman with fair skin, dark shoulder-length hair, and dark eye makeup. She has a piercing on her upper lip and visible tattoos on her left arm. She is wearing a sleeveless black top and dangly earrings. The setting is an indoor room with warm, soft lighting. Behind her is a window with blinds, a climbing green plant, and a framed portrait of a lion. To her right is a floor lamp on a shelf unit with a lit candle and books.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Low",
+      "score": 0.39,
+      "rationale": "The subject's Low Extraversion is indicated by her contained and measured demeanor. Her speech is delivered at a moderate, steady pace with a stable pitch, and her physical expressiveness, such as head movements, is very subtle. This lack of outward animation and high energy is characteristic of individuals who are more reserved and internally focused, consistent with a lower score on this dimension.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Medium",
+      "score": 0.59,
+      "rationale": "The Medium score for Agreeableness is supported by the subject's calm and approachable presentation. Her relaxed posture, shoulders, and eyebrows, combined with a steady vocal tone, project a non-confrontational and cooperative attitude. She maintains direct eye contact, indicating engagement, but her overall facial expression is more neutral than overtly warm, placing her in the mid-range of this trait, suggesting a balance between being accommodating and maintaining personal boundaries.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Medium",
+      "score": 0.59,
+      "rationale": "The subject's Medium Conscientiousness is reflected in her structured communication and focused demeanor. She presents a coherent narrative from her past, and her upright posture suggests attentiveness and self-control. The brief pause and upward gaze towards the end, where her speech slows, indicates a moment of careful thought and word selection. This thoughtful, rather than rigidly perfect, approach to self-presentation aligns with a mid-range Conscientiousness score.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Medium",
+      "score": 0.46,
+      "rationale": "This Medium Neuroticism score is supported by a generally calm demeanor that contains subtle indicators of internal processing. On one hand, her relaxed posture, stable vocal tone, and normal blink rate suggest emotional stability (low Neuroticism). However, the abrupt halt in her sentence ('I would-') combined with a gaze shift suggests a flicker of self-consciousness or cognitive difficulty, preventing a lower score. This balance between outward composure and a brief moment of hesitation supports a mid-range assessment.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "Medium",
+      "score": 0.54,
+      "rationale": "The subject's Medium Openness is suggested by a combination of her personal aesthetic and the introspective nature of her verbal content. Her visible tattoos, lip piercing, and curated background (lion portrait, plant, candle) point to an appreciation for aesthetics and self-expression. Furthermore, she is engaged in imaginative recall, reflecting on a long-held dream, which is a facet of Openness. The conventionality of the topic itself keeps the assessment in the moderate, rather than high, range.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During 11.5s - 14.9s, the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A moderate level of Conscientiousness, reflecting careful thought."
+        },
+        {
+          "id": "B",
+          "text": "A particularly high level of Openness, reflecting imagination."
+        },
+        {
+          "id": "C",
+          "text": "A notably low level of Neuroticism, reflecting pure calmness."
+        },
+        {
+          "id": "D",
+          "text": "A very low level of Extraversion, reflecting reserved conduct."
+        },
+        {
+          "id": "E",
+          "text": "A significantly high level of Agreeableness, reflecting warmth."
+        },
+        {
+          "id": "F",
+          "text": "A high level of Conscientiousness, reflecting rigid perfection."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The behavior in this time range includes slowed speech, an upward gaze shift, and an abrupt sentence cutoff. This is interpreted as a moment of careful thought and word selection, which is a key indicator for a moderate, rather than rigidly high, level of Conscientiousness. Option A is the correct answer. Option F is a near-miss distractor because it correctly identifies the trait (Conscientiousness) but misinterprets the behavior as evidence for a 'high' level (perfectionism) rather than a more moderate 'thoughtful' level. Option D is a video-based distractor because while the person does exhibit Low Extraversion, this assessment is based on her overall reserved demeanor throughout the video, not this specific moment of cognitive pausing. Option C is a near-miss distractor as this behavior actually prevents a 'Low Neuroticism' score by introducing a flicker of hesitation. Options B and E are text-based distractors; the topic of a 'dream' might suggest Openness and her calm tone might suggest Agreeableness, but the specific physical actions in this time range (the pause and gaze shift) do not directly support these traits."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator17",
+      "version": 1,
+      "clues_total": 15,
+      "clues_correct": 13,
+      "clues_wrong_corrected": 2,
+      "clues_missing_skipped": 0,
+      "clues_bonus": 0
+    }
+  }
+}

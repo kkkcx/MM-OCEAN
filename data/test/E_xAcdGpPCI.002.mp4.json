@@ -1,0 +1,454 @@
+{
+  "video_id": "E_xAcdGpPCI.002.mp4",
+  "video_path": "E_xAcdGpPCI.002.mp4",
+  "transcription": "-is here to do again and again and again. Then before you realize what's taking place, behavior, which at one point seemed completely unacceptable, begins to seem perfectly normal.",
+  "original_scores": {
+    "extraversion": 0.2897196261682243,
+    "agreeableness": 0.4945054945054945,
+    "conscientiousness": 0.6310679611650486,
+    "neuroticism": 0.3645833333333333,
+    "openness": 0.4222222222222222
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 7.84,
+      "description": "The man maintains direct gaze at the camera with his eyes slightly narrowed. His eyebrows are in a neutral to slightly raised position. His mouth moves naturally as he speaks.",
+      "bboxes": [
+        {
+          "frame_time": 1.444387,
+          "x": 0.415625,
+          "y": 0.2900000020077354,
+          "w": 0.1998355263157895,
+          "h": 0.12368421052631579,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 2.497112,
+          "x": 0.42154605263157896,
+          "y": 0.2978947388498407,
+          "w": 0.14950657894736843,
+          "h": 0.08157894736842106,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 5.021824,
+          "x": 0.44375,
+          "y": 0.4663157914814196,
+          "w": 0.09769736842105263,
+          "h": 0.0868421052631579,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 7.84,
+      "end_time": 10.15,
+      "description": "As he says \"completely unacceptable,\" his eyebrows lower slightly, and the corners of his mouth are pulled down slightly. His lips press together briefly and firmly.",
+      "bboxes": [
+        {
+          "frame_time": 7.84,
+          "x": 0.41118421052631576,
+          "y": 0.23473684411299856,
+          "w": 0.17023026315789475,
+          "h": 0.3736842105263158,
+          "note": "human-annotated",
+          "region": "unknown"
+        },
+        {
+          "frame_time": 7.84,
+          "x": 0.415625,
+          "y": 0.27947368621826174,
+          "w": 0.14210526315789473,
+          "h": 0.0868421052631579,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 9.230989,
+          "x": 0.42894736842105263,
+          "y": 0.5005263177972091,
+          "w": 0.10361842105263158,
+          "h": 0.11052631578947368,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 8.156337,
+          "x": 0.47039473684210525,
+          "y": 0.4742105283235249,
+          "w": 0.09917763157894736,
+          "h": 0.07894736842105263,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 10.15,
+      "end_time": 12.28,
+      "description": "His facial expression returns to a more neutral state, with his eyebrows rising slightly as he finishes his sentence.",
+      "bboxes": [
+        {
+          "frame_time": 11.215,
+          "x": 0.4082236842105263,
+          "y": 0.23736842306036698,
+          "w": 0.17023026315789475,
+          "h": 0.3736842105263158,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 11.481664,
+          "x": 0.41118421052631576,
+          "y": 0.30052631779720906,
+          "w": 0.15098684210526317,
+          "h": 0.09210526315789473,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 12.28,
+      "description": "The man sits upright in a chair, framed from the chest up. His posture is stable. He makes very subtle, small-amplitude forward nods with his head that are synchronized with his speech for emphasis, particularly on the words \"again\" (0.0-2.0), \"place\" (6.0), and \"normal\" (12.0).",
+      "bboxes": [
+        {
+          "frame_time": 3.289708,
+          "x": 0.3075657894736842,
+          "y": 0.1505263177972091,
+          "w": 0.34638157894736843,
+          "h": 0.8368421052631579,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 4.354795,
+          "x": 0.22911184210526314,
+          "y": 0.5426315809551038,
+          "w": 0.5417763157894737,
+          "h": 0.4473684210526316,
+          "note": "pose human-annotated",
+          "region": "torso"
+        },
+        {
+          "frame_time": 2.098597,
+          "x": 0.38453947368421054,
+          "y": 0.16631579148141962,
+          "w": 0.22796052631578947,
+          "h": 0.5263157894736842,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 3.16,
+      "description": "Speech is delivered at a moderate rate. The phrase \"again and again and again\" is spoken with a rhythmic, slightly falling pitch on each repetition.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 3.16,
+      "end_time": 6.48,
+      "description": "Speech rate remains moderate and even. A brief pause occurs after \"Then.\" The pitch contour is mostly declarative, falling at the end of the clause \"what's taking place.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 12.28,
+      "description": "The subject is a male with short dark hair and light skin, wearing a blue and white plaid button-down collared shirt with a lavalier microphone clipped to the collar. He is seated indoors in front of a dark wood bookcase. The shelves are illuminated and hold several leather-bound books and a dark spherical object. The overall lighting is warm and focused on the subject.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Low",
+      "score": 0.29,
+      "rationale": "The subject's Low Extraversion is supported by his reserved and controlled demeanor. His posture is stable and contained, lacking the expansive gestures or dynamic energy typical of highly extraverted individuals. His vocal delivery is measured and moderate in pace, with a declarative tone, rather than being loud, rapid, or emotionally expressive. Facial expressions are subtle and directly tied to the content, indicating a focus on the message rather than social engagement. This overall pattern of controlled, non-expressive behavior is characteristic of introversion.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Medium",
+      "score": 0.49,
+      "rationale": "The subject's Medium Agreeableness is reflected in his balanced and non-confrontational communication style. He maintains a direct, steady gaze, which in this context appears more like sincere engagement than a challenge. His facial expressions are generally neutral, lacking both the overt warmth of high agreeableness and the signs of skepticism or impatience associated with low agreeableness. The vocal tone is measured and focused on clarity, suggesting a cooperative intent without being overtly accommodating, which is consistent with a mid-range score.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "High",
+      "score": 0.63,
+      "rationale": "A High Conscientiousness score is strongly indicated by the subject's organized and deliberate presentation. He maintains a stable, upright posture, suggesting self-control and focus. His speech is methodically paced, and he uses small, precise head nods synchronized with key words to add emphasis, reflecting a structured and purposeful approach to communication. The formal setting with an organized bookshelf and the use of a lapel microphone suggest careful preparation and attention to detail. This combination of controlled physicality and structured delivery points to a diligent and orderly individual.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Low",
+      "score": 0.36,
+      "rationale": "The subject's Low Neuroticism is evident in his calm and stable demeanor. Throughout the clip, he maintains a composed and steady posture, free from any anxious indicators such as fidgeting or shifting. His vocal delivery is even and controlled, with no tremors or hesitations that would suggest stress or nervousness. He maintains a direct and unwavering gaze, reinforcing an impression of confidence and emotional stability. The complete absence of these classic behavioral markers of anxiety supports a low score on this dimension.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "Medium",
+      "score": 0.42,
+      "rationale": "The Medium Openness score is consistent with the subject's engagement in an abstract topic presented in a conventional manner. He discusses a complex psychological concept—the normalization of behavior—which indicates an interest in ideas. The academic setting with a bookshelf background also aligns with intellectual pursuits. However, his delivery is more declarative and instructional than imaginative or exploratory. His controlled facial expressions do not convey the high degree of intellectual curiosity or creative energy often seen in individuals with very high Openness, leading to a mid-range assessment.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During 0.0s - 12.3s, the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The person's behavior strongly indicates a Low Openness to Experience level."
+        },
+        {
+          "id": "B",
+          "text": "The person's behavior strongly indicates a High Agreeableness personality trait."
+        },
+        {
+          "id": "C",
+          "text": "The person's behavior strongly indicates a High Neuroticism personality trait."
+        },
+        {
+          "id": "D",
+          "text": "The person's behavior strongly indicates a Low Conscientiousness personality trait."
+        },
+        {
+          "id": "E",
+          "text": "The person's behavior strongly indicates a Low Extraversion personality trait."
+        },
+        {
+          "id": "F",
+          "text": "The person's behavior strongly indicates a High Conscientiousness personality trait."
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The correct answer is F. The subject's stable, upright posture, methodically paced speech, and precise head nods synchronized with key words all point to a deliberate, organized, and structured approach, which are hallmark indicators of High Conscientiousness. \n\n- Option A is a text-based distractor. While his delivery is conventional (suggesting not *very* high openness), the abstract topic itself indicates some level of openness, making a 'Low' rating less supported than High Conscientiousness.\n- Option B is a text-based distractor. His formal, didactic style lacks the overt warmth and accommodating cues associated with High Agreeableness.\n- Option C is a near-miss distractor. The calm, controlled demeanor is the opposite of what would be expected for High Neuroticism, which is characterized by anxiety and emotional instability.\n- Option D is a near-miss distractor. It identifies the correct dimension (Conscientiousness) but gets the direction wrong. His behavior is highly organized, not careless or disorderly.\n- Option E is a video-based distractor. The person does exhibit signs of Low Extraversion (reserved demeanor, moderate vocal tone), which is well-supported by the video. However, the *most direct* and prominent evidence throughout the clip points to the structured, purposeful nature of his communication, making High Conscientiousness a slightly better fit for the overall pattern."
+    },
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their Conscientiousness level?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[0.0s - 2.0s]"
+        },
+        {
+          "id": "B",
+          "text": "[3.5s - 5.5s]"
+        },
+        {
+          "id": "C",
+          "text": "[5.8s - 7.2s]"
+        },
+        {
+          "id": "D",
+          "text": "[10.2s - 12.3s]"
+        },
+        {
+          "id": "E",
+          "text": "[7.0s - 9.4s]"
+        },
+        {
+          "id": "F",
+          "text": "[7.8s - 10.2s]"
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The correct answer is F. The interval [7.8s - 10.2s] captures the moment he says \"completely unacceptable,\" where his eyebrows lower and mouth corners pull down. This deliberate facial punctuation to emphasize a key point is a strong indicator of a structured, conscientious communication style. \n\n- Option A is a video-based distractor. This interval contains head nods, which are relevant to Conscientiousness, but the facial expression change is less distinct than the one at 7.8s.\n- Option B is a text-based distractor. This is a plausible-looking time range during his speech where no significant facial expression change occurs.\n- Option C is a text-based distractor. This is another interval with neutral expression just before the key event, designed to seem plausible.\n- Option D is a video-based distractor. This interval shows his face returning to neutral, which is a real event but represents a *dissipation* of the key expression, not its onset.\n- Option E is a near-miss distractor. This interval overlaps significantly with the correct answer but is less precise in capturing the beginning and end of the full expression."
+    },
+    {
+      "category": "Mixed Emotion Discrimination",
+      "question": "During 7.8s - 10.2s, the person's emotional state is best characterized as which of the following? Consider both verbal and non-verbal cues.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Weary resignation tempered by a subtle note of sadness for the situation."
+        },
+        {
+          "id": "B",
+          "text": "Focused concentration mixed with a completely neutral emotional delivery."
+        },
+        {
+          "id": "C",
+          "text": "Deep disappointment for the topic at hand mixed with slight frustration."
+        },
+        {
+          "id": "D",
+          "text": "Mild irritation at the subject being discussed tempered by patient explanation."
+        },
+        {
+          "id": "E",
+          "text": "Personal regret over past events mixed with a distinct sense of foreboding."
+        },
+        {
+          "id": "F",
+          "text": "Firm disapproval of the concept being described mixed with didactic gravity."
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The correct answer is F. During this interval, the speaker says \"completely unacceptable.\" His lowered brows, downturned mouth corners, and firm lip press are not signs of personal emotion like sadness or irritation, but rather controlled, non-verbal tools to convey the seriousness and unacceptability of the concept. This combination is best described as firm, objective disapproval delivered with the gravity of a teacher or instructor.\n\n- Option A is a text-based distractor. The speaker's energy is controlled and firm, not weary or sad.\n- Option B is a video-based distractor. This description better fits the *other* parts of the video (e.g., 0-7s), but not this specific moment where his expression clearly deviates from neutral to make a point.\n- Option C is a near-miss distractor. \"Disappointment\" and \"frustration\" imply a more personal, emotional reaction. The expression appears more controlled and illustrative, suggesting a deliberate emphasis rather than a spontaneous emotional state.\n- Option D is a near-miss distractor. While close, \"irritation\" suggests a loss of patience, whereas his demeanor remains highly controlled and measured. The expression serves to instruct, not to show annoyance.\n- Option E is a text-based distractor. There are no verbal or non-verbal cues in the video to support feelings of personal regret or foreboding."
+    },
+    {
+      "category": "Temporal-Causal Reasoning",
+      "question": "Consider the sequence of behaviors observed across the video. Which of the following best describes the causal chain linking the person's actions at different moments?",
+      "options": [
+        {
+          "id": "A",
+          "text": "An initial display of social engagement (0-7s) is followed by a rhetorical pause (7.8-10.2s), concluding with a warm, summary statement (10.2-12.3s) meant to build rapport."
+        },
+        {
+          "id": "B",
+          "text": "A period of rising agitation (0-7s) culminates in a brief emotional outburst (7.8-10.2s), which is then followed by a visible effort at self-correction and calming (10.2-12.3s)."
+        },
+        {
+          "id": "C",
+          "text": "A moment of intense non-verbal emphasis (7.8-10.2s) prompts a need for emotional regulation (10.2-12.3s), which then shifts into a controlled exposition to recover composure (0-7s)."
+        },
+        {
+          "id": "D",
+          "text": "An initial period of intellectual authority (0-7s) leads into a moment of emotional vulnerability (7.8-10.2s), which is then quickly masked by a return to a neutral state (10.2-12.3s)."
+        },
+        {
+          "id": "E",
+          "text": "A phase of neutral delivery (0-7s) is disrupted by an involuntary reaction to an internal thought (7.8-10.2s), after which the speaker quickly returns to his original baseline (10.2-12.3s)."
+        },
+        {
+          "id": "F",
+          "text": "A phase of controlled exposition (0-7s) establishes a baseline, which is punctuated by focused non-verbal emphasis (7.8-10.2s) to highlight a point, followed by a return to neutrality (10.2-12.3s)."
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The correct answer is F. This option accurately describes the logical and causal flow of the speaker's deliberate communication style. He first establishes a calm, authoritative baseline, then uses a specific non-verbal cue for emphasis on a key phrase, and finally returns to the baseline to signal the conclusion of the point. This reflects a structured, purposeful (conscientious) approach.\n\n- Option A is a text-based distractor. The speaker's style is formal and didactic, not socially engaging or warm, and there are no cues aimed at building rapport.\n- Option B is a text-based distractor. The video shows no evidence of rising agitation or an emotional outburst; the speaker remains calm and controlled throughout.\n- Option C is a video-based distractor with reversed temporal order. It correctly identifies the behaviors but scrambles their sequence, claiming the end state causes the beginning state.\n- Option D is a near-miss distractor. It correctly identifies the first and third phases, but misinterprets the middle phase as \"emotional vulnerability.\" The expression is one of controlled emphasis, not an uncontrolled show of vulnerability.\n- Option E is a near-miss distractor. It correctly identifies the sequence of events but provides the wrong causal link, suggesting the expression at 7.8s is an \"involuntary reaction\" when it appears to be a deliberate, rhetorical device."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 11.2s, a region was detected in the video (x=0.408, y=0.237, w=0.170, h=0.374, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A brief and firm closing gesture of the speaker's lips is observed."
+        },
+        {
+          "id": "B",
+          "text": "A stable and straight posture being maintained by the speaker."
+        },
+        {
+          "id": "C",
+          "text": "The speaker's eyebrows are held in a neutral, slightly raised state."
+        },
+        {
+          "id": "D",
+          "text": "A subtle downward pull at the corners of the person's mouth."
+        },
+        {
+          "id": "E",
+          "text": "The verbal emphasis on a phrase indicating strong disapproval."
+        },
+        {
+          "id": "F",
+          "text": "The facial expression returning to a neutral, composed baseline."
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The correct answer is F. The specified bounding box at 11.2s covers the person's face. At this moment, he is finishing his sentence, and his facial expression, which was tensed for emphasis moments before, is relaxing and returning to his neutral baseline state.\n\n- Option A is a video-based distractor. A firm lip closure occurs, but it happens earlier at 8.2s, not at 11.2s.\n- Option B is a video-based distractor. The person does maintain a stable posture, but the bounding box is specifically on his face, not his torso.\n- Option C is a video-based distractor. Neutral/raised eyebrows are seen at other times (e.g., 2.5s), but the most prominent action in the specified region at 11.2s is the overall return to neutrality.\n- Option D is a video-based distractor. A downward pull of the mouth corners is a key part of the expression of disapproval seen earlier around 9.2s, not at 11.2s when the expression is fading.\n- Option E is a text-based distractor. This describes an auditory event (verbal emphasis), not a visual expression or action that would be detected within a bounding box."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "The speaker briefly tenses their facial muscles to visually underscore a key negative concept. At which timestamp and within which bounding box does this specific, emphatic expression occur?",
+      "options": [
+        {
+          "id": "A",
+          "text": "t=2.1s, x=0.385, y=0.166, w=0.228, h=0.526"
+        },
+        {
+          "id": "B",
+          "text": "t=5.0s, x=0.444, y=0.466, w=0.098, h=0.087"
+        },
+        {
+          "id": "C",
+          "text": "t=11.2s, x=0.408, y=0.237, w=0.170, h=0.374"
+        },
+        {
+          "id": "D",
+          "text": "t=1.4s, x=0.416, y=0.290, w=0.200, h=0.124"
+        },
+        {
+          "id": "E",
+          "text": "t=9.2s, x=0.429, y=0.501, w=0.104, h=0.111"
+        },
+        {
+          "id": "F",
+          "text": "t=7.8s, x=0.411, y=0.235, w=0.170, h=0.374"
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The correct answer is F. The question asks for the onset of the emphatic expression used to underscore a negative concept (\"unacceptable\"). This begins at 7.8s, and the provided bounding box covers the entire facial region where the expression (lowered brows, downturned mouth) occurs.\n\n- Option A is a video-based distractor. This timestamp and bbox correspond to a head nod, not the facial expression of emphasis.\n- Option B is a video-based distractor. This timestamp and bbox isolate the mouth during a period of neutral speech, not the moment of emphasis.\n- Option C is a video-based distractor. This shows the face, but at 11.2s, when the emphatic expression is over and the face is returning to neutral.\n- Option D is a video-based distractor. This timestamp and bbox correspond to the eyes during the initial, neutral phase of his speech.\n- Option E is a near-miss distractor. This timestamp and bbox are from within the correct event, but they isolate only the mouth at a later point (9.2s). Option F is better as it captures the entire facial expression at its onset (7.8s)."
+    },
+    {
+      "category": "Counterfactual Reasoning",
+      "question": "If the person had NOT exhibited the behavior observed around 0.0s - 2.0s, which of the following personality assessments would be MOST affected?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The Agreeableness rating would be lowered, because the behavior is a key signal of cooperative engagement."
+        },
+        {
+          "id": "B",
+          "text": "The Neuroticism score would be raised, as the behavior observed can be interpreted as a self-soothing gesture."
+        },
+        {
+          "id": "C",
+          "text": "The Extraversion score would be less certain, as this moment offers vital evidence for his social energy levels."
+        },
+        {
+          "id": "D",
+          "text": "The Openness assessment would be shifted, because this action signals a strong intellectual curiosity in the topic."
+        },
+        {
+          "id": "E",
+          "text": "The Conscientiousness score would be increased, as its absence would imply an even greater level of verbal control."
+        },
+        {
+          "id": "F",
+          "text": "The Conscientiousness rating would be lower, as this behavior is a main indicator of his structured communication style."
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The correct answer is F. The behavior around 0.0s - 2.0s is the precise head nod synchronized with the words \"again and again and again.\" The personality analysis explicitly cites these synchronized nods as key evidence for a structured, purposeful, and deliberate communication style, which are hallmarks of High Conscientiousness. Removing this evidence would significantly weaken the case for this trait assessment.\n\n- Option A is a near-miss distractor. While nods can signal agreement, in this context, their precise timing with speech makes them a stronger indicator of deliberate emphasis (Conscientiousness) than cooperation (Agreeableness).\n- Option B is a text-based distractor. There is no evidence to suggest the nod is a self-soothing gesture; his overall demeanor is calm, supporting Low Neuroticism. Removing the nod wouldn't logically increase a Neuroticism score.\n- Option C is a video-based distractor. The assessment of Low Extraversion is based on his overall reserved demeanor, controlled voice, and lack of expansive gestures throughout the entire clip, not just this one head nod.\n- Option D is a text-based distractor. The behavior signals structure and emphasis, not necessarily intellectual curiosity, which is more related to the Openness trait.\n- Option E is a near-miss distractor. It correctly identifies the relevant trait (Conscientiousness) but reasons in the wrong direction. Removing a key piece of evidence for a trait would lower the confidence in that assessment, not increase it."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator11",
+      "version": 1,
+      "clues_total": 16,
+      "clues_correct": 15,
+      "clues_wrong_corrected": 0,
+      "clues_missing_skipped": 1,
+      "clues_bonus": 0
+    }
+  }
+}

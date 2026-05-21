@@ -1,0 +1,501 @@
+{
+  "video_id": "-10-QQDO_ME.001.mp4",
+  "video_path": "-10-QQDO_ME.001.mp4",
+  "transcription": "I assume what they mean by t.v, is having cable, so I feel like for me, having cable is pointless because I could just watch everything no the internet.",
+  "original_scores": {
+    "extraversion": 0.5327102803738318,
+    "agreeableness": 0.5494505494505494,
+    "conscientiousness": 0.5631067961165048,
+    "neuroticism": 0.4166666666666667,
+    "openness": 0.6555555555555556
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 2.2,
+      "description": "The subject maintains eye contact with the camera, mouth moving naturally with speech. Her eyebrows are in a relaxed, neutral position.",
+      "bboxes": [
+        {
+          "frame_time": 2.367801,
+          "x": 0.3401315789473684,
+          "y": 0.36894737042878806,
+          "w": 0.2042763157894737,
+          "h": 0.11578947368421053,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 0.210646,
+          "x": 0.3638157894736842,
+          "y": 0.5689473704287881,
+          "w": 0.14950657894736843,
+          "h": 0.15263157894736842,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 1.961793,
+          "x": 0.26907894736842103,
+          "y": 0.3347368441129986,
+          "w": 0.3123355263157895,
+          "h": 0.15526315789473685,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 2.2,
+      "end_time": 4.1,
+      "description": "Her gaze shifts briefly to her right (viewer's left) and then back to the camera. Her expression remains neutral.",
+      "bboxes": [
+        {
+          "frame_time": 3.335231,
+          "x": 0.2513157894736842,
+          "y": 0.3110526335866828,
+          "w": 0.3004934210526316,
+          "h": 0.18157894736842106,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 3.988304,
+          "x": 0.2631578947368421,
+          "y": 0.34526315990247225,
+          "w": 0.27532894736842106,
+          "h": 0.15526315789473685,
+          "note": "human-annotated",
+          "region": "unknown"
+        },
+        {
+          "frame_time": 4.26078,
+          "x": 0.22911184210526314,
+          "y": 0.187368423060367,
+          "w": 0.3138157894736842,
+          "h": 0.5815789473684211,
+          "note": "face human-annotated",
+          "region": "face"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 4.1,
+      "end_time": 6.3,
+      "description": "Her gaze again shifts to her right as she pauses speaking. Her mouth is slightly open.",
+      "bboxes": [
+        {
+          "frame_time": 6.756367,
+          "x": 0.27055921052631576,
+          "y": 0.2136842125340512,
+          "w": 0.32861842105263156,
+          "h": 0.32105263157894737,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 6.161401,
+          "x": 0.3519736842105263,
+          "y": 0.5294736862182617,
+          "w": 0.17615131578947368,
+          "h": 0.21578947368421053,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 6.3,
+      "end_time": 8.5,
+      "description": "Her eyes move back toward the camera but remain slightly unfocused. Her eyebrows lower slightly and her lips purse as she says, \"for me.\"",
+      "bboxes": [
+        {
+          "frame_time": 7.246639,
+          "x": 0.3179276315789474,
+          "y": 0.2610526335866828,
+          "w": 0.2294407894736842,
+          "h": 0.24210526315789474,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 8.612666,
+          "x": 0.275,
+          "y": 0.23736842306036698,
+          "w": 0.3271381578947368,
+          "h": 0.13421052631578947,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 8.646419,
+          "x": 0.3549342105263158,
+          "y": 0.5978947388498407,
+          "w": 0.21759868421052633,
+          "h": 0.15263157894736842,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 8.5,
+      "end_time": 10.3,
+      "description": "Gaze returns to the camera, and her facial expression returns to a neutral state.",
+      "bboxes": [
+        {
+          "frame_time": 9.396995,
+          "x": 0.30608552631578945,
+          "y": 0.20842105463931435,
+          "w": 0.2694078947368421,
+          "h": 0.29736842105263156,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 10.3,
+      "end_time": 15.01,
+      "description": "Her gaze shifts down and to her right as she continues speaking. Her upper eyelids are slightly lowered in a thoughtful expression. She presses her lips together briefly at the end of her sentence.",
+      "bboxes": [
+        {
+          "frame_time": 12.785403,
+          "x": 0.28092105263157896,
+          "y": 0.20578947569194592,
+          "w": 0.3078947368421053,
+          "h": 0.5421052631578948,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 14.416242,
+          "x": 0.28092105263157896,
+          "y": 0.1505263177972091,
+          "w": 0.31085526315789475,
+          "h": 0.7,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 15.01,
+          "x": 0.3460526315789474,
+          "y": 0.5847368441129985,
+          "w": 0.17763157894736842,
+          "h": 0.15,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 4.6,
+      "description": "The subject is shown from the upper chest up, facing forward. Her head is mostly still, with minor movements accompanying her speech.",
+      "bboxes": [
+        {
+          "frame_time": 2.35608,
+          "x": 0.2824013157894737,
+          "y": 0.1900000020077354,
+          "w": 0.30197368421052634,
+          "h": 0.5973684210526315,
+          "note": "human-annotated",
+          "region": "unknown"
+        },
+        {
+          "frame_time": 4.549346,
+          "x": 0.19950657894736842,
+          "y": 0.05842105463931435,
+          "w": 0.4292763157894737,
+          "h": 0.8105263157894737,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 4.6,
+      "end_time": 6.5,
+      "description": "Her right hand makes a brief, small upward flick gesture at the right edge of the frame.",
+      "bboxes": [
+        {
+          "frame_time": 5.473976,
+          "x": 0.8256578947368421,
+          "y": 0.518947370428788,
+          "w": 0.16578947368421054,
+          "h": 0.4789473684210526,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 6.5,
+      "end_time": 8.7,
+      "description": "Her head tilts slightly to her left.",
+      "bboxes": [
+        {
+          "frame_time": 7.969448,
+          "x": 0.19210526315789472,
+          "y": 0.061052633586682774,
+          "w": 0.44259868421052634,
+          "h": 0.7868421052631579,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 8.7,
+      "end_time": 15.01,
+      "description": "Her head tilts back to a central position and then remains mostly still, turned slightly to her right.",
+      "bboxes": [
+        {
+          "frame_time": 10.838556,
+          "x": 0.2513157894736842,
+          "y": 0.0400000020077354,
+          "w": 0.37154605263157897,
+          "h": 0.7421052631578947,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 15.027098,
+          "x": 0.2868421052631579,
+          "y": 0.005789475691945929,
+          "w": 0.3582236842105263,
+          "h": 0.8026315789473685,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0.3,
+      "end_time": 3.9,
+      "description": "Speech is delivered at a moderate, conversational pace with a relatively stable pitch on the phrase \"I assume what they mean by TV, is like having cable.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 3.9,
+      "end_time": 6.2,
+      "description": "A pause of approximately two seconds occurs.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 6.2,
+      "end_time": 10.1,
+      "description": "The phrase \"for me, having cable is pointless\" is spoken at a consistent rate. The word \"pointless\" receives a slight stress.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 10.1,
+      "end_time": 13.5,
+      "description": "The speech rate increases slightly for the phrase \"because I could just watch everything on the internet,\" ending with a falling intonation.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.01,
+      "description": "The subject is a young woman with light skin and wavy platinum blonde hair. She is wearing makeup, including eyeshadow and pink lipstick, and has large, light-pink, teardrop-shaped ear gauges. She is wearing a black, round-neck shirt. The background is a yellow and white patterned curtain. Lighting is bright and even from the front. The text \"VIOLET FIREHOCK\" is superimposed in the top-left corner.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Medium",
+      "score": 0.53,
+      "rationale": "The subject's score indicates a Medium level of Extraversion. While she is comfortable speaking directly to the camera, a form of social presentation, her energy is moderate rather than high. Her use of a brief hand gesture ([4.6s-6.5s]) and expressive eyebrow raise ([6.3s-8.5s]) points to some social expressiveness. However, this is balanced by frequent gaze aversions ([2.2s], [4.1s], [8.5s]) and a two-second pause ([3.9s-6.2s]), which suggest periods of internal cognitive processing rather than a continuous outward focus. This blend of comfortable self-expression and thoughtful introspection is characteristic of an individual in the medium range of Extraversion.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Medium",
+      "score": 0.55,
+      "rationale": "The subject exhibits behaviors consistent with a Medium level of Agreeableness. Her overall demeanor is pleasant and non-confrontational, supported by a moderate vocal tone and a slight upward turn of her mouth corner ([2.2s-4.1s]), which softens her expression. She phrases her opinion using qualifiers like 'I feel like for me,' which is a cooperative communication style aimed at avoiding conflict. The evidence does not point to high Agreeableness, as her expression is largely thoughtful and neutral, and the tightening of her lips when emphasizing 'for me' ([6.3s-8.5s]) indicates a clear assertion of her own viewpoint.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Medium",
+      "score": 0.56,
+      "rationale": "The subject's score reflects a Medium level of Conscientiousness. Her communication is structured and deliberate; she presents a clear, logical argument by first defining the topic, stating her opinion, and then providing a reason. The pause to gather her thoughts ([3.9s-6.2s]) and the focused, thinking expression ([10.3s-15.0s]) indicate a considered, non-impulsive approach. However, the on-the-fly formulation of her thoughts, evidenced by multiple gaze shifts to aid recall and processing, suggests a typical level of planning rather than the highly prepared and rehearsed delivery often seen in individuals with very high Conscientiousness.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Medium",
+      "score": 0.42,
+      "rationale": "The subject's behavior aligns with a Medium level of Neuroticism. She appears largely calm and composed, speaking at a moderate pace with a stable vocal tone, which are indicators against high Neuroticism. However, she does not appear entirely at ease. The recurrent gaze shifts away from the camera, particularly when pausing or formulating a thought ([2.2s], [4.1s], [8.5s]), can be interpreted as subtle signs of cognitive load or mild social pressure. These behaviors, while not indicative of anxiety, preclude a 'Low' rating and suggest a typical, medium-level response to the situation.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "High",
+      "score": 0.66,
+      "rationale": "The subject's score is in the High range for Openness, and the evidence strongly supports this. The content of her speech—rejecting a traditional medium (cable TV) in favor of a more modern, versatile one (the internet)—demonstrates a preference for new experiences and ideas. Furthermore, her aesthetic presentation, including distinct makeup, large earrings, and a patterned background, suggests an appreciation for artistic and aesthetic expression. The periods of deep thought, marked by a thoughtful expression ([10.3s-15.0s]) and downward gaze ([8.5s-10.3s]), indicate an engagement with abstract concepts, a key cognitive style of individuals high in Openness.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their Agreeableness level?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[6.3s - 8.5s]"
+        },
+        {
+          "id": "B",
+          "text": "[2.2s - 4.1s]"
+        },
+        {
+          "id": "C",
+          "text": "[0.0s - 2.2s]"
+        },
+        {
+          "id": "D",
+          "text": "[10.3s - 12.5s]"
+        },
+        {
+          "id": "E",
+          "text": "[4.1s - 6.2s]"
+        },
+        {
+          "id": "F",
+          "text": "[8.5s - 10.3s]"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. The personality analysis notes that her Medium Agreeableness is supported by a mix of cooperative phrasing and clear self-assertion. The interval [6.3s - 8.5s] contains the key moment of assertion where she raises her eyebrows and tightens her lips while saying 'for me', which tempers the otherwise cooperative tone. Option B is a near-miss distractor because it shows a slight smile, which is also relevant to Agreeableness, but the lip tightening in A is a more defining and complex cue for her Medium score. Options C, D, E, and F are video-based distractors; they are valid time intervals containing other behaviors (neutral expression, thinking, pausing, downward gaze) but are less central to the specific reasoning for her Medium Agreeableness score than the moment of self-assertion."
+    },
+    {
+      "category": "Mixed Emotion Discrimination",
+      "question": "During 6.3s - 8.5s, the person's emotional state is best characterized as which of the following? Consider both verbal and non-verbal cues.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Focused self-assertion mixed with mild contemplation."
+        },
+        {
+          "id": "B",
+          "text": "Hesitant uncertainty tempered by a need to clarify."
+        },
+        {
+          "id": "C",
+          "text": "Skeptical disbelief mixed with polite reservation."
+        },
+        {
+          "id": "D",
+          "text": "Confident delivery tempered by friendly engagement."
+        },
+        {
+          "id": "E",
+          "text": "Casual reflection mixed with a hint of amusement."
+        },
+        {
+          "id": "F",
+          "text": "Annoyed defensiveness mixed with some impatience."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. During this interval, she raises her eyebrows and tightens her lips while saying 'for me', indicating focused self-assertion. Simultaneously, her eyes are somewhat unfocused, suggesting internal thought or contemplation. This combination is best described as focused assertion mixed with contemplation. Option D is a near-miss distractor; it correctly identifies the confidence but misses the contemplative aspect, interpreting the look as 'friendly engagement' which is less accurate. Option E is a video-based distractor, as 'casual reflection mixed with amusement' better describes her earlier behavior around 2.2s-4.1s where her mouth corner turns up. Options B, C, and F are text-based distractors; they represent plausible negative-leaning emotional states for someone stating an opinion, but her actual expression does not show hesitation, disbelief, or annoyance."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 2.4s, a region was detected in the video (x=0.282, y=0.190, w=0.302, h=0.597, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A stable and forward-facing upper-body presentation."
+        },
+        {
+          "id": "B",
+          "text": "A subtle, one-sided upward turn of the person's mouth."
+        },
+        {
+          "id": "C",
+          "text": "An unfocused gaze directed generally towards the camera."
+        },
+        {
+          "id": "D",
+          "text": "A brief, expressive and symmetrical raising of eyebrows."
+        },
+        {
+          "id": "E",
+          "text": "Slight and natural head movements that accompany speech."
+        },
+        {
+          "id": "F",
+          "text": "Slightly parted lips observed during a brief speech pause."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. The provided coordinates define a large bounding box covering the person's entire upper torso and head. The corresponding observation is The subject is shown from the upper chest up, facing forward. This is best described as a stable, forward-facing presentation. Option E is a near-miss distractor; while she does have slight head movements, the bbox is broad and captures the overall stable posture, making A a better description for the entire region. Options B, C, D, and F are video-based distractors describing specific facial expressions (smile, unfocused gaze, eyebrow raise, parted lips) that occur at other times and in much smaller, more localized regions than the one specified in the question."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "At which specific moment and location does the person make a non-verbal display of emphasis while articulating a personal viewpoint?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[8.6s] x=0.35, y=0.60, w=0.22, h=0.15"
+        },
+        {
+          "id": "B",
+          "text": "[5.5s] x=0.83, y=0.52, w=0.17, h=0.48"
+        },
+        {
+          "id": "C",
+          "text": "[15.0s] x=0.35, y=0.58, w=0.18, h=0.15"
+        },
+        {
+          "id": "D",
+          "text": "[4.3s] x=0.23, y=0.19, w=0.31, h=0.58"
+        },
+        {
+          "id": "E",
+          "text": "[15.0s] x=0.29, y=0.01, w=0.36, h=0.80"
+        },
+        {
+          "id": "F",
+          "text": "[0.2s] x=0.36, y=0.57, w=0.15, h=0.15"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. The question asks to identify the time and place of emphasis during a personal viewpoint. This occurs around 6.3s-8.5s when she says 'for me', raises her eyebrows, and tightens her lips. The coordinates in option A at 8.6s point directly to her mouth during this lip-tightening action, which is a key part of the emphasis. The other options are video-based distractors pointing to other actions: B is the hand gesture, C is the unclosed lips at the very end, D is the slight smile/head tilt, E is the overall head position at the end, and F is her mouth moving normally at the beginning. All are incorrect locations for the specific action of 'emphasis'."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator09",
+      "version": 1,
+      "clues_total": 28,
+      "clues_correct": 15,
+      "clues_wrong_corrected": 11,
+      "clues_missing_skipped": 2,
+      "clues_bonus": 0
+    }
+  }
+}

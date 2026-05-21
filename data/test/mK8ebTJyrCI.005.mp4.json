@@ -1,0 +1,422 @@
+{
+  "video_id": "mK8ebTJyrCI.005.mp4",
+  "video_path": "mK8ebTJyrCI.005.mp4",
+  "transcription": "I miss my pets though; the ones in California. I used to have more. I used to have another dog. I used to have another cat. I used to have mice; they died. I used to have another dog.",
+  "original_scores": {
+    "extraversion": 0.3457943925233645,
+    "agreeableness": 0.4065934065934066,
+    "conscientiousness": 0.1941747572815534,
+    "neuroticism": 0.34374999999999994,
+    "openness": 0.3777777777777778
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 10.45,
+      "description": "The person's gaze is directed toward the camera. Their eyes are slightly narrowed, and their eyebrows are in a neutral position. The facial expression is relaxed and neutral, with the mouth moving naturally for speech.",
+      "bboxes": [
+        {
+          "frame_time": 2.207573,
+          "x": 0.25501644736842105,
+          "y": 0.30877192647833573,
+          "w": 0.35526315789473684,
+          "h": 0.4342105263157895,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 4.049878,
+          "x": 0.33939144736842103,
+          "y": 0.3140350843730726,
+          "w": 0.3004934210526316,
+          "h": 0.46578947368421053,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 6.577932,
+          "x": 0.3704769736842105,
+          "y": 0.34824561068886206,
+          "w": 0.2546052631578947,
+          "h": 0.21842105263157896,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 6.577932,
+          "x": 0.38231907894736844,
+          "y": 0.3192982422678094,
+          "w": 0.2901315789473684,
+          "h": 0.48157894736842105,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 6.577932,
+          "x": 0.3453125,
+          "y": 0.32456140016254625,
+          "w": 0.2856907894736842,
+          "h": 0.5289473684210526,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 10.45,
+      "end_time": 12.81,
+      "description": "While saying \"mice,\" the person's gaze briefly shifts upwards and to their right. The lips tighten slightly and briefly when they say \"died.\"",
+      "bboxes": [
+        {
+          "frame_time": 12.698223,
+          "x": 0.2846217105263158,
+          "y": 0.3192982422678094,
+          "w": 0.3819078947368421,
+          "h": 0.5289473684210526,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 11.79557,
+          "x": 0.37195723684210524,
+          "y": 0.4429824527941252,
+          "w": 0.14950657894736843,
+          "h": 0.29473684210526313,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 12.81,
+      "end_time": 15.54,
+      "description": "Gaze returns to the camera. The facial expression remains neutral as they speak, with the mouth slightly open at the end of the clip.",
+      "bboxes": [
+        {
+          "frame_time": 13.943501,
+          "x": 0.3379111842105263,
+          "y": 0.3350877159520199,
+          "w": 0.2205592105263158,
+          "h": 0.45789473684210524,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 13.943501,
+          "x": 0.3112664473684211,
+          "y": 0.366666663320441,
+          "w": 0.2412828947368421,
+          "h": 0.4763157894736842,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 15.107885,
+          "x": 0.31866776315789475,
+          "y": 0.5114035054257041,
+          "w": 0.2886513157894737,
+          "h": 0.3526315789473684,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 15.54,
+      "description": "The person is seated, facing forward towards the camera. Their head remains relatively still throughout the clip with very subtle tilts and turns that correspond with their speech.",
+      "bboxes": [
+        {
+          "frame_time": 3.118328,
+          "x": 0.3423519736842105,
+          "y": 0.266666663320441,
+          "w": 0.20575657894736843,
+          "h": 0.4631578947368421,
+          "note": "human-annotated",
+          "region": "unknown"
+        },
+        {
+          "frame_time": 3.118328,
+          "x": 0.30386513157894735,
+          "y": 0.30087718963623045,
+          "w": 0.3315789473684211,
+          "h": 0.531578947368421,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0.2,
+      "end_time": 0.99,
+      "description": "A soft, breathy sigh is audible before speech begins.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 1.48,
+      "end_time": 15.54,
+      "description": "The person speaks at a moderate pace in a soft, low-to-mid-range pitch. There is a consistent, falling intonation at the end of each phrase. The phrases beginning with \"I used to have\" are delivered with a similar, repetitive cadence.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.54,
+      "description": "The subject is a young person with fair skin, blue eyes, and short, dark hair. They are wearing a black beanie with red and white graphics and a black hoodie with a blue and white graphic. The setting is an indoor living room with beige walls. A ceiling fan is visible overhead. In the background, there is a dark wood bookshelf filled with books, a doorway leading to a kitchen area, and other household clutter. A bright light source illuminates the scene from the front-left.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Low",
+      "score": 0.35,
+      "rationale": "The subject's low Extraversion is indicated by a constellation of reserved behaviors. Their vocal delivery is soft with a low-to-medium pitch, and their speaking pace is moderate, lacking the rapid, energetic speech often seen in extraverts. Furthermore, their physical presence is contained; the head remains relatively still, and facial expressions are neutral and subdued. This minimal use of expressive nonverbal cues suggests a preference for an internally focused state over outward social engagement.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Medium",
+      "score": 0.41,
+      "rationale": "The subject scores in the Medium range for Agreeableness. While they maintain direct eye contact with the camera, suggesting a degree of social compliance and willingness to connect, this is counterbalanced by a lack of overt warmth. The facial expression is described as neutral and slightly tense, and the vocal tone, while soft, is monotonous rather than effusive. This combination points to a person who is not disagreeable but is also not exceptionally warm or compassionate in their expressive style.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Very Low",
+      "score": 0.19,
+      "rationale": "A Very Low Conscientiousness score is strongly supported by the subject's unstructured and meandering communication style. The monologue is a simple, repetitive list of past pets, delivered in a stream-of-consciousness manner. The thought process appears disorganized, as evidenced by the subject repeating a point ('I used to have another dog') after moving on to other animals. This lack of preparation and structured delivery is a classic behavioral marker for low conscientiousness, which is associated with spontaneity and a lack of planning.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Low",
+      "score": 0.34,
+      "rationale": "The subject's low Neuroticism is demonstrated by their high degree of emotional stability while discussing a potentially upsetting topic—the death and loss of pets. Despite the melancholic content, their emotional expression is highly regulated. The vocal tone remains steady and controlled, with consistent falling intonation, and their facial expression is neutral rather than overtly sad or distressed. This ability to recount negative experiences without significant emotional reactivity is indicative of emotional resilience.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "Low",
+      "score": 0.38,
+      "rationale": "The Low score in Openness is reflected in the subject's concrete and conventional communication. Their speech consists of a straightforward, factual list, devoid of abstract thought, metaphor, or imaginative language. The repetitive sentence structure ('I used to have...') and monotonous delivery further suggest a preference for the familiar and simple over the novel and complex. There is no evidence of intellectual curiosity or aesthetic sensitivity in their presentation, aligning with a more pragmatic and less exploratory cognitive style.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During 1.5s - 15.5s, the person exhibits a specific behavioral pattern in their speech. Which Big Five personality dimension is most directly supported by this pattern?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A significantly high level of Neuroticism demonstrated."
+        },
+        {
+          "id": "B",
+          "text": "A moderately low ranking for Extraversion displayed."
+        },
+        {
+          "id": "C",
+          "text": "A notably high degree of Conscientiousness shown."
+        },
+        {
+          "id": "D",
+          "text": "A considerably low assessment of their Openness trait."
+        },
+        {
+          "id": "E",
+          "text": "A profoundly low level of Conscientiousness observed."
+        },
+        {
+          "id": "F",
+          "text": "A medium-to-high measure of Agreeableness present."
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. The person's speech is a meandering, repetitive, and unstructured list of past pets, which strongly indicates a lack of planning and organization, key markers of Very Low Conscientiousness.\n\n- Option A is a text-based distractor. The topic of dead pets sounds like it could relate to Neuroticism, but the person's calm, emotionally regulated delivery contradicts this.\n- Option B is a video-based distractor. The person does exhibit Low Extraversion through their soft voice and subdued expression, but this is a different behavioral channel than the disorganized speech *pattern* the question asks about.\n- Option C is a near-miss distractor. It correctly identifies the relevant personality dimension (Conscientiousness) but gets the direction completely wrong. The behavior shows disorganization, not high conscientiousness.\n- Option D is a text-based distractor. While the person also scores low on Openness, this is shown by the concrete, non-imaginative nature of the content, which is a more subtle cue than the clear structural disorganization supporting low Conscientiousness.\n- Option F is a video-based distractor. Agreeableness is assessed as medium based on cues like eye contact, but it is not supported by the disorganized verbal structure."
+    },
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable facial action occur that is most relevant to the assessment of the person's low Neuroticism level?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The interval between 0.2s and 0.7s."
+        },
+        {
+          "id": "B",
+          "text": "The interval between 3.8s and 4.3s."
+        },
+        {
+          "id": "C",
+          "text": "The interval between 6.4s and 6.9s."
+        },
+        {
+          "id": "D",
+          "text": "The interval between 14.8s and 15.3s."
+        },
+        {
+          "id": "E",
+          "text": "The interval between 11.5s and 12.0s."
+        },
+        {
+          "id": "F",
+          "text": "The interval between 8.0s and 8.5s."
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. This interval covers the moment the person says the word \"died\" (around 11.8s). Their facial expression remains neutral and their mouth simply opens slightly for articulation, showing no signs of sadness or distress. This lack of emotional reaction to a negative word is the strongest piece of evidence for their low Neuroticism (emotional stability).\n\n- Option A is a video-based distractor. This interval contains the initial soft sigh, which could be misinterpreted as sadness, but it's less specific than the reaction to the word \"died\".\n- Option B is a video-based distractor. During this period, the eyes are slightly squinted, a general feature of their expression, not a specific reaction.\n- Option C is a video-based distractor. Here, the eyebrows are slightly tightened, but this is a sustained state, not a specific reaction that demonstrates emotional regulation in a key moment.\n- Option D is a video-based distractor. This is at the very end of the video where the mouth is slightly open, but it's not tied to any specific emotional content.\n- Option F is a text-based distractor, representing a neutral point in the middle of their speech with no significant expression change."
+    },
+    {
+      "category": "Mixed Emotion Discrimination",
+      "question": "During 0.0s - 10.4s, the person's emotional state is best characterized as which of the following? Consider both verbal and non-verbal cues.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Annoyance at being questioned tempered by forced politeness."
+        },
+        {
+          "id": "B",
+          "text": "Simple boredom mixed with a feeling of general listlessness."
+        },
+        {
+          "id": "C",
+          "text": "Wistful nostalgia mixed with a trace of underlying contentment."
+        },
+        {
+          "id": "D",
+          "text": "Deep sadness mixed with overt signs of emotional discomfort."
+        },
+        {
+          "id": "E",
+          "text": "Melancholic recollection tempered by emotional self-regulation."
+        },
+        {
+          "id": "F",
+          "text": "Confused memory searching mixed with a subtle hint of anxiety."
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. The content of the speech (\"I miss my pets\") is sad (melancholic recollection), but the delivery is calm, controlled, and emotionally stable, with a neutral-tense face. This combination strongly supports a state of remembrance that is actively being emotionally regulated.\n\n- Option A is a text-based distractor. There is no visual or auditory evidence of annoyance; the affect is flat and subdued, not irritated.\n- Option B is a video-based distractor. The monotonous delivery might suggest boredom, but the content about missing pets doesn't align with this emotion.\n- Option C is a near-miss distractor. \"Wistful nostalgia\" is plausible, but there is no evidence of \"contentment\"; the facial expression is tense and the vocal tone is flat, not warm.\n- Option D is a near-miss distractor. While sadness is part of the emotion, there are no \"overt signs\" of discomfort; in fact, the opposite is true, as the expression is highly controlled.\n- Option F is a text-based distractor. There is no indication of anxiety or confusion; the person lists the pets readily, albeit in a disorganized way."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 6.6s, a region was detected in the video (x=0.345, y=0.325, w=0.286, h=0.529, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A steady and direct gaze towards the camera."
+        },
+        {
+          "id": "B",
+          "text": "A neutral facial expression showing slight tension."
+        },
+        {
+          "id": "C",
+          "text": "A seated and static posture facing the front."
+        },
+        {
+          "id": "D",
+          "text": "Lips being held together in a tense expression."
+        },
+        {
+          "id": "E",
+          "text": "Articulating speech with neutral lip movement."
+        },
+        {
+          "id": "F",
+          "text": "A slight and almost imperceptible head tilt."
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. The provided bounding box at 6.6s isolates the mouth and lower face area. At this moment, the person is in the middle of speaking, and the most prominent action within this specific box is the natural movement of the lips to articulate words.\n\n- Option A is a video-based distractor. This describes the eyes, which are in a different spatial region than the specified bounding box.\n- Option B is a video-based distractor. This describes the overall face, which is a larger region. The specified box is more focused on the mouth.\n- Option C is a video-based distractor. This describes the person's overall body posture, which is far outside the specified facial bounding box.\n- Option D is a near-miss distractor. The overall facial expression is described as 'slightly tense', but the lips themselves are not tense or pursed; they are moving naturally for speech. This distractor incorrectly applies the general facial state to the specific region.\n- Option F is a video-based distractor. This describes the head's motion, which is outside the bounding box focused on the mouth area."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "At which specific moment and location does the subject's mouth form a shape that contrasts with the emotionally heavy content of their speech, revealing a notable lack of affective display?",
+      "options": [
+        {
+          "id": "A",
+          "text": "4.0s (x=0.339, y=0.314, w=0.300, h=0.466)"
+        },
+        {
+          "id": "B",
+          "text": "6.6s (x=0.370, y=0.348, w=0.255, h=0.218)"
+        },
+        {
+          "id": "C",
+          "text": "15.1s (x=0.319, y=0.511, w=0.289, h=0.353)"
+        },
+        {
+          "id": "D",
+          "text": "2.2s (x=0.255, y=0.309, w=0.355, h=0.434)"
+        },
+        {
+          "id": "E",
+          "text": "11.8s (x=0.372, y=0.443, w=0.150, h=0.295)"
+        },
+        {
+          "id": "F",
+          "text": "6.6s (x=0.345, y=0.325, w=0.286, h=0.529)"
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. This timestamp and bounding box correspond to the exact moment the person says \"died.\" The box isolates their mouth, which is slightly open for articulation but shows no signs of sadness, downturning, or tension that might be expected with such a word. This neutral expression is a key indicator of their emotional regulation and low Neuroticism.\n\n- Option A is a video-based distractor. This bbox captures the eyes during a moment of neutral speech, not the mouth during the key emotional word.\n- Option B is a video-based distractor. This bbox captures the eyebrows, which are slightly tightened, but not the mouth's reaction.\n- Option C is a video-based distractor. This bbox shows the mouth at the very end of the video, after the key phrase has been spoken.\n- Option D is a video-based distractor. This bbox captures the entire face early in the video, not the specific mouth action in question.\n- Option F is a near-miss distractor. This is a valid bbox for the mouth, but at 6.6s, during a less emotionally significant part of the speech. The question asks for the moment that most strongly contrasts with the content's emotional weight."
+    },
+    {
+      "category": "Counterfactual Reasoning",
+      "question": "If the person had NOT exhibited the behavior observed around 13.0s - 15.5s, which of the following personality assessments would be MOST affected?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Neuroticism would seem higher, as the speech's ending would have appeared less resolved."
+        },
+        {
+          "id": "B",
+          "text": "Extraversion would shift from Low toward Medium, as the final speaking time is reduced."
+        },
+        {
+          "id": "C",
+          "text": "Openness would be higher, as the evidence for a repetitive thought pattern is weakened."
+        },
+        {
+          "id": "D",
+          "text": "Conscientiousness would be lower, as an abrupt ending could be seen as unprofessional."
+        },
+        {
+          "id": "E",
+          "text": "Conscientiousness would be less low, as the key evidence for disorganized thinking is absent."
+        },
+        {
+          "id": "F",
+          "text": "Agreeableness would be less certain, as direct eye contact during this part is important."
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. The behavior from 13.0s - 15.5s involves the person repeating \"I used to have another dog\" after already mentioning it and moving on. This is the single clearest piece of evidence for disorganized, stream-of-consciousness thinking. Removing it would eliminate the strongest marker for Very Low Conscientiousness, making the assessment less extreme (less low).\n\n- Option A is a text-based distractor. The behavior in question (repetition) has little to do with the Neuroticism score, which is based on emotional stability.\n- Option B is a video-based distractor. Low Extraversion is primarily supported by the person's soft voice and subdued affect throughout the entire video, not just the last few seconds.\n- Option C is a text-based distractor. While repetition can be related to Low Openness, the primary trait it points to here is a lack of structured thought (Conscientiousness). Low Openness is also supported by the concrete, non-abstract nature of the speech, so its score would be less affected.\n- Option D is a near-miss distractor. It correctly identifies the trait (Conscientiousness) but gets the direction of change wrong. Removing a sign of disorganization would make Conscientiousness seem higher, not lower.\n- Option F is a video-based distractor. The Agreeableness score is based more on the consistent eye contact and neutral tone, not the specific verbal content at the end."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator20",
+      "version": 5,
+      "clues_total": 15,
+      "clues_correct": 11,
+      "clues_wrong_corrected": 4,
+      "clues_missing_skipped": 0,
+      "clues_bonus": 0
+    }
+  }
+}

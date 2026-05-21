@@ -1,0 +1,508 @@
+{
+  "video_id": "Fco1CMgOadI.004.mp4",
+  "video_path": "Fco1CMgOadI.004.mp4",
+  "transcription": "So, yeah, next question is from [inaudible 00:00:18]. \"If you found me permanently shrunk to the size of a bug, what would you do?\" I would probably, like, pick you up and put you in a glass bowl.",
+  "original_scores": {
+    "extraversion": 0.4579439252336449,
+    "agreeableness": 0.4725274725274725,
+    "conscientiousness": 0.4660194174757281,
+    "neuroticism": 0.5416666666666666,
+    "openness": 0.4666666666666667
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 0.98,
+      "description": "Gaze is directed at the camera. Eyebrows are neutral, and the mouth moves in sync with speech.",
+      "bboxes": [
+        {
+          "frame_time": 0.549491,
+          "x": 0.4058641975308642,
+          "y": 0.20736167918180406,
+          "w": 0.1712962962962963,
+          "h": 0.14540466392318244,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 0.549491,
+          "x": 0.41512345679012347,
+          "y": 0.21559213185670117,
+          "w": 0.1527777777777778,
+          "h": 0.09876543209876543,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 0.490874,
+          "x": 0.41975308641975306,
+          "y": 0.38294466957960926,
+          "w": 0.10802469135802469,
+          "h": 0.09602194787379972,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 0.98,
+      "end_time": 9.49,
+      "description": "Gaze shifts to his right (viewer's left) and slightly down, presumably at a screen. The expression is neutral and focused while he reads.",
+      "bboxes": [
+        {
+          "frame_time": 2.111094,
+          "x": 0.4104938271604938,
+          "y": 0.2677183321310496,
+          "w": 0.1404320987654321,
+          "h": 0.09327846364883402,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 4.098805,
+          "x": 0.4104938271604938,
+          "y": 0.19090077383200982,
+          "w": 0.15895061728395063,
+          "h": 0.35390946502057613,
+          "note": "face human-annotated",
+          "region": "face"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 9.49,
+      "end_time": 11.53,
+      "description": "Gaze shifts upwards and to his left (viewer's right). The eyebrows raise slightly and the eyes widen in a brief expression of thought.",
+      "bboxes": [
+        {
+          "frame_time": 10.750162,
+          "x": 0.3611111111111111,
+          "y": 0.1826703211571127,
+          "w": 0.17901234567901234,
+          "h": 0.15912208504801098,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 10.750162,
+          "x": 0.35185185185185186,
+          "y": 0.20461819495683836,
+          "w": 0.16358024691358025,
+          "h": 0.09876543209876543,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 10.750162,
+          "x": 0.36419753086419754,
+          "y": 0.21284864763173547,
+          "w": 0.17592592592592593,
+          "h": 0.11248285322359397,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 11.53,
+      "end_time": 15.01,
+      "description": "Gaze returns forward briefly before shifting back down and to his right (viewer's left). Eyebrows are in a neutral position, and the mouth moves with speech.",
+      "bboxes": [
+        {
+          "frame_time": 12.640031,
+          "x": 0.36882716049382713,
+          "y": 0.22930955298152972,
+          "w": 0.1388888888888889,
+          "h": 0.07681755829903979,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 14.510613,
+          "x": 0.4166666666666667,
+          "y": 0.24302697410635823,
+          "w": 0.1574074074074074,
+          "h": 0.15363511659807957,
+          "note": "human-annotated",
+          "region": "unknown"
+        },
+        {
+          "frame_time": 14.1372,
+          "x": 0.4444444444444444,
+          "y": 0.24302697410635823,
+          "w": 0.1419753086419753,
+          "h": 0.06858710562414266,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 14.161743,
+          "x": 0.46141975308641975,
+          "y": 0.3966620907044378,
+          "w": 0.10030864197530864,
+          "h": 0.0823045267489712,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 1.25,
+      "description": "The subject is seated, facing the camera. His right hand, palm up, makes a small illustrative gesture from right to left at the bottom of the frame.",
+      "bboxes": [
+        {
+          "frame_time": 0.294379,
+          "x": 0.37962962962962965,
+          "y": 0.04275262568386167,
+          "w": 0.20679012345679013,
+          "h": 0.5679012345679012,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 0.19635,
+          "x": 0.11728395061728394,
+          "y": 0.5557841757524488,
+          "w": 0.31790123456790126,
+          "h": 0.44421582424755124,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 1.25,
+      "end_time": 9.49,
+      "description": "The subject turns his head slightly to his right (viewer's left) to look downwards. His body and hands are still.",
+      "bboxes": [
+        {
+          "frame_time": 2.85654,
+          "x": 0.2808641975308642,
+          "y": 0.03452217300896455,
+          "w": 0.3441358024691358,
+          "h": 0.6255144032921811,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 4.713414,
+          "x": 0.13425925925925927,
+          "y": 0.4405578383038891,
+          "w": 0.5262345679012346,
+          "h": 0.4773662551440329,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 9.49,
+      "end_time": 11.53,
+      "description": "His head tilts up and rotates to his left (viewer's right) as he thinks.",
+      "bboxes": [
+        {
+          "frame_time": 10.79925,
+          "x": 0.31790123456790126,
+          "y": 0.03452217300896455,
+          "w": 0.24691358024691357,
+          "h": 0.532235939643347,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 11.53,
+      "end_time": 15.01,
+      "description": "His head returns to face forward, then turns slightly to his right again. His right hand re-enters the frame, fingers spread in an open gesture, and moves slightly as he speaks.",
+      "bboxes": [
+        {
+          "frame_time": 12.974456,
+          "x": 0.33796296296296297,
+          "y": 0.03452217300896455,
+          "w": 0.2052469135802469,
+          "h": 0.5706447187928669,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 14.344571,
+          "x": 0.3549382716049383,
+          "y": 0.029035204559033138,
+          "w": 0.2345679012345679,
+          "h": 0.6419753086419753,
+          "note": "human-annotated",
+          "region": "unknown"
+        },
+        {
+          "frame_time": 14.344571,
+          "x": 0.1574074074074074,
+          "y": 0.5393232704026545,
+          "w": 0.345679012345679,
+          "h": 0.4606767295973455,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 1.22,
+      "description": "Speech is at a moderate, conversational pace and pitch, with a slight downward inflection on the word \"yeah\".",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 1.22,
+      "end_time": 9.39,
+      "description": "The speaking pace is steady and even while reading the question. Pitch rises slightly on the final word, \"do?\".",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 9.39,
+      "end_time": 11.33,
+      "description": "A brief pause is followed by the filler word \"Uh\". The phrase \"I would probably\" is spoken at a slightly slower, more deliberate pace.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 11.33,
+      "end_time": 15.01,
+      "description": "The pace returns to a normal conversational speed. The word \"pick\" receives minor stress. The filler word \"like\" is used twice.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.01,
+      "description": "The subject is a young, fair-skinned male with light brown hair. He is wearing a royal blue hooded sweatshirt with a white crest on the chest that includes the words \"Xaverian College\". He is in an indoor setting, likely a bedroom or dorm room, with off-white walls. Behind him, a large \"Super Mario\" poster is visible on the left, and a red corkboard with a \"2015/16\" wall planner is behind his right shoulder. To the far right, a patterned beige curtain is visible. The lighting is warm and appears to come from the front.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Medium",
+      "score": 0.46,
+      "rationale": "The subject's Extraversion score is rated as Medium. While participating in a Q&A video format implies a degree of social engagement, other cues suggest a more reserved nature. His gaze is frequently averted from the camera to a screen ([1.0s-9.5s]), indicating a task-focus rather than a constant connection with the audience. His speech is moderate in pace with deliberative pauses ([9.4s-11.3s]), lacking the high energy and rapid tempo often seen in high extraversion. While he uses some illustrative gestures ([0.0s-1.2s], [11.5s-15.0s]), these are not expansive or continuous, reflecting a balance between expressiveness and introversion.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Medium",
+      "score": 0.47,
+      "rationale": "The Medium score for Agreeableness is supported by the subject's neutral yet cooperative demeanor. He willingly and thoughtfully engages with a follower's imaginative question, a cooperative act. His facial expression remains largely neutral and focused ([1.0s-9.5s]), and his vocal tone is steady, without overt warmth (e.g., smiling) or antagonism. This lack of strong positive or negative affective cues, combined with his constructive participation, aligns well with a mid-range score, suggesting a disposition that is neither overly accommodating nor disagreeable.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Medium",
+      "score": 0.47,
+      "rationale": "A Medium level of Conscientiousness is indicated by a mix of organized and casual behaviors. The subject demonstrates task-focus by carefully reading the question off-screen ([1.0s-9.5s]) and shows deliberation with a thoughtful pause and slower speech onset before answering ([9.4s-11.3s]). The presence of a wall calendar in the background also suggests a degree of planning. However, the use of filler words like 'like' points to a less structured, more spontaneous speech pattern, which tempers the indicators of high conscientiousness. This blend of methodical behavior and conversational casualness supports a Medium score.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Medium",
+      "score": 0.54,
+      "rationale": "The subject's Neuroticism is rated as Medium. While he appears generally calm with a steady vocal tone, there are subtle indicators of mild tension or self-consciousness. The slight, continuous swaying of his body and hands while speaking ([1.2s-9.5s]) can be a low-level self-soothing behavior. Additionally, the use of filler words like 'Uh' and 'like' can suggest a degree of cognitive load or slight anxiety common in a recorded social performance. The absence of more significant anxiety markers (e.g., vocal strain, fidgeting) prevents a high score, placing him in the moderate range for this trait.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "Medium",
+      "score": 0.47,
+      "rationale": "The Medium score for Openness is reflected in the subject's engagement with an abstract idea. He readily considers the fantastical question, and his nonverbal cues—tilting his head up and widening his eyes in thought ([9.5s-11.5s])—suggest he is accessing his imagination. The 'Super Mario' poster in his room also points to an interest in fantasy worlds. However, his verbal response is simple and concise, not an elaborate or richly detailed narrative. This balance between being willing to entertain a novel concept and providing a straightforward, practical answer is characteristic of a Medium level of Openness.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their Openness level?",
+      "options": [
+        {
+          "id": "A",
+          "text": "0.0s - 1.2s"
+        },
+        {
+          "id": "B",
+          "text": "9.5s - 11.5s"
+        },
+        {
+          "id": "C",
+          "text": "2.5s - 4.5s"
+        },
+        {
+          "id": "D",
+          "text": "12.0s - 13.5s"
+        },
+        {
+          "id": "E",
+          "text": "5.0s - 6.5s"
+        },
+        {
+          "id": "F",
+          "text": "8.0s - 9.4s"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. The interval 9.5s - 11.5s captures the most significant facial expression change related to Openness: the subject's eyes widen and gaze shifts upward to his left as he contemplates an abstract question, indicating imaginative processing. Options A, C, D, and E are video-based distractors. Option A is the initial introduction, C and E are parts of the neutral reading phase, and D is when he begins his verbal response. Option F is a near-miss distractor, representing the time immediately preceding the key expression, tempting models that have imprecise temporal localization."
+    },
+    {
+      "category": "Mixed Emotion Discrimination",
+      "question": "During 9.5s - 11.5s, the person's emotional state is best characterized as which of the following? Consider both verbal and non-verbal cues.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Social awkwardness tempered by a cooperative attitude."
+        },
+        {
+          "id": "B",
+          "text": "Curious engagement mixed with thoughtful deliberation."
+        },
+        {
+          "id": "C",
+          "text": "Focused concentration mixed with task-oriented resolve."
+        },
+        {
+          "id": "D",
+          "text": "Imaginative playfulness mixed with slight hesitation."
+        },
+        {
+          "id": "E",
+          "text": "Mild confusion tempered by a desire to answer correctly."
+        },
+        {
+          "id": "F",
+          "text": "Calm detachment mixed with passive listening behavior."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. During this interval, the subject's upward gaze, widened eyes, and verbal pause ('Uh...') signal he is actively and curiously considering the fantastical question (curious engagement) while carefully forming a response (thoughtful deliberation). Option E is a near-miss distractor; while 'desire to answer' is plausible, 'mild confusion' is less accurate than 'curious engagement' as he appears to be generating ideas, not struggling to understand. Option C is a video-based distractor, as it better describes the preceding period (1.0s-9.5s) when he was reading the question. Option A and F are text-based distractors that describe plausible but incorrect states; his non-verbals do not suggest awkwardness or detachment, but rather active cognitive processing. Option D is a near-miss distractor; 'playfulness' is an overstatement of the emotion, which appears more neutrally cognitive."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 10.8s, a region was detected in the video (x=0.352, y=0.205, w=0.164, h=0.099, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A downward and sideways glance focused on reading a screen."
+        },
+        {
+          "id": "B",
+          "text": "Slightly raised eyebrows indicating a moment of deep thought."
+        },
+        {
+          "id": "C",
+          "text": "A neutral and concentrated facial expression while reading."
+        },
+        {
+          "id": "D",
+          "text": "Synchronized lip movements corresponding with clear speech."
+        },
+        {
+          "id": "E",
+          "text": "A posture of sitting still while facing directly forward."
+        },
+        {
+          "id": "F",
+          "text": "Widened eyes that are looking upwards and toward the side."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. The specified bounding box at 10.8s isolates the person's eyebrows. At this exact moment, his eyebrows are slightly raised as part of a larger 'thinking' expression. Option F is a near-miss distractor; it describes the action of the eyes at the same moment (10.8s), but the bounding box is specifically on the eyebrows, testing fine-grained spatial localization. Options A, C, and D are video-based distractors describing actions in different regions and/or at different times (A and C describe the reading phase, D describes the mouth region during speech). Option E is a text-based distractor describing a general posture, not the specific action within the small bounding box."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "At which point in the video does a bounding box accurately capture the upper facial region during a moment of direct engagement with the audience, characterized by a frontal gaze?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[14.3s] x=0.35, y=0.03, w=0.23, h=0.64"
+        },
+        {
+          "id": "B",
+          "text": "[0.5s] x=0.42, y=0.22, w=0.15, h=0.10"
+        },
+        {
+          "id": "C",
+          "text": "[10.8s] x=0.36, y=0.21, w=0.18, h=0.11"
+        },
+        {
+          "id": "D",
+          "text": "[14.5s] x=0.42, y=0.24, w=0.16, h=0.15"
+        },
+        {
+          "id": "E",
+          "text": "[12.6s] x=0.37, y=0.23, w=0.14, h=0.08"
+        },
+        {
+          "id": "F",
+          "text": "[13.0s] x=0.34, y=0.03, w=0.21, h=0.57"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. This option provides the timestamp and bounding box for the moment at the very beginning of the video (0.5s) when the person is looking directly at the camera with a neutral expression, which fits the description of 'direct engagement' and 'frontal gaze'. Option C is a video-based distractor capturing the 'thinking' face where the gaze is averted up and away. Options A and D are video-based distractors from the end of the video where his head/gaze is turned to the side. Options E and F are near-miss distractors that capture moments when his head is returning to the front, but the gaze in E is still averted and the box in F covers the whole head rather than just the upper facial region, making B the most precise answer for the specified region and behavior."
+    },
+    {
+      "category": "Counterfactual Reasoning",
+      "question": "If the person had NOT exhibited the behavior observed around 9.5s - 11.5s, which of the following personality assessments would be MOST affected?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The Extraversion score would be higher, because that thoughtful pause is a primary indicator of introverted tendencies now removed."
+        },
+        {
+          "id": "B",
+          "text": "The Medium Openness score would be less supported, as this nonverbal cue is a main indicator of imaginative engagement."
+        },
+        {
+          "id": "C",
+          "text": "The assessment for Agreeableness would drop, since pondering a question is a key sign of cooperation with the questioner."
+        },
+        {
+          "id": "D",
+          "text": "The Medium Conscientiousness score would be much weaker, as the careful deliberation shown in that moment is its strongest evidence."
+        },
+        {
+          "id": "E",
+          "text": "The Medium Openness score would likely increase, because the pause might otherwise be interpreted as a sign of being closed off."
+        },
+        {
+          "id": "F",
+          "text": "The Medium Neuroticism assessment would be less certain, because this behavior is a subtle sign of social performance anxiety."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. The behavior at 9.5s-11.5s is the upward gaze and widened eyes, which the personality analysis explicitly cites as the primary evidence for Openness ('suggest he is accessing his imagination'). Removing this key evidence would most significantly weaken the foundation for that specific trait assessment. Option E is a near-miss distractor; it correctly identifies Openness as the affected trait but incorrectly reasons that removing the behavior would increase the score. Option D is a strong video-based distractor because the moment does show deliberation (related to Conscientiousness), but the analysis for Conscientiousness also relies on other evidence (task-focus while reading, calendar), making it less dependent on this single moment than the Openness score. Options A, C, and F are text-based distractors; they propose plausible-sounding connections between the behavior and other traits, but the video evidence and analysis tie this specific action most directly and uniquely to Openness."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator08",
+      "version": 1,
+      "clues_total": 25,
+      "clues_correct": 20,
+      "clues_wrong_corrected": 5,
+      "clues_missing_skipped": 0,
+      "clues_bonus": 0
+    }
+  }
+}

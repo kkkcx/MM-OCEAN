@@ -1,0 +1,333 @@
+{
+  "video_id": "Tm44tg1zPwU.002.mp4",
+  "video_path": "Tm44tg1zPwU.002.mp4",
+  "transcription": "Situation and put you in a very bad prediction situation that's [inaudible 00:00:19]. It's when we [inaudible 00:00:21] as a [inaudible 00:00:25]. You have to-",
+  "original_scores": {
+    "extraversion": 0.3271028037383178,
+    "agreeableness": 0.6373626373626373,
+    "conscientiousness": 0.7087378640776699,
+    "neuroticism": 0.4375,
+    "openness": 0.5444444444444444
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 15.21,
+      "description": "The man maintains a serious expression while speaking, with his gaze directed primarily at the camera. His eyebrows are mostly neutral but occasionally lower slightly, and his brow furrows slightly when he emphasizes points. His mouth moves naturally with his speech, with his lips pressing together briefly between phrases.",
+      "bboxes": [
+        {
+          "frame_time": 0,
+          "x": 0.33125,
+          "y": 0.05315789674457751,
+          "w": 0.2338815789473684,
+          "h": 0.34210526315789475,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 2.879641,
+          "x": 0.3919407894736842,
+          "y": 0.0768421072708933,
+          "w": 0.196875,
+          "h": 0.14473684210526316,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 3.77284,
+          "x": 0.40674342105263156,
+          "y": 0.06631579148141961,
+          "w": 0.1879934210526316,
+          "h": 0.15,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 4.676931,
+          "x": 0.3875,
+          "y": 0.268947370428788,
+          "w": 0.11842105263157895,
+          "h": 0.14210526315789473,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 8.01,
+      "description": "The man is framed from the chest up. He holds both hands in front of him, making small, open-palmed gestures that move in sync with his speech. His head remains relatively still, with slight nods for emphasis.",
+      "bboxes": [
+        {
+          "frame_time": 1.34065,
+          "x": 0.09588815789473683,
+          "y": 0.3636842125340512,
+          "w": 0.6705592105263158,
+          "h": 0.47368421052631576,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 1.756022,
+          "x": 0.25723684210526315,
+          "y": 0.7426315809551038,
+          "w": 0.4692434210526316,
+          "h": 0.25263157894736843,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 2.538409,
+          "x": 0.3268092105263158,
+          "y": 0.0005263177972090872,
+          "w": 0.3004934210526316,
+          "h": 0.4789473684210526,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 8.01,
+      "end_time": 11.96,
+      "description": "He brings his right hand up slightly higher, forming a small C-shape with his thumb and index finger to emphasize a point. His left hand remains lower and mostly out of frame.",
+      "bboxes": [
+        {
+          "frame_time": 8.484545,
+          "x": 0.10180921052631578,
+          "y": 0.5531578967445775,
+          "w": 0.3212171052631579,
+          "h": 0.4394736842105263,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 9.597272,
+          "x": 0.5384868421052632,
+          "y": 0.5084210546393143,
+          "w": 0.35970394736842104,
+          "h": 0.48947368421052634,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 11.96,
+      "end_time": 15.21,
+      "description": "Both hands return to a lower position, making small, open, illustrative gestures again.",
+      "bboxes": [
+        {
+          "frame_time": 13.545703,
+          "x": 0.2631578947368421,
+          "y": 0.6584210546393143,
+          "w": 0.5299342105263158,
+          "h": 0.3394736842105263,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 15.21,
+      "description": "The man speaks at a moderate pace in a clear, mid-to-low-pitched voice. The volume is consistent. He places slight stress on the words \"pathetic\" (00:03), \"indentured servitude\" (00:09), and \"term\" (00:11) for emphasis. The delivery is declarative and even-toned.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.21,
+      "description": "The subject is a man with a bald head and a medium skin tone. He is wearing a dark suit jacket over a light purple collared shirt. The setting is indoors, with a dark-colored wall behind him to the viewer's left and a window with a sheer, light-colored curtain to the right. The lighting comes from the side, illuminating the right side of his face. A watermark, \"Edited by PowerDirector,\" is visible in the lower-right corner.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Low",
+      "score": 0.33,
+      "rationale": "The subject's behavior aligns with a Low Extraversion score. His communication style is measured and reserved, characterized by a moderate, even-toned vocal delivery and a relatively still posture. His gestures are small, precise, and illustrative rather than large and socially expansive. Furthermore, he maintains a serious, focused facial expression throughout, lacking the overt smiling and high emotional expressiveness typically associated with high extraversion. This indicates a preference for a more subdued, task-oriented interaction over energetic social engagement.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "High",
+      "score": 0.64,
+      "rationale": "A High Agreeableness rating is supported by the subject's cooperative and non-confrontational communication style. He consistently uses open, palm-up gestures, a nonverbal cue that signals trustworthiness and a willingness to engage constructively. His direct eye contact with the camera, combined with a clear and even vocal tone, aims to build rapport with the audience. There are no signs of impatience, aggression, or hostility; instead, his demeanor suggests a genuine effort to be understood and to foster a collaborative exchange of information.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "High",
+      "score": 0.71,
+      "rationale": "The subject demonstrates numerous cues indicative of High Conscientiousness. His speech is clear, articulate, and deliberate, with precise emphasis placed on key terms, reflecting a structured and organized thought process. His gestures are purposeful and synchronized with his speech to clarify his points, such as the C-shape gesture for emphasis. This controlled, goal-directed communication, along with a consistently focused and serious expression, points to a disciplined and diligent individual who is methodical in his presentation.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Medium",
+      "score": 0.44,
+      "rationale": "The subject's score falls in the Medium range for Neuroticism, indicating a generally stable but not entirely relaxed disposition. On one hand, his steady vocal tone, consistent volume, and controlled movements demonstrate emotional stability and a lack of overt anxiety. On the other hand, his perpetually serious expression and the slight furrowing of his brow when emphasizing points suggest a baseline of controlled intensity or focus. This balance between external composure and subtle indicators of managed tension supports a moderate, rather than very low, neuroticism level.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "Medium",
+      "score": 0.54,
+      "rationale": "A Medium Openness score is justified by the subject's blend of intellectual engagement and conventional presentation. His use of sophisticated vocabulary (e.g., 'indentured servitude') and his focused, explanatory style suggest an interest in abstract concepts and ideas. However, his overall demeanor, professional attire (suit jacket), and controlled delivery are quite conventional. He is presenting ideas in a structured, declarative manner rather than a highly creative, unconventional, or exploratory one, which places him firmly in the middle of the openness spectrum.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During 8.0s - 12.0s, the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "High Conscientiousness"
+        },
+        {
+          "id": "B",
+          "text": "Low Agreeableness"
+        },
+        {
+          "id": "C",
+          "text": "High Neuroticism"
+        },
+        {
+          "id": "D",
+          "text": "Low Extraversion"
+        },
+        {
+          "id": "E",
+          "text": "Low Conscientiousness"
+        },
+        {
+          "id": "F",
+          "text": "High Openness"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The behavior between 8.0s and 12.0s is the precise C-shape hand gesture used to emphasize a specific point. This action is a prime indicator of structured, goal-directed, and deliberate communication, which are hallmarks of High Conscientiousness. \nOption B is a text-based distractor; his overall demeanor supports high, not low, agreeableness. \nOption C is a text-based distractor; there is no evidence of high neuroticism in this controlled gesture. \nOption D is a video-based distractor; while his overall behavior supports Low Extraversion, this specific emphatic gesture is more about precision (Conscientiousness) than social energy. \nOption E is a near-miss distractor because it correctly identifies the personality dimension but gets the direction wrong. This precise gesture indicates high, not low, conscientiousness. \nOption F is a video-based distractor; his vocabulary supports Openness, but this specific gesture is about methodical presentation (Conscientiousness), not intellectual curiosity itself."
+    },
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their High Conscientiousness level?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[3.5s - 4.5s]"
+        },
+        {
+          "id": "B",
+          "text": "[8.0s - 9.0s]"
+        },
+        {
+          "id": "C",
+          "text": "[1.5s - 2.5s]"
+        },
+        {
+          "id": "D",
+          "text": "[0.0s - 1.0s]"
+        },
+        {
+          "id": "E",
+          "text": "[13.0s - 14.0s]"
+        },
+        {
+          "id": "F",
+          "text": "[6.5s - 7.5s]"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The observation cues note that around 3.8s, the person's eyebrows slightly lower and their forehead wrinkles when emphasizing a point. This subtle expression of intense focus and precision is a non-verbal cue for High Conscientiousness. \nOption B is a video-based distractor; this is when the C-shape hand gesture begins, which is a body movement, not a facial micro-expression. \nOption C is a video-based distractor; this interval contains a general illustrative hand gesture, not a key facial expression change. \nOption D is a video-based distractor; the person's expression is neutral and stable at the beginning. \nOption E is a video-based distractor; this period shows a return to general hand gestures, with no notable facial change. \nOption F is a text-based distractor as it represents a plausible but incorrect time interval within the video."
+    },
+    {
+      "category": "Mixed Emotion Discrimination",
+      "question": "During 0.0s - 15.2s, the person's emotional state is best characterized as which of the following? Consider both verbal and non-verbal cues.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Focused intensity mixed with didactic seriousness."
+        },
+        {
+          "id": "B",
+          "text": "Mild annoyance tempered by patient explanation."
+        },
+        {
+          "id": "C",
+          "text": "Deep skepticism mixed with reluctant engagement."
+        },
+        {
+          "id": "D",
+          "text": "Controlled frustration mixed with resigned resolve."
+        },
+        {
+          "id": "E",
+          "text": "Wary contemplation tempered by focused delivery."
+        },
+        {
+          "id": "F",
+          "text": "Passive observation mixed with detached analysis."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The person maintains a serious expression, direct eye contact (focus), and slightly furrows his brow for emphasis (intensity), while speaking in a clear, even, explanatory tone (didactic seriousness). This combination best describes his emotional state. All options belong to a neutral-to-negative leaning family. \nOption B is a near-miss distractor; while there is intensity, the cues do not support annoyance, and his tone is more declarative than patient. \nOption C is a text-based distractor; the verbal and nonverbal cues do not suggest skepticism or reluctance; he is actively and confidently presenting. \nOption D is a text-based distractor; there are no signs of frustration or resignation in his controlled and steady demeanor. \nOption E is a video-based distractor; his delivery is indeed focused, but 'wary contemplation' is incorrect as he appears confident, not hesitant or watchful. \nOption F is a near-miss distractor; 'analysis' is plausible, but 'passive' and 'detached' contradict his direct engagement and emphatic gestures."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 9.6s, a region was detected in the video (x=0.538, y=0.508, w=0.360, h=0.489, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A hand resting in a low, non-gesturing position near the bottom of the frame."
+        },
+        {
+          "id": "B",
+          "text": "A consistently serious and focused facial expression without any sign of smiling."
+        },
+        {
+          "id": "C",
+          "text": "A direct and steady gaze oriented forwards towards the camera's general position."
+        },
+        {
+          "id": "D",
+          "text": "Neutral eyebrows that display a subtle, momentary furrowing for added emphasis."
+        },
+        {
+          "id": "E",
+          "text": "Natural lip movement that is synchronized with the spoken words being articulated."
+        },
+        {
+          "id": "F",
+          "text": "A relatively still head position that only includes some minor, occasional nodding."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The specified bounding box at 9.6s covers the lower right area of the screen where, according to the observation cues, the person's left hand is resting in a low position, mostly out of frame and not actively gesturing. \nOption B is a video-based distractor; the serious facial expression is occurring at 9.6s, but it is located in the upper-central region of the frame (head/face area), not in the specified bbox. \nOption C is a video-based distractor; the eyes are also in the head/face region, outside the target bbox. \nOption D is a video-based distractor; the eyebrows are in the head/face region, outside the target bbox. \nOption E is a video-based distractor; the mouth is in the head/face region, outside the target bbox. \nOption F is a near-miss distractor; while the head is part of the overall scene, the bbox is specifically on the lower body area, not the head."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator05",
+      "version": 1,
+      "clues_total": 12,
+      "clues_correct": 12,
+      "clues_wrong_corrected": 0,
+      "clues_missing_skipped": 0,
+      "clues_bonus": 0
+    }
+  }
+}

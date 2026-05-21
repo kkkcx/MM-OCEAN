@@ -1,0 +1,389 @@
+{
+  "video_id": "Kv0kZgqZEM0.005.mp4",
+  "video_path": "Kv0kZgqZEM0.005.mp4",
+  "transcription": "Where that's more of a partial deadlift. I've been basically set up a training plan because I figured we'd be doing the Hummer tires setup. I've been going now for a few months of training elevated height like I normally would for the Hummer tire pull, so I've had to completely-",
+  "original_scores": {
+    "extraversion": 0.2710280373831776,
+    "agreeableness": 0.6923076923076923,
+    "conscientiousness": 0.47572815533980584,
+    "neuroticism": 0.46875,
+    "openness": 0.3666666666666667
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 15.11,
+      "description": "The subject maintains direct eye contact with the camera throughout the clip. His eyebrows are slightly lowered and drawn together, creating a focused expression. They lift slightly for emphasis during speech (e.g., at 0:08). His mouth moves naturally as he speaks, and his lips press together briefly between phrases.",
+      "bboxes": [
+        {
+          "frame_time": 14.543027,
+          "x": 0.44449013157894735,
+          "y": 0.3719298212151778,
+          "w": 0.19539473684210526,
+          "h": 0.09473684210526316,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 7.298104,
+          "x": 0.40896381578947366,
+          "y": 0.2535087685835989,
+          "w": 0.23536184210526317,
+          "h": 0.39210526315789473,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 7.993954,
+          "x": 0.4415296052631579,
+          "y": 0.266666663320441,
+          "w": 0.17319078947368421,
+          "h": 0.1,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 10.45235,
+          "x": 0.45929276315789475,
+          "y": 0.4745614001625463,
+          "w": 0.1450657894736842,
+          "h": 0.12105263157894737,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 15.11,
+      "description": "The subject is shown in a medium close-up shot from the chest up. He remains seated or standing in a stable, upright posture, facing the camera directly with minimal head or body movement.",
+      "bboxes": [
+        {
+          "frame_time": 0.857241,
+          "x": 0.10106907894736841,
+          "y": 0.3719298212151778,
+          "w": 0.8141447368421053,
+          "h": 0.5473684210526316,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 0.857241,
+          "x": 0.13807565789473683,
+          "y": 0.4903508738467568,
+          "w": 0.7534539473684211,
+          "h": 0.4368421052631579,
+          "note": "human-annotated",
+          "region": "unknown"
+        },
+        {
+          "frame_time": 0.780166,
+          "x": 0.2772203947368421,
+          "y": 0.33771929489938834,
+          "w": 0.5092105263157894,
+          "h": 0.5105263157894737,
+          "note": "pose human-annotated",
+          "region": "torso"
+        },
+        {
+          "frame_time": 4.365963,
+          "x": 0.3704769736842105,
+          "y": 0.1798245580572831,
+          "w": 0.2723684210526316,
+          "h": 0.4842105263157895,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 15.11,
+      "description": "The subject speaks in a low-pitched, resonant voice at a deliberate pace. His volume is consistent. He places vocal stress on certain words, such as \"basically\" (0:04) and \"few months\" (0:08), through a subtle increase in volume and pitch. The audio cuts off abruptly as he is saying the word \"completely\".",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.11,
+      "description": "The subject is a large, muscular, bald man with fair skin and a brown goatee. He is wearing a black t-shirt with white graphics, including the word \"SHAW\" and a logo on the bottom left corner for \"Shaw STRENGTH\". The setting appears to be a gym, with racks of black dumbbells visible in the background against a light-colored wall. The lighting is bright and even.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0.280166,
+      "end_time": 1.280166,
+      "description": "The subject is a large, muscular, bald man with fair skin and a brown goatee. He is wearing a black t-shirt with white graphics, including the word \"SHAW\" and a logo on the bottom left corner for \"Shaw STRENGTH\". The setting appears to be a gym, with racks of black dumbbells visible in the background against a light-colored wall. The lighting is bright and even.",
+      "bboxes": [
+        {
+          "frame_time": 0.780166,
+          "x": 0.02261513157894736,
+          "y": 0.7956140317414936,
+          "w": 0.6794407894736842,
+          "h": 0.16842105263157894,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Low",
+      "score": 0.27,
+      "rationale": "The subject's Low Extraversion score is supported by several non-verbal cues indicating a reserved and internally focused disposition. He consistently averts his gaze, looking down and to the left rather than engaging directly with the camera, a classic behavior associated with introversion. His vocal delivery is characterized by a slow pace and consistent volume, lacking the energetic modulation and rapid speech often seen in more extraverted individuals. Furthermore, his contained, seated posture suggests a lower level of expressive social energy.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "High",
+      "score": 0.69,
+      "rationale": "A High level of Agreeableness is evidenced by the subject's calm and non-confrontational demeanor. His stable, upright posture and measured vocal tone project an aura of composure and approachability. He uses subtle eyebrow raises to add emphasis to his words, a communicative gesture that facilitates understanding and cooperation rather than expressing aggression or dominance. The overall impression is one of a patient and considerate individual, consistent with a high score in this trait.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Medium",
+      "score": 0.48,
+      "rationale": "The Medium Conscientiousness score reflects a balance between structured planning and situational adaptation. The content of his speech, which centers on a specific 'training plan' he has been following for 'a few months,' demonstrates a clear capacity for discipline, goal-setting, and long-term commitment. His focused expression corroborates this purposeful mindset. The gym environment and his physical condition further attest to this diligence. However, the informal, unscripted nature of the video suggests a practical approach rather than a meticulous, highly-polished presentation, aligning with a mid-range score.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Medium",
+      "score": 0.47,
+      "rationale": "A Medium Neuroticism score is indicated by a combination of emotional stability and subtle signs of self-consciousness. On one hand, the subject displays significant composure through his steady posture and calm, resonant voice, suggesting low emotional reactivity. On the other hand, his persistent avoidance of direct eye contact can be interpreted as a manifestation of slight social anxiety or discomfort, which keeps the score from being in the 'Low' range. This blend of overt calmness with subtle avoidance behavior is characteristic of a medium neuroticism level.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "Low",
+      "score": 0.37,
+      "rationale": "The subject's Low Openness is reflected in his focus on concrete, practical matters. His entire monologue is dedicated to the specifics of a physical training regimen ('partial deadlift,' 'Hummer tires'), eschewing abstract concepts, theoretical ideas, or creative language. The gym setting, his direct communication style, and his functional vocabulary all point to a preference for the conventional and tangible over the imaginative or intellectual. This pragmatic, hands-on orientation is a hallmark of individuals with lower scores in Openness.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During 1.0s - 15.0s, the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "High Conscientiousness, supported by his focused facial expression and planning."
+        },
+        {
+          "id": "B",
+          "text": "Low Agreeableness, as suggested by a reserved posture and serious demeanor."
+        },
+        {
+          "id": "C",
+          "text": "Low Openness, because he describes a very concrete and physical training task."
+        },
+        {
+          "id": "D",
+          "text": "High Extraversion, demonstrated by his willingness to speak directly to the camera."
+        },
+        {
+          "id": "E",
+          "text": "High Agreeableness, which is clearly indicated by his calm and measured voice."
+        },
+        {
+          "id": "F",
+          "text": "Low Extraversion, primarily indicated by his consistent avoidance of eye contact."
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The dominant behavioral pattern throughout this period is the subject's consistent gaze aversion, looking down and to the left. This is a classic indicator of introversion.\n- Option A is a video-based distractor. While he does show focus and discusses planning (evidence for Conscientiousness), this is about his verbal content, not the specific non-verbal behavioral pattern of gaze aversion.\n- Option B is a text-based distractor. A reserved posture and serious demeanor could plausibly suggest low agreeableness, but his calm tone and cooperative gestures in the video contradict this.\n- Option C is a video-based distractor. His verbal content does support Low Openness, but this is distinct from the non-verbal behavior pattern the question asks about.\n- Option D is a near-miss distractor. It correctly identifies the Extraversion dimension but gets the direction wrong. His verbal delivery is slow and he avoids eye contact, which contradicts a high extraversion assessment.\n- Option E is a video-based distractor. His calm voice is a real feature supporting High Agreeableness, but the most persistent and defining behavioral pattern in the clip is the gaze aversion, which is more central to the Extraversion dimension."
+    },
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their communicative emphasis?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[0.5s - 1.0s]"
+        },
+        {
+          "id": "B",
+          "text": "[4.1s - 4.6s]"
+        },
+        {
+          "id": "C",
+          "text": "[14.3s - 14.8s]"
+        },
+        {
+          "id": "D",
+          "text": "[10.2s - 10.7s]"
+        },
+        {
+          "id": "E",
+          "text": "[12.0s - 12.5s]"
+        },
+        {
+          "id": "F",
+          "text": "[7.8s - 8.3s]"
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "Around 8.0s, the subject subtly raises his eyebrows to add emphasis to his words ('few months'). This is a distinct, communicative micro-expression.\n- Option A is a text-based distractor. The beginning of the clip is a plausible time for an expression to form, but no specific, notable change occurs in this interval.\n- Option B is a video-based distractor. The subject's head moves during this time, but it's a general movement, not a specific facial micro-expression for emphasis.\n- Option C is a video-based distractor. This interval captures a moment of his persistent gaze aversion, which is a state, not a discrete 'change' or micro-expression for emphasis.\n- Option D is a near-miss distractor. In this interval, his mouth is slightly open between phrases, a natural part of speech. While it is a facial change, the eyebrow raise at 8.0s is a more deliberate and communicatively relevant micro-expression for emphasis.\n- Option E is a text-based distractor. This is a random interval mid-sentence where no significant facial expression change occurs."
+    },
+    {
+      "category": "Temporal-Causal Reasoning",
+      "question": "Consider the sequence of behaviors observed across the video. Which of the following best describes the causal chain linking the person's actions at different moments?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sustained self-monitoring behaviors directly cause an initial display of goal-oriented planning, which then necessitates subsequent efforts at emotional regulation."
+        },
+        {
+          "id": "B",
+          "text": "An initial display of goal-oriented planning leads to a brief compensatory display, which is then followed by a period of sustained emotional regulation for control."
+        },
+        {
+          "id": "C",
+          "text": "An expression of confidence at the start causes a period of relaxed interaction, which concludes with a demonstration of focused physical preparation."
+        },
+        {
+          "id": "D",
+          "text": "An initial effort at emotional regulation triggers a reactive display of goal-oriented planning, followed by a noticeable decline in self-monitoring behaviors."
+        },
+        {
+          "id": "E",
+          "text": "A demonstration of social withdrawal prompts a shift towards more abstract thinking, later contradicted by a display of heightened emotional expression."
+        },
+        {
+          "id": "F",
+          "text": "An initial display of goal-oriented planning prompts sustained self-monitoring behaviors, which are consistently modulated by an effort at emotional regulation."
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The correct causal chain is: He begins by talking about his 'training plan' (goal-oriented planning), which is accompanied by consistent gaze aversion (self-monitoring behavior, a sign of introversion), all while maintaining a calm, steady vocal tone (emotional regulation).\n- Option A is a distractor with wrong causality. The planning (speech content) prompts the self-monitoring (gaze), not the other way around.\n- Option B is a near-miss distractor. The chain is mostly correct, but 'compensatory display' is less accurate than 'self-monitoring behaviors' to describe the persistent gaze aversion.\n- Option C is a video-based distractor. It misinterprets the video events; he is seated and talking calmly ('relaxed interaction'), not showing 'focused physical preparation'.\n- Option D is a distractor with reversed temporal order. The goal-oriented planning (speech) is the initial act, not a reaction to emotional regulation. Also, self-monitoring (gaze aversion) is sustained, it does not decline.\n- Option E is a text-based distractor. The content is factually incorrect; he discusses concrete topics, not abstract ones, and shows emotional control, not heightened expression."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 14.5s, a region was detected in the video (x=0.444, y=0.372, w=0.195, h=0.095, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A subtle raising of the eyebrows for the purpose of linguistic emphasis."
+        },
+        {
+          "id": "B",
+          "text": "A generally focused and very concentrated facial set during the monologue."
+        },
+        {
+          "id": "C",
+          "text": "The mouth area showing natural movement during speech articulation."
+        },
+        {
+          "id": "D",
+          "text": "A noticeable general movement of the head and shoulders while speaking."
+        },
+        {
+          "id": "E",
+          "text": "Direct and sustained eye contact maintained with the video camera."
+        },
+        {
+          "id": "F",
+          "text": "A distinct downward and leftward shifting of the subject's gaze."
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The specified coordinates at 14.5s precisely isolate the subject's eyes. At this moment, as throughout the video, his eyes are averted, looking down and to the left.\n- Option A is a video-based distractor. This describes the eyebrow raise, which occurs in a different region (eyebrows) and at a different time (around 8.0s).\n- Option B is a video-based distractor. This describes the overall facial expression, which covers a much larger region (the whole face) than the specified bounding box.\n- Option C is a video-based distractor. This describes the mouth, which is in a different location on the face.\n- Option D is a video-based distractor. This describes a larger-scale movement of the head, not the specific action occurring within the small region of the eyes.\n- Option E is a near-miss distractor. It correctly identifies the body part (eyes) but describes the exact opposite of the observed behavior, using a common AI error pattern. He is averting his gaze, not making direct contact."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "Which of the following timestamp and coordinate pairs best localizes the moment of non-verbal emphasis that accompanies a key point in the person's spoken narrative?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Time: 7.3s, Bbox: (x=0.409, y=0.254, w=0.235, h=0.392)"
+        },
+        {
+          "id": "B",
+          "text": "Time: 14.5s, Bbox: (x=0.444, y=0.372, w=0.195, h=0.095)"
+        },
+        {
+          "id": "C",
+          "text": "Time: 4.4s, Bbox: (x=0.442, y=0.267, w=0.173, h=0.100)"
+        },
+        {
+          "id": "D",
+          "text": "Time: 0.9s, Bbox: (x=0.101, y=0.372, w=0.814, h=0.547)"
+        },
+        {
+          "id": "E",
+          "text": "Time: 8.0s, Bbox: (x=0.459, y=0.475, w=0.145, h=0.121)"
+        },
+        {
+          "id": "F",
+          "text": "Time: 8.0s, Bbox: (x=0.442, y=0.267, w=0.173, h=0.100)"
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The question asks for a non-verbal emphasis gesture. At 8.0s, while saying 'few months', the subject raises his eyebrows to add emphasis. The provided coordinates correctly isolate the eyebrow region at that specific time.\n- Option A is a video-based distractor. The bbox covers the entire face and captures general focus, not a specific emphasis gesture.\n- Option B is a video-based distractor. This time and bbox correspond to the gaze aversion, which is a sign of introversion, not communicative emphasis.\n- Option C is a video-based distractor. It uses the correct eyebrow region coordinates but at the wrong time (4.4s), when only general head movement is occurring.\n- Option D is a text-based distractor. The bbox is very large and covers the entire head at the start of the video, which is too general to be correct.\n- Option E is a near-miss distractor. It has the correct timestamp (8.0s) but the wrong coordinates, pointing to the mouth region instead of the eyebrows. A model might confuse general speech articulation with a specific emphasis gesture."
+    },
+    {
+      "category": "Counterfactual Reasoning",
+      "question": "If the person had NOT exhibited the behavior observed for most of 1.0s - 15.0s, which of the following personality assessments would be MOST affected?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Agreeableness score would be reduced, because avoiding contact is a key sign of his approachable style."
+        },
+        {
+          "id": "B",
+          "text": "Conscientiousness would be uncertain, as his focused expression is vital for assessing his planning."
+        },
+        {
+          "id": "C",
+          "text": "Openness score would be impacted, since his practical mindset is conveyed mainly through his direct gaze."
+        },
+        {
+          "id": "D",
+          "text": "Neuroticism score would likely be lower, as a steady gaze would remove the primary indicator of social anxiety."
+        },
+        {
+          "id": "E",
+          "text": "Extraversion score would likely decrease, as his verbal engagement is the main cue for his social nature."
+        },
+        {
+          "id": "F",
+          "text": "Extraversion score would likely increase, as gaze aversion is the strongest indicator of his introversion."
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The dominant behavior throughout this period is consistent gaze aversion. This is the primary evidence for his Low Extraversion (introversion) score. If he had maintained eye contact instead, this key piece of evidence would be removed, and his score would likely shift upward toward medium or even high.\n- Option A is a text-based distractor with flawed logic; avoiding eye contact is not a sign of an approachable style, so removing it wouldn't reduce agreeableness.\n- Option B is a video-based distractor. The Conscientiousness assessment is based more on his verbal content (discussing a 'training plan') than on his gaze. That assessment would remain largely intact.\n- Option C is a video-based distractor. It misinterprets the behavior; his gaze is averted, not direct. Furthermore, Openness is assessed from his practical verbal content, not his gaze.\n- Option D is a text-based distractor. Removing gaze aversion (a potential sign of social unease) would likely *decrease* the Neuroticism score, not increase it.\n- Option E is a near-miss distractor. It correctly identifies the Extraversion trait but gets the direction of change wrong. Removing the introverted behavior (gaze aversion) would increase the assessed level of extraversion, not decrease it."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [
+      {
+        "check": "A",
+        "q_idx": 6,
+        "issue": "Distractor D presents an incorrect causal link. The personality analysis for Neuroticism states that gaze aversion is a sign of social anxiety, which keeps the score from being 'Low'. Therefore, in the counterfactual scenario (a steady gaze), the Neuroticism score would likely be *lower* (indicating more stability), not higher as the option claims.",
+        "action": "Corrected the text of option D to reflect the correct logical outcome based on the provided analysis."
+      }
+    ],
+    "corrections": {
+      "mcq_questions[6].options[3].text": "Neuroticism score would likely be lower, as a steady gaze would remove the primary indicator of social anxiety."
+    },
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator06",
+      "version": 1,
+      "clues_total": 12,
+      "clues_correct": 6,
+      "clues_wrong_corrected": 4,
+      "clues_missing_skipped": 1,
+      "clues_bonus": 1
+    }
+  }
+}

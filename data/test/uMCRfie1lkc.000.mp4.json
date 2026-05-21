@@ -1,0 +1,322 @@
+{
+  "video_id": "uMCRfie1lkc.000.mp4",
+  "video_path": "uMCRfie1lkc.000.mp4",
+  "transcription": "... get me a little bit emotional, I was not expecting such a reaction to my react video, and I'm so encouraged by it that I'm going to try and dedicate a lot more of my time to answering your questions and making videos for-,",
+  "original_scores": {
+    "extraversion": 0.2149532710280374,
+    "agreeableness": 0.4615384615384615,
+    "conscientiousness": 0.35922330097087385,
+    "neuroticism": 0.37499999999999994,
+    "openness": 0.4777777777777778
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 15.35,
+      "description": "The subject maintains direct gaze at the camera. His eyebrows are in a neutral position, raising slightly and briefly on emphasized words. His mouth moves naturally with his speech. His overall facial expression is calm and engaged.",
+      "bboxes": [
+        {
+          "frame_time": 8.170404,
+          "x": 0.3379111842105263,
+          "y": 0.3429824527941252,
+          "w": 0.16282894736842105,
+          "h": 0.08421052631578947,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 4.67426,
+          "x": 0.3305098684210526,
+          "y": 0.3219298212151778,
+          "w": 0.17911184210526315,
+          "h": 0.08421052631578947,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 7.079805,
+          "x": 0.3482730263157895,
+          "y": 0.49824561068886203,
+          "w": 0.10509868421052632,
+          "h": 0.12105263157894737,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 9.862198,
+          "x": 0.3290296052631579,
+          "y": 0.2903508738467568,
+          "w": 0.1879934210526316,
+          "h": 0.3684210526315789,
+          "note": "face human-annotated",
+          "region": "face"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 15.35,
+      "description": "The subject is shown from the chest up. His head is mostly stationary, facing forward, with very subtle nods and forward movements that synchronize with his speech. His shoulders and torso remain still throughout the clip.",
+      "bboxes": [
+        {
+          "frame_time": 12.355908,
+          "x": 0.18396381578947368,
+          "y": 0.2035087685835989,
+          "w": 0.4455592105263158,
+          "h": 0.7947368421052632,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 14.028503,
+          "x": 0.29942434210526314,
+          "y": 0.1561403475309673,
+          "w": 0.2294407894736842,
+          "h": 0.5263157894736842,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 12.309139,
+          "x": 0.14547697368421053,
+          "y": 0.666666663320441,
+          "w": 0.5254934210526316,
+          "h": 0.33157894736842103,
+          "note": "pose human-annotated",
+          "region": "shoulders"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 15.35,
+      "description": "The subject speaks at a moderate, consistent pace with a generally even pitch and volume. He places slight stress and a minor pitch rise on the words \"so\" (0:08) and \"lot more\" (0:11). The pitch falls at the end of his final sentence, indicating a concluding thought.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.35,
+      "description": "The subject is a male with long brown hair, wearing glasses and a dark-colored baseball cap with a white logo. He is wearing a grey hooded sweatshirt. He is in an indoor room, likely a workshop or office, with white walls. Behind him are several white shelves illuminated by pink LED strip lights. The shelves hold various items, including models of a race car and a plane, a drone, and other hobby-related equipment. To the left is a cabinet with small plastic drawers.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Low",
+      "score": 0.21,
+      "rationale": "The subject's Low Extraversion is indicated by his reserved demeanor. His physical posture is contained, with a still head and torso, lacking the expansive gestures typical of extraverts. His vocal delivery is moderate and steady, rather than loud or energetic. Furthermore, his wandering eyes suggest an internal focus or slight discomfort with direct engagement, contrasting with the outward-seeking energy of highly extraverted individuals.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Medium",
+      "score": 0.46,
+      "rationale": "The Medium Agreeableness score is reflected in the subject's pro-social and cooperative communication. He verbally expresses gratitude for audience support and makes a commitment to help them by answering questions. His calm facial expression and even, non-confrontational vocal tone create a pleasant and approachable demeanor, consistent with a moderate level of agreeableness.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Low",
+      "score": 0.36,
+      "rationale": "The subject's Low Conscientiousness is suggested by his relaxed and informal presentation. His casual attire (hoodie and cap indoors) and the soft phrasing of his commitment ('going to try and dedicate') point towards a more flexible and less rigidly structured approach. The organized hobbyist background provides a counter-signal, but the overall personal delivery aligns more with a spontaneous rather than a meticulously planned style.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Low",
+      "score": 0.37,
+      "rationale": "The Low Neuroticism score is strongly supported by the subject's emotional stability. Although he mentions feeling 'a little bit emotional,' he discusses this with remarkable calmness. His steady voice, controlled pace, and still posture show no signs of anxiety or distress. This ability to acknowledge an emotional experience without being visibly affected by it is a key indicator of low neuroticism.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "Medium",
+      "score": 0.48,
+      "rationale": "The Medium Openness score is primarily evidenced by the subject's environment. The background, filled with complex hobby items like models and drones, indicates intellectual curiosity and an engagement with novel activities. His willingness to create a video responding to audience questions also demonstrates an openness to external ideas. However, his straightforward and conventional communication style in this segment tempers the evidence, placing him in the medium range.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During 0.0s - 15.3s, the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Low Neuroticism, due to his capacity for acknowledging emotion while maintaining a calm delivery."
+        },
+        {
+          "id": "B",
+          "text": "High Extraversion, based on his willingness to address an audience and share his personal feelings."
+        },
+        {
+          "id": "C",
+          "text": "High Conscientiousness, given his stated commitment to dedicating more time to making new videos."
+        },
+        {
+          "id": "D",
+          "text": "High Neuroticism, because of his verbal admission of being affected emotionally by the situation."
+        },
+        {
+          "id": "E",
+          "text": "High Openness, reflected by the intellectually stimulating and complex items filling his background."
+        },
+        {
+          "id": "F",
+          "text": "Low Agreeableness, suggested by the self-focused nature of his monologue and his reserved posture."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. The person explicitly states he is feeling emotional yet demonstrates exceptional composure through a steady voice, calm expression, and still posture. This contrast is the strongest evidence for Low Neuroticism.\n- Option B is a text-based distractor. While addressing an audience is a public act, his reserved demeanor, wandering eyes, and lack of expansive gestures strongly indicate Low Extraversion, not High.\n- Option C is a text-based distractor. The commitment sounds conscientious, but the analysis points to his soft phrasing ('try and dedicate') and casual attire as indicators of Low Conscientiousness.\n- Option D is a near-miss distractor. It correctly identifies the relevant trait (Neuroticism) but misinterprets the evidence. Acknowledging emotion while remaining calm is a sign of emotional stability (Low Neuroticism), not instability (High Neuroticism).\n- Option E is a video-based distractor. The background items do support Medium Openness, but the question asks about the most directly supported dimension by his *behavioral pattern* (his calm delivery while discussing emotion), which is Neuroticism.\n- Option F is a video-based distractor. His pro-social language (thanking the audience, committing to help them) directly contradicts Low Agreeableness."
+    },
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their emotional expression?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[4.5s - 5.2s]"
+        },
+        {
+          "id": "B",
+          "text": "[0.5s - 1.2s]"
+        },
+        {
+          "id": "C",
+          "text": "[2.8s - 3.5s]"
+        },
+        {
+          "id": "D",
+          "text": "[7.8s - 8.5s]"
+        },
+        {
+          "id": "E",
+          "text": "[11.5s - 12.2s]"
+        },
+        {
+          "id": "F",
+          "text": "[14.3s - 15.0s]"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. The observation data notes that his eyebrows slightly raise for emphasis, with a specific annotation at 4.7s. This interval captures that subtle but significant micro-expression.\n- Option B is a video-based distractor. This interval at the start of the video shows a neutral facial expression with no notable changes.\n- Option C is a video-based distractor. During this period, the subject is speaking with a neutral and unchanging facial expression.\n- Option D is a near-miss distractor. This interval is around the word 'so' (0:08), another point of verbal emphasis where a similar eyebrow movement might occur, making it a highly plausible but incorrect alternative to the annotated moment.\n- Option E is a video-based distractor. This interval covers the end of a phrase where his expression remains neutral and stable.\n- Option F is a video-based distractor. Towards the very end of his speech, his expression is settled and does not exhibit any notable changes."
+    },
+    {
+      "category": "Mixed Emotion Discrimination",
+      "question": "During 0.0s - 8.5s, the person's emotional state is best characterized as which of the following? Consider both verbal and non-verbal cues.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sincere appreciation mixed with a sense of calm composure."
+        },
+        {
+          "id": "B",
+          "text": "Mild surprise at the outcome tempered by deep gratitude."
+        },
+        {
+          "id": "C",
+          "text": "Underlying anxiety mixed with determined public motivation."
+        },
+        {
+          "id": "D",
+          "text": "Quiet confidence in his delivery mixed with slight amusement."
+        },
+        {
+          "id": "E",
+          "text": "Initial hesitation tempered with a clear and earnest resolve."
+        },
+        {
+          "id": "F",
+          "text": "A feeling of joy tempered with a strong sense of obligation."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. The subject verbally expresses being moved ('get me a little bit emotional') which indicates sincere appreciation, while his non-verbal cues (steady voice, calm face) show strong composure. This blend is the most accurate description.\n- Option B is a near-miss distractor. He does mention not expecting the reaction ('surprise'), but his non-verbal expression is one of calm control, not surprise. 'Calm composure' is more accurate than 'mild surprise'.\n- Option C is a text-based distractor. The phrase 'get me a little bit emotional' could be textually interpreted as anxiety, but his calm delivery and steady posture visually contradict this completely.\n- Option D is a video-based distractor. His calm delivery could be mistaken for confidence, but there are no visual cues (like a slight smile or crinkling eyes) to support 'amusement'.\n- Option E is a video-based distractor. His wandering eyes might be misinterpreted as 'hesitation', but his vocal delivery is fluid and not hesitant, making this an inaccurate characterization.\n- Option F is a text-based distractor. 'Joy' is too strong an emotion for his subdued and calm demeanor. While he is making a commitment, his tone is grateful, not obligatory."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 14.0s, a region was detected in the video (x=0.299, y=0.156, w=0.229, h=0.526, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A steady head posture with very subtle forward nodding motion synchronized with his speech."
+        },
+        {
+          "id": "B",
+          "text": "Shifting and wandering eye gaze that does not remain fixed on the camera for long periods."
+        },
+        {
+          "id": "C",
+          "text": "A direct and engaging stare that is looking straight into the camera to connect with viewers."
+        },
+        {
+          "id": "D",
+          "text": "A generally calm and focused overall facial expression that remains consistent and stable."
+        },
+        {
+          "id": "E",
+          "text": "Neutral eyebrows that raise slightly and briefly for the purpose of adding verbal emphasis."
+        },
+        {
+          "id": "F",
+          "text": "Still and completely motionless shoulders and an upper torso area that shows no movement."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. The specified bounding box covers the person's entire head. The most prominent action of the head as a whole is its stable, largely still posture, with only minor movements that are in sync with his speech, as described in the observation data.\n- Option B is a video-based distractor. While the wandering eye gaze is occurring, it describes the action of a small sub-region (the eyes) within the larger head area, not the most prominent action of the entire region.\n- Option C is a text-based distractor that is factually incorrect based on the video evidence (and near-miss material), which shows his eyes are wandering, not making direct contact.\n- Option D is a near-miss distractor. The facial expression is indeed calm and is located within the bounding box. However, 'head posture' is a more accurate and holistic description for the action of the entire specified region than 'facial expression' is.\n- Option E is a video-based distractor. Similar to option B, this describes a correct but overly specific action in a small sub-region (the eyebrows) and not the overall action of the head.\n- Option F is a video-based distractor. This describes the shoulders and torso, which are located entirely outside the specified bounding box for the head."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "Which of the following options correctly identifies the location and timing of the subject's intermittent gaze aversion, a key indicator of his introverted focus?",
+      "options": [
+        {
+          "id": "A",
+          "text": "At 2.5s, in region (x=0.338, y=0.343, w=0.163, h=0.084)."
+        },
+        {
+          "id": "B",
+          "text": "At 8.2s, in region (x=0.348, y=0.498, w=0.105, h=0.121)."
+        },
+        {
+          "id": "C",
+          "text": "At 4.7s, in region (x=0.331, y=0.322, w=0.179, h=0.084)."
+        },
+        {
+          "id": "D",
+          "text": "At 12.3s, in region (x=0.145, y=0.667, w=0.525, h=0.332)."
+        },
+        {
+          "id": "E",
+          "text": "At 10.1s, in region (x=0.250, y=0.450, w=0.150, h=0.100)."
+        },
+        {
+          "id": "F",
+          "text": "At 8.2s, in region (x=0.338, y=0.343, w=0.163, h=0.084)."
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The correct answer is F. This option provides the exact timestamp and bounding box coordinates for the eyes as specified in the observation data, which notes the subject's 'wandering eyes' (gaze aversion).\n- Option A is a video-based distractor. It has the correct location (the eye bbox) but an incorrect timestamp.\n- Option B is a video-based distractor. It has the correct timestamp but provides the bounding box for the mouth, not the eyes.\n- Option C is a near-miss distractor. It provides the timestamp and bounding box for the eyebrows, which are spatially very close to the eyes, making it a difficult and confusing alternative.\n- Option D is a video-based distractor. This option provides the time and location for the shoulders, which is an incorrect body region for gaze aversion.\n- Option E is a text-based distractor. It presents a plausible but entirely fabricated combination of time and coordinates that does not correspond to any annotated event."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator19",
+      "version": 1,
+      "clues_total": 9,
+      "clues_correct": 8,
+      "clues_wrong_corrected": 1,
+      "clues_missing_skipped": 0,
+      "clues_bonus": 0
+    }
+  }
+}

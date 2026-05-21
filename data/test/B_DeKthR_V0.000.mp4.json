@@ -1,0 +1,402 @@
+{
+  "video_id": "B_DeKthR_V0.000.mp4",
+  "video_path": "B_DeKthR_V0.000.mp4",
+  "transcription": "... In the evening, and I go through another five minutes of journalism. That really does set the tone rather than waking up and getting on a call, or doing text messaging or checking my emails, I take a moment to pause-",
+  "original_scores": {
+    "extraversion": 0.4953271028037384,
+    "agreeableness": 0.5604395604395604,
+    "conscientiousness": 0.8737864077669903,
+    "neuroticism": 0.7187499999999999,
+    "openness": 0.6222222222222222
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 7.5,
+      "description": "The subject maintains direct eye contact with the camera, her eyebrows are slightly raised, and her expression is open and engaged. The corners of her mouth lift into a subtle smile as she speaks.",
+      "bboxes": [
+        {
+          "frame_time": 1.364526,
+          "x": 0.36307565789473684,
+          "y": 0.14561403174149362,
+          "w": 0.14950657894736843,
+          "h": 0.09210526315789473,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 3.901963,
+          "x": 0.32310855263157895,
+          "y": 0.12719297910991467,
+          "w": 0.15394736842105264,
+          "h": 0.07368421052631578,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 3.115747,
+          "x": 0.3023848684210526,
+          "y": 0.07719297910991468,
+          "w": 0.1805921052631579,
+          "h": 0.3631578947368421,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 4.68253,
+          "x": 0.36307565789473684,
+          "y": 0.316666663320441,
+          "w": 0.11546052631578947,
+          "h": 0.1,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 7.5,
+      "end_time": 13,
+      "description": "Her expression becomes slightly more focused and neutral as she continues speaking, maintaining steady eye contact.",
+      "bboxes": [
+        {
+          "frame_time": 7.719415,
+          "x": 0.38231907894736844,
+          "y": 0.3429824527941252,
+          "w": 0.10361842105263158,
+          "h": 0.1,
+          "note": "human-annotated",
+          "region": "unknown"
+        },
+        {
+          "frame_time": 8.080558,
+          "x": 0.36307565789473684,
+          "y": 0.11140350542570415,
+          "w": 0.15986842105263158,
+          "h": 0.37894736842105264,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 10.696984,
+          "x": 0.3438322368421053,
+          "y": 0.16929824226780943,
+          "w": 0.1569078947368421,
+          "h": 0.12894736842105264,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 13,
+      "end_time": 15.1,
+      "description": "Her eyebrows raise slightly as she says, \"I take a moment,\" and her eyes widen slightly on the word \"pause.\"",
+      "bboxes": [
+        {
+          "frame_time": 14.766251,
+          "x": 0.3852796052631579,
+          "y": 0.28771929489938836,
+          "w": 0.10953947368421053,
+          "h": 0.10263157894736842,
+          "note": "human-annotated",
+          "region": "unknown"
+        },
+        {
+          "frame_time": 13.924343,
+          "x": 0.3201480263157895,
+          "y": 0.0798245580572831,
+          "w": 0.16282894736842105,
+          "h": 0.08421052631578947,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 7.5,
+      "description": "The subject is sitting upright, facing forward. Her head is mostly still, with small, natural movements accompanying her speech. Her hands are held low, mostly out of frame.",
+      "bboxes": [
+        {
+          "frame_time": 0.912575,
+          "x": 0.18692434210526315,
+          "y": 0.12192982121517784,
+          "w": 0.5432565789473685,
+          "h": 0.8605263157894737,
+          "note": "human-annotated",
+          "region": "unknown"
+        },
+        {
+          "frame_time": 5.154082,
+          "x": 0.3112664473684211,
+          "y": 0.066666663320441,
+          "w": 0.20575657894736843,
+          "h": 0.41578947368421054,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 2.853675,
+          "x": 0.18988486842105262,
+          "y": 0.88508771595202,
+          "w": 0.2738486842105263,
+          "h": 0.11052631578947368,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 7.5,
+      "end_time": 8.7,
+      "description": "She raises her right hand briefly to the side of her head in an illustrative gesture.",
+      "bboxes": [
+        {
+          "frame_time": 8.567023,
+          "x": 0.19136513157894736,
+          "y": 0.10087718963623046,
+          "w": 0.31973684210526315,
+          "h": 0.5,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 8.633539,
+          "x": 0.14695723684210527,
+          "y": 0.37456140016254624,
+          "w": 0.15394736842105264,
+          "h": 0.6236842105263158,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 8.7,
+      "end_time": 13.2,
+      "description": "Her hands, with red-painted fingernails, are visible at the bottom of the frame, making small, subtle gestures.",
+      "bboxes": [
+        {
+          "frame_time": 10.234171,
+          "x": 0.29054276315789473,
+          "y": 0.6508771896362304,
+          "w": 0.3582236842105263,
+          "h": 0.3447368421052632,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 13.2,
+      "end_time": 15.1,
+      "description": "She brings her hands together in front of her chest, palms facing each other, as she says \"to pause.\"",
+      "bboxes": [
+        {
+          "frame_time": 14.108219,
+          "x": 0.3053453947368421,
+          "y": 0.8798245580572831,
+          "w": 0.24572368421052632,
+          "h": 0.11842105263157894,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 5.5,
+      "description": "The subject speaks at a moderate, consistent pace with a clear tone. The pitch is relatively even with a slight emphasis placed on the phrase \"five minutes.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 5.5,
+      "end_time": 13,
+      "description": "The speech rate remains steady. The pitch rises slightly on the word \"tone\" before returning to a baseline level.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 13,
+      "end_time": 15.1,
+      "description": "Her speech rate slows down on the final phrase, \"I take a moment to pause,\" with clear articulation and a slight drop in pitch on the word \"pause.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.1,
+      "description": "The subject is a woman with fair skin, long dark brown hair, and light-colored eyes. She is wearing a dark blue or black top and a white pearl necklace. She is in an indoor setting, seated in front of a wooden fireplace mantel. To her right is a wall with warm-toned wood paneling. A large, leafy green plant in a pot sits on the mantel behind her. The lighting is soft and warm. A text overlay at the bottom of the screen reads: \"ENTREPRENEURIST.COM #ENTREPRENEURIST @JLOVEBIZ\".",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Medium",
+      "score": 0.5,
+      "rationale": "The subject's score places her in the Medium range for Extraversion. While presenting in a public-facing video format and maintaining direct eye contact suggests a degree of social confidence, other cues temper this assessment. Her vocal delivery is moderate and steady, lacking the high energy and rapid pace often associated with high extraversion. Her gestures are present but are described as 'small and subtle' rather than broad and expansive. This combination of comfortable self-presentation with a controlled, calm demeanor supports a moderate, rather than high or low, level of extraversion.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Medium",
+      "score": 0.56,
+      "rationale": "The subject exhibits a Medium level of Agreeableness. Her warm, 'open and engaged' facial expression, coupled with a slight smile and a calm vocal tone, creates a pleasant and approachable impression. However, the clip's focus is on her personal routine, providing limited evidence of interpersonal behaviors like cooperation or empathy. Her expression also shifts to a more 'focused and neutral' state, indicating a task-oriented mindset. This blend of warmth with a controlled, self-focused narrative aligns with a moderate Agreeableness score.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Very High",
+      "score": 0.87,
+      "rationale": "The subject's Very High Conscientiousness is strongly indicated by the content of her speech. She describes a structured, disciplined evening routine involving 'five minutes of journalism'. This behavior demonstrates self-regulation, planning, and a goal-oriented approach to her well-being. Her statement that this routine 'set[s] the tone' reveals a deliberate and thoughtful methodology. Furthermore, her clear, articulate speech, upright posture, and the professional presentation (including the on-screen text) all point to a high degree of orderliness and self-discipline.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "High",
+      "score": 0.72,
+      "rationale": "A High Neuroticism score is supported by interpreting the subject's described behaviors as proactive stress management. She explicitly contrasts her calming routine (journaling, pausing) with potential stressors like 'getting on a call, or doing text messaging or checking my emails'. This suggests a conscious effort to regulate negative emotional states and anxiety, a common behavioral pattern for individuals high in both Neuroticism and Conscientiousness. Her controlled and steady demeanor can be seen as a manifestation of managing internal emotional sensitivity in a performance setting.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "High",
+      "score": 0.62,
+      "rationale": "The subject's High Openness is evidenced by her engagement in 'journalism' (journaling), a practice strongly associated with introspection, self-examination, and a rich inner world. Her willingness to share this personal, abstract concept about 'set[ting] the tone' for a public audience (implied by the professional branding) reflects an interest in ideas and experiences. The thoughtful and articulate way she describes her routine suggests a capacity for abstract thought and an appreciation for the nuances of psychological well-being, which are hallmarks of Openness.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression occur that is most relevant to her high Neuroticism score, reflecting a shift as she begins contrasting her calm routine with potential stressors?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[13.5s - 14.5s]"
+        },
+        {
+          "id": "B",
+          "text": "[7.5s - 8.5s]"
+        },
+        {
+          "id": "C",
+          "text": "[3.5s - 4.5s]"
+        },
+        {
+          "id": "D",
+          "text": "[1.0s - 2.0s]"
+        },
+        {
+          "id": "E",
+          "text": "[11.0s - 12.0s]"
+        },
+        {
+          "id": "F",
+          "text": "[8.7s - 9.7s]"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Around 7.5s, the person's expression transitions from 'open and engaged' with a slight smile to 'slightly more focused and neutral.' This shift coincides with her mentioning potential stressors like calls and emails, which her routine is designed to counteract. This change reflects the underlying theme of managing anxiety, which is key to the High Neuroticism assessment.\nOption A is a video-based distractor; this interval captures her saying 'pause' with raised eyebrows, a different expressive moment. \nOption C is a video-based distractor; this is during her initial open and smiling phase, before the shift occurs. \nOptions D and E are text-based distractors; these intervals do not contain any significant expression changes relevant to the question. \nOption F is a near-miss distractor; it is immediately after the primary shift has already occurred, making it slightly too late."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around [10.2s], a region was detected in the video (x=0.291, y=0.651, w=0.358, h=0.345, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Direct and sustained eye contact with the viewer."
+        },
+        {
+          "id": "B",
+          "text": "Subtle and minimal illustrative hand movements."
+        },
+        {
+          "id": "C",
+          "text": "Hands touching with their backs facing each other."
+        },
+        {
+          "id": "D",
+          "text": "Slightly raised eyebrows showing attentiveness."
+        },
+        {
+          "id": "E",
+          "text": "A faint smile with slightly upturned mouth corners."
+        },
+        {
+          "id": "F",
+          "text": "A focused and relatively neutral facial expression."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The specified bounding box at 10.2s covers the lower part of the frame where the person's hands are visible. During this period, she is making small, subtle gestures with her hands as she speaks, which is the correct description for this specific region and time. \nOptions A, D, E, and F are all video-based distractors; they describe real expressions (eye contact, raised eyebrows, faint smile, neutral face) that are occurring at or around 10.2s, but they are located in the facial region, not within the specified hand-region bounding box. \nOption C is a near-miss distractor; it describes a real hand gesture from the video, but that specific gesture occurs later at 14.1s when she says 'pause', not at 10.2s."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "The person makes a significant illustrative gesture with her right hand, bringing it up into the frame next to her head to emphasize a point. At which timestamp and bounding box does this specific action primarily occur?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[1.4s]  x=0.36, y=0.15, w=0.15, h=0.09"
+        },
+        {
+          "id": "B",
+          "text": "[8.6s]  x=0.15, y=0.37, w=0.15, h=0.62"
+        },
+        {
+          "id": "C",
+          "text": "[5.2s]  x=0.31, y=0.07, w=0.21, h=0.42"
+        },
+        {
+          "id": "D",
+          "text": "[0.9s]  x=0.19, y=0.12, w=0.54, h=0.86"
+        },
+        {
+          "id": "E",
+          "text": "[10.7s]  x=0.34, y=0.17, w=0.16, h=0.13"
+        },
+        {
+          "id": "F",
+          "text": "[3.1s]  x=0.30, y=0.08, w=0.18, h=0.36"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The described action of raising the right hand to the side of the head for emphasis occurs precisely at 8.6s. The provided bounding box (x=0.19, y=0.10, w=0.32, h=0.50) correctly captures her head and the raised hand/arm at this moment.\nAll other options are video-based distractors. They provide valid timestamps and bounding boxes for other parts of the video (e.g., A/E captures her eyes, C/F captures her head/face, D captures her overall torso), but they do not correspond to the specific illustrative hand gesture described in the question."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [
+      {
+        "check": "B",
+        "q_idx": 5,
+        "issue": "The question asks for the location of a hand gesture, but the bounding box provided in the correct answer (B) corresponds to the person's head, not her hand. The observation data contains a separate, correct bounding box for the hand at that timestamp.",
+        "action": "Corrected the bounding box coordinates in option B to match the 'hands' region as specified in the relevant_observations."
+      }
+    ],
+    "corrections": {
+      "mcq_questions[5].options[1].text": "[8.6s]  x=0.15, y=0.37, w=0.15, h=0.62"
+    },
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator17",
+      "version": 1,
+      "clues_total": 21,
+      "clues_correct": 17,
+      "clues_wrong_corrected": 3,
+      "clues_missing_skipped": 1,
+      "clues_bonus": 0
+    }
+  }
+}

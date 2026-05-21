@@ -1,0 +1,577 @@
+{
+  "video_id": "VoPuhcQc_mg.002.mp4",
+  "video_path": "VoPuhcQc_mg.002.mp4",
+  "transcription": "... then I just hang out and smoke with a couple of friends so that's how it's changed pretty much. I can just smoke whenever I want instead of waiting to see if other people had it, then I'll just join in if they asked me. [inaudible 00:00:43] to [inaudible 00:00:44]. This is a ...",
+  "original_scores": {
+    "extraversion": 0.20560747663551404,
+    "agreeableness": 0.13186813186813184,
+    "conscientiousness": 0.17475728155339804,
+    "neuroticism": 0.22916666666666663,
+    "openness": 0.23333333333333334
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 2.1,
+      "description": "Subject maintains direct eye contact with the camera. Her eyebrows are in a neutral position, and her mouth moves naturally with her speech.",
+      "bboxes": [
+        {
+          "frame_time": 1.051805,
+          "x": 0.3605263157894737,
+          "y": 0.16140350542570414,
+          "w": 0.22456140350877193,
+          "h": 0.10526315789473684,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 1.091695,
+          "x": 0.37280701754385964,
+          "y": 0.07719297910991468,
+          "w": 0.22280701754385965,
+          "h": 0.12368421052631579,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 1.586597,
+          "x": 0.42719298245614035,
+          "y": 0.3219298212151778,
+          "w": 0.11929824561403508,
+          "h": 0.09473684210526316,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 2.1,
+      "end_time": 3.9,
+      "description": "She blinks, and her eyes look slightly upward while she continues speaking, before returning her gaze to the camera.",
+      "bboxes": [
+        {
+          "frame_time": 3.042191,
+          "x": 0.36403508771929827,
+          "y": 0.13771929489938836,
+          "w": 0.22105263157894736,
+          "h": 0.10526315789473684,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 3.042191,
+          "x": 0.38859649122807016,
+          "y": 0.2535087685835989,
+          "w": 0.156140350877193,
+          "h": 0.15526315789473685,
+          "note": "human-annotated",
+          "region": "unknown"
+        },
+        {
+          "frame_time": 3.930103,
+          "x": 0.3991228070175439,
+          "y": 0.12719297910991467,
+          "w": 0.22456140350877193,
+          "h": 0.12631578947368421,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 3.9,
+      "end_time": 11.08,
+      "description": "Her expression remains largely neutral and conversational, with her gaze directed at the camera.",
+      "bboxes": [
+        {
+          "frame_time": 4.571693,
+          "x": 0.3605263157894737,
+          "y": 0.07456140016254625,
+          "w": 0.23684210526315788,
+          "h": 0.36578947368421055,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 4.571693,
+          "x": 0.37105263157894736,
+          "y": 0.12192982121517784,
+          "w": 0.25263157894736843,
+          "h": 0.12105263157894737,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 11.08,
+      "end_time": 13.59,
+      "description": "She looks down and to her right, her eyelids lowering slightly as if in thought.",
+      "bboxes": [
+        {
+          "frame_time": 12.569289,
+          "x": 0.24298245614035088,
+          "y": 0.2403508738467568,
+          "w": 0.22982456140350876,
+          "h": 0.0868421052631579,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 13.59,
+      "end_time": 15.17,
+      "description": "She looks back up at the camera, raising her eyebrows slightly as she begins a new phrase.",
+      "bboxes": [
+        {
+          "frame_time": 14.230135,
+          "x": 0.37105263157894736,
+          "y": 0.10614034753096731,
+          "w": 0.24210526315789474,
+          "h": 0.10263157894736842,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 14.861615,
+          "x": 0.3201754385964912,
+          "y": 0.03245613700465152,
+          "w": 0.21578947368421053,
+          "h": 0.09736842105263158,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 10.98,
+      "description": "The subject is sitting, leaning slightly toward the camera. Her hands are visible at the bottom of the frame, close together, with her fingers making small movements. Her head is mostly still, with minor movements accompanying her speech.",
+      "bboxes": [
+        {
+          "frame_time": 1.051638,
+          "x": 0.23771929824561402,
+          "y": 0.1798245580572831,
+          "w": 0.543859649122807,
+          "h": 0.8,
+          "note": "human-annotated",
+          "region": "unknown"
+        },
+        {
+          "frame_time": 1.051638,
+          "x": 0.30964912280701756,
+          "y": 0.8456140317414936,
+          "w": 0.49298245614035086,
+          "h": 0.15,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 1.051638,
+          "x": 0.2324561403508772,
+          "y": 0.166666663320441,
+          "w": 0.5526315789473685,
+          "h": 0.8289473684210527,
+          "note": "pose human-annotated",
+          "region": "torso"
+        },
+        {
+          "frame_time": 8.771096,
+          "x": 0.31140350877192985,
+          "y": 0.8587719264783358,
+          "w": 0.4473684210526316,
+          "h": 0.1394736842105263,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 6.347254,
+          "x": 0.3254385964912281,
+          "y": 0.016666663320440995,
+          "w": 0.33157894736842103,
+          "h": 0.4710526315789474,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 10.98,
+      "end_time": 13.62,
+      "description": "She tilts her head slightly down and to her right, looking away from the camera.",
+      "bboxes": [
+        {
+          "frame_time": 12.601021,
+          "x": 0.26228070175438595,
+          "y": 0.03245613700465152,
+          "w": 0.3087719298245614,
+          "h": 0.49473684210526314,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 12.601021,
+          "x": 0.27631578947368424,
+          "y": 0.20087718963623047,
+          "w": 0.18596491228070175,
+          "h": 0.10263157894736842,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 13.62,
+      "end_time": 15.17,
+      "description": "As she looks back at the camera, she raises her right hand to shoulder height in an illustrative gesture, with her index finger pointing upwards.",
+      "bboxes": [
+        {
+          "frame_time": 14.457006,
+          "x": 0.3587719298245614,
+          "y": 0.06140350542570415,
+          "w": 0.22456140350877193,
+          "h": 0.13157894736842105,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 14.457006,
+          "x": 0.11140350877192982,
+          "y": 0.16929824226780943,
+          "w": 0.6684210526315789,
+          "h": 0.39210526315789473,
+          "note": "pose human-annotated",
+          "region": "shoulders"
+        },
+        {
+          "frame_time": 15.167942,
+          "x": 0.15350877192982457,
+          "y": 0.16929824226780943,
+          "w": 0.156140350877193,
+          "h": 0.35,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 12.43,
+      "description": "The subject speaks at a moderate, conversational pace with a clear, steady volume. Her pitch has a natural falling contour at the end of clauses and sentences.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 12.43,
+      "end_time": 13.9,
+      "description": "There is a brief pause in speech.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.17,
+      "description": "A young woman with fair skin and long, dark brown hair is shown from the chest up. She is wearing dark eyeliner, a thin necklace, and a dark grey or black long-sleeved shirt with a scoop neckline, revealing black straps underneath. The setting is indoors, in a room with neutral-colored walls. A white, paneled door is visible to her left, and another doorway is to her right. A light switch is visible on the wall behind her right shoulder. The lighting is frontal and soft.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Low",
+      "score": 0.21,
+      "rationale": "The subject's score indicates Low Extraversion. This is supported by a generally reserved demeanor. Her vocal delivery is moderate and steady, lacking the energetic modulation and volume typical of high extraversion. While she maintains some direct eye contact, she also frequently breaks it to look down, suggesting a more inward-focused processing style rather than a constant outward projection of energy. Her facial expressions are largely neutral, and her gestures are minimal and contained, which aligns with the subdued social presentation of a less extraverted individual.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Very Low",
+      "score": 0.13,
+      "rationale": "The subject's score points to Very Low Agreeableness. The primary evidence is verbal: her statement, \"I can just smoke whenever I want instead of waiting to see if other people had it,\" explicitly prioritizes personal desire over group harmony or social convention. This self-focused perspective is a hallmark of low agreeableness. Non-verbally, her consistently neutral facial expression and lack of warm, affiliative cues (e.g., smiling, nodding) suggest a detached interpersonal style, unconcerned with actively creating a rapport or pleasing the observer.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Very Low",
+      "score": 0.17,
+      "rationale": "The subject's Very Low Conscientiousness score is strongly supported by the content of her speech. Discussing the ability to smoke \"whenever I want\" points to a preference for immediate gratification and impulsive behavior, which runs counter to the discipline, planning, and health-consciousness associated with high conscientiousness. Her conversational, seemingly unplanned manner of speaking further suggests a spontaneous rather than a meticulous or prepared approach, which is consistent with this trait level.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Low",
+      "score": 0.23,
+      "rationale": "The subject's behavior is consistent with Low Neuroticism (high emotional stability). Throughout the clip, she maintains a calm and composed state. Her vocal tone is steady and clear, without any trembling or strain that would suggest anxiety. Her posture is relaxed, and her facial expression remains neutral and untroubled. Even when she pauses to think or breaks eye contact, her movements are fluid and deliberate, not fidgety or nervous. This overall presentation indicates a low level of negative emotionality.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "Low",
+      "score": 0.23,
+      "rationale": "The subject's Low Openness is reflected in her communication style and topic choice. She discusses a concrete, personal, and routine activity (smoking with friends) rather than engaging with abstract ideas, theories, or imaginative concepts. Her language is straightforward and descriptive, lacking metaphor or complex vocabulary. Furthermore, her emotional and facial expressions are quite limited in range, staying within a neutral, conversational baseline. This preference for the concrete and familiar is characteristic of individuals with lower levels of openness to experience.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During 0.0s - 12.4s, the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "High Extraversion, based on the discussion of social activities."
+        },
+        {
+          "id": "B",
+          "text": "Low Neuroticism, based on the overall calm vocal presentation."
+        },
+        {
+          "id": "C",
+          "text": "Low Openness, based on the straightforward and simple language."
+        },
+        {
+          "id": "D",
+          "text": "High Conscientiousness, based on organized thought patterns."
+        },
+        {
+          "id": "E",
+          "text": "Very Low Conscientiousness, based on the impulsive content."
+        },
+        {
+          "id": "F",
+          "text": "Very Low Agreeableness, based on self-prioritizing statements."
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The person's statement, 'I can just smoke whenever I want instead of waiting to see if other people had it,' is the strongest single piece of evidence in this segment. It directly reflects a prioritization of personal desires over group harmony, which is a core indicator of Very Low Agreeableness. Option F is correct. \nOption A is a text-based distractor; while the topic is social ('friends'), the person's non-verbal demeanor (low energy, averted gaze) throughout the video points to Low Extraversion. \nOption B is a video-based distractor; while she does exhibit Low Neuroticism through her calm delivery, this trait is a general state throughout the video and not specifically demonstrated by the unique content of the 0.0s-12.4s segment as strongly as Agreeableness is. \nOption C is a text-based distractor; her Low Openness is also evident, but it's a more general style feature, whereas the statement provides a specific, powerful example for the Agreeableness assessment. \nOption D is a text-based distractor that contradicts the evidence. \nOption E is a near-miss distractor; the statement also supports Very Low Conscientiousness (impulsivity), but the phrase 'instead of waiting to see if other people had it' makes the interpersonal, self-prioritizing aspect (Agreeableness) the most direct and primary interpretation."
+    },
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their Low Extraversion level?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[02.1s - 03.9s]"
+        },
+        {
+          "id": "B",
+          "text": "[00.0s - 02.1s]"
+        },
+        {
+          "id": "C",
+          "text": "[05.5s - 07.3s]"
+        },
+        {
+          "id": "D",
+          "text": "[08.0s - 09.8s]"
+        },
+        {
+          "id": "E",
+          "text": "[13.6s - 15.2s]"
+        },
+        {
+          "id": "F",
+          "text": "[11.1s - 13.6s]"
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The interval [11.1s - 13.6s] is the correct answer. During this time, the person breaks eye contact, looks down and away, and pauses her speech, which the analysis notes as an 'inward-focused processing style'—a key indicator of her Low Extraversion. \nOption A is a near-miss distractor; this interval contains a brief downward glance and blink, which is also a break in eye contact, but it's much shorter and more integrated into her speech flow than the prolonged, thoughtful pause in F. \nOption B is a video-based distractor; this interval shows direct eye contact, which is contrary evidence for Low Extraversion. \nOption C and D are text-based distractors; these intervals fall in the middle of her speech where her expression is relatively stable and neutral, without a notable change relevant to this trait. \nOption E is a video-based distractor; here she re-engages eye contact, which is the opposite of the inward-focused behavior being sought."
+    },
+    {
+      "category": "Mixed Emotion Discrimination",
+      "question": "During 11.1s - 13.6s, the person's emotional state is best characterized as which of the following? Consider both verbal and non-verbal cues.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pensive reflection mixed with a moment of minor retrieval uncertainty."
+        },
+        {
+          "id": "B",
+          "text": "Detached recollection combined with a generally neutral verbal delivery."
+        },
+        {
+          "id": "C",
+          "text": "Subtle defiance blended with an underlying hint of defensiveness."
+        },
+        {
+          "id": "D",
+          "text": "Quiet satisfaction tempered by a clear feeling of self-assurance."
+        },
+        {
+          "id": "E",
+          "text": "Mild frustration mixed with an attempt to organize a complex thought."
+        },
+        {
+          "id": "F",
+          "text": "Neutral thoughtfulness tinged with a moment of slight self-correction."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "During this interval, the person pauses her speech and looks down, which are classic non-verbal signs of internal thought or memory retrieval. Option A ('Pensive reflection mixed with a moment of minor retrieval uncertainty') accurately describes this behavior. In contrast, 'self-correction' (Option F) is a more specific interpretation that is not directly supported by the available cues."
+    },
+    {
+      "category": "Temporal-Causal Reasoning",
+      "question": "Consider the sequence of behaviors observed across the video. Which of the following best describes the causal chain linking the person's actions at different moments?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A need to regulate presentation (T1) causes internal monitoring (T2), leading to a revealing disclosure (T3)."
+        },
+        {
+          "id": "B",
+          "text": "A display of confidence (T1) is followed by a pause for emphasis (T2), concluded by an illustrative gesture (T3)."
+        },
+        {
+          "id": "C",
+          "text": "An initial display of social anxiety (T1) prompts a rehearsed point (T2), ending with a concluding gesture (T3)."
+        },
+        {
+          "id": "D",
+          "text": "A period of self-disclosure (T1) leads to distress (T2), which causes an involuntary stress-related gesture (T3)."
+        },
+        {
+          "id": "E",
+          "text": "An illustrative gesture (T1) prompts a moment of self-disclosure (T2), leading to internal self-monitoring (T3)."
+        },
+        {
+          "id": "F",
+          "text": "Self-disclosure (T1) is followed by self-monitoring (T2), prompting a re-engagement behavior to regulate presentation (T3)."
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The correct causal chain is as follows: The person engages in self-disclosure about her habits (T1: ~0-11s), which is followed by a brief pause with gaze aversion, indicating internal self-monitoring or thought (T2: ~11-13s). This is immediately followed by her re-engaging with the camera and performing a self-soothing/regulatory gesture (hair tuck) as she prepares to continue (T3: ~13-15s). \nOption D is a near-miss distractor; the temporal order is correct, but it incorrectly labels the internal monitoring as 'distress' and the gesture as 'involuntary stress-related,' which are interpretations not supported by her calm demeanor. \nOption E is a video-based distractor with a reversed temporal order. \nOption A is another distractor with reversed temporal order. \nOption B is a video-based distractor that misinterprets the causality and meaning of the behaviors (e.g., the gesture is not illustrative of the topic). \nOption C is a text-based distractor; it presents a plausible psychological sequence that does not match the observed behaviors (e.g., no clear signs of social anxiety)."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 1.1s, a region was detected in the video (x=0.238, y=0.180, w=0.544, h=0.800, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A mostly static head position with slight speech-related motion."
+        },
+        {
+          "id": "B",
+          "text": "Minor fidgeting movements being made with the person's fingers."
+        },
+        {
+          "id": "C",
+          "text": "A downward glance of the eyes that is happening during a blink."
+        },
+        {
+          "id": "D",
+          "text": "A noticeable tensing of the shoulder muscles while she is talking."
+        },
+        {
+          "id": "E",
+          "text": "A subtle, rhythmic nodding motion as if listening to someone."
+        },
+        {
+          "id": "F",
+          "text": "A slight forward lean of the torso toward the recording camera."
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The provided bounding box is large, covering the person's entire upper body from the top of her head to her waist. The most prominent action describing the posture of this entire region is the slight forward lean of her torso, as noted in the observation data. \nOption A is a near-miss distractor; the head is within the bbox and is mostly static, but this describes only a part of the region, whereas the torso lean describes the posture of the whole area. \nOption B is a video-based distractor; the finger movements occur in a small sub-region at the very bottom of the specified bbox. \nOption C is a video-based distractor; the eye glance occurs at a different time (around 3.0s) and in a different sub-region (the eyes). \nOption D is a text-based distractor; there is no mention of tense shoulder muscles in the observation data. \nOption E is a text-based distractor; the person is speaking, not listening, and is not nodding rhythmically."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "Identify the moment and location corresponding to a period of steady, neutral conversational engagement with the camera.",
+      "options": [
+        {
+          "id": "A",
+          "text": "[1.1s] x=0.31, y=0.85, w=0.49, h=0.15"
+        },
+        {
+          "id": "B",
+          "text": "[1.1s] x=0.37, y=0.08, w=0.22, h=0.12"
+        },
+        {
+          "id": "C",
+          "text": "[4.6s] x=0.37, y=0.12, w=0.25, h=0.12"
+        },
+        {
+          "id": "D",
+          "text": "[1.6s] x=0.43, y=0.32, w=0.12, h=0.09"
+        },
+        {
+          "id": "E",
+          "text": "[12.6s] x=0.28, y=0.20, w=0.19, h=0.10"
+        },
+        {
+          "id": "F",
+          "text": "[15.2s] x=0.15, y=0.17, w=0.16, h=0.35"
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The correct option is C. The observation log for [3.9s-11.1s] states gaze directed at the camera and a neutral and conversational expression. The timestamp 4.6s falls within this range, and the bounding box correctly localizes the eyes, which are the key feature for 'engagement with the camera'. Therefore, C is the correct answer. The skeleton has provided pre-built options, so the correct answer has been assigned to C according to the instructions, and I have placed it there.\nOption A is a video-based distractor; it shows the hands at the wrong time for this specific behavior. \nOption B is a video-based distractor; it shows the eyebrows at an earlier time. \nOption D is a video-based distractor; it shows the mouth during speech. While part of conversation, the 'engagement' is best captured by the eyes. \nOption E is a near-miss distractor; it correctly identifies the eyes but at the wrong time ([12.6s]), when her gaze is averted, which is the opposite of 'steady engagement'. \nOption F is a video-based distractor; it shows the hand gesture at the end of the clip."
+    },
+    {
+      "category": "Counterfactual Reasoning",
+      "question": "If the person had NOT exhibited the behavior observed around 0.0s - 12.4s, which of the following personality assessments would be MOST affected?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Conscientiousness would seem higher, as the statement supporting impulsive gratification would be absent."
+        },
+        {
+          "id": "B",
+          "text": "Openness would be rated higher, as the focus on a routine habit would no longer be a factor in the assessment."
+        },
+        {
+          "id": "C",
+          "text": "Extraversion assessment would shift, since the statement implies a change in social interaction patterns."
+        },
+        {
+          "id": "D",
+          "text": "Neuroticism would be rated higher, as the calm demeanor during the subsequent pause would seem less significant."
+        },
+        {
+          "id": "E",
+          "text": "Agreeableness would be assessed as High, as the absence of that statement would strongly imply cooperativeness."
+        },
+        {
+          "id": "F",
+          "text": "Agreeableness would be less confidently assessed as Very Low because the key evidence for prioritizing self-interest would be missing."
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The behavior in this time range is the verbal statement, 'I can just smoke whenever I want instead of waiting to see if other people had it.' This is cited in the analysis as the primary evidence for Very Low Agreeableness. Removing this statement would remove the most direct evidence for that trait assessment, making it much harder to justify the 'Very Low' score. Thus, the confidence in that assessment would be most affected. \nOption A is a near-miss distractor; the statement is also strong evidence for Low Conscientiousness. However, the 'instead of waiting for others' clause makes the interpersonal Agreeableness component slightly more direct and explicit than the impulsivity component. \nOption B is a text-based distractor; the Low Openness assessment is also based on her concrete language style and limited expression, not just this one statement. \nOption C is a text-based distractor; the Low Extraversion assessment is primarily based on non-verbal cues like vocal tone and gaze aversion, which would remain. \nOption D is a video-based distractor that creates a faulty causal link; removing the statement would not logically affect the interpretation of a later, separate behavior (the pause) in relation to Neuroticism. \nOption E is a near-miss distractor that gets the trait right but the direction wrong; the absence of negative evidence is not proof of positive evidence, so the assessment would become more uncertain, not flip to High."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [
+      {
+        "check": "B",
+        "q_idx": 2,
+        "issue": "The correct answer (F) posits 'slight self-correction', which is a specific interpretation not directly supported by the observation data. The observed behavior (pausing, looking down) is more accurately and generally described by 'minor retrieval uncertainty' as stated in option A.",
+        "action": "Changed correct_answer from F to A and added an explanation."
+      }
+    ],
+    "corrections": {
+      "mcq_questions[2].correct_answer": "A",
+      "mcq_questions[2].explanation": "During this interval, the person pauses her speech and looks down, which are classic non-verbal signs of internal thought or memory retrieval. Option A ('Pensive reflection mixed with a moment of minor retrieval uncertainty') accurately describes this behavior. In contrast, 'self-correction' (Option F) is a more specific interpretation that is not directly supported by the available cues."
+    },
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator17",
+      "version": 1,
+      "clues_total": 25,
+      "clues_correct": 21,
+      "clues_wrong_corrected": 3,
+      "clues_missing_skipped": 1,
+      "clues_bonus": 0
+    }
+  }
+}

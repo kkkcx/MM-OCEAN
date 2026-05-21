@@ -1,0 +1,338 @@
+{
+  "video_id": "0MB91ku0eEw.002.mp4",
+  "video_path": "0MB91ku0eEw.002.mp4",
+  "transcription": "Spend 5 years in training, before they can then go and practice. Property is no different; you have to spend some time training. You can either do it the easy way, which is learning from other people, learning from their mistakes, reading books and going to workshops and all that kind of thing, or you can do it the hard way ...",
+  "original_scores": {
+    "extraversion": 0.5233644859813085,
+    "agreeableness": 0.6703296703296703,
+    "conscientiousness": 0.7766990291262136,
+    "neuroticism": 0.6770833333333334,
+    "openness": 0.6
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 3.25,
+      "description": "The subject maintains direct eye contact with the camera. His eyebrows are slightly raised and his eyes are wide, creating an engaged expression as he speaks.",
+      "bboxes": [
+        {
+          "frame_time": 0,
+          "x": 0.29202302631578947,
+          "y": 0.30087718963623045,
+          "w": 0.21907894736842107,
+          "h": 0.11842105263157894,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 1.387848,
+          "x": 0.2609375,
+          "y": 0.25877192647833575,
+          "w": 0.2338815789473684,
+          "h": 0.10789473684210527,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 1.369345,
+          "x": 0.2757401315789474,
+          "y": 0.25877192647833575,
+          "w": 0.2338815789473684,
+          "h": 0.40789473684210525,
+          "note": "face human-annotated",
+          "region": "face"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 3.25,
+      "end_time": 3.75,
+      "description": "The subject briefly looks down and to his left.",
+      "bboxes": [
+        {
+          "frame_time": 3.5,
+          "x": 0.28758223684210527,
+          "y": 0.3403508738467568,
+          "w": 0.16282894736842105,
+          "h": 0.12894736842105264,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 3.75,
+      "end_time": 13.88,
+      "description": "His gaze returns to the camera, maintaining the wide-eyed, slightly raised eyebrow expression. He blinks naturally.",
+      "bboxes": [
+        {
+          "frame_time": 4.659767,
+          "x": 0.2964638157894737,
+          "y": 0.2903508738467568,
+          "w": 0.19539473684210526,
+          "h": 0.12894736842105264,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 13.88,
+      "end_time": 15.13,
+      "description": "His right eyebrow lowers slightly, and his mouth purses briefly at the end of his speech.",
+      "bboxes": [
+        {
+          "frame_time": 15.05075,
+          "x": 0.3704769736842105,
+          "y": 0.5219298212151778,
+          "w": 0.09769736842105263,
+          "h": 0.10263157894736842,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 15.13,
+      "description": "The subject is seated in the driver's seat of a car, wearing a seatbelt over his right shoulder. His posture is upright, and he faces the camera directly. His head remains relatively still, with slight, subtle nods punctuating his speech.",
+      "bboxes": [
+        {
+          "frame_time": 10.404458,
+          "x": 0.26389802631578946,
+          "y": 0.6219298212151778,
+          "w": 0.4766447368421053,
+          "h": 0.3447368421052632,
+          "note": "pose human-annotated",
+          "region": "shoulders"
+        },
+        {
+          "frame_time": 0,
+          "x": 0.18248355263157895,
+          "y": 0.3429824527941252,
+          "w": 0.5580592105263158,
+          "h": 0.6552631578947369,
+          "note": "pose human-annotated",
+          "region": "torso"
+        },
+        {
+          "frame_time": 2.63568,
+          "x": 0.2935032894736842,
+          "y": 0.08508771595201994,
+          "w": 0.28421052631578947,
+          "h": 0.6105263157894737,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 3.8,
+      "description": "Speaks at a moderate, clear pace with a neutral pitch. A brief pause occurs after the word \"training\" (00:02.1) and again after \"practice\" (00:03.8).",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 3.8,
+      "end_time": 7.3,
+      "description": "The pace remains moderate. There is a slight downward inflection on the word \"different\" and a clear pause after \"training.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 7.3,
+      "end_time": 13.9,
+      "description": "The speech rate increases slightly. He places emphasis on \"easy way.\" The pitch rises slightly on \"workshops.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 13.9,
+      "end_time": 15.13,
+      "description": "There's a distinct pause before he says \"or,\" and his pitch drops on the phrase \"hard way.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.13,
+      "description": "The subject is a man with short, dark hair, brown eyes, and a medium skin tone, sitting in the driver's seat of a car. He is wearing a light-colored, collared shirt with thin blue and white vertical stripes. The car interior features light gray leather seats and headrest, with wood-grain trim visible on the door panel. Outside the car window, a blurred background shows greenery and what appears to be a large industrial container or building wall. The lighting is diffuse and appears to be natural daylight.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 14.419408,
+      "end_time": 15.419408,
+      "description": "Nails are neatly trimmed, clean and stain-free, and in neat condition",
+      "bboxes": [
+        {
+          "frame_time": 14.919408,
+          "x": 0.03149671052631578,
+          "y": 0.8114035054257042,
+          "w": 0.20575657894736843,
+          "h": 0.1868421052631579,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Medium",
+      "score": 0.52,
+      "rationale": "The subject's Extraversion score is rated as Medium. He displays some extraverted traits, such as directly addressing a camera for a prolonged period and maintaining an upright, engaged posture, which indicates comfort with being the focus of attention. His speech is clear and deliberate. However, these are balanced by more reserved behaviors; his head remains relatively still, and his initial vocal tone is neutral rather than overtly expressive. This combination of social engagement with a controlled, less animated physical demeanor supports a mid-range score.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "High",
+      "score": 0.67,
+      "rationale": "The subject's Agreeableness is rated as High. His communication style is cooperative and aimed at being helpful. The content of his speech, which advocates for learning from others' mistakes and taking the 'easy way' through shared knowledge, reflects a prosocial and collaborative mindset. This is supported by non-verbal cues such as sustained, direct eye contact and slightly raised eyebrows, which create a focused and non-threatening expression, fostering a sense of trust and sincerity with the viewer.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "High",
+      "score": 0.78,
+      "rationale": "The subject's Conscientiousness is rated as High. This is strongly indicated by his structured and logical communication; he presents a clear premise followed by a well-defined contrast ('the easy way' vs. 'the hard way'). His speech is delivered with purposeful pauses, suggesting forethought. Furthermore, his personal presentation reflects orderliness and attention to detail, specifically the observation that his fingernails are well-groomed. His upright posture and the responsible act of wearing a seatbelt also point towards a disciplined and dutiful nature.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "High",
+      "score": 0.68,
+      "rationale": "The subject's Neuroticism is rated as High. While appearing composed, subtle signs of tension are present. The consistent, slightly raised eyebrows and focused expression can be interpreted as a state of hyper-vigilance or low-level anxiety often associated with being recorded. A more telling cue is the slight tightening of his lips as he concludes his sentence, a common non-verbal indicator of stress or repressed emotion. The framing of his message around avoiding 'mistakes' and the 'hard way' also suggests a cognitive focus on potential negative outcomes, a hallmark of neuroticism.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "High",
+      "score": 0.6,
+      "rationale": "The subject's Openness is rated as High. The core of his message is an endorsement of intellectual curiosity and learning through various means, such as 'reading books and going to workshops'. This advocacy for acquiring new knowledge is a primary indicator of Openness. He employs an analogy, comparing property training to other professions, which demonstrates a capacity for abstract thought. The act of creating and sharing this educational content itself suggests an individual who is open to new ideas and enjoys exploring intellectual concepts.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During 14.4s - 15.4s, the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "High Conscientiousness, indicating discipline and orderliness."
+        },
+        {
+          "id": "B",
+          "text": "Low Conscientiousness, suggesting a significant lack of control."
+        },
+        {
+          "id": "C",
+          "text": "High Agreeableness, suggesting strong prosocial tendencies."
+        },
+        {
+          "id": "D",
+          "text": "High Neuroticism, reflecting a pattern of nervous habits."
+        },
+        {
+          "id": "E",
+          "text": "High Openness, showing an interest in exploring new ideas."
+        },
+        {
+          "id": "F",
+          "text": "Medium Extraversion, a balance of social and reserved traits."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The behavior observed at 14.4s - 15.4s is the state of the person's fingernails, which are noted as well-groomed and neat. This attention to personal detail is a classic indicator of high Conscientiousness. \n- Option B is a near-miss distractor; it correctly identifies the personality dimension (Conscientiousness) but gets the direction wrong (Low instead of High).\n- Option C is a video-based distractor; High Agreeableness is supported by other cues in the video (cooperative speech content, direct eye contact), but not by this specific observation of grooming.\n- Option D is a text-based distractor; one might associate grooming with nervous habits (Neuroticism) in the abstract, but the visual evidence simply shows neatness, which is much stronger evidence for Conscientiousness.\n- Option E is a video-based distractor; High Openness is supported by the content of his speech about learning, an entirely different aspect of the video.\n- Option F is a text-based distractor; it provides a personality assessment from the analysis that is plausible but has no direct link to the specific visual cue of well-kept fingernails."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 1.4s, a region was detected in the video (x=0.261, y=0.259, w=0.234, h=0.108, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A subtle and sustained raising of both of the eyebrows."
+        },
+        {
+          "id": "B",
+          "text": "A brief and quick downward glance toward the right side."
+        },
+        {
+          "id": "C",
+          "text": "A final, subtle tightening of the lips at the sentence end."
+        },
+        {
+          "id": "D",
+          "text": "An upper portion of a shoulder secured by a dark seatbelt."
+        },
+        {
+          "id": "E",
+          "text": "A natural and relaxed eye blink in the middle of speaking."
+        },
+        {
+          "id": "F",
+          "text": "A slight furrowing of the brows to convey concentration."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The specified coordinates at 1.4s perfectly frame the person's eyebrows. The observation log for this period confirms that his eyebrows are slightly raised, creating a focused expression.\n- Option B is a video-based distractor; this glance occurs, but at a different time (3.5s) and in a different location (the eyes, not the eyebrows).\n- Option C is a video-based distractor; the lip tightening is a real event, but it happens at the end of the video (~15.1s) and in the mouth region.\n- Option D is a video-based distractor; the shoulder is visible, but in a completely different area of the frame.\n- Option E is a text-based distractor based on negative evidence; the AI claimed a natural blink occurred, but human verification found no such specific action.\n- Option F is a near-miss distractor; it correctly identifies the body part (brows) but describes the wrong action (furrowing instead of the observed raising)."
+    },
+    {
+      "category": "Counterfactual Reasoning",
+      "question": "If the person had NOT exhibited the behavior observed around 7.3s - 13.9s, which of the following personality assessments would be MOST affected?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Openness would decrease from High, as this segment has the primary verbal evidence for intellectual curiosity."
+        },
+        {
+          "id": "B",
+          "text": "Openness would increase from High, as removing this part would make his speech appear more direct and certain."
+        },
+        {
+          "id": "C",
+          "text": "Agreeableness would decrease from High, since this segment is the key evidence for his cooperative mindset."
+        },
+        {
+          "id": "D",
+          "text": "Conscientiousness would decrease from High, because the structured argument is key to organized thinking."
+        },
+        {
+          "id": "E",
+          "text": "Neuroticism would decrease from High, as the subtle lip tightening at the end of this period is a key stress indicator."
+        },
+        {
+          "id": "F",
+          "text": "Extraversion would increase from Medium, because omitting this detailed explanation would make him seem more dominant."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The behavior in this segment is the verbal explanation advocating for 'learning from other people... reading books and going to workshops'. The personality analysis explicitly states this is the 'primary indicator of Openness'. Removing it would eliminate the strongest evidence for that trait.\n- Option B is a near-miss distractor; it correctly identifies the trait (Openness) but proposes the wrong direction of change with flawed reasoning.\n- Option C is a text-based distractor; while the content does support Agreeableness, it's not the *primary* evidence. The Agreeableness score is also supported by non-verbal cues like sustained eye contact, so the impact would be less severe than on Openness.\n- Option D is a text-based distractor; his Conscientiousness score is also strongly supported by other cues like his neat appearance and purposeful pauses, making it less dependent on this single segment.\n- Option E is a video-based distractor; it misattributes the timing of the key evidence. The lip tightening, which supports Neuroticism, occurs after this segment (around 15.1s).\n- Option F is a text-based distractor; it proposes a plausible but incorrect causal link for a different trait. His Extraversion score is based more on his comfort in addressing the camera, not the specific content of his argument."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator10",
+      "version": 3,
+      "clues_total": 18,
+      "clues_correct": 12,
+      "clues_wrong_corrected": 2,
+      "clues_missing_skipped": 3,
+      "clues_bonus": 1
+    }
+  }
+}

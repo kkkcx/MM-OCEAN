@@ -1,0 +1,411 @@
+{
+  "video_id": "9DF_-PXbpkg.000.mp4",
+  "video_path": "9DF_-PXbpkg.000.mp4",
+  "transcription": "This camera. You know, someone else made this camera completely from scratch. This isn't a copy of another camera. There is no other camera like this out on the market, or ever has been. Obviously, this is no easy feat. I know a lot went into this-",
+  "original_scores": {
+    "extraversion": 0.6822429906542057,
+    "agreeableness": 0.868131868131868,
+    "conscientiousness": 0.7087378640776699,
+    "neuroticism": 0.7083333333333334,
+    "openness": 0.811111111111111
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 15,
+      "description": "The subject maintains a direct gaze toward the camera throughout the clip. His eyebrows are in a neutral to slightly raised position. His mouth moves naturally with his speech, with the corners slightly upturned in a conversational manner. He blinks at normal intervals. His overall facial expression is relaxed and engaged.",
+      "bboxes": [
+        {
+          "frame_time": 10.547166,
+          "x": 0.5679012345679012,
+          "y": 0.20187471073187263,
+          "w": 0.1743827160493827,
+          "h": 0.0850480109739369,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 13.021701,
+          "x": 0.5987654320987654,
+          "y": 0.15523547890745562,
+          "w": 0.14506172839506173,
+          "h": 0.07407407407407407,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 12.147347,
+          "x": 0.6064814814814815,
+          "y": 0.3116140797305009,
+          "w": 0.12191358024691358,
+          "h": 0.07956104252400549,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 15.096439,
+          "x": 0.5972222222222222,
+          "y": 0.1854138053820784,
+          "w": 0.1419753086419753,
+          "h": 0.0877914951989026,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 0,
+          "x": 0.5987654320987654,
+          "y": 0.19364425805697552,
+          "w": 0.13271604938271606,
+          "h": 0.23319615912208505,
+          "note": "face human-annotated",
+          "region": "face"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 2.97,
+      "description": "The subject holds a black, box-shaped camera in his left hand. His right hand is open and gestures toward the camera as he speaks. He sits upright, leaning slightly forward.",
+      "bboxes": [
+        {
+          "frame_time": 0.852062,
+          "x": 0.19135802469135801,
+          "y": 0.36099679577988364,
+          "w": 0.23148148148148148,
+          "h": 0.41975308641975306,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 0.852062,
+          "x": 0.5648148148148148,
+          "y": 0.6161408287016943,
+          "w": 0.24691358024691357,
+          "h": 0.3838591712983057,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 1.409244,
+          "x": 0.39351851851851855,
+          "y": 0.385688153804575,
+          "w": 0.5725308641975309,
+          "h": 0.614311846195425,
+          "note": "pose human-annotated",
+          "region": "torso"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 2.97,
+      "end_time": 5.4,
+      "description": "He brings his right hand in to hold the camera with both hands, turning it slightly in front of his chest.",
+      "bboxes": [
+        {
+          "frame_time": 4.074262,
+          "x": 0.49691358024691357,
+          "y": 0.49542752280320324,
+          "w": 0.21141975308641975,
+          "h": 0.4828532235939643,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 5.4,
+      "end_time": 8.5,
+      "description": "He lowers the camera slightly, holding it in his left hand, while his right hand moves out in an open, illustrative gesture.",
+      "bboxes": [
+        {
+          "frame_time": 7.45207,
+          "x": 0.3950617283950617,
+          "y": 0.41312299605423203,
+          "w": 0.44598765432098764,
+          "h": 0.5651577503429356,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 7.455042,
+          "x": 0.35648148148148145,
+          "y": 0.49817100702816897,
+          "w": 0.20833333333333334,
+          "h": 0.4444444444444444,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 8.5,
+      "end_time": 10.97,
+      "description": "The subject gestures with his right hand, making a small circular motion and then opening his palm. His head nods slightly for emphasis.",
+      "bboxes": [
+        {
+          "frame_time": 9.498431,
+          "x": 0.6712962962962963,
+          "y": 0.3939186064794721,
+          "w": 0.24228395061728394,
+          "h": 0.5596707818930041,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 9.942098,
+          "x": 0.6944444444444444,
+          "y": 0.6874714185508027,
+          "w": 0.2515432098765432,
+          "h": 0.31252858144919726,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 10.370137,
+          "x": 0.5370370370370371,
+          "y": 0.01806126765917031,
+          "w": 0.20987654320987653,
+          "h": 0.4663923182441701,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 10.97,
+      "end_time": 15,
+      "description": "He brings both hands back to the camera, holding it in front of his chest and turning it slowly to display its sides.",
+      "bboxes": [
+        {
+          "frame_time": 15.033615,
+          "x": 0.37962962962962965,
+          "y": 0.45153177520375193,
+          "w": 0.4104938271604938,
+          "h": 0.45816186556927296,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 15,
+      "description": "The subject speaks at a moderate, even pace in a mid-to-low pitch range. The volume is consistent. There is a slight upward pitch inflection for emphasis on words like \"completely\" (at 3.1s) and \"obviously\" (at 11.9s). The ends of declarative sentences have a slight downward inflection.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15,
+      "description": "The subject is a young adult male with light skin, short brown hair, a mustache, and a beard. He is wearing a grey and white plaid, long-sleeved, button-up shirt and a dark green baseball cap with a small rectangular logo on the front. He is in an indoor setting, likely an office or studio. Behind him to his right is a large computer monitor displaying a black-and-white photo of a person. To his left is a desk lamp with a warm orange glow and other desk items. Further right, a corkboard is visible with photos and a calendar attached. A microphone on a boom arm is visible in the upper-left of the frame. The lighting is soft and appears to be from a frontal source.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 12.469375,
+      "end_time": 13.469375,
+      "description": "Tattoo on left wrist",
+      "bboxes": [
+        {
+          "frame_time": 12.969375,
+          "x": 0.7330246913580247,
+          "y": 0.852080472048745,
+          "w": 0.09722222222222222,
+          "h": 0.14791952795125496,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "High",
+      "score": 0.68,
+      "rationale": "The subject's High Extraversion is supported by his engaging and socially confident communication style. He maintains direct, steady eye contact with the camera, indicating comfort with an audience. His speech is animated with frequent, open, and illustrative hand gestures, which serves to project social energy and expressiveness. Furthermore, his posture, sitting upright and leaning slightly forward, signals active engagement and a desire to connect with the viewer.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Very High",
+      "score": 0.87,
+      "rationale": "The Very High Agreeableness score is reflected in the subject's warm and approachable demeanor. His facial expression is consistently relaxed with a subtle, friendly smile (slightly upturned mouth corners), creating a non-threatening and trustworthy impression. His vocal tone is calm and moderate, suggesting an even-tempered nature. Crucially, his verbal content, where he praises the effort and originality of the camera's creator ('I know a lot went into this'), directly demonstrates an appreciation for others, which is a core facet of agreeableness.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "High",
+      "score": 0.71,
+      "rationale": "The subject's High Conscientiousness is evident in his organized and focused presentation. His speech is structured and clear, methodically explaining the camera's unique attributes. He maintains a focused expression and handles the object with deliberate care, suggesting a detail-oriented and dutiful nature. The orderly studio-like environment in the background, including a visible calendar on a corkboard, further points towards a preference for structure and organization.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "High",
+      "score": 0.71,
+      "rationale": "While the subject presents a calm exterior, the High Neuroticism score can be understood through behaviors indicating a carefully managed self-presentation. The highly controlled, even vocal tone and steady posture can be interpreted not just as calmness, but as a form of self-regulation to manage potential anxiety in a performance context. His detailed emphasis on the difficulty of the camera's creation ('no easy feat') may reflect an underlying anxiety about perfection and accomplishment. The constant, though controlled, hand gestures could also function as an outlet for nervous energy that is being channeled into expressive communication.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "Very High",
+      "score": 0.81,
+      "rationale": "The subject's Very High Openness is strongly indicated by his choice of topic and environment. He is passionately discussing a novel and unique piece of technology ('completely from scratch,' 'no other camera like this'), which aligns directly with a core aspect of Openness: an appreciation for new ideas, aesthetics, and originality. The studio setting, with professional equipment and personal creative touches like a black and white photograph on his monitor, suggests deep engagement in artistic or intellectual pursuits. The presence of a tattoo offers a subtle, yet consistent, clue towards a personality that embraces varied forms of self-expression.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During 11.5s - 14.5s, the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Very High Agreeableness based on the appreciation expressed for another's work."
+        },
+        {
+          "id": "B",
+          "text": "High Extraversion based on the speaker's energetic and engaging presentation."
+        },
+        {
+          "id": "C",
+          "text": "Very High Openness based on his clear interest in new and creative technology."
+        },
+        {
+          "id": "D",
+          "text": "Very Low Agreeableness based on a subtly critical tone toward the device."
+        },
+        {
+          "id": "E",
+          "text": "High Conscientiousness based on the methodical and structured explanation."
+        },
+        {
+          "id": "F",
+          "text": "Low Neuroticism based on the speaker's overall relaxed and calm demeanor."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. During this interval, the person says, 'I know a lot went into this,' which is a direct verbal expression of appreciation for the creator's effort. This prosocial statement is a strong indicator of Agreeableness. Option B is a video-based distractor; while the person is extraverted throughout, this specific moment's primary cue is verbal content related to Agreeableness, not general energy. Option C is a video-based distractor; his interest in technology supports Openness, but the specific behavior of praising effort is about Agreeableness. Option D is a near-miss distractor; it correctly identifies Agreeableness as the relevant dimension but gets the direction (high vs. low) completely wrong. Option E is a text-based distractor; a methodical explanation could relate to Conscientiousness, but the key behavior here is praise, not structure. Option F is a text-based distractor; while his demeanor is calm, the most salient behavioral cue in this segment is his verbal content, which points to Agreeableness."
+    },
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their Conscientiousness level?",
+      "options": [
+        {
+          "id": "A",
+          "text": "10.1s - 10.8s"
+        },
+        {
+          "id": "B",
+          "text": "0.5s - 1.2s"
+        },
+        {
+          "id": "C",
+          "text": "3.8s - 4.5s"
+        },
+        {
+          "id": "D",
+          "text": "7.2s - 7.9s"
+        },
+        {
+          "id": "E",
+          "text": "12.5s - 13.2s"
+        },
+        {
+          "id": "F",
+          "text": "14.3s - 15.0s"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. Around 10.4s, the person gives a slight, deliberate head nod to add emphasis to his statement. This act of punctuating a key point non-verbally supports a structured, organized, and deliberate communication style, which is characteristic of high Conscientiousness. Option B is a video-based distractor; this interval shows his initial posture and engagement, not a specific emphatic expression. Option C is a video-based distractor; at this time, he is reorienting the camera, which is a different action. Option D is a video-based distractor; here he is lowering the camera and initiating a hand gesture. Option E is a near-miss distractor; it's a period of calm, focused speech, which relates to Conscientiousness, but it lacks the specific, notable 'change' of the head nod. Option F is a video-based distractor showing him turning the camera at the end."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 15.1s, a region was detected in the video (x=0.597, y=0.185, w=0.142, h=0.088, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A normal and regular blinking pattern observed in the subject's eyes."
+        },
+        {
+          "id": "B",
+          "text": "Slightly raised and engaged eyebrows indicating his focused attention."
+        },
+        {
+          "id": "C",
+          "text": "A relaxed mouth shape with a subtle smile, conveying his friendliness."
+        },
+        {
+          "id": "D",
+          "text": "The overall focused and composed expression of the subject's full face."
+        },
+        {
+          "id": "E",
+          "text": "An expressive and open-palmed hand gesture used for illustration."
+        },
+        {
+          "id": "F",
+          "text": "A brief, momentary glance away from the camera to recall a detail."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. The specified coordinates at 15.1s precisely frame the subject's eyes. The observation log confirms that within this region, the most accurate description is a normal blinking rate, consistent with his steady gaze. Option B is a near-miss distractor; the eyebrows are located just above the target bounding box and represent a different feature. Option C is a video-based distractor; the mouth is a distinct facial region well below the specified coordinates. Option D is a video-based distractor; while the eyes are part of the face, this option describes the entire face, which is a much larger area than the small, specific bounding box provided. Option E is a video-based distractor; the hands are located in a completely different part of the video frame. Option F is a text-based distractor; it describes a plausible action for the eye region but is factually incorrect, as the subject maintains steady eye contact throughout."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "At which point does the subject deliberately reorient the object being discussed using both hands to present a new angle to the viewer?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[0.0s]  x=0.60, y=0.19, w=0.13, h=0.23"
+        },
+        {
+          "id": "B",
+          "text": "[10.5s]  x=0.57, y=0.20, w=0.17, h=0.09"
+        },
+        {
+          "id": "C",
+          "text": "[7.5s]  x=0.40, y=0.41, w=0.45, h=0.57"
+        },
+        {
+          "id": "D",
+          "text": "[1.4s]  x=0.39, y=0.39, w=0.57, h=0.61"
+        },
+        {
+          "id": "E",
+          "text": "[10.4s]  x=0.54, y=0.02, w=0.21, h=0.47"
+        },
+        {
+          "id": "F",
+          "text": "[4.1s]  x=0.50, y=0.50, w=0.21, h=0.48"
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The correct answer is F. The question asks to identify the moment and location where the subject uses both hands to reorient the camera. At 4.1s, the video shows him bringing both hands together on the camera and turning it slightly toward his chest. The bounding box [x=0.50, y=0.50, w=0.21, h=0.48] accurately captures this action. Option A points to his face at the beginning. Option B points to his eyes while he is speaking. Option C shows his hands, but one is holding the camera while the other is gesturing openly, not reorienting it with both hands. Option D frames his torso, showing posture. Option E isolates his head during a nod for emphasis."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator08",
+      "version": 1,
+      "clues_total": 18,
+      "clues_correct": 14,
+      "clues_wrong_corrected": 3,
+      "clues_missing_skipped": 0,
+      "clues_bonus": 1
+    }
+  }
+}

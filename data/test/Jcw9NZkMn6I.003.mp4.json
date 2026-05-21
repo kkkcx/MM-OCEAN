@@ -1,0 +1,448 @@
+{
+  "video_id": "Jcw9NZkMn6I.003.mp4",
+  "video_path": "Jcw9NZkMn6I.003.mp4",
+  "transcription": "Have a one page, two questions only. You just can give your quick answers there right away. You also find out a little bit more about what's been happening. Here when you follow the link here under the video, check it out here. Look here under the video. I think it's more like here.",
+  "original_scores": {
+    "extraversion": 0.5140186915887851,
+    "agreeableness": 0.6923076923076923,
+    "conscientiousness": 0.7378640776699029,
+    "neuroticism": 0.6458333333333333,
+    "openness": 0.6222222222222222
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 8.74,
+      "description": "The subject maintains direct gaze with the camera. His eyebrows are in a neutral position, raising slightly in sync with speech emphasis. His mouth moves naturally as he speaks.",
+      "bboxes": [
+        {
+          "frame_time": 0,
+          "x": 0.31790123456790126,
+          "y": 0.30246913580246915,
+          "w": 0.2037037037037037,
+          "h": 0.10973936899862825,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 0.610944,
+          "x": 0.33641975308641975,
+          "y": 0.2503429355281207,
+          "w": 0.18364197530864199,
+          "h": 0.09327846364883402,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 0.610944,
+          "x": 0.3734567901234568,
+          "y": 0.48079561042524005,
+          "w": 0.12191358024691358,
+          "h": 0.10699588477366255,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 8.74,
+      "end_time": 11.23,
+      "description": "The subject's eyebrows raise significantly as he begins to gesture. His gaze shifts downwards and to his right, following the motion of his hand.",
+      "bboxes": [
+        {
+          "frame_time": 10.602074,
+          "x": 0.36728395061728397,
+          "y": 0.28600823045267487,
+          "w": 0.18364197530864199,
+          "h": 0.09876543209876543,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 11.23,
+          "x": 0.30092592592592593,
+          "y": 0.17352537722908093,
+          "w": 0.25308641975308643,
+          "h": 0.5733882030178327,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 9.985,
+          "x": 0.07253086419753087,
+          "y": 0.011659807956104253,
+          "w": 0.25462962962962965,
+          "h": 0.299039780521262,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 11.23,
+      "end_time": 15.1,
+      "description": "His eyebrows remain raised. His gaze continues to follow his hand as it gestures, looking down and to the right, with a brief glance back towards the camera at 12.3 seconds.",
+      "bboxes": [
+        {
+          "frame_time": 13.165,
+          "x": 0.36882716049382713,
+          "y": 0.2613168724279835,
+          "w": 0.2006172839506173,
+          "h": 0.13168724279835392,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 11.624314,
+          "x": 0.3410493827160494,
+          "y": 0.35733882030178327,
+          "w": 0.2052469135802469,
+          "h": 0.13717421124828533,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 8.74,
+      "description": "The subject is seated, facing the camera. His head is mostly still. His left hand makes a small illustrative gesture at the bottom of the frame at the beginning.",
+      "bboxes": [
+        {
+          "frame_time": 0,
+          "x": 0.1882716049382716,
+          "y": 0.2558299039780521,
+          "w": 0.4506172839506173,
+          "h": 0.6282578875171467,
+          "note": "human-annotated",
+          "region": "unknown"
+        },
+        {
+          "frame_time": 0,
+          "x": 0.23148148148148148,
+          "y": 0.0720164609053498,
+          "w": 0.36882716049382713,
+          "h": 0.6776406035665294,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 0,
+          "x": 0.029320987654320986,
+          "y": 0.7606310013717421,
+          "w": 0.1867283950617284,
+          "h": 0.2393689986282579,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 8.74,
+      "end_time": 15.1,
+      "description": "The subject raises his right arm and hand, pointing down with his index finger. He repeats the downward pointing gesture multiple times, with his head tilting down and to the right to follow the motion of his hand.",
+      "bboxes": [
+        {
+          "frame_time": 10.394731,
+          "x": 0.047839506172839504,
+          "y": 0.02263374485596708,
+          "w": 0.25925925925925924,
+          "h": 0.45816186556927296,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 10.394731,
+          "x": 0.06481481481481481,
+          "y": 0.017146776406035666,
+          "w": 0.26851851851851855,
+          "h": 0.4691358024691358,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 11.527634,
+          "x": 0.3148148148148148,
+          "y": 0.09670781893004116,
+          "w": 0.2700617283950617,
+          "h": 0.7379972565157751,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 8.74,
+      "description": "Speech is delivered at a consistent conversational pace and pitch. A slight rise in pitch occurs for emphasis on the word \"only\" (at 2.1 seconds).",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 8.74,
+      "end_time": 15.1,
+      "description": "The speaker's pitch rises and pace becomes more emphatic, with stress placed on the words \"Here\" (9.0), \"link here\" (9.7), and \"check it out here\" (11.0). The pace then slows, with pauses between \"Look\" (11.7), \"here\" (12.2), and \"under the video\" (12.6).",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.1,
+      "description": "The subject is a man with short, dark hair and fair skin, wearing a black jacket over a dark t-shirt. He is in an indoor setting with light-colored walls. To his right is a large white computer monitor and a rectangular studio softbox light. A ceiling light is partially visible at the top of the frame. The video has a warm, sepia-toned color grade.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Medium",
+      "score": 0.51,
+      "rationale": "The subject's Extraversion is rated as Medium. He demonstrates social confidence by directly addressing the camera and maintaining steady eye contact initially. His vocal delivery is clear and at a conversational pace, indicating comfort in a communicative role. However, his energy level is moderate rather than highly assertive. His gestures are controlled and illustrative, serving a functional purpose rather than being broadly expressive. This balance of comfortable social engagement with a reserved, task-focused energy level is characteristic of an individual in the medium range of Extraversion, often described as an ambivert.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "High",
+      "score": 0.69,
+      "rationale": "The subject's score in the High range for Agreeableness is supported by his cooperative and helpful demeanor. He adopts a guiding, instructional tone, using phrases like 'You just can give your quick answers' to create a sense of ease. His facial expressions are neutral and open, and his direct eye contact helps to build rapport. The entire segment is aimed at assisting the viewer, a clear pro-social behavior. The absence of any impatience or condescension in his tone reinforces the impression of a cooperative and trusting individual.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "High",
+      "score": 0.74,
+      "rationale": "High Conscientiousness is evident in the subject's structured and goal-oriented communication. He presents the task with clarity and efficiency ('Have a one page, two questions only'). His speech and actions are methodical; he uses deliberate pointing gestures and repeats key directional cues ('Here', 'under the video') to ensure his instructions are understood without ambiguity. This precise, organized, and duty-focused approach to conveying information is a strong indicator of a conscientious personality.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "High",
+      "score": 0.65,
+      "rationale": "The subject's High Neuroticism score is subtly indicated by signs of self-monitoring and mild tension. A key indicator is the shift in his gaze; he breaks direct eye contact with the camera to look down and follow his own hands while gesturing. This can reflect a degree of self-consciousness or performance anxiety. Additionally, his verbal self-correction ('I think it's more like here') suggests a moment of uncertainty. The noticeable increase in vocal pitch and emphasis in the latter half could be interpreted as a manifestation of nervous energy when transitioning to a call to action, which aligns with the heightened emotional reactivity of high Neuroticism.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "High",
+      "score": 0.62,
+      "rationale": "The subject's High Openness is suggested by his engagement in a modern, communicative medium like a direct-to-camera video. This format implies a comfort with new ideas and forms of expression. He uses dynamic vocal inflections and expressive facial cues (significantly raised eyebrows for emphasis) to make his instructional message more engaging, moving beyond a purely functional delivery. His invitation for the audience to 'find out a little bit more' directly appeals to curiosity, which is a core facet of Openness to Experience.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During [11.2s - 15.1s], the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Low Agreeableness, as the self-correction might imply impatience."
+        },
+        {
+          "id": "B",
+          "text": "High Openness, given the use of expressive and dynamic gestures."
+        },
+        {
+          "id": "C",
+          "text": "High Neuroticism, because of the clear self-monitoring actions."
+        },
+        {
+          "id": "D",
+          "text": "High Conscientiousness, due to the very structured instructions."
+        },
+        {
+          "id": "E",
+          "text": "Low Neuroticism, indicating high emotional stability and poise."
+        },
+        {
+          "id": "F",
+          "text": "High Extraversion, as he is actively engaging with the audience."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. During this interval, the person's gaze follows his own hand, he looks away from the camera, and he makes a verbal self-correction ('I think it's more like here'). These are classic self-monitoring behaviors, which are strong indicators of High Neuroticism, reflecting a degree of self-consciousness or mild performance anxiety.\n- Option A is a text-based distractor. Self-correction could be interpreted as impatience, but the overall tone is helpful, not disagreeable.\n- Option B is a video-based distractor. While gestures are present, the key behaviors in this specific window (gaze aversion, self-correction) are stronger signals for Neuroticism than Openness.\n- Option D is a text-based distractor. The instructions are structured, which supports Conscientiousness, but this trait is more evident in the overall clarity of the message rather than the specific self-monitoring behaviors of this segment.\n- Option E is a near-miss distractor. It correctly identifies the relevant personality dimension (Neuroticism) but gets the direction wrong. The behaviors indicate high, not low, Neuroticism.\n- Option F is a video-based distractor. While he is engaging, the act of breaking eye contact to self-monitor in this segment is actually a counter-signal to the high social confidence often associated with High Extraversion, which was more evident in the first half of the video."
+    },
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their High Neuroticism level?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[0.0s - 2.5s]"
+        },
+        {
+          "id": "B",
+          "text": "[8.7s - 11.2s]"
+        },
+        {
+          "id": "C",
+          "text": "[11.7s - 13.0s]"
+        },
+        {
+          "id": "D",
+          "text": "[2.5s - 5.0s]"
+        },
+        {
+          "id": "E",
+          "text": "[5.5s - 8.0s]"
+        },
+        {
+          "id": "F",
+          "text": "[13.5s - 15.1s]"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. The personality analysis identifies the shift in gaze away from the camera as a key indicator of self-monitoring and High Neuroticism. The observation log states that from [8.7s - 11.2s], the subject's gaze moves down and to the left to follow his hand, marking a distinct break from the direct eye contact maintained in the first segment. This is the most notable change relevant to the trait.\n- Option A is a video-based distractor. During this time, the person maintains a steady, direct gaze with a neutral expression; no significant change occurs.\n- Option C is a near-miss distractor. A change does occur here (a brief glance back at the camera), but the primary and most significant change—the initial break in eye contact—happened earlier in the correct interval [8.7s - 11.2s].\n- Option D is a video-based distractor. Like option A, this interval is characterized by a stable, neutral expression and direct eye contact.\n- Option E is a video-based distractor. This marks the end of the first phase, where the subject is still maintaining direct eye contact before the change.\n- Option F is a video-based distractor. During this time, the person's gaze is already averted and following his hand; this represents a stable state, not the critical moment of change."
+    },
+    {
+      "category": "Temporal-Causal Reasoning",
+      "question": "Consider the sequence of behaviors observed across the video. Which of the following best describes the causal chain linking the person's actions at different moments?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A self-monitoring gaze shift leads to a goal-oriented directive, causing a gesture and the establishment of direct communication."
+        },
+        {
+          "id": "B",
+          "text": "An illustrative gesture is followed by a goal-oriented directive, which is a compensatory action for initially hesitant communication."
+        },
+        {
+          "id": "C",
+          "text": "An initial direct communication state is broken by a directive, which prompts a gesture that triggers a self-monitoring gaze shift."
+        },
+        {
+          "id": "D",
+          "text": "A goal-oriented directive prompts a self-monitoring gaze shift, which then causes the use of an illustrative gesture to re-engage."
+        },
+        {
+          "id": "E",
+          "text": "A moment of verbal hesitation prompts a compensatory physical gesture, which is then followed by a clarification for audience rapport."
+        },
+        {
+          "id": "F",
+          "text": "An initial phase of direct communication is followed by a verbal self-correction, which then triggers a series of illustrative gestures."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. The video shows a clear sequence: 1) The person starts with direct communication (steady gaze). 2) He transitions to a directive ('follow the link'). 3) This directive causes him to use an illustrative pointing gesture. 4) Performing this gesture causes him to break eye contact and look at his own hand (a self-monitoring gaze shift). This option correctly describes this causal flow.\n- Option A is a distractor with reversed temporal order. The gaze shift happens after the directive and gesture, not before.\n- Option B is a distractor with incorrect causality. The directive prompts the gesture, not the other way around. Also, the initial communication was not hesitant.\n- Option D is a near-miss distractor. It correctly links the directive to the gaze shift but incorrectly states that the gaze shift *causes* the gesture. The gesture actually occurs concurrently with or slightly before the gaze shift as part of the same action sequence prompted by the directive.\n- Option E is a text-based distractor. This describes a plausible psychological pattern but does not match the events in the video; there is no initial verbal hesitation.\n- Option F is a distractor with incorrect temporal order. The verbal self-correction ('more like here') happens near the end, long after the illustrative gestures have begun."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around [10.0s], a region was detected in the video (x=0.073, y=0.012, w=0.255, h=0.299, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The person's gaze directed downward and toward the left side."
+        },
+        {
+          "id": "B",
+          "text": "The person's eyebrows are raised in a momentary expression."
+        },
+        {
+          "id": "C",
+          "text": "A focused hand gesture, with the index finger pointing downward."
+        },
+        {
+          "id": "D",
+          "text": "The speaker's mouth is formed to articulate a specific word."
+        },
+        {
+          "id": "E",
+          "text": "The upper torso remains mostly stable, facing the camera view."
+        },
+        {
+          "id": "F",
+          "text": "A focused hand gesture, with the index finger pointing upward."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. The provided coordinates (x=0.073, y=0.012) correspond to the top-left area of the screen at 10.0s. At this exact moment, the subject's right hand is in this region, making a clear downward-pointing gesture with the index finger to illustrate where the viewer should look.\n- Options A, B, and D are video-based distractors. These actions (gaze shift, raised eyebrows, mouth moving) are happening at the same time, but they are located in different regions of the video frame (around the person's face), not within the specified top-left bounding box.\n- Option E is a text-based distractor. It describes a general state of the person's body but is not the specific, prominent action occurring within the localized region.\n- Option F is a near-miss distractor. It correctly identifies that a hand gesture is occurring in the region but incorrectly describes the direction. The finger is pointing down, not up."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "At which time and location does the person most clearly use their eyebrows to add non-verbal emphasis to their verbal instructions?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Time: 2.1s, Bbox: x=0.367, y=0.286, w=0.184, h=0.099"
+        },
+        {
+          "id": "B",
+          "text": "Time: 10.6s, Bbox: x=0.065, y=0.017, w=0.269, h=0.469"
+        },
+        {
+          "id": "C",
+          "text": "Time: 10.6s, Bbox: x=0.367, y=0.286, w=0.184, h=0.099"
+        },
+        {
+          "id": "D",
+          "text": "Time: 5.0s, Bbox: x=0.373, y=0.481, w=0.122, h=0.107"
+        },
+        {
+          "id": "E",
+          "text": "Time: 13.2s, Bbox: x=0.367, y=0.286, w=0.184, h=0.099"
+        },
+        {
+          "id": "F",
+          "text": "Time: 10.6s, Bbox: x=0.341, y=0.357, w=0.205, h=0.137"
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. The observation log states that the eyebrows are 'significantly raised' between 8.7s and 11.2s to add emphasis as he begins gesturing. The provided timestamp 10.6s falls within this range, and the bounding box (x=0.367, y=0.286...) correctly isolates the eyebrow region of his face during this peak moment of expression.\n- Option A is a video-based distractor with the correct location but wrong time. At 2.1s, his eyebrows are in a neutral position.\n- Option B is a video-based distractor with the correct time but wrong location. This bounding box corresponds to his gesturing hand, not his eyebrows.\n- Option D is a video-based distractor with the wrong time and wrong location. This is the location of his mouth during the first half of the video.\n- Option E is a near-miss distractor. At 13.2s, his eyebrows are still raised, but the most significant *change* and initial emphatic raising action occurred earlier, around 10.6s.\n- Option F is a video-based distractor with the correct time but wrong location. This bounding box isolates his eyes, which are just below the eyebrows."
+    },
+    {
+      "category": "Counterfactual Reasoning",
+      "question": "If the person had NOT exhibited the behavior observed around [8.7s - 12.0s], which of the following personality assessments would be MOST affected?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The score for Conscientiousness would be lower, as this period is essential for demonstrating his structured approach to giving directions."
+        },
+        {
+          "id": "B",
+          "text": "The rating for Extraversion would drop, as his direct and confident eye contact in that specific moment is the main support for social energy."
+        },
+        {
+          "id": "C",
+          "text": "The assessment for Neuroticism would likely decrease, as the gaze aversion during this period is a key indicator of underlying self-monitoring."
+        },
+        {
+          "id": "D",
+          "text": "The assessment for Neuroticism would likely increase, because the absence of self-monitoring would imply an over-controlled emotional state."
+        },
+        {
+          "id": "E",
+          "text": "The high score for Agreeableness would be questionable, as his cooperative demeanor is most strongly established in this specific segment."
+        },
+        {
+          "id": "F",
+          "text": "The Openness score would be less certain, since the dynamic gestures in this time frame are the primary evidence for his expressive communication."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. The behavior in this interval is the break from direct eye contact to follow his own hand, a primary indicator of self-consciousness and self-monitoring. The personality analysis explicitly links this gaze shift to the High Neuroticism score. Removing this key piece of evidence would significantly weaken the rationale for that specific assessment, likely causing the score to decrease.\n- Option A is a text-based distractor. While he is giving directions here, his Conscientiousness is also supported by his clear, methodical speech in the first half of the video, so the assessment would not be as affected.\n- Option B is a video-based distractor. The premise is false; during this interval, he is *averting* his gaze. The direct eye contact that supports Extraversion happens in the *first* segment (0-8.7s).\n- Option D is a near-miss distractor. It correctly identifies Neuroticism as the most affected trait but gets the direction of the change wrong. Removing the main evidence for a trait would cause its score to decrease, not increase.\n- Option E is a text-based distractor. His Agreeableness is demonstrated by his helpful tone throughout the entire video, not just this one segment.\n- Option F is a text-based distractor. While the gestures here support Openness, it is also supported by his engaging vocalics and the general choice to communicate via video, so the assessment is not solely dependent on this moment."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator15",
+      "version": 1,
+      "clues_total": 17,
+      "clues_correct": 15,
+      "clues_wrong_corrected": 2,
+      "clues_missing_skipped": 0,
+      "clues_bonus": 0
+    }
+  }
+}

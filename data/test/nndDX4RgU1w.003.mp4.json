@@ -1,0 +1,440 @@
+{
+  "video_id": "nndDX4RgU1w.003.mp4",
+  "video_path": "nndDX4RgU1w.003.mp4",
+  "transcription": "A big something or just anything. Go and help an animal or just anything at all. The best thing you could probably do to help animals though is to not eat meat or dairy. Why don't you just try it out someday just to be ...",
+  "original_scores": {
+    "extraversion": 0.4112149532710281,
+    "agreeableness": 0.5054945054945055,
+    "conscientiousness": 0.4854368932038835,
+    "neuroticism": 0.42708333333333337,
+    "openness": 0.5555555555555556
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 0.76,
+      "description": "The subject maintains direct eye contact with the camera with a neutral facial expression, her mouth moving as she speaks.",
+      "bboxes": [
+        {
+          "frame_time": 0.38,
+          "x": 0.43338815789473684,
+          "y": 0.2768421072708933,
+          "w": 0.21463815789473684,
+          "h": 0.12631578947368421,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 0.38,
+          "x": 0.41118421052631576,
+          "y": 0.15578947569194593,
+          "w": 0.25164473684210525,
+          "h": 0.5078947368421053,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 0.38,
+          "x": 0.46151315789473685,
+          "y": 0.4900000020077354,
+          "w": 0.13766447368421053,
+          "h": 0.10789473684210527,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 0.76,
+      "end_time": 1.34,
+      "description": "Her eyes widen and her mouth opens into a round shape, creating a surprised expression.",
+      "bboxes": [
+        {
+          "frame_time": 1.05,
+          "x": 0.4185855263157895,
+          "y": 0.268947370428788,
+          "w": 0.2042763157894737,
+          "h": 0.12631578947368421,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 1.05,
+          "x": 0.4777960526315789,
+          "y": 0.5084210546393143,
+          "w": 0.10509868421052632,
+          "h": 0.10789473684210527,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 1.34,
+          "x": 0.38898026315789475,
+          "y": 0.20578947569194592,
+          "w": 0.24572368421052632,
+          "h": 0.43157894736842106,
+          "note": "face human-annotated",
+          "region": "face"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 1.34,
+      "end_time": 12.86,
+      "description": "Her expression returns to a more neutral state, with eyebrows slightly raised as she speaks. Her gaze remains directed at the camera.",
+      "bboxes": [
+        {
+          "frame_time": 5.207965,
+          "x": 0.44967105263157897,
+          "y": 0.21894737042878804,
+          "w": 0.23092105263157894,
+          "h": 0.5052631578947369,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 5.207965,
+          "x": 0.46595394736842105,
+          "y": 0.24263158095510381,
+          "w": 0.2294407894736842,
+          "h": 0.14736842105263157,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 7.1,
+          "x": 0.4319078947368421,
+          "y": 0.39526315990247224,
+          "w": 0.20575657894736843,
+          "h": 0.12894736842105264,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 12.86,
+      "end_time": 14.01,
+      "description": "The corners of her mouth lift into a slight, brief smile as she speaks.",
+      "bboxes": [
+        {
+          "frame_time": 13.434999,
+          "x": 0.5044407894736842,
+          "y": 0.5136842125340512,
+          "w": 0.12286184210526316,
+          "h": 0.10263157894736842,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 14.01,
+      "end_time": 15.28,
+      "description": "The smile fades, and her expression returns to neutral as she concludes her sentence.",
+      "bboxes": [
+        {
+          "frame_time": 15.281688,
+          "x": 0.38898026315789475,
+          "y": 0.1531578967445775,
+          "w": 0.2501644736842105,
+          "h": 0.5236842105263158,
+          "note": "face human-annotated",
+          "region": "face"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 15.28,
+      "description": "The subject holds the camera in a selfie-style shot, causing slight, continuous shaking of the frame. She is seated or propped up in bed, with her head and upper torso visible.",
+      "bboxes": [
+        {
+          "frame_time": 2.550394,
+          "x": 0,
+          "y": 0.7610526335866827,
+          "w": 0.3315789473684211,
+          "h": 0.23684210526315788,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 2.550394,
+          "x": 0.2513157894736842,
+          "y": 0.5400000020077355,
+          "w": 0.478125,
+          "h": 0.4105263157894737,
+          "note": "pose human-annotated",
+          "region": "torso"
+        },
+        {
+          "frame_time": 2.550394,
+          "x": 0.3756578947368421,
+          "y": 0.018947370428788034,
+          "w": 0.2501644736842105,
+          "h": 0.7342105263157894,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 13.73,
+      "end_time": 14.39,
+      "description": "Her right hand briefly enters the frame from the bottom and touches her upper chest before moving out of view.",
+      "bboxes": [
+        {
+          "frame_time": 14.340909,
+          "x": 0.5370065789473685,
+          "y": 0.8321052651656301,
+          "w": 0.2042763157894737,
+          "h": 0.16578947368421051,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 0.76,
+      "description": "Speech is at a moderate pace and volume.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0.76,
+      "end_time": 1.13,
+      "description": "The word \"or\" is spoken abruptly with increased volume, higher pitch, and a sharp, breathy onset, resembling a gasp.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 1.13,
+      "end_time": 9.42,
+      "description": "The word \"or\" is spoken abruptly with increased volume, higher pitch, and a sharp, breathy onset, resembling a gasp.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 9.42,
+      "end_time": 15.28,
+      "description": "The word \"not\" is stressed with a higher pitch. The overall speaking rate increases slightly through the remainder of the clip.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.28,
+      "description": "The subject is a young woman with fair skin and dark brown hair pulled up, with a white hair accessory visible. She is wearing a light blue patterned sweater or robe. The setting is an indoor bedroom with a solid yellow wall, a wooden bed headboard, a wooden bedpost, and white pillows. A white light switch is visible on the wall. The lighting is warm and frontal.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 14.8153,
+      "end_time": 15.8153,
+      "description": "scarf around neck",
+      "bboxes": [
+        {
+          "frame_time": 15.3153,
+          "x": 0.36529605263157894,
+          "y": 0.5321052651656302,
+          "w": 0.27088815789473686,
+          "h": 0.3447368421052632,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Medium",
+      "score": 0.41,
+      "rationale": "The subject's score places her in the Medium range of Extraversion. While creating a video for an audience suggests a degree of sociability and comfort with being the focus of attention, other cues temper this. She maintains direct and steady eye contact with the camera, but her overall facial expression remains neutral for most of the duration, and her vocal delivery is at a moderate pace and volume. The lack of broad, energetic gestures or sustained expressive enthusiasm argues against a high Extraversion score, leading to a balanced, medium classification.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Medium",
+      "score": 0.51,
+      "rationale": "A Medium level of Agreeableness is strongly supported. The core content of her speech is altruistic and pro-social, centered on the theme of helping animals. This reflects the compassionate and cooperative nature associated with Agreeableness. Furthermore, she phrases her suggestion to abstain from meat and dairy not as a demand, but as a gentle encouragement ('Why don't you just try it out someday'). This non-confrontational, persuasive approach, combined with a brief, warm smile at [12.9s], aligns well with a moderately agreeable disposition.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Medium",
+      "score": 0.49,
+      "rationale": "The subject exhibits a Medium level of Conscientiousness. On one hand, her speech is structured and goal-oriented; she presents a clear call to action ('help an animal') followed by a specific, reasoned suggestion. This indicates a degree of organized thinking. On the other hand, the execution is informal. The video is shot selfie-style, resulting in a shaky frame, and the setting is a casual bedroom. This spontaneous, unpolished approach suggests a lack of meticulous planning, balancing out the evidence for a Medium rating rather than a high one.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Medium",
+      "score": 0.43,
+      "rationale": "The subject's Neuroticism is rated as Medium. While her dominant state appears calm with a moderate speaking pace, there are subtle indicators of emotional reactivity. A significant cue is the sudden, sharp, and high-pitched delivery of the word 'or' [0.8s], which breaks the otherwise steady vocal pattern and resembles a gasp. This moment of dysregulation, along with the self-conscious hand-to-chest gesture at [13.7s], suggests a level of underlying tension or self-consciousness that prevents a 'Low' rating, fitting comfortably within the Medium range.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "Medium",
+      "score": 0.56,
+      "rationale": "A Medium score for Openness is appropriate. The primary evidence lies in the content of her message. She engages with an unconventional idea—advocating for dietary change as a form of altruism—and encourages the viewer to experiment with a new experience. This reflects a willingness to consider alternative perspectives, a key facet of Openness. Her slightly raised eyebrows [1.3s-12.9s] can also suggest intellectual curiosity. However, the idea is presented in a simple, direct manner rather than a deeply abstract or philosophical one, which moderates the score to the Medium level.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During 9.4s - 15.3s, the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Medium Agreeableness, as the interactional style is persuasive not demanding."
+        },
+        {
+          "id": "B",
+          "text": "High Conscientiousness, as the speech presents a very structured argument."
+        },
+        {
+          "id": "C",
+          "text": "Low Extraversion, as the person's overall body language is quite reserved."
+        },
+        {
+          "id": "D",
+          "text": "High Agreeableness, as the brief smile shows a significant emotional warmth."
+        },
+        {
+          "id": "E",
+          "text": "Medium Neuroticism, as the vocal pitch shows some subtle fluctuations here."
+        },
+        {
+          "id": "F",
+          "text": "Low Openness, as the core message is delivered with simple communication."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. In this segment, the speaker uses gentle, persuasive language ('Why don't you just try it out someday') rather than a command, which is a key indicator of moderate Agreeableness. Option D is a near-miss distractor; while a smile is present, it's brief, and the overall evidence supports a 'Medium' rather than 'High' rating. Option C is a video-based distractor; while her body language is calm, this specific segment's content is more about social approach (Agreeableness) than energy level (Extraversion). Option E is a video-based distractor; the most significant vocal fluctuation (the gasp) occurs much earlier in the video, not in this segment. Option B is a text-based distractor; the speech has a point, but the visual context is informal, making 'High Conscientiousness' less likely. Option F is a text-based distractor; proposing an unconventional diet for altruism is evidence against, not for, Low Openness."
+    },
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their Medium Neuroticism level?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[0.8s - 1.3s]"
+        },
+        {
+          "id": "B",
+          "text": "[12.9s - 14.0s]"
+        },
+        {
+          "id": "C",
+          "text": "[1.3s - 5.2s]"
+        },
+        {
+          "id": "D",
+          "text": "[0.0s - 0.8s]"
+        },
+        {
+          "id": "E",
+          "text": "[14.0s - 15.3s]"
+        },
+        {
+          "id": "F",
+          "text": "[13.7s - 14.4s]"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. This interval captures the sudden gasp-like delivery of the word 'or', accompanied by wide eyes and a surprised expression. This brief moment of emotional dysregulation is the primary evidence supporting a Medium Neuroticism score. Option F is a near-miss distractor; the hand-to-chest gesture also supports Medium Neuroticism but is a body motion, whereas the question asks for a facial or micro-expression. Option B is a video-based distractor; this interval contains the brief smile, which is more relevant to Agreeableness. Option C is a video-based distractor; this is the period *after* the key expression, where the face is returning to neutral. Options D and E are text-based distractors, representing the neutral start and end points of the video, which a model might choose by default without identifying the specific event."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 1.3s, a region was detected in the video (x=0.389, y=0.206, w=0.246, h=0.432, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A clear and momentary expression of overt surprise."
+        },
+        {
+          "id": "B",
+          "text": "A slight frown showing focus on delivering the message."
+        },
+        {
+          "id": "C",
+          "text": "A self-conscious hand gesture toward the upper chest."
+        },
+        {
+          "id": "D",
+          "text": "A fleeting, gentle smile forming at the mouth corners."
+        },
+        {
+          "id": "E",
+          "text": "A quick return to a composed and neutral expression."
+        },
+        {
+          "id": "F",
+          "text": "A deliberate nod of the head signaling strong agreement."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. The specified bounding box at 1.3s covers the person's entire face at the exact moment she displays wide eyes and an open mouth, which corresponds to an expression of surprise following the word 'or'. Option E is a near-miss distractor; this describes the facial expression immediately *after* the moment of surprise, testing temporal precision. Option C is a video-based distractor; this hand gesture occurs, but in a different body region (lower on the screen) and at a much later time (around 14.3s). Option D is a video-based distractor; the smile also occurs, but later in the video (around 13.4s). Options B and F are text-based distractors; a frown and a nod are plausible facial actions but are not observed anywhere in the video."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "At which of the following time and location coordinates does the person make a brief, non-verbal gesture involving hand-to-torso contact?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[2.6s] x=0.38, y=0.02, w=0.25, h=0.73"
+        },
+        {
+          "id": "B",
+          "text": "[7.1s] x=0.43, y=0.40, w=0.21, h=0.13"
+        },
+        {
+          "id": "C",
+          "text": "[5.2s] x=0.45, y=0.22, w=0.23, h=0.51"
+        },
+        {
+          "id": "D",
+          "text": "[0.4s] x=0.46, y=0.49, w=0.14, h=0.11"
+        },
+        {
+          "id": "E",
+          "text": "[5.2s] x=0.47, y=0.24, w=0.23, h=0.15"
+        },
+        {
+          "id": "F",
+          "text": "[14.3s] x=0.54, y=0.83, w=0.20, h=0.17"
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The correct answer is F. This option provides the precise timestamp and bounding box that captures the person's left hand as it briefly touches her upper chest area. All other options are video-based distractors that correctly point to other features in the video but do not match the described gesture. A points to the head/upper torso region. B points to the eyes. C points to the whole face during a neutral expression. D points to the mouth area. E points to the eyebrows."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator11",
+      "version": 1,
+      "clues_total": 23,
+      "clues_correct": 19,
+      "clues_wrong_corrected": 1,
+      "clues_missing_skipped": 2,
+      "clues_bonus": 1
+    }
+  }
+}

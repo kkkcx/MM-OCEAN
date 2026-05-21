@@ -1,0 +1,351 @@
+{
+  "video_id": "8g5jPiQ6XdA.000.mp4",
+  "video_path": "8g5jPiQ6XdA.000.mp4",
+  "transcription": "... anyway, it's just a weird stretching experience. Don't take that out of context. It's really good. It's really, really good, kind of fun too.",
+  "original_scores": {
+    "extraversion": 0.5233644859813085,
+    "agreeableness": 0.5494505494505494,
+    "conscientiousness": 0.3786407766990291,
+    "neuroticism": 0.37499999999999994,
+    "openness": 0.4
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 3.3,
+      "description": "The subject gazes directly at the camera. His eyebrows are in a neutral position, and his eyes are slightly narrowed as he speaks. His mouth moves naturally with his speech.",
+      "bboxes": [
+        {
+          "frame_time": 1.65,
+          "x": 0.4028662420382166,
+          "y": 0.3392073623862405,
+          "w": 0.18789808917197454,
+          "h": 0.3821656050955414,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 6.5,
+      "end_time": 11,
+      "description": "The subject's expression returns to a neutral state. His gaze remains on the camera, and his lips press together briefly after he says \"context.\"",
+      "bboxes": [
+        {
+          "frame_time": 8.080629,
+          "x": 0.39171974522292996,
+          "y": 0.2967445173756248,
+          "w": 0.22452229299363058,
+          "h": 0.45010615711252655,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 11,
+      "end_time": 14.9,
+      "description": "As he says \"really good,\" the corners of his mouth pull up into a smile. The smile broadens, causing his cheeks to raise and the skin around his eyes to crinkle. He maintains the smile until the end of the clip.",
+      "bboxes": [
+        {
+          "frame_time": 14.9,
+          "x": 0.44904458598726116,
+          "y": 0.21748054002247544,
+          "w": 0.1751592356687898,
+          "h": 0.45010615711252655,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 3.5,
+      "description": "The subject sits upright, facing the camera with his head and shoulders mostly still.",
+      "bboxes": [
+        {
+          "frame_time": 1.828827,
+          "x": 0.31210191082802546,
+          "y": 0.2259731090245986,
+          "w": 0.4570063694267516,
+          "h": 0.7740268909754013,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 3.5,
+      "end_time": 5.8,
+      "description": "The subject's hands rise from below the frame. He makes a symmetrical, open-handed gesture, moving his hands apart and then back toward each other.",
+      "bboxes": [
+        {
+          "frame_time": 3.926824,
+          "x": 0.22929936305732485,
+          "y": 0.6817409788052072,
+          "w": 0.4840764331210191,
+          "h": 0.31825902119479277,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 5.8,
+      "end_time": 11.5,
+      "description": "His hands lower back out of the frame. His head remains relatively still, with only minor movements.",
+      "bboxes": [
+        {
+          "frame_time": 6.602294,
+          "x": 0.17834394904458598,
+          "y": 0.789313519498767,
+          "w": 0.554140127388535,
+          "h": 0.21068648050123295,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 11.5,
+      "end_time": 14.9,
+      "description": "The subject's hands rise slightly back into the frame, moving together. He performs two small, quick nods. His shoulders rise slightly as he smiles.",
+      "bboxes": [
+        {
+          "frame_time": 12.066661,
+          "x": 0.21019108280254778,
+          "y": 0.6307855647924684,
+          "w": 0.5923566878980892,
+          "h": 0.3692144352075316,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 6.1,
+      "description": "The subject speaks at a moderate pace. Pitch rises slightly on the word \"weird\" and falls at the end of the sentence.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 6.1,
+      "end_time": 8.7,
+      "description": "The speech rate increases and the volume lowers slightly for the phrase, \"Don't take that out of context.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 8.7,
+      "end_time": 11.5,
+      "description": "Following a brief pause, the speech returns to a moderate pace and volume, with a falling pitch on \"good.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 11.5,
+      "end_time": 14.9,
+      "description": "The phrase \"really, really good\" is delivered with a slightly higher pitch, a slower tempo, and a more melodic intonation. The voice becomes slightly breathy on \"fun too,\" ending with the sound of a soft chuckle.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 14.9,
+      "description": "The subject is a light-skinned young man with brown hair and a full beard. He is wearing a dark gray-green crewneck sweatshirt. The background wall is covered with gray, rectangular acoustic foam panels arranged in an alternating vertical and horizontal pattern. A wooden trim piece is visible at the bottom of the wall. The scene is lit with even, frontal lighting.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Medium",
+      "score": 0.52,
+      "rationale": "The subject's score indicates a Medium level of Extraversion, reflecting a balance between social engagement and reserve. His willingness to speak directly to a camera and use open-handed gestures suggests social confidence. The broad, genuine smile at the end, which engages the muscles around the eyes, along with a light chuckle, signals positive affect and social warmth. However, his periods of physical stillness and moderate vocal pace, rather than constant high energy, temper the assessment, aligning well with an ambiverted or moderately extraverted profile.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Medium",
+      "score": 0.55,
+      "rationale": "A Medium level of Agreeableness is supported by the subject's clear efforts to maintain social harmony. After making a potentially ambiguous statement, he quickly interjects with, \"Don't take that out of context,\" speaking more quickly and quietly. This immediate clarification shows a concern for others' perceptions and a desire to avoid misunderstanding. This cooperative impulse, combined with warm vocal tones and an affirming smile and nod when describing something as 'good,' points to a moderately agreeable nature that values positive social interaction.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Low",
+      "score": 0.38,
+      "rationale": "The subject's Low score in Conscientiousness is evidenced by his spontaneous and relatively unplanned communication style. His verbal slip-up ('weird stretching experience') followed by a necessary clarification suggests a lack of self-editing and forethought, which is characteristic of lower conscientiousness. While the organized acoustic panels in the background might suggest a baseline of orderliness, his in-the-moment behavior reflects more flexibility and spontaneity over careful, deliberate speech.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Low",
+      "score": 0.37,
+      "rationale": "The subject exhibits a Low level of Neuroticism, indicating emotional stability. This is most apparent in his reaction to his own potentially awkward comment. Instead of showing anxiety or becoming flustered, he handles the moment calmly with a quick clarification and smoothly transitions back to a positive tone. His overall demeanor is relaxed, with a stable posture, a lack of nervous fidgeting, and a controlled vocal delivery. The clip concludes with a relaxed smile and chuckle, further supporting a low propensity for negative emotions like stress or embarrassment.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "Medium",
+      "score": 0.4,
+      "rationale": "The subject's Medium score for Openness is suggested by his appraisal of a novel activity. By describing a 'weird stretching experience' as not only 'really good' but also 'kind of fun,' he demonstrates a positive attitude towards unconventional experiences. Furthermore, the background of acoustic foam panels hints at an engagement with creative or technical hobbies like audio recording or streaming. His use of melodic intonation to add emphasis also reflects an appreciation for aesthetic and expressive communication, aligning with a moderate level of openness.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During [6.1s - 8.7s], the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Medium level of Agreeableness, demonstrating social awareness."
+        },
+        {
+          "id": "B",
+          "text": "High level of Extraversion, reflecting positive social energy."
+        },
+        {
+          "id": "C",
+          "text": "Low level of Neuroticism, showing his notable emotional calm."
+        },
+        {
+          "id": "D",
+          "text": "High level of Agreeableness, promoting direct social harmony."
+        },
+        {
+          "id": "E",
+          "text": "Low level of Conscientiousness, based on spontaneous speech."
+        },
+        {
+          "id": "F",
+          "text": "High level of Openness, embracing many unconventional ideas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. During this interval, the subject says, 'Don't take that out of context,' which is a direct attempt to manage the listener's perception and maintain social harmony. The personality analysis explicitly links this clarification to a Medium level of Agreeableness.\n\n- Option B is a video-based distractor. The evidence for Extraversion (broad smile, chuckle) comes from a different time segment, specifically [11.0s - 14.9s].\n- Option C is a video-based distractor. While his calm handling of the situation is evidence for Low Neuroticism, the primary trait demonstrated by the *act of clarification itself* is a concern for social perception, which is Agreeableness.\n- Option D is a near-miss distractor. It correctly identifies Agreeableness but assigns a 'High' level. The behavior is more corrective and harmony-maintaining (Medium) than proactively and effusively prosocial (High).\n- Option E is a text-based distractor. The need for clarification arose from his earlier spontaneous comment (evidence for Low Conscientiousness), but the question asks about the behavioral pattern *during* the clarification, which itself demonstrates Agreeableness.\n- Option F is a text-based distractor. Openness is linked to his positive appraisal of a 'weird' experience, a different aspect of his speech that occurred before this time segment."
+    },
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their Agreeableness level?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[11.0s - 12.0s]"
+        },
+        {
+          "id": "B",
+          "text": "[0.5s - 1.5s]"
+        },
+        {
+          "id": "C",
+          "text": "[3.8s - 4.8s]"
+        },
+        {
+          "id": "D",
+          "text": "[6.8s - 7.8s]"
+        },
+        {
+          "id": "E",
+          "text": "[8.5s - 9.5s]"
+        },
+        {
+          "id": "F",
+          "text": "[13.5s - 14.5s]"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. The analysis notes that a warm, affirming smile supports a moderately agreeable nature. The observation log states that at 11.0s, the corners of his mouth pull up into a smile, marking the beginning of this key expressive change.\n\n- Option B is a video-based distractor. During this interval, the person's expression is neutral as he begins speaking.\n- Option C is a video-based distractor. This interval occurs during his large hand gesture, but his facial expression remains relatively stable and neutral.\n- Option D is a near-miss distractor. At this time, his lips press together briefly after his clarification. This is a subtle change, but the onset of the broad, affiliative smile starting at 11.0s is a more significant and relevant indicator for Agreeableness.\n- Option E is a video-based distractor. His expression is neutral during this period, with no significant changes occurring.\n- Option F is a near-miss distractor. At this time, the smile is already fully formed and being held. The question asks for the interval where a notable *change* occurs, which is the onset of the expression, not the holding phase."
+    },
+    {
+      "category": "Mixed Emotion Discrimination",
+      "question": "During [11.5s - 14.9s], the person's emotional state is best characterized as which of the following? Consider both verbal and non-verbal cues.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Genuine amusement tempered by a bit of self-awareness."
+        },
+        {
+          "id": "B",
+          "text": "Simple joy mixed with a feeling of outward enthusiasm."
+        },
+        {
+          "id": "C",
+          "text": "Pleased satisfaction mixed with confident assertion."
+        },
+        {
+          "id": "D",
+          "text": "Social relief mixed with a gesture of appeasement."
+        },
+        {
+          "id": "E",
+          "text": "Calm contentment tempered by some thoughtful reflection."
+        },
+        {
+          "id": "F",
+          "text": "Wistful nostalgia mixed with quiet self-acceptance."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. In this segment, the subject smiles broadly, chuckles, and describes the experience as 'really good' and 'fun'. This reflects genuine amusement. The 'self-awareness' component acknowledges the context of his preceding 'weird' comment and clarification, adding a layer of nuance to the simple positive emotion.\n\n- Option B is a near-miss distractor. While 'simple joy' is close, it misses the reflective nuance of the moment. 'Outward enthusiasm' is also slightly too strong for his relaxed smile and soft chuckle.\n- Option C is a near-miss distractor. 'Pleased satisfaction' is accurate, but 'confident assertion' does not fit the gentle, breathy vocal quality and soft laugh.\n- Option D is a text-based distractor. This emotion is more relevant to the preceding time segment [6.1s - 8.7s], where he clarifies his statement. A model might incorrectly infer that the final smile is a result of relief from that moment, but the immediate verbal and nonverbal cues point to amusement about the topic itself.\n- Option E is a video-based distractor. While his overall demeanor is calm, 'calm contentment' is too passive. His expression, with the Duchenne smile and chuckle, is more active and amused than simply content. This better describes his neutral state before the smile.\n- Option F is a text-based distractor. This is a plausible-sounding compound emotion but has no basis in the video's content, which is about a recent experience, not a past memory."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around [6.6s], a region was detected in the video (x=0.178, y=0.789, w=0.554, h=0.211, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hands lowering down and out of the camera's view."
+        },
+        {
+          "id": "B",
+          "text": "Hands rising slightly with an affirming head nod."
+        },
+        {
+          "id": "C",
+          "text": "A broad, genuine smile engaging the eye muscles."
+        },
+        {
+          "id": "D",
+          "text": "A symmetrical and open-handed illustrative gesture."
+        },
+        {
+          "id": "E",
+          "text": "A direct, focused, and steady gaze at the camera."
+        },
+        {
+          "id": "F",
+          "text": "An upright posture with the head and shoulders still."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. The specified bounding box at 6.6s is located in the lower portion of the frame. According to the observation log for [5.8s - 11.5s], this is precisely where and when his hands are lowering back out of the frame after making a gesture.\n\n- Option B is a video-based distractor. This action occurs later in the video, around [11.5s - 14.9s].\n- Option C is a near-miss distractor. A smile occurs, but it is in the facial region (a different spatial location) and happens later, from [11.0s - 14.9s].\n- Option D is a video-based distractor. The symmetrical open-handed gesture occurs earlier, from [3.5s - 5.8s].\n- Option E is a near-miss distractor. This describes his facial expression, which is happening at the same time but is located in a different spatial region (the face, not the lower frame).\n- Option F is a text-based distractor. While his posture is generally upright, the specific bounding box isolates the dynamic action of his hands, not his static torso posture."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator11",
+      "version": 1,
+      "clues_total": 13,
+      "clues_correct": 12,
+      "clues_wrong_corrected": 0,
+      "clues_missing_skipped": 1,
+      "clues_bonus": 0
+    }
+  }
+}

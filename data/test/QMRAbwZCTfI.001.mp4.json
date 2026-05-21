@@ -1,0 +1,331 @@
+{
+  "video_id": "QMRAbwZCTfI.001.mp4",
+  "video_path": "QMRAbwZCTfI.001.mp4",
+  "transcription": "Or just watching my videos. In this video, I'm going to share with you some of the tips I've gathered throughout the years. I wish someone would have outlined all these for me, but now that I have a job, I can share them with you, so--",
+  "original_scores": {
+    "extraversion": 0.33644859813084116,
+    "agreeableness": 0.3736263736263736,
+    "conscientiousness": 0.3883495145631068,
+    "neuroticism": 0.42708333333333337,
+    "openness": 0.5111111111111111
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 15.53,
+      "description": "The subject maintains a direct gaze at the camera with a neutral, engaged expression. His eyebrows raise slightly at 00:04 and 00:12 during moments of emphasis. A very brief, subtle smile forms as he says \"now that I have a job\" around 00:12. He blinks at a natural rate throughout the clip.",
+      "bboxes": [
+        {
+          "frame_time": 0.841738,
+          "x": 0.6532072368421052,
+          "y": 0.31140350542570416,
+          "w": 0.2338815789473684,
+          "h": 0.11052631578947368,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 12.080164,
+          "x": 0.6073190789473685,
+          "y": 0.25087718963623046,
+          "w": 0.2960526315789474,
+          "h": 0.11315789473684211,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 12.407155,
+          "x": 0.7064967105263158,
+          "y": 0.4956140317414936,
+          "w": 0.14358552631578947,
+          "h": 0.1394736842105263,
+          "note": "human-annotated",
+          "region": "unknown"
+        },
+        {
+          "frame_time": 12.407155,
+          "x": 0.7035361842105263,
+          "y": 0.5008771896362305,
+          "w": 0.16726973684210528,
+          "h": 0.15263157894736842,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 4.575599,
+          "x": 0.6694901315789473,
+          "y": 0.3140350843730726,
+          "w": 0.23240131578947368,
+          "h": 0.08947368421052632,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 15.53,
+      "description": "The subject is seated in the driver's seat of a car, facing forward. His posture is upright and his head remains mostly stationary, with very slight, subtle movements that correspond with his speech patterns.",
+      "bboxes": [
+        {
+          "frame_time": 0.90788,
+          "x": 0.548108552631579,
+          "y": 0.2429824527941252,
+          "w": 0.44259868421052634,
+          "h": 0.7263157894736842,
+          "note": "human-annotated",
+          "region": "unknown"
+        },
+        {
+          "frame_time": 0.90788,
+          "x": 0.5170230263157894,
+          "y": 0.4956140317414936,
+          "w": 0.48297697368421055,
+          "h": 0.5,
+          "note": "pose human-annotated",
+          "region": "torso"
+        },
+        {
+          "frame_time": 2.681308,
+          "x": 0.6443256578947368,
+          "y": 0.13771929489938836,
+          "w": 0.26200657894736845,
+          "h": 0.5868421052631579,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 15.53,
+      "description": "The subject speaks at a moderate and consistent pace in a clear, mid-range pitch. There is a slight rise in pitch for emphasis on the phrases \"share with you\" (00:04) and \"have a job\" (00:12). The volume is stable. A soft, audible inhalation occurs at 00:15.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.53,
+      "description": "The subject is a young East Asian male with short, dark hair, wearing a black t-shirt. He is inside a vehicle with a dark gray interior. Through the rear window, a bright, sunlit exterior is visible, showing other cars, trees, and a distant landscape. From 00:02 to 00:07, a white text overlay titled 'Outline' with a bulleted list is present on the left side of the screen.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Low",
+      "score": 0.34,
+      "rationale": "The subject's Extraversion is rated Low. This is consistent with his reserved and controlled demeanor. His vocal delivery is moderate and consistent, lacking the high energy, rapid pace, or significant volume variations often associated with high extraversion. Physically, his presence is contained, with a mostly still head and subtle movements. While he makes direct eye contact, his facial expression is largely neutral, marked by only a very brief and subtle smile, suggesting a more introverted, less outwardly expressive style.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Low",
+      "score": 0.37,
+      "rationale": "The subject's Agreeableness is rated Low, which is reflected in his task-oriented and emotionally reserved communication. His vocal tone is clear and functional rather than warm or overtly friendly. The predominant facial expression is neutral and engaged, and the single observed smile is minimal and brief, appearing as a self-contained reaction rather than a broad expression of warmth towards the audience. This suggests a more detached, matter-of-fact approach to interaction, prioritizing information over emotional connection.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Low",
+      "score": 0.39,
+      "rationale": "The subject's Conscientiousness is rated Low. Although creating an informational video with an on-screen outline points to some degree of organization, the overall presentation suggests a lack of meticulous preparation. The choice to film in an informal setting like a car implies convenience over a carefully planned environment. His speech is clear but direct and simple, without the elaborate structure that might signal diligent preparation. This combination points towards a more casual and less disciplined approach, consistent with a lower score.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Medium",
+      "score": 0.43,
+      "rationale": "The subject's Neuroticism is rated Medium, indicating a balance between composure and subtle tension. Outwardly, he appears calm, with a steady vocal pace, stable volume, and natural blinking. However, his upright posture could be interpreted as a form of stiffness or guardedness. The highly controlled, neutral expression with minimal emotional display can be a strategy for managing internal emotional states. This self-contained presentation, where emotions are managed rather than freely expressed, aligns well with a moderate level of Neuroticism.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "Medium",
+      "score": 0.51,
+      "rationale": "The subject's Openness is rated Medium. He demonstrates an interest in sharing ideas and knowledge by creating an informational video, which aligns with this trait. However, the subject matter—job tips—is practical and conventional. His communication style is direct and factual, avoiding abstract concepts, creative language, or imaginative expression. This blend of being open to the act of sharing intellectual content while presenting it in a conventional and grounded manner supports a mid-range score for Openness.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During [1.0s - 14.0s], the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "High Conscientiousness, evident from the well-structured and organized delivery"
+        },
+        {
+          "id": "B",
+          "text": "High Extraversion, reflected in the dynamic and energetic speech style used"
+        },
+        {
+          "id": "C",
+          "text": "High Agreeableness, demonstrated by the warm and inviting conversational tone"
+        },
+        {
+          "id": "D",
+          "text": "High Openness, indicated by the creative and abstract nature of the content"
+        },
+        {
+          "id": "E",
+          "text": "High Neuroticism, shown by the frequent nervous gestures and vocal fillers"
+        },
+        {
+          "id": "F",
+          "text": "Low Extraversion, characterized by a reserved demeanor and moderate vocal energy"
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The person's consistent reserved demeanor, moderate and controlled vocal delivery, and minimal expressive range strongly support an assessment of Low Extraversion. The behavior is contained rather than outwardly energetic. Option A is a text-based distractor; while he has an on-screen outline, the informal car setting is evidence against high conscientiousness. Option B is a near-miss distractor, as it correctly identifies the relevant dimension (Extraversion) but gets the direction wrong. Option C is a text-based distractor; sharing tips sounds agreeable, but his tone is functional, not warm. Option D is a video-based distractor; he is sharing information (related to Openness), but the topic is practical (job tips), not abstract or creative. Option E is a text-based distractor, as he does not exhibit nervous gestures or vocal fillers."
+    },
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their overall expressive style?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[0.5s - 1.2s]"
+        },
+        {
+          "id": "B",
+          "text": "[3.8s - 4.5s]"
+        },
+        {
+          "id": "C",
+          "text": "[6.7s - 7.4s]"
+        },
+        {
+          "id": "D",
+          "text": "[9.1s - 9.8s]"
+        },
+        {
+          "id": "E",
+          "text": "[14.5s - 15.2s]"
+        },
+        {
+          "id": "F",
+          "text": "[12.1s - 12.8s]"
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The interval [12.1s - 12.8s] captures the very brief and subtle smile that appears when the person says, 'now that I have a job.' This is the most significant deviation from his otherwise neutral expression and is key to understanding his controlled emotional display. Option A is a video-based distractor, showing his initial neutral expression. Option B is a near-miss distractor; it corresponds to an eyebrow raise for emphasis, which is a facial movement, but the smile is a more significant emotional expression. Options C and D are video-based distractors pointing to moments of neutral expression. Option E is a video-based distractor capturing the end of his speech before he takes a breath."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around [12.4s], a region was detected in the video (x=0.704, y=0.501, w=0.167, h=0.153, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A neutral and engaged stare toward the camera"
+        },
+        {
+          "id": "B",
+          "text": "An upright and controlled posture of the torso"
+        },
+        {
+          "id": "C",
+          "text": "A wide, pronounced grin showing clear happiness"
+        },
+        {
+          "id": "D",
+          "text": "A slight frown indicating a moment of concern"
+        },
+        {
+          "id": "E",
+          "text": "A natural blinking motion of the eyelids"
+        },
+        {
+          "id": "F",
+          "text": "A brief and subtle smile forming at the lips"
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The provided coordinates at 12.4s precisely frame the person's mouth area. At this exact moment, he displays a very brief and subtle smile. Options A, B, and E are video-based distractors; these actions (staring, upright posture, blinking) are occurring at the same time but in different spatial regions (eyes, torso, eyes respectively), testing spatial attention. Option C is a near-miss distractor; it correctly identifies the action as a smile but incorrectly describes its intensity as 'wide' and 'pronounced' when it is actually minimal. Option D is a text-based distractor that describes a plausible but incorrect expression."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "The person non-verbally emphasizes a point using a distinct facial movement. At which time and location does this specific emphatic expression occur?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Timestamp: 0.8s, Bbox: {x:0.65, y:0.31, w:0.23, h:0.11}"
+        },
+        {
+          "id": "B",
+          "text": "Timestamp: 12.4s, Bbox: {x:0.70, y:0.50, w:0.17, h:0.15}"
+        },
+        {
+          "id": "C",
+          "text": "Timestamp: 8.0s, Bbox: {x:0.61, y:0.25, w:0.30, h:0.11}"
+        },
+        {
+          "id": "D",
+          "text": "Timestamp: 12.1s, Bbox: {x:0.70, y:0.50, w:0.17, h:0.15}"
+        },
+        {
+          "id": "E",
+          "text": "Timestamp: 12.1s, Bbox: {x:0.61, y:0.25, w:0.30, h:0.11}"
+        },
+        {
+          "id": "F",
+          "text": "Timestamp: 4.6s, Bbox: {x:0.67, y:0.31, w:0.23, h:0.09}"
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The person emphasizes his point with a slight eyebrow raise. This occurs at 12.1s in the region corresponding to the eyebrows, which is correctly identified by this timestamp and bounding box. Option A is a video-based distractor pointing to his neutral eye expression at the start. Option B is a video-based distractor pointing to the subtle smile, which is an emotional expression, not an emphatic one. Option C is a near-miss distractor with the correct location (eyebrows) but an incorrect time. Option D is a near-miss distractor with the correct time but the wrong location (mouth area). Option F is a video-based distractor pointing to a moment of blinking."
+    },
+    {
+      "category": "Counterfactual Reasoning",
+      "question": "If the person had NOT exhibited the behavior observed around [12.0s - 13.0s], which of the following personality assessments would be MOST affected?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Openness would decrease because this behavior is a key indicator of his willingness to share personal feelings and be vulnerable with the audience, a core aspect of that trait."
+        },
+        {
+          "id": "B",
+          "text": "Conscientiousness would increase, as the behavior seems like an unplanned emotional leak in an otherwise very structured and well-prepared informational presentation."
+        },
+        {
+          "id": "C",
+          "text": "Agreeableness would be rated higher, as the behavior is a self-contained reaction that detracts from a professional and direct focus on the audience's needs and interests."
+        },
+        {
+          "id": "D",
+          "text": "Extraversion would be rated much lower, as this is the primary demonstration of social engagement and positive energy toward the audience, setting the overall relational tone."
+        },
+        {
+          "id": "E",
+          "text": "Neuroticism would be assessed as higher, since its absence would suggest a greater level of emotional suppression and guardedness across the entire video presentation."
+        },
+        {
+          "id": "F",
+          "text": "Agreeableness might be rated even lower because this moment provides the only, albeit subtle, display of positive social warmth in an otherwise purely functional delivery."
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The behavior in this interval is the subtle smile, the only indicator of positive warmth in the clip. The Low Agreeableness score is based on a task-oriented, non-warm delivery. Removing this single, minimal smile would eliminate the only piece of counter-evidence, likely making the Agreeableness assessment even lower. Option A is a text-based distractor; Openness is tied to sharing ideas, not this single emotional expression. Option B is a video-based distractor; Conscientiousness is assessed based on the informal setting, which is unaffected by the smile. Option C is a near-miss distractor; it correctly identifies the trait (Agreeableness) but reasons in the wrong direction. Option D is a near-miss distractor; while the smile is a social cue, the Low Extraversion score is more robustly supported by his overall low energy, vocal tone, and contained posture, so removing the smile would have a smaller effect here than on Agreeableness. Option E is a text-based distractor; while plausible, the Neuroticism score is also based on posture and overall control, making the impact on Agreeableness more direct and significant."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator17",
+      "version": 1,
+      "clues_total": 10,
+      "clues_correct": 10,
+      "clues_wrong_corrected": 0,
+      "clues_missing_skipped": 0,
+      "clues_bonus": 0
+    }
+  }
+}

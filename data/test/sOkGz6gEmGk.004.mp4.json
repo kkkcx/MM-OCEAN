@@ -1,0 +1,490 @@
+{
+  "video_id": "sOkGz6gEmGk.004.mp4",
+  "video_path": "sOkGz6gEmGk.004.mp4",
+  "transcription": "I guess. Hold on. See, this is what happens, then it derails the stream. I'm going to try muting the mic, then maybe that will reset it. Hold on.",
+  "original_scores": {
+    "extraversion": 0.4112149532710281,
+    "agreeableness": 0.5714285714285714,
+    "conscientiousness": 0.6019417475728155,
+    "neuroticism": 0.46875,
+    "openness": 0.5444444444444444
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 3.6,
+      "description": "Gaze is directed at the camera. Eyebrows are in a neutral to slightly lowered position. The mouth moves naturally with speech.",
+      "bboxes": [
+        {
+          "frame_time": 0.052159,
+          "x": 0.42154605263157896,
+          "y": 0.49263158095510384,
+          "w": 0.17911184210526315,
+          "h": 0.0868421052631579,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 1.09534,
+          "x": 0.38009868421052634,
+          "y": 0.4268421072708933,
+          "w": 0.28421052631578947,
+          "h": 0.08157894736842106,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 1.820983,
+          "x": 0.4274671052631579,
+          "y": 0.6084210546393144,
+          "w": 0.0725328947368421,
+          "h": 0.11315789473684211,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 3.6,
+      "end_time": 7,
+      "description": "Eyebrows raise slightly and his mouth opens wider as he speaks, adding emphasis to his words. His gaze remains fixed on the camera.",
+      "bboxes": [
+        {
+          "frame_time": 4.2075,
+          "x": 0.38898026315789475,
+          "y": 0.4005263177972091,
+          "w": 0.13914473684210527,
+          "h": 0.060526315789473685,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 5.650568,
+          "x": 0.4452302631578947,
+          "y": 0.4663157914814196,
+          "w": 0.10213815789473685,
+          "h": 0.15789473684210525,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 6.346022,
+          "x": 0.3949013157894737,
+          "y": 0.30842105463931435,
+          "w": 0.15838815789473684,
+          "h": 0.09736842105263158,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 7,
+      "end_time": 11.3,
+      "description": "The facial expression returns to a neutral state, with eyebrows relaxed and normal mouth movements during speech.",
+      "bboxes": [
+        {
+          "frame_time": 7.058863,
+          "x": 0.3504934210526316,
+          "y": 0.25842105463931436,
+          "w": 0.1805921052631579,
+          "h": 0.5052631578947369,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 10.310113,
+          "x": 0.37417763157894735,
+          "y": 0.3847368441129986,
+          "w": 0.15986842105263158,
+          "h": 0.06842105263157895,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 11.3,
+      "end_time": 15.15,
+      "description": "The subject's facial muscles become completely still. His mouth is closed in a neutral line and his eyes maintain a fixed forward gaze. He blinks once slowly around 13.9 seconds.",
+      "bboxes": [
+        {
+          "frame_time": 14.571629,
+          "x": 0.36233552631578947,
+          "y": 0.187368423060367,
+          "w": 0.1998355263157895,
+          "h": 0.5657894736842105,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 12.485,
+          "x": 0.40230263157894736,
+          "y": 0.605789475691946,
+          "w": 0.11842105263157895,
+          "h": 0.09210526315789473,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 13.493537,
+          "x": 0.3815789473684211,
+          "y": 0.437368423060367,
+          "w": 0.1924342105263158,
+          "h": 0.08157894736842106,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 4.6,
+      "description": "The subject is seated in a high-back chair, facing the camera. His head and upper torso are mostly stationary.",
+      "bboxes": [
+        {
+          "frame_time": 1.568258,
+          "x": 0.38453947368421054,
+          "y": 0.15578947569194593,
+          "w": 0.22351973684210527,
+          "h": 0.6236842105263158,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 3.408161,
+          "x": 0.33865131578947366,
+          "y": 0.19526315990247226,
+          "w": 0.26200657894736845,
+          "h": 0.631578947368421,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 4.6,
+      "end_time": 6.8,
+      "description": "He raises both hands into the lower third of the frame, making open-palmed, symmetrical gestures outward and inward as he speaks.",
+      "bboxes": [
+        {
+          "frame_time": 5.865717,
+          "x": 0.3105263157894737,
+          "y": 0.8189473704287881,
+          "w": 0.3804276315789474,
+          "h": 0.17894736842105263,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 6.8,
+      "end_time": 11.3,
+      "description": "His hands are lowered out of view, and he returns to a still, seated posture.",
+      "bboxes": [
+        {
+          "frame_time": 10.40943,
+          "x": 0.3815789473684211,
+          "y": 0.4215789493761565,
+          "w": 0.17319078947368421,
+          "h": 0.07894736842105263,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 10.40943,
+          "x": 0.2542763157894737,
+          "y": 0.5768421072708932,
+          "w": 0.5018092105263158,
+          "h": 0.42105263157894735,
+          "note": "pose human-annotated",
+          "region": "torso"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 11.3,
+      "end_time": 15.15,
+      "description": "The subject becomes completely motionless, holding his head and posture still in the chair.",
+      "bboxes": [
+        {
+          "frame_time": 12.954491,
+          "x": 0.3223684210526316,
+          "y": 0.19526315990247226,
+          "w": 0.35526315789473684,
+          "h": 0.7289473684210527,
+          "note": "human-annotated",
+          "region": "unknown"
+        },
+        {
+          "frame_time": 12.954491,
+          "x": 0.37417763157894735,
+          "y": 0.13210526516563015,
+          "w": 0.2205592105263158,
+          "h": 0.7131578947368421,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0.5,
+      "end_time": 2.7,
+      "description": "Speaks at a moderate pace with a relatively even pitch on the words \"I guess. Hold on.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 3.6,
+      "end_time": 7,
+      "description": "The speech rate increases slightly for the phrase, \"See, this is what happens, and then it derails the stream.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 7.9,
+      "end_time": 12,
+      "description": "Speech returns to a moderate pace for \"I'm going to try muting the mic, and maybe that'll reset it. Hold on.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 12,
+      "end_time": 15.15,
+      "description": "A period of complete silence begins.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.15,
+      "description": "The subject is a young adult male with brown hair, a full beard, and black-rimmed glasses, wearing a dark green t-shirt. He is indoors in a room with neutral-colored walls. Behind him and to his left is a tall, dark bookshelf filled with video game cases and topped with an action figure. A tripod stand is in the corner. Behind him and to his right is another dark bookshelf with collectibles, including Star Wars figurines and a model of the Death Star, next to a tall, dark filing cabinet. A large framed poster, possibly from a video game, hangs on the wall behind him. The lighting is bright and even.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Medium",
+      "score": 0.41,
+      "rationale": "The subject's Extraversion score falls into the Medium range. While the act of live-streaming is inherently public-facing, his demeanor is largely composed and task-focused rather than overtly energetic. He uses hand gestures for emphasis when explaining the problem ([4.6s-6.8s]), a common trait of extraversion. However, this is balanced by periods of significant stillness ([0.0s-4.6s], [11.3s-15.2s]) and a tendency to look forward rather than consistently engaging the camera, suggesting a more moderate, contained social energy.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Medium",
+      "score": 0.57,
+      "rationale": "The subject is rated Medium in Agreeableness. When faced with a technical issue, his response is pragmatic and non-confrontational. He explains the situation to his audience ('See, this is what happens...') in a neutral, informative tone, which demonstrates a cooperative stance. The absence of expressed irritation or blame, combined with a generally neutral facial expression, points away from low agreeableness. However, the context does not provide sufficient evidence of pro-social behaviors like warmth or empathy to warrant a higher rating.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "High",
+      "score": 0.6,
+      "rationale": "The subject's Conscientiousness is assessed as High. Upon identifying a problem that 'derails the stream,' his immediate response is to diagnose it and articulate a clear, methodical plan for a solution ('I'm going to try muting the mic...'). This goal-oriented, problem-solving behavior is a key indicator of conscientiousness. Further supporting this is the highly organized background, featuring neatly arranged collections of games and figures, which suggests a disposition towards order and diligence.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Medium",
+      "score": 0.47,
+      "rationale": "The subject's Neuroticism score is Medium. He displays clear but controlled signs of stress in response to the technical problem. Indicators include his eyebrows wrinkling in concentration or frustration ([3.6s-7.0s]), an accelerated speech rate ([3.6s-12.0s]), and visible tension in his jaw muscles when he presses his lips together ([11.3s-15.2s]). However, these stress responses do not lead to panic or emotional dysregulation; instead, he remains focused and transitions into a calm, problem-solving mode, demonstrating emotional stability under pressure. This balance supports a medium score.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "Medium",
+      "score": 0.54,
+      "rationale": "The subject's Openness is rated as Medium. The strongest evidence comes from the environment. His room is curated with extensive collections from the video game and science fiction genres (Star Wars figures, Death Star model), indicating a strong interest in fantasy, aesthetics, and imaginative worlds. This suggests an openness to specific types of experiences. However, his verbal content and actions within this short clip are highly practical and concrete, focused solely on a technical issue. The lack of abstract or creative ideation in his immediate behavior balances the environmental cues, resulting in a medium score.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During [7.9s - 12.0s], the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A significantly low level of the Agreeableness dimension."
+        },
+        {
+          "id": "B",
+          "text": "A particularly high level of the Openness dimension."
+        },
+        {
+          "id": "C",
+          "text": "A significantly low level of the Extraversion dimension."
+        },
+        {
+          "id": "D",
+          "text": "A particularly low level of the Conscientiousness dimension."
+        },
+        {
+          "id": "E",
+          "text": "A particularly high level of the Conscientiousness dimension."
+        },
+        {
+          "id": "F",
+          "text": "A significantly high level of the Neuroticism dimension."
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. During this period, the person verbally articulates a clear, methodical plan to solve a technical issue ('I'm going to try muting the mic...'). This goal-oriented, problem-solving approach is a classic indicator of High Conscientiousness.\n\n- Option A is a text-based distractor. The text mentions an issue that 'derails the stream,' which might imply conflict, but his verbal response is cooperative and informative, not disagreeable.\n- Option B is a text-based distractor. The evidence for Openness comes from the background environment (collections), not the practical, problem-solving behavior exhibited in this time frame.\n- Option C is a text-based distractor. While the person is not highly expressive, he is actively communicating a plan to an audience, which is inconsistent with a low level of extraversion.\n- Option D is a near-miss distractor. It correctly identifies the relevant personality dimension (Conscientiousness) but incorrectly assesses its direction. His response to the problem demonstrates high, not low, conscientiousness.\n- Option F is a video-based distractor. Evidence for Neuroticism (wrinkled eyebrows, jaw tension) appears at other moments ([3.6s-7.0s] and [11.3s-15.2s]), not during this period of calm, rational planning."
+    },
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their Medium Neuroticism level?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[5.5s - 6.1s]"
+        },
+        {
+          "id": "B",
+          "text": "[1.5s - 2.1s]"
+        },
+        {
+          "id": "C",
+          "text": "[8.0s - 8.6s]"
+        },
+        {
+          "id": "D",
+          "text": "[0.1s - 0.7s]"
+        },
+        {
+          "id": "E",
+          "text": "[14.3s - 14.9s]"
+        },
+        {
+          "id": "F",
+          "text": "[13.2s - 13.8s]"
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. The analysis for Neuroticism notes 'visible tension in his jaw muscles when he presses his lips together ([11.3s - 15.2s])' as a controlled stress response. The interval [14.3s - 14.9s] specifically captures the moment where this jaw muscle (masseter) movement is most apparent as he silently prepares to act.\n\n- Option A is a video-based distractor. This interval captures emphatic mouth movements and hand gestures, which are more related to Extraversion (emphasizing a point) than Neuroticism.\n- Option B is a video-based distractor. During this time, the subject's expression is neutral as he begins speaking; no notable change occurs.\n- Option C is a video-based distractor. This interval shows the subject's face returning to a neutral state after his emphatic statement, which is a sign of emotional regulation, not the onset of a stress expression.\n- Option D is a video-based distractor. This is the very start of the video where his expression is completely neutral.\n- Option F is a near-miss distractor. This interval is very close to the correct answer and captures the slow blink at 13.5s. While a slow blink can be related to cognitive processing or calming, the jaw tension is a more direct and cited indicator of his controlled stress (Neuroticism)."
+    },
+    {
+      "category": "Mixed Emotion Discrimination",
+      "question": "During [3.6s - 7.0s], the person's emotional state is best characterized as which of the following? Consider both verbal and non-verbal cues.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Deep annoyance blended with a clear feeling of resignation."
+        },
+        {
+          "id": "B",
+          "text": "Simmering anger mixed with a feeling of veiled contempt."
+        },
+        {
+          "id": "C",
+          "text": "Controlled anxiety mixed with a hint of apologetic concern."
+        },
+        {
+          "id": "D",
+          "text": "Patient resolve mixed with a moment of quiet contemplation."
+        },
+        {
+          "id": "E",
+          "text": "Mild frustration tempered by a focused sense of purpose."
+        },
+        {
+          "id": "F",
+          "text": "Sudden disappointment combined with a trace of deep sadness."
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. During this interval, the person's eyebrows furrow and speech accelerates ('See, this is what happens...'), indicating mild frustration with the technical issue. However, this is immediately channeled into explaining the problem to the audience, showing a focused purpose rather than uncontrolled emotion.\n\n- Option A is a near-miss distractor. While 'annoyance' is close, 'deep' is too strong, and 'resignation' is incorrect, as he immediately moves to solve the problem rather than giving up.\n- Option B is a text-based distractor. Words like 'anger' and 'contempt' are plausible negative reactions to a problem but are far too strong for the observed behavior, which lacks any signs of hostility.\n- Option C is a near-miss distractor. 'Controlled anxiety' is a plausible interpretation, but 'frustration' better matches the brow furrow. There are no cues to suggest he feels 'apologetic concern.'\n- Option D is a video-based distractor. This accurately describes his emotional state later in the video, around [11.3s-15.2s], when he is silently still and thinking, but it is incorrect for the [3.6s - 7.0s] period.\n- Option F is a text-based distractor. 'Disappointment' and 'sadness' are plausible emotions when something 'derails,' but his energetic and forward-looking response does not support these more passive emotions."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around [13.5s], a region was detected in the video (x=0.382, y=0.437, w=0.192, h=0.082, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Symmetrical outward and inward gesturing with the hands."
+        },
+        {
+          "id": "B",
+          "text": "The complete relaxation of the person's eyebrow muscles."
+        },
+        {
+          "id": "C",
+          "text": "A fixed and unwavering forward-facing stare of the eyes."
+        },
+        {
+          "id": "D",
+          "text": "A rapid, nervous, and repetitive blinking of the eyelids."
+        },
+        {
+          "id": "E",
+          "text": "A single, slow, and deliberate closure of the eyelids."
+        },
+        {
+          "id": "F",
+          "text": "Slight squinting of the eyes indicating deep concentration."
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. The provided bounding box at 13.5s is tightly focused on the subject's eyes. At this exact moment, the observation log confirms he performs a single, slow blink, which is a deliberate closure of the eyelids.\n\n- Option A is a video-based distractor. The hand gestures occur in a different spatial region (lower third of the screen) and at a different time ([4.6s - 6.8s]).\n- Option B is a video-based distractor. While his eyebrows are relaxed at this time, the bounding box is specifically on the eyes, not the brows above them.\n- Option C is a near-miss distractor. This describes the state of the eyes *just before and after* the blink, but it incorrectly describes the action within the specified moment. The near-miss material indicates that AIs sometimes fail to see subtle movements like this, mistaking it for a static gaze.\n- Option D is a text-based distractor. A rapid, nervous blink is a plausible stress response, but the video clearly shows the blink is slow and singular, not rapid or repetitive.\n- Option F is a text-based distractor. Squinting is a plausible sign of concentration, but it does not occur in the video; the action is a full blink."
+    },
+    {
+      "category": "Counterfactual Reasoning",
+      "question": "If the person had NOT exhibited the behavior observed around [4.6s - 6.8s], which of the following personality assessments would be MOST affected?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The rating for Agreeableness would rise, as the gesture could be seen as being aggressive or overly forceful."
+        },
+        {
+          "id": "B",
+          "text": "The rating for Openness would decrease, because this action is a primary indicator of creative tendencies."
+        },
+        {
+          "id": "C",
+          "text": "The rating for Neuroticism would fall, as the action is the main indicator of emotional instability."
+        },
+        {
+          "id": "D",
+          "text": "The rating for Extraversion would decrease, as that action is the clearest sign of outward social energy."
+        },
+        {
+          "id": "E",
+          "text": "The rating for Extraversion would rise, as removing it would leave only static, introverted posture."
+        },
+        {
+          "id": "F",
+          "text": "The rating for Conscientiousness would rise, because the behavior is the only sign of being flustered."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "The correct answer is D. The behavior from [4.6s - 6.8s] is the use of hand gestures for emphasis while speaking. The personality analysis explicitly cites this as the primary evidence for a Medium Extraversion score ('He uses hand gestures for emphasis... a common trait of extraversion'). Removing this key evidence would weaken the support for Extraversion, likely causing the score to decrease.\n\n- Option A is a text-based distractor. It presents a plausible but incorrect interpretation. The gestures are emphatic, not aggressive, so removing them would not logically increase the Agreeableness score.\n- Option B is a text-based distractor. The gestures are used for practical emphasis, not creative expression. The main evidence for Openness comes from the environmental cues (collections), which would be unaffected.\n- Option C is a video-based distractor. While the gestures are energetic, the primary evidence for Neuroticism comes from different behaviors at different times (brow furrow at 4.2s, jaw tension at 14.6s).\n- Option E is a near-miss distractor. It correctly identifies Extraversion as the affected trait but states the assessment would rise, which is the wrong direction. Removing evidence for a trait would lower, not raise, its assessed level.\n- Option F is a video-based distractor. The behavior is not a sign of being flustered; it's a controlled, emphatic gesture. The evidence for Conscientiousness comes from the verbal problem-solving, not these gestures."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator09",
+      "version": 1,
+      "clues_total": 24,
+      "clues_correct": 16,
+      "clues_wrong_corrected": 7,
+      "clues_missing_skipped": 1,
+      "clues_bonus": 0
+    }
+  }
+}

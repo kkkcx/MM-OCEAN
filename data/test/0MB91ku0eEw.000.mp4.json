@@ -1,0 +1,315 @@
+{
+  "video_id": "0MB91ku0eEw.000.mp4",
+  "video_path": "0MB91ku0eEw.000.mp4",
+  "transcription": "I'm only going to run that for one more year, so I'm just finishing off this current year which is 2012 year. Then we're going to run it from mid 2012 to 2013, and that will be it. The reason we're running one more is I've still got some obligations for the prior year.",
+  "original_scores": {
+    "extraversion": 0.4672897196261683,
+    "agreeableness": 0.4505494505494505,
+    "conscientiousness": 0.4563106796116505,
+    "neuroticism": 0.46875,
+    "openness": 0.5444444444444444
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 15.1,
+      "description": "The subject maintains a steady, direct gaze at the camera for the entire duration. His eyebrows remain in a neutral position, lifting slightly for emphasis on the phrase \"one more\" (00:11-00:12). His blinking appears normal and his overall facial expression is neutral and engaged.",
+      "bboxes": [
+        {
+          "frame_time": 1.240727,
+          "x": 0.26907894736842103,
+          "y": 0.30052631779720906,
+          "w": 0.24424342105263158,
+          "h": 0.12631578947368421,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 1.415248,
+          "x": 0.2276315789473684,
+          "y": 0.2900000020077354,
+          "w": 0.28273026315789473,
+          "h": 0.04736842105263158,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 3.072543,
+          "x": 0.22911184210526314,
+          "y": 0.2742105283235249,
+          "w": 0.3182565789473684,
+          "h": 0.14473684210526316,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 3.487606,
+          "x": 0.2631578947368421,
+          "y": 0.16105263358668276,
+          "w": 0.27532894736842106,
+          "h": 0.6210526315789474,
+          "note": "face human-annotated",
+          "region": "face"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 10.9,
+      "description": "The subject sits in the driver's seat of a car, wearing a seatbelt, with his body angled towards the camera. His head remains relatively still, with minor movements accompanying his speech. His left hand is partially visible at the bottom of the frame, making small, subtle gestures.",
+      "bboxes": [
+        {
+          "frame_time": 3.487606,
+          "x": 0.1432565789473684,
+          "y": 0.021578949376156457,
+          "w": 0.4677631578947368,
+          "h": 0.968421052631579,
+          "note": "human-annotated",
+          "region": "unknown"
+        },
+        {
+          "frame_time": 9.507605,
+          "x": 0.24095394736842105,
+          "y": 0.050526317797209085,
+          "w": 0.34638157894736843,
+          "h": 0.6526315789473685,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 3.455399,
+          "x": 0,
+          "y": 0.8242105283235249,
+          "w": 0.17615131578947368,
+          "h": 0.1736842105263158,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 10.9,
+      "end_time": 12.3,
+      "description": "He raises his left hand into the lower-left quadrant of the frame, with the index finger slightly extended to emphasize a point.",
+      "bboxes": [
+        {
+          "frame_time": 11.493041,
+          "x": 0,
+          "y": 0.537368423060367,
+          "w": 0.20131578947368423,
+          "h": 0.45789473684210524,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 12.3,
+      "end_time": 15.1,
+      "description": "His left hand is lowered out of the frame, and he maintains his initial seated posture.",
+      "bboxes": [
+        {
+          "frame_time": 12.871376,
+          "x": 0.007072368421052622,
+          "y": 0.737368423060367,
+          "w": 0.19095394736842106,
+          "h": 0.26052631578947366,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 13.723354,
+          "x": 0.16546052631578947,
+          "y": 0.09263158095510382,
+          "w": 0.5328947368421053,
+          "h": 0.9052631578947369,
+          "note": "pose human-annotated",
+          "region": "torso"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 7.3,
+      "description": "The speaker maintains a moderate, conversational speech rate with a clear, even tone. His pitch falls at the end of the clauses \"...one more year\" and \"...2012 year.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 7.3,
+      "end_time": 10.9,
+      "description": "The speech pace remains steady. There is a slight pitch rise on \"2013,\" followed by a definitive falling intonation on the final phrase \"and that will be it.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 10.9,
+      "end_time": 15.1,
+      "description": "The words \"one more\" are stressed with a slight increase in pitch and volume. The final phrase, \"prior year,\" concludes with a falling pitch contour.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.1,
+      "description": "The subject is a man with dark hair, brown eyes, and a medium skin tone. He is wearing a light blue and white vertically striped collared shirt. He is filmed from the chest up, sitting inside a car in what appears to be the driver's seat. The car's interior includes a gray leather headrest and seat, and a dark wood-grain trim on the door panel. Outside the car window, a road, green foliage, and a large, light-colored industrial structure are visible. The scene is brightly lit by what appears to be natural daylight.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Medium",
+      "score": 0.47,
+      "rationale": "The subject exhibits a moderate level of Extraversion. While the direct and sustained eye contact with the camera suggests social confidence, other cues indicate a more reserved nature. His gestures are described as 'small and subtle,' and his head remains relatively still, lacking the broad, energetic movements often seen in highly extraverted individuals. The overall facial expression is neutral and focused rather than highly animated. This combination of confident engagement and physical composure is characteristic of a mid-range Extraversion score.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Medium",
+      "score": 0.45,
+      "rationale": "The subject's Agreeableness is assessed as Medium. In this non-interactive monologue, his demeanor is consistently neutral and focused. The vocal tone is even and conversational, without any hints of impatience, irritability, or hostility. The stable posture and calm facial expression create a non-confrontational and composed presentation. The absence of strong cues for either high agreeableness (e.g., frequent smiling) or low agreeableness (e.g., scowling) places him firmly in the medium range.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Medium",
+      "score": 0.46,
+      "rationale": "A Medium Conscientiousness score is supported by the subject's structured and purposeful communication. He clearly articulates a plan with specific timelines ('mid 2012 to 2013') and provides a logical reason for his decision ('still got some obligations'). This demonstrates dutifulness and organized thinking. His focused expression, steady vocal delivery, and use of gestures for emphasis reinforce his commitment to conveying the information clearly and efficiently.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Medium",
+      "score": 0.47,
+      "rationale": "The subject displays a profile consistent with Medium Neuroticism, primarily indicated by a notable lack of anxiety cues. His emotional state appears stable and well-regulated. This is evidenced by his steady eye contact, normal blink rate, calm facial expression, and an even, unwavering vocal tone. There are no signs of nervousness such as fidgeting, vocal tremors, or avoidance of gaze, suggesting a high degree of composure in this self-presentation context.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "Medium",
+      "score": 0.54,
+      "rationale": "The subject's Openness is rated as Medium. His communication style is direct, factual, and concrete, focusing entirely on the logistics of a plan. He does not use abstract language, metaphors, or display intellectual curiosity beyond the immediate topic. The vocal and facial expressions are pragmatic, aimed at clarity rather than creative or emotional expression. This straightforward and practical approach, devoid of imaginative or unconventional elements, aligns well with a mid-range score for Openness.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During 0.0s - 10.9s, the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A medium level of Conscientiousness"
+        },
+        {
+          "id": "B",
+          "text": "A significantly high Neuroticism score"
+        },
+        {
+          "id": "C",
+          "text": "A low tendency for Agreeableness"
+        },
+        {
+          "id": "D",
+          "text": "A notably high degree of Openness"
+        },
+        {
+          "id": "E",
+          "text": "A medium tendency for Extraversion"
+        },
+        {
+          "id": "F",
+          "text": "A high level of Conscientiousness"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. During this period, the speaker methodically lays out a plan with specific dates ('2012', 'mid 2012 to 2013') and a clear rationale ('still got some obligations'). This structured, purposeful communication is the strongest evidence for a medium level of Conscientiousness, reflecting organized and dutiful thinking.\n\n- Option B is a text-based distractor. The mention of 'obligations' might suggest stress or worry (Neuroticism) from text alone, but his calm demeanor and steady voice in the video contradict this.\n- Option C is a text-based distractor. The direct statement 'and that will be it' could be interpreted as abrupt or disagreeable in text, but his neutral tone does not support Low Agreeableness.\n- Option D is a text-based distractor. The content is about concrete plans, which is evidence against high Openness, not for it.\n- Option E is a video-based distractor. While his direct eye contact throughout the video supports Medium Extraversion, the specific behavior in this time segment (structured speech) is much more indicative of Conscientiousness.\n- Option F is a near-miss distractor. The behavior is indeed conscientious, but the overall lack of exceptional detail or elaboration, combined with his generally composed demeanor, aligns better with a medium, rather than high, level of the trait."
+    },
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their Conscientiousness level?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[10.9s - 12.3s]"
+        },
+        {
+          "id": "B",
+          "text": "[0.0s - 1.4s]"
+        },
+        {
+          "id": "C",
+          "text": "[3.0s - 4.4s]"
+        },
+        {
+          "id": "D",
+          "text": "[5.8s - 7.2s]"
+        },
+        {
+          "id": "E",
+          "text": "[8.5s - 9.9s]"
+        },
+        {
+          "id": "F",
+          "text": "[13.5s - 14.9s]"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. The observation data notes that between 11s and 12s, the subject's eyebrows raise slightly to emphasize the phrase 'one more'. This micro-expression, along with the co-occurring hand gesture, serves as a non-verbal illustrator to add emphasis to a key point in his structured explanation, which is a behavior related to Conscientiousness.\n\n- Options B, C, D, E, and F are all video-based distractors. They represent other time intervals in the video where the person's facial expression is stable, neutral, and does not exhibit a significant change relevant to emphasizing a point."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "A non-verbal illustrator gesture, used to add emphasis to a specific point in the narrative, is most accurately located at which of the following times and positions?",
+      "options": [
+        {
+          "id": "A",
+          "text": "@ 11.5s, bbox=(x=0.000, y=0.537, w=0.201, h=0.458)"
+        },
+        {
+          "id": "B",
+          "text": "@ 11.5s, bbox=(x=0.241, y=0.051, w=0.346, h=0.653)"
+        },
+        {
+          "id": "C",
+          "text": "@ 3.5s, bbox=(x=0.000, y=0.824, w=0.176, h=0.174)"
+        },
+        {
+          "id": "D",
+          "text": "@ 3.5s, bbox=(x=0.263, y=0.161, w=0.275, h=0.621)"
+        },
+        {
+          "id": "E",
+          "text": "@ 11.5s, bbox=(x=0.000, y=0.237, w=0.201, h=0.458)"
+        },
+        {
+          "id": "F",
+          "text": "@ 9.5s, bbox=(x=0.800, y=0.537, w=0.201, h=0.458)"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. This option provides the precise timestamp (11.5s) and bounding box that captures the left hand being raised with the index finger slightly extended to emphasize the phrase 'one more'.\n\n- Option B is a video-based distractor. It has the correct time (11.5s) but the bounding box points to the person's head, not the hand gesture.\n- Option C is a video-based distractor. It points to the hand, but at the wrong time (3.5s) when the hand was in a lower, resting position, and thus has different coordinates.\n- Option D is a video-based distractor. It has the wrong time (3.5s) and the wrong location (the person's face).\n- Option E is a near-miss distractor. It has the correct time and the correct x-coordinate and dimensions, but the y-coordinate is shifted upwards, causing the box to miss the hand and instead point to the torso/seat.\n- Option F is a text-based distractor. This option is invalid as there is no gesture or object of interest at this location on the right side of the screen (x=0.800)."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator09",
+      "version": 1,
+      "clues_total": 15,
+      "clues_correct": 13,
+      "clues_wrong_corrected": 1,
+      "clues_missing_skipped": 1,
+      "clues_bonus": 0
+    }
+  }
+}

@@ -1,0 +1,434 @@
+{
+  "video_id": "K-iwJMxjyx4.002.mp4",
+  "video_path": "K-iwJMxjyx4.002.mp4",
+  "transcription": "I've got a lot of followers that are giving me a ton of hearts and the hearts just don't work. They're not reflected in my profile. I should be up to over a millions by now. You guys literally give me tens of thousands of hearts every single broadcast but it just doesn't get reflected.",
+  "original_scores": {
+    "extraversion": 0.588785046728972,
+    "agreeableness": 0.5934065934065933,
+    "conscientiousness": 0.5048543689320388,
+    "neuroticism": 0.5520833333333334,
+    "openness": 0.5333333333333333
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 2.15,
+      "description": "The subject looks directly at the camera. His eyebrows are in a neutral position, raising very slightly as he speaks. His mouth opens as he articulates words.",
+      "bboxes": [
+        {
+          "frame_time": 0,
+          "x": 0.4230263157894737,
+          "y": 0.3268421072708933,
+          "w": 0.17319078947368421,
+          "h": 0.0868421052631579,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 0,
+          "x": 0.41710526315789476,
+          "y": 0.30842105463931435,
+          "w": 0.17911184210526315,
+          "h": 0.05526315789473684,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 0,
+          "x": 0.4837171052631579,
+          "y": 0.46894737042878804,
+          "w": 0.06957236842105263,
+          "h": 0.13157894736842105,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 2.15,
+      "end_time": 3.73,
+      "description": "His eyebrows lower slightly, and the corners of his mouth pull down slightly as he says \"the hearts just don't work.\"",
+      "bboxes": [
+        {
+          "frame_time": 3.692034,
+          "x": 0.4407894736842105,
+          "y": 0.32421052832352487,
+          "w": 0.1613486842105263,
+          "h": 0.09210526315789473,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 3.692034,
+          "x": 0.48223684210526313,
+          "y": 0.5163157914814196,
+          "w": 0.10065789473684211,
+          "h": 0.11052631578947368,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 3.73,
+      "end_time": 6.94,
+      "description": "His expression returns to a more neutral state, with a slight head shake. His eyebrows raise slightly as he says \"millions by now.\"",
+      "bboxes": [
+        {
+          "frame_time": 5.640076,
+          "x": 0.4777960526315789,
+          "y": 0.3268421072708933,
+          "w": 0.14210526315789473,
+          "h": 0.3131578947368421,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 5.640076,
+          "x": 0.4037828947368421,
+          "y": 0.1768421072708933,
+          "w": 0.21759868421052633,
+          "h": 0.5368421052631579,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 5.98689,
+          "x": 0.44671052631578945,
+          "y": 0.33736842306036696,
+          "w": 0.1524671052631579,
+          "h": 0.12631578947368421,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 6.94,
+      "end_time": 15.34,
+      "description": "The subject maintains direct eye contact. His eyebrows raise slightly and his eyes widen for emphasis on the phrase \"tens of thousands of hearts,\" before returning to a neutral, conversational expression.",
+      "bboxes": [
+        {
+          "frame_time": 8.125583,
+          "x": 0.41710526315789476,
+          "y": 0.387368423060367,
+          "w": 0.18651315789473685,
+          "h": 0.12894736842105264,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 10.975318,
+          "x": 0.4185855263157895,
+          "y": 0.387368423060367,
+          "w": 0.17763157894736842,
+          "h": 0.060526315789473685,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 11.886761,
+          "x": 0.44819078947368424,
+          "y": 0.4163157914814196,
+          "w": 0.14654605263157894,
+          "h": 0.08421052631578947,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 13.235262,
+          "x": 0.4185855263157895,
+          "y": 0.3847368441129986,
+          "w": 0.1480263157894737,
+          "h": 0.36578947368421055,
+          "note": "face human-annotated",
+          "region": "face"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 15.34,
+      "description": "The subject is sitting upright in what appears to be a vehicle, with a seatbelt visible across his right shoulder and chest. His head is framed in the center and he maintains a consistent distance from the camera. He makes small, subtle nods for emphasis throughout his speech.",
+      "bboxes": [
+        {
+          "frame_time": 0.27846,
+          "x": 0.3815789473684211,
+          "y": 0.5847368441129985,
+          "w": 0.2768092105263158,
+          "h": 0.2736842105263158,
+          "note": "pose human-annotated",
+          "region": "shoulders"
+        },
+        {
+          "frame_time": 0.27846,
+          "x": 0.3875,
+          "y": 0.11105263358668277,
+          "w": 0.20279605263157896,
+          "h": 0.6736842105263158,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 1.026821,
+          "x": 0.3682565789473684,
+          "y": 0.16105263358668276,
+          "w": 0.24424342105263158,
+          "h": 0.5421052631578948,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 3.6,
+      "description": "The subject speaks at a moderate pace and volume. His pitch rises slightly for emphasis on \"ton of hearts\" and then falls on the phrase \"just don't work.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 3.6,
+      "end_time": 8,
+      "description": "The pace remains moderate. There is a notable rise in pitch and volume on the word \"millions.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 8,
+      "end_time": 15.34,
+      "description": "The speech rate slightly increases. He places stress and raises his volume on the phrases \"literally give me tens of thousands of hearts\" and \"every single broadcast.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.34,
+      "description": "The subject is a light-skinned male with a short brown beard. He is wearing a yellow baseball cap backwards and a blue quarter-zip fleece pullover with a green zipper and collar lining. A small green embroidered logo is visible on the left side of his chest. He is in the driver's seat of a car, with a gray seatbelt on. The car's interior, including the headrest and ceiling, is visible. The scene is lit by bright, natural light from the front.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0.35278299999999996,
+      "end_time": 1.352783,
+      "description": "The subject is a light-skinned male with a short brown beard. He is wearing a yellow baseball cap backwards and a blue quarter-zip fleece pullover with a green zipper and collar lining. A small green embroidered logo is visible on the left side of his chest. He is in the driver's seat of a car, with a gray seatbelt on. The car's interior, including the headrest and ceiling, is visible. The scene is lit by bright, natural light from the front.",
+      "bboxes": [
+        {
+          "frame_time": 0.852783,
+          "x": 0.5991776315789473,
+          "y": 0.5900000020077354,
+          "w": 0.06661184210526316,
+          "h": 0.3815789473684211,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    },
+    {
+      "dimension": "Background",
+      "start_time": 13.614441,
+      "end_time": 14.614441,
+      "description": "Subject shrugged",
+      "bboxes": [
+        {
+          "frame_time": 14.114441,
+          "x": 0.3475328947368421,
+          "y": 0.6426315809551039,
+          "w": 0.30641447368421054,
+          "h": 0.15263157894736842,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Medium",
+      "score": 0.59,
+      "rationale": "The subject's Extraversion is rated as Medium. His choice to broadcast to a large audience of followers indicates a degree of sociability and a desire for external engagement. He utilizes expressive behaviors such as direct eye contact, vocal emphasis on key phrases ('millions,' 'tens of thousands'), and occasional gestures to connect with his audience. However, these expressive moments are balanced by a return to a neutral baseline and a relatively contained physical posture within the car. The energy level is moderate and controlled, not exhibiting the sustained, high-energy animation typical of a highly extraverted individual.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Medium",
+      "score": 0.59,
+      "rationale": "The subject's Medium Agreeableness is evident in his method of complaint. While he is directly addressing a frustration, which can be a less agreeable behavior, he strategically frames it to maintain harmony with his audience. He acknowledges their positive contributions ('You guys literally give me tens of thousands of hearts') before stating the problem. The expression of frustration is visible through a slight downturn of the mouth and a head shake, but it is directed at the system, not at his followers. This balancing act of voicing dissatisfaction while simultaneously preserving social relationships is characteristic of a mid-range Agreeableness.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Medium",
+      "score": 0.5,
+      "rationale": "A Medium level of Conscientiousness is indicated by a mix of goal-oriented focus and situational informality. The subject displays diligence by tracking a specific metric ('hearts') and is clearly aware of a desired goal ('over a millions'), demonstrating attention to detail and achievement-striving. However, the communication is a public expression of frustration rather than a structured plan for resolution. The informal setting (a car) and the concluding shrug suggest a degree of spontaneity and perhaps resignation, rather than a determined, methodical approach to problem-solving.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Medium",
+      "score": 0.55,
+      "rationale": "The subject's Medium Neuroticism is reflected in his controlled emotional response to a stressor. He is clearly experiencing frustration, evidenced by his negative language ('just don't work'), a descending vocal tone, and corresponding facial expressions (downturned mouth, lowered brows). This reactivity indicates a sensitivity to setbacks. However, his emotional display is managed and does not escalate. He maintains a steady posture, speaks clearly, and repeatedly returns to a neutral emotional state. This ability to feel and express negative emotions without being overwhelmed points to a moderate level of emotional stability.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "Medium",
+      "score": 0.53,
+      "rationale": "The Medium score for Openness is supported by the subject's focus and style. Participating as a content creator on a social platform suggests a degree of comfort with modern communication and new experiences. However, the topic of this specific video is highly concrete and practical, centered on personal metrics rather than abstract ideas, creative concepts, or novel perspectives. His language is straightforward and his dress is conventional. This combination of using a contemporary medium to address a mundane, functional problem aligns well with a moderate level of Openness to experience.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During 8.0s - 15.3s, the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "High Conscientiousness, demonstrated by his structured argument and goal focus."
+        },
+        {
+          "id": "B",
+          "text": "Medium Extraversion, shown by his moderate yet clear audience engagement cues."
+        },
+        {
+          "id": "C",
+          "text": "Low Agreeableness, based on the clearly complaining tone present in his words."
+        },
+        {
+          "id": "D",
+          "text": "High Extraversion, clear from his constant high-energy and animated display."
+        },
+        {
+          "id": "E",
+          "text": "Medium Neuroticism, seen in his brief but notable expression of frustration."
+        },
+        {
+          "id": "F",
+          "text": "Low Openness, reflected in his very conventional style of communication."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. During this period, the subject increases his speech rate, widens his eyes for emphasis (11.9s), and shrugs (14.1s). These are all expressive behaviors designed to engage and persuade his audience, which directly supports a rating of Extraversion. The moderate energy level aligns with a 'Medium' score.\n\n- Option A is a text-based distractor. While he is talking about a goal (getting his 'hearts' counted), his *behavior* in this segment is more expressive and social (Extraversion) than it is methodical or organized (Conscientiousness).\n- Option C is a text-based distractor. The overall topic is a complaint, but the behaviors in this specific timeframe (emphasis, shrug) are more about social connection than expressing opposition.\n- Option D is a near-miss distractor. It correctly identifies the trait (Extraversion) but gets the level wrong. His energy is moderate and controlled, not consistently high, which is why 'Medium' is more accurate than 'High'.\n- Option E is a video-based distractor. The primary evidence for Neuroticism (the expression of frustration with downturned mouth and lowered brows) occurs earlier, mainly between 2.1s and 3.7s, not in this later segment.\n- Option F is a text-based distractor. His communication style is straightforward, but this provides weak evidence for Openness, and the behaviors in this segment are not primarily related to this trait."
+    },
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their Neuroticism level?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[0.00s - 1.50s]"
+        },
+        {
+          "id": "B",
+          "text": "[2.10s - 3.70s]"
+        },
+        {
+          "id": "C",
+          "text": "[5.00s - 6.50s]"
+        },
+        {
+          "id": "D",
+          "text": "[8.20s - 9.80s]"
+        },
+        {
+          "id": "E",
+          "text": "[11.5s - 13.0s]"
+        },
+        {
+          "id": "F",
+          "text": "[13.5s - 15.0s]"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. The personality analysis identifies the subject's emotional reactivity (a key facet of Neuroticism) through his visible frustration. This is most clearly expressed between 2.1s and 3.7s, where his eyebrows lower and the corners of his mouth pull down as he says, \"the hearts just don't work.\"\n\n- Option A is a video-based distractor. This interval shows his initial, neutral speaking expression before the emotional shift occurs.\n- Option C is a near-miss distractor. This interval captures the period where his expression is recovering back to neutral after the moment of frustration, including a slight head shake. It's related but not the moment the primary emotional expression appears.\n- Option D is a video-based distractor. In this interval, he is speaking with direct eye contact but without a significant emotional expression.\n- Option E is a video-based distractor. This interval contains the eye-widening gesture for emphasis on \"tens of thousands of hearts,\" which is more related to Extraversion (engagement) than Neuroticism (emotional reactivity).\n- Option F is a video-based distractor. This interval includes the shoulder shrug, which is a gesture of emphasis or resignation, not a facial micro-expression of frustration."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 0.0s, a region was detected in the video (x=0.423, y=0.327, w=0.173, h=0.087, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The corners of the mouth are pulled slightly downward."
+        },
+        {
+          "id": "B",
+          "text": "The eyes are maintaining direct and steady contact."
+        },
+        {
+          "id": "C",
+          "text": "The entire facial expression is returning to neutral."
+        },
+        {
+          "id": "D",
+          "text": "The eyebrows are being raised slightly for emphasis."
+        },
+        {
+          "id": "E",
+          "text": "The head is performing a subtle but distinct shake."
+        },
+        {
+          "id": "F",
+          "text": "The eyes are widening momentarily to add some stress."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. The provided coordinates at 0.0s correspond directly to the eye region. The observation log for this time [0.0s - 2.1s] explicitly states, '[eyes] The subject looks directly at the camera, which is best described as maintaining direct and steady contact.\n\n- Option A is a video-based distractor. This describes the mouth region at a different time (around 3.7s) when he is expressing frustration.\n- Option C is a video-based distractor. This describes the entire face at a later time (around 13.2s) after a moment of emphasis.\n- Option D is a video-based distractor. This describes the eyebrow region, not the eye region within the bbox, and it happens later in the video (around 6.0s).\n- Option E is a video-based distractor. This describes a head motion (around 5.6s), which is outside the specified facial region bbox.\n- Option F is a near-miss distractor. This describes an action in the correct region (eyes) but at the wrong time. The eyes widen for emphasis around 11.9s, not at the beginning of the video."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "At which point in the video does the subject use a non-verbal cue primarily involving the eye region to add significant rhetorical emphasis to his quantitative claim?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[14.1s] at (x=0.348, y=0.643, w=0.306, h=0.153)"
+        },
+        {
+          "id": "B",
+          "text": "[11.9s] at (x=0.448, y=0.416, w=0.147, h=0.084)"
+        },
+        {
+          "id": "C",
+          "text": "[0.0s] at (x=0.423, y=0.327, w=0.173, h=0.087)"
+        },
+        {
+          "id": "D",
+          "text": "[3.7s] at (x=0.482, y=0.516, w=0.101, h=0.111)"
+        },
+        {
+          "id": "E",
+          "text": "[5.6s] at (x=0.404, y=0.177, w=0.218, h=0.537)"
+        },
+        {
+          "id": "F",
+          "text": "[11.9s] at (x=0.419, y=0.387, w=0.178, h=0.061)"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. The question asks for an eye-region cue for rhetorical emphasis. At 11.9s, the observation log states his '[eyes] Keep your eyes open to emphasize the phrase“tens of thousands of hearts”' (Eyes widen to emphasize the phrase 'tens of thousands of hearts'). The provided coordinates correctly isolate the eye region at this exact moment.\n\n- Option A is a video-based distractor. The time and bbox correspond to the shoulder shrug, not an eye-region cue.\n- Option C is a video-based distractor. This is the correct region (eyes) but at the wrong time (0.0s). This is the initial steady gaze, not a specific moment of rhetorical emphasis.\n- Option D is a video-based distractor. This time and bbox correspond to the mouth region during his expression of frustration.\n- Option E is a video-based distractor. This time and bbox correspond to the entire head during a slight head shake.\n- Option F is a near-miss distractor. The time is correct (11.9s), but the bbox points to the eyebrow region just above the eyes, not the eyes themselves where the widening occurs."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator03",
+      "version": 1,
+      "clues_total": 21,
+      "clues_correct": 19,
+      "clues_wrong_corrected": 0,
+      "clues_missing_skipped": 0,
+      "clues_bonus": 2
+    }
+  }
+}

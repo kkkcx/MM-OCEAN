@@ -1,0 +1,465 @@
+{
+  "video_id": "RGuHfwIRKpA.004.mp4",
+  "video_path": "RGuHfwIRKpA.004.mp4",
+  "transcription": "Getting ready to interview, here's a great idea, something that I've used for a long time and it's really helpful, is sit down before your interviews and prepare what I call a Q&A...",
+  "original_scores": {
+    "extraversion": 0.3177570093457944,
+    "agreeableness": 0.5604395604395604,
+    "conscientiousness": 0.7475728155339806,
+    "neuroticism": 0.5,
+    "openness": 0.43333333333333335
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 8.5,
+      "description": "The subject maintains direct gaze with the camera. Her eyebrows are in a neutral position, moving subtly with her speech. Her mouth moves naturally as she talks, with slight, intermittent smiles forming at the corners.",
+      "bboxes": [
+        {
+          "frame_time": 6.020229,
+          "x": 0.4030427631578947,
+          "y": 0.3192982422678094,
+          "w": 0.25608552631578946,
+          "h": 0.1,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 6.020229,
+          "x": 0.4178453947368421,
+          "y": 0.27192982121517784,
+          "w": 0.19391447368421053,
+          "h": 0.07368421052631578,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 6.020229,
+          "x": 0.46817434210526315,
+          "y": 0.5271929791099147,
+          "w": 0.13766447368421053,
+          "h": 0.1,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 8.5,
+      "end_time": 11.7,
+      "description": "As she says \"think sit down,\" her eyebrows raise slightly and her eyes widen for a moment, then return to a neutral state.",
+      "bboxes": [
+        {
+          "frame_time": 9.365192,
+          "x": 0.3852796052631579,
+          "y": 0.26403508437307255,
+          "w": 0.24572368421052632,
+          "h": 0.4368421052631579,
+          "note": "human-annotated",
+          "region": "unknown"
+        },
+        {
+          "frame_time": 9.365192,
+          "x": 0.3971217105263158,
+          "y": 0.2403508738467568,
+          "w": 0.2575657894736842,
+          "h": 0.11315789473684211,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 10.7171,
+          "x": 0.4163651315789474,
+          "y": 0.3192982422678094,
+          "w": 0.22648026315789474,
+          "h": 0.3131578947368421,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 11.7,
+      "end_time": 15,
+      "description": "The eyebrows raise again and remain slightly elevated as she makes a hand gesture. Gaze remains fixed on the camera.",
+      "bboxes": [
+        {
+          "frame_time": 13.116853,
+          "x": 0.3971217105263158,
+          "y": 0.2298245580572831,
+          "w": 0.2131578947368421,
+          "h": 0.10789473684210527,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 12.226034,
+          "x": 0.015213815789473676,
+          "y": 0.5508771896362304,
+          "w": 0.32861842105263156,
+          "h": 0.42894736842105263,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 12.226034,
+          "x": 0.4030427631578947,
+          "y": 0.34561403174149363,
+          "w": 0.23832236842105264,
+          "h": 0.06578947368421052,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 8.5,
+      "description": "The subject is seated, visible from the upper chest. Her posture is upright and her head remains relatively still, with minor nods for emphasis.",
+      "bboxes": [
+        {
+          "frame_time": 0.55882,
+          "x": 0.2757401315789474,
+          "y": 0.25877192647833575,
+          "w": 0.4633223684210526,
+          "h": 0.7368421052631579,
+          "note": "human-annotated",
+          "region": "unknown"
+        },
+        {
+          "frame_time": 0.55882,
+          "x": 0.30830592105263155,
+          "y": 0.24561403174149363,
+          "w": 0.4677631578947368,
+          "h": 0.6815789473684211,
+          "note": "pose human-annotated",
+          "region": "torso"
+        },
+        {
+          "frame_time": 0.55882,
+          "x": 0.3778782894736842,
+          "y": 0.10877192647833574,
+          "w": 0.3212171052631579,
+          "h": 0.6052631578947368,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 8.5,
+      "end_time": 9.9,
+      "description": "The subject's right hand briefly enters the bottom right of the frame to make a small, illustrative gesture.",
+      "bboxes": [
+        {
+          "frame_time": 8.660107,
+          "x": 0.013733552631578938,
+          "y": 0.7114035054257042,
+          "w": 0.2205592105263158,
+          "h": 0.2631578947368421,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 9.9,
+      "end_time": 11.8,
+      "description": "The hands are briefly out of frame.",
+      "bboxes": [
+        {
+          "frame_time": 10.415725,
+          "x": 0.27129934210526313,
+          "y": 0.7877192948993884,
+          "w": 0.4692434210526316,
+          "h": 0.19210526315789472,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 11.8,
+      "end_time": 15,
+      "description": "The subject raises her left hand into the frame, palm open and facing forward, with fingers spread, holding it up as she speaks.",
+      "bboxes": [
+        {
+          "frame_time": 12.56347,
+          "x": 0.010773026315789464,
+          "y": 0.5298245580572831,
+          "w": 0.35230263157894737,
+          "h": 0.41842105263157897,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 6.4,
+      "description": "Speech is delivered at a moderate and even pace. There is a slight rising intonation on the words \"idea\" and \"long time.\" The phrase \"really helpful\" is emphasized with slightly increased pitch and volume.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 6.4,
+      "end_time": 8.5,
+      "description": "There is a brief pause of approximately 0.5 seconds after \"helpful.\" The word \"is\" is spoken in a slightly lower, connecting tone.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 8.5,
+      "end_time": 15,
+      "description": "The word \"think\" receives slight stress. The speech rate remains moderate and consistent until the end of the clip.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15,
+      "description": "The subject is a middle-aged woman with fair skin, short dark hair, and visible makeup. She is wearing a black blazer, a purple top, a large silver necklace, and small hoop earrings. The setting is an indoor office with a light-colored wall. Behind her is a shelf displaying a framed Texas A&M University diploma, a silver Texas A&M plate, a framed photo, stacked copies of a book, and a Texas A&M football in its box. A Google+ logo is visible in the top left corner. Lighting is even and from the front.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 14.57701,
+      "end_time": 15.57701,
+      "description": "There is a red car in the picture behind the subject",
+      "bboxes": [
+        {
+          "frame_time": 15.07701,
+          "x": 0.3171875,
+          "y": 0.6140350843730725,
+          "w": 0.07401315789473685,
+          "h": 0.07631578947368421,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Low",
+      "score": 0.32,
+      "rationale": "The subject's Extraversion is rated as Low. Although speaking publicly in a video, her overall demeanor is reserved and controlled. Her vocal delivery is at a moderate, even pace without significant energetic fluctuation. Her gestures are illustrative but contained, and she does not maintain constant, direct eye contact, occasionally looking away. This composed and measured presentation style is more characteristic of lower extraversion, which favors less social stimulation and a more subdued communication approach.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Medium",
+      "score": 0.56,
+      "rationale": "The subject's Agreeableness is rated as Medium. The fundamental premise of her video is to offer helpful, constructive advice, which is a prosocial and cooperative act. Her tone is encouraging, emphasized by a slight increase in pitch on positive phrases like 'great idea' and 'really helpful'. Furthermore, her occasional slight smiles and use of an open-palm gesture project an approachable and trustworthy demeanor, consistent with the cooperative nature of agreeableness.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "High",
+      "score": 0.75,
+      "rationale": "The subject's Conscientiousness is rated as High. This is strongly evidenced by the content of her speech, which promotes methodical preparation ('sit down... and prepare what I call a Q&A'). This focus on planning and diligence is a core feature of conscientiousness. This is further supported by her structured, articulate delivery, upright posture, and professional attire. The organized office background, which includes a framed diploma, signifies a value placed on achievement and order.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Medium",
+      "score": 0.5,
+      "rationale": "The subject's Neuroticism is rated as Medium. She presents a largely calm and composed exterior, with a steady voice and controlled movements, which argues against high Neuroticism. However, her intermittent gaze aversion—looking away from the camera rather than maintaining a fixed stare—can be a subtle indicator of managing the mild social pressure of being recorded. This suggests a typical level of emotional stability, where she is not entirely impervious to situational stress but manages it effectively without overt signs of anxiety.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "Medium",
+      "score": 0.43,
+      "rationale": "The subject's Openness is rated as Medium. She is sharing an 'idea' and is engaged in an act of teaching, which aligns with intellectual engagement. However, the idea itself is a very practical and conventional strategy for interview preparation, not an abstract or imaginative concept. Her communication style is direct and straightforward. The traditional office environment and professional attire do not suggest a strong inclination towards unconventional or aesthetic pursuits, placing her in the mid-range of this trait.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their methodical communication style?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[1.5s - 2.5s]"
+        },
+        {
+          "id": "B",
+          "text": "[9.1s - 10.1s]"
+        },
+        {
+          "id": "C",
+          "text": "[5.8s - 6.8s]"
+        },
+        {
+          "id": "D",
+          "text": "[12.8s - 13.8s]"
+        },
+        {
+          "id": "E",
+          "text": "[0.2s - 1.2s]"
+        },
+        {
+          "id": "F",
+          "text": "[14.0s - 15.0s]"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. Around 9.4s, as she says 'sit down', her eyebrows briefly raise to add emphasis to this key instructional point. This is a deliberate, illustrative change in expression that supports her methodical teaching style. \n\nOption A is a text-based distractor; this interval shows a neutral expression while she speaks. \nOption C is a near-miss distractor; during this time she is looking away from the camera, which is a state, not a sudden change or micro-expression. \nOption D is a video-based distractor; this interval corresponds to a *second* eyebrow raise, which is also a valid change, but the first one at 9.4s is the initial notable shift. \nOption E is a text-based distractor; this interval shows the very beginning of her speech with no significant expression change. \nOption F is a text-based distractor; her expression is returning to neutral as she concludes her sentence."
+    },
+    {
+      "category": "Mixed Emotion Discrimination",
+      "question": "During 0.0s - 8.5s, the person's emotional state is best characterized as which of the following? Consider both verbal and non-verbal cues.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Engaged enthusiasm tempered by a moment of thoughtful consideration."
+        },
+        {
+          "id": "B",
+          "text": "Helpful guidance tempered by a clear degree of professional reserve."
+        },
+        {
+          "id": "C",
+          "text": "Warm encouragement mixed with a clear sense of personal amusement."
+        },
+        {
+          "id": "D",
+          "text": "Confident assertion tempered by a hint of intellectual curiosity."
+        },
+        {
+          "id": "E",
+          "text": "Passionate advocacy mixed with a sense of strong personal conviction."
+        },
+        {
+          "id": "F",
+          "text": "Authoritative instruction mixed with an underlying tone of sternness."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. In this segment, the person's prosocial content (giving advice) and encouraging tone on phrases like 'great idea' indicate 'helpful guidance'. However, this is combined with a controlled vocal delivery, upright posture, and intermittent gaze aversion, which signal a 'professional reserve' rather than overt emotional expression. \n\nOption A is a video-based distractor; signs of engagement like eyebrow raises appear later in the video, not primarily in this segment. \nOption C is a near-miss distractor; while her slight smiles might suggest warmth, her overall demeanor is too composed and professional to be described as 'amused'. \nOption D is a text-based distractor; the content is practical advice, not an intellectual exploration, making 'curiosity' an unsupported interpretation. \nOption E is a text-based distractor; her delivery is moderate and even, lacking the vocal energy that would suggest 'passionate advocacy'. \nOption F is a text-based distractor; her tone is helpful and encouraging, not 'authoritative' or 'stern'."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 13.1s, a region was detected in the video (x=0.397, y=0.230, w=0.213, h=0.108, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A distinct sideways shift of the eyes away from the central camera."
+        },
+        {
+          "id": "B",
+          "text": "A subtle raising of the eyebrows to provide a moment of emphasis."
+        },
+        {
+          "id": "C",
+          "text": "The initial formation of a spoken word involving the person's lips."
+        },
+        {
+          "id": "D",
+          "text": "A slight, encouraging smile forming at the corners of the mouth."
+        },
+        {
+          "id": "E",
+          "text": "A minor adjustment of the torso to maintain an upright posture."
+        },
+        {
+          "id": "F",
+          "text": "A subtle nod of the head used to punctuate a specific spoken phrase."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. The specified coordinates at 13.1s precisely frame the subject's eyebrows. At this moment, she raises them for a second time to emphasize her point, coinciding with her open-palm hand gesture. \n\nOption A is a video-based distractor; a sideways eye shift occurs, but at a different time (around 6.0s) and in a different facial region (the eyes). \nOption C is a text-based distractor; while she is speaking, the specified region covers the eyebrows, not the lips. \nOption D is a video-based distractor; a slight smile is observed, but it is located in the mouth region and is more prominent earlier in the video (around 6.0s). \nOption E is a text-based distractor; the bounding box is on the face, not the torso, and no such adjustment is visible at this time. \nOption F is a near-miss distractor; the head is relatively still, but the action within the specified box is an eyebrow raise, not a nod."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "At which of the following time and coordinate combinations does the person make a brief, small-scale illustrative hand movement to accompany their speech?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[12.2s]  x=0.40, y=0.35, w=0.24, h=0.07"
+        },
+        {
+          "id": "B",
+          "text": "[13.1s]  x=0.40, y=0.23, w=0.21, h=0.11"
+        },
+        {
+          "id": "C",
+          "text": "[6.0s]  x=0.42, y=0.27, w=0.19, h=0.07"
+        },
+        {
+          "id": "D",
+          "text": "[12.6s]  x=0.01, y=0.53, w=0.35, h=0.42"
+        },
+        {
+          "id": "E",
+          "text": "[6.0s]  x=0.40, y=0.32, w=0.26, h=0.10"
+        },
+        {
+          "id": "F",
+          "text": "[8.7s]  x=0.01, y=0.71, w=0.22, h=0.26"
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The correct answer is F. At 8.7s, the subject's right hand enters the frame in the bottom right (as indicated by the low x and high y values) and makes a small illustrative gesture. The question asks for a 'small-scale' movement, which accurately describes this specific action. \n\nOption A is a video-based distractor; this coordinate and time combination points to the subject's eyes. \nOption B is a video-based distractor; this points to the subject's eyebrows during a raise. \nOption C is a video-based distractor; this points to the subject's eyebrows in a neutral state. \nOption D is a near-miss distractor; this is also an illustrative hand movement, but it is a much larger, more emphatic open-palm gesture, not the 'small-scale' one asked for. \nOption E is a video-based distractor; this points to the subject's eyes as they look to the side."
+    },
+    {
+      "category": "Counterfactual Reasoning",
+      "question": "If the person had NOT exhibited the behavior observed around 0.0s - 8.5s, which of the following personality assessments would be MOST affected?",
+      "options": [
+        {
+          "id": "A",
+          "text": "High Conscientiousness score would be much less certain, as her posture during this period is the main indicator of methodical planning."
+        },
+        {
+          "id": "B",
+          "text": "The assessment of low Extraversion would be weakened, as the lack of direct eye contact is a key indicator of her reserved style."
+        },
+        {
+          "id": "C",
+          "text": "Low Agreeableness rating would be less supported, since avoiding eye contact is a primary signal of uncooperative social intentions."
+        },
+        {
+          "id": "D",
+          "text": "The rating for high Openness would be strengthened, since direct eye contact often implies greater intellectual engagement and curiosity."
+        },
+        {
+          "id": "E",
+          "text": "The score for low Extraversion would be strengthened, as steady eye contact would have signaled an even greater social introversion."
+        },
+        {
+          "id": "F",
+          "text": "The medium Neuroticism score would be unaffected, because that rating depends on her calm vocal tone rather than her visual cues."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. The primary observable behavior in the stem is the gaze aversion (looking away from the camera). The personality analysis explicitly cites this lack of constant, direct eye contact as key evidence for her Low Extraversion score. If she had maintained direct eye contact, this evidence would be removed, thus weakening the justification for rating her as low on this trait. \n\nOption A is a video-based distractor; the behavior in question is gaze aversion, but this option incorrectly references her posture. While posture is also observed in this segment, it's not the behavior being hypothetically removed. \nOption C is a text-based distractor; her Agreeableness score is based on her helpful content and tone, not her eye contact. \nOption D is a text-based distractor; it makes a plausible but unfounded connection between eye contact and Openness. The analysis bases her Openness score on the practical nature of her ideas. \nOption E is a near-miss distractor; it correctly identifies the relevant trait (Extraversion) but makes an error in the direction of the effect. Removing gaze aversion (i.e., maintaining eye contact) would be perceived as more extraverted, not more introverted. \nOption F is a text-based distractor; the analysis explicitly mentions her gaze aversion as a 'subtle indicator' for the medium Neuroticism score, so saying the score would be unaffected is incorrect."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator06",
+      "version": 1,
+      "clues_total": 21,
+      "clues_correct": 17,
+      "clues_wrong_corrected": 2,
+      "clues_missing_skipped": 1,
+      "clues_bonus": 1
+    }
+  }
+}

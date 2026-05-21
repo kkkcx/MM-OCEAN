@@ -1,0 +1,349 @@
+{
+  "video_id": "vhugKRUnd-c.005.mp4",
+  "video_path": "vhugKRUnd-c.005.mp4",
+  "transcription": "Maybe at times there are certain practices that I'm teaching, but fundamentally what I am speaking of is not something that is taught.",
+  "original_scores": {
+    "extraversion": 0.25233644859813087,
+    "agreeableness": 0.4285714285714285,
+    "conscientiousness": 0.5922330097087379,
+    "neuroticism": 0.39583333333333337,
+    "openness": 0.3555555555555556
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 1.05,
+      "description": "The subject's gaze is directed down and to his right. His eyelids are partially closed, and his lips are pursed.",
+      "bboxes": [
+        {
+          "frame_time": 0.705403,
+          "x": 0.43116776315789473,
+          "y": 0.3403508738467568,
+          "w": 0.1613486842105263,
+          "h": 0.11842105263157894,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 0.568306,
+          "x": 0.4252467105263158,
+          "y": 0.33771929489938834,
+          "w": 0.16726973684210528,
+          "h": 0.12631578947368421,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 0.568306,
+          "x": 0.47261513157894736,
+          "y": 0.5008771896362305,
+          "w": 0.12138157894736842,
+          "h": 0.10789473684210527,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 1.05,
+      "end_time": 14.93,
+      "description": "The subject lifts his gaze to look directly forward, presumably at the camera. His expression is mostly neutral, with slight narrowing of the eyes and natural mouth movements as he speaks. He blinks normally throughout.",
+      "bboxes": [
+        {
+          "frame_time": 1.267761,
+          "x": 0.4296875,
+          "y": 0.34561403174149363,
+          "w": 0.17171052631578948,
+          "h": 0.10526315789473684,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 1.267761,
+          "x": 0.3527138157894737,
+          "y": 0.10877192647833574,
+          "w": 0.3212171052631579,
+          "h": 0.6263157894736842,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 6.790538,
+          "x": 0.39564144736842105,
+          "y": 0.2061403475309673,
+          "w": 0.23980263157894738,
+          "h": 0.5078947368421053,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 14.601115,
+          "x": 0.42672697368421053,
+          "y": 0.35350876858359886,
+          "w": 0.16578947368421054,
+          "h": 0.08421052631578947,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 12.502751,
+          "x": 0.48297697368421055,
+          "y": 0.5219298212151778,
+          "w": 0.09769736842105263,
+          "h": 0.09210526315789473,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 3.526417,
+          "x": 0.43264802631578947,
+          "y": 0.3429824527941252,
+          "w": 0.16875,
+          "h": 0.11052631578947368,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 1.05,
+      "description": "The subject's head is tilted slightly down and to his right.",
+      "bboxes": [
+        {
+          "frame_time": 0.714026,
+          "x": 0.3497532894736842,
+          "y": 0.10614034753096731,
+          "w": 0.34638157894736843,
+          "h": 0.6236842105263158,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 1.05,
+      "end_time": 14.93,
+      "description": "The subject lifts his head to a neutral, forward-facing position and holds it steady for the remainder of the clip, with only minimal movements accompanying his speech.",
+      "bboxes": [
+        {
+          "frame_time": 10.192546,
+          "x": 0.35567434210526316,
+          "y": 0.07192982121517784,
+          "w": 0.3049342105263158,
+          "h": 0.6605263157894737,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0.97,
+      "end_time": 5.16,
+      "description": "Speech begins at a moderate pace and consistent volume. The pitch is in a low-to-mid range, with a slight falling intonation on the word \"teaching.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 5.56,
+      "end_time": 14.1,
+      "description": "A brief pause of approximately 0.4 seconds.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 14.93,
+      "description": "The subject is a man with light-colored skin, brown hair, and a full brown beard. He is wearing a dark purple crew-neck t-shirt. The background is a solid, brightly lit white. A large-diaphragm condenser microphone is visible in the bottom right of the frame.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Low",
+      "score": 0.25,
+      "rationale": "The subject's Low Extraversion is supported by his reserved and internally-focused demeanor. He begins with an introspective posture—gaze averted downward, head tilted, and lips pressed—suggesting a preference for internal thought processing over spontaneous, outward expression. Throughout his statement, he maintains a stable head position and a neutral facial expression, indicating a low level of social energy and expressive animation. His vocal delivery is measured and controlled, lacking the rapid pace and dynamic modulation characteristic of high extraversion.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Medium",
+      "score": 0.43,
+      "rationale": "A Medium level of Agreeableness is reflected in the subject's balanced presentation. By shifting his gaze to look directly forward, likely at the camera, he demonstrates a cooperative willingness to engage with his audience. His calm, even vocal tone and generally neutral expression are non-confrontational. However, the absence of overt pro-social cues, such as smiling or head nodding, combined with the assertive, definitive nature of his philosophical statement, places him in the medium range, indicating neither strong interpersonal warmth nor skepticism.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Medium",
+      "score": 0.59,
+      "rationale": "The subject's Medium Conscientiousness is evident in his deliberate and structured communication style. The initial moment of reflection with his gaze downward suggests a careful, organized approach to formulating his thoughts before speaking. His speech is well-articulated, with a moderate pace and intentional emphasis on the word 'fundamentally,' which reflects a desire for precision and clarity. The overall composure, marked by a stable posture and minimal extraneous movement, points to self-discipline and task-focused behavior.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Medium",
+      "score": 0.4,
+      "rationale": "The Medium Neuroticism score aligns with a predominantly calm and emotionally stable presentation. The subject's steady posture, controlled vocal delivery, and normal blink rate are all strong indicators of low anxiety. He exhibits no nervous fidgeting or vocal tremors. The rating is moderated to the medium level by subtle cues such as the slight squinting and the initial moment of inward focus, which could be interpreted as a mild form of self-consciousness or tension often present when one is being recorded, thus preventing a classification in the 'Low' neuroticism range.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "Low",
+      "score": 0.36,
+      "rationale": "The subject's Low Openness score is reflected in his delivery, which is grounded and matter-of-fact. Although the content of his speech is abstract and philosophical, his physical and vocal expression remains contained and unembellished. His facial expression is neutral, and his vocal tone is measured, lacking the dynamic range, intellectual excitement, or imaginative flair often associated with individuals high in Openness. This pragmatic and straightforward communication style, focused on conveying a point without aesthetic flourish, is consistent with a lower degree of openness.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their Medium Agreeableness level?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[8.0s - 8.5s]"
+        },
+        {
+          "id": "B",
+          "text": "[1.0s - 1.5s]"
+        },
+        {
+          "id": "C",
+          "text": "[14.4s - 14.9s]"
+        },
+        {
+          "id": "D",
+          "text": "[0.0s - 0.5s]"
+        },
+        {
+          "id": "E",
+          "text": "[3.2s - 3.7s]"
+        },
+        {
+          "id": "F",
+          "text": "[5.4s - 5.9s]"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The personality analysis for Medium Agreeableness highlights the shift from an inward focus to direct engagement with the audience/camera as a key piece of evidence for his cooperative willingness. This transition occurs at approximately 1.1s.\n- Option A is a text-based distractor; this interval is in the middle of his speech with no significant expression change relevant to Agreeableness.\n- Option B is the correct answer, as it captures the moment the subject lifts his head and gaze to look forward, a key indicator of engagement.\n- Option C is a video-based distractor. This interval captures the very end of the clip where his eyes are slightly squinted, which is more relevant to focus or Neuroticism, not the engagement aspect of Agreeableness.\n- Option D is a video-based distractor. This interval shows the initial, settled introspective pose, which is the state *before* the key change relevant to Agreeableness happens.\n- Option E is a text-based distractor, representing an uneventful moment during his speech.\n- Option F is a near-miss distractor. This interval is during his speech, but it does not contain the pivotal shift in posture that signals a change in engagement level."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 0.7s, a region was detected in the video (x=0.431, y=0.340, w=0.161, h=0.118, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A generally neutral set observed across the entire facial region."
+        },
+        {
+          "id": "B",
+          "text": "An averted gaze, directed by the subject downward and to the left."
+        },
+        {
+          "id": "C",
+          "text": "A stable and forward-facing position maintained by the person's head."
+        },
+        {
+          "id": "D",
+          "text": "An averted gaze, directed by the subject downward and to the right."
+        },
+        {
+          "id": "E",
+          "text": "A natural mouth articulation pattern that occurs during active speech."
+        },
+        {
+          "id": "F",
+          "text": "A subtle squinting expression observed in the subject's eye region."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The provided coordinates at 0.7s correspond directly to the subject's eyes. The observation log for that time and region states: The subject's gaze is downward and to the left.\n- Option A is a video-based distractor. The overall facial expression is neutral later, but this bounding box is specific to the eyes, and 'averted gaze' is a more precise description for the action within it.\n- Option B is the correct answer.\n- Option C is a video-based distractor. This describes the head, which is a different, larger region than the specified bounding box for the eyes.\n- Option D is a near-miss distractor. It correctly identifies the averted gaze but gives the wrong direction (right instead of left), a common AI error pattern provided in the source material.\n- Option E is a video-based distractor. This describes the mouth region at a different time; at 0.7s, the mouth is closed and not articulating speech.\n- Option F is a video-based distractor. A subtle squint is observed, but much later in the video (around 14.6s), not at 0.7s."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "Which option correctly identifies the precise time and location of a subtle expression indicative of focused concentration during the latter part of the statement?",
+      "options": [
+        {
+          "id": "A",
+          "text": "t=0.7s, bbox=(x:0.35, y:0.11, w:0.35, h:0.62)"
+        },
+        {
+          "id": "B",
+          "text": "t=14.6s, bbox=(x:0.43, y:0.35, w:0.17, h:0.08)"
+        },
+        {
+          "id": "C",
+          "text": "t=12.5s, bbox=(x:0.48, y:0.52, w:0.10, h:0.09)"
+        },
+        {
+          "id": "D",
+          "text": "t=14.6s, bbox=(x:0.40, y:0.21, w:0.24, h:0.51)"
+        },
+        {
+          "id": "E",
+          "text": "t=3.5s, bbox=(x:0.43, y:0.34, w:0.17, h:0.11)"
+        },
+        {
+          "id": "F",
+          "text": "t=5.5s, bbox=(x:0.45, y:0.35, w:0.15, h:0.10)"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The observation log notes that near the end of the video, the subject's eyes are slightly squinted, an expression of focus. The log places this at t=14.6s with a bounding box around the eyes (x=0.427, y=0.354, w=0.166, h=0.084), which matches the coordinates in option B.\n- Option A is a video-based distractor. It correctly identifies the location of the head at the beginning of the video, not an expression of focus at the end.\n- Option B is the correct answer.\n- Option C is a video-based distractor. It correctly identifies the mouth region during speech, but the question asks for an expression of focused concentration, which is the eye squint.\n- Option D is a near-miss distractor. It has the correct timestamp (14.6s) but provides coordinates for the entire face, not the specific region of the eye squint, making it less precise.\n- Option E is a video-based distractor. It identifies the eye region but at an earlier time (3.5s) when a normal blink was occurring, not the sustained squint of focus.\n- Option F is a text-based distractor. It presents a plausible but fabricated combination of time and coordinates that does not correspond to any specific logged event."
+    },
+    {
+      "category": "Counterfactual Reasoning",
+      "question": "If the person had NOT exhibited the behavior observed around 0.0s - 1.1s, which of the following personality assessments would be MOST affected?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The Medium Neuroticism score would be less supported, as this moment is the main indicator of potential self-consciousness."
+        },
+        {
+          "id": "B",
+          "text": "The Low Extraversion assessment would be most weakened, as this initial posture is key evidence for an internally-focused demeanor."
+        },
+        {
+          "id": "C",
+          "text": "The Medium Agreeableness score would be harder to justify, as this behavior suggests a lack of initial cooperative intent."
+        },
+        {
+          "id": "D",
+          "text": "The Medium Conscientiousness score would be less certain, as this action provides the main clue to his careful thought formulation."
+        },
+        {
+          "id": "E",
+          "text": "The Low Extraversion assessment would be reinforced, because removing this ambiguous behavior would clarify his lack of social energy."
+        },
+        {
+          "id": "F",
+          "text": "The Low Openness score would be less justified, as the behavior is the primary evidence for his matter-of-fact communication style."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The personality analysis for Low Extraversion explicitly begins by citing this specific behavior: 'He begins with an introspective posture—gaze averted downward, head tilted...' as the primary support. Removing this would eliminate the strongest single piece of evidence for his introverted, internally-focused nature, making the assessment much weaker.\n- Option A is a text-based distractor. While plausible that averted gaze indicates Neuroticism, the analysis bases the Medium score more on a calm demeanor moderated by subtle tensions, not heavily on this one moment.\n- Option B is the correct answer.\n- Option C is a text-based distractor. The analysis actually uses the *transition away* from this behavior as evidence for Agreeableness, so removing the initial state wouldn't necessarily harm the Agreeableness assessment.\n- Option D is a near-miss distractor. The analysis does connect this moment to Conscientiousness ('suggests a careful, organized approach'). However, it is framed as the foundational evidence for Low Extraversion, making that assessment more dependent on it.\n- Option E is a near-miss distractor that gets the trait correct but the direction of the effect wrong. Removing strong evidence for a trait weakens the assessment, it does not reinforce it.\n- Option F is a video-based distractor. It correctly identifies a trait (Low Openness) but connects it to the wrong evidence. The analysis bases Low Openness on his *delivery style* later in the video, not this initial posture."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator19",
+      "version": 1,
+      "clues_total": 15,
+      "clues_correct": 12,
+      "clues_wrong_corrected": 2,
+      "clues_missing_skipped": 1,
+      "clues_bonus": 0
+    }
+  }
+}

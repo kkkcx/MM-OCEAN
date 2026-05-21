@@ -1,0 +1,551 @@
+{
+  "video_id": "t6-ljEWQjW8.001.mp4",
+  "video_path": "t6-ljEWQjW8.001.mp4",
+  "transcription": "Thumbnail changes, video style changes. Upload style change is a huge massive thing, which is most likely going to be my whole 2016 teaser kind of thing. Just name-",
+  "original_scores": {
+    "extraversion": 0.4018691588785047,
+    "agreeableness": 0.5274725274725275,
+    "conscientiousness": 0.3883495145631068,
+    "neuroticism": 0.4375,
+    "openness": 0.4777777777777778
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 5.8,
+      "description": "The user maintains a direct gaze at the camera. Their mouth moves naturally with their speech. Eyebrows remain in a neutral, slightly relaxed position.",
+      "bboxes": [
+        {
+          "frame_time": 0.905453,
+          "x": 0.3009046052631579,
+          "y": 0.12719297910991467,
+          "w": 0.34342105263157896,
+          "h": 0.631578947368421,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 0.905453,
+          "x": 0.32310855263157895,
+          "y": 0.5114035054257041,
+          "w": 0.3256578947368421,
+          "h": 0.2657894736842105,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 0.905453,
+          "x": 0.29054276315789473,
+          "y": 0.12719297910991467,
+          "w": 0.32417763157894736,
+          "h": 0.4105263157894737,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 5.8,
+      "end_time": 7.42,
+      "description": "The user's eyes widen slightly and eyebrows lift as they gesture with both hands, conveying emphasis.",
+      "bboxes": [
+        {
+          "frame_time": 6.345085,
+          "x": 0.29498355263157894,
+          "y": 0.22192982121517785,
+          "w": 0.27828947368421053,
+          "h": 0.18421052631578946,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 6.345085,
+          "x": 0.21504934210526316,
+          "y": 0.16929824226780943,
+          "w": 0.3449013157894737,
+          "h": 0.3,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 5.966708,
+          "x": 0,
+          "y": 0.6008771896362305,
+          "w": 0.905921052631579,
+          "h": 0.39473684210526316,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 7.42,
+      "end_time": 11.9,
+      "description": "Expression returns to a neutral, conversational state with direct eye contact.",
+      "bboxes": [
+        {
+          "frame_time": 8.582561,
+          "x": 0.2772203947368421,
+          "y": 0.16929824226780943,
+          "w": 0.309375,
+          "h": 0.5921052631578947,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 8.582561,
+          "x": 0.2772203947368421,
+          "y": 0.12719297910991467,
+          "w": 0.3375,
+          "h": 0.7157894736842105,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 11.9,
+      "end_time": 13.79,
+      "description": "The user raises both hands and spreads them apart, widening their eyes slightly again for emphasis.",
+      "bboxes": [
+        {
+          "frame_time": 13.419528,
+          "x": 0.06110197368421052,
+          "y": 0.4692982422678094,
+          "w": 0.534375,
+          "h": 0.5289473684210526,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 13.419528,
+          "x": 0.26389802631578946,
+          "y": 0.12456140016254626,
+          "w": 0.3167763157894737,
+          "h": 0.3236842105263158,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 13.79,
+      "end_time": 15.34,
+      "description": "The user clasps their hands in front of their mouth, and their expression becomes more focused and neutral as they continue speaking.",
+      "bboxes": [
+        {
+          "frame_time": 14.556356,
+          "x": 0.1884046052631579,
+          "y": 0.5429824527941252,
+          "w": 0.43963815789473687,
+          "h": 0.45526315789473687,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 14.556356,
+          "x": 0.29202302631578947,
+          "y": 0.13771929489938836,
+          "w": 0.39226973684210525,
+          "h": 0.631578947368421,
+          "note": "face human-annotated",
+          "region": "face"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 0.8,
+      "description": "The user's right hand is visible at the bottom of the frame, moving in a quick, blurred motion.",
+      "bboxes": [
+        {
+          "frame_time": 0.538527,
+          "x": 0.23429276315789474,
+          "y": 0.6745614001625463,
+          "w": 0.5240131578947369,
+          "h": 0.32105263157894737,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0.8,
+      "end_time": 3.73,
+      "description": "The user gestures with their right hand, moving it up and down slightly in front of their chest. The motion is fast, causing motion blur.",
+      "bboxes": [
+        {
+          "frame_time": 2.206132,
+          "x": 0.20764802631578946,
+          "y": 0.7114035054257042,
+          "w": 0.6217105263157895,
+          "h": 0.28157894736842104,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 3.187501,
+          "x": 0.2579769736842105,
+          "y": 0.7377192948993884,
+          "w": 0.399671052631579,
+          "h": 0.2578947368421053,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 3.73,
+      "end_time": 11.39,
+      "description": "The user's hands are mostly out of frame, with only brief movements visible at the bottom. Their head remains relatively still, facing forward.",
+      "bboxes": [
+        {
+          "frame_time": 7.903257,
+          "x": 0.09958881578947368,
+          "y": 0.7377192948993884,
+          "w": 0.8230263157894737,
+          "h": 0.2578947368421053,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 8.612806,
+          "x": 0.22393092105263157,
+          "y": 0.13771929489938836,
+          "w": 0.45148026315789475,
+          "h": 0.8526315789473684,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 11.39,
+      "end_time": 13.79,
+      "description": "The user raises both hands into the frame, palms facing inward, and then spreads them apart in an illustrative gesture.",
+      "bboxes": [
+        {
+          "frame_time": 13.565076,
+          "x": 0,
+          "y": 0.18508771595201995,
+          "w": 0.44259868421052634,
+          "h": 0.7894736842105263,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 13.477747,
+          "x": 0.02705592105263157,
+          "y": 0.1561403475309673,
+          "w": 0.41151315789473686,
+          "h": 0.8236842105263158,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 13.79,
+      "end_time": 15.34,
+      "description": "The user brings both hands together in front of their mouth, interlacing their fingers.",
+      "bboxes": [
+        {
+          "frame_time": 14.70035,
+          "x": 0.2046875,
+          "y": 0.48508771595201994,
+          "w": 0.39671052631578946,
+          "h": 0.4236842105263158,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 14.70035,
+          "x": 0.2846217105263158,
+          "y": 0.5956140317414936,
+          "w": 0.39375,
+          "h": 0.3894736842105263,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 4.67,
+      "description": "Speech is at a moderate, even pace and pitch. The speaker places slightly more stress and volume on the words \"huge massive thing.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 4.67,
+      "end_time": 15.34,
+      "description": "The speech rate increases slightly. The pitch and volume remain conversational and consistent until the end of the clip.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.34,
+      "description": "The subject is a young male with fair skin, medium-length brown hair, and a thin mustache. He is wearing a light green t-shirt and large, bright green over-ear headphones. He is in a room with a textured, light-colored wall. A white light switch is visible on the wall to his left, and hanging clothes, including a shirt and a jacket, are on his right. Lighting is diffuse from the front.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Medium",
+      "score": 0.4,
+      "rationale": "The subject's score indicates a moderate, or ambivert, level of Extraversion. He comfortably engages with the audience through consistent direct eye contact and uses hand gestures to add emphasis, which are markers of social expressiveness. However, his energy is controlled; his head remains relatively still, his facial expressions are mostly neutral, and his vocal tone is even rather than overtly animated. This blend of outward engagement with a reserved physical composure supports a medium score, suggesting someone who is socially capable but not driven by a need for high levels of external stimulation.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Medium",
+      "score": 0.53,
+      "rationale": "The subject scores in the medium range for Agreeableness, portraying a cooperative and approachable demeanor. His maintained eye contact and relaxed, neutral facial expressions signal a non-confrontational and open communicative stance. The overall vocal tone is even and conversational, which is consistent with a pleasant interaction style. The absence of warmer, more explicit affiliative cues like smiling or nodding places him in the moderate range, indicating a person who is agreeable and easygoing but not effusively so.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Low",
+      "score": 0.39,
+      "rationale": "The low score in Conscientiousness is subtly suggested by a combination of environmental and behavioral cues. The background, with clothes casually hung in view, points to a relaxed attitude towards order and organization. Furthermore, his speech contains a self-interruption ('Just name-'), which can indicate a more spontaneous and less pre-scripted mode of thought. While he is discussing plans, the overall impression is one of flexibility and casualness rather than the meticulous structure and discipline characteristic of high Conscientiousness.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Medium",
+      "score": 0.44,
+      "rationale": "The subject's Medium Neuroticism score is reflected in a predominantly stable demeanor punctuated by a subtle indicator of self-consciousness. For most of the video, he appears calm, maintaining steady eye contact and a neutral expression. However, the gesture of crossing his hands and holding his wrist in front of his mouth near the end of the clip is a significant 'tell'. This action is often interpreted as a self-soothing or barrier gesture, suggesting a brief moment of anxiety or uncertainty. This mix of general composure with a fleeting sign of distress aligns perfectly with a medium score.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "Medium",
+      "score": 0.48,
+      "rationale": "The subject's score falls into the medium range for Openness. Evidence for this trait is found in both the content of his speech and his personal expression. He is explicitly discussing innovation and change regarding his video style, which shows an openness to new experiences. Aesthetically, his choice of large, bright green headphones suggests a non-conventional and expressive personal style. These indicators are balanced by a relatively conventional and straightforward linguistic style, which grounds his level of Openness in the moderate, rather than high, range.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During 13.8s - 15.3s, the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "High Agreeableness, seen in a cooperative body language posture"
+        },
+        {
+          "id": "B",
+          "text": "Low Neuroticism, due to their calm and otherwise stable demeanor"
+        },
+        {
+          "id": "C",
+          "text": "Low Conscientiousness, demonstrated by spontaneous hand actions"
+        },
+        {
+          "id": "D",
+          "text": "High Extraversion, shown by their particularly animated gestures"
+        },
+        {
+          "id": "E",
+          "text": "Medium Neuroticism, shown by brief but clear self-consciousness"
+        },
+        {
+          "id": "F",
+          "text": "High Openness, signaled by their creative and unique movements"
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The gesture of holding one wrist and crossing the hands in front of the mouth is a classic self-soothing or barrier gesture. The personality analysis identifies this as a 'significant tell' for a brief moment of anxiety or uncertainty, which tempers an otherwise calm demeanor, thus supporting a Medium Neuroticism score.\n- Option A is a text-based distractor; the gesture is not typically interpreted as cooperative and is more of an internal-facing action.\n- Option B is a near-miss distractor; while the person is calm for most of the video, this specific behavior is the primary evidence AGAINST a Low Neuroticism rating, making its interpretation of the event incorrect.\n- Option C is a text-based distractor; the action is deliberate and specific, not a sign of general spontaneity related to low conscientiousness.\n- Option D is a video-based distractor; this specific gesture is not an animated or extraverted one. The more expressive gestures occur earlier (e.g., around 6.0s), not in this time frame.\n- Option F is a text-based distractor; the gesture is not indicative of creativity but rather emotional self-regulation."
+    },
+    {
+      "category": "Mixed Emotion Discrimination",
+      "question": "During 5.8s - 7.4s, the person's emotional state is best characterized as which of the following? Consider both verbal and non-verbal cues.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Genuine surprise tempered by a quiet sense of discovery"
+        },
+        {
+          "id": "B",
+          "text": "Quiet confidence mixed with a relaxed self-assurance"
+        },
+        {
+          "id": "C",
+          "text": "Playful excitement tempered with a subtle hint of humor"
+        },
+        {
+          "id": "D",
+          "text": "Reflective thought mixed with a sincere sense of passion"
+        },
+        {
+          "id": "E",
+          "text": "Assertive emphasis mixed with intellectual engagement"
+        },
+        {
+          "id": "F",
+          "text": "Joyful enthusiasm tempered with a soft touch of nostalgia"
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "In this interval, the user emphasizes the phrase 'huge massive thing' by slightly widening their eyes, raising their eyebrows, and gesturing with both hands. This combination of cues points to a state of focused, intellectual engagement and a desire to assertively emphasize a point, not a strong personal emotion.\n- Option A is a near-miss distractor; the widened eyes could be misread as surprise, but the context of the speech and accompanying gestures clearly indicate emphasis rather than a reaction to new information.\n- Option B is a video-based distractor; this describes the person's more neutral, baseline state (e.g., 7.4s-11.9s) but not the active, emphatic state in this specific segment.\n- Option C is a text-based distractor; there are no visual or auditory cues (like smiling or laughter) to suggest playfulness or humor.\n- Option D is a text-based distractor; the expression is one of outward communication and emphasis, not internal reflection or contemplation.\n- Option F is a text-based distractor; the emotional display is neutral-to-emphatic, with no signs of joy or nostalgia."
+    },
+    {
+      "category": "Temporal-Causal Reasoning",
+      "question": "Consider the sequence of behaviors observed across the video. Which of the following best describes the causal chain linking the person's actions at different moments?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A self-monitoring gesture prompts a baseline display, which finally opens into an emphatic statement to conclude the topic."
+        },
+        {
+          "id": "B",
+          "text": "An early emphatic display causes a retreat to a baseline conversational state, which then results in a self-soothing action."
+        },
+        {
+          "id": "C",
+          "text": "An expression of confusion prompts a clarifying gesture, which resolves into a display of confident satisfaction at the end."
+        },
+        {
+          "id": "D",
+          "text": "A baseline display is interrupted by a self-monitoring act, prompting a compensatory emphatic gesture to regain narrative control."
+        },
+        {
+          "id": "E",
+          "text": "A baseline conversational display transitions to an emphatic one to underscore a point, followed by a self-monitoring gesture."
+        },
+        {
+          "id": "F",
+          "text": "A period of focused thought leads to an emphatic gesture, which is then followed by a simple return to a neutral, thoughtful state."
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The video follows a clear logical progression: 1) The person starts with a standard, neutral conversational manner (e.g., ~2.2s). 2) To highlight the phrase 'huge massive thing,' they use more pronounced gestures and facial expressions for emphasis (e.g., ~6.0s). 3) After this peak, as they conclude their thought, they perform a self-soothing/monitoring gesture (hands to mouth at ~14.7s). This option correctly maps this temporal and causal flow.\n- Option A is a video-based distractor with a reversed temporal order.\n- Option B is a video-based distractor that incorrectly identifies the early behavior as emphatic and misinterprets the causality of the middle phase.\n- Option C is a text-based distractor; the person never shows confusion, so the initial premise is incorrect.\n- Option D is a near-miss distractor; it contains the correct behavioral elements but places them in the wrong temporal order and assigns an incorrect causal link (compensatory gesture).\n- Option F is a video-based distractor that correctly identifies the transition to an emphatic gesture but mischaracterizes the final action as a simple return to neutral, missing the significance of the specific self-monitoring gesture."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 14.6s, a region was detected in the video (x=0.188, y=0.543, w=0.440, h=0.455, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A steady and direct gaze directed straight at the camera"
+        },
+        {
+          "id": "B",
+          "text": "A subtle raising of the eyebrows to provide more emphasis"
+        },
+        {
+          "id": "C",
+          "text": "An emphatic hand gesture made with both of the hands"
+        },
+        {
+          "id": "D",
+          "text": "A defensive posture with both hands clasped at the mouth"
+        },
+        {
+          "id": "E",
+          "text": "A self-soothing gesture with hands crossed near the mouth"
+        },
+        {
+          "id": "F",
+          "text": "A neutral facial expression during a conversational pause"
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The specified bounding box at 14.6s covers the lower half of the face, including the mouth and the hands. At this moment, the person is performing the self-soothing gesture of holding their right wrist with their left hand, with the hands crossed in front of the mouth. This is a key moment for the Neuroticism assessment.\n- Option A is a video-based distractor; direct gaze occurs in the eye region (upper part of the face), not in this bbox.\n- Option B is a video-based distractor; the eyebrow raise occurs earlier (around 6.3s) and in a different facial region.\n- Option C is a video-based distractor; the main emphatic gesture occurs earlier in the video (around 6.0s).\n- Option D is a near-miss distractor; it correctly identifies the location and general nature of the gesture, but incorrectly describes the hand configuration as 'clasped,' whereas the video shows one hand holding the other wrist.\n- Option F is a video-based distractor; while the facial expression is relatively neutral, the most prominent action within the box is the hand gesture, not the absence of expression."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "The individual makes a coordinated set of movements to add emphasis to a key point, involving changes in their facial expression and hand positions simultaneously. At which time and location does this emphatic display occur?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[14.6s] x=0.19, y=0.54, w=0.44, h=0.46"
+        },
+        {
+          "id": "B",
+          "text": "[0.9s] x=0.29, y=0.13, w=0.32, h=0.41"
+        },
+        {
+          "id": "C",
+          "text": "[0.5s] x=0.23, y=0.67, w=0.52, h=0.32"
+        },
+        {
+          "id": "D",
+          "text": "[13.5s] x=0.03, y=0.16, w=0.41, h=0.82"
+        },
+        {
+          "id": "E",
+          "text": "[6.3s] x=0.22, y=0.17, w=0.34, h=0.30"
+        },
+        {
+          "id": "F",
+          "text": "[14.7s] x=0.28, y=0.60, w=0.39, h=0.39"
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The moment of peak emphasis described in the question occurs around 5.8s-7.4s, when the person says 'huge massive thing.' The cues are widened eyes, raised eyebrows, and hand gestures. The timestamp 6.3s falls squarely in this range, and the bounding box (x=0.22, y=0.17, w=0.34, h=0.30) correctly localizes the upper facial region where the eye and eyebrow changes are most apparent.\n- Option A is a video-based distractor; it points to the self-soothing gesture at the end, which is not for emphasis.\n- Option B is a video-based distractor; it shows the person's neutral, baseline expression near the beginning.\n- Option C is a video-based distractor; it captures initial hand motion at the very start of the video, not the key moment of emphasis.\n- Option D is a video-based distractor; it captures the hands separating, which is another gesture of emphasis but the bbox in E is more focused on the facial expression part of the compound signal.\n- Option F is a near-miss distractor; it is very close in time and space to option A (the self-soothing gesture) but represents a slightly different framing, serving to confuse it with the final action rather than the mid-video emphatic one."
+    },
+    {
+      "category": "Counterfactual Reasoning",
+      "question": "If the person had NOT exhibited the behavior observed around 13.8s - 15.3s, which of the following personality assessments would be MOST affected?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Agreeableness might be judged as lower, because the posture is a key signal of the person's cooperative interaction style."
+        },
+        {
+          "id": "B",
+          "text": "Conscientiousness would be rated higher, as removing this spontaneous motion implies a more disciplined and planned presentation."
+        },
+        {
+          "id": "C",
+          "text": "Extraversion would be rated lower, as this gesture is a primary display of their outward communicative expressiveness."
+        },
+        {
+          "id": "D",
+          "text": "Neuroticism might be assessed as higher, since removing this controlled moment would reveal a more anxious overall pattern."
+        },
+        {
+          "id": "E",
+          "text": "Neuroticism might be assessed as lower, as this specific action is the main indicator of underlying self-consciousness."
+        },
+        {
+          "id": "F",
+          "text": "Openness would be rated lower, because this is a subtle but key cue of their unconventional and creative expression."
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The personality analysis states that the hand-to-mouth gesture in this time frame is a 'significant tell' suggesting 'a brief moment of anxiety or uncertainty.' Without this single, critical piece of evidence, the person's demeanor would appear consistently calm and stable. This would remove the primary support for a Medium Neuroticism score, likely causing it to be assessed as Low.\n- Option A is a text-based distractor; the gesture is unrelated to cooperation, and Agreeableness is supported by other cues like steady eye contact.\n- Option B is a text-based distractor; this gesture is linked to emotional regulation (Neuroticism), not spontaneity (Conscientiousness).\n- Option C is a video-based distractor; this specific gesture is self-soothing, not an expressive, extraverted one. The expressive gestures happen at other times.\n- Option D is a near-miss distractor; it correctly identifies Neuroticism as the affected trait but posits the wrong direction of change. Removing this anxious tell would decrease, not increase, the assessed level of Neuroticism.\n- Option F is a text-based distractor; the gesture is not a cue for creativity, and the Openness assessment is based on verbal content and aesthetic choices (headphones)."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator20",
+      "version": 3,
+      "clues_total": 24,
+      "clues_correct": 17,
+      "clues_wrong_corrected": 7,
+      "clues_missing_skipped": 0,
+      "clues_bonus": 0
+    }
+  }
+}

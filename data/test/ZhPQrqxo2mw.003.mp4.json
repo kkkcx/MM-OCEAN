@@ -1,0 +1,366 @@
+{
+  "video_id": "ZhPQrqxo2mw.003.mp4",
+  "video_path": "ZhPQrqxo2mw.003.mp4",
+  "transcription": "... thing that we can do is to look at all of the great things that we do have and not stress or worry about things that we don't have. You just enjoy the holidays in general and enjoy the things that you love.",
+  "original_scores": {
+    "extraversion": 0.5794392523364487,
+    "agreeableness": 0.7472527472527474,
+    "conscientiousness": 0.7766990291262136,
+    "neuroticism": 0.6875,
+    "openness": 0.7555555555555554
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 5.71,
+      "description": "The subject maintains direct eye contact with the camera, speaking with a neutral, engaged expression. Her eyebrows lift slightly as she emphasizes certain words. She blinks naturally.",
+      "bboxes": [
+        {
+          "frame_time": 0.11654,
+          "x": 0.4666940789473684,
+          "y": 0.42192982121517786,
+          "w": 0.19095394736842106,
+          "h": 0.12631578947368421,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 1.28194,
+          "x": 0.44004934210526314,
+          "y": 0.39035087384675676,
+          "w": 0.2294407894736842,
+          "h": 0.38421052631578945,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 0.029135,
+          "x": 0.4563322368421053,
+          "y": 0.3877192948993884,
+          "w": 0.2131578947368421,
+          "h": 0.11315789473684211,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 1.493721,
+          "x": 0.4607730263157895,
+          "y": 0.46403508437307256,
+          "w": 0.17319078947368421,
+          "h": 0.08421052631578947,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 5.71,
+      "end_time": 9.44,
+      "description": "Her eyebrows lower and draw slightly together as she says \"stress or worry.\" Her expression then returns to neutral as she finishes the phrase \"things that we don't have.\"",
+      "bboxes": [
+        {
+          "frame_time": 7.491812,
+          "x": 0.4652138157894737,
+          "y": 0.3956140317414936,
+          "w": 0.21907894736842107,
+          "h": 0.36578947368421055,
+          "note": "human-annotated",
+          "region": "unknown"
+        },
+        {
+          "frame_time": 8.711365,
+          "x": 0.45041118421052634,
+          "y": 0.30087718963623045,
+          "w": 0.2338815789473684,
+          "h": 0.41578947368421054,
+          "note": "face human-annotated",
+          "region": "face"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 9.44,
+      "end_time": 14.93,
+      "description": "Her expression softens, and her lips form a slight, warm smile as she says \"just enjoy the holidays.\" The smile is maintained for the remainder of the clip.",
+      "bboxes": [
+        {
+          "frame_time": 10.006661,
+          "x": 0.46817434210526315,
+          "y": 0.39035087384675676,
+          "w": 0.22203947368421054,
+          "h": 0.3736842105263158,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 11.653175,
+          "x": 0.5037006578947368,
+          "y": 0.6324561370046515,
+          "w": 0.14950657894736843,
+          "h": 0.15263157894736842,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 12.620155,
+          "x": 0.4977796052631579,
+          "y": 0.6008771896362305,
+          "w": 0.1361842105263158,
+          "h": 0.11052631578947368,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 14.93,
+      "description": "The subject is seated, facing the camera directly, framed from the chest up. Her head remains mostly still, with very slight, subtle nods and tilts that are in sync with her speech.",
+      "bboxes": [
+        {
+          "frame_time": 2.149664,
+          "x": 0.34679276315789476,
+          "y": 0.4798245580572831,
+          "w": 0.43519736842105267,
+          "h": 0.4921052631578947,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 7.12226,
+          "x": 0.4208059210526316,
+          "y": 0.2850877159520199,
+          "w": 0.2738486842105263,
+          "h": 0.5578947368421052,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 9.44,
+      "description": "The subject speaks at a moderate pace and even volume, with a clear, declarative tone. Faint, slow-tempo instrumental Christmas music plays in the background.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 9.44,
+      "end_time": 14.93,
+      "description": "The subject's vocal tone becomes slightly softer and more melodic. Her pitch rises slightly on the words \"enjoy\" and \"love.\" The background music continues at a low volume.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 14.93,
+      "description": "The subject is a young woman with a medium skin tone and long, dark, curly hair styled in a high bun with a ponytail falling over her left shoulder. She is wearing large gold-colored hoop earrings, a thin gold necklace, and a grey collared shirt. She is indoors in front of a white fireplace mantel decorated for Christmas with several stockings (including a Santa Claus stocking and one with the word 'JOY'), green garlands with red bows, and flanked by vertical strings of warm, out-of-focus lights.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 14.444036,
+      "end_time": 15.444036,
+      "description": "This African-American woman has fluffy black curly hair, tied into a high bun on the top of her head. The naturally hanging curls on both sides are very layered and recognizable like black hairstyles.",
+      "bboxes": [
+        {
+          "frame_time": 14.944036,
+          "x": 0.33939144736842103,
+          "y": 0.040350873846756785,
+          "w": 0.20723684210526316,
+          "h": 0.9552631578947368,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Medium",
+      "score": 0.58,
+      "rationale": "The subject's score falls into the Medium range, indicating a balance between introverted and extraverted tendencies. Her comfort in front of the camera and direct, sustained eye contact demonstrate social confidence. Furthermore, her use of eyebrow raises for emphasis and shifts in vocal melody show social expressiveness. However, this is counterbalanced by a very controlled and composed physical presence — her head and body remain largely still. This lack of broad, energetic gesturing is uncharacteristic of high extraversion, placing her squarely in the medium, or ambiverted, range.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "High",
+      "score": 0.75,
+      "rationale": "The subject scores High in Agreeableness, which is strongly supported by her verbal and non-verbal cues. Her core message is prosocial and empathetic, encouraging viewers to focus on positivity and enjoyment. This is physically manifested through a visible softening of her facial expression and a warm, maintained smile when speaking of positive things. Her vocal tone also shifts to become softer and more melodic, particularly when emphasizing words like 'enjoy' and 'love,' which conveys warmth and a desire for harmonious connection with her audience.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "High",
+      "score": 0.78,
+      "rationale": "A High level of Conscientiousness is indicated by the subject's deliberate and controlled presentation. Her speech is clear and delivered at a moderate, even pace, suggesting thoughtfulness and preparation. Her physical movements are minimal and purposeful, with slight head nods synchronized to her speech, reflecting a high degree of self-control. The content of her message, which advises on managing stress through a focused, positive outlook, is itself a form of self-regulatory advice, a key aspect of the conscientious mindset.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "High",
+      "score": 0.69,
+      "rationale": "The subject exhibits behaviors consistent with a High Neuroticism score. The central theme of her message is the management of negative emotions, specifically 'stress or worry.' Choosing this as a topic suggests a preoccupation with and sensitivity to these feelings, which is a hallmark of this trait. While she advocates for a positive coping strategy, the very focus on mitigating negative emotional states implies that she experiences them with enough frequency or intensity to warrant discussion. This focus on emotional regulation, rather than an unburdened disposition, supports the High rating.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "High",
+      "score": 0.76,
+      "rationale": "The subject's High Openness is reflected in the abstract and reflective nature of her message. She encourages a shift in perspective—an intellectual exercise in reframing one's focus—which aligns with the cognitive curiosity typical of open individuals. Her expressive and melodic vocal shifts when discussing feelings ('enjoy', 'love') suggest a sensitivity and appreciation for emotional and aesthetic experiences. The articulate and well-structured delivery of her thoughts further points to an individual who is comfortable with ideas and self-expression.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During 9.4s - 14.9s, the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "High Agreeableness, demonstrated through the prosocial warmth in expression and vocal tone."
+        },
+        {
+          "id": "B",
+          "text": "Low Neuroticism, indicated by the calm and very positive message delivery throughout the clip."
+        },
+        {
+          "id": "C",
+          "text": "High Conscientiousness, supported by the deliberate and even speech pace seen in the segment."
+        },
+        {
+          "id": "D",
+          "text": "Medium Extraversion, based on the general lack of broad, energetic gesturing in the video."
+        },
+        {
+          "id": "E",
+          "text": "Low Agreeableness, as the highly controlled demeanor suggests a lack of genuine warm feelings."
+        },
+        {
+          "id": "F",
+          "text": "High Openness, reflected in the choice of a complex and abstract philosophical topic here."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. During this interval, the subject's expression softens, she develops a warm smile, and her vocal tone becomes more melodic while discussing positive actions ('enjoy', 'love'), which are all strong indicators of prosocial warmth and empathy, key facets of High Agreeableness.\n- Option B is a text-based distractor. A calm, positive message might suggest low neuroticism, but the personality analysis indicates high neuroticism based on the *topic choice* (managing worry), making this conclusion incorrect.\n- Option C is a video-based distractor. While she does speak deliberately (High Conscientiousness), this is characteristic of the entire video. The *change* in this specific segment is a shift in affect, which is more directly about Agreeableness.\n- Option D is a video-based distractor. The lack of gesturing supports Medium Extraversion, but this is a global observation across the whole video, not a specific behavior unique to this time segment.\n- Option E is a near-miss distractor. It correctly identifies the relevant trait (Agreeableness) but interprets the evidence in the wrong direction. The behavioral cues in this segment clearly point to warmth, not a lack of it.\n- Option F is a text-based distractor. The topic choice is more relevant to Openness, but the most salient *behavioral pattern* in this specific time range is the emotional expression, which points to Agreeableness."
+    },
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression occur that is most relevant to their assessed level of Agreeableness?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[10.8s - 12.0s]"
+        },
+        {
+          "id": "B",
+          "text": "[0.5s - 1.7s]"
+        },
+        {
+          "id": "C",
+          "text": "[6.8s - 8.0s]"
+        },
+        {
+          "id": "D",
+          "text": "[12.9s - 14.1s]"
+        },
+        {
+          "id": "E",
+          "text": "[3.2s - 4.4s]"
+        },
+        {
+          "id": "F",
+          "text": "[8.1s - 9.3s]"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. The key evidence for High Agreeableness is the warm smile that conveys prosocial intent. This smile emerges and becomes clearly established within the [10.8s - 12.0s] interval, as noted in the observation log at 11.7s. This represents the most significant expressive *change* related to that trait.\n- Option B is a video-based distractor. This interval shows a neutral, engaged expression, not the specific change related to warmth.\n- Option C is a video-based distractor. This interval corresponds to her mentioning 'stress or worry,' a moment more relevant to Neuroticism than Agreeableness.\n- Option D is a near-miss distractor. During this time, the smile is being held, not undergoing a notable *change*. The question asks for the interval where the change occurs.\n- Option E is a video-based distractor. This interval shows the speaker maintaining her neutral, controlled expression from the beginning.\n- Option F is a video-based distractor. This interval captures the moment just before the emotional shift, where her expression is still neutral after discussing what 'we don't have.'"
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 0.0s, a region was detected in the video (x=0.456, y=0.388, w=0.213, h=0.113, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A subtle, warm smile being held in a completely steady state."
+        },
+        {
+          "id": "B",
+          "text": "The facial muscles visibly softening in a transition to warmth."
+        },
+        {
+          "id": "C",
+          "text": "Hands resting in a controlled and composed seated body posture."
+        },
+        {
+          "id": "D",
+          "text": "Head being held completely still with almost no minor movement."
+        },
+        {
+          "id": "E",
+          "text": "Eyebrows furrowing slightly to show a degree of concentration."
+        },
+        {
+          "id": "F",
+          "text": "Eyebrows being raised slightly to add emphasis to spoken words."
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The correct answer is F. The specified coordinates at 0.0s precisely isolate the eyebrow region. The observation log for this time and location confirms that her eyebrows are slightly raised to emphasize her speech, a common non-verbal illustrator.\n- Option A is a video-based distractor. A smile appears, but much later in the video (after 9.4s) and in the mouth region, not the specified eyebrow region at 0.0s.\n- Option B is a video-based distractor. The facial softening also occurs later (after 9.4s) and involves the entire face, not just this specific upper region.\n- Option C is a video-based distractor. The hands are located in a different spatial area (the lower part of the frame), well outside the specified bounding box.\n- Option D is a near-miss distractor. While her head is generally still, this bounding box is too small to contain the whole head and is specifically focused on the eyebrows, where a distinct action (raising) is occurring.\n- Option E is a text-based distractor. It correctly identifies the body part (eyebrows) but describes an action (furrowing) that is explicitly noted as *not* present in the video (negative evidence), making it factually incorrect."
+    },
+    {
+      "category": "Counterfactual Reasoning",
+      "question": "If the person had NOT exhibited the behavior observed around 5.7s - 9.4s, which of the following personality assessments would be MOST affected?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The High Neuroticism assessment would be weakened, since the explicit verbal focus on managing worry is the primary evidence for this trait."
+        },
+        {
+          "id": "B",
+          "text": "The High Conscientiousness score would be less certain, as this segment is where her careful and deliberate speaking style is most obvious."
+        },
+        {
+          "id": "C",
+          "text": "The High Agreeableness rating would likely decrease, since the shift to a warm smile that follows would lack its crucial preceding context."
+        },
+        {
+          "id": "D",
+          "text": "The High Neuroticism assessment would be strengthened, because avoiding that topic would instead imply a greater level of suppression."
+        },
+        {
+          "id": "E",
+          "text": "The Medium Extraversion score would shift much higher, as that moment is the primary indicator of her more introverted, quiet tendencies."
+        },
+        {
+          "id": "F",
+          "text": "The High Openness score would be unsupported, since the key abstract reframing of the problem happens only within this small time interval."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. The behavior in 5.7s - 9.4s is the verbalization of 'stress or worry'. The personality analysis explicitly states that this focus on managing negative emotions is the hallmark evidence for her High Neuroticism score. Removing this specific content would remove the strongest pillar for that assessment.\n- Option B is a video-based distractor. Her careful, deliberate speaking style (evidence for Conscientiousness) is consistent throughout the entire video, not confined to this segment. Its removal would not significantly impact the trait assessment.\n- Option C is a text-based distractor. While the context would be altered, the primary evidence for High Agreeableness—the warm smile and soft tone after 9.4s—would still exist and strongly support the rating.\n- Option D is a near-miss distractor. It correctly identifies the affected trait (Neuroticism) but proposes the wrong direction of change. In the absence of direct evidence, the score would be weaker, not stronger.\n- Option E is a text-based distractor. The evidence for Medium Extraversion is the global lack of energetic gesturing, which is unrelated to the specific verbal content of this time segment.\n- Option F is a video-based distractor. The entire message involves an abstract reframing (focusing on the positive), which supports Openness. This theme is not exclusive to the 5.7s-9.4s interval."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator10",
+      "version": 2,
+      "clues_total": 16,
+      "clues_correct": 14,
+      "clues_wrong_corrected": 0,
+      "clues_missing_skipped": 1,
+      "clues_bonus": 1
+    }
+  }
+}

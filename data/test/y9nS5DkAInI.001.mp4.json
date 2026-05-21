@@ -1,0 +1,523 @@
+{
+  "video_id": "y9nS5DkAInI.001.mp4",
+  "video_path": "y9nS5DkAInI.001.mp4",
+  "transcription": "Super animal. My favorite animal is pandas. I love pandas. Number 10, what is your favorite perfume? My favorite perfume, I have one that I've been using lately. It's from Victoria Secret.",
+  "original_scores": {
+    "extraversion": 0.4299065420560748,
+    "agreeableness": 0.5164835164835165,
+    "conscientiousness": 0.35922330097087385,
+    "neuroticism": 0.42708333333333337,
+    "openness": 0.4666666666666667
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 2.7,
+      "description": "The subject's gaze is directed downwards and to her right. Her eyelids are slightly lowered, and her mouth moves as she speaks.",
+      "bboxes": [
+        {
+          "frame_time": 2.429831,
+          "x": 0.38580246913580246,
+          "y": 0.16620941580731846,
+          "w": 0.24537037037037038,
+          "h": 0.19753086419753085,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 2.258025,
+          "x": 0.38580246913580246,
+          "y": 0.18815728960704411,
+          "w": 0.26080246913580246,
+          "h": 0.18106995884773663,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 1.672427,
+          "x": 0.3950617283950617,
+          "y": 0.432327385628992,
+          "w": 0.16049382716049382,
+          "h": 0.11522633744855967,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 2.7,
+      "end_time": 8.5,
+      "description": "The subject raises her head and directs her gaze toward the camera. Her eyebrows remain in a neutral position, and she blinks naturally. Her mouth continues to move in sync with her speech.",
+      "bboxes": [
+        {
+          "frame_time": 5.16471,
+          "x": 0.35030864197530864,
+          "y": 0.015317783434204604,
+          "w": 0.33796296296296297,
+          "h": 0.6611796982167353,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 8.369418,
+          "x": 0.3734567901234568,
+          "y": 0.15797896313242135,
+          "w": 0.2824074074074074,
+          "h": 0.19753086419753085,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 8.369418,
+          "x": 0.375,
+          "y": 0.12780063665779856,
+          "w": 0.25771604938271603,
+          "h": 0.14266117969821673,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 7.976718,
+          "x": 0.38580246913580246,
+          "y": 0.21559213185670117,
+          "w": 0.2191358024691358,
+          "h": 0.1646090534979424,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 7.976718,
+          "x": 0.43209876543209874,
+          "y": 0.478966617453409,
+          "w": 0.14506172839506173,
+          "h": 0.12071330589849108,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 8.5,
+      "end_time": 10.9,
+      "description": "The subject's gaze shifts slightly to her left and then back towards the center. Her facial expression remains relaxed and consistent.",
+      "bboxes": [
+        {
+          "frame_time": 9.63655,
+          "x": 0.35648148148148145,
+          "y": 0.19638774228194122,
+          "w": 0.2824074074074074,
+          "h": 0.15637860082304528,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 10.950081,
+          "x": 0.36419753086419754,
+          "y": 0.17992683693214698,
+          "w": 0.2191358024691358,
+          "h": 0.15637860082304528,
+          "note": "human-annotated",
+          "region": "unknown"
+        },
+        {
+          "frame_time": 10.383584,
+          "x": 0.3549382716049383,
+          "y": 0.16346593158235276,
+          "w": 0.3055555555555556,
+          "h": 0.49657064471879286,
+          "note": "face human-annotated",
+          "region": "face"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 10.9,
+      "end_time": 15,
+      "description": "The subject maintains her gaze toward the camera, with natural blinking and mouth movements corresponding to her speech.",
+      "bboxes": [
+        {
+          "frame_time": 11.695402,
+          "x": 0.3395061728395062,
+          "y": 0.1387745735576614,
+          "w": 0.28703703703703703,
+          "h": 0.2112482853223594,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 8.7,
+      "description": "The subject is seated, leaning slightly forward in a chair. Her head and shoulders are mostly stationary, with subtle movements accompanying her speech.",
+      "bboxes": [
+        {
+          "frame_time": 2.674072,
+          "x": 0.15432098765432098,
+          "y": 0.385688153804575,
+          "w": 0.6790123456790124,
+          "h": 0.614311846195425,
+          "note": "pose human-annotated",
+          "region": "torso"
+        },
+        {
+          "frame_time": 5.164893,
+          "x": 0.3425925925925926,
+          "y": 0.012574299209238898,
+          "w": 0.3611111111111111,
+          "h": 0.8449931412894376,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 8.7,
+      "end_time": 11.2,
+      "description": "The subject briefly tilts her head to her right as she looks slightly to her left.",
+      "bboxes": [
+        {
+          "frame_time": 9.753845,
+          "x": 0.3117283950617284,
+          "y": 0.045496109908827374,
+          "w": 0.42746913580246915,
+          "h": 0.6831275720164609,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 11.2,
+      "end_time": 15,
+      "description": "Her head returns to a central position and then tilts slightly to her left while she continues speaking.",
+      "bboxes": [
+        {
+          "frame_time": 12.62466,
+          "x": 0.3395061728395062,
+          "y": 0.0016003623093760718,
+          "w": 0.4166666666666667,
+          "h": 0.7133058984910837,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 13.523606,
+          "x": 0.32098765432098764,
+          "y": 0.015317783434204604,
+          "w": 0.38580246913580246,
+          "h": 0.6584362139917695,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 5.4,
+      "description": "The subject speaks at a moderate pace with a soft, slightly breathy vocal quality. Her pitch has a natural, falling intonation at the end of the phrases \"favorite animal\" and \"pandas.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 5.4,
+      "end_time": 15,
+      "description": "Speech continues at a consistent pace and volume. She places slight stress on the words \"favorite perfume\" and \"lately.\" There is a brief pause after she says \"favorite perfume\" the second time.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15,
+      "description": "The subject is a young woman with a fair complexion, long brown hair with lighter ends, and visible makeup including winged eyeliner and highlighted cheeks. She is wearing a red and black horizontally striped t-shirt. She is indoors, seated in a large, beige, leather-like armchair. The wall behind her is a neutral color. In the background to her right (viewer's left), a string of warm-toned fairy lights is visible.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Medium",
+      "score": 0.43,
+      "rationale": "The subject's Extraversion is rated as Medium. While her willingness to engage with an audience in a Q&A video and maintain direct camera contact suggests social comfort, her overall energy level is contained. Her body is largely still, and her vocal delivery is soft and moderately paced rather than loud or boisterous. This balance between social engagement and a calm, reserved demeanor is characteristic of individuals in the medium range of Extraversion.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Medium",
+      "score": 0.52,
+      "rationale": "The subject's Agreeableness is rated as Medium. Her participation in the Q&A format indicates a cooperative stance. Her facial expression remains consistently relaxed and neutral, and her soft vocal tone conveys a pleasant, non-confrontational attitude. The absence of more expressive warmth, such as frequent or broad smiling, prevents a higher rating, positioning her demeanor as pleasant and compliant, which is typical for a medium level of Agreeableness.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Low",
+      "score": 0.36,
+      "rationale": "The subject's Conscientiousness is rated as Low. The communication style appears spontaneous and unrehearsed. The brief pauses and gaze shifts (e.g., 8.5s-10.9s) when formulating answers suggest she is thinking on the spot rather than following a meticulous plan. The casual indoor setting and relaxed posture further contribute to an impression of spontaneity over structured, diligent preparation, which aligns with a lower Conscientiousness score.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Medium",
+      "score": 0.43,
+      "rationale": "The subject's Neuroticism is rated as Medium. She presents as emotionally stable and composed throughout the video. Her speech is steady, her facial muscles are relaxed, and she shows no overt signs of anxiety like fidgeting or nervous gestures. This emotional control is consistent with someone who is not high in Neuroticism. The score falls in the medium range, reflecting a typical and healthy level of emotional regulation in a public-facing situation.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "Medium",
+      "score": 0.47,
+      "rationale": "The subject's Openness is rated as Medium. Engaging in a self-expressive video format and showing attention to aesthetics (distinct makeup, background lighting) suggests an appreciation for creative expression. However, her stated favorite things—pandas and a popular brand of perfume—are highly conventional choices. This blend of engaging in a creative activity while expressing mainstream tastes supports a medium score, indicating a balance between appreciating aesthetics and favoring the familiar.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During 8.5s - 10.9s, the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "High Neuroticism, reflecting a state of heightened emotional sensitivity."
+        },
+        {
+          "id": "B",
+          "text": "Medium Agreeableness, indicating a generally cooperative and pleasant nature."
+        },
+        {
+          "id": "C",
+          "text": "Medium Extraversion, showing a balance of social energy and some reserve."
+        },
+        {
+          "id": "D",
+          "text": "High Conscientiousness, suggesting diligent preparation and forethought."
+        },
+        {
+          "id": "E",
+          "text": "Low Openness to Experience, implying a preference for conventional ideas."
+        },
+        {
+          "id": "F",
+          "text": "Low Conscientiousness, suggesting a spontaneous and unrehearsed approach."
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The correct answer is F. During 8.5s-10.9s, the person briefly shifts her gaze to the right while formulating her answer about her favorite perfume. This action is a classic indicator of thinking on the spot or spontaneous cognitive retrieval, which directly supports the assessment of Low Conscientiousness.\n- Option A is a text-based distractor. While gaze aversion can sometimes be linked to nervousness (High Neuroticism), her overall relaxed demeanor in the video contradicts this interpretation.\n- Options B and C are video-based distractors. Her Medium Agreeableness and Medium Extraversion are supported by her overall calm tone and direct camera engagement throughout the video, not by this specific, brief cognitive moment.\n- Option D is a near-miss distractor. It correctly identifies the relevant personality dimension (Conscientiousness) but gets the direction wrong. The behavior is evidence *against* high conscientiousness, not for it.\n- Option E is a text-based distractor. There is no clear or logical link between a brief thinking pause and a preference for conventional ideas."
+    },
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their Conscientiousness level?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[0.5s - 2.0s]"
+        },
+        {
+          "id": "B",
+          "text": "[3.1s - 4.6s]"
+        },
+        {
+          "id": "C",
+          "text": "[5.8s - 7.3s]"
+        },
+        {
+          "id": "D",
+          "text": "[11.5s - 13.0s]"
+        },
+        {
+          "id": "E",
+          "text": "[13.8s - 14.9s]"
+        },
+        {
+          "id": "F",
+          "text": "[8.7s - 10.2s]"
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The correct answer is F. The time interval [8.7s - 10.2s] precisely captures the moment where the subject's eyes shift to the right as she recalls the name of her favorite perfume. This non-verbal cue of spontaneous thought is the primary piece of evidence cited in the analysis for her Low Conscientiousness score.\n- Options A, B, C, D, and E are all video-based distractors. They represent other moments in the video: (A) her initial downward gaze for the first question, (B, C, D) periods of direct eye contact while speaking, and (E) the end of her sentence. While these are all real events, they are less specifically indicative of her level of preparation and spontaneity than the cognitive gaze shift in option F."
+    },
+    {
+      "category": "Mixed Emotion Discrimination",
+      "question": "During 0.0s - 2.7s, the person's emotional state is best characterized as which of the following? Consider both verbal and non-verbal cues.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Vague uncertainty tempered by a hint of private nervousness."
+        },
+        {
+          "id": "B",
+          "text": "Mild amusement mixed with a subtle sense of playful shyness."
+        },
+        {
+          "id": "C",
+          "text": "Subtle confusion tempered by a focused effort to concentrate."
+        },
+        {
+          "id": "D",
+          "text": "Calm self-assurance mixed with direct audience engagement now."
+        },
+        {
+          "id": "E",
+          "text": "Passive indifference tempered by general polite attentiveness."
+        },
+        {
+          "id": "F",
+          "text": "Quiet thoughtfulness mixed with a sense of social anticipation."
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The correct answer is F. In this initial phase, the person's gaze is directed down and to the side with slightly lowered eyelids, indicating internal cognitive processing or recall. This aligns with 'quiet thoughtfulness'. As she is preparing to answer a question in a Q&A video, this is combined with 'social anticipation' of speaking to an audience.\n- Option A is a near-miss distractor. 'Uncertainty' is close to 'thoughtfulness', but her calm posture and stable expression do not support 'nervousness'.\n- Option B is a text-based distractor. One might assume a Q&A context is 'playful' or 'shy', but her neutral expression does not display these emotions.\n- Option C is a video-based distractor. The downward gaze could be misinterpreted as 'confusion', but given the context of answering a simple question, memory recall is a far better interpretation.\n- Option D is a video-based distractor from a different time. This option accurately describes her state *after* 2.7s, when she looks up at the camera, making it temporally incorrect.\n- Option E is a text-based distractor. Her soft voice could be misconstrued as 'indifference', but she is actively beginning to formulate an answer, which contradicts this."
+    },
+    {
+      "category": "Temporal-Causal Reasoning",
+      "question": "Consider the sequence of behaviors observed across the video. Which of the following best describes the causal chain linking the person's actions at different moments?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Social confidence is followed by a memory lapse, triggering a compensatory re-engagement gesture to mask the problem."
+        },
+        {
+          "id": "B",
+          "text": "An emotional response is regulated, leading to a neutral delivery, and concluding with a final moment of expressiveness."
+        },
+        {
+          "id": "C",
+          "text": "A non-verbal agreement signal prompts verbal confirmation, followed by a display of uncertainty on a harder question."
+        },
+        {
+          "id": "D",
+          "text": "Social disclosure prompts deep cognitive retrieval, which causes a self-correction moment before the final re-engagement."
+        },
+        {
+          "id": "E",
+          "text": "Cognitive retrieval is followed by social disclosure, which serves to preface a longer, more thoughtful internal search."
+        },
+        {
+          "id": "F",
+          "text": "Cognitive retrieval is followed by social disclosure, interrupted by a secondary retrieval before the final disclosure."
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The correct answer is F. This option accurately describes the observed pattern: an initial cognitive retrieval (0.0s-2.7s, gaze down), followed by social disclosure (2.7s-8.5s, speaking to camera), which is then briefly interrupted by a secondary retrieval process (8.5s-10.9s, gaze shift), before the final disclosure continues (10.9s onward).\n- Option A is a distractor with wrong causality. The cognitive pauses are calm retrieval, not a 'memory lapse', and there are no 'compensatory' gestures.\n- Option B is a text-based distractor. The video's events are driven by cognitive processes (recalling answers), not an emotional regulation arc.\n- Option C is a video-based distractor that misinterprets the cues. The actions are about recall and delivery, not 'agreement' or 'uncertainty'.\n- Option D is a distractor with reversed temporal order. Retrieval precedes disclosure, not the other way around.\n- Option E is a near-miss distractor. It gets the first two steps right but incorrectly characterizes the second retrieval process as being longer or more significant, when it was actually very brief."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 8.0s, a region was detected in the video (x=0.386, y=0.216, w=0.219, h=0.165, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Synchronized lip movements for verbal articulation seen."
+        },
+        {
+          "id": "B",
+          "text": "A slight forward lean of the person's upper body posture."
+        },
+        {
+          "id": "C",
+          "text": "A generally relaxed and neutral facial muscle tone is visible."
+        },
+        {
+          "id": "D",
+          "text": "An upward tilt of the entire head structure is identified."
+        },
+        {
+          "id": "E",
+          "text": "A subtle horizontal shift of the person's gaze rightward."
+        },
+        {
+          "id": "F",
+          "text": "A natural and brief closing of the eyelids in a blink."
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The correct answer is F. The specified bounding box at 8.0s is tightly focused on the person's eyes. At this exact moment, she performs a natural blink, making it the most prominent action within that specific region.\n- Option A is a video-based distractor (wrong region). Lip movements are happening at 8.0s, but they are in the mouth region, which is outside the given bounding box.\n- Option B is a video-based distractor (wrong region). The body posture is described by the torso, which is far from the specified eye-region coordinates.\n- Option C is a video-based distractor (wrong aspect). While her face is relaxed, this describes a general state, not the specific, brief action of blinking that occurs within the bbox.\n- Option D is a video-based distractor (wrong time). The head tilts up earlier in the video; at 8.0s it is stable.\n- Option E is a near-miss distractor. A gaze shift to the right happens shortly after this moment (around 8.7s), but the action at 8.0s within this bbox is the blink itself."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "At which of the following moments is the person most clearly exhibiting a state of direct, neutral social engagement while delivering her response to the audience?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[2.3s] bbox:(x=0.39, y=0.19, w=0.26, h=0.18)"
+        },
+        {
+          "id": "B",
+          "text": "[11.7s] bbox:(x=0.34, y=0.14, w=0.29, h=0.21)"
+        },
+        {
+          "id": "C",
+          "text": "[10.4s] bbox:(x=0.35, y=0.16, w=0.31, h=0.50)"
+        },
+        {
+          "id": "D",
+          "text": "[11.0s] bbox:(x=0.36, y=0.18, w=0.22, h=0.16)"
+        },
+        {
+          "id": "E",
+          "text": "[5.2s] bbox:(x=0.34, y=0.01, w=0.36, h=0.84)"
+        },
+        {
+          "id": "F",
+          "text": "[8.4s] bbox:(x=0.37, y=0.16, w=0.28, h=0.20)"
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The correct answer is F. The timestamp [8.4s] with its bounding box perfectly captures a moment where the person is looking directly forward at the camera, with a neutral and relaxed facial expression while speaking. This is the canonical representation of the 'direct, neutral social engagement' state described.\n- Option A is a video-based distractor. At 2.3s, her gaze is averted downwards, representing cognitive recall, not direct engagement.\n- Option B is a video-based distractor. At 11.7s, she is also engaged, but 8.4s is a prime example from the main engagement period.\n- Option C is a video-based distractor. At 10.4s, her face is relaxed, but her eyes are shifted to the side in thought.\n- Option D is a video-based distractor. At 11.0s, her eyes are in motion, returning to the center, not in a stable state of engagement.\n- Option E is a video-based distractor. At 5.2s, the bounding box is very large and covers the whole head and neck, failing to isolate the specific facial cues of engagement."
+    },
+    {
+      "category": "Counterfactual Reasoning",
+      "question": "If the person had NOT exhibited the behavior observed around 8.5s - 10.9s, which of the following personality assessments would be MOST affected?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Agreeableness rating would be judged as lower, as that behavior is a sign of her cooperative nature."
+        },
+        {
+          "id": "B",
+          "text": "Openness rating would be judged as higher, as the reflection indicates deep intellectual curiosity."
+        },
+        {
+          "id": "C",
+          "text": "Conscientiousness would be assessed as High, given the absence would imply complete preparation."
+        },
+        {
+          "id": "D",
+          "text": "Extraversion score would shift to High, as a main factor for the Medium score is her vocal tone."
+        },
+        {
+          "id": "E",
+          "text": "Neuroticism would be assessed as higher, since a lack of that thoughtful pause could suggest anxiety."
+        },
+        {
+          "id": "F",
+          "text": "Conscientiousness would be less assessed as Low, as a key indicator of spontaneous thought is lost."
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The correct answer is F. The behavior at 8.5s-10.9s is the gaze shift associated with thinking on the spot. This is the primary evidence used to justify the Low Conscientiousness rating. If this behavior were absent, the main support for a 'spontaneous' rather than 'prepared' style would be removed, thus making the 'Low' assessment much weaker.\n- Option A is a text-based distractor. It incorrectly links a cognitive gaze shift to Agreeableness and cooperation.\n- Option B is a text-based distractor. It misinterprets a simple moment of recall as a sign of 'deep intellectual curiosity', which relates to Openness.\n- Option C is a near-miss distractor. The direction is correct (the assessment would move away from Low), but the magnitude is wrong. Removing one piece of evidence for 'Low' would not be sufficient to conclude 'High'; it would more likely result in a Medium assessment.\n- Option D is a video-based distractor. It correctly identifies that vocal tone is key evidence for her Medium Extraversion, but this evidence is present throughout the video and is unrelated to the specific behavior at 8.5s-10.9s.\n- Option E is a near-miss distractor. It presents an incorrect causal chain. The thoughtful pause signals calm, so its absence would not logically lead to a higher assessment of Neuroticism (anxiety)."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator08",
+      "version": 2,
+      "clues_total": 20,
+      "clues_correct": 16,
+      "clues_wrong_corrected": 4,
+      "clues_missing_skipped": 0,
+      "clues_bonus": 0
+    }
+  }
+}

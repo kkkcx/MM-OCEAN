@@ -1,0 +1,461 @@
+{
+  "video_id": "xmaC2XOhPaE.004.mp4",
+  "video_path": "xmaC2XOhPaE.004.mp4",
+  "transcription": "Kevin Hart is okay, but sometimes I think Kevin Hart tries too hard to be funny. If my phone is sideways I'm sorry, I have to fix it when I stop because I can't really do much when I'm driving, but yeah he's one of my favorites.",
+  "original_scores": {
+    "extraversion": 0.25233644859813087,
+    "agreeableness": 0.2857142857142857,
+    "conscientiousness": 0.2524271844660194,
+    "neuroticism": 0.37499999999999994,
+    "openness": 0.4666666666666667
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 2.85,
+      "description": "The subject maintains direct gaze with the camera. Her eyebrows are in a neutral position, and her mouth moves in sync with her speech.",
+      "bboxes": [
+        {
+          "frame_time": 0.611115,
+          "x": 0.43264802631578947,
+          "y": 0.2903508738467568,
+          "w": 0.17763157894736842,
+          "h": 0.10526315789473684,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 0.553012,
+          "x": 0.41488486842105265,
+          "y": 0.2429824527941252,
+          "w": 0.21611842105263157,
+          "h": 0.07894736842105263,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 0.611115,
+          "x": 0.47261513157894736,
+          "y": 0.4692982422678094,
+          "w": 0.11101973684210527,
+          "h": 0.13157894736842105,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 2.85,
+      "end_time": 6.13,
+      "description": "Her eyes widen slightly as she speaks, and her eyebrows remain neutral. Her mouth opens wider on the word \"hard.\"",
+      "bboxes": [
+        {
+          "frame_time": 4.627837,
+          "x": 0.4015625,
+          "y": 0.20087718963623047,
+          "w": 0.20723684210526316,
+          "h": 0.10789473684210527,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 4.453202,
+          "x": 0.4622532894736842,
+          "y": 0.4745614001625463,
+          "w": 0.11546052631578947,
+          "h": 0.12631578947368421,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 6.13,
+      "end_time": 12.81,
+      "description": "Her eyebrows raise slightly as she says, \"I'm sorry,\" then lower back to a neutral position for the remainder of the sentence. Her gaze remains on the camera.",
+      "bboxes": [
+        {
+          "frame_time": 8.353391,
+          "x": 0.39120065789473685,
+          "y": 0.2324561370046515,
+          "w": 0.2412828947368421,
+          "h": 0.08421052631578947,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 9.226569,
+          "x": 0.3971217105263158,
+          "y": 0.20087718963623047,
+          "w": 0.21463815789473684,
+          "h": 0.12105263157894737,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 12.81,
+      "end_time": 15,
+      "description": "The subject's expression remains neutral with her gaze fixed on the camera.",
+      "bboxes": [
+        {
+          "frame_time": 14.548683,
+          "x": 0.4163651315789474,
+          "y": 0.25877192647833575,
+          "w": 0.2042763157894737,
+          "h": 0.4131578947368421,
+          "note": "face human-annotated",
+          "region": "face"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 15,
+      "description": "The subject is sitting in the driver's seat of a moving vehicle, wearing a seatbelt. She is angled toward the camera, which is positioned to her right. Her head remains relatively still with very small nods punctuating her speech. Her torso and shoulders are mostly stationary.",
+      "bboxes": [
+        {
+          "frame_time": 0.723355,
+          "x": 0.3379111842105263,
+          "y": 0.16403508437307257,
+          "w": 0.37894736842105264,
+          "h": 0.7736842105263158,
+          "note": "human-annotated",
+          "region": "unknown"
+        },
+        {
+          "frame_time": 0.723355,
+          "x": 0.1573190789473684,
+          "y": 0.5114035054257041,
+          "w": 0.7756578947368421,
+          "h": 0.4868421052631579,
+          "note": "pose human-annotated",
+          "region": "torso"
+        },
+        {
+          "frame_time": 2.708602,
+          "x": 0.37935855263157897,
+          "y": 0.06929824226780941,
+          "w": 0.24276315789473685,
+          "h": 0.618421052631579,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 2.708602,
+          "x": 0.2002467105263158,
+          "y": 0.4745614001625463,
+          "w": 0.6024671052631579,
+          "h": 0.47368421052631576,
+          "note": "pose human-annotated",
+          "region": "shoulders"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 2.22,
+      "description": "The subject speaks at a moderate pace with a relatively flat pitch, ending the phrase \"is okay\" with a downward inflection.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 2.22,
+      "end_time": 5.86,
+      "description": "The pace of speech increases slightly. Vocal stress is placed on the words \"tries too hard.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 6.58,
+      "end_time": 8.71,
+      "description": "The phrase \"I'm sorry\" is spoken clearly at a consistent volume and pace, with a falling intonation.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 8.71,
+      "end_time": 12.81,
+      "description": "The speech returns to a moderate, conversational pace and steady volume.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 12.81,
+      "end_time": 14.86,
+      "description": "The speaking rate increases slightly, and the phrase ends with a clear downward pitch inflection on \"favorites.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15,
+      "description": "The subject is a woman with dark skin and dark hair pulled up. She is wearing glasses with reddish-brown frames. Her attire consists of a brown, white, and pink winter jacket over a grey shirt, with a silver necklace visible. She is inside a car with a black interior and a blue door panel visible. Through the window, blurred trees and a road can be seen, indicating the vehicle is in motion during daytime.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Low",
+      "score": 0.25,
+      "rationale": "The subject's Low Extraversion score is supported by her reserved physical demeanor. Her torso and shoulders remain largely still, and head movements are minimal, indicating low physical energy typically associated with introversion. Vocally, her tone is relatively flat and her pace is moderate, lacking the animated and varied speech patterns of a highly extraverted individual. Furthermore, her eye contact with the camera is brief, suggesting a lower comfort level with being the direct focus of attention.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Low",
+      "score": 0.29,
+      "rationale": "A Low Agreeableness level is indicated by the subject's readiness to offer a direct, unsolicited critique ('Kevin Hart tries too hard to be funny'). Individuals with lower agreeableness are often more straightforward and less concerned with social harmony, making them more willing to state critical opinions. The vocal stress placed on 'tries too hard' further emphasizes this critical stance rather than a more accommodating or positive framing.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Low",
+      "score": 0.25,
+      "rationale": "The context of the video provides strong evidence for Low Conscientiousness. The act of recording a video while actively driving demonstrates a lack of planning and a disregard for safety and rules, which runs counter to the careful, organized, and rule-abiding nature of highly conscientious individuals. Her acknowledgment of the poorly oriented phone, which she cannot fix at the moment, further points to an impromptu, spontaneous approach rather than a prepared, deliberate one.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Low",
+      "score": 0.37,
+      "rationale": "The subject exhibits a calm and emotionally stable demeanor, consistent with a Low Neuroticism score. Despite the cognitive load of driving while recording, her body is relaxed and still, and her facial expression remains neutral. Her speech is delivered at a stable, conversational pace without signs of stress, shakiness, or anxiety. The apology regarding the phone is delivered in a matter-of-fact tone, indicating practical awareness rather than anxious distress.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "Medium",
+      "score": 0.47,
+      "rationale": "The subject's Openness is assessed as Medium. She demonstrates a capacity for abstract thought by analyzing and articulating an aesthetic opinion on a comedian's style. The very act of creating a video to share her thoughts suggests an openness to self-expression. However, the topic is a mainstream celebrity, and the critique itself is conventional, lacking unusual vocabulary or highly imaginative framing. This balance between engaging in intellectual commentary and the conventional nature of that commentary supports a mid-range score.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their level of Agreeableness?",
+      "options": [
+        {
+          "id": "A",
+          "text": "0.4s - 1.1s"
+        },
+        {
+          "id": "B",
+          "text": "4.3s - 5.0s"
+        },
+        {
+          "id": "C",
+          "text": "9.0s - 9.7s"
+        },
+        {
+          "id": "D",
+          "text": "13.9s - 14.6s"
+        },
+        {
+          "id": "E",
+          "text": "6.2s - 6.9s"
+        },
+        {
+          "id": "F",
+          "text": "8.1s - 8.8s"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The analysis for Low Agreeableness is based on the subject's direct critique, specifically the vocal stress on 'tries too hard'. The observation records this emphasis between 2.85s and 6.13s. The time interval in option B (4.3s - 5.0s) correctly captures this key moment of critique. The interval in the original answer F (8.1s - 8.8s) captures her apology, which is an agreeable behavior and more relevant to the Low Neuroticism analysis."
+    },
+    {
+      "category": "Mixed Emotion Discrimination",
+      "question": "During 2.9s - 6.1s, the person's emotional state is best characterized as which of the following? Consider both verbal and non-verbal cues.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Annoyance mixed with contemptuous dismissal"
+        },
+        {
+          "id": "B",
+          "text": "Frustration tempered by weary resignation"
+        },
+        {
+          "id": "C",
+          "text": "Anxious concern tempered by feigned indifference"
+        },
+        {
+          "id": "D",
+          "text": "Skeptical doubt mixed with condescending pity"
+        },
+        {
+          "id": "E",
+          "text": "Regretful criticism mixed with deep disappointment"
+        },
+        {
+          "id": "F",
+          "text": "Analytical judgment mixed with mild disapproval"
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "During this interval, the subject states her critique ('tries too hard to be funny') with vocal stress. Her facial expression remains largely neutral (eyebrows) but her mouth opens wider for emphasis. This combination reflects a cognitive assessment (analytical judgment) combined with a negative opinion (mild disapproval), rather than a strong emotional reaction.\n- Option A is a near-miss distractor. While 'annoyance' might be a plausible overstatement, 'contemptuous dismissal' is too strong and unsupported by her calm demeanor.\n- Option B is a text-based distractor. The phrase 'tries too hard' could imply frustration, but her non-verbal cues show no signs of weariness or resignation.\n- Option C is a text-based distractor. There are no verbal or non-verbal indicators of anxiety, concern, or indifference in this segment.\n- Option D is a text-based distractor. Her tone is critical, not condescending, and there is no evidence of pity in her expression or words.\n- Option E is a text-based distractor. She delivers the critique directly, without any signs of regret, and her tone does not convey deep disappointment."
+    },
+    {
+      "category": "Temporal-Causal Reasoning",
+      "question": "Consider the sequence of behaviors observed across the video. Which of the following best describes the causal chain linking the person's actions at different moments?",
+      "options": [
+        {
+          "id": "A",
+          "text": "An initial self-monitoring action leads to a justification, which then causes a subsequent critical opinion to be stated."
+        },
+        {
+          "id": "B",
+          "text": "An external distraction early on causes a delayed emotional reaction, which is then justified by referencing an off-screen event."
+        },
+        {
+          "id": "C",
+          "text": "A period of quiet reflection prompts an emotional outburst, which is then mitigated by a subsequent display of intellectual analysis."
+        },
+        {
+          "id": "D",
+          "text": "An unsolicited critique at the start leads to a social apology, which is then immediately followed by a compensatory display of confidence."
+        },
+        {
+          "id": "E",
+          "text": "An initial statement of fact leads to an emotional display of apology, which is then followed by a critical opinion as a deflection."
+        },
+        {
+          "id": "F",
+          "text": "An unsolicited critique at the start leads to a self-monitoring action mid-video, followed by a rationalization for the uncorrected state."
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The video's narrative follows this causal chain: She begins with a critical opinion (unsolicited critique of Kevin Hart), then addresses a separate issue about the recording (self-monitoring action regarding the phone), and finally explains why she can't fix it (rationalization about driving).\n- Option A is a distractor with reversed temporal order. The critique comes first, not after the self-monitoring action.\n- Option B is a text-based distractor. There is no clear external distraction or delayed emotional reaction observed in the video.\n- Option C is a text-based distractor. The video starts immediately with speech; there is no period of reflection, nor is there an emotional outburst.\n- Option D is a near-miss distractor. The sequence of critique to apology is correct, but the final step is a rationalization ('I can't fix it while driving'), not a 'compensatory display of confidence'.\n- Option E is a distractor with incorrect causality. The apology is not about the initial statement of fact but about the phone's orientation, and the critique is not a deflection."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 0.6s, a region was detected in the video (x=0.415, y=0.243, w=0.216, h=0.079, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A mouth opening wider for some specific verbal emphasis"
+        },
+        {
+          "id": "B",
+          "text": "The entire face showing a completely neutral expression"
+        },
+        {
+          "id": "C",
+          "text": "The subject's head remaining almost totally still and stable"
+        },
+        {
+          "id": "D",
+          "text": "A facial expression is currently returning to a neutral state"
+        },
+        {
+          "id": "E",
+          "text": "The eyes maintaining a direct and consistent camera gaze"
+        },
+        {
+          "id": "F",
+          "text": "A pair of eyebrows in a state of neutral, resting position"
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The specified coordinates (x=0.415, y=0.243, w=0.216, h=0.079) at 0.6s precisely frame the subject's eyebrows. At this moment, the observation log confirms her eyebrows are in a neutral position.\n- Option A is a video-based distractor. This describes the mouth action, but it happens later in the video (around 4.5s) and in a different facial region.\n- Option B is a video-based distractor. While the expression is generally neutral, this option describes the entire face, whereas the bounding box is specific to the eyebrows.\n- Option C is a video-based distractor. This describes the head's motion, which is a different and larger region than the specified bounding box.\n- Option D is a video-based distractor. This describes an action that occurs around 9.2s after the eyebrow raise, not at 0.6s.\n- Option E is a near-miss distractor. The eyes are near the specified region, but the bounding box is clearly on the eyebrows. Furthermore, this is based on a common AI error; her eye contact is brief, not consistent."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "The video captures a subtle, fleeting facial movement intended as a social conciliatory signal. Which of the following options correctly identifies the location and timing of this specific behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "t=8.4s, region=(x=0.471, y=0.479, w=0.110, h=0.103)"
+        },
+        {
+          "id": "B",
+          "text": "t=4.6s, region=(x=0.391, y=0.232, w=0.241, h=0.084)"
+        },
+        {
+          "id": "C",
+          "text": "t=0.6s, region=(x=0.433, y=0.290, w=0.178, h=0.105)"
+        },
+        {
+          "id": "D",
+          "text": "t=9.2s, region=(x=0.397, y=0.201, w=0.215, h=0.121)"
+        },
+        {
+          "id": "E",
+          "text": "t=11.5s, region=(x=0.250, y=0.550, w=0.500, h=0.400)"
+        },
+        {
+          "id": "F",
+          "text": "t=8.4s, region=(x=0.391, y=0.232, w=0.241, h=0.084)"
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The 'social conciliatory signal' refers to the slight eyebrow raise that occurs as she says 'I'm sorry'. The observation log places this specific action at t=8.4s within the bounding box x=0.391, y=0.232, w=0.241, h=0.084.\n- Option A is a video-based distractor. The time is correct (8.4s), but the coordinates point to her mouth, not her eyebrows.\n- Option B is a video-based distractor. The location is correct (her eyebrows), but the time (4.6s) is wrong; at this moment, her eyebrows are neutral.\n- Option C is a video-based distractor. This identifies the time and location of her initial brief eye contact with the camera, not the conciliatory signal.\n- Option D is a near-miss distractor. This option identifies the correct facial region (eyebrows) but at a slightly later time (9.2s), precisely when the eyebrows are returning to their neutral position after the raise.\n- Option E is a text-based distractor. This is a plausible-looking but incorrect combination of time and a large bounding box over the torso that does not correspond to any key facial expression."
+    },
+    {
+      "category": "Counterfactual Reasoning",
+      "question": "If the person had NOT exhibited the behavior observed around 0.0s - 15.0s of recording while driving, which of the following personality assessments would be MOST affected?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Agreeableness score would shift significantly, since the context of the multitasking activity moderates the perception of her direct vocal critique."
+        },
+        {
+          "id": "B",
+          "text": "Extraversion score would be less certain, as her reserved physical posture is the main support and the driving context is not central to it."
+        },
+        {
+          "id": "C",
+          "text": "Neuroticism assessment would become higher, as her perceived calmness under pressure, a key indicator for low neuroticism, would be removed."
+        },
+        {
+          "id": "D",
+          "text": "Conscientiousness would be rated as much lower because multitasking shows a severe lack of focus and is a sign of poor organizational skills."
+        },
+        {
+          "id": "E",
+          "text": "Openness to Experience would remain largely the same because her articulated opinions on art are evaluated independently from the driving."
+        },
+        {
+          "id": "F",
+          "text": "Conscientiousness would be rated as much higher, given that the primary evidence for impulsivity and a lack of planning would be absent."
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The act of recording a video while driving is the single strongest piece of evidence for the Low Conscientiousness assessment, as it shows a disregard for rules, safety, and planning. Removing this behavior would remove the primary support for that score, likely causing it to be assessed as much higher.\n- Option A is a text-based distractor. While the context might have a minor effect, the Agreeableness score is primarily based on her direct, critical commentary, which would be unaffected.\n- Option B is a video-based distractor. The assessment of Low Extraversion is based on her calm demeanor, flat tone, and minimal movement, all of which are independent of the driving context.\n- Option C is a near-miss distractor, but it gets the trait wrong. While her calmness while driving does support Low Neuroticism, the *act* of driving while recording is much more central to the Conscientiousness trait. The impact is strongest on Conscientiousness.\n- Option D is a near-miss distractor with the wrong direction of change. It correctly identifies the trait (Conscientiousness) but incorrectly states that removing the behavior would cause the score to be rated lower.\n- Option E is a text-based distractor. This statement is likely true—Openness would not be affected much—but the question asks which assessment would be MOST affected, making this an incorrect answer."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [
+      {
+        "check": "A",
+        "q_idx": 1,
+        "issue": "The correct answer (F) points to the time of the subject's apology (8.1s-8.8s). This is an agreeable behavior that contradicts the 'Low Agreeableness' personality analysis. The core evidence for Low Agreeableness is her critique ('tries too hard'), which occurs during the interval specified in option B.",
+        "action": "Changed correct answer from F to B and added an explanation to clarify the reasoning."
+      }
+    ],
+    "corrections": {
+      "mcq_questions[1].correct_answer": "B",
+      "mcq_questions[1].explanation": "The analysis for Low Agreeableness is based on the subject's direct critique, specifically the vocal stress on 'tries too hard'. The observation records this emphasis between 2.85s and 6.13s. The time interval in option B (4.3s - 5.0s) correctly captures this key moment of critique. The interval in the original answer F (8.1s - 8.8s) captures her apology, which is an agreeable behavior and more relevant to the Low Neuroticism analysis."
+    },
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator17",
+      "version": 1,
+      "clues_total": 21,
+      "clues_correct": 16,
+      "clues_wrong_corrected": 2,
+      "clues_missing_skipped": 3,
+      "clues_bonus": 0
+    }
+  }
+}

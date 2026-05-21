@@ -1,0 +1,385 @@
+{
+  "video_id": "Qa-yF-tByDM.004.mp4",
+  "video_path": "Qa-yF-tByDM.004.mp4",
+  "transcription": "In first grade the way the classroom was set up, we had three people grouped together at a table. There were two girls at my table. One day I really had to go to the bathroom, and the teacher wouldn't let me. You guys all know ...",
+  "original_scores": {
+    "extraversion": 0.7102803738317757,
+    "agreeableness": 0.7582417582417583,
+    "conscientiousness": 0.5728155339805825,
+    "neuroticism": 0.7187499999999999,
+    "openness": 0.6888888888888889
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 15.3,
+      "description": "The subject maintains eye contact with the camera and has a consistent, relaxed smile throughout the clip. The corners of his mouth are pulled up, and his eyebrows raise slightly in sync with his speech for emphasis. The smile widens slightly around 00:09 when he begins telling a specific part of the story.",
+      "bboxes": [
+        {
+          "frame_time": 3.326437,
+          "x": 0.29942434210526314,
+          "y": 0.2429824527941252,
+          "w": 0.15098684210526317,
+          "h": 0.12631578947368421,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 4.936849,
+          "x": 0.30386513157894735,
+          "y": 0.39035087384675676,
+          "w": 0.11842105263157895,
+          "h": 0.12894736842105264,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 4.936849,
+          "x": 0.29498355263157894,
+          "y": 0.38508771595201996,
+          "w": 0.12730263157894736,
+          "h": 0.12105263157894737,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 7.053863,
+          "x": 0.2609375,
+          "y": 0.2061403475309673,
+          "w": 0.21907894736842107,
+          "h": 0.14736842105263157,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 15.3,
+      "description": "The subject is sitting upright on a couch, framed from the chest up. He remains relatively still, making small, subtle head nods and tilts that correspond with the rhythm and emphasis of his speech.",
+      "bboxes": [
+        {
+          "frame_time": 1.04599,
+          "x": 0.13363486842105263,
+          "y": 0.15877192647833574,
+          "w": 0.3893092105263158,
+          "h": 0.7578947368421053,
+          "note": "human-annotated",
+          "region": "unknown"
+        },
+        {
+          "frame_time": 1.04599,
+          "x": 0.1528782894736842,
+          "y": 0.19561403174149364,
+          "w": 0.4307565789473684,
+          "h": 0.6631578947368421,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 1.04599,
+          "x": 0.17656249999999998,
+          "y": 0.10087718963623046,
+          "w": 0.35082236842105263,
+          "h": 0.6578947368421053,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 5.4,
+      "description": "Speech is delivered at a moderate, conversational pace with a clear, steady volume. The pitch has a natural, declarative intonation, falling slightly at the end of phrases.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 5.4,
+      "end_time": 13,
+      "description": "The pace remains moderate. There is a slight rise in pitch for emphasis on the phrase \"one day.\" A brief, soft, breathy exhalation, almost a chuckle, is audible after he says, \"wouldn't let me.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 13,
+      "end_time": 15.3,
+      "description": "The speech rate increases slightly as he says, \"So you guys all know where this is...\" with a slightly rising intonation, suggesting a continuation of the thought.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.3,
+      "description": "The subject is a young man with light brown, styled hair, fair skin, and light facial hair. He is wearing a dark gray hooded sweatshirt with a white drawstring over a blue-green t-shirt. He is sitting indoors on a dark gray couch. To his left, a decorative, light-colored pillow with black script text is visible. Behind him is a light-colored wall, and to his left is a black table with a lamp that has a black base and a white shade. A window with white blinds is visible in the background to his right.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0.37527,
+      "end_time": 1.37527,
+      "description": "The subject is a young man with light brown, styled hair, fair skin, and light facial hair. He is wearing a dark gray hooded sweatshirt with a white drawstring over a blue-green t-shirt. He is sitting indoors on a dark gray couch. To his left, a decorative, light-colored pillow with black script text is visible. Behind him is a light-colored wall, and to his left is a black table with a lamp that has a black base and a white shade. A window with white blinds is visible in the background to his right.",
+      "bboxes": [
+        {
+          "frame_time": 0.87527,
+          "x": 0.22245065789473684,
+          "y": 0.03771929489938836,
+          "w": 0.27088815789473686,
+          "h": 0.3263157894736842,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "High",
+      "score": 0.71,
+      "rationale": "The subject's High Extraversion is supported by his expressive communication style. He actively engages his audience by telling a personal story, using a clear, steady vocal volume and modulating his pitch and pace for narrative emphasis (e.g., rising pitch on 'one day'). Furthermore, his use of non-verbal cues, such as raising his eyebrows to add emphasis and making small head movements that align with his speech rhythm, demonstrates social energy and a desire to connect with the viewer, which are characteristic of extraverted individuals.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "High",
+      "score": 0.76,
+      "rationale": "A High level of Agreeableness is indicated by the subject's consistently warm and friendly demeanor. He maintains a 'consistent, relaxed smile' throughout the clip, a primary indicator of a positive and approachable disposition. His vocal tone is described as 'conversational' and 'natural,' fostering a sense of rapport. The soft, breathy exhalation or 'light chuckle' after recounting a negative detail (the teacher's refusal) serves to soften the story, suggesting a preference for maintaining a pleasant and harmonious social atmosphere.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Medium",
+      "score": 0.57,
+      "rationale": "The subject's Conscientiousness score maps to a Medium level. This is supported by evidence of moderate orderliness and self-presentation. His hair is deliberately 'styled,' and he is neatly dressed, which suggests a degree of attention to detail and personal grooming. His speech is also structured and coherent, following a clear narrative path rather than being disorganized or rambling. While the casual setting does not suggest high conscientiousness, these indicators of self-maintenance and purposeful communication are inconsistent with a low score.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "High",
+      "score": 0.72,
+      "rationale": "A High Neuroticism score is inferred from subtle cues of self-consciousness and a focus on negative emotional experience. The most significant indicator is the subject's sustained gaze aversion; he consistently looks to the left rather than maintaining eye contact with the camera, a common behavior associated with social anxiety or discomfort in evaluative situations. Additionally, the choice to recount a story centered on distress and a lack of control (needing the bathroom and being denied) reflects a tendency to recall and focus on negative life events, a cognitive pattern typical of individuals high in Neuroticism.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "High",
+      "score": 0.69,
+      "rationale": "The subject's High Openness is demonstrated by his willingness to engage in public self-disclosure. By sharing a personal, somewhat vulnerable childhood memory, he shows a high degree of openness to his own feelings and experiences. His expressive storytelling, which involves using vocal intonation and facial gestures (raised eyebrows) to convey the narrative more vividly, also points to a creative and imaginative inclination. This comfort with personal expression and sharing inner states is a core component of the Openness trait.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During 0s - 15s, the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "High Neuroticism, reflecting an underlying self-consciousness or discomfort in an evaluative social setting."
+        },
+        {
+          "id": "B",
+          "text": "High Agreeableness, as the pattern indicates a clear effort to be perceived as friendly and non-confrontational."
+        },
+        {
+          "id": "C",
+          "text": "Low Openness, because the observed behavior suggests a general reluctance to engage directly with the audience."
+        },
+        {
+          "id": "D",
+          "text": "Low Neuroticism, suggesting a calm and relaxed disposition that is not easily affected by outside social pressures."
+        },
+        {
+          "id": "E",
+          "text": "High Conscientiousness, since the behavior shows a deliberate and controlled approach to one's self-presentation."
+        },
+        {
+          "id": "F",
+          "text": "High Extraversion, demonstrated by the consistent use of expressive cues to manage the ongoing social interaction."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The question asks which trait is most supported by the dominant behavior throughout the clip, which is the sustained gaze aversion. This is a classic indicator of social anxiety or self-consciousness.\n\n- Option A is correct. The analysis explicitly links the sustained gaze aversion to High Neuroticism, interpreting it as a sign of discomfort in an evaluative situation.\n- Option B is a video-based distractor. The person does exhibit cues for High Agreeableness (smiling), but the most pervasive and distinct pattern referenced is the gaze aversion, which is more directly evidence for Neuroticism, not Agreeableness.\n- Option C is a text-based distractor. While gaze aversion might plausibly suggest being closed off, the person's willingness to share a personal story is strong evidence for High Openness, making this interpretation incorrect in context.\n- Option D is a near-miss distractor. It correctly identifies the relevant personality dimension (Neuroticism) but gets the direction wrong. The behavior indicates high, not low, Neuroticism.\n- Option E is a text-based distractor. While self-presentation is related to Conscientiousness, gaze aversion is not a primary indicator of this trait; grooming and organized speech are the actual evidence for Conscientiousness here.\n- Option F is a video-based distractor. The person does show cues for High Extraversion (expressive storytelling), but the specific behavior of gaze aversion is contrary to the direct engagement typical of Extraversion."
+    },
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their level of Openness?",
+      "options": [
+        {
+          "id": "A",
+          "text": "6.8s - 7.5s"
+        },
+        {
+          "id": "B",
+          "text": "3.0s - 3.7s"
+        },
+        {
+          "id": "C",
+          "text": "0.5s - 1.2s"
+        },
+        {
+          "id": "D",
+          "text": "9.5s - 10.2s"
+        },
+        {
+          "id": "E",
+          "text": "13.1s - 13.8s"
+        },
+        {
+          "id": "F",
+          "text": "4.6s - 5.3s"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The analysis links High Openness to expressive storytelling. A key micro-expression supporting this is the eyebrow raise used for emphasis.\n\n- Option A is correct. The observation log notes that the eyebrows are raised for emphasis around 7.1s. This expressive gesture, used to make the story more vivid, is a direct indicator of Openness.\n- Option B is a video-based distractor. This interval covers the time when the gaze aversion is noted (3.3s), which is more relevant to Neuroticism than Openness.\n- Option C is a text-based distractor. This interval is at the very beginning of the clip where no significant expression change occurs.\n- Option D is a text-based distractor. This interval occurs during the middle of a sentence with no distinct facial event noted in the observation log.\n- Option E is a video-based distractor. This interval is when the person's speech pace slightly increases (around 13.0s), which is an auditory cue, not a facial micro-expression.\n- Option F is a near-miss distractor. This interval covers the time when the relaxed smile is noted (4.9s). While a smile is an expression, it is described as 'consistent' and 'sustained' rather than a 'notable change' or 'micro-expression' like the brief eyebrow raise."
+    },
+    {
+      "category": "Mixed Emotion Discrimination",
+      "question": "During 0s - 15s, the person's emotional state is best characterized as which of the following? Consider both verbal and non-verbal cues.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Recounted anxiety tempered by a disarming sociability"
+        },
+        {
+          "id": "B",
+          "text": "Deep frustration mixed with a strong sense of resignation"
+        },
+        {
+          "id": "C",
+          "text": "Feigned indifference alongside an undercurrent of anger"
+        },
+        {
+          "id": "D",
+          "text": "Assertive confidence mixed with a subtle hint of self-doubt"
+        },
+        {
+          "id": "E",
+          "text": "Wistful nostalgia tempered by a quiet feeling of acceptance"
+        },
+        {
+          "id": "F",
+          "text": "Genuine amusement accompanied by a touch of embarrassment"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The person is recounting a stressful childhood memory (anxiety) while maintaining a friendly, smiling demeanor (sociability). The emotional state is a blend of these conflicting signals.\n\n- Option A is correct. 'Recounted anxiety' captures the Neuroticism linked to the story's content and the gaze aversion, while 'disarming sociability' captures the Agreeableness cues like the constant smile and conversational tone.\n- Option B is a text-based distractor. While the story involves frustration, his current demeanor (smiling, light chuckle) shows no signs of frustration or resignation.\n- Option C is a text-based distractor. Plausible for someone recounting being denied something, but there are no cues for anger or feigned indifference; rather, he seems engaged and friendly.\n- Option D is a near-miss distractor. It correctly identifies the 'self-doubt' (Neuroticism) component but mischaracterizes his overall demeanor as 'assertive confidence,' which is inaccurate given the gaze aversion.\n- Option E is a text-based distractor. 'Nostalgia' and 'acceptance' are plausible emotions for a childhood story, but the specific cues point more strongly towards anxiety and social management than wistfulness.\n- Option F is a video-based distractor. While he shows some 'amusement' (light chuckle), the core emotion of the story is distress, not embarrassment. This option misses the negative valence of the core narrative."
+    },
+    {
+      "category": "Temporal-Causal Reasoning",
+      "question": "Consider the sequence of behaviors observed across the video. Which of the following best describes the causal chain linking the person's actions at different moments?",
+      "options": [
+        {
+          "id": "A",
+          "text": "An act of self-disclosure (early) prompts a continuous self-monitoring behavior, which is then managed by a compensatory affiliative display (throughout)."
+        },
+        {
+          "id": "B",
+          "text": "A period of emotional regulation (early) triggers a narrative-enhancing expressive gesture (mid-video), which allows for a display of resolution (late)."
+        },
+        {
+          "id": "C",
+          "text": "A continuous affiliative display (throughout) prompts an act of self-disclosure (mid-video), which is then followed by a self-monitoring behavior (late)."
+        },
+        {
+          "id": "D",
+          "text": "An act of self-disclosure (early) prompts a need for affiliation, which is then followed by a narrative-enhancing expressive gesture to connect (mid-video)."
+        },
+        {
+          "id": "E",
+          "text": "A moment of cognitive recall (early) leads to a period of verbal hesitation (mid-video), which concludes with a signal of narrative completion (late)."
+        },
+        {
+          "id": "F",
+          "text": "A self-monitoring behavior (early) allows for a moment of self-disclosure (mid-video), which is then concluded with a compensatory affiliative display (late)."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The causal chain is: telling a vulnerable story (self-disclosure) causes discomfort (self-monitoring/gaze aversion), which he manages by being overtly friendly (affiliative display/smile).\n\n- Option A is correct. This option accurately maps the abstract behaviors to the video: self-disclosure (telling the story), self-monitoring (gaze aversion), and compensatory affiliative display (consistent smile).\n- Option B is a video-based distractor. It correctly identifies a 'narrative-enhancing gesture' (eyebrow raise) but misplaces it in a causal chain that begins with 'emotional regulation' and ends in 'resolution,' neither of which are accurate descriptions of the overall process.\n- Option C is a near-miss distractor. It contains the correct components but reverses the temporal and causal order, incorrectly stating that the affiliative display comes first and prompts the other behaviors.\n- Option D is a video-based distractor. While plausible, it incorrectly links the self-disclosure to the expressive gesture, bypassing the more significant intermediate step of self-monitoring (gaze aversion) which is present throughout.\n- Option E is a text-based distractor. This describes a generic, plausible storytelling process but does not match the specific psychological dynamics (anxiety, compensation) observed in the video.\n- Option F is another near-miss distractor with an incorrect temporal order. It claims the self-monitoring happens first, which is not the case; the decision to tell the story (self-disclosure) is the initiating action."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 3.3s, a region was detected in the video (x=0.299, y=0.243, w=0.151, h=0.126, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A sustained lateral gaze, avoiding direct camera engagement"
+        },
+        {
+          "id": "B",
+          "text": "A steady and direct gaze, maintaining contact with the camera"
+        },
+        {
+          "id": "C",
+          "text": "A brief, emphatic upward movement of the person's brow region"
+        },
+        {
+          "id": "D",
+          "text": "A subtle, rhythmic nodding motion synchronized with the speech"
+        },
+        {
+          "id": "E",
+          "text": "A rapid blinking pattern indicating a high level of cognitive load"
+        },
+        {
+          "id": "F",
+          "text": "A relaxed and consistent smile with slightly upturned corners"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The provided coordinates at 3.3s correspond to the subject's eyes. The observation log confirms that during this time, the subject is looking to the left and not at the camera.\n\n- Option A is correct. This description accurately reflects the 'Subject looked to the left and did not maintain eye contact with the camera' observation for the eye region.\n- Option B is a near-miss distractor. It correctly identifies the body region (eyes) and action type (gaze) but describes the exact opposite of what is happening, using the human-verified error pattern ('WRONG [eyes]').\n- Option C is a video-based distractor. This describes the eyebrow raise, which occurs in a different facial region (eyebrows) and at a different time (around 7.1s).\n- Option D is a video-based distractor. This describes the head movement, which involves a larger region (the entire head) and is a different action from what is occurring in the specific eye region.\n- Option E is a text-based distractor. This is a plausible behavior but is not mentioned in the observation log and is not visible in the video.\n- Option F is a video-based distractor. This describes the smile, which is located in a different facial region (the mouth)."
+    },
+    {
+      "category": "Counterfactual Reasoning",
+      "question": "If the person had NOT exhibited the behavior observed throughout 0s - 15s, which of the following personality assessments would be MOST affected?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The High Neuroticism assessment, as the key indicator of social anxiety or self-consciousness would be absent."
+        },
+        {
+          "id": "B",
+          "text": "The High Agreeableness assessment, given that the primary evidence of warmth comes from that specific behavior."
+        },
+        {
+          "id": "C",
+          "text": "The High Neuroticism assessment, which would likely increase since the person would appear more confident."
+        },
+        {
+          "id": "D",
+          "text": "The High Extraversion assessment, as the main cues for social energy are directly tied to this particular behavior."
+        },
+        {
+          "id": "E",
+          "text": "The Medium Conscientiousness score, because maintaining a specific posture is a sign of learned self-discipline."
+        },
+        {
+          "id": "F",
+          "text": "The High Openness score, as a willingness to be vulnerable is tied to his physical demeanor in that same moment."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The most consistent and impactful behavior throughout the clip is the sustained gaze aversion, which is the primary evidence for the High Neuroticism score. Removing it would fundamentally weaken that assessment.\n\n- Option A is correct. The analysis states that the most significant indicator for High Neuroticism is the sustained gaze aversion. If this behavior were absent (e.g., if he made direct eye contact), this assessment would lose its main support.\n- Option B is a video-based distractor. The behavior in question is the gaze aversion. The evidence for Agreeableness comes from the smile and vocal tone. Removing the gaze aversion would not significantly impact the Agreeableness score.\n- Option C is a near-miss distractor. It correctly identifies that the High Neuroticism score would be affected, but it gets the direction of the effect wrong. Removing the primary evidence for high neuroticism would cause the score to decrease, not increase.\n- Option D is a video-based distractor. The evidence for Extraversion is the expressive storytelling and vocal modulation, not the gaze aversion. In fact, the gaze aversion is somewhat contrary to typical extraverted behavior, so removing it might even slightly increase the Extraversion score, but the Neuroticism score is most affected.\n- Option E is a text-based distractor. This makes a plausible connection between posture and a trait, but the gaze aversion is not the primary evidence for Conscientiousness (grooming and structured speech are). Therefore, removing it would have a minimal effect on that score.\n- Option F is a text-based distractor. The High Openness score is based on the *act* of sharing a personal story, not the specific non-verbal tic of gaze aversion that accompanies it. The assessment would still stand."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator06",
+      "version": 2,
+      "clues_total": 13,
+      "clues_correct": 10,
+      "clues_wrong_corrected": 1,
+      "clues_missing_skipped": 1,
+      "clues_bonus": 1
+    }
+  }
+}

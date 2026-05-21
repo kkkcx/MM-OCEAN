@@ -1,0 +1,379 @@
+{
+  "video_id": "c7tczvW3_dQ.003.mp4",
+  "video_path": "c7tczvW3_dQ.003.mp4",
+  "transcription": "You need to keep warm, you know? What I'd do, first thing is perhaps build a giant fire down there on the beach or slightly up if there's a raised position so if I saw a ship or plane I could quickly.",
+  "original_scores": {
+    "extraversion": 0.35514018691588783,
+    "agreeableness": 0.5934065934065933,
+    "conscientiousness": 0.3883495145631068,
+    "neuroticism": 0.3645833333333333,
+    "openness": 0.38888888888888895
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 2.59,
+      "description": "The subject looks directly at the camera while speaking. His eyebrows are in a neutral to slightly raised position. His mouth moves in sync with his speech.",
+      "bboxes": [
+        {
+          "frame_time": 1.301784,
+          "x": 0.47483552631578946,
+          "y": 0.33210526516563016,
+          "w": 0.20279605263157896,
+          "h": 0.10263157894736842,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 1.301784,
+          "x": 0.4777960526315789,
+          "y": 0.27947368621826174,
+          "w": 0.19835526315789473,
+          "h": 0.14736842105263157,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 2.140635,
+          "x": 0.5458881578947369,
+          "y": 0.5057894756919459,
+          "w": 0.10361842105263158,
+          "h": 0.11315789473684211,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 2.59,
+      "end_time": 7.01,
+      "description": "His expression remains engaged, and he maintains eye contact. His eyes widen slightly as he says the words \"giant fire\".",
+      "bboxes": [
+        {
+          "frame_time": 4.8,
+          "x": 0.4541118421052632,
+          "y": 0.32157894937615644,
+          "w": 0.2338815789473684,
+          "h": 0.3868421052631579,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 4.8,
+          "x": 0.46151315789473685,
+          "y": 0.37421052832352486,
+          "w": 0.1924342105263158,
+          "h": 0.10789473684210527,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 7.01,
+      "end_time": 15.5,
+      "description": "He continues to look at the camera with a neutral expression, blinking naturally. His eyebrows are slightly lowered and drawn together in a look of concentration.",
+      "bboxes": [
+        {
+          "frame_time": 9.939043,
+          "x": 0.5,
+          "y": 0.3347368441129986,
+          "w": 0.20723684210526316,
+          "h": 0.1,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 8.238082,
+          "x": 0.4866776315789474,
+          "y": 0.34526315990247225,
+          "w": 0.20131578947368423,
+          "h": 0.12368421052631579,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 15.5,
+      "description": "The subject is seated, framed from the upper chest. He maintains a stable posture, leaning slightly forward toward the camera. His head moves with small, natural shifts and nods that correspond with his speech.",
+      "bboxes": [
+        {
+          "frame_time": 7.75,
+          "x": 0.3519736842105263,
+          "y": 0.5321052651656302,
+          "w": 0.6128289473684211,
+          "h": 0.41578947368421054,
+          "note": "pose human-annotated",
+          "region": "torso"
+        },
+        {
+          "frame_time": 7.710206,
+          "x": 0.44671052631578945,
+          "y": 0.2163157914814196,
+          "w": 0.28421052631578947,
+          "h": 0.5236842105263158,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 9.235066,
+          "x": 0.4689144736842105,
+          "y": 0.1505263177972091,
+          "w": 0.27976973684210527,
+          "h": 0.5842105263157895,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 2.21,
+      "description": "Speech is delivered at a moderate pace. There is a rising intonation on the phrase \"you know?\".",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 2.21,
+      "end_time": 9.17,
+      "description": "After a brief pause, speech resumes. The words \"giant fire\" are emphasized with a slight increase in volume and a higher pitch.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 9.17,
+      "end_time": 15.5,
+      "description": "The speech rate remains consistent. There is a slight hesitation and repetition on the word \"or\" at 00:09. The pitch has a falling contour at the end of clauses.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.5,
+      "description": "The subject is a male with a light skin tone and short, dark hair. He is wearing a dark blue cardigan over a grey crew-neck T-shirt. The setting is indoors, with a large, colorful movie poster visible in the background featuring a woman in a red dress and two men. The lighting is bright and even.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Low",
+      "score": 0.36,
+      "rationale": "The subject's rating of Low Extraversion is supported by his contained and measured demeanor. His posture is stable and his head movements are minimal and directly tied to his speech, lacking the expansive and energetic body language typical of high extraversion. While he maintains direct eye contact, his facial expression remains neutral and focused, without the broad smiles or high affective displays that signal social ebullience. His vocal pace is moderate and consistent, indicating a lower level of social energy and excitement.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Medium",
+      "score": 0.59,
+      "rationale": "The subject scores in the Medium range for Agreeableness. He demonstrates a cooperative stance by directly addressing the camera and leaning slightly forward, which indicates engagement. However, this is balanced by a consistently neutral and task-focused facial expression. He does not display overt signs of warmth (like smiling) that would suggest high agreeableness, nor any signs of skepticism or hostility. This blend of cooperative engagement and neutral affect places him in the middle of the spectrum.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Low",
+      "score": 0.39,
+      "rationale": "The Low Conscientiousness score is reflected in the subject's spontaneous and somewhat unstructured communication style. When outlining his plan, he shows a slight hesitation and repetition on the word 'or', suggesting he is formulating the idea in the moment rather than reciting a well-organized plan. This lack of verbal precision and on-the-spot problem-solving is characteristic of a more flexible, less meticulously planned approach consistent with lower conscientiousness.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Low",
+      "score": 0.36,
+      "rationale": "The subject demonstrates high emotional stability, corresponding to a Low Neuroticism score. Throughout the video, he maintains a stable and relaxed posture, with no observable signs of anxiety such as fidgeting or physical tension. His vocal delivery is calm and consistent, even during a minor hesitation. His facial expression, while showing concentration with slightly furrowed brows, does not betray any worry or distress. This overall composure under observation strongly supports a low level of neuroticism.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "Low",
+      "score": 0.39,
+      "rationale": "The subject's Low Openness is indicated by his highly practical and conventional response to the hypothetical scenario. Proposing to build a signal fire is a standard, pragmatic solution, lacking the novelty or creative abstraction that might be expected from someone high in openness. His focused demeanor, direct speech, and emphasis on the functional aspect ('so if I saw a ship or plane') further suggest a mindset grounded in concrete, conventional problem-solving rather than imaginative exploration.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During [9.2s - 15.5s], the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A significantly high level of Agreeableness."
+        },
+        {
+          "id": "B",
+          "text": "A significantly low level of Conscientiousness."
+        },
+        {
+          "id": "C",
+          "text": "A significantly high level of Neuroticism."
+        },
+        {
+          "id": "D",
+          "text": "A significantly low level of Extraversion."
+        },
+        {
+          "id": "E",
+          "text": "A significantly low level of Openness."
+        },
+        {
+          "id": "F",
+          "text": "A significantly high level of Openness."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. During this interval, the subject hesitates and repeats the word 'or' (at 9.2s), which indicates on-the-spot, unstructured planning. This spontaneous and less precise communication style is a key indicator for Low Conscientiousness.\n\n- Option A is a text-based distractor. Agreeableness is not strongly indicated or contradicted by a verbal hesitation.\n- Option C is a text-based distractor. One might incorrectly associate hesitation with anxiety (High Neuroticism), but the subject's overall calm demeanor and stable posture contradict this.\n- Option D is a video-based distractor. While the subject does exhibit Low Extraversion, this is supported by his overall contained demeanor and moderate vocal pace throughout the video, not specifically by the hesitation at 9.2s.\n- Option E is a near-miss distractor. The subject does score Low on Openness, but this is based on the conventional *content* of his idea (a signal fire), whereas the *behavior* of hesitating is a more direct and stronger piece of evidence for the *process* of planning, which relates to Conscientiousness.\n- Option F is a text-based distractor, as nothing in the video supports a high level of Openness."
+    },
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their level of focused concentration?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[8.0s - 8.5s]"
+        },
+        {
+          "id": "B",
+          "text": "[1.0s - 1.5s]"
+        },
+        {
+          "id": "C",
+          "text": "[4.5s - 5.0s]"
+        },
+        {
+          "id": "D",
+          "text": "[9.0s - 9.5s]"
+        },
+        {
+          "id": "E",
+          "text": "[2.2s - 2.7s]"
+        },
+        {
+          "id": "F",
+          "text": "[13.5s - 14.0s]"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. The observation notes that from 7.0s onwards, his eyebrows lower and furrow to show concentration, with a specific detection at 8.2s. The interval [8.0s - 8.5s] captures this key micro-expression of focus.\n\n- Option B is a video-based distractor. This interval captures his initial neutral expression and direct eye contact, not the specific expression of concentration.\n- Option C is a video-based distractor. This interval shows a generally focused face, but the most notable *change* into a concentrated expression (the brow furrow) occurs later.\n- Option D is a near-miss distractor. This interval corresponds to his verbal hesitation ('or'), which is a cognitive event, but the most distinct facial micro-expression for concentration (the brow furrow) is most clearly established just before this, around 8.2s.\n- Option E is a video-based distractor. This interval is a brief pause before he mentions the 'giant fire', but it does not contain the key facial change related to concentration.\n- Option F is a text-based distractor. It's a plausible time range within the video but does not correspond to a specific, notable change in expression."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around [9.9s], a region was detected in the video (x=0.500, y=0.335, w=0.207, h=0.100, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A focused brow furrow indicating deep concentration."
+        },
+        {
+          "id": "B",
+          "text": "A neutral gaze directed forward with natural blinks."
+        },
+        {
+          "id": "C",
+          "text": "Articulated mouth movements matching spoken words."
+        },
+        {
+          "id": "D",
+          "text": "A general facial expression showing steady focus."
+        },
+        {
+          "id": "E",
+          "text": "A stable and mostly motionless upper body posture."
+        },
+        {
+          "id": "F",
+          "text": "A slight forward inclination of the entire head."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. The provided coordinates at 9.9s precisely frame the subject's eyes. The observation log for [7.0s - 15.5s] states, '[eyes] He continues to look at the camera with a neutral expression, blinking naturally.' This option is a direct description of that observation.\n\n- Option A is a near-miss and video-based distractor. A focused brow furrow is observed at 8.2s in the eyebrow region, which is spatially very close to the eyes but outside the specified bounding box.\n- Option C is a video-based distractor. Speech-related mouth movements occur in the mouth region, which is below the specified bounding box.\n- Option D is a video-based distractor. This describes the entire face, but the question asks about the specific, smaller region of the eyes.\n- Option E is a video-based distractor. This describes the torso, which is a large area well outside the specified bounding box on the face.\n- Option F is a video-based distractor. This describes the entire head, which is a larger region than the specified bounding box for the eyes."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "At which time and location does the subject's non-verbal expression most strongly align with a moment of verbal emphasis in his problem-solving narrative?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[9.2s] in the head region (x=0.47, y=0.15, w=0.28, h=0.58)"
+        },
+        {
+          "id": "B",
+          "text": "[4.8s] in the facial region (x=0.45, y=0.32, w=0.23, h=0.39)"
+        },
+        {
+          "id": "C",
+          "text": "[1.3s] in the eye region (x=0.48, y=0.33, w=0.20, h=0.10)"
+        },
+        {
+          "id": "D",
+          "text": "[8.2s] in the eyebrow region (x=0.49, y=0.35, w=0.20, h=0.12)"
+        },
+        {
+          "id": "E",
+          "text": "[4.8s] in the torso region (x=0.35, y=0.53, w=0.61, h=0.42)"
+        },
+        {
+          "id": "F",
+          "text": "[12.5s] in the mouth region (x=0.55, y=0.51, w=0.10, h=0.11)"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. The verbal emphasis occurs on the words 'giant fire' between 2.2s and 9.2s. The observation log for [2.6s - 7.0s] notes his expression is 'focused,' with a specific face detection at 4.8s. This moment of facial focus aligns temporally and thematically with the vocal emphasis on his plan's key element.\n\n- Option A is a video-based distractor. The time [9.2s] corresponds to his verbal hesitation ('or'), which is a moment of refinement, not emphasis.\n- Option C is a video-based distractor. The time [1.3s] is during his initial neutral state, before the main idea and its verbal emphasis are presented.\n- Option D is a near-miss distractor. The brow furrow at [8.2s] signifies concentration, but the primary vocal emphasis on 'giant fire' occurs earlier in that time block, making the general focused face at 4.8s a better alignment.\n- Option E is a video-based distractor with the correct time but incorrect location. At 4.8s, the torso is stable and does not contribute to the verbal emphasis.\n- Option F is a text-based distractor. This combination of time and location does not correspond to any particularly significant moment of emphasis; it's just regular speech."
+    },
+    {
+      "category": "Counterfactual Reasoning",
+      "question": "If the person had NOT exhibited the behavior observed around [9.2s - 15.5s], which of the following personality assessments would be MOST affected?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Agreeableness might seem lower, as his cooperative engagement is defined mostly by that one specific moment."
+        },
+        {
+          "id": "B",
+          "text": "Conscientiousness would seem higher, as the main evidence for spontaneous, unstructured planning would be absent."
+        },
+        {
+          "id": "C",
+          "text": "Neuroticism would be unaffected, because his emotional stability is primarily shown by his calm posture throughout."
+        },
+        {
+          "id": "D",
+          "text": "Openness might seem higher, as removing the pause would make his conventional idea seem more creatively delivered."
+        },
+        {
+          "id": "E",
+          "text": "Conscientiousness would seem lower, as that specific hesitation demonstrates very careful thought before speaking."
+        },
+        {
+          "id": "F",
+          "text": "Extraversion would be unchanged, as his low energy is demonstrated by his consistently moderate vocal pace."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. The behavior around 9.2s is the verbal hesitation and repetition of 'or', which is the primary piece of evidence for an unstructured, spontaneous communication style. The personality analysis explicitly links this to a Low Conscientiousness score. Removing this behavior would remove the strongest evidence for this trait, likely making his score appear higher (i.e., more planned and organized).\n\n- Option A is a text-based distractor. His Agreeableness score is based on his direct gaze and forward lean, not the hesitation, so removing it would have little effect.\n- Option C is a text-based distractor. This statement is correct, but it explains why Neuroticism is *not* the most affected trait, making it a plausible but incorrect answer to the question.\n- Option D is a text-based distractor. Openness is judged by the conventional *content* of his idea (a fire), not the fluency of its delivery. A more fluent delivery would not make the idea itself more creative.\n- Option E is a near-miss distractor. It correctly identifies Conscientiousness as the affected trait but gets the direction of the change wrong. The hesitation is interpreted as a lack of pre-planning (Low C), not as careful thought (High C).\n- Option F is a text-based distractor. Similar to option C, this is a correct statement explaining why Extraversion would be unaffected, making it a distractor."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator11",
+      "version": 1,
+      "clues_total": 16,
+      "clues_correct": 13,
+      "clues_wrong_corrected": 1,
+      "clues_missing_skipped": 2,
+      "clues_bonus": 0
+    }
+  }
+}

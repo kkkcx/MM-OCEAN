@@ -1,0 +1,398 @@
+{
+  "video_id": "j-9NUiMYbos.001.mp4",
+  "video_path": "j-9NUiMYbos.001.mp4",
+  "transcription": "Anyway cool. One of my greatest. Make sure you subscribe, comment, do whatever. Completely support my covers. I really appreciate everybody who has been helping me out these past few weeks and months-",
+  "original_scores": {
+    "extraversion": 0.48598130841121495,
+    "agreeableness": 0.3956043956043956,
+    "conscientiousness": 0.5533980582524272,
+    "neuroticism": 0.39583333333333337,
+    "openness": 0.5888888888888889
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 2.93,
+      "description": "The subject maintains direct eye contact with the camera. The mouth is open and moves with speech. Eyebrows are in a neutral, relaxed position.",
+      "bboxes": [
+        {
+          "frame_time": 0.551987,
+          "x": 0.4074835526315789,
+          "y": 0.23771929489938837,
+          "w": 0.16726973684210528,
+          "h": 0.09210526315789473,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 0.551987,
+          "x": 0.45041118421052634,
+          "y": 0.42192982121517786,
+          "w": 0.10213815789473685,
+          "h": 0.07368421052631578,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 0.551987,
+          "x": 0.3882401315789474,
+          "y": 0.19561403174149364,
+          "w": 0.1998355263157895,
+          "h": 0.07368421052631578,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 2.93,
+      "end_time": 7.03,
+      "description": "Gaze remains directed at the camera with natural blinks. The eyebrows raise and lower slightly in coordination with speech. The eyes narrow slightly for a moment.",
+      "bboxes": [
+        {
+          "frame_time": 5.210559,
+          "x": 0.3882401315789474,
+          "y": 0.2982456106888621,
+          "w": 0.225,
+          "h": 0.08947368421052632,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 7.03,
+      "end_time": 15.17,
+      "description": "The subject continues to look directly at the camera. The eyebrows move up and down subtly for emphasis. The corners of the mouth lift slightly at times, but no full smile is formed. The overall expression is engaged.",
+      "bboxes": [
+        {
+          "frame_time": 8.853621,
+          "x": 0.39564144736842105,
+          "y": 0.2429824527941252,
+          "w": 0.1998355263157895,
+          "h": 0.15526315789473685,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 8.907778,
+          "x": 0.39120065789473685,
+          "y": 0.24561403174149363,
+          "w": 0.21167763157894737,
+          "h": 0.060526315789473685,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 11.515714,
+          "x": 0.4030427631578947,
+          "y": 0.23771929489938837,
+          "w": 0.2205592105263158,
+          "h": 0.3763157894736842,
+          "note": "face human-annotated",
+          "region": "face"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0.83,
+      "end_time": 2.5,
+      "description": "The subject raises both arms from below the frame, extending them forward and outward in a wide, open gesture with palms facing down and away.",
+      "bboxes": [
+        {
+          "frame_time": 1.868312,
+          "x": 0.019654605263157886,
+          "y": 0.63508771595202,
+          "w": 0.9803453947368421,
+          "h": 0.31842105263157894,
+          "note": "human-annotated",
+          "region": "arms"
+        },
+        {
+          "frame_time": 1.868312,
+          "x": 0,
+          "y": 0.6035087685835989,
+          "w": 1,
+          "h": 0.3868421052631579,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 2.5,
+      "end_time": 3.53,
+      "description": "The arms are retracted back down and out of the frame. The head performs a small, quick nod forward.",
+      "bboxes": [
+        {
+          "frame_time": 3.410271,
+          "x": 0.18396381578947368,
+          "y": 0.8035087685835989,
+          "w": 0.5832236842105263,
+          "h": 0.19210526315789472,
+          "note": "human-annotated",
+          "region": "arms"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 3.53,
+      "end_time": 15.17,
+      "description": "The subject remains in a seated position, with the torso stationary. The head makes small, subtle nods and tilts that are synchronized with the rhythm of speech.",
+      "bboxes": [
+        {
+          "frame_time": 5.823829,
+          "x": 0.23133223684210527,
+          "y": 0.7061403475309673,
+          "w": 0.5980263157894737,
+          "h": 0.2894736842105263,
+          "note": "pose human-annotated",
+          "region": "torso"
+        },
+        {
+          "frame_time": 5.823829,
+          "x": 0.37639802631578945,
+          "y": 0.10614034753096731,
+          "w": 0.22351973684210527,
+          "h": 0.5131578947368421,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 3.53,
+      "description": "Speech is delivered at a moderate pace. The voice has a slightly breathy quality on the word \"cool.\" Pitch rises and falls with a questioning intonation on the phrase \"Why am I doing this?\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 3.53,
+      "end_time": 9.6,
+      "description": "The speech rate is consistent and clear. Pitch remains in a stable mid-range with slight upward inflections for emphasis on phrases like \"do whatever.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 9.6,
+      "end_time": 15.17,
+      "description": "Volume remains consistent. Pitch rises for emphasis on \"really appreciate\" before following a natural, descending contour towards the end of the longer sentence.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.17,
+      "description": "The subject is a young adult male of East Asian descent with short, black hair styled with a side-swept fringe. He is wearing a light-colored, short-sleeved v-neck shirt underneath a black vest. The background is a plain, textured wall, likely an acoustic panel, in a neutral beige or light grey color. The scene is indoors with soft, even frontal lighting.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 9.371696,
+      "end_time": 10.371696,
+      "description": "There is a dividing line on the wall",
+      "bboxes": [
+        {
+          "frame_time": 9.871696,
+          "x": 0.2964638157894737,
+          "y": 0.02719297910991468,
+          "w": 0.08141447368421052,
+          "h": 0.5815789473684211,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Medium",
+      "score": 0.49,
+      "rationale": "The subject exhibits a blend of extraverted and introverted cues, warranting a Medium rating. His willingness to address a camera, maintain direct eye contact for extended periods, and use broad, open arm gestures (0.8s-2.5s) are indicative of social confidence and expressiveness. However, this is counterbalanced by more reserved behaviors. There is a notable break in eye contact (2.9s-7.0s) where his gaze shifts away, and his torso remains relatively still. His vocal energy is moderate and controlled rather than consistently boisterous, suggesting a social disposition that is present but not dominant.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Medium",
+      "score": 0.4,
+      "rationale": "The subject's agreeableness is assessed as Medium. He demonstrates pro-social behavior by explicitly expressing gratitude and appreciation for his supporters, a key indicator of warmth. His engaged facial expression and direct eye contact further suggest a desire for connection. However, his call to action ('subscribe, comment, do whatever') is direct and somewhat transactional, lacking a softer, more affiliative appeal. The overall presentation is cooperative but maintains a degree of straightforwardness, balancing warmth with task-focus.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Medium",
+      "score": 0.55,
+      "rationale": "A Medium level of Conscientiousness is indicated by the subject's organized yet relaxed presentation. His speech is clear, delivered at a consistent pace, and follows a logical structure (opening, call to action, closing thanks), which points to preparation and goal-directedness. The controlled indoor setting with even lighting also suggests a degree of forethought. However, the casual, unscripted-sounding phrase 'do whatever' introduces an element of spontaneity that deviates from a highly meticulous or rigidly planned approach, fitting a mid-range score.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Medium",
+      "score": 0.4,
+      "rationale": "The subject displays signs of general emotional stability, yet with a subtle indicator of self-consciousness, supporting a Medium Neuroticism score. For the majority of the video, he is composed, with steady hands (after the initial gesture), a controlled vocal tone, and direct eye contact. These behaviors suggest low anxiety. However, the distinct moment of gaze aversion (2.9s-7.0s), where he looks down and away from the camera, is a classic nonverbal cue for momentary discomfort or self-consciousness. This fleeting sign of pressure contrasts with his otherwise calm demeanor.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "Medium",
+      "score": 0.59,
+      "rationale": "The subject's Openness is rated as Medium. The context of the video—creating 'covers' and engaging with an online audience—implies an investment in creative and aesthetic pursuits. His expressive use of vocal intonation and subtle eyebrow movements (7.0s-15.2s) to add emphasis demonstrates an appreciation for nuance in communication. However, the setting itself is neutral and conventional, and the content of this specific clip is a standard social media interaction rather than a display of intellectual or novel ideas. This combination of creative activity within a conventional framework aligns with a Medium level of Openness.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During 2.9s - 7.0s, the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Medium Neuroticism, indicated by a temporary nonverbal sign of self-consciousness."
+        },
+        {
+          "id": "B",
+          "text": "High Extraversion, demonstrated by the consistent use of expressive body language."
+        },
+        {
+          "id": "C",
+          "text": "Low Agreeableness, suggested by a brief moment of disengagement from the audience."
+        },
+        {
+          "id": "D",
+          "text": "Low Neuroticism, because the behavior reflects a moment of thoughtful recollection."
+        },
+        {
+          "id": "E",
+          "text": "High Conscientiousness, shown by the careful pacing and delivery of prepared speech."
+        },
+        {
+          "id": "F",
+          "text": "Medium Openness, reflected in the conventional setting of the recorded presentation."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The behavior in question is the gaze aversion from 2.9s to 7.0s. The personality analysis explicitly links this to momentary discomfort or self-consciousness, which is a key indicator for a Medium Neuroticism score, as it contrasts with his otherwise calm demeanor.\n\n- Option A is correct. The gaze aversion is the primary evidence for a non-low Neuroticism score.\n- Option B is a video-based distractor. Expressive body language (arm gestures) does occur, but in a different time segment (0.8s-2.5s).\n- Option C is a text-based distractor. While gaze aversion could be interpreted as 'disengagement,' it's more directly linked to internal state (Neuroticism) than interpersonal style (Agreeableness). The primary evidence for Agreeableness is his verbal gratitude.\n- Option D is a near-miss distractor. It correctly identifies the trait (Neuroticism) but gets the direction wrong. The behavior is a sign *of* neuroticism, not a sign of its absence (low neuroticism). Interpreting it as 'thoughtful recollection' is a plausible but incorrect rationalization.\n- Option E is a text-based distractor. The question asks about 2.9s-7.0s. The evidence for Conscientiousness (structured speech) is present throughout the video but not specifically in this moment of gaze aversion.\n- Option F is a text-based distractor. Openness is assessed based on the context (creative 'covers') and the setting, which are not specific to the behavior at 2.9s-7.0s."
+    },
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their Neuroticism level?",
+      "options": [
+        {
+          "id": "A",
+          "text": "2.9s - 7.0s"
+        },
+        {
+          "id": "B",
+          "text": "0.8s - 2.5s"
+        },
+        {
+          "id": "C",
+          "text": "7.0s - 9.6s"
+        },
+        {
+          "id": "D",
+          "text": "0.0s - 1.5s"
+        },
+        {
+          "id": "E",
+          "text": "9.6s - 12.1s"
+        },
+        {
+          "id": "F",
+          "text": "13.0s - 15.2s"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The personality analysis identifies a 'distinct moment of gaze aversion' as a key nonverbal cue for momentary self-consciousness, which is the primary basis for the Medium Neuroticism score. The observation log precisely times this event as occurring between 2.9s and 7.0s.\n\n- Option A is correct. This interval contains the gaze shift away from the camera.\n- Option B is a video-based distractor. This interval (0.8s-2.5s) corresponds to the large arm gestures, which are relevant to Extraversion, not Neuroticism.\n- Option C is a video-based distractor. During this interval (7.0s-9.6s), the person re-establishes direct eye contact and uses eyebrow movements for emphasis, which relates more to engagement (Extraversion/Agreeableness) than Neuroticism.\n- Option D is a near-miss distractor. In this interval (0.0s-1.5s), the person is speaking with a neutral expression and making eye contact, which represents his baseline low-anxiety state, but the *change* relevant to Neuroticism happens later.\n- Option E is a video-based distractor. This interval (9.6s-12.1s) shows him speaking with emphasis and gratitude, a behavior linked to Agreeableness.\n- Option F is a text-based distractor. This is a valid time range, but no distinct micro-expression relevant to the Neuroticism score occurs; he maintains a steady, engaged expression."
+    },
+    {
+      "category": "Temporal-Causal Reasoning",
+      "question": "Consider the sequence of behaviors observed across the video. Which of the following best describes the causal chain linking the person's actions at different moments?",
+      "options": [
+        {
+          "id": "A",
+          "text": "An act of self-monitoring early on leads to a compensatory display of gratitude, which then causes an increase in vocal volume toward the end."
+        },
+        {
+          "id": "B",
+          "text": "An initial pro-social appeal is interrupted by an external distraction, which is followed by a deliberate attempt to regain the audience's attention."
+        },
+        {
+          "id": "C",
+          "text": "A period of thoughtful planning is followed by an expressive gesture, which then transitions into a scripted concluding statement of thanks."
+        },
+        {
+          "id": "D",
+          "text": "A moment of verbal hesitation at the start causes a subsequent expressive gesture, which is then corrected by a return to a more reserved posture."
+        },
+        {
+          "id": "E",
+          "text": "An early expressive display for emphasis leads to a pro-social statement of gratitude, which is then followed by a moment of self-monitoring."
+        },
+        {
+          "id": "F",
+          "text": "An initial expressive display is followed by a brief self-monitoring behavior, which then prompts a pro-social recovery to re-engage the audience."
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The video shows a sequence: (1) an initial expressive arm gesture (0.8s-2.5s), (2) a moment of gaze aversion, which is a self-monitoring behavior (2.9s-7.0s), and (3) a return to direct eye contact while expressing thanks, a pro-social recovery (7.0s-15.2s). Option F accurately captures this causal and temporal flow.\n\n- Option F is correct. It correctly identifies the sequence and the psychological function of each abstract behavior.\n- Option A is a near-miss distractor. It has the correct sequence of self-monitoring -> gratitude, but incorrectly links the gratitude to an increase in vocal volume, which isn't the primary change (it's a change in pitch for emphasis).\n- Option B is a text-based distractor. There is no visual evidence of an 'external distraction'; the gaze aversion is internal (self-monitoring).\n- Option C is a near-miss distractor with reversed temporal order. The expressive gesture happens *before* the main statement of thanks, not the other way around.\n- Option D is a text-based distractor. There is no significant 'verbal hesitation' at the start that would cause the gesture.\n- Option E is a video-based distractor with reversed temporal order. It correctly identifies the behaviors (expressive display, gratitude, self-monitoring) but places the self-monitoring moment at the end instead of in the middle."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "Which of the following options correctly identifies the time and location of the behavior characterized by subtle head movements that are synchronized with speech rhythm, while the upper body remains relatively stable?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[5.8s] x=0.38, y=0.11, w=0.22, h=0.51"
+        },
+        {
+          "id": "B",
+          "text": "[1.9s] x=0.00, y=0.60, w=1.00, h=0.39"
+        },
+        {
+          "id": "C",
+          "text": "[3.4s] x=0.18, y=0.80, w=0.58, h=0.19"
+        },
+        {
+          "id": "D",
+          "text": "[8.9s] x=0.40, y=0.24, w=0.20, h=0.16"
+        },
+        {
+          "id": "E",
+          "text": "[0.6s] x=0.39, y=0.20, w=0.20, h=0.07"
+        },
+        {
+          "id": "F",
+          "text": "[1.9s] x=0.02, y=0.64, w=0.98, h=0.32"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The question describes the behavior from observation [3.5s - 15.2s]: Head makes small, subtle nods and tilts, synchronized with the rhythm of speech and subject remains seated, torso moves slightly. The provided bounding box at 5.8s (x=0.38, y=0.11, w=0.22, h=0.51) correctly frames the head and upper torso area during this specific action.\n\n- Option A is correct. The timestamp and bbox correspond to the described head/torso behavior.\n- Option B is a video-based distractor. This timestamp and bbox capture the large hand gestures near the beginning.\n- Option C is a video-based distractor. This timestamp and bbox capture the arms retracting and moving out of frame.\n- Option D is a video-based distractor. This timestamp and bbox isolate the eye and eyebrow region during a moment of emphasis.\n- Option E is a video-based distractor. This timestamp and bbox isolate the neutral eyebrows at the very start of the video.\n- Option F is a video-based distractor. This timestamp and bbox capture the broad arm extension gesture."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator06",
+      "version": 1,
+      "clues_total": 21,
+      "clues_correct": 14,
+      "clues_wrong_corrected": 2,
+      "clues_missing_skipped": 4,
+      "clues_bonus": 1
+    }
+  }
+}

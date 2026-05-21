@@ -1,0 +1,379 @@
+{
+  "video_id": "kY_4WyAXxrQ.002.mp4",
+  "video_path": "kY_4WyAXxrQ.002.mp4",
+  "transcription": "You know I'm here. The way that I would best want for us to do that, would be via my email. If you do it, and you leave your question below the ...",
+  "original_scores": {
+    "extraversion": 0.33644859813084116,
+    "agreeableness": 0.4065934065934066,
+    "conscientiousness": 0.4854368932038835,
+    "neuroticism": 0.3854166666666667,
+    "openness": 0.38888888888888895
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 3.4,
+      "description": "The subject's eyes are initially closed, then open to look forward at the camera. Her expression is neutral and relaxed as she speaks.",
+      "bboxes": [
+        {
+          "frame_time": 2.592306,
+          "x": 0.36085526315789473,
+          "y": 0.3400000020077354,
+          "w": 0.1924342105263158,
+          "h": 0.11578947368421053,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 2.592306,
+          "x": 0.34161184210526313,
+          "y": 0.25578947569194593,
+          "w": 0.24720394736842105,
+          "h": 0.5,
+          "note": "face human-annotated",
+          "region": "face"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 3.4,
+      "end_time": 5.2,
+      "description": "Her gaze shifts up and to her left as she thinks. Her eyebrows raise slightly.",
+      "bboxes": [
+        {
+          "frame_time": 4.923601,
+          "x": 0.3682565789473684,
+          "y": 0.29263158095510383,
+          "w": 0.19391447368421053,
+          "h": 0.12105263157894737,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 4.923601,
+          "x": 0.3682565789473684,
+          "y": 0.25842105463931436,
+          "w": 0.196875,
+          "h": 0.09736842105263158,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 5.2,
+      "end_time": 15.5,
+      "description": "Her gaze returns to the camera, and her expression becomes more focused and direct. Her eyebrows move subtly up and down in coordination with her speech.",
+      "bboxes": [
+        {
+          "frame_time": 6.060842,
+          "x": 0.36085526315789473,
+          "y": 0.36631579148141963,
+          "w": 0.21611842105263157,
+          "h": 0.07105263157894737,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 7.798453,
+          "x": 0.3268092105263158,
+          "y": 0.21894737042878804,
+          "w": 0.2501644736842105,
+          "h": 0.5973684210526315,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 8.949341,
+          "x": 0.35789473684210527,
+          "y": 0.24789473884984067,
+          "w": 0.20723684210526316,
+          "h": 0.11578947368421053,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 15.5,
+      "description": "The subject is framed from the chest up, sitting and facing the camera. Her posture is upright and largely still, with her head making minor, subtle movements as she speaks.",
+      "bboxes": [
+        {
+          "frame_time": 1.205377,
+          "x": 0.31644736842105264,
+          "y": 0.18473684411299857,
+          "w": 0.2649671052631579,
+          "h": 0.7947368421052632,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 1.205377,
+          "x": 0.15361842105263157,
+          "y": 0.668947370428788,
+          "w": 0.6009868421052632,
+          "h": 0.28421052631578947,
+          "note": "pose human-annotated",
+          "region": "torso"
+        },
+        {
+          "frame_time": 4.428687,
+          "x": 0.3105263157894737,
+          "y": 0.0900000020077354,
+          "w": 0.26644736842105265,
+          "h": 0.6447368421052632,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 3.3,
+      "description": "The clip begins mid-word with \"have.\" After a brief pause, she says, \"um, you know, I'm here\" in a soft, conversational tone.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 3.3,
+      "end_time": 10.6,
+      "description": "Her speech is delivered at a moderate, deliberate pace. There is a slight rise in pitch on the word \"best\" and at the end of the word \"email.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 10.6,
+      "end_time": 15.5,
+      "description": "Her speech rate remains moderate and consistent. She uses the filler word \"um\" at 13.9 before the audio trails off.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.5,
+      "description": "The subject is a woman with a dark complexion and short, dark, coily hair styled high on top with faded sides. She is wearing a sleeveless red and grey plaid shirt and a silver necklace. Her makeup is noticeable, with defined eyebrows, eyeliner, and dark, glossy lipstick. She has multiple piercings in her right ear. The background is a plain, off-white wall with a small, discolored yellow patch visible over her left shoulder. The lighting is soft and frontal.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Low",
+      "score": 0.34,
+      "rationale": "The subject's Low Extraversion is indicated by a cluster of reserved and low-energy behaviors. Her vocal tone is soft and conversational, and her speech pace is moderate and deliberate, lacking the rapid, energetic quality of high extraverts. Physically, her posture is composed and largely still, with head movements being subtle rather than expansive or animated. This controlled, measured presentation suggests a preference for a lower-stimulus social style, which is a core feature of introversion.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Medium",
+      "score": 0.41,
+      "rationale": "The subject's Medium Agreeableness is supported by a demeanor that balances directness with a non-confrontational style. Her soft vocal tone and direct eye contact with the camera project a sense of cooperation and sincerity. However, her predominantly neutral and relaxed facial expression, as opposed to consistent smiling or overt displays of warmth, suggests a more moderate, matter-of-fact approach to interaction rather than a high degree of people-pleasing or effusive friendliness.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Medium",
+      "score": 0.49,
+      "rationale": "A Medium level of Conscientiousness is inferred from the subject's organized communication and controlled self-presentation. Her speech is deliberate and structured, methodically explaining a preferred process. Her upright posture and overall composure suggest self-discipline. The brief pause to look away and think before resuming direct communication indicates a thoughtful, planned approach. This organized behavior, while evident, is not rigid or perfectionistic, aligning with a medium score.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Low",
+      "score": 0.39,
+      "rationale": "The subject demonstrates Low Neuroticism through her consistent emotional stability and composure. Her facial expression remains relaxed and neutral, and her posture is still, showing no signs of anxiety such as fidgeting or tension. Her vocal delivery is steady and her speech pace is consistent, even when momentarily pausing to gather her thoughts. This calm and controlled demeanor under the condition of being recorded is a strong indicator of low reactivity to stress.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "Low",
+      "score": 0.39,
+      "rationale": "The subject's communication style supports a Low Openness score. Her language is practical and concrete, focused on the procedural detail of sending an email. There is an absence of abstract ideas, metaphorical language, or imaginative framing. Her physical expression is controlled and her intonation has a narrow range, reflecting a conventional and straightforward communication style rather than one that is exploratory or artistically expressive.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During 3.3s - 10.6s, the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The pattern provides clear evidence for High Extraversion."
+        },
+        {
+          "id": "B",
+          "text": "The pattern provides clear evidence for Low Agreeableness."
+        },
+        {
+          "id": "C",
+          "text": "The pattern provides clear evidence for Low Extraversion."
+        },
+        {
+          "id": "D",
+          "text": "The pattern provides clear evidence for High Conscientiousness."
+        },
+        {
+          "id": "E",
+          "text": "The pattern provides clear evidence for Low Neuroticism."
+        },
+        {
+          "id": "F",
+          "text": "The pattern provides clear evidence for High Openness."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. During this period, the subject's soft vocal tone, moderate and deliberate speech pace, and composed posture are primary indicators of introversion, which is Low Extraversion.\n\nOption A is a near-miss distractor because it identifies the correct dimension (Extraversion) but in the wrong direction (High instead of Low).\nOption B is a text-based distractor because while the topic is communication style, the specific cues (pacing, vocal energy) are not primarily about Agreeableness, which relates more to warmth and cooperation.\nOption D is a video-based distractor. Her organized speech could be interpreted as Conscientiousness, and this behavior is present in the video, but the more prominent and direct cues in this segment relate to social energy and stimulation (Extraversion).\nOption E is a video-based distractor. Her calmness does support Low Neuroticism, making this a strong distractor. However, the specific behavioral pattern of her deliberate, soft speech is a more direct and classic indicator of her place on the Extraversion spectrum.\nOption F is a text-based distractor as her practical, procedural language throughout the video actually supports Low Openness, not High."
+    },
+    {
+      "category": "Mixed Emotion Discrimination",
+      "question": "During 3.4s - 5.2s, the person's emotional state is best characterized as which of the following? Consider both verbal and non-verbal cues.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mild confusion tempered by an earnest effort to understand better."
+        },
+        {
+          "id": "B",
+          "text": "Brief uncertainty mixed with a concerted search for a better word."
+        },
+        {
+          "id": "C",
+          "text": "Focused deliberation mixed with the process of methodical recall."
+        },
+        {
+          "id": "D",
+          "text": "Calm composure tempered by a direct and pointed social engagement."
+        },
+        {
+          "id": "E",
+          "text": "Passive reflection mixed with a moment of disengaged daydreaming."
+        },
+        {
+          "id": "F",
+          "text": "Relaxed neutrality mixed with her initial form of self-presentation."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. In this interval, the subject looks away and her eyebrows raise slightly as she pauses her speech. This combination of cues points to a cognitive process of actively thinking and organizing her thoughts ('focused deliberation' and 'methodical recall') before speaking, which aligns with her overall deliberate communication style.\n\nOption A is a text-based distractor; there are no visual or auditory cues that suggest confusion.\nOption B is a near-miss distractor. While she is searching for something, the context suggests she is structuring a whole thought or sentence, not just a single 'better word'.\nOption D is a video-based distractor. This describes her state after the pause, from 5.2s onwards, when she looks back at the camera with a focused expression.\nOption E is a text-based distractor; her brief, focused gaze shift is indicative of active thought, not passive or disengaged daydreaming.\nOption F is a video-based distractor. This better describes the period before the pause (0.0s - 3.4s), where her expression is neutral and relaxed."
+    },
+    {
+      "category": "Temporal-Causal Reasoning",
+      "question": "Consider the sequence of behaviors observed across the video. Which of the following best describes the causal chain linking the person's actions at different moments?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Focused communication causes a subsequent moment of reflection, which in turn leads to a state of relaxed neutrality at the end."
+        },
+        {
+          "id": "B",
+          "text": "A display of social anxiety prompts a compensatory gesture, which then resolves into a final attempt at making organized speech."
+        },
+        {
+          "id": "C",
+          "text": "Initial social composure is followed by cognitive self-monitoring, which enables a more focused and deliberate communicative delivery."
+        },
+        {
+          "id": "D",
+          "text": "Initial social composure leads to a structured verbal delivery, which is then interrupted by a moment of cognitive self-monitoring."
+        },
+        {
+          "id": "E",
+          "text": "A moment of cognitive processing is a reaction to an error, which requires a subsequent return to a neutral baseline emotional state."
+        },
+        {
+          "id": "F",
+          "text": "An act of emotional regulation precedes expressive gesturing, which culminates in a persuasive verbal appeal to the viewing audience."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. This option correctly maps the abstract sequence to the video's events: 1) She begins with a calm, neutral expression (initial social composure). 2) She briefly looks away to think (cognitive self-monitoring). 3) This pause allows her to then speak with intention and focus (focused and deliberate delivery).\n\nOption A is a distractor with reversed temporal order, claiming reflection happens after the focused communication.\nOption B is a text-based distractor because there is no evidence of social anxiety; her demeanor is consistently calm.\nOption D is a near-miss distractor. It correctly identifies the behavioral components but reverses the order of the last two events, incorrectly stating that the delivery was interrupted by thought, rather than enabled by it.\nOption E is a text-based distractor because the cognitive processing is proactive (planning) rather than a reaction to a communicative error.\nOption F is a text-based distractor that uses inaccurate behavioral labels; there is no clear emotional regulation, expressive gesturing, or persuasive appeal."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 7.8s, a region was detected in the video (x=0.327, y=0.219, w=0.250, h=0.597, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A neutral and generally relaxed facial set is visible."
+        },
+        {
+          "id": "B",
+          "text": "Subtle, small movements of the head region are seen."
+        },
+        {
+          "id": "C",
+          "text": "A focused and direct facial expression is visible."
+        },
+        {
+          "id": "D",
+          "text": "An upright and mostly static upper-body posture exists."
+        },
+        {
+          "id": "E",
+          "text": "A slight, momentary raising of the eyebrows appears."
+        },
+        {
+          "id": "F",
+          "text": "A direct gaze toward the camera lens is noticeable."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. The provided bounding box at 7.8s covers the subject's face. At this moment, she has re-engaged with the camera after a pause and her expression is described as having become 'more focused and direct' to deliver her message.\n\nOption A is a video-based distractor. This describes her facial expression from an earlier time segment (before 3.4s).\nOption B is a video-based distractor. While her head does move subtly, the bounding box is specifically on the face, and the most prominent feature is the expression, not the overall head motion.\nOption D is a video-based distractor. This describes her torso, which is outside the specified bounding box.\nOption E is a video-based distractor. The eyebrow raise occurs at a different time (around 4.9s) as part of a different action (thinking).\nOption F is a near-miss distractor. A direct gaze is part of the focused expression, but 'focused and direct facial expression' is a more complete and accurate description of the entire facial configuration within the specified region."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "The video contains a brief moment of cognitive processing, indicated by a temporary shift in gaze away from the camera. At which timestamp and in which normalized bounding box does this event primarily occur?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[2.6s] (x=0.36, y=0.34, w=0.19, h=0.12)"
+        },
+        {
+          "id": "B",
+          "text": "[4.9s] (x=0.37, y=0.29, w=0.19, h=0.12)"
+        },
+        {
+          "id": "C",
+          "text": "[4.9s] (x=0.15, y=0.67, w=0.60, h=0.28)"
+        },
+        {
+          "id": "D",
+          "text": "[8.9s] (x=0.36, y=0.25, w=0.21, h=0.12)"
+        },
+        {
+          "id": "E",
+          "text": "[4.4s] (x=0.31, y=0.09, w=0.27, h=0.65)"
+        },
+        {
+          "id": "F",
+          "text": "[2.6s] (x=0.34, y=0.26, w=0.25, h=0.50)"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. The behavior described is the gaze shift to think, which happens around 4.9s. The observation log for [3.4s - 5.2s] notes that 'her sightline shifts upwards and to the left.' The bounding box provided in option B correctly isolates the eye region at that specific moment.\n\nOption A is a near-miss distractor; it correctly identifies the eye region but at the wrong time (2.6s), when her gaze is directed at the camera.\nOption C is a near-miss distractor; it has the correct timestamp (4.9s) but the bounding box corresponds to her torso, not her eyes.\nOption D is a video-based distractor showing the eyebrow region at a later time (8.9s) when they are moving with her speech, not during the cognitive pause.\nOption E is a video-based distractor showing the whole head region at 4.4s, which is less precise than the eye region for a gaze shift.\nOption F is a video-based distractor showing her full face at 2.6s, an incorrect time and a less specific location for the described gaze shift."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator11",
+      "version": 1,
+      "clues_total": 15,
+      "clues_correct": 13,
+      "clues_wrong_corrected": 1,
+      "clues_missing_skipped": 1,
+      "clues_bonus": 0
+    }
+  }
+}

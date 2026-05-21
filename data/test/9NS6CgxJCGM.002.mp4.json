@@ -1,0 +1,398 @@
+{
+  "video_id": "9NS6CgxJCGM.002.mp4",
+  "video_path": "9NS6CgxJCGM.002.mp4",
+  "transcription": "Our blogs on this channel, I'm going to start doing ... I hate to say this because I don't want to mess up and then have you guys be disappointed, but I think every Monday I'm going to start posting either a PO Box video or Q&A or a giveaway.",
+  "original_scores": {
+    "extraversion": 0.5420560747663552,
+    "agreeableness": 0.5824175824175825,
+    "conscientiousness": 0.6310679611650486,
+    "neuroticism": 0.46875,
+    "openness": 0.4666666666666667
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 2.5,
+      "description": "Gaze is directed at the camera. Eyebrows are in a neutral to slightly raised position. The mouth moves naturally with speech.",
+      "bboxes": [
+        {
+          "frame_time": 0,
+          "x": 0.36973684210526314,
+          "y": 0.1531578967445775,
+          "w": 0.2738486842105263,
+          "h": 0.5894736842105263,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 1.25,
+          "x": 0.39786184210526315,
+          "y": 0.18210526516563014,
+          "w": 0.2694078947368421,
+          "h": 0.1631578947368421,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 1.58333,
+          "x": 0.4644736842105263,
+          "y": 0.5478947388498406,
+          "w": 0.15542763157894737,
+          "h": 0.1631578947368421,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 2.5,
+      "end_time": 4.18,
+      "description": "The subject's gaze shifts to her upper right and then back to the camera. Her eyebrows lower slightly, and she squints briefly. The corners of her mouth pull slightly to the sides in a tight expression as she says, \"I hate to say this.\"",
+      "bboxes": [
+        {
+          "frame_time": 2.999995,
+          "x": 0.3638157894736842,
+          "y": 0.2900000020077354,
+          "w": 0.26200657894736845,
+          "h": 0.2,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 3.665751,
+          "x": 0.3786184210526316,
+          "y": 0.2610526335866828,
+          "w": 0.2590460526315789,
+          "h": 0.45789473684210524,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 3.641636,
+          "x": 0.4052631578947368,
+          "y": 0.2505263177972091,
+          "w": 0.23092105263157894,
+          "h": 0.14473684210526316,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 3.741633,
+          "x": 0.4585526315789474,
+          "y": 0.5742105283235249,
+          "w": 0.15986842105263158,
+          "h": 0.12631578947368421,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 4.18,
+      "end_time": 7.85,
+      "description": "Gaze returns to the camera. Her eyes widen and eyebrows raise as she speaks, especially on the word \"disappointed.\"",
+      "bboxes": [
+        {
+          "frame_time": 6.189207,
+          "x": 0.36973684210526314,
+          "y": 0.1794736862182617,
+          "w": 0.2886513157894737,
+          "h": 0.6263157894736842,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 6.422538,
+          "x": 0.4141447368421053,
+          "y": 0.32421052832352487,
+          "w": 0.2042763157894737,
+          "h": 0.12368421052631579,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 7.89455,
+          "x": 0.40970394736842103,
+          "y": 0.19526315990247226,
+          "w": 0.23092105263157894,
+          "h": 0.16578947368421051,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 7.85,
+      "end_time": 15.23,
+      "description": "The facial expression softens and returns to a more neutral state. She maintains direct eye contact with the camera while speaking.",
+      "bboxes": [
+        {
+          "frame_time": 8.941435,
+          "x": 0.3830592105263158,
+          "y": 0.187368423060367,
+          "w": 0.2649671052631579,
+          "h": 0.55,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 12.219672,
+          "x": 0.3712171052631579,
+          "y": 0.20842105463931435,
+          "w": 0.27088815789473686,
+          "h": 0.5552631578947368,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 15.23,
+      "description": "The subject is framed from the upper chest up and remains in a stable, centered position. Her head moves with slight, subtle nods and tilts that are synchronized with her speech rhythm.",
+      "bboxes": [
+        {
+          "frame_time": 1.519194,
+          "x": 0.23355263157894737,
+          "y": 0.5742105283235249,
+          "w": 0.5980263157894737,
+          "h": 0.3736842105263158,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 9.052522,
+          "x": 0.31644736842105264,
+          "y": 0.1268421072708933,
+          "w": 0.31529605263157895,
+          "h": 0.6684210526315789,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 2.45,
+      "description": "Speech is at a moderate pace with a relatively even pitch.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 2.45,
+      "end_time": 4.31,
+      "description": "The speech rate slows on the phrase \"I hate to say this,\" spoken with a slightly softer, more deliberate tone.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 4.31,
+      "end_time": 7.8,
+      "description": "The pace of speech increases. Pitch rises for emphasis on the words \"mess up\" and again on \"disappointed.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 7.8,
+      "end_time": 15.23,
+      "description": "The speech rate returns to a moderate pace. Words in the list (\"PO Box video,\" \"Q&A,\" \"giveaway\") are delivered with a distinct, rhythmic cadence, with falling intonation at the end of the phrase.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.23,
+      "description": "The subject is a woman with fair skin, long brown hair with bangs, and light-colored eyes. She is wearing a dark, horizontally striped shirt with a zipper detail on the left shoulder. The setting is a brightly lit bedroom. Behind her is a four-poster bed with a light-colored wooden frame and a light blue duvet. Two dogs are lying on the bed in the background.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Medium",
+      "score": 0.54,
+      "rationale": "The subject's Medium Extraversion is supported by a balance of social engagement and reservation. On one hand, she is actively creating new, interactive content for her audience (Q&A, giveaways) and maintains consistent eye contact with the camera, which acts as a proxy for her viewers. This indicates social confidence. On the other hand, her physical energy is contained; her head movements are described as 'slight' and 'subtle,' and her vocal pace is mostly moderate, suggesting a controlled rather than an effusively energetic social presentation.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Medium",
+      "score": 0.58,
+      "rationale": "A Medium level of Agreeableness is demonstrated by the subject's pronounced concern for her audience's feelings. She explicitly states, 'I don't want to mess up and then have you guys be disappointed,' which shows a strong consideration for social harmony. This sentiment is nonverbally reinforced by her raised eyebrows when saying 'disappointed' and a softer, more deliberate vocal tone on 'I hate to say this.' These behaviors highlight a considerate, pro-social orientation typical of agreeableness, without being overly deferential.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "High",
+      "score": 0.63,
+      "rationale": "The High Conscientiousness score is strongly indicated by the subject's focus on planning and commitment. She announces a structured, new schedule ('every Monday I'm going to start posting'), demonstrating organization and a sense of duty. Crucially, her expressed anxiety about her ability to adhere to this plan ('I hate to say this because I don't want to mess up') is a classic manifestation of high conscientiousness—a deep-seated desire to fulfill obligations and an aversion to failure. The clear, rhythmic articulation of her content plan further suggests a methodical approach.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Medium",
+      "score": 0.47,
+      "rationale": "The subject exhibits a Medium level of Neuroticism through her explicit verbalization of anxiety. Her statement about fearing she will 'mess up' and 'disappoint' others is a direct expression of worry. This internal state is subtly corroborated by her nonverbal cues: her gaze briefly shifts away from the camera as she voices this concern, a common behavior when accessing uncomfortable emotions. However, she quickly regains composure and proceeds with her announcement, showing that while anxious thoughts are present, they are managed and do not overwhelm her, which is consistent with a moderate score.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "Medium",
+      "score": 0.47,
+      "rationale": "The Medium Openness score is reflected in the subject's initiative to introduce new and varied ideas to her channel. By proposing different formats like 'PO Box video,' 'Q&A,' and 'giveaway,' she shows a willingness to experiment and embrace novelty in her creative expression. Furthermore, filming in her bedroom, a personal space, suggests a degree of transparency and a less conventional approach than a formal studio setting. These actions point to an interest in new experiences, aligning with a moderate level of openness.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their stated concern about audience disappointment?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[0.5s - 1.2s]"
+        },
+        {
+          "id": "B",
+          "text": "[2.8s - 3.5s]"
+        },
+        {
+          "id": "C",
+          "text": "[7.5s - 8.2s]"
+        },
+        {
+          "id": "D",
+          "text": "[4.5s - 5.2s]"
+        },
+        {
+          "id": "E",
+          "text": "[11.5s - 12.2s]"
+        },
+        {
+          "id": "F",
+          "text": "[14.0s - 14.7s]"
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. The interval [7.5s - 8.2s] captures the moment the speaker says the word 'disappointed' (~7.8s), which is accompanied by a distinct, quick raising of the eyebrows for emphasis, directly illustrating her concern.\n\n- Option A is a video-based distractor. This interval covers the beginning of the video where her expression is neutral and stable, showing no notable change.\n- Option B is a video-based distractor. This interval captures her gaze shifting away from the camera as she says 'I hate to say this,' which reflects discomfort but is less directly tied to the specific word 'disappointed.'\n- Option D is a near-miss distractor. During this time, she is talking about 'messing up,' and while her expression is concerned, it lacks the single, distinct micro-expression of the eyebrow raise that occurs later.\n- Option E is a video-based distractor. Her expression here is neutral and calm as she lists the new video types, representing a return to baseline after the moment of expressed anxiety.\n- Option F is a text-based distractor. It's a plausible-sounding time range within the video, but it corresponds to the very end of her speech where her expression is again neutral and stable."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around [3.0s], a region was detected in the video (x=0.36, y=0.29, w=0.26, h=0.20, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A neutral positioning of the eyebrows with a slight lift."
+        },
+        {
+          "id": "B",
+          "text": "A general softening of facial muscles into a neutral state."
+        },
+        {
+          "id": "C",
+          "text": "A brief, upward-rightward shift of the subject's gaze."
+        },
+        {
+          "id": "D",
+          "text": "Subtle, rhythmic nodding and tilting of the head in motion."
+        },
+        {
+          "id": "E",
+          "text": "Sustained and direct eye contact is maintained with the camera."
+        },
+        {
+          "id": "F",
+          "text": "A pronounced upward movement of both eyebrows for emphasis."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. The specified bounding box at 3.0s precisely covers the subject's eyes. At this moment, as she says 'I hate to say this,' her gaze shifts away from the camera, moving towards her upper right. This action is a classic nonverbal cue associated with accessing memory or processing uncomfortable thoughts.\n\n- Option A is a video-based distractor. This describes the eyebrows at [1.2s], which is a different time and a different facial region (above the specified bounding box).\n- Option B is a video-based distractor. This describes the overall face at [8.9s], which is a different time and a much larger region than the specified box.\n- Option D is a video-based distractor. This describes the movement of the entire head, a region much larger than the eye-specific bounding box provided.\n- Option E is a near-miss distractor. While she does maintain direct eye contact for much of the video, at this specific moment (3.0s) and in this specific region, the prominent action is the *break* in that contact.\n- Option F is a video-based distractor. This describes the eyebrow movement at [7.9s], a different time and facial region, used to emphasize the word 'disappointed'."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "The video shows a moment where the subject uses a nonverbal cue to emphasize her concern for her audience's reaction. Which timestamp and normalized bounding box best captures this specific expressive facial action?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Timestamp: 1.6s, Bbox: (x=0.464, y=0.548, w=0.155, h=0.163)"
+        },
+        {
+          "id": "B",
+          "text": "Timestamp: 7.9s, Bbox: (x=0.414, y=0.324, w=0.204, h=0.124)"
+        },
+        {
+          "id": "C",
+          "text": "Timestamp: 7.9s, Bbox: (x=0.410, y=0.195, w=0.231, h=0.166)"
+        },
+        {
+          "id": "D",
+          "text": "Timestamp: 3.6s, Bbox: (x=0.405, y=0.251, w=0.231, h=0.145)"
+        },
+        {
+          "id": "E",
+          "text": "Timestamp: 9.1s, Bbox: (x=0.316, y=0.127, w=0.315, h=0.668)"
+        },
+        {
+          "id": "F",
+          "text": "Timestamp: 3.0s, Bbox: (x=0.364, y=0.290, w=0.262, h=0.200)"
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. The moment of emphasis for audience concern occurs at ~7.9s when she says 'disappointed'. The key nonverbal cue is a distinct raising of her eyebrows. The provided bounding box correctly localizes the eyebrow region at exactly that moment.\n\n- Option A is a video-based distractor. This timestamp and bbox correspond to her mouth while speaking neutrally at the beginning of the video.\n- Option B is a near-miss distractor. The timestamp (7.9s) is correct, but the bounding box is for the eye region, not the eyebrow region which shows the most prominent expressive action for emphasis.\n- Option D is a video-based distractor. This is the correct facial region (eyebrows) but at the wrong time (3.6s), when her eyebrows are actually slightly lowered in concern, not raised for emphasis.\n- Option E is a video-based distractor. This timestamp and large bbox correspond to her entire head during a neutral phase of her speech.\n- Option F is a video-based distractor. This timestamp and bbox correspond to her eyes during the gaze aversion at 3.0s, which reflects internal processing, not emphasis for the audience."
+    },
+    {
+      "category": "Counterfactual Reasoning",
+      "question": "If the person had NOT exhibited the behavior observed around [4.3s - 7.8s], which of the following personality assessments would be MOST affected?",
+      "options": [
+        {
+          "id": "A",
+          "text": "High Conscientiousness would shift higher, because the absence of anxiety might suggest an unwavering sense of duty."
+        },
+        {
+          "id": "B",
+          "text": "Medium Extraversion would be less supported, since this segment is key for balancing her overall social presentation."
+        },
+        {
+          "id": "C",
+          "text": "High Conscientiousness would be less certain, as this is the primary moment revealing her aversion to failing commitments."
+        },
+        {
+          "id": "D",
+          "text": "Medium Neuroticism assessment would weaken, as the gaze aversion at [2.5s-4.2s] would be the only main anxiety cue."
+        },
+        {
+          "id": "E",
+          "text": "Medium Agreeableness would be less justified, as her stated concern for her audience is most clear during this interval."
+        },
+        {
+          "id": "F",
+          "text": "Medium Openness would be questioned, as this behavior could suggest hesitation about trying new channel formats."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. The interval [4.3s - 7.8s] contains her explicit statement 'I don't want to mess up and then have you guys be disappointed.' The analysis identifies the fear of 'messing up' a plan as a 'classic manifestation of high conscientiousness.' Without this direct verbal and nonverbal evidence of her deep-seated aversion to failure, the evidence for a *High* (vs. Medium) Conscientiousness score would be significantly weaker, as it would rely only on the act of planning itself.\n\n- Option A is a near-miss distractor. It correctly identifies the trait (Conscientiousness) but posits the wrong direction of change. Removing evidence for anxiety would not increase the score; it would remove key evidence that supports the current score.\n- Option B is a text-based distractor. Her Medium Extraversion score is based more on the overall balance of direct camera engagement versus contained physical energy, not this specific moment of anxiety.\n- Option D is a video-based distractor. While this statement is true (the Neuroticism score would weaken), the behavior in [4.3s-7.8s] is the most powerful and direct evidence for *High Conscientiousness*. Therefore, the C score would be *most* affected.\n- Option E is a strong near-miss distractor. The statement about 'disappointment' is key evidence for Agreeableness. However, the 'mess up' part is a more unique and powerful indicator for Conscientiousness, making that assessment slightly more dependent on this specific behavior.\n- Option F is a text-based distractor. This behavior reflects anxiety about *execution*, which is related to Conscientiousness and Neuroticism, not a hesitation about novelty, which is related to Openness."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator11",
+      "version": 1,
+      "clues_total": 21,
+      "clues_correct": 19,
+      "clues_wrong_corrected": 0,
+      "clues_missing_skipped": 2,
+      "clues_bonus": 0
+    }
+  }
+}

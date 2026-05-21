@@ -1,0 +1,368 @@
+{
+  "video_id": "3wRj39GKLJ0.002.mp4",
+  "video_path": "3wRj39GKLJ0.002.mp4",
+  "transcription": "Cuddling up like that. It's just what I like. It's my preference. She just said, \"You can't handle me anyways.\" Yeah, you're probably right, I can't handle crazy very well.",
+  "original_scores": {
+    "extraversion": 0.5700934579439253,
+    "agreeableness": 0.7252747252747254,
+    "conscientiousness": 0.5631067961165048,
+    "neuroticism": 0.5729166666666666,
+    "openness": 0.6777777777777777
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 2.7,
+      "description": "Her eyes are wide with a direct gaze toward the camera, and her eyebrows are slightly raised. She smiles as she speaks. She then briefly looks up and to her right.",
+      "bboxes": [
+        {
+          "frame_time": 0,
+          "x": 0.42598684210526316,
+          "y": 0.13210526516563015,
+          "w": 0.16875,
+          "h": 0.1631578947368421,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 2.7,
+      "end_time": 5.4,
+      "description": "Gaze returns to the camera, eyebrows are slightly raised, and her mouth is open as she speaks.",
+      "bboxes": [
+        {
+          "frame_time": 4.701562,
+          "x": 0.3105263157894737,
+          "y": 0.09789473884984067,
+          "w": 0.19835526315789473,
+          "h": 0.49736842105263157,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 5.4,
+      "end_time": 12,
+      "description": "A wide smile appears, showing her upper teeth, and her cheeks rise. She maintains this smile with a direct gaze, although she briefly looks down and stumbles on a word around 00:09, causing a momentary flicker in the smile before it returns.",
+      "bboxes": [
+        {
+          "frame_time": 9.403124,
+          "x": 0.34901315789473686,
+          "y": 0.1636842125340512,
+          "w": 0.2634868421052632,
+          "h": 0.6078947368421053,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 12,
+      "end_time": 15.08,
+      "description": "Her gaze lowers, looking down and away from the camera. Her smile fades into a more neutral expression as she continues to speak.",
+      "bboxes": [
+        {
+          "frame_time": 12.02322,
+          "x": 0.3105263157894737,
+          "y": 0.30842105463931435,
+          "w": 0.2368421052631579,
+          "h": 0.4842105263157895,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 0.47,
+      "description": "Her right hand, palm open, gestures out to her right side at chest level.",
+      "bboxes": [
+        {
+          "frame_time": 0.33085,
+          "x": 0.7294407894736842,
+          "y": 0.17421052832352488,
+          "w": 0.15838815789473684,
+          "h": 0.4394736842105263,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0.47,
+      "end_time": 2.83,
+      "description": "Her head is mostly still and forward-facing. At 00:02, she raises her right hand to brush her hair back from her face.",
+      "bboxes": [
+        {
+          "frame_time": 2.315954,
+          "x": 0.303125,
+          "y": 0.03473684411299856,
+          "w": 0.29753289473684214,
+          "h": 0.5052631578947369,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 2.83,
+      "end_time": 11.89,
+      "description": "Her body is still, and she faces the camera directly. Her hands are out of frame or resting low.",
+      "bboxes": [
+        {
+          "frame_time": 2.83,
+          "x": 0.24221852986360912,
+          "y": 0.5813775249331784,
+          "w": 0.46522781774580335,
+          "h": 0.20037303490540898,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 11.89,
+      "end_time": 15.08,
+      "description": "Her head dips down as she looks toward her lap. Her shoulders remain stationary.",
+      "bboxes": [
+        {
+          "frame_time": 13.289859,
+          "x": 0.1367029423336331,
+          "y": 0.5771142688713612,
+          "w": 0.6211031175059952,
+          "h": 0.341060484945377,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 2.5,
+      "description": "Speech is at a moderate, conversational pace and pitch.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 2.5,
+      "end_time": 5.2,
+      "description": "Her pitch becomes slightly higher and more melodic as she quotes another person, with a rising inflection on the word \"anyways.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 5.2,
+      "end_time": 12.3,
+      "description": "The word \"Yeah\" is spoken with a breathy, laugh-like quality. Her speech rate increases. She stumbles over the words \"probably right\" at 00:09, saying \"probably white,\" then corrects herself with a slight laugh in her voice.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 12.3,
+      "end_time": 15.08,
+      "description": "Her speech rate and pitch lower slightly as she finishes her sentence.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.08,
+      "description": "The subject is a young woman with fair skin, shoulder-length brown hair, and light-colored eyes. She has a silver nose ring in her right nostril and a stretched piercing (gauge) in her left ear. She is wearing a loose-fitting white V-neck shirt and two black cord necklaces with pendants. The setting is an indoor room, likely a bedroom, with a bed covered by a light blue-green comforter visible behind her. A doorway is visible over her right shoulder, and the lighting is soft and even from the front.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Medium",
+      "score": 0.57,
+      "rationale": "The subject's Extraversion score is in the Medium range. She exhibits several behaviors indicative of social engagement, such as maintaining a direct gaze at the camera, smiling, and using expressive hand gestures. However, these are counterbalanced by cues suggesting a more moderate level of social energy, such as briefly looking away and lowering her gaze and head at the conclusion of her thought. This blend of outgoing signals with moments of slight withdrawal supports a mid-range, rather than high, placement on the extraversion spectrum.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "High",
+      "score": 0.73,
+      "rationale": "A High level of Agreeableness is strongly indicated. When presented with a challenging quote ('You can't handle me anyways'), her immediate response is concession ('Yeah, you're probably right') rather than defensiveness. This is delivered with a wide smile and a laugh-like quality in her voice, signaling a preference for maintaining social harmony over conflict. Her consistent smiling and warm vocal tone throughout the clip further point to a cooperative and pro-social disposition.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Medium",
+      "score": 0.56,
+      "rationale": "The evidence points to a Medium level of Conscientiousness. While the context is informal, a key indicator is her reaction to a verbal slip. Upon misspeaking, she immediately self-corrects, demonstrating a degree of self-monitoring and a desire for accuracy. The presence of the slip itself prevents a higher rating, while the correction suggests a level of dutifulness and attention to detail that is consistent with a moderate score.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Medium",
+      "score": 0.57,
+      "rationale": "The subject's Neuroticism is assessed as Medium. There are subtle indicators of potential anxiety, such as the verbal stumble and the self-soothing gesture of brushing her hair back. However, her emotional regulation appears effective; she recovers from the verbal error not with frustration, but with a slight laugh, demonstrating resilience. This capacity to manage a minor social fumble without significant distress suggests a moderate level of emotional stability, positioning her in the middle of the neuroticism scale.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "High",
+      "score": 0.68,
+      "rationale": "A High level of Openness is supported primarily by the subject's aesthetic choices. The presence of a nose ring and a stretched earlobe piercing are forms of self-expression that often correlate with an interest in unconventionality and a deviation from traditional norms. Furthermore, her use of a melodic, expressive pitch when quoting another person suggests an appreciation for nuance and creativity in communication. These cues, reflecting an openness to alternative aesthetics and experiences, justify a high rating on this trait.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During [5.4s - 12.0s], the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A significantly high level of the Neuroticism dimension."
+        },
+        {
+          "id": "B",
+          "text": "A characteristically high level of the Openness dimension."
+        },
+        {
+          "id": "C",
+          "text": "A demonstrably low level of the Agreeableness dimension."
+        },
+        {
+          "id": "D",
+          "text": "A characteristically high level of the Agreeableness dimension."
+        },
+        {
+          "id": "E",
+          "text": "A significantly low level of the Extraversion dimension."
+        },
+        {
+          "id": "F",
+          "text": "A demonstrably medium level of the Conscientiousness dimension."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "The correct answer is D. During this period, the person responds to a challenging quote ('You can't handle me anyways') with immediate concession and a laugh ('Yeah, you're probably right'). This non-defensive, harmony-seeking response is the strongest evidence for High Agreeableness.\n- Option A is a text-based distractor. A challenging comment might textually imply a neurotic (anxious, defensive) reaction, but her actual behavior is the opposite of that.\n- Option B is a video-based distractor. High Openness is supported by other evidence (piercings), but not by the specific social interaction occurring in this time frame.\n- Option C is a near-miss distractor. It correctly identifies the relevant personality dimension (Agreeableness) but proposes the wrong direction; her behavior is highly agreeable, not disagreeable.\n- Option E is a text-based distractor. One could argue that conceding is a sign of low dominance (and thus low extraversion), but her smiling and verbal engagement contradict a low extraversion assessment.\n- Option F is a video-based distractor. The evidence for Medium Conscientiousness (the self-correction of a verbal stumble) does occur within this interval, but the primary, most direct evidence showcased by the overall social response is for Agreeableness."
+    },
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their Medium Conscientiousness level?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[1.8s - 2.8s]"
+        },
+        {
+          "id": "B",
+          "text": "[4.5s - 5.5s]"
+        },
+        {
+          "id": "C",
+          "text": "[12.0s - 13.0s]"
+        },
+        {
+          "id": "D",
+          "text": "[8.8s - 9.7s]"
+        },
+        {
+          "id": "E",
+          "text": "[6.0s - 7.0s]"
+        },
+        {
+          "id": "F",
+          "text": "[0.1s - 1.1s]"
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "The correct answer is D. The analysis links Medium Conscientiousness to her self-monitoring behavior. Around 9s, she misspeaks ('probably white') and immediately corrects herself. The expression data notes a 'momentary flicker in the smile' at this exact point, which is the most relevant micro-expression for this trait assessment.\n- Option A is a video-based distractor. This interval contains the hair-brushing gesture, a real event, but it's linked in the analysis to Neuroticism, not Conscientiousness.\n- Option B is a text-based distractor. This is a plausible transition point as she finishes quoting someone, but the key event for Conscientiousness happens later.\n- Option C is a video-based distractor. This interval is when her smile fades and she looks down, which is a significant expression change, but it is more relevant to her Medium Extraversion (social withdrawal) than her Conscientiousness.\n- Option E is a near-miss distractor. This time is very close to the event, occurring just after she begins her agreeable statement, but it precedes the critical verbal slip and facial flicker that provide the evidence.\n- Option F is a text-based distractor. The beginning of a clip is a plausible time for an expression to form, but it lacks the specific self-correction event linked to the trait in question."
+    },
+    {
+      "category": "Temporal-Causal Reasoning",
+      "question": "Consider the sequence of behaviors observed across the video. Which of the following best describes the causal chain linking the person's actions at different moments?",
+      "options": [
+        {
+          "id": "A",
+          "text": "An act of self-monitoring causes a heightened vocal performance, which then results in a corrective, disengaged final posture."
+        },
+        {
+          "id": "B",
+          "text": "A neutral opening gesture is followed by verbal hesitation, culminating in a decisive statement to regain narrative control."
+        },
+        {
+          "id": "C",
+          "text": "An initial concluding act of gaze aversion prompts an affiliative display, which is then followed by the recall of a comment."
+        },
+        {
+          "id": "D",
+          "text": "An external stimulus recall prompts an affiliative display, which is followed by a concluding act of gaze aversion as the thought ends."
+        },
+        {
+          "id": "E",
+          "text": "An external stimulus recall causes a brief moment of anxiety, which is then compensated for by a concluding affiliative display."
+        },
+        {
+          "id": "F",
+          "text": "A display of social confidence leads to a self-critical thought, externalized through a gesture of dismissal and a change in posture."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "The correct answer is D. This accurately describes the video's sequence: 1. She recalls an external comment (stimulus at 2.5s-5.2s). 2. This prompts her to respond with a smile and agreement (affiliative display at 5.4s-12.0s). 3. After finishing her statement, she looks down and away (concluding gaze aversion at 12.0s-15.1s).\n- Option A is a video-based distractor. It links real events (self-monitoring via hair gesture, vocal performance, disengaged posture) but with incorrect causality; the hair gesture doesn't cause the subsequent vocal delivery.\n- Option B is a text-based distractor. This describes a generic, plausible social interaction, but her statement is agreeable and concessive, not 'decisive' or aimed at 'regaining control'.\n- Option C is a reversed temporal order distractor. It presents the actual events in the completely wrong sequence (end -> middle -> beginning).\n- Option E is a near-miss distractor. It correctly identifies the stimulus but misinterprets the causality. The stumble (anxiety) is a minor event within the affiliative display, not the cause of it. Furthermore, the video ends with gaze aversion, not a compensatory affiliative display.\n- Option F is a text-based distractor. This describes a plausible psychological narrative, but it does not match the observed behaviors, which are more agreeable than self-critical or dismissive."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 9.4s, a region was detected in the video (x=0.349, y=0.164, w=0.263, h=0.608, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A downward gaze shift accompanied by a fading smile."
+        },
+        {
+          "id": "B",
+          "text": "A self-soothing gesture of brushing hair from the face."
+        },
+        {
+          "id": "C",
+          "text": "A sustained, wide smile with a direct and engaged gaze."
+        },
+        {
+          "id": "D",
+          "text": "A brief, initial smile with slightly raised eyebrows."
+        },
+        {
+          "id": "E",
+          "text": "An outward-facing expressive gesture with an open palm."
+        },
+        {
+          "id": "F",
+          "text": "Continuous body movement while facing fully forward."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. The bounding box at 9.4s covers her face. At this moment, she is in the middle of her agreeable response, displaying a wide, sustained Duchenne smile with her cheeks raised and maintaining direct eye contact with the camera.\n- Option A is a video-based distractor. This action occurs, but later in the video, around 12.0s.\n- Option B is a video-based distractor. The hair-brushing gesture happens much earlier, around 2.3s.\n- Option D is a near-miss distractor. This describes her smile at the very beginning of the clip (0.0s). While it is a smile, it is different from the wider, more sustained smile that occurs at 9.4s, making this answer almost correct but specifically inaccurate for the given timestamp.\n- Option E is a video-based distractor. This hand gesture occurs at the very start of the video (0.3s) and is outside the specified facial bounding box.\n- Option F is a video-based distractor. This describes her general posture throughout the middle of the video, but the specific bounding box isolates her face, making the detailed facial expression the most prominent action within that region."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator03",
+      "version": 1,
+      "clues_total": 13,
+      "clues_correct": 12,
+      "clues_wrong_corrected": 1,
+      "clues_missing_skipped": 0,
+      "clues_bonus": 0
+    }
+  }
+}

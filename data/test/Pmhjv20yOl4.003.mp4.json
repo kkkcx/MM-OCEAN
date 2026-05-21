@@ -1,0 +1,299 @@
+{
+  "video_id": "Pmhjv20yOl4.003.mp4",
+  "video_path": "Pmhjv20yOl4.003.mp4",
+  "transcription": "To push forward especially because ... There's a lot of information on the internet, but are we really getting the true information that other people in the government know, or is it-",
+  "original_scores": {
+    "extraversion": 0.6261682242990655,
+    "agreeableness": 0.5604395604395604,
+    "conscientiousness": 0.4854368932038835,
+    "neuroticism": 0.5104166666666666,
+    "openness": 0.7999999999999999
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 15.2,
+      "description": "The subject maintains a direct gaze at the camera with a neutral to serious expression. Her eyebrows make small, subtle movements that are synchronized with her speech. Her eyes blink naturally. From 00:06 to 00:07, she closes her eyes for a slightly extended period while speaking. Her mouth moves naturally as she talks.",
+      "bboxes": [
+        {
+          "frame_time": 3.875522,
+          "x": 0.3148148148148148,
+          "y": 0.30246913580246915,
+          "w": 0.2191358024691358,
+          "h": 0.14266117969821673,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 3.875522,
+          "x": 0.3148148148148148,
+          "y": 0.2558299039780521,
+          "w": 0.2037037037037037,
+          "h": 0.09602194787379972,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 3.875522,
+          "x": 0.3101851851851852,
+          "y": 0.30246913580246915,
+          "w": 0.20679012345679013,
+          "h": 0.12071330589849108,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 0,
+          "x": 0.32098765432098764,
+          "y": 0.4670781893004115,
+          "w": 0.15432098765432098,
+          "h": 0.1755829903978052,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 15.2,
+      "description": "The subject is seated and faces forward, with her head and shoulders filling most of the frame. Her head remains relatively still, with only minor, subtle nods and tilts that accompany her speech. At 00:03, a small, light-brown dog briefly appears in the background on the left, moving on a pile of clothes, and is seen again from 00:11 to 00:13.",
+      "bboxes": [
+        {
+          "frame_time": 0,
+          "x": 0.2037037037037037,
+          "y": 0.5246913580246914,
+          "w": 0.43364197530864196,
+          "h": 0.47530864197530864,
+          "note": "human-annotated",
+          "region": "unknown"
+        },
+        {
+          "frame_time": 0,
+          "x": 0.2037037037037037,
+          "y": 0.028120713305898493,
+          "w": 0.45987654320987653,
+          "h": 0.9026063100137174,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 0,
+          "x": 0.21296296296296297,
+          "y": 0.030864197530864196,
+          "w": 0.37191358024691357,
+          "h": 0.7352537722908093,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 0,
+          "x": 0.015432098765432098,
+          "y": 0.4396433470507545,
+          "w": 0.125,
+          "h": 0.31550068587105623,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 15.2,
+      "description": "The subject speaks at a moderate and consistent pace and volume. Her pitch is generally even, with a slight rise in intonation on the question 'are we really getting the true information' from 00:08 to 00:10. Audible stress is placed on the words 'lot' (00:06), 'really' (00:08), and 'true' (00:09). The audio cuts off abruptly as she says 'or is it-'.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.2,
+      "description": "The subject is a young woman with fair skin, long brown hair, and light-colored eyes. She is wearing a multi-colored tie-dye t-shirt. The setting is a cluttered indoor room, likely a bedroom. Behind her is a white wall and the white frame of a bunk or loft bed. A child's drawing is visible on the wall, and a purple patterned towel hangs from the bed frame. Piles of clothing and bedding are visible on both the left and right sides of the frame. The scene is brightly lit from the front.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "High",
+      "score": 0.63,
+      "rationale": "The subject's score indicates a High level of Extraversion. This is reflected in her direct and engaging communication style. She maintains steady eye contact with the camera, a behavior consistent with social confidence. Her speech is delivered at a moderate, consistent pace with deliberate emphasis on key words ('lot', 'really', 'true'), which suggests an assertive and expressive nature aimed at engaging an audience. While her physical energy is contained, this focused, forward-facing presentation is characteristic of someone comfortable being the center of attention.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Medium",
+      "score": 0.56,
+      "rationale": "The subject's Agreeableness is in the Medium range. Her demeanor is balanced, neither overtly warm nor antagonistic. The neutral-to-serious facial expression and steady vocal tone do not strongly suggest the high warmth often associated with high agreeableness. However, the presence of subtle, synchronous non-verbals, such as slight head nods and tilts that accompany her speech, can be interpreted as rapport-building signals. This combination of a serious disposition with subtle engaging gestures supports a moderate score.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Medium",
+      "score": 0.49,
+      "rationale": "The subject's Medium Conscientiousness score is supported by a mix of conflicting cues. Her verbal delivery demonstrates orderliness and deliberation; the speech is structured, paced consistently, and she uses vocal emphasis to logically build her point. This suggests a methodical thought process. However, this is strongly contrasted by the environmental cues. The visible background is disorganized and messy, with piles of clothing, which is behaviorally inconsistent with the high orderliness facet of conscientiousness. The combination of a structured communication style and a disordered personal space places her in the medium range.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Medium",
+      "score": 0.51,
+      "rationale": "The subject scores in the Medium range for Neuroticism. Her external presentation is largely calm; she speaks with a steady voice and exhibits natural blinking and a relatively still posture, all of which argue against high anxiety. However, the content of her speech—questioning the validity of official information and hinting at a hidden truth—reflects a degree of skepticism and concern, which are cognitive markers associated with this trait. Her serious expression and subtle eyebrow movements further suggest internal emotional processing. The balance between this underlying thematic concern and her composed demeanor is consistent with a mid-range score.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "Very High",
+      "score": 0.8,
+      "rationale": "The Very High score in Openness is strongly evidenced by the intellectual nature of her monologue. The subject is engaged in abstract thought, questioning complex systems of information and authority ('...are we really getting the true information that other people in thegovernment know...'). This intellectual curiosity and willingness to challenge conventional wisdom are core characteristics of high Openness. Framing her point as a rhetorical question further demonstrates a comfort with ambiguity and abstract ideas. The presence of artistic elements in her environment (a child's drawing, a tie-dye shirt) provides secondary support for an appreciation of aesthetics, another facet of this trait.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their Medium Neuroticism level?",
+      "options": [
+        {
+          "id": "A",
+          "text": "01.0s - 02.5s"
+        },
+        {
+          "id": "B",
+          "text": "04.5s - 06.0s"
+        },
+        {
+          "id": "C",
+          "text": "08.5s - 10.0s"
+        },
+        {
+          "id": "D",
+          "text": "06.5s - 08.0s"
+        },
+        {
+          "id": "E",
+          "text": "11.5s - 13.0s"
+        },
+        {
+          "id": "F",
+          "text": "13.5s - 15.0s"
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. The analysis for Medium Neuroticism highlights the cognitive concern reflected in her speech content. This concern is most audibly expressed between 08s and 10s, where her vocal pitch rises slightly as she asks the critical question, 'are we really getting the true information'. This vocal shift is typically accompanied by subtle facial changes, such as minor eyebrow movements, that signal the underlying emotional processing relevant to the trait.\n\n- Option A is a video-based distractor. This interval shows her baseline neutral-to-serious expression before the main point is made.\n- Option B is a video-based distractor. During this period, she is speaking at a normal pace and pitch, without the specific emphasis that signals concern.\n- Option D is a near-miss distractor. This interval immediately precedes the key moment of vocal emphasis, but the most notable change occurs slightly later.\n- Option E is a video-based distractor. This interval is toward the end of her statement and after the peak emotional/cognitive expression has occurred.\n- Option F is a video-based distractor. This captures the very end of the clip as her speech trails off, but it does not contain the key expressive change."
+    },
+    {
+      "category": "Temporal-Causal Reasoning",
+      "question": "Consider the sequence of behaviors observed across the video. Which of the following best describes the causal chain linking the person's actions at different moments?",
+      "options": [
+        {
+          "id": "A",
+          "text": "An expression of concern (8-10s) causes a shift to social assertiveness (12-14s) to support an inquiry-based disposition (throughout)."
+        },
+        {
+          "id": "B",
+          "text": "A need for self-monitoring (4-6s) results in non-verbal frustration (8-10s), which culminates in an appeal to the audience (throughout)."
+        },
+        {
+          "id": "C",
+          "text": "A lapse in verbal fluency (8-10s) due to a background event (3-4s) is followed by a recovery to the initial focused state (12-14s)."
+        },
+        {
+          "id": "D",
+          "text": "Social assertiveness (0-5s) shifts to express thematic concern (8-10s), underscoring a foundational trait of intellectual curiosity (throughout)."
+        },
+        {
+          "id": "E",
+          "text": "Assertiveness (0-5s) leads to concern (8-10s), which is then consciously suppressed in favor of emotional neutrality (11-13s)."
+        },
+        {
+          "id": "F",
+          "text": "A baseline of thematic concern (0-5s) prompts a compensatory display of social assertiveness (8-10s) to regulate her emotional state."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "The correct answer is D. The video begins with her establishing a baseline of confident, direct communication (social assertiveness). This delivery style then culminates in the central point of her monologue (8-10s), where her vocal tone shifts to emphasize skepticism and concern. This entire sequence serves as a vehicle to express her underlying trait of intellectual curiosity (High Openness).\n\n- Option A is a distractor with reversed temporal order. The social assertiveness is present from the start; it does not follow the expression of concern.\n- Option B is a text-based distractor. This describes a plausible psychological chain of events, but there is no evidence in the video of self-monitoring, verbal mistakes, or frustration.\n- Option C is a video-based distractor. It correctly identifies the time of a background event (the dog appearing) but incorrectly links it causally to her speech. There is no observable lapse in her fluency.\n- Option E is a near-miss distractor. The first part of the chain is correct (assertiveness leads to expressing concern), but the conclusion is wrong. The concern is the climax of her point, not something that is suppressed in favor of neutrality.\n- Option F is a distractor with incorrect causality. Her assertiveness is the baseline from which she delivers her point; it is not a compensatory action to regulate a pre-existing state of concern."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 0.0s, a region was detected in the video (x=0.204, y=0.028, w=0.460, h=0.903, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A subtle motion of the eyebrows synchronized with the speech."
+        },
+        {
+          "id": "B",
+          "text": "A seated posture with the body of the subject oriented forward."
+        },
+        {
+          "id": "C",
+          "text": "A small pet animal that appears briefly in the background area."
+        },
+        {
+          "id": "D",
+          "text": "A composition showing the head and shoulders filling the frame."
+        },
+        {
+          "id": "E",
+          "text": "A natural and periodic blinking pattern observed in the eyes."
+        },
+        {
+          "id": "F",
+          "text": "A steady, direct gaze that expresses a neutral emotional state."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "The correct answer is D. The provided bounding box is very large (width=0.46, height=0.903), encompassing the person's entire upper body and head. The most accurate description for the content of such a large, framing-level box is the overall composition, which is that her head and shoulders dominate the view.\n\n- Option A is a video-based distractor. While eyebrow movements occur, they happen within a much smaller sub-region of the specified large bounding box. This tests spatial specificity.\n- Option B is a near-miss distractor. The box does contain her seated upper body, but the description 'head and shoulders filling the frame' is more specific to the visual composition created by this bounding box.\n- Option C is a video-based distractor. The dog appears outside this bounding box, in the far left of the video. This tests whether the model correctly maps coordinates to content.\n- Option E is a video-based distractor. Like the eyebrows, the blinking eyes are a small feature contained within the much larger specified region.\n- Option F is a video-based distractor. The direct gaze is a feature of the eyes and face, which are a part of, but do not define the entirety of, this large bounding box."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "Which of the following options correctly identifies the time and location of a transient background event involving a non-human subject?",
+      "options": [
+        {
+          "id": "A",
+          "text": "At T=3.5s, a region defined by bbox=(x=0.315, y=0.302, w=0.219, h=0.143)"
+        },
+        {
+          "id": "B",
+          "text": "At T=7.0s, a region defined by bbox=(x=0.015, y=0.440, w=0.125, h=0.316)"
+        },
+        {
+          "id": "C",
+          "text": "At T=9.5s, a region defined by bbox=(x=0.321, y=0.467, w=0.154, h=0.176)"
+        },
+        {
+          "id": "D",
+          "text": "At T=3.5s, a region defined by bbox=(x=0.015, y=0.440, w=0.125, h=0.316)"
+        },
+        {
+          "id": "E",
+          "text": "At T=12.0s, a region defined by bbox=(x=0.321, y=0.467, w=0.154, h=0.176)"
+        },
+        {
+          "id": "F",
+          "text": "At T=1.5s, a region defined by bbox=(x=0.015, y=0.440, w=0.125, h=0.316)"
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "The correct answer is D. The observation notes mention a small dog appearing in the background on the left side at around 00:03. The provided bounding box (x=0.015, y=0.440, ...) corresponds to this left-side background area. The timestamp T=3.5s falls directly within the time of the dog's first appearance.\n\n- Option A is a near-miss distractor. The timestamp (3.5s) is correct for the event, but the bounding box points to the person's eyes, not the background event.\n- Option B is a near-miss distractor. The bounding box is correct for the location of the event, but the timestamp (7.0s) is incorrect, as the dog is not visible at that moment.\n- Option C is a video-based distractor. Both the time and location are incorrect, pointing to the person's mouth during her main verbal point.\n- Option E is a video-based distractor. The dog does reappear around 11-13s, so the timestamp is relevant. However, the bounding box points to the person's mouth, making the spatial localization incorrect.\n- Option F is a video-based distractor. The location is correct, but the timestamp (1.5s) is too early; the dog has not yet appeared."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator15",
+      "version": 1,
+      "clues_total": 11,
+      "clues_correct": 10,
+      "clues_wrong_corrected": 0,
+      "clues_missing_skipped": 1,
+      "clues_bonus": 0
+    }
+  }
+}

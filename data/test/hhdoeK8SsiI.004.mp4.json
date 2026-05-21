@@ -1,0 +1,351 @@
+{
+  "video_id": "hhdoeK8SsiI.004.mp4",
+  "video_path": "hhdoeK8SsiI.004.mp4",
+  "transcription": "Well maybe not any question, but I'll answer most questions that you ask me so yeah, this is your call on what you want to ask me and makes me a little nervous to open it up.",
+  "original_scores": {
+    "extraversion": 0.5514018691588786,
+    "agreeableness": 0.5714285714285714,
+    "conscientiousness": 0.4854368932038835,
+    "neuroticism": 0.4479166666666667,
+    "openness": 0.6
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 1.63,
+      "description": "The subject looks at the camera with a neutral to slightly pensive expression. His eyebrows are level, and his lips are slightly pursed as he speaks.",
+      "bboxes": [
+        {
+          "frame_time": 0,
+          "x": 0.36529605263157894,
+          "y": 0.23684210526315788,
+          "w": 0.18355263157894738,
+          "h": 0.33421052631578946,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 1.63,
+      "end_time": 3.44,
+      "description": "The expression transitions into a wide smile. The corners of the mouth pull up and back, revealing the upper teeth. The eyebrows raise, and the eyes crinkle slightly at the corners.",
+      "bboxes": [
+        {
+          "frame_time": 2.132522,
+          "x": 0.35641447368421053,
+          "y": 0.23684210526315788,
+          "w": 0.17467105263157895,
+          "h": 0.3368421052631579,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 3.44,
+      "end_time": 13.51,
+      "description": "The smile fades, and the expression returns to a neutral state while maintaining direct eye contact. The eyebrows remain slightly raised as he continues to speak.",
+      "bboxes": [
+        {
+          "frame_time": 5.991371,
+          "x": 0.3756578947368421,
+          "y": 0.21052631578947367,
+          "w": 0.16726973684210528,
+          "h": 0.4,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 13.51,
+      "end_time": 15.11,
+      "description": "As he says \"makes me a little nervous,\" his eyebrows draw slightly together and lower, and his lips purse subtly.",
+      "bboxes": [
+        {
+          "frame_time": 13.70907,
+          "x": 0.3756578947368421,
+          "y": 0.26052631578947366,
+          "w": 0.14358552631578947,
+          "h": 0.2868421052631579,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 1.9,
+      "description": "The subject is sitting and facing the camera. His hands are held at chest level, with fingers slightly curled and pointing toward his sternum, making small, symmetrical movements.",
+      "bboxes": [
+        {
+          "frame_time": 0,
+          "x": 0.3815789473684211,
+          "y": 0.17105263157894737,
+          "w": 0.17763157894736842,
+          "h": 0.37105263157894736,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 1.9,
+      "end_time": 3.6,
+      "description": "Coinciding with his smile, his hands move outward and open up in a broad, welcoming gesture.",
+      "bboxes": [
+        {
+          "frame_time": 1.9,
+          "x": 0.3682565789473684,
+          "y": 0.8157894736842105,
+          "w": 0.2294407894736842,
+          "h": 0.17894736842105263,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 3.6,
+      "end_time": 15.11,
+      "description": "The subject lowers his hands out of the frame. He remains seated, facing forward, with slight head movements accompanying his speech.",
+      "bboxes": [
+        {
+          "frame_time": 5.264277,
+          "x": 0.36085526315789473,
+          "y": 0.10789473684210527,
+          "w": 0.1805921052631579,
+          "h": 0.4710526315789474,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 1.8,
+      "description": "The subject speaks at a moderate pace and in a mid-range pitch with a slightly hesitant quality on \"Well, maybe not any question.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 1.8,
+      "end_time": 3.4,
+      "description": "The subject's pitch rises significantly, his speech rate quickens, and his vocal tone becomes bright and cheerful, almost laughing, on the word \"answer.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 3.4,
+      "end_time": 13,
+      "description": "The speech rate and pitch return to a moderate, conversational level with natural intonation. A brief filler sound, \"uh,\" is audible at 7.5 seconds.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 13,
+      "end_time": 15.11,
+      "description": "The subject's volume becomes slightly softer on the phrase \"makes me a little nervous.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.11,
+      "description": "The subject is a man with fair skin and short brown hair, wearing a black t-shirt with a white graphic print. He is in a well-lit indoor room, likely a home office or bedroom. Behind him are two large wooden bookcases filled with books and various decorative items, including a painting of a moon, large red letters spelling \"IAN,\" a small pumpkin decoration, and a blue star.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Medium",
+      "score": 0.55,
+      "rationale": "The subject displays a balanced mix of extraverted and introverted tendencies. His willingness to host a Q&A, combined with a broad smile and an expansive, welcoming gesture (1.9s-3.6s), indicates social engagement. However, this is counterbalanced by his initial verbal hesitation, the admission of feeling nervous about opening up, and the use of smaller, more contained hand gestures at the start, suggesting a degree of social reservation. This blend of outgoing and cautious behaviors is characteristic of a Medium Extraversion level.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Medium",
+      "score": 0.57,
+      "rationale": "The subject's agreeableness is rated as Medium. His cooperative intent is clear from the premise of the video—inviting and answering questions. His warm, bright smile (1.6s-3.4s) and welcoming posture suggest an approachable and friendly nature. However, his explicit qualification ('Well maybe not any question, but I'll answer most questions') demonstrates a level of boundary-setting, indicating he is not unconditionally compliant. This combination of warmth and assertiveness supports a Medium score.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Medium",
+      "score": 0.49,
+      "rationale": "The subject scores in the Medium range for Conscientiousness. Evidence for organized, goal-directed behavior is present in the background, which features two large, well-stocked bookshelves, implying orderliness and a commitment to learning. The act of creating the video is itself a planned task. Conversely, his speech is not rigidly scripted, containing natural hesitations and filler words, which suggests a degree of spontaneity over strict self-discipline. This balance aligns with a Medium level of Conscientiousness.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Medium",
+      "score": 0.45,
+      "rationale": "The subject's Neuroticism is in the Medium range. He directly expresses a negative emotion by stating the situation 'makes me a little nervous,' a clear indicator of anxiety. This is physically substantiated by his furrowed brows and pursed lips (13.5s-15.1s). However, he is not overwhelmed by this feeling; he maintains steady eye contact and proceeds with his intended social interaction. This ability to acknowledge and experience anxiety while maintaining functional composure is typical of a Medium Neuroticism score.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "High",
+      "score": 0.6,
+      "rationale": "The subject's score indicates a High level of Openness. The most significant evidence is the environment: two large bookshelves filled with books strongly suggest intellectual curiosity. The presence of diverse and artistic items—a moon painting, large decorative letters, and other ornaments—points to an appreciation for aesthetics and variety. Furthermore, the very act of inviting a broad range of questions from an audience shows a cognitive curiosity and an openness to novel ideas and perspectives.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During [1.6s - 3.6s], the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "High Conscientiousness, demonstrated by the person's very deliberate and planned gesturing."
+        },
+        {
+          "id": "B",
+          "text": "Low Extraversion, indicated by the hesitant quality of the person's expansive movements."
+        },
+        {
+          "id": "C",
+          "text": "High Extraversion, supported by the broad, welcoming smile and expansive hand gestures."
+        },
+        {
+          "id": "D",
+          "text": "High Neuroticism, shown by the underlying tension visible in the person's facial muscles."
+        },
+        {
+          "id": "E",
+          "text": "High Agreeableness, evidenced by the warm and socially inviting nature of the expression."
+        },
+        {
+          "id": "F",
+          "text": "Low Openness, suggested by the conventional and somewhat stereotypical social signaling."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. During this interval, the person displays a bright, wide smile and opens their hands in a broad, welcoming gesture. These are classic indicators of social engagement and positive energy directed outward, which are core facets of Extraversion.\n- Option A is a text-based distractor; while making a video is planned, this specific gesture is more about social expression than deliberate task-orientation.\n- Option B is a near-miss distractor; it correctly identifies the trait (Extraversion) but misinterprets the direction, as the behavior is clearly expressive and outgoing, not hesitant.\n- Option D is a video-based distractor; evidence for Neuroticism (tension, furrowed brow) appears much later in the video (13.5s-15.1s), not during this positive expression.\n- Option E is a near-miss distractor; the behavior also supports Agreeableness, but the expansive energy of the gesture is a more direct and primary indicator of Extraversion than cooperative intent.\n- Option F is a text-based distractor; the context of inviting any question suggests high, not low, Openness, and the gesture itself doesn't provide strong evidence either way."
+    },
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their Neuroticism level?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[0.0s - 1.6s]"
+        },
+        {
+          "id": "B",
+          "text": "[7.3s - 8.1s]"
+        },
+        {
+          "id": "C",
+          "text": "[13.5s - 15.1s]"
+        },
+        {
+          "id": "D",
+          "text": "[1.6s - 3.4s]"
+        },
+        {
+          "id": "E",
+          "text": "[4.5s - 5.5s]"
+        },
+        {
+          "id": "F",
+          "text": "[3.4s - 13.5s]"
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. The analysis for Neuroticism explicitly points to the verbal admission of being 'a little nervous' and the accompanying physical expression: 'his furrowed brows and pursed lips (13.5s-15.1s)'. This interval contains the clearest facial evidence for anxiety.\n- Option A is a video-based distractor; this is the initial neutral/pensive expression, not one related to neuroticism.\n- Option B is a text-based distractor; this interval surrounds a filler word ('uhh'), a plausible time for an anxious micro-expression, but no notable facial change is documented.\n- Option D is a video-based distractor; this is when the person has a broad, happy smile, which is evidence against, not for, a neurotic expression in that moment.\n- Option E is a text-based distractor; this is a plausible but incorrect interval during the person's neutral speech phase where no significant expression change occurs.\n- Option F is a video-based distractor; this is a long period where the person's face is largely neutral after the smile fades, lacking the specific anxiety cues."
+    },
+    {
+      "category": "Temporal-Causal Reasoning",
+      "question": "Consider the sequence of behaviors observed across the video. Which of the following best describes the causal chain linking the person's actions at different moments?",
+      "options": [
+        {
+          "id": "A",
+          "text": "An affiliative display (middle) prompts an internal state of anxiety (end) that contradicts the initial neutral expression (start)."
+        },
+        {
+          "id": "B",
+          "text": "A self-disclosed vulnerability (end) causes a compensatory display of social warmth (middle) to make up for early hesitation (start)."
+        },
+        {
+          "id": "C",
+          "text": "Initial self-monitoring (start) leads to a warm affiliative display (middle), later contextualized by an admission of vulnerability (end)."
+        },
+        {
+          "id": "D",
+          "text": "An external prompt causes a planned welcoming gesture (middle), which fades as the person reveals their genuine discomfort (end)."
+        },
+        {
+          "id": "E",
+          "text": "Initial self-monitoring (start) leads to an affiliative display (middle) that successfully resolves the person's internal anxiety (end)."
+        },
+        {
+          "id": "F",
+          "text": "A period of neutral thought (middle) is preceded by a planned display of warmth (start) and followed by a spontaneous expression (end)."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. The video follows a logical psychological progression: 1) Initial hesitation and contained gestures (0.0s) suggest self-monitoring. 2) This is followed by a consciously warm and welcoming smile/gesture (1.9s) as an affiliative social strategy. 3) Finally, he gives context to his internal state by admitting the situation makes him nervous (13.5s), explaining the initial caution.\n- Option A is a video-based distractor with incorrect causality; the affiliative display does not cause the anxiety, but rather precedes the admission of pre-existing anxiety.\n- Option B is a video-based distractor with reversed temporal order; it places the end behavior as the cause for the middle behavior.\n- Option D is a text-based distractor; it posits an unseen 'external prompt' and incorrectly frames the final admission as disconnected from the start.\n- Option E is a near-miss distractor; it correctly identifies the first two steps but makes an error in the final link. The affiliative display does not resolve the anxiety, as the person explicitly states they are nervous at the end.\n- Option F is a video-based distractor with incorrect temporal order, incorrectly placing the display of warmth at the start."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around [1.9s], a region was detected in the video (x=0.368, y=0.816, w=0.229, h=0.179, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A subtle furrowing of the brow paired with slightly pursed lips."
+        },
+        {
+          "id": "B",
+          "text": "A neutral and slightly pensive or thoughtful facial expression."
+        },
+        {
+          "id": "C",
+          "text": "An expansive and welcoming hand gesture spreading outwards."
+        },
+        {
+          "id": "D",
+          "text": "A small, contained hand movement kept very close to the chest."
+        },
+        {
+          "id": "E",
+          "text": "A gradual return from a smile back to a neutral facial position."
+        },
+        {
+          "id": "F",
+          "text": "A slight and almost imperceptible swaying of the head and torso."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. The provided coordinates at 1.9s (y=0.816) point to the lower portion of the frame. The observation log for [1.9s - 3.6s] states that the person's 'hands spread outwards in a broad, welcoming gesture,' which matches this action and location.\n- Option A is a video-based distractor; this describes the facial expression at the end of the video (13.5s), not the hand action at 1.9s.\n- Option B is a video-based distractor; this describes the facial expression at the very beginning of the video (0.0s), which is in a different spatial region (upper-middle frame).\n- Option D is a near-miss distractor; this describes the hand gesture from the *previous* time segment (0.0s-1.9s), which was small and contained, not expansive.\n- Option E is a video-based distractor; this describes the facial action *after* the smile (from 3.4s onwards).\n- Option F is a video-based distractor; head movement is noted from 3.6s onwards and is located in a different spatial region (upper frame)."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator04",
+      "version": 1,
+      "clues_total": 12,
+      "clues_correct": 8,
+      "clues_wrong_corrected": 4,
+      "clues_missing_skipped": 0,
+      "clues_bonus": 0
+    }
+  }
+}

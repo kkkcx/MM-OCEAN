@@ -1,0 +1,496 @@
+{
+  "video_id": "IV01x2GS61g.001.mp4",
+  "video_path": "IV01x2GS61g.001.mp4",
+  "transcription": "Yeah. Well, I can see it, but I can't say it. I can-",
+  "original_scores": {
+    "extraversion": 0.4579439252336449,
+    "agreeableness": 0.6373626373626373,
+    "conscientiousness": 0.7281553398058251,
+    "neuroticism": 0.5625,
+    "openness": 0.5666666666666667
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 0.82,
+      "description": "The subject looks directly at the camera with a neutral expression, his eyebrows slightly raised as he speaks.",
+      "bboxes": [
+        {
+          "frame_time": 0.609763,
+          "x": 0.30830592105263155,
+          "y": 0.116666663320441,
+          "w": 0.28273026315789473,
+          "h": 0.4842105263157895,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 0.480247,
+          "x": 0.30830592105263155,
+          "y": 0.15350876858359888,
+          "w": 0.27088815789473686,
+          "h": 0.44473684210526315,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 0.611223,
+          "x": 0.3171875,
+          "y": 0.1771929791099147,
+          "w": 0.27532894736842106,
+          "h": 0.21052631578947367,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 0.82,
+      "end_time": 2.05,
+      "description": "He briefly closes his eyes and brings his hands together, then opens his eyes and resumes speaking with slightly raised eyebrows.",
+      "bboxes": [
+        {
+          "frame_time": 1.542612,
+          "x": 0.33939144736842103,
+          "y": 0.20877192647833573,
+          "w": 0.23832236842105264,
+          "h": 0.4342105263157895,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 1.542612,
+          "x": 0.29054276315789473,
+          "y": 0.7324561370046515,
+          "w": 0.2901315789473684,
+          "h": 0.2657894736842105,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 1.688141,
+          "x": 0.34679276315789476,
+          "y": 0.2798245580572831,
+          "w": 0.25164473684210525,
+          "h": 0.17894736842105263,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 1.804565,
+          "x": 0.34087171052631576,
+          "y": 0.216666663320441,
+          "w": 0.23092105263157894,
+          "h": 0.14736842105263157,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 2.05,
+      "end_time": 15.03,
+      "description": "The subject maintains his gaze at the camera, with eyebrows moving up and down slightly in sync with his speech for emphasis. He blinks naturally throughout.",
+      "bboxes": [
+        {
+          "frame_time": 2.21233,
+          "x": 0.32310855263157895,
+          "y": 0.20877192647833573,
+          "w": 0.2738486842105263,
+          "h": 0.3236842105263158,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 3.100173,
+          "x": 0.3290296052631579,
+          "y": 0.19035087384675678,
+          "w": 0.2945723684210526,
+          "h": 0.2789473684210526,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 4.890413,
+          "x": 0.35567434210526316,
+          "y": 0.2403508738467568,
+          "w": 0.24720394736842105,
+          "h": 0.26052631578947366,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 0.82,
+      "description": "The subject is seated, facing forward, with his hands out of view at the bottom of the frame. His head and torso are still.",
+      "bboxes": [
+        {
+          "frame_time": 0.378424,
+          "x": 0.2490953947368421,
+          "y": 0.816666663320441,
+          "w": 0.32861842105263156,
+          "h": 0.18157894736842106,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 0.611301,
+          "x": 0.3349506578947368,
+          "y": 0.12719297910991467,
+          "w": 0.2901315789473684,
+          "h": 0.5868421052631579,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0.82,
+      "end_time": 2.05,
+      "description": "He brings both hands up to his chest, pressing the palms and fingers together in a prayer-like gesture, before separating them again.",
+      "bboxes": [
+        {
+          "frame_time": 1.309932,
+          "x": 0.2653782894736842,
+          "y": 0.7008771896362305,
+          "w": 0.39375,
+          "h": 0.29736842105263156,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 1.979453,
+          "x": 0.2935032894736842,
+          "y": 0.7114035054257042,
+          "w": 0.2901315789473684,
+          "h": 0.2868421052631579,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 2.05,
+      "end_time": 12.89,
+      "description": "He uses both hands to make small, open, illustrative gestures in front of his body, within the lower third of the frame.",
+      "bboxes": [
+        {
+          "frame_time": 8.994868,
+          "x": 0.0803453947368421,
+          "y": 0.7324561370046515,
+          "w": 0.44703947368421054,
+          "h": 0.2657894736842105,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 12.89,
+      "end_time": 15.03,
+      "description": "His right hand moves in a small, side-to-side slicing motion to emphasize a point.",
+      "bboxes": [
+        {
+          "frame_time": 13.436048,
+          "x": 0.2254111842105263,
+          "y": 0.6956140317414936,
+          "w": 0.36414473684210524,
+          "h": 0.3026315789473684,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 2.01,
+      "description": "The speaker's voice is at a moderate pace and pitch, with a falling intonation on the phrase \"for me\".",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 2.01,
+      "end_time": 9.14,
+      "description": "His speech rate increases slightly as he provides a series of examples beginning with \"before we go ahead...\". The pitch and volume remain consistent.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 9.14,
+      "end_time": 12.18,
+      "description": "The pace returns to a more moderate rate. The phrase \"for me\" again has a falling intonation, and \"Either way\" is spoken at a slightly lower pitch.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 12.18,
+      "end_time": 15.03,
+      "description": "The speaker's pace is deliberate, with slight stress and rising-then-falling pitch placed on the word \"pivoting\" for emphasis.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.03,
+      "description": "The subject is a middle-aged male with light skin, short gray hair, and glasses. He is wearing a black, short-sleeved polo shirt. The setting is an indoor room, likely a home office, with a wooden bookshelf behind him. The shelf contains books, binders, numerous framed photographs, and a framed certificate. To the far right, a potted plant is visible. The lighting is diffuse and even, coming from the front.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Medium",
+      "score": 0.46,
+      "rationale": "The subject exhibits a blend of social engagement and personal reserve, consistent with a Medium Extraversion score. He maintains direct eye contact with the camera, a key indicator of social confidence. However, his physical energy is contained; his gestures are described as 'small' and kept close to his body, and his torso remains largely still. This contrasts with the broad, expansive movements typical of high extraversion. His vocal delivery is modulated and clear but maintains a moderate pace and volume, suggesting comfortable but not overtly energetic social expression.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "High",
+      "score": 0.64,
+      "rationale": "The subject's non-verbal cues align with a High level of Agreeableness. His use of 'open' hand gestures suggests a non-threatening and cooperative stance. Early in the clip, he brings his hands together in a prayer-like gesture, which is often interpreted as a sign of sincerity and thoughtfulness. Throughout the interaction, his steady eye contact and controlled, moderate vocal tone contribute to a warm and approachable demeanor, fostering a sense of trust and rapport.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "High",
+      "score": 0.73,
+      "rationale": "A High Conscientiousness score is strongly supported by both the subject's behavior and his environment. His speech is structured and deliberate, using rhythmic pacing and specific vocal emphasis (e.g., on the word 'pivoting') to articulate his points clearly. His physical composure—a still torso and controlled gestures—reflects self-discipline. Furthermore, the background, featuring an organized bookshelf with books, folders, and a framed certificate, indicates a structured, goal-oriented individual who values order and achievement.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Medium",
+      "score": 0.56,
+      "rationale": "The subject demonstrates effective emotional regulation with subtle indicators of cognitive load, which supports a Medium Neuroticism score. While he acknowledges a verbal slip ('I can see it, but I can't say it'), he maintains composure, a steady gaze, and a consistent vocal tone, showing resilience to minor stress. The brief gesture of clasping his hands can be seen as a minor self-soothing behavior. This balance between experiencing a moment of difficulty and managing it calmly is characteristic of an individual who is neither emotionally impervious nor overly reactive.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "Medium",
+      "score": 0.57,
+      "rationale": "The subject's behavior suggests a balance between intellectual curiosity and practicality, fitting a Medium Openness score. His verbalization, 'I can see it, but I can't say it,' is a meta-cognitive act of self-reflection, indicating an interest in his own thought processes. The use of nuanced vocal intonation to emphasize ideas points to an appreciation for complex communication. However, his conventional appearance and the traditional, orderly nature of his home office environment suggest a groundedness that balances his intellectual side, steering away from the more unconventional expressions of very high openness.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During the full duration of the clip [0s - 15s], the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Low Conscientiousness, indicated by a disorganized environment and unstructured speech."
+        },
+        {
+          "id": "B",
+          "text": "High Extraversion, supported by the use of large, expansive physical gestures for emphasis."
+        },
+        {
+          "id": "C",
+          "text": "Low Agreeableness, suggested by the minimal eye contact and reserved body language."
+        },
+        {
+          "id": "D",
+          "text": "Low Neuroticism, demonstrated by the speaker's perfectly fluent and rapid speech patterns."
+        },
+        {
+          "id": "E",
+          "text": "High Conscientiousness, shown by his structured speech and an orderly background environment."
+        },
+        {
+          "id": "F",
+          "text": "High Openness, reflected in the frequent use of creative and abstract verbal expressions."
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. The personality analysis highlights that the subject's structured, deliberate speech and the organized, orderly bookshelf in the background are strong indicators of High Conscientiousness. Option A is a near-miss distractor; it correctly identifies the relevant evidence (environment, speech) but assesses its direction incorrectly, as the environment is orderly, not disorganized. Option B is a video-based distractor; the subject does use gestures, but the analysis notes they are 'small' and 'contained', which points away from High Extraversion. Option C is a video-based distractor; the subject maintains steady eye contact, contradicting the claim of minimal eye contact. Option D is a text-based distractor; it presents a plausible trait indicator, but it's factually incorrect as the subject has a verbal slip, which is evidence against exceptionally low neuroticism. Option F is a text-based distractor; it sounds plausible for an articulate speaker, but the transcript shows no evidence of abstract or creative expressions."
+    },
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's non-verbal expression occur that is most relevant to their assessed high Agreeableness?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[0.0s - 0.7s]"
+        },
+        {
+          "id": "B",
+          "text": "[2.5s - 3.8s]"
+        },
+        {
+          "id": "C",
+          "text": "[4.2s - 5.5s]"
+        },
+        {
+          "id": "D",
+          "text": "[8.1s - 9.4s]"
+        },
+        {
+          "id": "E",
+          "text": "[0.8s - 2.0s]"
+        },
+        {
+          "id": "F",
+          "text": "[12.9s - 14.2s]"
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. The personality analysis notes that the prayer-like gesture, interpreted as a sign of sincerity and thoughtfulness, contributes to the High Agreeableness assessment. This gesture occurs between 0.8s and 2.0s. All other options are video-based distractors pointing to different moments. Option A is the initial neutral expression. Option B involves eyebrow movements for emphasis. Option C is a natural blink. Option D shows small, open hand gestures. Option F captures the hand-chopping gesture. While some of these might relate to other traits, the hand-clasping gesture is explicitly linked in the analysis to a quality of sincerity relevant to Agreeableness."
+    },
+    {
+      "category": "Mixed Emotion Discrimination",
+      "question": "During [0.8s - 2.0s], the person's emotional state is best characterized as which of the following? Consider both verbal and non-verbal cues.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Deep contemplation with a strong sense of clear resolution."
+        },
+        {
+          "id": "B",
+          "text": "Pensive reflection with a notably warm, reassuring smile."
+        },
+        {
+          "id": "C",
+          "text": "Anxious frustration with an undertone of near resignation."
+        },
+        {
+          "id": "D",
+          "text": "Intellectual certainty with a clear desire for audience approval."
+        },
+        {
+          "id": "E",
+          "text": "Focused concentration with a subtle hint of self-correction."
+        },
+        {
+          "id": "F",
+          "text": "Relaxed amusement with a touch of playful self-awareness."
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. During this interval, the subject says, 'I can see it, but I can't say it,' indicating a minor cognitive block. He simultaneously brings his hands together, a focusing or self-soothing gesture. This combination reflects focused concentration on his thought process mixed with active self-correction. Option A is a near-miss distractor; it correctly identifies the thoughtful aspect but incorrectly suggests 'clear resolution' when the speaker is actually experiencing a momentary block. Option B is a video-based distractor because his facial expression is neutral, not smiling. Option C is a text-based distractor that overstates the negativity; his composure contradicts 'anxious frustration'. Option D is a text-based distractor that misinterprets the verbal slip as a sign of certainty, which is the opposite of what occurred. Option F is a video-based distractor; his composed demeanor and hand gesture are more serious than 'relaxed amusement'."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around [1.8s], a region was detected in the video (x=0.34, y=0.22, w=0.23, h=0.15, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hands brought together in a thoughtful, prayer-like pose."
+        },
+        {
+          "id": "B",
+          "text": "A sharp, chopping gesture made with the right hand."
+        },
+        {
+          "id": "C",
+          "text": "A natural and periodic eye blink during steady gazing."
+        },
+        {
+          "id": "D",
+          "text": "Slightly raised eyebrows for conversational emphasis."
+        },
+        {
+          "id": "E",
+          "text": "Two hands clasped centrally in front of the speaker."
+        },
+        {
+          "id": "F",
+          "text": "A small, open illustrative gesture made with both hands."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "The correct answer is D. The provided coordinates at 1.8s precisely frame the subject's eyebrows. The observation log for this time confirms that his eyebrows are slightly raised as he continues to speak, a common way to add emphasis. Option C is a near-miss distractor; it describes an action (blinking) in the eyes, which are spatially very close to the eyebrows but not within the specified bounding box. Options A, B, E, and F are all video-based distractors; they describe real hand gestures that occur in the video but are located in the lower half of the frame, far from the specified coordinates on the face."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "At which time and location does the speaker make a gesture that suggests an open and cooperative stance while elaborating on a point?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[0.6s] x=0.31, y=0.12, w=0.28, h=0.48"
+        },
+        {
+          "id": "B",
+          "text": "[1.8s] x=0.34, y=0.22, w=0.23, h=0.15"
+        },
+        {
+          "id": "C",
+          "text": "[1.5s] x=0.29, y=0.73, w=0.29, h=0.27"
+        },
+        {
+          "id": "D",
+          "text": "[2.0s] x=0.29, y=0.71, w=0.29, h=0.29"
+        },
+        {
+          "id": "E",
+          "text": "[9.0s] x=0.08, y=0.73, w=0.45, h=0.27"
+        },
+        {
+          "id": "F",
+          "text": "[4.9s] x=0.36, y=0.24, w=0.25, h=0.26"
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. The question asks for the time and location of a gesture indicating an open and cooperative stance. The observation log at [2.0s - 12.9s] describes 'small and openillustrative gestures. The personality analysis links these 'open' hand gestures to a 'cooperative stance'. The coordinates and timestamp in option E fall squarely within this event. Option A frames the head and torso early on. Option B frames the eyebrows. Options C and D frame the hands while they are clasped, which is a different gesture. Option F frames the eyes during a blink."
+    },
+    {
+      "category": "Counterfactual Reasoning",
+      "question": "If the person had NOT exhibited the behavior observed around [0.8s - 2.0s], which of the following personality assessments would be MOST affected?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The score for Medium Neuroticism would change to High, because this behavioral pattern is the key evidence of his struggle with emotional regulation."
+        },
+        {
+          "id": "B",
+          "text": "Conscientiousness would be rated much lower, as the structured environment seen at that specific moment is the main support for a high score."
+        },
+        {
+          "id": "C",
+          "text": "The rating for Agreeableness would be lower, given that the steady eye contact in that specific time frame is critical evidence for this trait."
+        },
+        {
+          "id": "D",
+          "text": "Extraversion would appear higher, since this brief moment of quiet reserve contrasts with the more energetic communication style seen elsewhere."
+        },
+        {
+          "id": "E",
+          "text": "The assessment of Medium Neuroticism would be weaker, as this moment provides key evidence for his calm handling of a minor cognitive stressor."
+        },
+        {
+          "id": "F",
+          "text": "The Openness assessment would be less certain, because this instance of self-reflection is an important indicator for that particular dimension."
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. The behavior at [0.8s - 2.0s] includes the verbal slip and the hand-clasping gesture. The personality analysis explicitly cites his composed handling of this 'minor stress' and the 'minor self-soothing behavior' as key evidence for a Medium Neuroticism score (balancing a stressor with regulation). Removing this event would remove the primary evidence for this specific balance, weakening the assessment. Option A is a near-miss distractor; it identifies the correct trait but gets the direction wrong. His calm response is evidence against high neuroticism, so removing it wouldn't make him seem more neurotic. Option B is a video-based distractor; the background is evidence for Conscientiousness but is visible throughout the video, not just in this specific time slice. Option C is a text-based distractor; eye contact is maintained throughout, so its presence in this short clip is not uniquely critical to the Agreeableness score. Options D and F are text-based distractors that propose plausible but less direct impacts on other traits compared to the very specific evidence this moment provides for Neuroticism."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator20",
+      "version": 2,
+      "clues_total": 21,
+      "clues_correct": 18,
+      "clues_wrong_corrected": 3,
+      "clues_missing_skipped": 0,
+      "clues_bonus": 0
+    }
+  }
+}

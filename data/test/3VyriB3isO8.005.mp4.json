@@ -1,0 +1,733 @@
+{
+  "video_id": "3VyriB3isO8.005.mp4",
+  "video_path": "3VyriB3isO8.005.mp4",
+  "transcription": "Do you cut out coupons and then never use them? No, cause I never cut them out.",
+  "original_scores": {
+    "extraversion": 0.39252336448598135,
+    "agreeableness": 0.4285714285714285,
+    "conscientiousness": 0.3300970873786408,
+    "neuroticism": 0.3333333333333333,
+    "openness": 0.4777777777777778
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 3.1,
+      "description": "The subject is initially looking down with eyes mostly closed while reading from a phone. She then looks up toward the camera with a neutral expression, eyebrows relaxed, and her mouth moves naturally as she speaks.",
+      "bboxes": [
+        {
+          "frame_time": 0,
+          "x": 0.44004934210526314,
+          "y": 0.29561403174149364,
+          "w": 0.1524671052631579,
+          "h": 0.16842105263157894,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 0,
+          "x": 0.4208059210526316,
+          "y": 0.27192982121517784,
+          "w": 0.18947368421052632,
+          "h": 0.15526315789473685,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 0,
+          "x": 0.3837993421052632,
+          "y": 0.2535087685835989,
+          "w": 0.2546052631578947,
+          "h": 0.3684210526315789,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 0,
+          "x": 0.4030427631578947,
+          "y": 0.12719297910991467,
+          "w": 0.27828947368421053,
+          "h": 0.5131578947368421,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 0,
+          "x": 0.4341282894736842,
+          "y": 0.2929824527941252,
+          "w": 0.18207236842105262,
+          "h": 0.28421052631578947,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 0,
+          "x": 0.3986019736842105,
+          "y": 0.27456140016254627,
+          "w": 0.196875,
+          "h": 0.10263157894736842,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 0,
+          "x": 0.44449013157894735,
+          "y": 0.4535087685835989,
+          "w": 0.15098684210526317,
+          "h": 0.15,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 3.1,
+      "end_time": 5,
+      "description": "Her gaze shifts back down to the phone, her eyes are partially closed, and her facial expression is neutral.",
+      "bboxes": [
+        {
+          "frame_time": 5,
+          "x": 0.3749177631578947,
+          "y": 0.35350876858359886,
+          "w": 0.2087171052631579,
+          "h": 0.10789473684210527,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 5,
+          "x": 0.4208059210526316,
+          "y": 0.3219298212151778,
+          "w": 0.18355263157894738,
+          "h": 0.3,
+          "note": "face human-annotated",
+          "region": "face"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 5,
+      "end_time": 9,
+      "description": "She looks up from the phone and her gaze shifts up and to her left. Her eyebrows raise slightly, and her mouth is slightly parted as she thinks. She briefly looks back down at the phone.",
+      "bboxes": [
+        {
+          "frame_time": 5,
+          "x": 0.41192434210526313,
+          "y": 0.09561403174149363,
+          "w": 0.28717105263157894,
+          "h": 0.5842105263157895,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 5,
+          "x": 0.40452302631578946,
+          "y": 0.17456140016254626,
+          "w": 0.2886513157894737,
+          "h": 0.16842105263157894,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 5,
+          "x": 0.4060032894736842,
+          "y": 0.2824561370046515,
+          "w": 0.196875,
+          "h": 0.10789473684210527,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 5,
+          "x": 0.43264802631578947,
+          "y": 0.48508771595201994,
+          "w": 0.10361842105263158,
+          "h": 0.1631578947368421,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 5,
+          "x": 0.4074835526315789,
+          "y": 0.3061403475309673,
+          "w": 0.17911184210526315,
+          "h": 0.3263157894736842,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 9,
+      "end_time": 11.5,
+      "description": "Looking up and to her left, her eyebrows raise more noticeably, her eyes widen slightly, and her mouth forms a small 'o' shape as she vocalizes her thought.",
+      "bboxes": [
+        {
+          "frame_time": 9,
+          "x": 0.3882401315789474,
+          "y": 0.15877192647833574,
+          "w": 0.25608552631578946,
+          "h": 0.41578947368421054,
+          "note": "human-annotated",
+          "region": "unknown"
+        },
+        {
+          "frame_time": 9,
+          "x": 0.4385690789473684,
+          "y": 0.19561403174149364,
+          "w": 0.19835526315789473,
+          "h": 0.13421052631578947,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 9,
+          "x": 0.42672697368421053,
+          "y": 0.1798245580572831,
+          "w": 0.24720394736842105,
+          "h": 0.2026315789473684,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 9,
+          "x": 0.4740953947368421,
+          "y": 0.38508771595201996,
+          "w": 0.12138157894736842,
+          "h": 0.15263157894736842,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 11.5,
+      "end_time": 15.5,
+      "description": "She looks down briefly, then makes eye contact with the camera. Her eyebrows lower slightly, creating a concentrated expression. Her lips are slightly pursed before she speaks.",
+      "bboxes": [
+        {
+          "frame_time": 15.3153,
+          "x": 0.4060032894736842,
+          "y": 0.1403508738467568,
+          "w": 0.2546052631578947,
+          "h": 0.44473684210526315,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 15.3153,
+          "x": 0.4518914473684211,
+          "y": 0.2614035054257042,
+          "w": 0.18503289473684212,
+          "h": 0.11052631578947368,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 15.3153,
+          "x": 0.4459703947368421,
+          "y": 0.20087718963623047,
+          "w": 0.20279605263157896,
+          "h": 0.17894736842105263,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 15.3153,
+          "x": 0.45041118421052634,
+          "y": 0.24824561068886206,
+          "w": 0.18947368421052632,
+          "h": 0.32105263157894737,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 15.3153,
+          "x": 0.4711348684210526,
+          "y": 0.4324561370046515,
+          "w": 0.13914473684210527,
+          "h": 0.16842105263157894,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 15.3153,
+          "x": 0.49481907894736843,
+          "y": 0.4377192948993884,
+          "w": 0.09473684210526316,
+          "h": 0.13421052631578947,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 5.5,
+      "description": "The subject is sitting and facing forward, holding a pink phone in her left hand at the bottom of the frame. Her head is tilted down to look at the phone, then lifts to face the camera, and then tilts down again.",
+      "bboxes": [
+        {
+          "frame_time": 0,
+          "x": 0.40452302631578946,
+          "y": 0.09561403174149363,
+          "w": 0.30641447368421054,
+          "h": 0.5526315789473685,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 0,
+          "x": 0.42376644736842106,
+          "y": 0.11140350542570415,
+          "w": 0.27828947368421053,
+          "h": 0.5473684210526316,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 0,
+          "x": 0.4208059210526316,
+          "y": 0.12192982121517784,
+          "w": 0.28125,
+          "h": 0.5526315789473685,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 0,
+          "x": 0.4163651315789474,
+          "y": 0.07456140016254625,
+          "w": 0.30641447368421054,
+          "h": 0.5894736842105263,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 5.5,
+      "end_time": 8,
+      "description": "While looking up, she raises her right hand to the right side of her head and runs her fingers through her short hair in a single, smooth motion.",
+      "bboxes": [
+        {
+          "frame_time": 5.5,
+          "x": 0.4252467105263158,
+          "y": 0.12192982121517784,
+          "w": 0.3034539473684211,
+          "h": 0.5605263157894737,
+          "note": "human-annotated",
+          "region": "unknown"
+        },
+        {
+          "frame_time": 5.5,
+          "x": 0.11883223684210525,
+          "y": 0.6692982422678094,
+          "w": 0.16875,
+          "h": 0.32105263157894737,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 5.5,
+          "x": 0.44449013157894735,
+          "y": 0.09561403174149363,
+          "w": 0.3123355263157895,
+          "h": 0.43157894736842106,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 8,
+      "end_time": 11.5,
+      "description": "She lowers her hand and briefly looks back down at her phone before looking up again.",
+      "bboxes": [
+        {
+          "frame_time": 10.553217,
+          "x": 0.7198190789473684,
+          "y": 0.8377192948993883,
+          "w": 0.1480263157894737,
+          "h": 0.16052631578947368,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 8,
+          "x": 0.4474506578947368,
+          "y": 0.2429824527941252,
+          "w": 0.15838815789473684,
+          "h": 0.16842105263157894,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 8,
+          "x": 0.4430098684210526,
+          "y": 0.09035087384675679,
+          "w": 0.2960526315789474,
+          "h": 0.4631578947368421,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 11.5,
+      "end_time": 13.5,
+      "description": "She raises her right hand to her head again, brushing her fingers through her hair with a quick motion.",
+      "bboxes": [
+        {
+          "frame_time": 11.5,
+          "x": 0.6694901315789473,
+          "y": 0.17456140016254626,
+          "w": 0.07697368421052632,
+          "h": 0.32894736842105265,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 13.5,
+      "end_time": 15.5,
+      "description": "Her hands are out of frame, and she remains relatively still, facing the camera.",
+      "bboxes": [
+        {
+          "frame_time": 15.239785,
+          "x": 0.7553453947368421,
+          "y": 0.8192982422678095,
+          "w": 0.16578947368421054,
+          "h": 0.17894736842105263,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 15.3153,
+          "x": 0.3852796052631579,
+          "y": 0.08508771595201994,
+          "w": 0.31529605263157895,
+          "h": 0.55,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 3.1,
+      "description": "While reading from her phone, her voice is at a moderate, even pitch. Her answer, \"No, 'cause I never cut 'em out,\" is delivered at a slightly faster pace with a definitive, falling intonation.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 3.1,
+      "end_time": 9,
+      "description": "She reads the next question from her phone at a moderate pace and even pitch. A pause of approximately 3.5 seconds follows.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 9,
+      "end_time": 10.5,
+      "description": "She speaks in a higher-pitched, more expressive tone, saying, \"Oh, that's a hard one,\" with a slight lengthening of the vowels.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 10.5,
+      "end_time": 13.5,
+      "description": "A pause of approximately 3 seconds occurs.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 13.5,
+      "end_time": 15.5,
+      "description": "She speaks deliberately and at a slightly lower pitch, saying, \"I would have to say bees,\" with a falling intonation on the final word, indicating a decision.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.5,
+      "description": "The subject is a young person with a light skin tone and short, dark auburn hair in a pixie cut. She is wearing a grey, long-sleeved shirt decorated with small white and pink shapes around the wide neckline. The setting is indoors, against a solid, light-blue painted wall. The lighting is bright and even, appearing to come from the front.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 14.8153,
+      "end_time": 15.8153,
+      "description": "Raise your head to the left and return to the camera",
+      "bboxes": [
+        {
+          "frame_time": 15.3153,
+          "x": 0.4015625,
+          "y": 0.0798245580572831,
+          "w": 0.2930921052631579,
+          "h": 0.5210526315789473,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Low",
+      "score": 0.39,
+      "rationale": "The subject's behavior is indicative of low Extraversion. Her primary focus is on her phone rather than the camera, which serves as the social audience. This is demonstrated by her frequently downward head posture and averted gaze ([0.0s-3.1s], [3.1s-5.0s]). Her initial vocal delivery is moderate and steady, lacking the expressive energy typical of high extraversion. The multiple and lengthy pauses ([3.1s-9.0s], [10.5s-13.5s]) further suggest a more reserved, internally-focused processing style over spontaneous social expression.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Medium",
+      "score": 0.43,
+      "rationale": "The subject scores in the Medium range for Agreeableness. She is cooperative in the task of answering questions, and her facial expressions are generally neutral and non-confrontational (e.g., 'face: neutral facial expression' [3.1s-5.0s], 'eyebrows: eyebrows relaxed' [0.0s-3.1s]). There are no cues suggesting hostility or skepticism. However, she also does not display strong affiliative signals such as smiling or warm, inviting vocal tones. This balance of cooperation without overt warmth places her in the medium range for this trait.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Low",
+      "score": 0.33,
+      "rationale": "The subject's behavior points to a low level of Conscientiousness. Her immediate dismissal of the structured activity of couponing ('No, cause I never cut them out') suggests a disinclination towards organized, goal-oriented tasks. Furthermore, when faced with the subsequent question, her response is not immediate or structured; instead, she engages in a lengthy, meandering thought process involving multiple pauses and gaze shifts, which indicates a more spontaneous and less deliberate approach.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Low",
+      "score": 0.33,
+      "rationale": "A low level of Neuroticism is supported by the subject's calm and stable emotional state throughout the video. Her vocal tone is predominantly steady and her facial expressions are relaxed or neutral. When confronted with a 'hard' question, her reaction is one of thoughtful concentration (furrowed brows, focused expression [9.0s-11.5s]) rather than anxiety, frustration, or stress. The gestures of running her fingers through her hair ([5.5s-8.0s], [11.5s-13.5s]) are executed smoothly and appear to be casual thinking mannerisms rather than nervous, self-soothing behaviors.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "Medium",
+      "score": 0.48,
+      "rationale": "The subject's score is in the Medium range for Openness. This is most evident in her reaction to being challenged by a question. Her shift to a higher-pitched, more expressive tone ('Oh, this is a hard one' [9.0s-10.5s]) and the subsequent non-verbal cues of deep thought (gaze shifting upwards, mouth forming an 'o' shape, eyebrows furrowing) indicate a clear engagement with and curiosity towards the cognitive task. While she shows this intellectual curiosity, the brevity of the clip does not provide sufficient evidence for the broader creative and unconventional tendencies associated with high Openness, thus placing her in the medium category.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During 0.0s - 3.1s, the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Low Agreeableness due to the subject's direct and unadorned response style."
+        },
+        {
+          "id": "B",
+          "text": "High Conscientiousness, reflecting a detail-oriented and organized behavior."
+        },
+        {
+          "id": "C",
+          "text": "Low Conscientiousness, shown by the quick dismissal of a structured activity."
+        },
+        {
+          "id": "D",
+          "text": "High Extraversion, indicated by a fast-paced and declarative vocal delivery."
+        },
+        {
+          "id": "E",
+          "text": "Medium Openness, suggested by a curiosity towards the presented questions."
+        },
+        {
+          "id": "F",
+          "text": "Low Neuroticism, demonstrated by the overall calm and stable emotional tone."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. The person's immediate and dismissive answer to the question about coupons (\"No, cause I never cut them out\") directly indicates a disinclination towards organized, detail-oriented, and planned activities, which are hallmarks of low Conscientiousness.\n\n- Option A is a text-based distractor. The directness of the answer \"No\" could be misinterpreted as being disagreeable, but the tone is neutral, not hostile.\n- Option B is a near-miss distractor. It correctly identifies the relevant trait (Conscientiousness) but gets the direction wrong. Her behavior is the opposite of detail-oriented.\n- Option D is a text-based distractor. While her response is quick, it lacks the energetic and socially-oriented tone characteristic of high Extraversion; her focus remains on the phone.\n- Option E is a video-based distractor. The evidence for Medium Openness comes later in the video (around 9.0s), when she reacts to a difficult question, not from this initial segment.\n- Option F is a text-based distractor. While her tone is calm (consistent with Low Neuroticism), the *content* of her response is much stronger and more direct evidence for her level of Conscientiousness."
+    },
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their Openness level?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[9.0s - 11.5s]"
+        },
+        {
+          "id": "B",
+          "text": "[0.0s - 2.5s]"
+        },
+        {
+          "id": "C",
+          "text": "[3.1s - 5.0s]"
+        },
+        {
+          "id": "D",
+          "text": "[5.5s - 8.0s]"
+        },
+        {
+          "id": "E",
+          "text": "[11.5s - 13.5s]"
+        },
+        {
+          "id": "F",
+          "text": "[14.0s - 15.5s]"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. The personality analysis explicitly states that the evidence for Medium Openness comes from her reaction to a challenging question. During [9.0s - 11.5s], she says \"Oh, this is a hard one\" and exhibits a complex 'thinking face' with furrowed brows, squinted eyes, and a mouth shaped in an 'o', indicating deep cognitive engagement and curiosity.\n\n- Option B is a video-based distractor. This interval shows her initial neutral expression and glance at the camera, providing little information about Openness.\n- Option C is a video-based distractor. During this time, she looks back at her phone with a neutral expression, which is not indicative of intellectual curiosity.\n- Option D is a video-based distractor. This interval captures her first hand-to-hair gesture, which the analysis links to a thinking mannerism (related to low Neuroticism), not the core evidence for Openness.\n- Option E is a video-based distractor. This shows a second, quick hand-to-hair gesture, but the primary facial expression of cognitive engagement occurs in the preceding interval.\n- Option F is a video-based distractor. This is when she has finished thinking and is delivering her answer with a focused expression, representing the conclusion of the cognitive process, not the key moment of engagement itself."
+    },
+    {
+      "category": "Mixed Emotion Discrimination",
+      "question": "During 9.0s - 11.5s, the person's emotional state is best characterized as which of the following? Consider both verbal and non-verbal cues.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Annoyed frustration tempered by the need to continue with the interview session."
+        },
+        {
+          "id": "B",
+          "text": "Anxious uncertainty mixed with a strong desire to provide a correct response."
+        },
+        {
+          "id": "C",
+          "text": "Curious engagement mixed with the focused difficulty of a challenging question."
+        },
+        {
+          "id": "D",
+          "text": "Relaxed neutrality tempered by the casual interest of reading from her phone."
+        },
+        {
+          "id": "E",
+          "text": "Sudden surprise mixed with a feeling of slight confusion about the given task."
+        },
+        {
+          "id": "F",
+          "text": "Dismissive disinterest mixed with the forced compliance of the task assigned."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. During this interval, the person's higher-pitched, expressive tone (\"Oh, this is a hard one\") combined with non-verbal cues (furrowed brows, squinted eyes, upward gaze) indicate she is not frustrated or anxious, but rather actively engaged and stimulated by a difficult cognitive task. This combination reflects intellectual curiosity mixed with the strain of deep thought.\n\n- Option A is a near-miss distractor. The furrowed brows could be misinterpreted as annoyance or frustration, but the overall context of her vocal tone and posture points towards concentration rather than negative affect.\n- Option B is a text-based distractor. The phrase \"hard one\" might imply anxiety, but her calm demeanor and smooth gestures throughout the video are inconsistent with a neurotic response.\n- Option D is a video-based distractor. This emotional state accurately describes her behavior earlier in the video (e.g., 3.1s-5.0s) when she is passively reading, not during this moment of intense thought.\n- Option E is a near-miss distractor. The mouth forming an 'o' shape and the vocalization \"Oh\" could suggest surprise, but the accompanying squint and furrowed brow point more to cognitive processing and difficulty than to being startled or confused.\n- Option F is a text-based distractor. This is an interpretation that runs contrary to the visual evidence of engagement; her actions show the opposite of disinterest."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 0.0s, a region was detected in the video (x=0.44, y=0.30, w=0.15, h=0.17, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The subtle squinting of the eyes indicating focus."
+        },
+        {
+          "id": "B",
+          "text": "A neutral and relaxed overall facial expression."
+        },
+        {
+          "id": "C",
+          "text": "The downward inclination of the head while looking."
+        },
+        {
+          "id": "D",
+          "text": "The noticeable furrowing of the eyebrows in thought."
+        },
+        {
+          "id": "E",
+          "text": "The mouth held slightly open during contemplation."
+        },
+        {
+          "id": "F",
+          "text": "An upward and leftward glance away from the camera."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. The provided coordinates at 0.0s frame the central part of the person's face. At this moment, the most prominent action is that her head is tilted down as she looks at her phone. The observation log confirms this with The subject initially looks down.\n\n- Option A is a video-based distractor. The eyes squint later in the video (around 9.0s), not at the beginning.\n- Option B is a video-based distractor. While her expression is neutral, the primary action of the *head* in this specific region is its downward posture. 'Downward inclination' is a more specific and accurate description of the main action than 'neutral expression'.\n- Option D is a video-based distractor. The eyebrows furrow significantly later in the video (around 9.0s) when she is thinking, not at 0.0s.\n- Option E is a video-based distractor. Her mouth is slightly open during the thinking phase (around 5.0s-9.0s), but not at the very start of the video.\n- Option F is a near-miss distractor. She does glance upwards later (around 5.0s), but the glance is to the right, not the left. This tests for fine-grained detail."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "Which of the following options correctly localizes the moment where the person forms a focused, decisive expression just before speaking their answer?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[11.5s]  x=0.67, y=0.17, w=0.08, h=0.33"
+        },
+        {
+          "id": "B",
+          "text": "[5.5s]  x=0.44, y=0.10, w=0.31, h=0.43"
+        },
+        {
+          "id": "C",
+          "text": "[15.3s]  x=0.45, y=0.25, w=0.19, h=0.32"
+        },
+        {
+          "id": "D",
+          "text": "[0.0s]  x=0.42, y=0.12, w=0.28, h=0.55"
+        },
+        {
+          "id": "E",
+          "text": "[15.3s]  x=0.41, y=0.14, w=0.25, h=0.44"
+        },
+        {
+          "id": "F",
+          "text": "[15.3s]  x=0.47, y=0.43, w=0.14, h=0.17"
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. The question asks to identify the moment of a focused, decisive expression before answering. The observation log for [11.5s - 15.5s] describes this exact behavior: forming a focused expression with lowered eyebrows and tightened lips, right before she says her answer. The bounding box at [15.3s] (x=0.45, y=0.25, w=0.19, h=0.32) correctly isolates her facial region during this specific moment.\n\n- Option A is a video-based distractor. This timestamp and bbox capture her left hand as she is running it through her hair.\n- Option B is a video-based distractor. This timestamp and bbox capture her head and upper torso as she is beginning to think and runs her hand through her hair for the first time.\n- Option D is a video-based distractor. This is at the very beginning of the video, where she is looking down at her phone, not forming a decisive expression.\n- Option E is a near-miss distractor. While the timestamp (15.3s) is correct, this bounding box is slightly larger and less precisely focused on the key facial features than option C.\n- Option F is a near-miss distractor. The timestamp (15.3s) is correct, but this bounding box specifically isolates her mouth area, failing to capture the full 'focused expression' which includes the eyes and eyebrows."
+    },
+    {
+      "category": "Counterfactual Reasoning",
+      "question": "If the person had NOT exhibited the behavior observed around 9.0s - 11.5s, which of the following personality assessments would be MOST affected?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Agreeableness would change from Medium to High, as the furrowed brow in this part is the main evidence for her lack of cooperative intent."
+        },
+        {
+          "id": "B",
+          "text": "Neuroticism would shift from Low to Medium, as this calm concentration is the primary evidence against the presence of emotional reactivity."
+        },
+        {
+          "id": "C",
+          "text": "Openness assessment would shift from Medium to Low, as this segment provides the strongest evidence for her level of intellectual curiosity."
+        },
+        {
+          "id": "D",
+          "text": "Conscientiousness would change from Low to Medium, since this extended thought suggests a more deliberate and organized approach to tasks."
+        },
+        {
+          "id": "E",
+          "text": "Extraversion would shift from Low to High, because the verbal expression in this moment is the most critical indicator of her social energy."
+        },
+        {
+          "id": "F",
+          "text": "Openness assessment would shift from Medium to High, as removing the hesitation would imply more confident and quicker cognitive engagement."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. The personality analysis explicitly cites the person's reaction to the 'hard' question during this time frame (expressive tone, deep thought non-verbals) as the primary evidence for Medium Openness. Without this display of intellectual curiosity and engagement with a challenge, the evidence for Openness would be significantly weakened, likely resulting in a Low assessment.\n\n- Option A is a text-based distractor. It misinterprets the 'furrowed brow' as a sign of disagreeableness, when it's a sign of concentration. The Agreeableness score is based on her overall non-confrontational demeanor.\n- Option B is a video-based distractor. While her calm concentration here does support Low Neuroticism, it is not the *primary* evidence; her overall stable tone and lack of anxious gestures throughout are more critical. Therefore, removing this single instance would not greatly affect the Neuroticism score.\n- Option D is a text-based distractor. It incorrectly links this behavior to Conscientiousness. The Low Conscientiousness score is derived from her coupon answer, not from her thinking process for a different question.\n- Option E is a text-based distractor. While her tone is more expressive here, her overall Low Extraversion score is based on sustained introverted behaviors (gaze aversion, long pauses). Removing this one moment wouldn't be enough to flip the score to High.\n- Option F is a near-miss distractor. It correctly identifies Openness as the affected trait but posits the wrong direction of change. Removing the evidence for cognitive engagement would decrease, not increase, the assessed level of Openness."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator13",
+      "version": 1,
+      "clues_total": 44,
+      "clues_correct": 37,
+      "clues_wrong_corrected": 6,
+      "clues_missing_skipped": 0,
+      "clues_bonus": 1
+    }
+  }
+}

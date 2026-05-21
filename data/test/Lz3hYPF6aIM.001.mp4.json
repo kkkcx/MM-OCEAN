@@ -1,0 +1,479 @@
+{
+  "video_id": "Lz3hYPF6aIM.001.mp4",
+  "video_path": "Lz3hYPF6aIM.001.mp4",
+  "transcription": "[Singing 00:00:15]Running out of time. Hello from the other side. I must have called a thousand times.",
+  "original_scores": {
+    "extraversion": 0.24299065420560748,
+    "agreeableness": 0.3956043956043956,
+    "conscientiousness": 0.4368932038834952,
+    "neuroticism": 0.32291666666666663,
+    "openness": 0.5222222222222223
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 8.5,
+      "description": "The subject's gaze is directed upwards and to her left. Her mouth is open as she sings. Her eyebrows remain in a neutral, slightly raised position.",
+      "bboxes": [
+        {
+          "frame_time": 1.7481,
+          "x": 0.2579769736842105,
+          "y": 0.15877192647833574,
+          "w": 0.20723684210526316,
+          "h": 0.16842105263157894,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 2.494672,
+          "x": 0.26389802631578946,
+          "y": 0.42192982121517786,
+          "w": 0.10065789473684211,
+          "h": 0.15,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 7.441972,
+          "x": 0.24761513157894735,
+          "y": 0.12192982121517784,
+          "w": 0.2501644736842105,
+          "h": 0.21052631578947367,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 8.5,
+      "end_time": 11.5,
+      "description": "The subject's eyes close tightly and her eyebrows furrow slightly as she sings a high, powerful note. Her mouth opens very wide, indicating significant facial muscle engagement.",
+      "bboxes": [
+        {
+          "frame_time": 8.599999,
+          "x": 0.33199013157894736,
+          "y": 0.18508771595201995,
+          "w": 0.22203947368421054,
+          "h": 0.15263157894736842,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 10.49238,
+          "x": 0.3527138157894737,
+          "y": 0.09035087384675679,
+          "w": 0.21611842105263157,
+          "h": 0.1631578947368421,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 10.725709,
+          "x": 0.34679276315789476,
+          "y": 0.3219298212151778,
+          "w": 0.14210526315789473,
+          "h": 0.1736842105263158,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 10.792375,
+          "x": 0.35863486842105263,
+          "y": 0.29561403174149364,
+          "w": 0.17763157894736842,
+          "h": 0.2736842105263158,
+          "note": "face human-annotated",
+          "region": "face"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 11.5,
+      "end_time": 15,
+      "description": "The subject's eyes reopen but remain partially closed. The tension in her face lessens as her mouth continues to form the words of the song with less intensity.",
+      "bboxes": [
+        {
+          "frame_time": 12.533323,
+          "x": 0.30978618421052634,
+          "y": 0.18771929489938835,
+          "w": 0.17911184210526315,
+          "h": 0.15,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 13.713403,
+          "x": 0.2816611842105263,
+          "y": 0.3271929791099147,
+          "w": 0.14210526315789473,
+          "h": 0.22631578947368422,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 14.554093,
+          "x": 0.32310855263157895,
+          "y": 0.3429824527941252,
+          "w": 0.14210526315789473,
+          "h": 0.15789473684210525,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 6.3,
+      "description": "The subject is mostly still, her head held steady and tilted slightly upwards and to her left. Her body is framed from the shoulders up.",
+      "bboxes": [
+        {
+          "frame_time": 4.834436,
+          "x": 0.18988486842105262,
+          "y": 0.2035087685835989,
+          "w": 0.225,
+          "h": 0.4789473684210526,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 5.2443,
+          "x": 0.2772203947368421,
+          "y": 0.12192982121517784,
+          "w": 0.3360197368421053,
+          "h": 0.8631578947368421,
+          "note": "pose human-annotated",
+          "region": "shoulders"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 6.3,
+      "end_time": 15,
+      "description": "The subject slowly raises her right hand to her right ear, touching her earphone. She holds this position for the remainder of the clip as she continues to sing.",
+      "bboxes": [
+        {
+          "frame_time": 6.599077,
+          "x": 0.37935855263157897,
+          "y": 0.2798245580572831,
+          "w": 0.20723684210526316,
+          "h": 0.5736842105263158,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 11.216975,
+          "x": 0.49481907894736843,
+          "y": 0.34824561068886206,
+          "w": 0.17171052631578948,
+          "h": 0.4421052631578947,
+          "note": "pose human-annotated",
+          "region": "torso"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 6.5,
+      "description": "The subject sings in a soft, mid-to-high register with a slightly breathy vocal quality and a slow tempo.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 6.5,
+      "end_time": 8.5,
+      "description": "The vocal volume and intensity begin to increase steadily.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 8.5,
+      "end_time": 11.5,
+      "description": "A significant crescendo occurs as the subject's voice becomes much louder, higher in pitch, and is delivered with a full, sustained, and powerful belting technique.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 11.5,
+      "end_time": 15,
+      "description": "The volume decreases from the peak but remains strong and loud. The singing continues in a high register with a prominent vibrato.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15,
+      "description": "The video is in black and white. The subject is a young woman with long, dark hair, fair skin, and heavy eye makeup. She is wearing a striped, sleeveless mock-neck top, a black choker, a large teardrop-shaped earring in her right ear, and white wired earphones. She is indoors, with a light-colored curtain on the left and a wall with vertical blinds on the right. A large-diaphragm condenser microphone is visible in the bottom-left of the frame.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 5.313743,
+      "end_time": 6.313743,
+      "description": "The song the subject sang was Adele's \"Hello\", which was the title song of her 2015 album \"25\". It was also her return song after vocal cord surgery and a break from the music scene. The song is not simply written for an old love, but more of a gentle reconciliation and farewell to the past years, people who are drifting away, and the past self. The song style combines piano lyricism with soul music singing, and the emotions are progressive. After its release, it quickly topped the charts in many countries around the world, set multiple sales and playback records, and won Grammy awards such as Song of the Year. It became a representative of classic ballads in the streaming media era, and also symbolized her musical milestone of returning from the trough to the top.",
+      "bboxes": [
+        {
+          "frame_time": 5.813743,
+          "x": 0.2846217105263158,
+          "y": 0.1298245580572831,
+          "w": 0.15394736842105264,
+          "h": 0.868421052631579,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Low",
+      "score": 0.24,
+      "rationale": "The subject's behavior is indicative of low extraversion. The performance is solitary, taking place in what appears to be a controlled, private setting (indicated by the condenser microphone), rather than a social one. Her gaze is directed away, and her movements, such as the slow, deliberate gesture to her earphone, suggest a high degree of internal focus on technical execution and personal feeling. This introspective and self-contained expressive style, devoid of direct engagement with an external audience, aligns with the reserved and internally-focused nature of individuals with lower extraversion.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Medium",
+      "score": 0.4,
+      "rationale": "The evidence for agreeableness is neutral, supporting a medium score. While the choice of an emotionally resonant and conciliatory song ('Hello') and the expressive, soulful delivery could hint at empathetic tendencies, the context is non-interactive. The performance is a solitary act, offering no direct cues about her interpersonal behaviors such as cooperation, compassion, or trust. Therefore, without social interaction to observe, her disposition towards others cannot be definitively assessed, placing her in the medium range.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Medium",
+      "score": 0.44,
+      "rationale": "The subject displays a moderate level of conscientiousness. The presence of professional recording equipment (microphone, headphones) and the structured nature of her vocal performance—building from a soft start to a controlled, powerful crescendo—suggests a planned, deliberate, and disciplined approach. Her self-monitoring gesture of touching the earphone further indicates a focus on task-oriented precision. These behaviors point to goal-directedness and self-discipline, hallmarks of conscientiousness. The score remains in the medium range as the observation is limited to a single, short, artistic task.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Low",
+      "score": 0.32,
+      "rationale": "The subject's low neuroticism is evidenced by her high degree of emotional regulation. Despite the intense emotional content of the song, her expression is channeled and controlled. She demonstrates significant vocal skill and control, navigating the song's dynamic and emotional arc without being overwhelmed. The focused and deliberate nature of her actions—maintaining a stable posture and making precise adjustments—points to emotional stability under the pressure of performance. She is using emotion as a tool for artistic expression, not displaying signs of anxiety or emotional distress, which is characteristic of low neuroticism.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "Medium",
+      "score": 0.52,
+      "rationale": "A medium level of openness is indicated by the subject's engagement in a highly artistic and emotionally expressive activity. Choosing to perform a complex, soulful song, and doing so with deep emotional investment (e.g., intense facial expressions, dynamic vocal control), demonstrates an appreciation for aesthetics and a receptiveness to complex feelings. The deliberate artistic choice of a black-and-white aesthetic further suggests a creative inclination. This strong engagement with an artistic experience is a core facet of openness, justifying a score in the medium range.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During 8.5s - 11.5s, the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "High Extraversion, as the performance implies a strong desire for audience engagement."
+        },
+        {
+          "id": "B",
+          "text": "Low Extraversion, due to her solitary setting and internally focused demeanor overall."
+        },
+        {
+          "id": "C",
+          "text": "Low Neuroticism, as it reflects controlled channeling of intense emotion, not distress."
+        },
+        {
+          "id": "D",
+          "text": "High Conscientiousness, given the intense focus required for such a difficult passage."
+        },
+        {
+          "id": "E",
+          "text": "Medium Openness, because artistic expression is central to the entire performance."
+        },
+        {
+          "id": "F",
+          "text": "High Neuroticism, because the strained expression suggests emotional dysregulation."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. During this interval, the subject displays peak emotional and vocal intensity (eyes closed, brows furrowed, loud high note). However, this is a controlled and channeled expression, indicating high emotional regulation and stability under pressure, which is the hallmark of Low Neuroticism. She is using emotion for artistic effect rather than being overwhelmed by it.\n- Option A is a text-based distractor because a performance can imply extraversion, but her solitary, non-interactive style throughout the video points away from this trait.\n- Option B is a video-based distractor. While her overall personality is rated Low Extraversion, this specific moment of intense expression is less indicative of that trait than the overall context (solitary setting, averted gaze).\n- Option D is a near-miss distractor. The focus and control do relate to Conscientiousness, but the primary trait demonstrated is the management of emotional intensity, which is more central to the definition of Neuroticism.\n- Option E is a video-based distractor. The entire act supports Medium Openness, but this specific behavior is more directly evidence of emotional control than of aesthetic appreciation itself.\n- Option F is a text-based distractor. It misinterprets the visual cues; the strained expression is a sign of controlled physical and vocal exertion, not emotional dysregulation, which would be characteristic of High Neuroticism."
+    },
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their assessed level of emotional stability (Neuroticism)?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[0.0s - 1.0s]"
+        },
+        {
+          "id": "B",
+          "text": "[6.3s - 7.3s]"
+        },
+        {
+          "id": "C",
+          "text": "[8.5s - 9.5s]"
+        },
+        {
+          "id": "D",
+          "text": "[10.5s - 11.5s]"
+        },
+        {
+          "id": "E",
+          "text": "[11.5s - 12.5s]"
+        },
+        {
+          "id": "F",
+          "text": "[14.0s - 15.0s]"
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. The interval [8.5s - 9.5s] captures the most significant facial transition related to emotional regulation. This is the moment she closes her eyes and tenses her facial muscles to begin the most powerful and emotionally intense vocal passage. This shift from a relatively neutral expression to one of deep, controlled exertion is the key evidence for her ability to channel emotion, a core aspect of her low Neuroticism score.\n- Option A is a video-based distractor; it's the start of the video where her expression is relatively stable.\n- Option B is a video-based distractor; this interval captures a hand gesture (touching the earphone), not a primary facial expression change related to emotional intensity.\n- Option D is a near-miss distractor; this is during the peak of the intense expression, but it does not capture the critical *change* into that state.\n- Option E is a video-based distractor; this interval marks the *release* from peak tension, which is another significant change, but the onset of control at 8.5s is arguably more central to the assessment.\n- Option F is a video-based distractor; this is the end of the clip where her expression has stabilized again after the emotional peak."
+    },
+    {
+      "category": "Mixed Emotion Discrimination",
+      "question": "During 8.5s - 11.5s, the person's emotional state is best characterized as which of the following? Consider both verbal and non-verbal cues.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Profound sorrow tempered by a sense of eventual, hard-won quiet resignation."
+        },
+        {
+          "id": "B",
+          "text": "Passionate determination to perform mixed with evident signs of physical strain."
+        },
+        {
+          "id": "C",
+          "text": "Intense catharsis mixed with focused artistic exertion for technical precision."
+        },
+        {
+          "id": "D",
+          "text": "Gentle melancholy characterized by quiet contemplation on past circumstances."
+        },
+        {
+          "id": "E",
+          "text": "Spiritual ecstasy that is tempered by an underlying feeling of vulnerability."
+        },
+        {
+          "id": "F",
+          "text": "Overwhelming anguish mixed with a deep and pervasive feeling of personal regret."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. In this interval, the subject hits the song's emotional and vocal peak. Her eyes are closed, face is tense, and voice is powerful. This reflects both a deep emotional release (catharsis) related to the song's content and a high degree of technical control and physical effort (artistic exertion). The combination accurately describes the state of a skilled performer channeling intense feeling.\n- Option A is a near-miss distractor. While the song has themes of sorrow and resignation, her expression during this peak is active and exertive, not quiet or resigned.\n- Option B is a near-miss distractor. It correctly identifies the exertion but misses the emotional 'catharsis' component, focusing only on the physical and intentional aspects.\n- Option D is a video-based distractor. This description better fits the emotional tone of the *first* part of the video (0s-8.5s), which is softer and more contemplative.\n- Option E is a text-based distractor. While plausible for intense singing, there is no evidence in the song's context or her expression to suggest 'spiritual ecstasy'.\n- Option F is a text-based distractor. This overstates the emotion and implies a loss of control ('overwhelming anguish'), which contradicts the analysis that she is skillfully regulating her emotional expression (Low Neuroticism)."
+    },
+    {
+      "category": "Temporal-Causal Reasoning",
+      "question": "Consider the sequence of behaviors observed across the video. Which of the following best describes the causal chain linking the person's actions at different moments?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Expressive escalation (~8.5s) acts as a compensation for an earlier self-monitoring action (~6.6s), followed by a necessary regulatory de-escalation (~11.5s)."
+        },
+        {
+          "id": "B",
+          "text": "An emotional peak (~8.5s) prompts a delayed self-monitoring response (~6.6s), which then facilitates a final return to a more composed state of expression (~11.5s)."
+        },
+        {
+          "id": "C",
+          "text": "An initial self-monitoring action (~6.6s) enables a subsequent escalation in expressive intensity (~8.5s), followed by a controlled emotional de-escalation (~11.5s)."
+        },
+        {
+          "id": "D",
+          "text": "A de-escalation phase (~11.5s) is a direct causal response to a physical gesture (~6.6s), which was initially triggered by the performance's opening tone (~2.5s)."
+        },
+        {
+          "id": "E",
+          "text": "Self-monitoring (~6.6s) and expressive escalation (~8.5s) are unrelated preparatory acts that both precede a final, separate emotional resolution after the peak (~11.5s)."
+        },
+        {
+          "id": "F",
+          "text": "A calm period of focus (~4.8s) is broken by an internal emotional trigger, causing a peak reaction (~10.7s) that then requires a managed regulatory adjustment (~13.7s)."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. This option correctly identifies the logical and temporal sequence. The person first performs a self-monitoring action (touching earpiece at ~6.6s) to ensure technical correctness. This foundation of control and feedback enables her to confidently move into the period of maximum vocal and emotional intensity (~8.5s). Following this peak, she demonstrates regulation by executing a controlled de-escalation (~11.5s).\n- Option A is a distractor with wrong causality. The escalation isn't a 'compensation' for the monitoring; the monitoring is a preparation for the escalation.\n- Option B is a distractor with reversed temporal order. The self-monitoring at ~6.6s happens *before* the emotional peak at ~8.5s, not after.\n- Option D is a distractor with wrong causality and temporal order, linking disparate events illogically.\n- Option E is a near-miss distractor. It gets the temporal order right but incorrectly claims the first two actions are 'unrelated', when in fact the monitoring is a direct enabler for the controlled escalation.\n- Option F is a text-based distractor. It posits a plausible-sounding chain of events but misinterprets the initial state and invents an 'internal emotional trigger' that isn't directly evidenced; the escalation is a planned part of the song's structure."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 7.4s, a region was detected in the video (x=0.248, y=0.122, w=0.250, h=0.211, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Head tilted slightly downward and to the right, while remaining largely motionless."
+        },
+        {
+          "id": "B",
+          "text": "Eyebrows kept in a neutral position, being only very slightly raised from a baseline."
+        },
+        {
+          "id": "C",
+          "text": "Eyes reopening to a partially closed state after a moment of intense concentration."
+        },
+        {
+          "id": "D",
+          "text": "Mouth forming lyrics with a consistently high level of controlled vocal intensity."
+        },
+        {
+          "id": "E",
+          "text": "Eyebrows furrowed together to indicate a moment of considerable vocal exertion."
+        },
+        {
+          "id": "F",
+          "text": "Facial muscles showing a clear and visible reduction of tension after the high note."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. The provided coordinates at 7.4s isolate the region of the subject's eyebrows. At this moment, just before the emotional crescendo, her eyebrows are in a neutral and slightly raised state, consistent with the observation log for the 0.0s-8.5s period.\n- Option A is a video-based distractor. While the head is tilted this way, the coordinates point specifically to the eyebrow region, not the entire head.\n- Option C is a video-based distractor. The eyes reopen after the peak, around 11.5s, not at 7.4s.\n- Option D is a video-based distractor. While she is singing, the specified bounding box is for the eyebrows, not the mouth.\n- Option E is a near-miss distractor. The eyebrows become furrowed later, during the peak intensity from 8.5s-11.5s, not at 7.4s. This is the wrong expression for the given time.\n- Option F is a video-based distractor. The facial tension reduces after 11.5s, which is not the correct time."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "At which moment and in which specific region does the subject display the most significant facial muscle engagement, indicating peak emotional and physical exertion during the performance?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[1.7s], (x=0.258, y=0.159, w=0.207, h=0.168)"
+        },
+        {
+          "id": "B",
+          "text": "[10.8s], (x=0.359, y=0.296, w=0.178, h=0.274)"
+        },
+        {
+          "id": "C",
+          "text": "[6.6s], (x=0.379, y=0.280, w=0.207, h=0.574)"
+        },
+        {
+          "id": "D",
+          "text": "[13.7s], (x=0.282, y=0.327, w=0.142, h=0.226)"
+        },
+        {
+          "id": "E",
+          "text": "[4.8s], (x=0.190, y=0.204, w=0.225, h=0.479)"
+        },
+        {
+          "id": "F",
+          "text": "[10.7s], (x=0.347, y=0.322, w=0.142, h=0.174)"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. The observation log states that at 10.8s, there is 'significant facial muscle engagement' during the peak of the high note. The corresponding bounding box (x=0.359, y=0.296, w=0.178, h=0.274) correctly covers the central facial region where this exertion is most visible.\n- Option A is a video-based distractor; this timestamp and bbox correspond to the eyes early in the video, where the expression is neutral.\n- Option C is a video-based distractor; this timestamp and bbox correspond to the hand gesture of touching the earphone, not facial muscle engagement.\n- Option D is a video-based distractor; this timestamp and bbox correspond to the face *after* the peak, when tension is decreasing.\n- Option E is a video-based distractor; this timestamp and bbox correspond to the entire head during a period of relative calm.\n- Option F is a near-miss distractor. It points to the correct time of peak exertion but localizes only to the mouth. Option B is better as it captures the engagement of the entire facial region as described in the question."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator10",
+      "version": 1,
+      "clues_total": 20,
+      "clues_correct": 15,
+      "clues_wrong_corrected": 4,
+      "clues_missing_skipped": 0,
+      "clues_bonus": 1
+    }
+  }
+}

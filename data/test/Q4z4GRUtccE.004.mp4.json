@@ -1,0 +1,386 @@
+{
+  "video_id": "Q4z4GRUtccE.004.mp4",
+  "video_path": "Q4z4GRUtccE.004.mp4",
+  "transcription": "... enjoyable and that was pretty much the highlight of my January. Then after that we came out here to Morocco, and we started off in Marrakesh.",
+  "original_scores": {
+    "extraversion": 0.4672897196261683,
+    "agreeableness": 0.5824175824175825,
+    "conscientiousness": 0.5533980582524272,
+    "neuroticism": 0.5,
+    "openness": 0.5888888888888889
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 4.19,
+      "description": "The subject's eyes are initially closed and then open slowly as he speaks. His gaze is directed forward. His brow is slightly furrowed.",
+      "bboxes": [
+        {
+          "frame_time": 0.121826,
+          "x": 0.4319078947368421,
+          "y": 0.30842105463931435,
+          "w": 0.17763157894736842,
+          "h": 0.07368421052631578,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 0.97461,
+          "x": 0.4082236842105263,
+          "y": 0.3531578967445775,
+          "w": 0.22351973684210527,
+          "h": 0.04736842105263158,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 0.97461,
+          "x": 0.4052631578947368,
+          "y": 0.24789473884984067,
+          "w": 0.25164473684210525,
+          "h": 0.09210526315789473,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 4.19,
+      "end_time": 8.79,
+      "description": "His eyes widen slightly and his eyebrows raise as he looks directly at the camera, particularly when speaking the word \"highlight.\"",
+      "bboxes": [
+        {
+          "frame_time": 5.437026,
+          "x": 0.44375,
+          "y": 0.31631579148141964,
+          "w": 0.20723684210526316,
+          "h": 0.08421052631578947,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 6.120977,
+          "x": 0.40970394736842103,
+          "y": 0.25842105463931436,
+          "w": 0.24424342105263158,
+          "h": 0.07368421052631578,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 8.79,
+      "end_time": 15.39,
+      "description": "The subject's eyes close briefly and then reopen. His brow furrows more deeply, and his upper eyelids lower slightly, creating a look of concentration or recall as he continues speaking.",
+      "bboxes": [
+        {
+          "frame_time": 11.629161,
+          "x": 0.4407894736842105,
+          "y": 0.3136842125340512,
+          "w": 0.2087171052631579,
+          "h": 0.11315789473684211,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 11.629161,
+          "x": 0.41710526315789476,
+          "y": 0.25842105463931436,
+          "w": 0.2546052631578947,
+          "h": 0.09473684210526316,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 12.467455,
+          "x": 0.45263157894736844,
+          "y": 0.3531578967445775,
+          "w": 0.23092105263157894,
+          "h": 0.0868421052631579,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 15.39,
+      "description": "The subject is shown from the chest up, sitting and facing the camera. His head remains relatively still, with only minor nods and tilts that correspond with his speech.",
+      "bboxes": [
+        {
+          "frame_time": 2.145345,
+          "x": 0.12845394736842106,
+          "y": 0.7084210546393144,
+          "w": 0.8715460526315789,
+          "h": 0.27631578947368424,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 7.894343,
+          "x": 0.40970394736842103,
+          "y": 0.0636842125340512,
+          "w": 0.23980263157894738,
+          "h": 0.6421052631578947,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 4.51,
+      "description": "The subject speaks at a moderate pace with a conversational, even pitch.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 4.51,
+      "end_time": 8.24,
+      "description": "The pitch rises and volume increases slightly on the word \"highlight,\" adding emphasis.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 8.24,
+      "end_time": 9.47,
+      "description": "A brief pause is followed by the filler word \"Um.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 9.47,
+      "end_time": 15.39,
+      "description": "Speech resumes at a moderate pace. The pitch has a falling contour at the end of the words \"Morocco\" and \"Marrakesh.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.39,
+      "description": "The subject is a man with light skin, short brown hair, and light stubble. He is wearing a light grey zip-up fleece jacket over a dark grey t-shirt. He is in a warmly lit indoor setting, possibly a hotel room. Behind him, two red pendant lamps hang on either side of a large, framed piece of abstract art with black and white brushstrokes. The wall is a neutral beige color.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Medium",
+      "score": 0.47,
+      "rationale": "The subject exhibits a balance of extraverted and introverted characteristics. While he engages the camera directly and uses vocal emphasis and raised eyebrows to highlight points (e.g., at the word 'highlight'), indicating some social expressiveness, this is tempered by a slower, more deliberate speaking pace and relatively still head movements. The overall presentation is one of calm engagement rather than high energy, which is consistent with a medium level of Extraversion.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Medium",
+      "score": 0.58,
+      "rationale": "The subject's overall demeanor is pleasant, marked by a steady, conversational tone and discussion of an 'enjoyable' experience, suggesting a cooperative nature. However, his facial expressions, such as the slightly furrowed brows, appear to be more indicative of concentration and recall rather than being overtly aimed at building social rapport. This combination of a pleasant vocal style with more neutral, task-focused expressions supports a medium Agreeableness score.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Medium",
+      "score": 0.55,
+      "rationale": "The subject demonstrates moderate conscientiousness. He structures his narrative in a logical, chronological sequence (January, then Morocco, then Marrakesh), and his focused expressions (furrowed brows, lowered eyelids during recall) suggest a deliberate effort to be accurate. The use of a filler word ('Um.') and a generally conversational rather than formal tone, however, indicates a more flexible and less rigidly organized approach, fitting a medium score.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Medium",
+      "score": 0.5,
+      "rationale": "The subject displays strong emotional stability, evidenced by his calm vocal delivery and controlled posture. There are no significant signs of anxiety or stress. The brief moments of furrowed brows and the use of a filler word appear to be related to cognitive load (recalling information) rather than emotional distress. This profile of being generally composed while showing minor, normal signs of mental effort is characteristic of an individual with a medium Neuroticism score.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "Medium",
+      "score": 0.59,
+      "rationale": "The subject's score in the medium range for Openness is well-supported. The content of his speech, which involves international travel ('Morocco', 'Marrakesh'), points to an interest in novel experiences. However, his style of communication is straightforward and factual, lacking imaginative or abstract language. This blend of engaging in new activities while describing them in a conventional manner is indicative of a moderate level of Openness.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During 9.5s - 15.4s, the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "High Extraversion, based on his clear willingness to engage the camera directly."
+        },
+        {
+          "id": "B",
+          "text": "High Agreeableness, given his generally pleasant and cooperative verbal tone."
+        },
+        {
+          "id": "C",
+          "text": "Low Openness, as his delivery style is very conventional despite his topic."
+        },
+        {
+          "id": "D",
+          "text": "High Conscientiousness, due to the perfectly organized narrative he presents."
+        },
+        {
+          "id": "E",
+          "text": "Medium Conscientiousness, reflecting a balance of structure and careful recall."
+        },
+        {
+          "id": "F",
+          "text": "Low Neuroticism, because his calm overall demeanor shows good stability."
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. During this period, the subject describes his trip chronologically ('Morocco', then 'Marrakesh') and his facial expressions (furrowed brow, lowered eyelids) indicate focused recall, supporting a deliberate and structured (Conscientious) approach. The 'Medium' level is justified because this is balanced by a conversational tone and prior use of a filler word, suggesting he is not rigidly formal.\n\nOption A is a video-based distractor; the evidence for Extraversion (vocal emphasis, raised brows) is much stronger in the earlier segment (4.2s-8.8s), not this one.\nOption B is a text-based distractor; while his tone might be pleasant, the primary cues in this segment relate to cognitive organization, not social warmth.\nOption C is a text-based distractor; the content of travel actually supports Openness, and the specific behaviors in this segment do not strongly relate to this trait.\nOption D is a near-miss distractor; the behavior does support Conscientiousness, but 'High' is an overstatement as his style is still conversational, not perfectly formal. The analysis notes this balance.\nOption F is a video-based distractor; his overall calm demeanor supports low Neuroticism, but the specific behaviors in this time range are more direct evidence for Conscientiousness (cognitive effort) than emotional stability."
+    },
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their Extraversion level?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[0.8s - 1.8s]"
+        },
+        {
+          "id": "B",
+          "text": "[11.3s - 12.3s]"
+        },
+        {
+          "id": "C",
+          "text": "[8.4s - 9.4s]"
+        },
+        {
+          "id": "D",
+          "text": "[13.5s - 14.5s]"
+        },
+        {
+          "id": "E",
+          "text": "[5.9s - 6.9s]"
+        },
+        {
+          "id": "F",
+          "text": "[3.1s - 4.1s]"
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. The interval [5.9s - 6.9s] captures the moment the subject says the word 'highlight' (at 6.1s), where he raises his eyebrows and increases his vocal pitch and volume. This expressive emphasis is the strongest single piece of evidence for social expressiveness, which is a core facet of Extraversion.\n\nOption A is a video-based distractor; this interval contains a gaze shift to the left and a slight brow furrow, which relates to recall, not social expression.\nOption B is a video-based distractor; this interval shows the subject briefly closing and reopening his eyes, a sign of cognitive processing or recall, not extraverted expression.\nOption C is a video-based distractor; this interval covers the brief pause and filler word 'Um,' which is a feature of speech planning, not a primary indicator of extraverted energy.\nOption D is a video-based distractor; during this time, the subject is speaking calmly while recalling information, which is not a notable expressive change related to Extraversion.\nOption F is a video-based distractor; in this period, the subject is speaking in a steady, measured tone, which is characteristic of the baseline, not a notable change."
+    },
+    {
+      "category": "Mixed Emotion Discrimination",
+      "question": "During 0.0s - 4.2s, the person's emotional state is best characterized as which of the following? Consider both verbal and non-verbal cues.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mild confusion tempered by a concerted effort to accurately remember events."
+        },
+        {
+          "id": "B",
+          "text": "Subtle excitement mixed with narrative emphasis to engage the listening party."
+        },
+        {
+          "id": "C",
+          "text": "Quiet enjoyment mixed with a slight hint of wistful nostalgia for the journey."
+        },
+        {
+          "id": "D",
+          "text": "Calm confidence tempered by slight social anxiety from being on the camera."
+        },
+        {
+          "id": "E",
+          "text": "Neutral recollection mixed with slight concentration while organizing his thoughts."
+        },
+        {
+          "id": "F",
+          "text": "Deep reflection mixed with a clear sense of accomplishment about the experience."
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. In this initial segment, the subject speaks slowly and calmly ('neutral recollection'), looks away to his left (a common sign of memory access), and his brows are slightly furrowed ('slight concentration'). This combination of cues points to a cognitive state of organizing his thoughts before launching into the main point of his story.\n\nOption A is a near-miss distractor; while there is an 'effort to remember,' the expression is not one of 'confusion,' which is a stronger and unsupported claim. It's focused, not lost.\nOption B is a video-based distractor; this accurately describes the *next* time segment (4.2s-8.8s), where he says 'highlight' with emphasis, but not this initial segment.\nOption C is a text-based distractor; it leverages the knowledge that the topic is 'enjoyable,' but his facial and vocal cues in this specific segment do not yet convey enjoyment or nostalgia.\nOption D is a text-based distractor; 'social anxiety' is an unsupported inference. The cues (furrowed brow, averted gaze) are better explained by cognitive load than by social stress.\nOption F is a text-based distractor; 'deep reflection' and 'accomplishment' are too strong for the calm, preparatory nature of his behavior in these first few seconds."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 11.6s, a region was detected in the video (x=0.441, y=0.314, w=0.209, h=0.113, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Eyebrows raising to provide vocal emphasis on a specific key word being spoken."
+        },
+        {
+          "id": "B",
+          "text": "Head nodding slightly forward to affirm the point being made directly to the camera."
+        },
+        {
+          "id": "C",
+          "text": "Eyes remaining closed for an extended period to signal a moment of deep thought."
+        },
+        {
+          "id": "D",
+          "text": "Eyes widening slightly while looking forward to engage directly with the audience."
+        },
+        {
+          "id": "E",
+          "text": "A brief eye closure and reopening, indicating a momentary cognitive reset or thought."
+        },
+        {
+          "id": "F",
+          "text": "Hands gesturing subtly to add descriptive detail to the unfolding verbal narrative."
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. The provided coordinates at 11.6s precisely frame the subject's eyes. The observation log for the time period [8.8s - 15.4s] explicitly states, The subject's eyes briefly close and then reopen. This action is a micro-expression often associated with shifting thoughts or recalling the next piece of information.\n\nOption A is a video-based distractor; the eyebrow raise for emphasis occurs in a different region (the brows) and at a different time (around 6.1s).\nOption B is a video-based distractor; this describes a head movement, which is a different and larger region than the specified eye-level bounding box.\nOption C is a near-miss distractor; the eyes do close, but the action is brief, not 'extended.' This option exaggerates the duration, making it incorrect.\nOption D is a video-based distractor; the eyes widening occurs earlier in the video (around 5.4s) and is a different action from the closure/reopening observed here.\nOption F is a text-based distractor; there are no visible hand gestures in the video frame, making this a plausible but visually unsubstantiated claim."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "At which timestamp and in which corresponding facial region does the subject show the clearest non-verbal sign of emphasizing a key part of his story?",
+      "options": [
+        {
+          "id": "A",
+          "text": "At 1.0s, in the region (x=0.408, y=0.353, w=0.224, h=0.047)."
+        },
+        {
+          "id": "B",
+          "text": "At 7.9s, in the region (x=0.410, y=0.064, w=0.240, h=0.642)."
+        },
+        {
+          "id": "C",
+          "text": "At 2.1s, in the region (x=0.128, y=0.708, w=0.872, h=0.276)."
+        },
+        {
+          "id": "D",
+          "text": "At 11.6s, in the region (x=0.417, y=0.258, w=0.255, h=0.095)."
+        },
+        {
+          "id": "E",
+          "text": "At 6.1s, in the region (x=0.410, y=0.258, w=0.244, h=0.074)."
+        },
+        {
+          "id": "F",
+          "text": "At 5.4s, in the region (x=0.444, y=0.316, w=0.207, h=0.084)."
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. The question asks for the clearest sign of emphasis. At 6.1s, the observation log notes that the subject's eyebrows raise specifically as he says the word 'highlight'. The provided bounding box (x=0.410, y=0.258, w=0.244, h=0.074) correctly localizes the eyebrow region at that moment. This eyebrow raise, combined with vocal stress, is the most direct and unambiguous signal of narrative emphasis in the video.\n\nOption A points to the eyes during a moment of recall (gaze averted), not emphasis.\nOption B points to the entire head region during a period of relative stillness, not emphasis.\nOption C points to the chest/body area, which shows no specific emphatic action.\nOption D is a near-miss distractor. It points to the brow region, but at 11.6s, when the brows are furrowed in concentration, not raised in emphasis.\nOption F is a near-miss distractor. It points to the eyes at 5.4s as they widen. This is part of the emphatic expression, but the eyebrow raise at 6.1s is the more prominent and defining feature of the emphasis."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator09",
+      "version": 2,
+      "clues_total": 16,
+      "clues_correct": 11,
+      "clues_wrong_corrected": 4,
+      "clues_missing_skipped": 1,
+      "clues_bonus": 0
+    }
+  }
+}

@@ -1,0 +1,486 @@
+{
+  "video_id": "dRP8ZaAryro.002.mp4",
+  "video_path": "dRP8ZaAryro.002.mp4",
+  "transcription": "Conditional, it's a very good question. Zero conditional is a grammatical structure that we'll use while we're talking about things that are always true ... Like scientific facts or general truth-",
+  "original_scores": {
+    "extraversion": 0.6074766355140188,
+    "agreeableness": 0.6483516483516484,
+    "conscientiousness": 0.7572815533980582,
+    "neuroticism": 0.45833333333333337,
+    "openness": 0.5
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 0.85,
+      "description": "The subject maintains direct eye contact with the camera, with a neutral facial expression.",
+      "bboxes": [
+        {
+          "frame_time": 0.746435,
+          "x": 0.25057565789473685,
+          "y": 0.10087718963623046,
+          "w": 0.26644736842105265,
+          "h": 0.3105263157894737,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 0.746435,
+          "x": 0.25501644736842105,
+          "y": 0.10087718963623046,
+          "w": 0.3611842105263158,
+          "h": 0.4026315789473684,
+          "note": "face human-annotated",
+          "region": "face"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 0.85,
+      "end_time": 2.72,
+      "description": "The subject's eyebrows raise slightly, and the corners of her mouth lift into a brief, subtle smile as she speaks.",
+      "bboxes": [
+        {
+          "frame_time": 2.726535,
+          "x": 0.2935032894736842,
+          "y": 0.16929824226780943,
+          "w": 0.2131578947368421,
+          "h": 0.2736842105263158,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 2.726535,
+          "x": 0.3053453947368421,
+          "y": 0.1429824527941252,
+          "w": 0.28125,
+          "h": 0.38421052631578945,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 2.72,
+      "end_time": 15,
+      "description": "The subject's expression returns to a neutral, engaged state while maintaining direct eye contact. Her eyebrows raise slightly for emphasis at 4.29s, 6.78s, 9.49s, and 11.83s, coinciding with key phrases in her speech.",
+      "bboxes": [
+        {
+          "frame_time": 4.698243,
+          "x": 0.3068256578947368,
+          "y": 0.04561403174149363,
+          "w": 0.2738486842105263,
+          "h": 0.5078947368421053,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 4.698243,
+          "x": 0.2801809210526316,
+          "y": 0.04298245279412521,
+          "w": 0.309375,
+          "h": 0.6,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 9.527145,
+          "x": 0.3157072368421053,
+          "y": 0.11929824226780941,
+          "w": 0.17467105263157895,
+          "h": 0.29210526315789476,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 0.94,
+      "description": "The subject is standing, visible from the upper chest up, with her head facing forward and shoulders relaxed.",
+      "bboxes": [
+        {
+          "frame_time": 0.703134,
+          "x": 0.23873355263157894,
+          "y": 0.06140350542570415,
+          "w": 0.3182565789473684,
+          "h": 0.9368421052631579,
+          "note": "human-annotated",
+          "region": "unknown"
+        },
+        {
+          "frame_time": 0.703134,
+          "x": 0.23873355263157894,
+          "y": 0.03245613700465152,
+          "w": 0.2590460526315789,
+          "h": 0.5684210526315789,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 0.703134,
+          "x": 0.20616776315789473,
+          "y": 0.4798245580572831,
+          "w": 0.43519736842105267,
+          "h": 0.48157894736842105,
+          "note": "pose human-annotated",
+          "region": "shoulders"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0.94,
+      "end_time": 1.62,
+      "description": "The subject performs a small, affirmative nod.",
+      "bboxes": [
+        {
+          "frame_time": 1.383912,
+          "x": 0.2579769736842105,
+          "y": 0.066666663320441,
+          "w": 0.27532894736842106,
+          "h": 0.4763157894736842,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 1.62,
+      "end_time": 8.99,
+      "description": "The subject remains relatively still, with her head centered and facing the camera.",
+      "bboxes": [
+        {
+          "frame_time": 3.111425,
+          "x": 0.25945723684210525,
+          "y": 0.06929824226780941,
+          "w": 0.253125,
+          "h": 0.5105263157894737,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 8.99,
+      "end_time": 10.38,
+      "description": "The subject raises both hands into the frame to about chest height, palms facing inward in a symmetrical, illustrative gesture.",
+      "bboxes": [
+        {
+          "frame_time": 9.643685,
+          "x": 0.1410361842105263,
+          "y": 0.7903508738467567,
+          "w": 0.5595394736842105,
+          "h": 0.20526315789473684,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 10.38,
+      "end_time": 15,
+      "description": "The subject lowers her hands slightly but continues to make small gestures in the lower portion of the frame.",
+      "bboxes": [
+        {
+          "frame_time": 12.091025,
+          "x": 0.16324013157894737,
+          "y": 0.8482456106888621,
+          "w": 0.6365131578947368,
+          "h": 0.14736842105263157,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 2.6,
+      "description": "Speech is delivered at a moderate pace. Pitch rises slightly on the phrase \"very good question,\" giving it an affirming quality.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 2.6,
+      "end_time": 8.85,
+      "description": "The subject's voice is clear and maintains a steady, declarative pitch and volume.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 8.85,
+      "end_time": 10.45,
+      "description": "Slight stress and a subtle pitch increase occur on the words \"always true\" for emphasis.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 10.45,
+      "end_time": 15,
+      "description": "The subject's speech remains clear and at a consistent pace, with a slight downward inflection at the end of the final phrase.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15,
+      "description": "The subject is a woman with long, light brown hair and a fair complexion. She is wearing a sheer, short-sleeved floral blouse over a white top, and a simple silver necklace. The setting is indoors, in front of a solid, bright orange-yellow wall. To the right of the frame, there is a wall decal of a brown tree branch with stylized leaves.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "High",
+      "score": 0.61,
+      "rationale": "The subject demonstrates behaviors consistent with a High level of Extraversion. Her choice to engage in a teaching format places her at the center of social attention, a position comfortable for extraverts. She maintains direct and sustained eye contact with the camera, signaling social confidence and engagement. Furthermore, her use of illustrative hand gestures and vocal emphasis on key phrases reflects an expressive and energetic communication style, characteristic of individuals who draw energy from social interaction.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "High",
+      "score": 0.65,
+      "rationale": "A High level of Agreeableness is indicated by the subject's prosocial and cooperative demeanor. She begins by positively affirming the question ('it's a very good question'), using a warm vocal tone that fosters a collaborative atmosphere. Her relaxed shoulders and brief, subtle smile project approachability and warmth. The entire segment is framed as a helpful, altruistic act of explaining a concept, which strongly aligns with the cooperative nature of high agreeableness.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "High",
+      "score": 0.76,
+      "rationale": "The subject's behavior strongly supports a High Conscientiousness rating. She presents information in a structured, clear, and logical manner, which points to thorough preparation and a goal-oriented mindset. Her focused facial expression, steady vocal pace, and deliberate use of eyebrow raises to emphasize points demonstrate a commitment to clarity and effective task execution. This methodical and dutiful approach to her instructional role is a classic indicator of a conscientious personality.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Medium",
+      "score": 0.46,
+      "rationale": "The subject's Medium Neuroticism score is reflected in her overall emotional stability and composure. She displays no overt signs of anxiety or stress, such as vocal stammering, fidgeting, or gaze avoidance. Her relaxed posture, steady head position, and clear, controlled speech suggest effective emotional regulation. The performance is calm and measured, indicating a person who is generally not prone to negative emotional states, which aligns with a score in the medium, emotionally stable range.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "Medium",
+      "score": 0.5,
+      "rationale": "The Medium score for Openness is appropriate given the context. The subject is engaged in an intellectual task—teaching a grammatical concept—which shows an engagement with abstract systems. However, her approach is highly conventional and rule-based, focusing on concrete applications ('things that are always true ... scientific facts'). Her language is straightforward and lacks imaginative or divergent explorations. This balance between intellectual engagement and a preference for established structure supports a moderate level of Openness.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During 9.0s - 10.4s, the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "An indication of a low Neuroticism level."
+        },
+        {
+          "id": "B",
+          "text": "An indication of a high Agreeableness level."
+        },
+        {
+          "id": "C",
+          "text": "An indication of a high Openness level."
+        },
+        {
+          "id": "D",
+          "text": "An indication of a high Extraversion level."
+        },
+        {
+          "id": "E",
+          "text": "An indication of a high Conscientiousness."
+        },
+        {
+          "id": "F",
+          "text": "An indication of a low Extraversion level."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "The correct answer is D. During this interval, the person uses illustrative hand gestures and vocal emphasis on 'always true'. This expressive and energetic communication style is a classic indicator of High Extraversion.\n\n- Option A is a text-based distractor. While she is calm (low Neuroticism), the specific gestures in this time frame are more about expressiveness than emotional stability.\n- Option B is a video-based distractor. High Agreeableness is supported by her warm tone and smile at the beginning of the video (around 0.8s-2.7s), not by the emphatic gestures at this later time.\n- Option C is a text-based distractor. Speaking about an intellectual topic might suggest Openness, but the specific *mannerisms* in this segment relate to communication style, not intellectual curiosity.\n- Option E is a near-miss distractor. The emphatic gestures also support High Conscientiousness by demonstrating a commitment to clarity. However, they are a more primary and direct indicator of an extraverted, expressive communication style.\n- Option F is a near-miss distractor. It identifies the correct trait dimension (Extraversion) but points in the wrong direction; the behavior is expressive and engaging, which is the opposite of low Extraversion."
+    },
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their high Agreeableness level?",
+      "options": [
+        {
+          "id": "A",
+          "text": "0.0s - 1.0s"
+        },
+        {
+          "id": "B",
+          "text": "6.2s - 7.2s"
+        },
+        {
+          "id": "C",
+          "text": "9.0s - 10.0s"
+        },
+        {
+          "id": "D",
+          "text": "1.9s - 2.9s"
+        },
+        {
+          "id": "E",
+          "text": "11.3s - 12.3s"
+        },
+        {
+          "id": "F",
+          "text": "3.5s - 4.5s"
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "The correct answer is D. The analysis for High Agreeableness highlights her warm vocal tone and 'brief, subtle smile' which projects approachability. This smile occurs when she says 'it's a very good question,' and the interval 1.9s - 2.9s correctly captures this event.\n\n- Option A is a video-based distractor. This interval shows her initial neutral expression before the smile appears.\n- Options B, C, and E are video-based distractors. These intervals correspond to the moments her eyebrows raise for emphasis (around 6.78s, 9.49s, and 11.83s). These expressions are more relevant to Conscientiousness (clarity) or Extraversion (expressiveness) than Agreeableness.\n- Option F is a near-miss distractor. This interval shows her face after it has returned to a neutral, focused state. While it's a phase of her expression, it doesn't represent the key 'change' that signals agreeableness."
+    },
+    {
+      "category": "Mixed Emotion Discrimination",
+      "question": "During 0.8s - 2.7s, the person's emotional state is best characterized as which of the following? Consider both verbal and non-verbal cues.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Deep amusement tempered by a sense of professional restraint."
+        },
+        {
+          "id": "B",
+          "text": "Genuine excitement mixed with a small degree of apprehension."
+        },
+        {
+          "id": "C",
+          "text": "Quiet confidence blended with an air of intellectual curiosity."
+        },
+        {
+          "id": "D",
+          "text": "A sense of polite warmth combined with instructional focus."
+        },
+        {
+          "id": "E",
+          "text": "Calm satisfaction tempered by an overarching desire for clarity."
+        },
+        {
+          "id": "F",
+          "text": "Enthusiastic engagement coupled with a moment of reflection."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "The correct answer is D. In this segment, the person says 'it's a very good question' with a warm, affirming tone and a brief, subtle smile. Simultaneously, her eyebrows remain neutral and her posture is composed, indicating she is moving into the instructional part of her talk. This combination perfectly aligns with polite social warmth mixed with a clear focus on the teaching task at hand.\n\n- Option A is a text-based distractor. 'Amusement' is too strong; her smile is subtle and polite, not indicative of finding something funny.\n- Option B is a text-based distractor. There are no visual or auditory cues to suggest either 'excitement' or 'apprehension'. Her demeanor is calm and controlled.\n- Option C is a near-miss distractor. She is confident, but the primary emotional signal is one of social connection (warmth) rather than internal curiosity.\n- Option E is a near-miss distractor. While she is calm and desires clarity, 'satisfaction' doesn't fully capture the prosocial, welcoming nature of the smile and vocal tone.\n- Option F is a video-based distractor. 'Enthusiastic engagement' might better describe her later use of hand gestures, but her expression in this initial phase is much calmer. There is no evidence of 'reflection'."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 9.5s, a region was detected in the video (x=0.316, y=0.119, w=0.175, h=0.292, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The eyes maintaining steady and direct contact with the camera."
+        },
+        {
+          "id": "B",
+          "text": "The corner of the mouth lifting slightly to form a brief smile."
+        },
+        {
+          "id": "C",
+          "text": "The entire head region being held in a steady, forward-facing pose."
+        },
+        {
+          "id": "D",
+          "text": "The eyebrows lifting slightly to provide emphasis on a spoken word."
+        },
+        {
+          "id": "E",
+          "text": "The overall facial muscles holding a focused and neutral expression."
+        },
+        {
+          "id": "F",
+          "text": "The upper torso area, showing the necklace and top part of the shirt."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "The correct answer is D. The specified bounding box at 9.5s precisely covers the eyebrow region. At this exact moment (timestamp 9.49s is noted in the observation log), the person raises her eyebrows to add emphasis to her speech. Therefore, an eyebrow lift for emphasis is the most prominent action within that specific region.\n\n- Option A is a near-miss distractor. The eyes are near or partially within this bounding box, and she is maintaining eye contact. However, the most distinct *action* at this moment is the movement of the eyebrows, not the static gaze.\n- Option B is a video-based distractor. This action (a smile) occurs, but it happens much earlier in the video (around 2.7s), not at 9.5s.\n- Option C is a text-based distractor. The bounding box is too small to contain the 'entire head region'.\n- Option E is a near-miss distractor. While the rest of her face is relatively neutral and focused, this specific bounding box isolates the one part of her face that is actively moving to make an expression.\n- Option F is a text-based distractor. The coordinates (y=0.119) place the box high on the face, not on the torso."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "The video contains a brief moment early on where the individual's head is held in a notably stable and composed position. Which of the following options correctly identifies the timestamp and bounding box corresponding to this specific head posture?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[9.6s] x=0.14, y=0.79, w=0.56, h=0.21"
+        },
+        {
+          "id": "B",
+          "text": "[4.7s] x=0.28, y=0.04, w=0.31, h=0.60"
+        },
+        {
+          "id": "C",
+          "text": "[9.5s] x=0.32, y=0.12, w=0.17, h=0.29"
+        },
+        {
+          "id": "D",
+          "text": "[12.1s] x=0.16, y=0.85, w=0.64, h=0.15"
+        },
+        {
+          "id": "E",
+          "text": "[1.4s] x=0.26, y=0.07, w=0.28, h=0.48"
+        },
+        {
+          "id": "F",
+          "text": "[4.7s] x=0.31, y=0.05, w=0.27, h=0.51"
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. The observation log for [0.9s - 1.6s] specifically states The subject's head remains relatively stable. The timestamp 1.4s falls within this range, and the bounding box correctly covers the entire head region, matching the description of a stable head posture.\n\n- Options A and D are video-based distractors. These timestamps and bounding boxes correspond to the moments she is using illustrative hand gestures, which are located in the lower half of the frame.\n- Option B is a near-miss distractor. The timestamp is later in the video, and the bounding box is specifically for the eyes, not the overall head posture.\n- Option C is a video-based distractor. This timestamp and bounding box capture the moment of an eyebrow raise for emphasis, a specific facial action rather than a general head posture.\n- Option F is a near-miss distractor. While her head is also stable at 4.7s, this bounding box is for the overall face, and the specific annotation for a stable 'head' is tied to the earlier 0.9s-1.6s segment, making E the most precise match to the description."
+    },
+    {
+      "category": "Counterfactual Reasoning",
+      "question": "If the person had not exhibited the expressive behavior observed around 9.0s - 10.4s, which of the following personality assessments would be most affected?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Agreeableness would be rated lower, as this specific action is the strongest piece of evidence for her cooperative and warm demeanor."
+        },
+        {
+          "id": "B",
+          "text": "Conscientiousness would be rated lower, since this moment is the main indicator of her methodical and dutiful approach to teaching."
+        },
+        {
+          "id": "C",
+          "text": "Neuroticism would be rated much higher, because this behavior serves as the key evidence for her underlying emotional stability."
+        },
+        {
+          "id": "D",
+          "text": "Extraversion would be rated lower, as this moment is a key indicator of her expressive and energetic communication style."
+        },
+        {
+          "id": "E",
+          "text": "Extraversion would be rated much higher, because omitting the behavior would imply a more subtle and self-assured confidence."
+        },
+        {
+          "id": "F",
+          "text": "Openness would be rated much higher, as its absence would suggest a more abstract and less performative intellectual engagement."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "The correct answer is D. The behavior from 9.0s to 10.4s consists of illustrative hand gestures and vocal emphasis. The personality analysis explicitly cites her 'expressive and energetic communication style' as key evidence for High Extraversion. Removing this behavior would eliminate a primary piece of evidence, thus lowering the Extraversion score.\n\n- Option A is a video-based distractor. The evidence for Agreeableness (warm tone, smile) comes from the beginning of the video (~0.8-2.7s), so removing the gestures at 9.0s would not affect the Agreeableness rating.\n- Option B is a near-miss distractor. The gestures do support Conscientiousness by adding clarity, but they are not the 'main indicator'. Her structured speech and focused expression throughout the video provide more foundational evidence for Conscientiousness.\n- Option C is a text-based distractor. The evidence for low Neuroticism (emotional stability) is her overall calm demeanor, steady voice, and lack of fidgeting throughout, not this specific expressive gesture.\n- Option E is a near-miss distractor. It correctly identifies the trait (Extraversion) but proposes the wrong direction of change. Removing an expressive behavior would decrease, not increase, an Extraversion rating.\n- Option F is a text-based distractor. It makes an unsupported leap in logic, connecting the absence of gestures to a higher rating in Openness."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator20",
+      "version": 3,
+      "clues_total": 19,
+      "clues_correct": 14,
+      "clues_wrong_corrected": 5,
+      "clues_missing_skipped": 0,
+      "clues_bonus": 0
+    }
+  }
+}

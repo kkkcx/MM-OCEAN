@@ -1,0 +1,260 @@
+{
+  "video_id": "-mt-IKgGhuY.002.mp4",
+  "video_path": "-mt-IKgGhuY.002.mp4",
+  "transcription": "... think that, I mean, maybe we don't need to be having children anymore, at least not at this current point in time. Maybe we should be focusing on the children that we have created and focusing on giving them a good and loving and, just, positive compassionate ...",
+  "original_scores": {
+    "extraversion": 0.47663551401869164,
+    "agreeableness": 0.6373626373626373,
+    "conscientiousness": 0.4951456310679611,
+    "neuroticism": 0.42708333333333337,
+    "openness": 0.5333333333333333
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 5.1,
+      "description": "The subject maintains direct gaze with the camera. His mouth is open as he speaks. His eyebrows are in a neutral position and his eyes blink naturally.",
+      "bboxes": [
+        {
+          "frame_time": 0.40789,
+          "x": 0.29054276315789473,
+          "y": 0.36929824226780944,
+          "w": 0.2575657894736842,
+          "h": 0.15263157894736842,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 0.40789,
+          "x": 0.31422697368421054,
+          "y": 0.616666663320441,
+          "w": 0.16726973684210528,
+          "h": 0.17894736842105263,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 0.40789,
+          "x": 0.26389802631578946,
+          "y": 0.29561403174149364,
+          "w": 0.2960526315789474,
+          "h": 0.13157894736842105,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 2.112287,
+          "x": 0.3379111842105263,
+          "y": 0.3929824527941252,
+          "w": 0.24572368421052632,
+          "h": 0.16052631578947368,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 5.1,
+      "end_time": 9.3,
+      "description": "His eyebrows raise slightly as he speaks. He closes his eyes for a slightly extended period around 7.5 seconds before returning his gaze to the camera.",
+      "bboxes": [
+        {
+          "frame_time": 6.99974,
+          "x": 0.24613486842105262,
+          "y": 0.29561403174149364,
+          "w": 0.3315789473684211,
+          "h": 0.12105263157894737,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 8.055828,
+          "x": 0.3157072368421053,
+          "y": 0.4035087685835989,
+          "w": 0.22351973684210527,
+          "h": 0.12368421052631579,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 8.764492,
+          "x": 0.29202302631578947,
+          "y": 0.3298245580572831,
+          "w": 0.2501644736842105,
+          "h": 0.19210526315789472,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 9.3,
+      "end_time": 15,
+      "description": "The subject's eyebrows raise and lower in sync with his speech for emphasis. He looks slightly up and to his right at 10.1 seconds before returning his gaze to the camera. He closes his eyes for an extended moment from 12.8 to 13.3 seconds while speaking.",
+      "bboxes": [
+        {
+          "frame_time": 14.862453,
+          "x": 0.2757401315789474,
+          "y": 0.3061403475309673,
+          "w": 0.2930921052631579,
+          "h": 0.15526315789473685,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 11.0713,
+          "x": 0.25057565789473685,
+          "y": 0.35350876858359886,
+          "w": 0.29161184210526314,
+          "h": 0.16578947368421051,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 15,
+      "description": "The subject is shown from the chest up. His head is mostly still, with small, subtle nods and turns that correspond to the rhythm and emphasis of his speech.",
+      "bboxes": [
+        {
+          "frame_time": 1.04886,
+          "x": 0.1365953947368421,
+          "y": 0.09035087384675679,
+          "w": 0.6261513157894737,
+          "h": 0.9,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 3.650689,
+          "x": 0.2698190789473684,
+          "y": 0.09035087384675679,
+          "w": 0.30641447368421054,
+          "h": 0.7868421052631579,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 5.1,
+      "description": "Speech is delivered at a moderate, consistent pace with a relatively stable pitch, falling slightly at the end of the phrase \"point in time.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 5.1,
+      "end_time": 9.3,
+      "description": "The pitch rises at the beginning of the sentence on the word \"Maybe.\" There is vocal stress and a slight increase in volume on the word \"focusing.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 9.3,
+      "end_time": 15,
+      "description": "The pace becomes more deliberate, with clear vocal stress and rising intonation on the words \"good,\" \"loving,\" and \"positive compassionate.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15,
+      "description": "The subject is a young man with a light skin tone, long brown hair, a beard, and black-framed glasses. He is wearing a white and grey striped t-shirt. The setting is an indoor room with grey walls. To the viewer's right, a darker wall with a grey leaf pattern is visible, along with a dark couch with a red blanket. To the viewer's left, there is a piece of exercise equipment, a white door, a framed picture, and a dark curtain. The lighting is diffuse and comes from the front.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Medium",
+      "score": 0.48,
+      "rationale": "The subject's Extraversion is assessed as Medium. While he maintains direct and steady eye contact with the camera, a sign of social confidence, his overall energy is moderate and controlled. His head remains mostly still, and his speech is delivered at a steady, deliberate pace rather than being rapid or boisterous. He uses vocal intonation and eyebrow movements for emphasis, indicating expressiveness, but the low-key physical energy suggests a balance between social engagement and personal reserve, which is characteristic of individuals in the mid-range of the extraversion spectrum.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "High",
+      "score": 0.64,
+      "rationale": "The High Agreeableness rating is strongly supported by the content and delivery of the subject's speech. He explicitly advocates for focusing on children with 'good and loving and, just, positive compassionate' care. The verbal content is a direct expression of prosocial and compassionate values. This sentiment is reinforced by his delivery; his speech becomes more deliberate, and he places clear vocal stress and rising intonation on these altruistic words, indicating their personal importance and sincerity. This combination of compassionate content and earnest delivery is a key indicator of high Agreeableness.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Medium",
+      "score": 0.5,
+      "rationale": "The subject's Conscientiousness is rated as Medium. His communication is structured and articulate; he presents a premise and then elaborates on it in a logical sequence. The use of more 'deliberate' pacing and vocal emphasis towards the end suggests thoughtful word choice and an organized thought process. However, the available cues are limited to this short speech segment. There is no strong evidence pointing toward either extreme of the spectrum (e.g., exceptional organization or marked impulsivity). Therefore, his clear and methodical communication style supports a moderate level of conscientiousness.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Medium",
+      "score": 0.43,
+      "rationale": "The Medium score for Neuroticism reflects a general state of emotional stability. The subject maintains a calm demeanor throughout the clip, with a steady vocal pace and minimal, controlled head movements. He shows no overt signs of anxiety or distress, such as fidgeting, voice wavering, or excessive blinking. His ability to discuss a complex topic while maintaining composure suggests a low level of negative emotionality. The score remains in the medium range, as opposed to low, because he shows appropriate emotional engagement with his topic through expressive intonation and facial cues, reflecting a normal, regulated emotional responsiveness rather than complete stoicism.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "Medium",
+      "score": 0.53,
+      "rationale": "The subject's Openness is rated as Medium, primarily based on the intellectual content of his statement. He engages with an abstract and unconventional idea—questioning the need for procreation to better care for existing children. This willingness to explore and articulate a complex, non-traditional viewpoint is a marker of intellectual curiosity. His thoughtful, deliberate delivery when discussing values like 'compassionate' care further suggests an engagement with abstract concepts. The evidence is confined to this single idea, and his overall presentation is not overtly eccentric or artistic, placing him comfortably in the medium range for this trait.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "Which timestamp and bounding box combination best captures the moment of maximal non-verbal emphasis coinciding with the articulation of a core value word?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Time=8.1s, Bbox=(x=0.316, y=0.404, w=0.224, h=0.124)"
+        },
+        {
+          "id": "B",
+          "text": "Time=14.9s, Bbox=(x=0.276, y=0.306, w=0.293, h=0.155)"
+        },
+        {
+          "id": "C",
+          "text": "Time=7.0s, Bbox=(x=0.246, y=0.296, w=0.332, h=0.121)"
+        },
+        {
+          "id": "D",
+          "text": "Time=14.9s, Bbox=(x=0.314, y=0.617, w=0.167, h=0.179)"
+        },
+        {
+          "id": "E",
+          "text": "Time=0.4s, Bbox=(x=0.264, y=0.296, w=0.296, h=0.132)"
+        },
+        {
+          "id": "F",
+          "text": "Time=11.1s, Bbox=(x=0.276, y=0.306, w=0.293, h=0.155)"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. At 14.9s, as the subject says one of his final compassionate words, his eyebrows move up and down to provide the strongest moment of non-verbal emphasis in the clip. The bounding box correctly isolates the eyebrow region during this peak expressive moment.\n\n- Option A is a video-based distractor. This timestamp and bbox correspond to a moment where he is blinking, which is not a moment of maximal emphasis.\n- Option C is a near-miss distractor. This corresponds to the earlier eyebrow raise at 7.0s. While it is a moment of emphasis, the question asks for the *maximal* emphasis during the articulation of a *core value word*, which occurs at the end of the video.\n- Option D is a near-miss distractor. It has the correct timestamp (14.9s) but provides a bounding box for the mouth region from a different time, testing for spatial precision.\n- Option E is a video-based distractor. This captures the eyebrows at the very beginning of the clip when they are in a neutral position, not providing any emphasis.\n- Option F is a near-miss distractor. It uses the correct bounding box for the eyebrows but at an earlier time (11.1s) within the final phrase, before the emphasis has reached its peak."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator17",
+      "version": 1,
+      "clues_total": 17,
+      "clues_correct": 13,
+      "clues_wrong_corrected": 2,
+      "clues_missing_skipped": 2,
+      "clues_bonus": 0
+    }
+  }
+}

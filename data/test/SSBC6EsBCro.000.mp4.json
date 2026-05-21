@@ -1,0 +1,439 @@
+{
+  "video_id": "SSBC6EsBCro.000.mp4",
+  "video_path": "SSBC6EsBCro.000.mp4",
+  "transcription": "It'd be nice to live in California, because the whole thing about me is I like movies. I like doing movies, being in movies, and I would love to be like an actor. California would be a good ...",
+  "original_scores": {
+    "extraversion": 0.36448598130841126,
+    "agreeableness": 0.3846153846153846,
+    "conscientiousness": 0.4854368932038835,
+    "neuroticism": 0.3854166666666667,
+    "openness": 0.5111111111111111
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 9.92,
+      "description": "The subject maintains a direct gaze toward the camera, blinking at a natural rate. His eyebrows remain in a neutral position, lifting very slightly on the word \"California.\" His mouth moves in sync with his speech.",
+      "bboxes": [
+        {
+          "frame_time": 1.950476,
+          "x": 0.4740953947368421,
+          "y": 0.42192982121517786,
+          "w": 0.140625,
+          "h": 0.13157894736842105,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 2.858298,
+          "x": 0.41932565789473686,
+          "y": 0.4771929791099147,
+          "w": 0.19391447368421053,
+          "h": 0.07631578947368421,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 2.858298,
+          "x": 0.45485197368421054,
+          "y": 0.6535087685835989,
+          "w": 0.10213815789473685,
+          "h": 0.08947368421052632,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 9.92,
+      "end_time": 12.56,
+      "description": "As he says, \"I would love to be like an actor,\" his eyebrows raise significantly, and his eyes widen slightly, creating an expressive look of emphasis.",
+      "bboxes": [
+        {
+          "frame_time": 10.401205,
+          "x": 0.4208059210526316,
+          "y": 0.1771929791099147,
+          "w": 0.18947368421052632,
+          "h": 0.45,
+          "note": "human-annotated",
+          "region": "unknown"
+        },
+        {
+          "frame_time": 10.401205,
+          "x": 0.4296875,
+          "y": 0.25877192647833575,
+          "w": 0.1569078947368421,
+          "h": 0.12368421052631579,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 10.401205,
+          "x": 0.4252467105263158,
+          "y": 0.30087718963623045,
+          "w": 0.17615131578947368,
+          "h": 0.11578947368421053,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 12.56,
+      "end_time": 15.11,
+      "description": "His facial expression returns to a more neutral state, with his eyebrows lowering. He maintains his direct gaze at the camera.",
+      "bboxes": [
+        {
+          "frame_time": 12.885265,
+          "x": 0.4163651315789474,
+          "y": 0.316666663320441,
+          "w": 0.2042763157894737,
+          "h": 0.35789473684210527,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 14.475232,
+          "x": 0.40008223684210525,
+          "y": 0.35350876858359886,
+          "w": 0.18207236842105262,
+          "h": 0.12105263157894737,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 14.475232,
+          "x": 0.4385690789473684,
+          "y": 0.4008771896362305,
+          "w": 0.1361842105263158,
+          "h": 0.11578947368421053,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 10.4,
+      "description": "The subject sits still and upright, facing the camera. His head remains relatively stationary with only minor, subtle movements corresponding to his speech.",
+      "bboxes": [
+        {
+          "frame_time": 0.776537,
+          "x": 0.37639802631578945,
+          "y": 0.22192982121517785,
+          "w": 0.3138157894736842,
+          "h": 0.6789473684210526,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 0.776537,
+          "x": 0.38675986842105264,
+          "y": 0.22192982121517785,
+          "w": 0.2768092105263158,
+          "h": 0.6657894736842105,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 10.4,
+      "end_time": 11.9,
+      "description": "His right hand, previously out of frame, rises into the lower right of the frame and makes a brief, small outward gesture.",
+      "bboxes": [
+        {
+          "frame_time": 11.413536,
+          "x": 0.779029605263158,
+          "y": 0.6929824527941252,
+          "w": 0.2087171052631579,
+          "h": 0.3026315789473684,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 11.9,
+      "end_time": 15.11,
+      "description": "The right hand moves back down and out of the frame. The subject's head performs a small, slow nod as he begins to speak again.",
+      "bboxes": [
+        {
+          "frame_time": 13.271169,
+          "x": 0.5777138157894737,
+          "y": 0.8456140317414936,
+          "w": 0.2131578947368421,
+          "h": 0.15263157894736842,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 1.02,
+      "end_time": 9.87,
+      "description": "The subject speaks at a moderate and consistent rate. His pitch is mostly level, with a slight rise on the word \"California.\" The word \"movies\" receives slight stress each time it is uttered.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 9.87,
+      "end_time": 12.16,
+      "description": "When saying \"I would love to be like an actor,\" the subject's pitch rises noticeably on the word \"love,\" which is also delivered with a slight increase in volume for emphasis.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 12.16,
+      "end_time": 15.11,
+      "description": "After a brief pause, he begins speaking again with a steady volume and a slightly falling, declarative intonation before the audio cuts off.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.11,
+      "description": "A young male with fair skin and dark brown hair that is styled up in the front. He wears small stud earrings in both earlobes. He is wearing a black crew-neck t-shirt and a baseball cap with a desert camouflage pattern, which is worn backward and tilted to his right. The underside of the cap's brim is neon green. The setting is indoors, against a plain, off-white wall, with soft, even frontal lighting.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 9.484951,
+      "end_time": 10.484951,
+      "description": "Subject's face is longer",
+      "bboxes": [
+        {
+          "frame_time": 9.984951,
+          "x": 0.40896381578947366,
+          "y": 0.18508771595201995,
+          "w": 0.17319078947368421,
+          "h": 0.4236842105263158,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Low",
+      "score": 0.36,
+      "rationale": "The subject's Extraversion score is Low. This is supported by a generally reserved demeanor. His vocal delivery is at a moderate, consistent pace with a mostly flat tone, and his body is relatively still, lacking the broad, energetic gestures typical of high extraversion. While there is a brief spike in emotional expression when discussing a passion, his baseline behavior, including a tendency to avert his gaze and use minimal gesticulation, is more indicative of an introverted character.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Low",
+      "score": 0.38,
+      "rationale": "The subject's Agreeableness is rated as Low. This assessment is based on a lack of overt pro-social signals. His facial expression is predominantly neutral throughout the clip, and he does not employ smiles or other affiliative cues to build rapport with the viewer. His vocal tone is largely declarative and matter-of-fact, suggesting a direct communication style that is less focused on creating social warmth, a characteristic consistent with lower Agreeableness.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Medium",
+      "score": 0.49,
+      "rationale": "The subject scores in the Medium range for Conscientiousness. This is reflected in a blend of task-focused behavior and a casual presentation. He sits upright and articulates a clear, linear thought, demonstrating dutifulness. However, his personal style, particularly the backward and tilted cap, suggests a relaxed approach that is not overly concerned with formal presentation or meticulousness. This balance supports a moderate level of Conscientiousness.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Low",
+      "score": 0.39,
+      "rationale": "The subject's score indicates Low Neuroticism (high emotional stability). This is strongly supported by his calm and composed physical presence. For most of the clip, he maintains steady eye contact with the camera, exhibits a natural blink rate, and his posture is relaxed yet upright. His speech is delivered at a consistent pace, free from vocal tremors or hesitation that would suggest anxiety. These behaviors collectively paint a picture of an individual who is secure and emotionally stable.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "Medium",
+      "score": 0.51,
+      "rationale": "The subject's Openness is rated as Medium. He demonstrates key markers of this trait by expressing a desire to be an actor and a love for movies—pursuits linked to imagination and aesthetics. His individualistic style (earrings, distinct cap) also points to an appreciation for self-expression. However, his verbal communication is direct and concrete. This combination of creative interests articulated in a straightforward manner, rather than through abstract or complex language, is consistent with a moderate level of Openness.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During 9.9s - 12.6s, the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "High level of Extraversion due to the expressive communication style."
+        },
+        {
+          "id": "B",
+          "text": "Low degree of Neuroticism due to the speaker's overall calm posture."
+        },
+        {
+          "id": "C",
+          "text": "High Conscientiousness score stemming from discussion of life goals."
+        },
+        {
+          "id": "D",
+          "text": "Low level of Agreeableness as shown by their direct, factual speaking."
+        },
+        {
+          "id": "E",
+          "text": "Medium Openness to Experience, reflecting a core creative interest."
+        },
+        {
+          "id": "F",
+          "text": "High Openness to Experience given the unique and imaginative desires."
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The behavior in this segment (raised eyebrows, widened eyes, vocal emphasis on 'love to be like an actor') is the primary evidence for the subject's creative and aesthetic interests, which are central to Openness. The analysis rates it as Medium because this creative interest is expressed in a direct, concrete manner. Option E correctly identifies the trait and the level supported by this specific moment.\n\n- Option A is a text-based distractor; while acting is a public profession, the subject's overall demeanor is reserved and low-energy, indicating low, not high, Extraversion.\n- Option B is a video-based distractor; the evidence for Low Neuroticism (calm posture, steady voice) comes from the *rest* of the video (e.g., 0s-9s), not this specific moment of emotional expression.\n- Option C is a text-based distractor; discussing goals can relate to Conscientiousness, but the primary cue here is emotional and creative passion, not dutiful planning.\n- Option D is a video-based distractor; the evidence for Low Agreeableness comes from the neutral, non-affiliative expressions elsewhere, not this particular moment of passion.\n- Option F is a near-miss distractor; it correctly identifies the trait (Openness) but gets the level wrong. The analysis supports a Medium level because the passion is conveyed through simple, direct language, not abstract or complex ideation, which would suggest a High level."
+    },
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their Openness level?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[1.5s - 2.7s]"
+        },
+        {
+          "id": "B",
+          "text": "[4.0s - 5.2s]"
+        },
+        {
+          "id": "C",
+          "text": "[7.3s - 8.5s]"
+        },
+        {
+          "id": "D",
+          "text": "[12.8s - 14.0s]"
+        },
+        {
+          "id": "E",
+          "text": "[9.9s - 11.1s]"
+        },
+        {
+          "id": "F",
+          "text": "[0.5s - 1.7s]"
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The interval from 9.9s - 11.1s is when the subject says \"I would love to be like an actor.\" This is accompanied by the most significant expressive change in the video: his eyebrows raise, his eyes widen, and his vocal tone shifts upward. This moment of affective display is the key piece of evidence for his creative interests, a core facet of Openness.\n\n- Option A is a video-based distractor; this interval shows the subject speaking with a neutral expression at the beginning of his statement.\n- Option B is a video-based distractor; this interval captures a moment of continued neutral speech with minimal facial movement.\n- Option C is a video-based distractor; this interval shows the subject finishing a phrase with a neutral expression before pausing.\n- Option D is a video-based distractor; this interval shows the subject's expression returning to neutral and his gaze shifting away from the camera after the moment of passion.\n- Option F is a video-based distractor; this interval captures the very beginning of the clip where the subject is in a neutral, resting state."
+    },
+    {
+      "category": "Temporal-Causal Reasoning",
+      "question": "Consider the sequence of behaviors observed across the video. Which of the following best describes the causal chain linking the person's actions at different moments?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A display of self-monitoring prompts a compensatory emotional disclosure, which resolves into a final state of detached analysis."
+        },
+        {
+          "id": "B",
+          "text": "An affective disclosure is used to reinforce a declarative statement, which is then followed by a non-verbal thought-gathering cue."
+        },
+        {
+          "id": "C",
+          "text": "A period of self-regulation is followed by a planned emotional display, which then reverts back to the initial declarative state."
+        },
+        {
+          "id": "D",
+          "text": "A moment of emotional regulation leads to an illustrative gesture, which in turn causes the initial declarative statement to be made."
+        },
+        {
+          "id": "E",
+          "text": "An initial declarative state leads to a moment of affective disclosure, followed by a self-regulating behavior to manage the display."
+        },
+        {
+          "id": "F",
+          "text": "An illustrative gesture causes a moment of emotional disclosure, which in turn prompts the initial declarative statement to be made."
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The video follows a clear temporal and causal sequence: (1) The subject begins with a calm, factual statement (declarative state, 0-9.9s). (2) This thought process leads him to express a personal passion (affective disclosure, 9.9s-12.6s). (3) Immediately following this emotional peak, he returns to a neutral state and averts his gaze (self-regulating behavior, 12.6s-15.1s). Option E correctly maps this chain.\n\n- Option A is a text-based distractor; there is no clear evidence of 'compensatory' disclosure or 'detached analysis'.\n- Option B is a near-miss distractor; the causality is slightly off. The disclosure doesn't just 'reinforce' the statement, it naturally flows from it, and the final action is more about emotional regulation than thought-gathering.\n- Option C is a near-miss distractor; it misinterprets the initial calm state as 'self-regulation' and implies the emotional display was 'planned' rather than spontaneous.\n- Option D is a distractor with reversed temporal order; the declarative statement comes first, not last.\n- Option F is a distractor with reversed temporal order and incorrect causality; the illustrative gesture accompanies the emotional disclosure, it does not cause it, and both happen after the initial statement."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 11.4s, a region was detected in the video (x=0.779, y=0.693, w=0.209, h=0.303, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The person's mouth is seen moving in synchronization with their speech."
+        },
+        {
+          "id": "B",
+          "text": "A steady and direct gaze toward the video camera is clearly maintained."
+        },
+        {
+          "id": "C",
+          "text": "A brief, contemplative nod of the head is observed within the frame."
+        },
+        {
+          "id": "D",
+          "text": "A subtle illustrative gesture is being made with the person's right hand."
+        },
+        {
+          "id": "E",
+          "text": "A subtle illustrative gesture is being made with the person's left hand."
+        },
+        {
+          "id": "F",
+          "text": "The person's eyebrows are lowering into a neutral resting state again."
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The specified coordinates at 11.4s isolate the bottom right area of the screen where the subject's left hand briefly enters the frame and makes a small outward gesture to emphasize his point about wanting to be an actor. Option E accurately describes this action.\n\n- Option A is a video-based distractor; the mouth is moving, but it is located in a different spatial region (center of the screen).\n- Option B is a video-based distractor; the eyes are in a different spatial region.\n- Option C is a text-based distractor; this action does not occur at all in the video, as confirmed by the negative evidence notes.\n- Option D is a near-miss distractor; a gesture is correctly identified, but it is made with the left hand, not the right. This is a common AI error pattern.\n- Option F is a video-based distractor; this describes the eyebrow movement, which occurs in a different spatial region and at a slightly later time (after 12.6s)."
+    },
+    {
+      "category": "Counterfactual Reasoning",
+      "question": "If the person had NOT exhibited the behavior observed around 9.9s - 12.6s, which of the following personality assessments would be MOST affected?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Agreeableness would be rated higher, as the subject's most direct verbal statement would be absent from the full evaluation."
+        },
+        {
+          "id": "B",
+          "text": "The Neuroticism score would be less certain, because his calm baseline posture at the start would lose some of its context."
+        },
+        {
+          "id": "C",
+          "text": "The Extraversion rating would likely increase, because a period of intense focus could be seen as less introverted behavior."
+        },
+        {
+          "id": "D",
+          "text": "The Openness assessment would be revised upward, because this display could otherwise be interpreted as somewhat insincere."
+        },
+        {
+          "id": "E",
+          "text": "The Openness assessment would be revised downward, as this moment provides key evidence for the person's creative interests."
+        },
+        {
+          "id": "F",
+          "text": "Conscientiousness would be rated lower, because this part contains the clearest articulation of a long-term personal career goal."
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The behavior from 9.9s-12.6s is the expressive moment about loving movies and wanting to be an actor. This is the single strongest piece of evidence in the clip for Openness to Experience, as it relates to aesthetics and imagination. Without this segment, the primary support for a Medium Openness score would vanish, likely causing the assessment to be revised downward.\n\n- Option A is a text-based distractor; his low agreeableness is supported by a general lack of affiliative cues throughout, not just this one moment. Removing it would have little effect.\n- Option B is a video-based distractor; the strong evidence for Low Neuroticism is his calm state throughout the rest of the video (e.g., 0-9s, 13-15s), which would still stand on its own.\n- Option C is a near-miss distractor with an incorrect direction of change; removing this expressive moment would likely lower, not increase, the Extraversion score, as it's his most outwardly energetic behavior.\n- Option D is a near-miss distractor; it correctly identifies the relevant trait (Openness) but suggests the opposite effect. Removing the evidence would weaken the assessment, not strengthen it.\n- Option F is a text-based distractor; while he does mention a career goal, the assessment of Medium Conscientiousness is also based on his linear, focused articulation style and upright posture, which are present throughout the video."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator06",
+      "version": 1,
+      "clues_total": 19,
+      "clues_correct": 12,
+      "clues_wrong_corrected": 5,
+      "clues_missing_skipped": 1,
+      "clues_bonus": 1
+    }
+  }
+}

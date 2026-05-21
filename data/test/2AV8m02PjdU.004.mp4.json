@@ -1,0 +1,536 @@
+{
+  "video_id": "2AV8m02PjdU.004.mp4",
+  "video_path": "2AV8m02PjdU.004.mp4",
+  "transcription": "My back is extremely sore and my legs are really weak. I can't really stand up, so I've just decided to sit down. It's really, really freaking hot in here so I'm going to try to be quick. I'm sorry if I look horrid. I tried to look my best, but the heat-",
+  "original_scores": {
+    "extraversion": 0.38317757009345793,
+    "agreeableness": 0.4615384615384615,
+    "conscientiousness": 0.2621359223300971,
+    "neuroticism": 0.2395833333333333,
+    "openness": 0.6666666666666666
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 7.59,
+      "description": "The subject maintains eye contact with the camera while speaking. Their facial expression is relatively neutral, with eyebrows relaxed and mouth movements corresponding to their speech.",
+      "bboxes": [
+        {
+          "frame_time": 0,
+          "x": 0.2839506172839506,
+          "y": 0.42592592592592593,
+          "w": 0.2052469135802469,
+          "h": 0.10425240054869685,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 0,
+          "x": 0.2839506172839506,
+          "y": 0.4122085048010974,
+          "w": 0.20679012345679013,
+          "h": 0.31275720164609055,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 0,
+          "x": 0.29012345679012347,
+          "y": 0.38477366255144035,
+          "w": 0.19444444444444445,
+          "h": 0.06310013717421124,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 0,
+          "x": 0.3333333333333333,
+          "y": 0.6015089163237312,
+          "w": 0.10802469135802469,
+          "h": 0.07956104252400549,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 7.59,
+      "end_time": 8.35,
+      "description": "The subject briefly covers their mouth with their right hand. Their eyes are slightly narrowed, as if tired or suppressing a yawn.",
+      "bboxes": [
+        {
+          "frame_time": 8.355958,
+          "x": 0.31635802469135804,
+          "y": 0.5274348422496571,
+          "w": 0.28703703703703703,
+          "h": 0.3347050754458162,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 8.355958,
+          "x": 0.4012345679012346,
+          "y": 0.4286694101508916,
+          "w": 0.18981481481481483,
+          "h": 0.15089163237311384,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 8.35,
+      "end_time": 11.23,
+      "description": "After uncovering their mouth, the subject's eyes widen slightly and eyebrows lift as they speak.",
+      "bboxes": [
+        {
+          "frame_time": 10.400159,
+          "x": 0.4058641975308642,
+          "y": 0.5713305898491083,
+          "w": 0.11419753086419752,
+          "h": 0.1728395061728395,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 10.400159,
+          "x": 0.3888888888888889,
+          "y": 0.3792866941015089,
+          "w": 0.2006172839506173,
+          "h": 0.18381344307270234,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 10.400159,
+          "x": 0.36882716049382713,
+          "y": 0.33539094650205764,
+          "w": 0.23919753086419754,
+          "h": 0.13168724279835392,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 11.23,
+      "end_time": 15.2,
+      "description": "The subject's expression becomes slightly apologetic, with eyebrows remaining slightly raised and a small, strained smile forming as they speak.",
+      "bboxes": [
+        {
+          "frame_time": 11.23,
+          "x": 0.36574074074074076,
+          "y": 0.30246913580246915,
+          "w": 0.23919753086419754,
+          "h": 0.5130315500685871,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 11.23,
+          "x": 0.2978395061728395,
+          "y": 0.4149519890260631,
+          "w": 0.1867283950617284,
+          "h": 0.12071330589849108,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 11.23,
+          "x": 0.345679012345679,
+          "y": 0.6152263374485597,
+          "w": 0.12345679012345678,
+          "h": 0.13991769547325103,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 0.77,
+      "description": "The subject, sitting, raises their right hand to touch their left shoulder area before lowering it out of frame.",
+      "bboxes": [
+        {
+          "frame_time": 0,
+          "x": 0.09259259259259259,
+          "y": 0.406721536351166,
+          "w": 0.625,
+          "h": 0.593278463648834,
+          "note": "human-annotated",
+          "region": "unknown"
+        },
+        {
+          "frame_time": 0,
+          "x": 0.4691358024691358,
+          "y": 0.5603566529492455,
+          "w": 0.2021604938271605,
+          "h": 0.41975308641975306,
+          "note": "pose human-annotated",
+          "region": "shoulders"
+        },
+        {
+          "frame_time": 0,
+          "x": 0.5,
+          "y": 0.5877914951989026,
+          "w": 0.18364197530864199,
+          "h": 0.3840877914951989,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0.77,
+      "end_time": 7.42,
+      "description": "The subject remains seated and relatively still, with their head making small, natural movements as they speak.",
+      "bboxes": [
+        {
+          "frame_time": 0.77,
+          "x": 0.09722222222222222,
+          "y": 0.39026063100137176,
+          "w": 0.5509259259259259,
+          "h": 0.6008230452674898,
+          "note": "pose human-annotated",
+          "region": "torso"
+        },
+        {
+          "frame_time": 0.77,
+          "x": 0.13580246913580246,
+          "y": 0.18998628257887518,
+          "w": 0.3611111111111111,
+          "h": 0.6721536351165981,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 7.42,
+      "end_time": 8.7,
+      "description": "The subject raises their right hand to cover their mouth and then lowers it.",
+      "bboxes": [
+        {
+          "frame_time": 7.42,
+          "x": 0.3395061728395062,
+          "y": 0.4725651577503429,
+          "w": 0.19444444444444445,
+          "h": 0.252400548696845,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 7.42,
+          "x": 0.47685185185185186,
+          "y": 0.659122085048011,
+          "w": 0.16820987654320987,
+          "h": 0.34087791495198905,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 8.7,
+      "end_time": 11.45,
+      "description": "The subject raises their right hand again, gesturing near their face with an open palm before making a broad, upward fanning motion.",
+      "bboxes": [
+        {
+          "frame_time": 10.654826,
+          "x": 0.5972222222222222,
+          "y": 0.35459533607681754,
+          "w": 0.19290123456790123,
+          "h": 0.49108367626886146,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 10.654826,
+          "x": 0.5570987654320988,
+          "y": 0.19821673525377229,
+          "w": 0.14660493827160495,
+          "h": 0.4663923182441701,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 10.654826,
+          "x": 0.5679012345679012,
+          "y": 0.15432098765432098,
+          "w": 0.13425925925925927,
+          "h": 0.40329218106995884,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 11.45,
+      "end_time": 14.81,
+      "description": "The subject brings their right hand to their head, running their fingers through the hair at the top and side of their head.",
+      "bboxes": [
+        {
+          "frame_time": 11.45,
+          "x": 0.26851851851851855,
+          "y": 0.22016460905349794,
+          "w": 0.2824074074074074,
+          "h": 0.44718792866941015,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 5.48,
+      "description": "Speech is delivered at a moderate, slightly languid pace. The pitch is relatively low and stable, and the vocal tone is subdued.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 5.48,
+      "end_time": 11.21,
+      "description": "The rate of speech increases, with a slight rise in pitch and emphasis on the words \"really, really freaking hot.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 11.21,
+      "end_time": 15.2,
+      "description": "The pace returns to a moderate speed. The voice has a slightly breathy quality, and the pitch rises on the word \"sorry\" before the audio cuts off mid-word.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.2,
+      "description": "The subject is a young person with a fair complexion, short lavender-colored hair, and black-framed glasses. They are wearing a black and white polka-dot top and a purple and black choker with a bat charm. The background is an indoor room with an off-white wall, a white dresser with a mirror, and a container of pens or brushes visible on the left. The lighting is bright and even.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Low",
+      "score": 0.38,
+      "rationale": "The subject's Extraversion is rated as Low. This is supported by their generally low energy level, evidenced by a languid speaking pace, low vocal pitch, and physical stillness for a significant portion of the video. The initial focus on physical discomfort ('sore back,' 'weak legs') suggests an inward focus, which is common in individuals with lower extraversion. While they are creating a video, a form of social communication, their demeanor lacks the assertive enthusiasm and animated gesturing typically seen in highly extraverted individuals. Their movements appear more as self-soothing or pacifying behaviors rather than expressive social signals.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Medium",
+      "score": 0.46,
+      "rationale": "The subject's Agreeableness is rated as Medium. They exhibit clear pro-social behaviors, such as explicitly apologizing for their appearance ('I'm sorry if I look horrid') and attempting to manage the viewer's impression ('I tried to look my best'). This demonstrates a consideration for others' feelings, a core component of agreeableness. However, the score remains in the medium range because the subject also candidly expresses their physical discomfort and environmental complaints ('extremely sore,' 'freaking hot') without significant filtering, indicating a balance between self-expression and concern for social harmony.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Low",
+      "score": 0.26,
+      "rationale": "The subject's Conscientiousness is rated as Low. This is indicated by their spontaneous and seemingly unprepared start to the recording. They immediately offer disclaimers about their physical state and appearance, suggesting a tendency to proceed with tasks without meticulous preparation. The stated intention to be 'quick' due to the heat further implies a focus on expediency over thoroughness. This impromptu style, prioritizing immediate feelings over a structured presentation, is characteristic of individuals with lower levels of conscientiousness.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Low",
+      "score": 0.24,
+      "rationale": "The subject's Neuroticism is rated as Low. Despite verbalizing physical discomfort and environmental complaints, their emotional expression remains remarkably stable. The vocal delivery is largely calm, with a 'low, stable pitch,' and their facial expression is 'relatively neutral' for most of the clip. There are no significant displays of anxiety, distress, or emotional volatility. This calm handling of negative stimuli is a strong indicator of emotional stability and thus low neuroticism.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "High",
+      "score": 0.67,
+      "rationale": "The subject's Openness is rated as High. This is strongly suggested by their distinct and unconventional aesthetic choices, including light purple hair and a bat pendant choker. Such creative self-expression is a classic hallmark of individuals high in openness, who value novelty, aesthetics, and individuality. The act of creating a personal video to share thoughts and feelings, even when not at their best, further points to a comfort with self-exploration and expression.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During 0.8s - 7.4s, the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "High level of the Neuroticism trait due to verbalizing physical issues."
+        },
+        {
+          "id": "B",
+          "text": "Low level of the Agreeableness trait due to the complaining statements."
+        },
+        {
+          "id": "C",
+          "text": "High level of the Openness trait due to the creative self-presentation."
+        },
+        {
+          "id": "D",
+          "text": "High level of the Extraversion trait due to engaging with the camera."
+        },
+        {
+          "id": "E",
+          "text": "Low level of the Extraversion trait due to the low energy and stillness."
+        },
+        {
+          "id": "F",
+          "text": "Low level of the Conscientiousness trait due to the impromptu speech."
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "During this interval, the person remains physically still and speaks in a low-energy, languid tone about their internal state. This inward focus and lack of animated energy are primary indicators for Low Extraversion. \nOption A is a text-based distractor; while they verbalize discomfort, their emotional expression is calm and stable, indicating Low Neuroticism. \nOption B is a text-based distractor; complaining might seem disagreeable, but other behaviors like the apology at 11.2s balance this, leading to a Medium Agreeableness score. \nOption C is a video-based distractor; High Openness is supported by their appearance (hair, jewelry), which is a static feature, not the behavior in this specific time range. \nOption D is a near-miss distractor; it identifies the correct dimension (Extraversion) but in the wrong direction, as the behavior is lethargic, not energetic. \nOption F is a video-based distractor; Low Conscientiousness is supported by the overall unprepared nature of the video, not specifically the stillness in this interval."
+    },
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their Agreeableness level?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[0.0s - 1.5s]"
+        },
+        {
+          "id": "B",
+          "text": "[3.5s - 5.0s]"
+        },
+        {
+          "id": "C",
+          "text": "[7.6s - 8.3s]"
+        },
+        {
+          "id": "D",
+          "text": "[8.4s - 9.9s]"
+        },
+        {
+          "id": "E",
+          "text": "[11.2s - 12.7s]"
+        },
+        {
+          "id": "F",
+          "text": "[5.5s - 7.0s]"
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The interval [11.2s - 12.7s] captures the onset of the apologetic expression, where the person says 'I'm sorry,' their eyebrows raise, and their mouth forms a small, tight smile. This pro-social, impression-managing behavior is the strongest single piece of evidence for their Medium Agreeableness. \nOption A is a video-based distractor, capturing the initial settling-in period with no significant emotional expression. \nOption B is a video-based distractor, falling within the long period of neutral expression. \nOption C is a near-miss distractor; a significant facial action occurs here (covering the mouth, squinting eyes), but it relates more to self-consciousness or fatigue rather than the pro-social dimension of Agreeableness. \nOption D is a video-based distractor, occurring as the person is gesturing but before the key apologetic facial expression has fully formed. \nOption F is a video-based distractor, covering the transition to a slightly faster speaking pace but with no corresponding facial expression change relevant to Agreeableness."
+    },
+    {
+      "category": "Mixed Emotion Discrimination",
+      "question": "During 11.2s - 15.2s, the person's emotional state is best characterized as which of the following? Consider both verbal and non-verbal cues.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Profound exhaustion combined with a feeling of genuine despair."
+        },
+        {
+          "id": "B",
+          "text": "Wistful regret combined with a feeling of deep life resignation."
+        },
+        {
+          "id": "C",
+          "text": "Subtle annoyance concealed by a mask of very forced politeness."
+        },
+        {
+          "id": "D",
+          "text": "Quiet self-consciousness mixed with a display of inner defiance."
+        },
+        {
+          "id": "E",
+          "text": "Mild social awkwardness tempered by a desire for appeasement."
+        },
+        {
+          "id": "F",
+          "text": "Deep frustration mixed with an undercurrent of intense irritation."
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "In this segment, the person verbally apologizes ('I'm sorry if I look horrid') while showing a slightly apologetic expression with a tight smile. This combination reflects a discomfort with their own appearance (social awkwardness) and an attempt to smooth over the situation for the viewer (desire for appeasement), fitting a negative-leaning social emotion. \nOption A is a text-based distractor; it exaggerates the stated fatigue into 'despair,' which is not supported by the controlled emotional expression. \nOption B is a text-based distractor; 'wistful regret' and 'resignation' are incorrect emotional interpretations for an apology about current appearance. \nOption C is a near-miss distractor; 'forced politeness' is close, but the underlying emotion is better described as awkwardness or self-consciousness rather than 'annoyance'. \nOption D is a near-miss distractor; while 'self-consciousness' is accurate, the tight smile is a placating gesture, the opposite of 'defiance'. \nOption F is a video-based distractor; it references the complaint about heat but misinterprets the specific emotion in this time window, which is social and apologetic, not frustrated or irritated."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 10.7s, a region was detected in the video (x=0.568, y=0.154, w=0.134, h=0.403, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The right hand being raised in order to touch the left shoulder area."
+        },
+        {
+          "id": "B",
+          "text": "Mouth movements that are corresponding directly to the spoken words."
+        },
+        {
+          "id": "C",
+          "text": "A slight squint of the eyes, indicating a feeling of general tiredness."
+        },
+        {
+          "id": "D",
+          "text": "A relatively neutral and quite relaxed overall facial expression."
+        },
+        {
+          "id": "E",
+          "text": "A broad, upward fanning motion performed with the person's right hand."
+        },
+        {
+          "id": "F",
+          "text": "The eyebrows being held in a relaxed and otherwise natural position."
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The specified bounding box at 10.7s precisely isolates the person's right hand as it performs a wide, upward fanning gesture, likely to cool themselves down after mentioning the heat. \nOption A is a video-based distractor; this action occurs at the very beginning of the video (0.0s), not at 10.7s. \nOption B is a near-miss distractor; while the person is speaking, the specified bbox is on their hand, not their mouth. \nOption C is a video-based distractor; the eyes squint around 8.4s, but at 10.7s they are wide open, and the bbox is not on the eyes. \nOption D is a video-based distractor; this describes the facial expression during the first 7 seconds, not the action at 10.7s. \nOption F is a near-miss distractor; the eyebrows are visible but this bbox focuses on the hand gesture, which is the most prominent action in that specific region."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "Which option correctly identifies the timestamp and bounding box for the person's head and torso area during their initial, relatively still period of speaking?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[10.4s] x=0.39, y=0.38, w=0.20, h=0.18"
+        },
+        {
+          "id": "B",
+          "text": "[7.4s] x=0.34, y=0.47, w=0.19, h=0.25"
+        },
+        {
+          "id": "C",
+          "text": "[7.4s] x=0.48, y=0.66, w=0.17, h=0.34"
+        },
+        {
+          "id": "D",
+          "text": "[11.2s] x=0.37, y=0.30, w=0.24, h=0.51"
+        },
+        {
+          "id": "E",
+          "text": "[0.8s] x=0.14, y=0.19, w=0.36, h=0.67"
+        },
+        {
+          "id": "F",
+          "text": "[10.4s] x=0.41, y=0.57, w=0.11, h=0.17"
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The observation from [0.8s - 7.4s] notes that the person remains in a relatively static sitting posture while speaking. The timestamp and bounding box in option E, [0.8s] x=0.14, y=0.19, w=0.36, h=0.67, correctly capture a wide view of the head and upper torso during this specific period of stillness. \nOption A is a video-based distractor that isolates the eyes after they have widened. \nOption B is a video-based distractor that isolates the mouth area as the hand is raised to cover it. \nOption C is a video-based distractor that isolates the hand after it has moved away from the mouth. \nOption D is a video-based distractor that isolates the face during the apologetic expression. \nOption F is a video-based distractor that isolates just the mouth region while speaking at a later time."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator15",
+      "version": 1,
+      "clues_total": 27,
+      "clues_correct": 27,
+      "clues_wrong_corrected": 0,
+      "clues_missing_skipped": 0,
+      "clues_bonus": 0
+    }
+  }
+}

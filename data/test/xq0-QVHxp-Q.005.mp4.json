@@ -1,0 +1,431 @@
+{
+  "video_id": "xq0-QVHxp-Q.005.mp4",
+  "video_path": "xq0-QVHxp-Q.005.mp4",
+  "transcription": "Support me or something, so she just gave me away to a foster home. But what you going to do? How old were you? Well, ever since I can remember, I never really just found out, because I looked in the mirror...",
+  "original_scores": {
+    "extraversion": 0.5046728971962617,
+    "agreeableness": 0.7362637362637363,
+    "conscientiousness": 0.4660194174757281,
+    "neuroticism": 0.5729166666666666,
+    "openness": 0.6555555555555556
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 3.45,
+      "description": "The subject maintains direct gaze at the camera. His eyebrows are slightly raised and his mouth moves in coordination with his speech. The overall facial expression is neutral and conversational.",
+      "bboxes": [
+        {
+          "frame_time": 2.517405,
+          "x": 0.4415296052631579,
+          "y": 0.31140350542570416,
+          "w": 0.13026315789473683,
+          "h": 0.08157894736842106,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 3.203104,
+          "x": 0.40896381578947366,
+          "y": 0.2614035054257042,
+          "w": 0.14210526315789473,
+          "h": 0.09736842105263158,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 3.203104,
+          "x": 0.4415296052631579,
+          "y": 0.4535087685835989,
+          "w": 0.08733552631578947,
+          "h": 0.11578947368421053,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 3.203104,
+          "x": 0.40008223684210525,
+          "y": 0.166666663320441,
+          "w": 0.1805921052631579,
+          "h": 0.4394736842105263,
+          "note": "face human-annotated",
+          "region": "face"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 3.45,
+      "end_time": 5.82,
+      "description": "The subject's eyebrows raise significantly, and the corners of his mouth pull up and back into a slight smile as he speaks. He blinks once during this period.",
+      "bboxes": [
+        {
+          "frame_time": 4.35331,
+          "x": 0.4888980263157895,
+          "y": 0.3061403475309673,
+          "w": 0.13026315789473683,
+          "h": 0.10526315789473684,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 5.488956,
+          "x": 0.4859375,
+          "y": 0.45087718963623047,
+          "w": 0.09769736842105263,
+          "h": 0.13421052631578947,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 5.532635,
+          "x": 0.4711348684210526,
+          "y": 0.33245613700465154,
+          "w": 0.13322368421052633,
+          "h": 0.08947368421052632,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 5.82,
+      "end_time": 15,
+      "description": "The expression returns to a more neutral state. The subject maintains a direct gaze with the camera, with natural blinking. Around 10.5 seconds, his brows lower slightly, creating a more focused expression as he continues to speak.",
+      "bboxes": [
+        {
+          "frame_time": 11.284302,
+          "x": 0.40008223684210525,
+          "y": 0.18771929489938835,
+          "w": 0.19835526315789473,
+          "h": 0.4131578947368421,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 10.644199,
+          "x": 0.42820723684210527,
+          "y": 0.33245613700465154,
+          "w": 0.13470394736842106,
+          "h": 0.0868421052631579,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 10.497447,
+          "x": 0.38231907894736844,
+          "y": 0.1429824527941252,
+          "w": 0.2131578947368421,
+          "h": 0.4842105263157895,
+          "note": "human-annotated",
+          "region": "unknown"
+        },
+        {
+          "frame_time": 10.497447,
+          "x": 0.3971217105263158,
+          "y": 0.25087718963623046,
+          "w": 0.17763157894736842,
+          "h": 0.11842105263157894,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 10.497447,
+          "x": 0.38231907894736844,
+          "y": 0.1929824527941252,
+          "w": 0.21907894736842107,
+          "h": 0.40789473684210525,
+          "note": "face human-annotated",
+          "region": "face"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 15,
+      "description": "The subject is seated and facing the camera in a medium close-up shot. His head remains relatively still, with only minor, subtle nods that correspond with the rhythm of his speech. His shoulders are relaxed and stationary throughout the clip.",
+      "bboxes": [
+        {
+          "frame_time": 2.00922,
+          "x": 0.29942434210526314,
+          "y": 0.12456140016254626,
+          "w": 0.38782894736842105,
+          "h": 0.6868421052631579,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 9.070609,
+          "x": 0.3482730263157895,
+          "y": 0.1298245580572831,
+          "w": 0.2886513157894737,
+          "h": 0.49473684210526314,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 14.186543,
+          "x": 0.2372532894736842,
+          "y": 0.4903508738467568,
+          "w": 0.5121710526315789,
+          "h": 0.2789473684210526,
+          "note": "pose human-annotated",
+          "region": "shoulders"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 3.42,
+      "description": "The subject speaks at a moderate pace with a steady pitch, ending the phrase \"foster home\" with a downward inflection.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 3.42,
+      "end_time": 5.86,
+      "description": "The speech rate increases slightly, and the pitch rises on \"But, you know,\" before falling on \"what's you gonna do?\". A slightly breathy, chuckling quality is audible in his voice.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 5.86,
+      "end_time": 8.2,
+      "description": "After a brief pause, he speaks the phrase \"How old were you?\" with a clear, slightly higher-pitched, inquisitive intonation.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 8.2,
+      "end_time": 15,
+      "description": "He begins the next phrase with \"Well,\" delivered at a slightly lower pitch and slower pace. His speech rate then returns to a moderate, conversational pace for the remainder of the clip, with natural emphasis on words like \"ever\" and \"never\".",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15,
+      "description": "The subject is a young adult male of East Asian descent with dark, spiky hair. He is wearing a plain black, short-sleeved t-shirt. The setting is indoors, in a room with light-colored walls. Behind him is a wooden chair and a window with a wooden frame. In front of him, at the bottom of the frame, is a digital piano keyboard. The lighting is soft and appears to be coming from the front.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Medium",
+      "score": 0.5,
+      "rationale": "The subject's Extraversion is rated as Medium. He demonstrates social engagement through direct and sustained eye contact with the camera and a conversational vocal tone. However, his physical energy is contained; his head and shoulders remain relatively still, lacking the broad, expressive movements often seen in highly extraverted individuals. This balance between social willingness and reserved physical expression places him in the medium range of the spectrum.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "High",
+      "score": 0.74,
+      "rationale": "The subject's Agreeableness is rated as High. This is strongly evidenced by his reaction to discussing a difficult personal topic. His statement, \"But what you going to do?\", is delivered with a slight smile and a light, breathy vocal quality. This suggests a prosocial coping mechanism, minimizing personal distress to maintain a harmonious and non-confrontational interaction. His relaxed posture further underscores an absence of hostility or defensiveness, which is characteristic of highly agreeable individuals.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Medium",
+      "score": 0.47,
+      "rationale": "The subject's Conscientiousness is rated as Medium. He communicates his thoughts in a clear, sequential manner, suggesting a baseline level of mental organization. His speech flows naturally and conversationally rather than being rigidly structured or rehearsed. While he is focused on the conversation, the overall relaxed demeanor and lack of strong goal-oriented cues (e.g., forceful speech, deliberate gestures) indicate a moderate, rather than high or low, level of conscientiousness.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Medium",
+      "score": 0.57,
+      "rationale": "The subject's Neuroticism is rated as Medium. Despite the emotionally charged subject matter of being placed in a foster home, he maintains a generally calm and composed demeanor with relaxed shoulders, indicating effective emotional regulation. However, subtle cues, such as the downward vocal inflection on \"foster home\" and a brief cessation of blinking, suggest a managed internal emotional response. This combination of outward stability with subtle signs of underlying emotional sensitivity supports a medium score for Neuroticism.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "High",
+      "score": 0.66,
+      "rationale": "The subject's Openness is rated as High. His willingness to openly discuss a profound personal experience reflects a high degree of intellectual curiosity and comfort with self-examination. His statement, \"because I looked in the mirror...\", hints at an introspective and abstract thought process, moving beyond simple facts to internal realizations. Additionally, the presence of a digital piano keyboard suggests an engagement with aesthetics and creative activities, which is a strong correlate of the Openness trait.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During 3.5s - 5.8s, the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "High Extraversion due to expressive social engagement."
+        },
+        {
+          "id": "B",
+          "text": "Low Conscientiousness shown by a disorganized response."
+        },
+        {
+          "id": "C",
+          "text": "High Neuroticism seen in his emotional vulnerability."
+        },
+        {
+          "id": "D",
+          "text": "Low Agreeableness due to a confrontational posture."
+        },
+        {
+          "id": "E",
+          "text": "High Agreeableness evidenced by his harmonious reaction."
+        },
+        {
+          "id": "F",
+          "text": "High Openness linked to his introspective commentary."
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. During this interval, the subject says \"But what you going to do?\" with a slight smile and light vocal tone when discussing a difficult topic. This is a classic prosocial coping mechanism aimed at maintaining social harmony, which is a strong indicator of High Agreeableness.\n\n- Option A is a text-based distractor. The phrase 'behavioral pattern' might suggest outgoing behavior, but visually his physical energy is contained, not high in extraversion.\n- Option B is a text-based distractor. The phrase \"what you gonna do?\" could be interpreted from text alone as careless, suggesting low conscientiousness, but his demeanor indicates it's a coping strategy.\n- Option C is a text-based distractor. The emotionally charged topic might suggest high neuroticism, but his calm and smiling reaction is evidence of emotional regulation, not vulnerability.\n- Option D is a near-miss distractor. It correctly identifies the Agreeableness dimension but in the wrong direction. His behavior is conciliatory and harmony-seeking, the opposite of Low Agreeableness.\n- Option F is a video-based distractor. The analysis does rate him as High in Openness, but the primary evidence (introspective comments, piano) is not from this specific time segment."
+    },
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their high Agreeableness level?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[0.0s - 3.4s]"
+        },
+        {
+          "id": "B",
+          "text": "[12.1s - 14.5s]"
+        },
+        {
+          "id": "C",
+          "text": "[5.8s - 8.2s]"
+        },
+        {
+          "id": "D",
+          "text": "[8.2s - 10.5s]"
+        },
+        {
+          "id": "E",
+          "text": "[3.5s - 5.8s]"
+        },
+        {
+          "id": "F",
+          "text": "[10.6s - 12.0s]"
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. The interval [3.5s - 5.8s] is when the subject says \"But what you going to do?\" and his mouth corners pull up into a slight, subtle smile. This expression of positive affect while discussing a negative topic is the key indicator of his prosocial, harmony-seeking tendencies, which defines his High Agreeableness score.\n\n- Option A is a video-based distractor. In this period, his eyebrows raise slightly, but this is a less specific expression and not the key indicator for Agreeableness.\n- Option B is a text-based distractor. This is a period of neutral expression towards the end of the clip with no notable changes relevant to Agreeableness.\n- Option C is a near-miss distractor. This interval immediately follows the target event, where his expression returns to neutral. It is temporally adjacent but does not contain the key expression itself.\n- Option D is a video-based distractor. During this time, his face forms a more focused expression as he begins a new thought, which is a real change but more related to cognitive processing than Agreeableness.\n- Option F is a text-based distractor. This interval contains neutral conversational expression without any significant emotional shift."
+    },
+    {
+      "category": "Mixed Emotion Discrimination",
+      "question": "During 3.5s - 5.8s, the person's emotional state is best characterized as which of the following? Consider both verbal and non-verbal cues.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Suppressed anger mixed with a feeling of bitter resentment."
+        },
+        {
+          "id": "B",
+          "text": "Anxious apprehension combined with a sense of concealed shame."
+        },
+        {
+          "id": "C",
+          "text": "Wistful regret tempered by a mood of melancholic reflection."
+        },
+        {
+          "id": "D",
+          "text": "Deep sadness coupled with an expression of quiet stoicism."
+        },
+        {
+          "id": "E",
+          "text": "Resigned acceptance blended with a touch of gentle humor."
+        },
+        {
+          "id": "F",
+          "text": "Neutral recounting combined with an element of slight concern."
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. In this segment, the subject discusses being given to a foster home, a negative event, but does so with a slight smile and a light, upward vocal inflection. This combination reflects a resigned acceptance of a difficult past, blended with a gentle, humorous, or lighthearted coping mechanism to manage the emotion and the social interaction.\n\n- Option A is a text-based distractor. While the topic could evoke anger or resentment, his calm demeanor and smile are visually inconsistent with these emotions.\n- Option B is a text-based distractor. Anxiety or shame are plausible reactions to the topic, but his direct eye contact and relaxed posture contradict these internal states.\n- Option C is a text-based distractor. His tone isn't particularly sad or reflective in this moment; it's more pragmatic and forward-looking, making 'wistful regret' a poor fit.\n- Option D is a near-miss distractor. This is close, as it captures the negative context ('sadness') and the controlled response ('stoicism'). However, 'deep sadness' is too strong, and 'stoicism' misses the subtle positive valence of the smile, which is better described as humor or lightheartedness.\n- Option F is a video-based distractor. This description better fits the preceding segment [0.0s - 3.5s], where his expression is more neutral and his eyebrows are slightly raised, potentially indicating concern."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 4.4s, a region was detected in the video (x=0.489, y=0.306, w=0.130, h=0.105, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A direct and steady forward gaze directed at the camera."
+        },
+        {
+          "id": "B",
+          "text": "The formation of a distinctly more focused expression."
+        },
+        {
+          "id": "C",
+          "text": "A prominent and significant upward raising of the brows."
+        },
+        {
+          "id": "D",
+          "text": "The overall relaxed and completely still shoulder posture."
+        },
+        {
+          "id": "E",
+          "text": "A neutral and largely motionless brow line positioning."
+        },
+        {
+          "id": "F",
+          "text": "The head maintained in a generally stable, forward pose."
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. The specified bounding box at 4.4s isolates the person's eyebrows. During the [3.5s - 5.8s] interval, the observation log confirms that 'The subject's eyebrows remain neutral.' Therefore, 'A neutral and largely motionless brow line positioning' is the correct description.\n\n- Option A is a video-based distractor. It describes the eyes, which are in a different spatial region than the specified bounding box.\n- Option B is a video-based distractor. The focused expression occurs later in the video, around 10.5s, not at 4.4s.\n- Option C is a near-miss distractor. It correctly identifies the body part (eyebrows) but describes the wrong action, based on a common AI misinterpretation. The brows are neutral, not raised.\n- Option D is a video-based distractor. It describes the shoulders, which are far outside the specified facial bounding box.\n- Option F is a video-based distractor. It describes the entire head's posture, which is a much larger region than the small bounding box specified."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "The video shows a moment of complex emotional expression where a subtle, positive facial cue contrasts with the challenging nature of the topic being discussed. Which option correctly identifies the time and location of this key positive cue?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Time: 2.0s, Bbox: {x=0.299, y=0.125, w=0.388, h=0.687}"
+        },
+        {
+          "id": "B",
+          "text": "Time: 3.2s, Bbox: {x=0.409, y=0.261, w=0.142, h=0.097}"
+        },
+        {
+          "id": "C",
+          "text": "Time: 10.5s, Bbox: {x=0.397, y=0.251, w=0.178, h=0.118}"
+        },
+        {
+          "id": "D",
+          "text": "Time: 4.4s, Bbox: {x=0.489, y=0.306, w=0.130, h=0.105}"
+        },
+        {
+          "id": "E",
+          "text": "Time: 5.5s, Bbox: {x=0.486, y=0.451, w=0.098, h=0.134}"
+        },
+        {
+          "id": "F",
+          "text": "Time: 5.5s, Bbox: {x=0.471, y=0.332, w=0.133, h=0.089}"
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. The 'subtle, positive facial cue' described is the slight smile that appears as he says \"But what you going to do?\". The observation log places this event within the [3.5s - 5.8s] interval and specifically provides a bounding box for the mouth at 5.5s with these exact coordinates.\n\n- Option A is a video-based distractor. This is a large bounding box for the entire head from an earlier, more neutral moment.\n- Option B is a video-based distractor. This bbox corresponds to the slightly raised eyebrows at the beginning, which is not the key positive cue mentioned.\n- Option C is a video-based distractor. This bbox covers the eyebrows during a later, more focused and neutral expression.\n- Option D is a near-miss distractor (temporal). This bbox shows the neutral eyebrows just before the smile, at 4.4s. It is temporally very close but captures the wrong action in the wrong facial region.\n- Option F is a near-miss distractor (spatial). This bbox correctly identifies the time (5.5s) but focuses on the eyes, which are unblinking, not the mouth where the positive cue (the smile) is located. It is spatially very close but incorrect."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator19",
+      "version": 1,
+      "clues_total": 20,
+      "clues_correct": 17,
+      "clues_wrong_corrected": 3,
+      "clues_missing_skipped": 0,
+      "clues_bonus": 0
+    }
+  }
+}

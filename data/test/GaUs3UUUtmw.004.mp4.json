@@ -1,0 +1,326 @@
+{
+  "video_id": "GaUs3UUUtmw.004.mp4",
+  "video_path": "GaUs3UUUtmw.004.mp4",
+  "transcription": "The questions are challenging because I'm in this buffer zone where I just finished school and I have landed a job at a salon that I really enjoy and I'm very happy at-",
+  "original_scores": {
+    "extraversion": 0.5140186915887851,
+    "agreeableness": 0.4725274725274725,
+    "conscientiousness": 0.6796116504854369,
+    "neuroticism": 0.5,
+    "openness": 0.6222222222222222
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 2.7,
+      "description": "Subject looks directly at the camera with a neutral expression and relaxed facial muscles, blinking naturally. Her mouth moves in sync with her speech.",
+      "bboxes": [
+        {
+          "frame_time": 0.457932,
+          "x": 0.2091282894736842,
+          "y": 0.41403508437307257,
+          "w": 0.22351973684210527,
+          "h": 0.11578947368421053,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 0.732692,
+          "x": 0.21800986842105263,
+          "y": 0.33245613700465154,
+          "w": 0.22648026315789474,
+          "h": 0.4236842105263158,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 0.961658,
+          "x": 0.21208881578947367,
+          "y": 0.37456140016254624,
+          "w": 0.25608552631578946,
+          "h": 0.16578947368421051,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 0.961658,
+          "x": 0.27870065789473686,
+          "y": 0.6377192948993884,
+          "w": 0.11842105263157895,
+          "h": 0.1,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 2.7,
+      "end_time": 3.7,
+      "description": "Her eyebrows pull slightly down and together, and her nose wrinkles briefly as she speaks. Her lips are slightly pursed.",
+      "bboxes": [
+        {
+          "frame_time": 3.449758,
+          "x": 0.2416940789473684,
+          "y": 0.39824561068886205,
+          "w": 0.19391447368421053,
+          "h": 0.08947368421052632,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 3.708627,
+          "x": 0.28758223684210527,
+          "y": 0.4824561370046515,
+          "w": 0.07697368421052632,
+          "h": 0.15263157894736842,
+          "note": "human-annotated",
+          "region": "nose"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 3.7,
+      "end_time": 9.2,
+      "description": "Her facial muscles relax back to a neutral state. She maintains a direct gaze with the camera.",
+      "bboxes": [
+        {
+          "frame_time": 5.418868,
+          "x": 0.2165296052631579,
+          "y": 0.3403508738467568,
+          "w": 0.23092105263157894,
+          "h": 0.3763157894736842,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 5.418868,
+          "x": 0.22689144736842104,
+          "y": 0.32456140016254625,
+          "w": 0.21167763157894737,
+          "h": 0.4,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 9.2,
+      "end_time": 10,
+      "description": "Her eyes close completely for a moment before reopening.",
+      "bboxes": [
+        {
+          "frame_time": 9.43341,
+          "x": 0.2372532894736842,
+          "y": 0.34561403174149363,
+          "w": 0.22796052631578947,
+          "h": 0.16578947368421051,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 10,
+      "end_time": 15.1,
+      "description": "She continues to look at the camera. The corners of her mouth lift into a slight smile as she speaks.",
+      "bboxes": [
+        {
+          "frame_time": 11.585693,
+          "x": 0.2416940789473684,
+          "y": 0.37456140016254624,
+          "w": 0.2087171052631579,
+          "h": 0.15,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 11.753601,
+          "x": 0.2757401315789474,
+          "y": 0.6087719264783358,
+          "w": 0.13766447368421053,
+          "h": 0.11315789473684211,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 15.1,
+      "description": "The subject is seated, facing forward towards the camera from the chest up. Her head remains relatively still, with slight, subtle nods and tilts that coincide with her speech.",
+      "bboxes": [
+        {
+          "frame_time": 5.708892,
+          "x": 0.17508223684210525,
+          "y": 0.13771929489938836,
+          "w": 0.3375,
+          "h": 0.8578947368421053,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 5.708892,
+          "x": 0.19432565789473683,
+          "y": 0.1929824527941252,
+          "w": 0.3004934210526316,
+          "h": 0.6157894736842106,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 2.7,
+      "description": "Speech is delivered at a moderate pace and in a mid-range pitch.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 2.7,
+      "end_time": 3.7,
+      "description": "The word \"challenging\" is slightly elongated with added stress and a minor dip in pitch.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 3.7,
+      "end_time": 15.1,
+      "description": "The speech rate remains moderate and the volume is consistent. There is a slight upward inflection on the phrase \"really enjoy\".",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.1,
+      "description": "A young woman with a light complexion is shown from the chest up in a well-lit indoor room. She has long, silver-grey hair with dark roots, styled in a top knot with the rest down. She wears heavy eye makeup, large gold hoop earrings, a nose ring, and a philtrum piercing. She is wearing a black leather-style jacket. The background is white and includes a white set of drawers with nail polish on top, a white desk with a lit candle and makeup organizers, and a framed picture on the wall with the word \"hustle.\" in gold.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Medium",
+      "score": 0.51,
+      "rationale": "The subject's score of 0.51 places her in the Medium range for Extraversion. This is supported by a blend of socially engaged and composed behaviors. Her comfort in addressing an audience is evident through direct and sustained eye contact with the camera. She also expresses positive emotion through a slight smile and upward vocal intonation when discussing her enjoyable job. However, her overall physical energy is contained; her head remains relatively still, and her facial expressions are largely neutral and relaxed, lacking the high animation often seen in highly extraverted individuals. This balance between social engagement and physical composure aligns with a moderate level of Extraversion.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Medium",
+      "score": 0.47,
+      "rationale": "The subject's Agreeableness is in the Medium range. Pro-social cues include maintaining consistent, direct eye contact, which fosters connection, and displaying a warm smile when speaking about positive experiences. Her vocal tone is moderate and even, suggesting a non-confrontational communication style. However, when describing the questions as 'challenging,' she exhibits a brief, genuine negative facial expression (eyebrows furrowing, nose wrinkling), indicating she is not overly invested in masking momentary negative feelings for the sake of social harmony. This combination of warm, engaging behaviors with authentic, non-suppressed emotional expression supports a Medium score.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "High",
+      "score": 0.68,
+      "rationale": "The subject scores High in Conscientiousness, a conclusion strongly supported by multiple data points. Verbally, she outlines a structured life path of completing school and securing a job, demonstrating goal-orientation and follow-through. Her speech is delivered at a moderate, thoughtful pace, suggesting deliberation over impulsivity. Furthermore, her background provides significant evidence: the environment appears orderly with organizers for nail polish and cosmetics, and a wall art piece with the word 'hustle.' explicitly signals a personal value placed on diligence and achievement. These cues collectively point to a disciplined, organized, and achievement-striving individual.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Medium",
+      "score": 0.5,
+      "rationale": "The subject's Neuroticism score is Medium. She acknowledges a source of stress, labeling the questions as 'challenging,' and this is momentarily reflected non-verbally through furrowed brows, a wrinkled nose, and a stressed intonation on the word. This shows she is not immune to life's pressures. However, this reaction is brief and well-contained. For the majority of the video, she maintains a state of calm: her facial muscles are relaxed, her body is still, her eye contact is steady, and her speech is evenly paced. This ability to experience a moment of stress without it disrupting her overall emotional stability is characteristic of a Medium level of Neuroticism.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "High",
+      "score": 0.62,
+      "rationale": "The subject's High Openness score is strongly indicated by her aesthetic choices and cognitive style. Her appearance is highly stylized and unconventional, featuring silver-grey hair, prominent eye makeup, and multiple facial piercings (nose and philtrum). This demonstrates a strong interest in aesthetic self-expression and a departure from convention. Cognitively, her use of the abstract term 'buffer zone' to describe her current life stage reveals a tendency for introspection and conceptual thinking. These combined indicators of aesthetic sensitivity and abstract thought are core facets of a high Openness to Experience.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Mixed Emotion Discrimination",
+      "question": "During 10.0s - 15.1s, the person's emotional state is best characterized as which of the following? Consider both verbal and non-verbal cues.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Unrestrained joy mixed with spontaneous delight."
+        },
+        {
+          "id": "B",
+          "text": "Hopeful optimism mixed with future anticipation."
+        },
+        {
+          "id": "C",
+          "text": "Calm satisfaction tempered by thoughtful reflection."
+        },
+        {
+          "id": "D",
+          "text": "Amused gratitude tempered by a hint of shyness."
+        },
+        {
+          "id": "E",
+          "text": "Proud accomplishment mixed with overt confidence."
+        },
+        {
+          "id": "F",
+          "text": "Calm satisfaction mixed with emotional suppression."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. In this time range, the person speaks positively about her job ('really enjoy', 'very happy'), and her mouth shows a slight smile. This supports 'calm satisfaction'. However, her overall demeanor remains composed, with a moderate vocal tone and steady gaze, indicating 'thoughtful reflection' rather than high-arousal emotion.\n\nOption A is a text-based distractor. It takes the positive words 'enjoy' and 'happy' and incorrectly infers a high-energy emotional state ('unrestrained', 'spontaneous') that is not supported by the calm non-verbal cues in the video.\n\nOption B is a text-based distractor. While a new job relates to the future, her expression and words describe her current feelings. There are no specific cues pointing to 'hopeful optimism' or 'anticipation' over present contentment.\n\nOption D is a video-based distractor. It correctly identifies a positive valence from the smile ('amused') but incorrectly adds 'gratitude' and 'shyness', for which there is no evidence. Her direct eye contact contradicts shyness.\n\nOption E is a text-based distractor. 'Proud accomplishment' is a plausible inference from 'landed a job', but her contained delivery does not support 'overt confidence'.\n\nOption F is a near-miss distractor. It correctly identifies 'calm satisfaction' but incorrectly posits 'emotional suppression'. Her expression appears authentic and relaxed, not as though she is actively holding back a stronger emotion; she is simply composed."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 5.7s, a region was detected in the video (x=0.175, y=0.138, w=0.338, h=0.858, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A slight furrowing of the eyebrows is observed within the region."
+        },
+        {
+          "id": "B",
+          "text": "A neutral and relaxed facial set is maintained within the region."
+        },
+        {
+          "id": "C",
+          "text": "A stable upper-body posture is held facing forward in the region."
+        },
+        {
+          "id": "D",
+          "text": "Synchronized mouth movement for speech production is taking place."
+        },
+        {
+          "id": "E",
+          "text": "A momentary wrinkling of the nose can be seen within the region."
+        },
+        {
+          "id": "F",
+          "text": "A brief and complete closure of the eyes happens within the region."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. The provided bounding box is very large, encompassing the person's entire head and upper torso. The most fitting description for this large-scale region is the overall posture, which is a stable, forward-facing, seated position. The observation cue for this is '[head] The subject is seated, facing the camera from the chest up'.\n\nOption A is a video-based distractor. A slight furrowing of the eyebrows occurs, but at a different time (around 3.4s), not at 5.7s. It also describes a very specific facial feature, not the overall action of the large bbox.\n\nOption B is a video-based distractor. While her facial set is neutral and relaxed at 5.7s, this describes only a sub-region (the face) of the very large bounding box provided. The overall posture is a more encompassing and appropriate description for the given coordinates.\n\nOption D is a video-based distractor. Her mouth is moving for speech at 5.7s, but like option B, this describes a small, specific part of the region, not the most prominent action of the entire upper body.\n\nOption E is a video-based distractor. The nose wrinkle happens at a different time (around 3.7s) and, like other facial expressions, is too localized to be the best description for the large upper-torso region.\n\nOption F is a video-based distractor. The eye closure occurs at a different time (around 9.4s) and is also a localized action within the larger frame."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator16",
+      "version": 1,
+      "clues_total": 18,
+      "clues_correct": 16,
+      "clues_wrong_corrected": 1,
+      "clues_missing_skipped": 1,
+      "clues_bonus": 0
+    }
+  }
+}

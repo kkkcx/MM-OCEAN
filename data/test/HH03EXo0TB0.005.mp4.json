@@ -1,0 +1,454 @@
+{
+  "video_id": "HH03EXo0TB0.005.mp4",
+  "video_path": "HH03EXo0TB0.005.mp4",
+  "transcription": "That have required me to work a great deal of overtime. That's not a complaint. I'm blessed to have the job I have. I know there are many good folks out there who-",
+  "original_scores": {
+    "extraversion": 0.2149532710280374,
+    "agreeableness": 0.5274725274725275,
+    "conscientiousness": 0.3786407766990291,
+    "neuroticism": 0.37499999999999994,
+    "openness": 0.4222222222222222
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 15.2,
+      "description": "The subject maintains a direct gaze toward the camera throughout the clip. His eyebrows raise slightly in coordination with speech emphasis, particularly around 0:02 and 0:09. The mouth moves naturally with speech. The overall facial expression is engaged and relatively neutral.",
+      "bboxes": [
+        {
+          "frame_time": 0.243409,
+          "x": 0.3949013157894737,
+          "y": 0.3057894756919459,
+          "w": 0.17911184210526315,
+          "h": 0.12368421052631579,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 3.914493,
+          "x": 0.3875,
+          "y": 0.32157894937615644,
+          "w": 0.19095394736842106,
+          "h": 0.08157894736842106,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 3.914493,
+          "x": 0.4037828947368421,
+          "y": 0.5531578967445775,
+          "w": 0.10657894736842105,
+          "h": 0.10789473684210527,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 3.914493,
+          "x": 0.38898026315789475,
+          "y": 0.3057894756919459,
+          "w": 0.17615131578947368,
+          "h": 0.35789473684210527,
+          "note": "face human-annotated",
+          "region": "face"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 9.58,
+      "description": "The subject sits facing the camera, with his head and upper torso mostly stationary. His shoulders are relaxed and slightly slumped forward. His hands are not visible.",
+      "bboxes": [
+        {
+          "frame_time": 3.914493,
+          "x": 0.2350328947368421,
+          "y": 0.5426315809551038,
+          "w": 0.5047697368421052,
+          "h": 0.4105263157894737,
+          "note": "human-annotated",
+          "region": "unknown"
+        },
+        {
+          "frame_time": 3.914493,
+          "x": 0.34901315789473686,
+          "y": 0.05842105463931435,
+          "w": 0.2679276315789474,
+          "h": 0.7052631578947368,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 3.914493,
+          "x": 0.1388157894736842,
+          "y": 0.5347368441129986,
+          "w": 0.624671052631579,
+          "h": 0.32105263157894737,
+          "note": "pose human-annotated",
+          "region": "shoulders"
+        },
+        {
+          "frame_time": 3.914493,
+          "x": 0.17730263157894735,
+          "y": 0.518947370428788,
+          "w": 0.5699013157894737,
+          "h": 0.4131578947368421,
+          "note": "pose human-annotated",
+          "region": "torso"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 9.58,
+      "end_time": 15.2,
+      "description": "The subject's right hand rises into the lower-right portion of the frame. He holds up three fingers (index, middle, and ring) in an illustrative gesture while continuing to speak, then lowers the hand slightly.",
+      "bboxes": [
+        {
+          "frame_time": 9.615884,
+          "x": 0.19210526315789472,
+          "y": 0.8294736862182617,
+          "w": 0.13322368421052633,
+          "h": 0.15526315789473685,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 9.650661,
+          "x": 0.24687499999999998,
+          "y": 0.9057894756919459,
+          "w": 0.06069078947368421,
+          "h": 0.08947368421052632,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 4.53,
+      "description": "The subject speaks at a moderate pace with a relatively low and steady pitch. He places emphasis on the word \"great\" with a slight increase in volume. His pitch falls at the end of the word \"overtime.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 4.53,
+      "end_time": 11.53,
+      "description": "The speech rate remains moderate. He slightly stresses the word \"blessed\" (0:09) with a minor increase in volume and pitch. A slight breathy quality is audible before he says \"I'm blessed.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 11.53,
+      "end_time": 15.2,
+      "description": "The subject's speech continues at a consistent pace and volume, ending with a slight upward inflection as the sentence is cut off.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.2,
+      "description": "The subject is a middle-aged male with dark hair, a mustache, and a goatee. He is wearing a grey-blue hooded sweatshirt with a fleece-lined hood. The setting appears to be a cluttered garage or workshop. Visible in the background are a bicycle hanging on a wood-paneled wall, orange extension cords, cardboard boxes stacked on top of a refrigerator, a brass table lamp, a framed document resembling the Declaration of Independence, and a decorative object shaped like a spiderweb.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 4.525299,
+      "end_time": 5.525299,
+      "description": "Subject looks down",
+      "bboxes": [
+        {
+          "frame_time": 5.025299,
+          "x": 0.35345394736842106,
+          "y": 0.3557894756919459,
+          "w": 0.1998355263157895,
+          "h": 0.11578947368421053,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    },
+    {
+      "dimension": "Background",
+      "start_time": 4.548519,
+      "end_time": 5.548519,
+      "description": "The subject swallowed.",
+      "bboxes": [
+        {
+          "frame_time": 5.048519,
+          "x": 0.3712171052631579,
+          "y": 0.5400000020077355,
+          "w": 0.15838815789473684,
+          "h": 0.17105263157894737,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    },
+    {
+      "dimension": "Background",
+      "start_time": 8.496353,
+      "end_time": 9.496353,
+      "description": "Subject frowns",
+      "bboxes": [
+        {
+          "frame_time": 8.996353,
+          "x": 0.38009868421052634,
+          "y": 0.3110526335866828,
+          "w": 0.21759868421052633,
+          "h": 0.06842105263157895,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Low",
+      "score": 0.21,
+      "rationale": "The subject's Low Extraversion score is consistent with his reserved and controlled demeanor. Behavioral evidence includes a mostly static upper body, minimal and subtle hand gestures, and a vocal delivery characterized by a moderate pace and stable pitch. His facial expression remains largely neutral and focused, lacking the broad, dynamic expressiveness typical of high extraversion. These cues collectively point to a lower level of social energy and outward emotional expression.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Medium",
+      "score": 0.53,
+      "rationale": "The Medium score for Agreeableness is supported by both verbal and non-verbal cues. Verbally, the subject explicitly frames his statement to avoid complaining ('That's not a complaint') and expresses gratitude ('I'm blessed'), indicating a concern for social harmony. He also shows empathy by mentioning 'many good folks out there.' Non-verbally, his relaxed shoulders and calm, steady eye contact project a non-threatening and approachable demeanor, consistent with a moderately agreeable disposition.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Low",
+      "score": 0.38,
+      "rationale": "The Low Conscientiousness score is primarily inferred from environmental cues. The subject is in a cluttered, seemingly disorganized setting (a garage or workshop), which suggests a lower preference for order and structure. While his personal presentation is controlled, the surrounding environment points away from the meticulousness and self-discipline that characterize high conscientiousness. His speech being abruptly cut off could also, to a lesser extent, suggest a less planned communication style.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Low",
+      "score": 0.37,
+      "rationale": "The subject's Low Neuroticism is strongly indicated by his overall composure and emotional stability. His vocal tone is steady, his shoulders are relaxed, and his body is still, all signs of low anxiety and stress. While there is a momentary glance down and a swallow, these are isolated and subtle, not indicative of pervasive nervousness. His ability to maintain direct eye contact and a focused expression throughout the recording points to a high degree of emotional regulation.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "Medium",
+      "score": 0.42,
+      "rationale": "The Medium score in Openness is a balanced assessment. The subject's speech content is conventional and focused on personal, concrete experience ('my job', 'overtime'). However, the somewhat eclectic mix of items in his background, such as a framed historical document and other decorations, may suggest a range of interests. There are no strong indicators of either high or low Openness, such as abstract language or rigid thinking, placing him comfortably in the medium range.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During 4.5s - 11.5s, the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "High Conscientiousness, indicated by his work ethic."
+        },
+        {
+          "id": "B",
+          "text": "High Neuroticism, shown by his defensive phrasing."
+        },
+        {
+          "id": "C",
+          "text": "Low Extraversion, seen in his reserved vocal tone."
+        },
+        {
+          "id": "D",
+          "text": "High Agreeableness, due to his grateful statements."
+        },
+        {
+          "id": "E",
+          "text": "Medium Agreeableness, reflecting his polite framing."
+        },
+        {
+          "id": "F",
+          "text": "Low Conscientiousness, based on the setting cues."
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. During this interval, the subject says, 'That's not a complaint. I'm blessed...' This verbal reframing to avoid negativity and express gratitude is the strongest evidence for a moderate level of Agreeableness, reflecting a concern for social harmony. Option A is a text-based distractor; discussing 'overtime' might suggest conscientiousness, but the evidence in this specific clip (especially the background) points away from it. Option B is a text-based distractor that misinterprets the phrasing as anxious when the calm delivery contradicts it. Option C is a video-based distractor; Low Extraversion is a correct trait for the person, but it's supported by his overall static posture and vocal tone throughout the video, not this specific verbal content. Option D is a near-miss distractor; the behavior is agreeable, but 'Medium' is more accurate than 'High' given his reserved, not effusive, demeanor. Option F is a video-based distractor; Low Conscientiousness is supported by the static cluttered background, not the behavior in this specific time window."
+    },
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their overall composure?",
+      "options": [
+        {
+          "id": "A",
+          "text": "0.0s - 1.0s"
+        },
+        {
+          "id": "B",
+          "text": "1.8s - 2.8s"
+        },
+        {
+          "id": "C",
+          "text": "4.5s - 5.5s"
+        },
+        {
+          "id": "D",
+          "text": "7.5s - 8.5s"
+        },
+        {
+          "id": "E",
+          "text": "8.5s - 9.5s"
+        },
+        {
+          "id": "F",
+          "text": "9.6s - 10.6s"
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. The observation data explicitly notes that the subject frowns during the interval of 8.5s - 9.5s. This is a subtle but distinct facial expression change from his otherwise neutral face. Option A is a text-based distractor, representing the start of the video where his expression is neutral. Option B is a video-based distractor, corresponding to an eyebrow raise for vocal emphasis, which is less of a micro-expression of internal state. Option C is a video-based distractor where the person looks down and swallows, which are behaviors but not a facial muscle micro-expression in the same way a frown is. Option D is a near-miss distractor, as it is immediately prior to the correct event, testing for temporal precision. Option F is a video-based distractor that marks the beginning of a hand gesture, which is not a facial expression."
+    },
+    {
+      "category": "Temporal-Causal Reasoning",
+      "question": "Consider the sequence of behaviors observed across the video. Which of the following best describes the causal chain linking the person's actions at different moments?",
+      "options": [
+        {
+          "id": "A",
+          "text": "An emotional appeal is followed by rationalization, which is then contradicted by non-verbal cues of anxiety."
+        },
+        {
+          "id": "B",
+          "text": "An assertive statement is followed by hesitation, culminating in a gesture of authority to underscore his point."
+        },
+        {
+          "id": "C",
+          "text": "A verbal act of self-monitoring prompts instability, which is compensated for by a positive self-disclosure."
+        },
+        {
+          "id": "D",
+          "text": "A negative disclosure is followed by non-verbal regulation, which then causes him to engage in verbal self-monitoring."
+        },
+        {
+          "id": "E",
+          "text": "A negative disclosure is followed by verbal self-monitoring, which is reinforced by non-verbal emotional stability."
+        },
+        {
+          "id": "F",
+          "text": "A display of stability is challenged by a verbal act, leading to a negative self-disclosure at the video's end."
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. This accurately maps the video's sequence: 1) He makes a potentially negative disclosure ('great deal of overtime'). 2) He immediately follows with verbal self-monitoring to reframe it positively ('That's not a complaint. I'm blessed...'). 3) This verbal act is supported and reinforced by his continuous non-verbal emotional stability (calm posture, steady gaze). Option A is a text-based distractor; his behavior is not an emotional appeal and his non-verbals show stability, not anxiety. Option B is a text-based distractor; this describes a different interaction pattern not present in the video. Option C has incorrect causality and misidentifies his stable state as unstable. Option D is a near-miss distractor with an incorrect temporal order; the verbal self-monitoring happens before the reinforcement from his sustained non-verbal stability, not after. Option F is a distractor with reversed temporal order, placing the disclosure at the end and misstating the causality."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 3.9s, a region was detected in the video (x=0.349, y=0.058, w=0.268, h=0.705, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Maintained direct and steady eye contact with the camera."
+        },
+        {
+          "id": "B",
+          "text": "An illustrative hand gesture with the fingers extended."
+        },
+        {
+          "id": "C",
+          "text": "A focused and relatively neutral overall facial expression."
+        },
+        {
+          "id": "D",
+          "text": "Relaxed and slightly sloped positioning of the shoulders."
+        },
+        {
+          "id": "E",
+          "text": "A largely static and still posture of the head and torso."
+        },
+        {
+          "id": "F",
+          "text": "A subtle hand gesture being initiated and then lowered down."
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. The specified bounding box is large (h=0.705), covering the subject's entire head and most of his upper body. The most prominent characteristic of this entire region is its stillness, as noted in the observation data ('The head and upper body remain mostly still'). Option A is a video-based distractor; while true, it describes the eyes, which are a small part of this large bounding box. Option B is a text-based distractor based on negative evidence; this gesture never occurs. Option C is a near-miss distractor; the facial expression is indeed focused and neutral, but 'still posture' is a more accurate description for the entire large region specified, which goes beyond just the face. Options D and F are video-based distractors describing the shoulders and hands, respectively, which are either on the edge of or outside this specific bounding box."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "The person exhibits a subtle, subconscious physiological response often associated with momentary self-consciousness or regulation. At which timestamp and in which bounding box does this specific behavior occur?",
+      "options": [
+        {
+          "id": "A",
+          "text": "At 1.5s, in region (x=0.192, y=0.829, w=0.133, h=0.155)"
+        },
+        {
+          "id": "B",
+          "text": "At 12.0s, in region (x=0.404, y=0.553, w=0.107, h=0.108)"
+        },
+        {
+          "id": "C",
+          "text": "At 9.0s, in region (x=0.380, y=0.311, w=0.218, h=0.068)"
+        },
+        {
+          "id": "D",
+          "text": "At 5.0s, in region (x=0.395, y=0.306, w=0.179, h=0.124)"
+        },
+        {
+          "id": "E",
+          "text": "At 5.0s, in region (x=0.371, y=0.540, w=0.158, h=0.171)"
+        },
+        {
+          "id": "F",
+          "text": "At 9.0s, in region (x=0.371, y=0.540, w=0.158, h=0.171)"
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. The stem describes a subtle physiological response, which best maps to the observed swallow ('Swallowed') at 5.0s. The bounding box provided in option E correctly isolates the throat/neck region where this action occurs. Option A is a text-based distractor; it uses a bbox for the hand region at a time when no gesture is occurring. Option B is a text-based distractor pointing to the mouth at a time with no specific event matching the description. Option C is a video-based distractor; it correctly localizes the frown at 9.0s, but a frown is a facial expression, not a physiological response like a swallow. Option D is a near-miss distractor; the time is correct (5.0s), but the bounding box points to the eyes, not the throat. Option F is a video-based distractor; it uses the correct throat bounding box but at the wrong time (9.0s), when a frown is occurring elsewhere."
+    },
+    {
+      "category": "Counterfactual Reasoning",
+      "question": "If the person had NOT exhibited the behavior observed around 4.5s - 9.5s, which of the following personality assessments would be MOST affected?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Low Extraversion would be less certain, as this phrasing is a key sign of his reserved and solitary nature."
+        },
+        {
+          "id": "B",
+          "text": "Low Conscientiousness would be revised, as this moment most strongly suggests a significant lack of planning."
+        },
+        {
+          "id": "C",
+          "text": "Medium Agreeableness would be strengthened, as its absence would imply more direct and honest communication."
+        },
+        {
+          "id": "D",
+          "text": "Low Neuroticism would be impacted, because this verbal self-correction could indicate underlying anxiety."
+        },
+        {
+          "id": "E",
+          "text": "Medium Agreeableness would be weakened, as this is the primary verbal evidence of social harmony and politeness."
+        },
+        {
+          "id": "F",
+          "text": "Openness would shift to High, as removing this conventional phrasing suggests more abstract ways of thinking."
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. The behavior in this window is the verbal reframing ('That's not a complaint. I'm blessed...'). This is the single strongest piece of evidence for his Agreeableness score. Removing it would significantly weaken the basis for that assessment. Option A is a text-based distractor; his Low Extraversion is supported by his overall calm demeanor and static posture, not this specific statement. Option B is a video-based distractor; the Low Conscientiousness score is derived from the static, cluttered background, an environmental cue unrelated to this verbal act. Option C is a near-miss distractor; it identifies the correct trait (Agreeableness) but proposes the wrong direction of change. Option D is a video-based distractor; his Low Neuroticism is supported by his calm delivery throughout the video, so removing this statement would not significantly impact it. Option F is a text-based distractor with a spurious link between conventional phrasing and Openness."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator03",
+      "version": 1,
+      "clues_total": 19,
+      "clues_correct": 14,
+      "clues_wrong_corrected": 0,
+      "clues_missing_skipped": 2,
+      "clues_bonus": 3
+    }
+  }
+}

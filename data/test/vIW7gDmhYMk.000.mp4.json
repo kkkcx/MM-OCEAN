@@ -1,0 +1,367 @@
+{
+  "video_id": "vIW7gDmhYMk.000.mp4",
+  "video_path": "vIW7gDmhYMk.000.mp4",
+  "transcription": "A game developer. Honestly, just a lot of art in general. When I see people who do things that no one's ever done before. Actually, okay, if I'm going to think of-",
+  "original_scores": {
+    "extraversion": 0.35514018691588783,
+    "agreeableness": 0.4945054945054945,
+    "conscientiousness": 0.3980582524271845,
+    "neuroticism": 0.32291666666666663,
+    "openness": 0.5888888888888889
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 3.03,
+      "description": "The subject's eyes are partially closed, and her eyebrows are in a neutral position as she looks toward the camera. Her lips are slightly parted.",
+      "bboxes": [
+        {
+          "frame_time": 0.441787,
+          "x": 0.42901234567901236,
+          "y": 0.059213531033655904,
+          "w": 0.16203703703703703,
+          "h": 0.13168724279835392,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 2.208937,
+          "x": 0.39197530864197533,
+          "y": 0.06744398370855302,
+          "w": 0.17901234567901234,
+          "h": 0.09327846364883402,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 1.055381,
+          "x": 0.4058641975308642,
+          "y": 0.04000914145889596,
+          "w": 0.14814814814814814,
+          "h": 0.10425240054869685,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 2.650725,
+          "x": 0.44290123456790126,
+          "y": 0.32807498508029515,
+          "w": 0.10185185185185185,
+          "h": 0.0877914951989026,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 3.03,
+      "end_time": 8.87,
+      "description": "Her eyes open slightly more, maintaining a gaze toward the camera. Her eyebrows remain neutral. She blinks naturally while speaking.",
+      "bboxes": [
+        {
+          "frame_time": 6.970425,
+          "x": 0.41975308641975306,
+          "y": 0.10585276285807292,
+          "w": 0.1712962962962963,
+          "h": 0.1262002743484225,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 6.970425,
+          "x": 0.4027777777777778,
+          "y": 0.10585276285807292,
+          "w": 0.21141975308641975,
+          "h": 0.09327846364883402,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 5.8905,
+          "x": 0.404320987654321,
+          "y": 0.13054412088276426,
+          "w": 0.19135802469135801,
+          "h": 0.09053497942386832,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 8.87,
+      "end_time": 13.59,
+      "description": "The subject's gaze remains directed toward the camera. Her eyes close completely for a moment at 10.70 seconds and again at 12.33 seconds while speaking.",
+      "bboxes": [
+        {
+          "frame_time": 10.921968,
+          "x": 0.39814814814814814,
+          "y": 0.12505715243283286,
+          "w": 0.19290123456790123,
+          "h": 0.12345679012345678,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 11.45978,
+          "x": 0.4212962962962963,
+          "y": 0.14974851045752421,
+          "w": 0.16049382716049382,
+          "h": 0.10699588477366255,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 13.59,
+      "end_time": 15.3,
+      "description": "Her eyes are slightly narrowed as she looks at the camera, and her lips purse slightly before she begins to speak again.",
+      "bboxes": [
+        {
+          "frame_time": 14.849725,
+          "x": 0.43209876543209874,
+          "y": 0.08116140483338156,
+          "w": 0.19907407407407407,
+          "h": 0.12345679012345678,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 15.094406,
+          "x": 0.4027777777777778,
+          "y": 0.08939185750827867,
+          "w": 0.23765432098765432,
+          "h": 0.13168724279835392,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 14.677162,
+          "x": 0.49074074074074076,
+          "y": 0.31710104818043233,
+          "w": 0.10185185185185185,
+          "h": 0.06858710562414266,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 1.25,
+      "description": "The subject's left hand is raised to the right side of her head, and her fingers gently run through her hair before lowering out of frame.",
+      "bboxes": [
+        {
+          "frame_time": 0.441787,
+          "x": 0.5679012345679012,
+          "y": 0.023548236109101724,
+          "w": 0.2700617283950617,
+          "h": 0.7846364883401921,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 1.129012,
+          "x": 0.4675925925925926,
+          "y": 0.5887059864520372,
+          "w": 0.3533950617283951,
+          "h": 0.3401920438957476,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 1.25,
+      "end_time": 15.3,
+      "description": "The subject sits relatively still, facing the camera. Her hands are mostly below the frame, but her forearms and wrists are occasionally visible making small movements.",
+      "bboxes": [
+        {
+          "frame_time": 3.847534,
+          "x": 0.3410493827160494,
+          "y": 0.03452217300896455,
+          "w": 0.29475308641975306,
+          "h": 0.49657064471879286,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 13.646325,
+          "x": 0.31790123456790126,
+          "y": 0.385688153804575,
+          "w": 0.48148148148148145,
+          "h": 0.6090534979423868,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 1.13,
+      "description": "Speaks the phrase \"as a game developer\" at a moderate pace and even pitch, with a brief pause following.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 1.63,
+      "end_time": 2.21,
+      "description": "The word \"Um\" is uttered with a slightly lower pitch.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 3.25,
+      "end_time": 8.13,
+      "description": "Voice is slightly breathy and low in volume on \"Honestly.\" The speech rate is moderate and conversational for the phrase \"just a lot of art in general.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 8.92,
+      "end_time": 13.31,
+      "description": "Maintains a steady, moderate pace and pitch while saying, \"When I see people who do things that no one's ever done before.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 13.62,
+      "end_time": 15.3,
+      "description": "The pace quickens slightly for the phrase \"Actually, okay, if I'm going to think of-\" with a slightly higher pitch on \"okay.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.3,
+      "description": "The subject is a young woman with fair skin and long, straight brown hair. She is wearing a light pink, long-sleeved cardigan over a dark grey top. The setting is an indoor room, likely a bedroom or living area. In the foreground to the left is a large, spherical, off-white microphone with silver stripes. In the background, there is a window with white blinds, a black piano or keyboard with a chair, a floor lamp, and a dark wood dresser. The lighting is diffuse and comes from the front.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Low",
+      "score": 0.36,
+      "rationale": "The subject's behavior aligns with a Low level of Extraversion. Her vocal delivery is moderate in pace and volume, lacking the energetic and assertive qualities often seen in high extraversion. Physically, she remains relatively still, with minimal hand gestures. Her frequent gaze aversion (looking up and to the side) while thinking indicates an internal focus, contrasting with the outward, socially-oriented engagement typical of extraverts.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Medium",
+      "score": 0.49,
+      "rationale": "The subject's Agreeableness is assessed as Medium. She presents a cooperative and non-confrontational demeanor, with a generally neutral facial expression and a conversational tone. There are no indicators of irritability or antagonism. However, the absence of strong affiliative cues, such as frequent smiling or overt expressions of warmth, keeps the assessment in the mid-range rather than high.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Medium",
+      "score": 0.4,
+      "rationale": "The subject exhibits a Medium level of Conscientiousness. Her thoughtful and deliberate speech, characterized by pauses and self-correction ('Actually, okay, if I'm going to think of-'), demonstrates a clear effort to provide a precise and considered answer. The act of closing her eyes while speaking suggests deep concentration and a methodical approach to formulating her thoughts, reflecting a sense of duty in the task without being overly rigid or perfectionistic.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Low",
+      "score": 0.32,
+      "rationale": "A Low score for Neuroticism is supported by the subject's overall calm and stable demeanor. Throughout the clip, she maintains a composed posture and a steady vocal tone, even while engaged in the cognitively demanding task of self-reflection. Her facial expressions remain consistently neutral, showing no signs of anxiety, worry, or emotional distress. A single, brief hair-touching gesture at the beginning is not sufficient to suggest a pattern of nervous behavior.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "Medium",
+      "score": 0.59,
+      "rationale": "The subject's verbal content strongly supports a Medium level of Openness. She explicitly mentions an appreciation for 'art in general' and is inspired by originality ('people who do things that no one's ever done before'). This intellectual curiosity and appreciation for aesthetics are core facets of this trait. Her thoughtful, introspective manner of speaking further indicates an engagement with abstract ideas, consistent with a moderately open personality.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During 8.9s - 13.3s, the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Low level of Neuroticism from her overall calm and stable physical posture."
+        },
+        {
+          "id": "B",
+          "text": "Medium level of Conscientiousness from her deep concentration and methodical speech."
+        },
+        {
+          "id": "C",
+          "text": "High level of Extraversion due to the engaging and energetic vocal delivery given."
+        },
+        {
+          "id": "D",
+          "text": "Low level of Conscientiousness due to the hesitant and unfocused way of thinking."
+        },
+        {
+          "id": "E",
+          "text": "High level of Openness from her clear and explicit statements on appreciating art."
+        },
+        {
+          "id": "F",
+          "text": "Low level of Agreeableness due to her lack of smiling and averted eye contact."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. During this interval, the person closes her eyes while speaking, indicating deep concentration and a methodical approach to formulating her thoughts, which are key behavioral indicators for Conscientiousness. \n\n- Option A is a video-based distractor because while she does exhibit low Neuroticism, the specific behavior of closing her eyes to think is not the primary evidence for that trait; her overall steady demeanor is.\n- Option C is a text-based distractor because the description of 'engaging and energetic' is the opposite of her actual quiet, internally-focused delivery in the video.\n- Option D is a near-miss distractor because it correctly identifies the relevant trait (Conscientiousness) but misinterprets the behavior's direction, incorrectly labeling deep thought as being unfocused.\n- Option E is a text-based distractor. While her words do support Openness, the question asks about the *behavioral pattern* in this specific time range (closing eyes, deliberate speech), which is a stronger indicator of her conscientious method of thinking.\n- Option F is a text-based distractor; it offers a plausible but incorrect interpretation of her neutral expression, which is more related to internal focus than a lack of agreeableness."
+    },
+    {
+      "category": "Mixed Emotion Discrimination",
+      "question": "During 0.0s - 3.0s, the person's emotional state is best characterized as which of the following? Consider both verbal and non-verbal cues.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mild enthusiasm tempered by a clear professional sense of composure."
+        },
+        {
+          "id": "B",
+          "text": "Neutral contemplation mixed with a slight uncertainty while searching."
+        },
+        {
+          "id": "C",
+          "text": "Quiet reflection mixed with a degree of focused, deep concentration."
+        },
+        {
+          "id": "D",
+          "text": "Subtle confidence characterized by a well-practiced vocal delivery."
+        },
+        {
+          "id": "E",
+          "text": "Deep concentration mixed with an effort of careful word articulation."
+        },
+        {
+          "id": "F",
+          "text": "Calm thoughtfulness tempered by a high degree of internal focus now."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. In this initial phase, the person's gaze averts upwards and to the side, and her speech has slight pauses, indicating a cognitive search for words. Her overall expression is neutral, not showing strong emotion. This combination best fits a state of neutral thought mixed with the slight uncertainty of formulating an answer.\n\n- Option A is a text-based distractor because while she discusses her profession, there are no visual or auditory cues for 'mild enthusiasm'.\n- Option C is a near-miss distractor. She is reflective, but 'focused, deep concentration' is not accurate for this segment; her wandering gaze suggests she is still searching for a thought, not concentrating on a single one.\n- Option D is a text-based distractor. 'Subtle confidence' is contradicted by the non-verbal cues of gaze aversion, which signal internal processing rather than outward confidence.\n- Option E is a video-based distractor. The description of 'deep concentration' better applies to the later segment (around 11.5s) where she closes her eyes to focus, not this initial segment.\n- Option F is a near-miss distractor. While she is thoughtful, the term 'high degree of internal focus' is an overstatement for this early phase; her focus deepens later in the video."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator08",
+      "version": 1,
+      "clues_total": 22,
+      "clues_correct": 17,
+      "clues_wrong_corrected": 5,
+      "clues_missing_skipped": 0,
+      "clues_bonus": 0
+    }
+  }
+}

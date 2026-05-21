@@ -1,0 +1,563 @@
+{
+  "video_id": "2TbU3Eg2i4A.002.mp4",
+  "video_path": "2TbU3Eg2i4A.002.mp4",
+  "transcription": "Leave the house without makeup on. Do you think you look good even without any makeup on? No, I will admit I don't look good without any makeup. I like makeup. I think I look good with makeup on, like yes!",
+  "original_scores": {
+    "extraversion": 0.24299065420560748,
+    "agreeableness": 0.16483516483516483,
+    "conscientiousness": 0.23300970873786406,
+    "neuroticism": 0.4166666666666667,
+    "openness": 0.4666666666666667
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 6.75,
+      "description": "Gaze is directed at the camera. Eyebrows are in a neutral position, and the mouth moves naturally while speaking. The overall expression is neutral and engaged.",
+      "bboxes": [
+        {
+          "frame_time": 1.189272,
+          "x": 0.35567434210526316,
+          "y": 0.35350876858359886,
+          "w": 0.22203947368421054,
+          "h": 0.22631578947368422,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 3.377412,
+          "x": 0.35863486842105263,
+          "y": 0.25087718963623046,
+          "w": 0.19835526315789473,
+          "h": 0.12631578947368421,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 3.377412,
+          "x": 0.39564144736842105,
+          "y": 0.4929824527941252,
+          "w": 0.16282894736842105,
+          "h": 0.1631578947368421,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 3.377412,
+          "x": 0.3615953947368421,
+          "y": 0.27192982121517784,
+          "w": 0.225,
+          "h": 0.42894736842105263,
+          "note": "face human-annotated",
+          "region": "face"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 6.75,
+      "end_time": 10.3,
+      "description": "The subject shakes her head from side to side. Her expression becomes slightly more serious as she looks directly at the camera. Her lips purse briefly before she begins speaking.",
+      "bboxes": [
+        {
+          "frame_time": 7.887697,
+          "x": 0.3971217105263158,
+          "y": 0.16929824226780943,
+          "w": 0.2960526315789474,
+          "h": 0.49473684210526314,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 9.0383,
+          "x": 0.39120065789473685,
+          "y": 0.22719297910991468,
+          "w": 0.24572368421052632,
+          "h": 0.48947368421052634,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 9.692263,
+          "x": 0.41192434210526313,
+          "y": 0.5271929791099147,
+          "w": 0.1524671052631579,
+          "h": 0.15263157894736842,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 9.896004,
+          "x": 0.40008223684210525,
+          "y": 0.49824561068886203,
+          "w": 0.16430921052631578,
+          "h": 0.19473684210526315,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 10.3,
+      "end_time": 12.21,
+      "description": "A slight smile forms as her eyes widen slightly. Her expression shifts to one of enthusiasm.",
+      "bboxes": [
+        {
+          "frame_time": 10.754343,
+          "x": 0.45485197368421054,
+          "y": 0.24824561068886206,
+          "w": 0.1879934210526316,
+          "h": 0.15263157894736842,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 11.754175,
+          "x": 0.4489309210526316,
+          "y": 0.5614035054257042,
+          "w": 0.18207236842105262,
+          "h": 0.16842105263157894,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 11.754175,
+          "x": 0.40896381578947366,
+          "y": 0.216666663320441,
+          "w": 0.26200657894736845,
+          "h": 0.5631578947368421,
+          "note": "face human-annotated",
+          "region": "face"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 12.21,
+      "end_time": 15,
+      "description": "A wide, toothy smile spreads across her face, causing her cheeks to rise and her eyes to crinkle at the corners. Her eyebrows are raised in an expressive, joyful manner.",
+      "bboxes": [
+        {
+          "frame_time": 14.845898,
+          "x": 0.34087171052631576,
+          "y": 0.45877192647833576,
+          "w": 0.23832236842105264,
+          "h": 0.19736842105263158,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 14.845898,
+          "x": 0.2757401315789474,
+          "y": 0.3035087685835989,
+          "w": 0.36710526315789477,
+          "h": 0.2131578947368421,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 14.845898,
+          "x": 0.3453125,
+          "y": 0.23508771595201994,
+          "w": 0.27976973684210527,
+          "h": 0.12105263157894737,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 1.5,
+      "description": "The subject holds a phone in her left hand, which is at the bottom of the frame. She gestures with her right index finger pointing up.",
+      "bboxes": [
+        {
+          "frame_time": 0.325926,
+          "x": 0.1247532894736842,
+          "y": 0.7956140317414936,
+          "w": 0.27532894736842106,
+          "h": 0.19473684210526315,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 0.325926,
+          "x": 0.6147203947368421,
+          "y": 0.6719298212151779,
+          "w": 0.20575657894736843,
+          "h": 0.29736842105263156,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 1.5,
+      "end_time": 10.3,
+      "description": "The subject's right hand moves down out of frame. She briefly glances down at the phone in her left hand before returning her gaze to the camera. Her head moves naturally as she speaks.",
+      "bboxes": [
+        {
+          "frame_time": 5.086858,
+          "x": 0.019654605263157886,
+          "y": 0.9271929791099147,
+          "w": 0.17763157894736842,
+          "h": 0.06842105263157895,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 2.42963,
+          "x": 0.3260690789473684,
+          "y": 0.42192982121517786,
+          "w": 0.26052631578947366,
+          "h": 0.14210526315789473,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 5.578128,
+          "x": 0.3837993421052632,
+          "y": 0.3350877159520199,
+          "w": 0.2294407894736842,
+          "h": 0.10526315789473684,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 5.853471,
+          "x": 0.35863486842105263,
+          "y": 0.15087718963623048,
+          "w": 0.3049342105263158,
+          "h": 0.5578947368421052,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 10.3,
+      "end_time": 12.21,
+      "description": "She brings her right hand up toward her chin in a small, self-referential gesture.",
+      "bboxes": [
+        {
+          "frame_time": 10.727862,
+          "x": 0.4533717105263158,
+          "y": 0.5929824527941252,
+          "w": 0.19539473684210526,
+          "h": 0.19473684210526315,
+          "note": "human-annotated",
+          "region": "chin"
+        },
+        {
+          "frame_time": 10.727862,
+          "x": 0.4104440789473684,
+          "y": 0.6008771896362305,
+          "w": 0.2930921052631579,
+          "h": 0.20526315789473684,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 12.21,
+      "end_time": 15,
+      "description": "The subject raises her right hand to her forehead, palm inward, and briefly pushes her hat up. She then leans her upper body slightly forward and to her right.",
+      "bboxes": [
+        {
+          "frame_time": 13.468283,
+          "x": 0.21504934210526316,
+          "y": 0.03245613700465152,
+          "w": 0.6113486842105263,
+          "h": 0.22105263157894736,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 14.248363,
+          "x": 0.20764802631578946,
+          "y": 0.6298245580572831,
+          "w": 0.6128289473684211,
+          "h": 0.33421052631578946,
+          "note": "pose human-annotated",
+          "region": "torso"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 6.08,
+      "description": "The subject speaks at a moderate pace in a mid-range pitch. Her intonation rises at the end of each question.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 6.08,
+      "end_time": 10.3,
+      "description": "The word \"No\" is spoken with a clear, definitive tone. Her speech rate then increases slightly into a confessional, conversational tone.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 10.3,
+      "end_time": 15,
+      "description": "The subject's pitch rises, and her volume increases. Her tone becomes enthusiastic and energetic, with stress placed on the word \"good.\" The final word, \"yes,\" is exclaimed loudly with a high, sharp, falling inflection.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15,
+      "description": "A young Black woman with long, curly, vibrant purple hair and multiple facial piercings (eyebrow, septum, nostril, and lower lip). She is wearing makeup, including light blue eyeshadow. Her attire consists of a bright pink beanie, a lime green zip-up hoodie, and a black choker with a yin-yang pendant. The setting is an indoor room with yellowish walls. A brown wooden door is on the left, and a wooden bedpost is visible on the right. The lighting is warm and illuminates her face from the front.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 0.926253,
+      "description": "A young Black woman with long, curly, vibrant purple hair and multiple facial piercings (eyebrow, septum, nostril, and lower lip). She is wearing makeup, including light blue eyeshadow. Her attire consists of a bright pink beanie, a lime green zip-up hoodie, and a black choker with a yin-yang pendant. The setting is an indoor room with yellowish walls. A brown wooden door is on the left, and a wooden bedpost is visible on the right. The lighting is warm and illuminates her face from the front.",
+      "bboxes": [
+        {
+          "frame_time": 0.426253,
+          "x": 0.15879934210526314,
+          "y": 0.2429824527941252,
+          "w": 0.6143092105263158,
+          "h": 0.7421052631578947,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Low",
+      "score": 0.24,
+      "rationale": "The subject's score indicates Low Extraversion. This is primarily supported by her initial demeanor, particularly the consistent downward gaze and avoidance of direct eye contact with the camera during the first several seconds ([0.0s-6.8s]). This behavior is often characteristic of introversion or social reservation. While she has a significant burst of energy and enthusiasm at the end ([10.3s-15.0s]), this appears to be a situational, performative spike in affect rather than a baseline state. The initial, more subdued and less socially forward presentation is a stronger indicator of her core trait level.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Very Low",
+      "score": 0.16,
+      "rationale": "The Very Low Agreeableness score is strongly supported by the subject's direct and unfiltered communication style. When asked if she thinks she looks good without makeup, her response is an immediate and assertive \"No,\" delivered in a clear and definite tone ([6.1s-10.3s]) and reinforced with a head shake. There is no attempt to soften the statement or align with a more socially desirable response. This straightforward, unapologetic self-assessment demonstrates a lack of concern for pleasing others, which is a core feature of very low agreeableness.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Low",
+      "score": 0.23,
+      "rationale": "The subject's Low Conscientiousness is suggested by her spontaneous and somewhat impulsive emotional expression. There is a marked shift from a neutral, measured tone to a sudden, loud, and energetic outburst at the end of the clip ([10.3s-15.0s]). This rapid change in vocal pitch, volume, and accompanying gestures (pushing up her hat, leaning forward) indicates a less filtered and more in-the-moment expressive style, which contrasts with the greater emotional regulation and deliberation often seen in individuals with high conscientiousness.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Medium",
+      "score": 0.42,
+      "rationale": "A Medium level of Neuroticism is indicated by a combination of self-consciousness and emotional management. The subject's admission, \"I don't look good without any makeup,\" is a self-critical statement that reflects a degree of insecurity about her appearance. Her initial downward gaze ([0.0s-6.8s]) can also be interpreted as a sign of self-consciousness. However, she doesn't dwell on this negativity; instead, her expression shifts to one of natural humor ([6.8s-10.3s]) and later to genuine enthusiasm. This ability to acknowledge a negative self-perception but not be overwhelmed by it, managing the moment with a shift in affect, is consistent with a moderate, rather than high, level of Neuroticism.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "Medium",
+      "score": 0.47,
+      "rationale": "The subject's Medium Openness score is reflected in the balance between her unconventional aesthetic and her conventional viewpoint. Her appearance—vibrant purple hair, multiple facial piercings, and eclectic clothing—strongly signals an appreciation for novel and unique self-expression, a key facet of Openness. However, her stated opinion on makeup (\"I like makeup. I think I look good with makeup on\") is a fairly conventional perspective on beauty standards. This combination of an unconventional personal style with a more standard expressed view supports a moderate score, indicating an openness to aesthetic experiences that is balanced with some conventional attitudes.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During [6.1s - 10.3s], the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A significantly high level of trait Openness"
+        },
+        {
+          "id": "B",
+          "text": "A moderately low level of trait Neuroticism"
+        },
+        {
+          "id": "C",
+          "text": "A significantly high level of trait Extraversion"
+        },
+        {
+          "id": "D",
+          "text": "A significantly low level of Conscientiousness"
+        },
+        {
+          "id": "E",
+          "text": "A significantly low level of trait Agreeableness"
+        },
+        {
+          "id": "F",
+          "text": "A significantly high level of trait Agreeableness"
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. During this interval, the subject gives a direct, unfiltered \"No\" reinforced by a head shake, which is strong evidence for low Agreeableness, as it shows a lack of concern for softening her opinion for social desirability. Option A is a text-based distractor; her Openness is judged by her appearance vs. her opinion, not this specific response. Option B is a text-based distractor; while her response isn't highly anxious, it's not the primary trait being displayed. Option C is a video-based distractor; the evidence for Extraversion (positive energy) comes from a later segment ([10.3s-15.0s]). Option D is a text-based distractor; her spontaneity could be linked to Conscientiousness, but Agreeableness is a much more direct fit for this specific social interaction. Option F is a near-miss distractor because it correctly identifies the Agreeableness dimension but in the completely opposite direction."
+    },
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their Agreeableness level?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[0.9s - 1.7s]"
+        },
+        {
+          "id": "B",
+          "text": "[2.1s - 2.9s]"
+        },
+        {
+          "id": "C",
+          "text": "[13.2s - 14.0s]"
+        },
+        {
+          "id": "D",
+          "text": "[14.4s - 15.0s]"
+        },
+        {
+          "id": "E",
+          "text": "[9.4s - 10.2s]"
+        },
+        {
+          "id": "F",
+          "text": "[10.5s - 11.3s]"
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. The analysis highlights her direct and unfiltered communication as key to her low Agreeableness. The interval [9.4s - 10.2s] precisely captures the moment her lips tighten (9.7s) and she begins to speak again (9.9s) with a clear, definite tone, which is the crux of that behavioral evidence. All other options are video-based distractors. Option A captures a hand gesture. Option B captures her glancing down. Option C captures her pushing her hat up. Option D captures the peak of her final smile. Option F captures her eyes widening slightly at the start of her enthusiastic statement. None of these are as directly relevant to the core evidence for her Agreeableness score as the expression in [9.4s - 10.2s]."
+    },
+    {
+      "category": "Mixed Emotion Discrimination",
+      "question": "During [6.8s - 10.3s], the person's emotional state is best characterized as which of the following? Consider both verbal and non-verbal cues.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Defensive justification mixed with a hint of slight annoyance"
+        },
+        {
+          "id": "B",
+          "text": "Hesitant confession combined with nervous self-consciousness"
+        },
+        {
+          "id": "C",
+          "text": "Sudden resignation mixed with an undercurrent of irritation"
+        },
+        {
+          "id": "D",
+          "text": "Serious self-criticism combined with genuine disappointment"
+        },
+        {
+          "id": "E",
+          "text": "Assertive self-appraisal tempered by wry, self-aware humor"
+        },
+        {
+          "id": "F",
+          "text": "Mild contemplation tempered with a feeling of deep regret"
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. In this segment, she shakes her head, her lips tighten, her tone is definite ('No'), but the visual analysis notes her expression becomes one of 'natural humor.' This blend of a direct, assertive statement with a self-aware, humorous facial expression is best described as 'Assertive self-appraisal tempered by wry, self-aware humor.' Option A is a text-based distractor; the term 'defensive' isn't supported, as she seems comfortable with her answer. Option B is a text-based distractor; her delivery is confident, not hesitant or nervous. Option C is a text-based distractor; 'resignation' and 'irritation' do not match the 'natural humor' observation. Option D is a near-miss distractor; it captures the serious tone of her words but completely misses the visual cue of 'natural humor,' focusing only on the negative aspect."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "At which time and location is a key interaction with an object held just out of the main frame most evident?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[0.3s]  x=0.61, y=0.67, w=0.21, h=0.30"
+        },
+        {
+          "id": "B",
+          "text": "[9.7s]  x=0.41, y=0.53, w=0.15, h=0.15"
+        },
+        {
+          "id": "C",
+          "text": "[10.8s]  x=0.45, y=0.25, w=0.19, h=0.15"
+        },
+        {
+          "id": "D",
+          "text": "[14.8s]  x=0.35, y=0.24, w=0.28, h=0.12"
+        },
+        {
+          "id": "E",
+          "text": "[5.1s]  x=0.02, y=0.93, w=0.18, h=0.07"
+        },
+        {
+          "id": "F",
+          "text": "[10.7s]  x=0.41, y=0.60, w=0.29, h=0.21"
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. The question asks for an interaction with an object held just out of frame. The observation notes state that the subject holds a phone in her right hand at the beginning and that her 'right hand moves down out of frame' around [1.5s - 10.3s]. The coordinate at [5.1s] in option E points to the very bottom-left edge of the screen, precisely where her hand would be moving as it exits the frame while she is managing the phone. The other options are distractors pointing to different actions: A is a left-hand pointing gesture, B is the mouth tightening, C is the eyes widening, D is the eyes crinkling in a smile, and F is a self-referential hand gesture toward the chin."
+    },
+    {
+      "category": "Counterfactual Reasoning",
+      "question": "If the person had NOT exhibited the behavior observed around [0.0s - 6.8s], which of the following personality assessments would be MOST affected?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The Low Conscientiousness assessment would be less certain, as this period establishes a baseline for her later spontaneous emotional shift."
+        },
+        {
+          "id": "B",
+          "text": "The Very Low Agreeableness score would be affected, because her direct verbal response later would seem less pronounced without this setup."
+        },
+        {
+          "id": "C",
+          "text": "The Medium Neuroticism assessment would be weakened, since this behavior is the strongest indicator of her self-critical thought process."
+        },
+        {
+          "id": "D",
+          "text": "The assessment of Low Extraversion would be less certain, as the initial gaze aversion provides a clear baseline for her later energetic display."
+        },
+        {
+          "id": "E",
+          "text": "The Low Extraversion assessment would be less certain, as the initial gaze aversion is the primary evidence for her underlying social reservation."
+        },
+        {
+          "id": "F",
+          "text": "The Medium Openness score would shift higher, as the absence of this behavior would remove the main conventional element from her presentation."
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. The personality analysis explicitly states that the Low Extraversion score is 'primarily supported by her initial demeanor, particularly the consistent downward gaze and avoidance of direct eye contact' during the [0.0s-6.8s] interval. Removing this behavior would remove the main evidence for introversion, making the assessment much less certain. Option A is a text-based distractor; Conscientiousness is inferred from the rapid emotional shift later, not this initial phase. Option B is a text-based distractor; Agreeableness is judged by her direct verbal communication, not her initial gaze. Option C is a text-based distractor; her self-critical statement ('I don't look good...') is the key evidence for Neuroticism, not the gaze itself. Option D is a near-miss distractor; it correctly identifies the Extraversion trait but gets the direction wrong (the score is Low, not High)."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [
+      {
+        "check": "A",
+        "q_idx": 6,
+        "issue": "Option D refers to an assessment of 'High Extraversion,' which contradicts the personality analysis that concluded the subject's Extraversion is 'Low'. This makes the distractor factually incorrect based on the provided data.",
+        "action": "Corrected the word 'High' to 'Low' in option D's text to make it a valid, though incorrect, distractor."
+      }
+    ],
+    "corrections": {
+      "mcq_questions[6].options[3].text": "The assessment of Low Extraversion would be less certain, as the initial gaze aversion provides a clear baseline for her later energetic display."
+    },
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator06",
+      "version": 1,
+      "clues_total": 31,
+      "clues_correct": 19,
+      "clues_wrong_corrected": 9,
+      "clues_missing_skipped": 2,
+      "clues_bonus": 1
+    }
+  }
+}

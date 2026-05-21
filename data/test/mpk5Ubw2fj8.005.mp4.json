@@ -1,0 +1,463 @@
+{
+  "video_id": "mpk5Ubw2fj8.005.mp4",
+  "video_path": "mpk5Ubw2fj8.005.mp4",
+  "transcription": "We're seeing tons of colors, but it's not the brightest display. This is something which I believe is device. The device has good colors, good [numbers 00:00:55], but the brightness of the display is not much, and that is something which I feel-",
+  "original_scores": {
+    "extraversion": 0.29906542056074764,
+    "agreeableness": 0.4945054945054945,
+    "conscientiousness": 0.6796116504854369,
+    "neuroticism": 0.3125,
+    "openness": 0.4
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 2.6,
+      "description": "Gaze is directed downward and to his right. Eyebrows and facial muscles are in a neutral, relaxed state. Mouth moves naturally with speech.",
+      "bboxes": [
+        {
+          "frame_time": 0.334717,
+          "x": 0.45041118421052634,
+          "y": 0.40614034753096734,
+          "w": 0.18651315789473685,
+          "h": 0.10263157894736842,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 2.444895,
+          "x": 0.40896381578947366,
+          "y": 0.3035087685835989,
+          "w": 0.19835526315789473,
+          "h": 0.10789473684210527,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 2.444895,
+          "x": 0.45929276315789475,
+          "y": 0.5271929791099147,
+          "w": 0.13026315789473683,
+          "h": 0.09473684210526316,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 2.6,
+      "end_time": 15.1,
+      "description": "Gaze shifts to look directly at the camera. Eyebrows raise slightly for emphasis at various points (e.g., 3.5s, 9.0s). Eyes are slightly widened. His mouth is expressive, with corners pulling slightly outward as he speaks.",
+      "bboxes": [
+        {
+          "frame_time": 3.595981,
+          "x": 0.4163651315789474,
+          "y": 0.3587719264783357,
+          "w": 0.19095394736842106,
+          "h": 0.11578947368421053,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 3.682365,
+          "x": 0.39120065789473685,
+          "y": 0.30087718963623045,
+          "w": 0.22203947368421054,
+          "h": 0.12631578947368421,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 6.025688,
+          "x": 0.4060032894736842,
+          "y": 0.3192982422678094,
+          "w": 0.18355263157894738,
+          "h": 0.12368421052631579,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 12.982884,
+          "x": 0.4178453947368421,
+          "y": 0.5719298212151779,
+          "w": 0.13914473684210527,
+          "h": 0.12894736842105264,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 2.5,
+      "description": "Head is tilted down. He is holding a smartphone in his right hand, which is at the bottom of the frame.",
+      "bboxes": [
+        {
+          "frame_time": 0.472914,
+          "x": 0.3704769736842105,
+          "y": 0.04298245279412521,
+          "w": 0.3449013157894737,
+          "h": 0.7105263157894737,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 0.472914,
+          "x": 0.7109375,
+          "y": 0.816666663320441,
+          "w": 0.20575657894736843,
+          "h": 0.18157894736842106,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 2.5,
+      "end_time": 5.9,
+      "description": "He lifts his head to face the camera. His left hand comes into frame and makes an open, illustrative gesture, moving from left to right.",
+      "bboxes": [
+        {
+          "frame_time": 3.114034,
+          "x": 0.3527138157894737,
+          "y": 0.11140350542570415,
+          "w": 0.3360197368421053,
+          "h": 0.6131578947368421,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 4.250002,
+          "x": 0.1410361842105263,
+          "y": 0.6561403475309673,
+          "w": 0.2679276315789474,
+          "h": 0.34210526315789475,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 5.9,
+      "end_time": 11.5,
+      "description": "He lifts the smartphone with his right hand to display the screen. He points at the phone's screen with his left index finger, then makes several open-and-close gestures with his left hand next to the phone.",
+      "bboxes": [
+        {
+          "frame_time": 7.786819,
+          "x": 0.7257401315789473,
+          "y": 0.6429824527941252,
+          "w": 0.17763157894736842,
+          "h": 0.3447368421052632,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 7.786819,
+          "x": 0.5895559210526315,
+          "y": 0.6561403475309673,
+          "w": 0.3256578947368421,
+          "h": 0.3368421052631579,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 8.82021,
+          "x": 0.23429276315789474,
+          "y": 0.5692982422678095,
+          "w": 0.225,
+          "h": 0.4263157894736842,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 11.5,
+      "end_time": 15.1,
+      "description": "He continues holding the phone while gesturing with his left hand, using his index finger to point forward for emphasis on his words.",
+      "bboxes": [
+        {
+          "frame_time": 13.663377,
+          "x": 0.6902138157894737,
+          "y": 0.5587719264783357,
+          "w": 0.20279605263157896,
+          "h": 0.4368421052631579,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 13.623295,
+          "x": 0.25501644736842105,
+          "y": 0.78508771595202,
+          "w": 0.253125,
+          "h": 0.21052631578947367,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 15.1,
+      "description": "A persistent, low-level electronic crackle or static is audible throughout the clip. The speaker's voice is at a moderate pace and volume.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 2.5,
+      "end_time": 3.7,
+      "description": "Speech rate is slightly faster with increased stress on the phrase \"not the brightest display.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 6.2,
+      "end_time": 7,
+      "description": "Pitch rises slightly and stress is placed on the word \"con.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 9.2,
+      "end_time": 11,
+      "description": "The phrases \"good colors\" and \"good viewing angles\" are spoken with slightly more deliberate enunciation and a slight rise in pitch for emphasis.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 11.8,
+      "end_time": 13,
+      "description": "Increased stress is placed on the phrase \"not much.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.1,
+      "description": "A man with dark, styled hair and brown skin tone is filmed from the chest up. He is wearing a dark gray or black V-neck sweater over a light blue collared shirt. He wears a gold-colored ring on his left ring finger. The background is a plain, solid wall of a light purple or lavender color. A 'Google' watermark is visible in the top-left corner of the frame. The lighting is diffuse and frontal.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Low",
+      "score": 0.3,
+      "rationale": "The subject's Low Extraversion score is supported by his initially reserved posture. He begins the clip with his head tilted down and his gaze averted from the camera, which is characteristic of individuals who are less comfortable with being the center of attention. Although he later engages the camera directly with gestures and vocal emphasis, his overall energy level, vocal pace, and volume remain moderate. This suggests a more deliberate, task-focused mode of communication rather than the spontaneous, high-energy social engagement typical of high extraversion.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Medium",
+      "score": 0.49,
+      "rationale": "The Medium Agreeableness score is reflected in the subject's balanced and objective communication style. He presents a critique by acknowledging both positive aspects ('tons of colors', 'good colors') and negative ones ('not the brightest display'). This constructive, non-confrontational approach is typical of individuals in the mid-range of agreeableness. His facial expressions are engaged but neutral, serving to clarify his points rather than to express strong personal emotion or seek social harmony, further supporting this balanced profile.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "High",
+      "score": 0.68,
+      "rationale": "The subject's High Conscientiousness is evident in his structured and purposeful presentation. His speech is organized and focused on delivering a clear, analytical point. This is strongly reinforced by his deliberate actions: he lifts the phone to demonstrate his point visually, uses his finger to direct attention, and employs illustrative hand gestures that are synchronized with his verbal explanations. This methodical and goal-oriented communication style is a hallmark of a conscientious individual.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Low",
+      "score": 0.31,
+      "rationale": "The subject demonstrates Low Neuroticism (high emotional stability) through his calm and steady demeanor. Throughout the clip, his voice remains controlled in volume and pace, even when delivering criticism. His body language is composed; gestures are purposeful and illustrative rather than nervous or fidgety. His facial expressions are relaxed when not actively emphasizing a point. This overall lack of tension or anxiety while on camera points to a high degree of emotional stability.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "Medium",
+      "score": 0.4,
+      "rationale": "The subject's Medium Openness score is consistent with his practical and concrete approach to the topic. While engaging with technology implies a degree of curiosity, his analysis focuses strictly on functional attributes like color and brightness, rather than exploring more abstract or aesthetic qualities. His language is straightforward and descriptive. This grounded, factual style of communication, devoid of imaginative or unconventional framing, aligns well with an individual who balances practicality with a moderate level of curiosity.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During 5.9s - 11.5s, the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Low Agreeableness due to the critical nature of his assessment"
+        },
+        {
+          "id": "B",
+          "text": "High Extraversion due to the animated and engaging presentation"
+        },
+        {
+          "id": "C",
+          "text": "Low Neuroticism due to the steady and unwavering hand movements"
+        },
+        {
+          "id": "D",
+          "text": "Low Conscientiousness due to a lack of structured argumentation"
+        },
+        {
+          "id": "E",
+          "text": "High Conscientiousness due to methodical, goal-oriented gestures"
+        },
+        {
+          "id": "F",
+          "text": "High Openness due to the detailed exploration of a new device"
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. During 5.9s - 11.5s, the subject methodically lifts the phone, points to the screen, and uses illustrative gestures synchronized with his speech. This structured, purposeful, and goal-oriented communication is primary evidence for High Conscientiousness.\n\n- Option A is a text-based distractor. The question is about behavior, and while he is critical (verbal), his behavioral style in this segment is methodical, not disagreeable.\n- Option B is a text-based distractor. One might associate presentation with extraversion, but his overall energy level and vocal pace are moderate, not high, making this incorrect.\n- Option C is a video-based distractor. While he is calm (Low Neuroticism), that trait is supported by his overall steady demeanor throughout the video, not specifically by the *illustrative* nature of the gestures in this segment, which point more strongly to Conscientiousness.\n- Option D is a near-miss distractor. It correctly identifies the relevant personality dimension (Conscientiousness) but gets the direction wrong. His behavior is highly structured, not lacking structure.\n- Option F is a video-based distractor. He is exploring a device, which relates to Openness, but his focus is on practical, functional attributes (brightness, color), which supports a Medium, not High, Openness score."
+    },
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their Low Extraversion level?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[8.8s - 9.6s]"
+        },
+        {
+          "id": "B",
+          "text": "[0.1s - 0.9s]"
+        },
+        {
+          "id": "C",
+          "text": "[12.8s - 13.6s]"
+        },
+        {
+          "id": "D",
+          "text": "[5.8s - 6.6s]"
+        },
+        {
+          "id": "E",
+          "text": "[2.5s - 3.3s]"
+        },
+        {
+          "id": "F",
+          "text": "[7.5s - 8.3s]"
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. The personality analysis notes his Low Extraversion is supported by his initially reserved posture (head down, gaze averted) before he engages the camera. The transition from this reserved state to direct engagement occurs right around 2.5s - 3.3s, where he lifts his head and directs his gaze toward the camera.\n\n- Option A is a video-based distractor. This interval corresponds to hand gestures, not a key facial expression change relevant to the Extraversion assessment.\n- Option B is a video-based distractor. In this interval, his head is still down, representing the initial state, not the moment of change.\n- Option C is a video-based distractor. This interval shows mouth movements for verbal emphasis, but this is less fundamental to the core Extraversion assessment than the initial shift in gaze and posture.\n- Option D is a video-based distractor. Around 6.0s, his eyes widen slightly, which is a facial change, but the shift from averted to direct gaze (at 2.5s-3.3s) is the more significant event for the Extraversion analysis.\n- Option F is a video-based distractor. This interval corresponds to him pointing at the phone, a hand action, not a facial expression change."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 13.7s, a region was detected in the video (x=0.690, y=0.559, w=0.203, h=0.437, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Gaze directed downwards and towards the person's left side"
+        },
+        {
+          "id": "B",
+          "text": "A neutral and relaxed brow expression without any tension"
+        },
+        {
+          "id": "C",
+          "text": "Slightly widened eyes used as a tool for visual emphasis"
+        },
+        {
+          "id": "D",
+          "text": "The head tilted upwards to face the camera for engagement"
+        },
+        {
+          "id": "E",
+          "text": "A sustained and steady grip on a rectangular mobile device"
+        },
+        {
+          "id": "F",
+          "text": "Natural mouth articulation patterns corresponding to speech"
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. The specified bounding box at 13.7s (x=0.690, y=0.559, w=0.203, h=0.437) precisely covers the smartphone being held in the person's left hand. The action described in the observation log for this period is 'He continues to hold the phone'.\n\n- Option A is a video-based distractor. This describes the eye gaze from the first few seconds of the video, not the action in the specified hand region at 13.7s.\n- Option B is a video-based distractor. This describes the state of the eyebrows, which are in a different spatial region (the face, not the hand).\n- Option C is a video-based distractor. This describes the eyes, which are located in a different part of the frame than the target bounding box.\n- Option D is a video-based distractor. This describes the head's position, which is a different region from the hand holding the phone.\n- Option F is a video-based distractor. This describes the mouth, which is spatially distinct from the bounding box around the hand and phone."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "Identify the moment and location corresponding to the subject's initial, less direct posture while holding the object of discussion.",
+      "options": [
+        {
+          "id": "A",
+          "text": "[6.0s] x=0.41, y=0.32, w=0.18, h=0.12"
+        },
+        {
+          "id": "B",
+          "text": "[3.1s] x=0.35, y=0.11, w=0.34, h=0.61"
+        },
+        {
+          "id": "C",
+          "text": "[7.8s] x=0.73, y=0.64, w=0.18, h=0.34"
+        },
+        {
+          "id": "D",
+          "text": "[13.7s] x=0.69, y=0.56, w=0.20, h=0.44"
+        },
+        {
+          "id": "E",
+          "text": "[0.5s] x=0.71, y=0.82, w=0.21, h=0.18"
+        },
+        {
+          "id": "F",
+          "text": "[8.8s] x=0.23, y=0.57, w=0.23, h=0.43"
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. The question asks to identify the time and location of the initial, less direct posture while holding the object. This occurs at the very beginning of the video (0.0s - 2.5s) where the person's head is tilted down and he is holding the phone at the bottom of the frame. The coordinates at [0.5s] for the phone (x=0.71, y=0.82, w=0.21, h=0.18) correctly capture this moment and location.\n\n- Option A points to the eyes at 6.0s, when he is already directly addressing the camera.\n- Option B points to the head/face area at 3.1s, just after he has lifted his head to engage the camera.\n- Option C points to the phone at 7.8s, when he is actively using it for demonstration, not in his initial passive posture.\n- Option D points to the phone at 13.7s, near the end of the clip, well after the initial posture.\n- Option F points to the right hand making a gesture at 8.8s, which is part of his active demonstration phase."
+    },
+    {
+      "category": "Counterfactual Reasoning",
+      "question": "If the person had NOT exhibited the behavior observed around 5.9s - 11.5s, which of the following personality assessments would be MOST affected?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Extraversion score would be less supported as Low, because the behavior at the start (0-2.5s) would become the dominant signal for assessment."
+        },
+        {
+          "id": "B",
+          "text": "Agreeableness score would appear much lower, as his verbal critique would lack the softening effect of the visual demonstration that he provided."
+        },
+        {
+          "id": "C",
+          "text": "Neuroticism would be assessed as higher, because the purposeful hand gestures are key evidence for his calm, stable emotional state during this section."
+        },
+        {
+          "id": "D",
+          "text": "Conscientiousness would be assessed as higher, because without the gestures his verbal clarity would have to stand on its own merits as evidence."
+        },
+        {
+          "id": "E",
+          "text": "Conscientiousness would be less supported as High, as this segment provides the strongest evidence of methodical, goal-oriented communication."
+        },
+        {
+          "id": "F",
+          "text": "Openness would be assessed as higher, since lacking physical demonstration would imply a more abstract and theoretical style of communication here."
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. The behavior between 5.9s and 11.5s consists of lifting the phone, pointing, and making illustrative gestures. The personality analysis explicitly cites these actions ('deliberate actions: he lifts the phone to demonstrate... uses his finger to direct attention... illustrative hand gestures') as the strongest evidence for High Conscientiousness. Removing this evidence would significantly weaken that assessment.\n\n- Option A is a video-based distractor. The Low Extraversion score is primarily based on the initial reserved posture (0-2.5s). Removing the later gestures would likely *strengthen* the evidence for Low Extraversion, not weaken it, making this reasoning incorrect.\n- Option B is a text-based distractor. The Medium Agreeableness score comes from the balanced verbal content (praising colors, critiquing brightness). While gestures can add context, the core evidence is verbal and would remain, so this trait would be less affected than Conscientiousness.\n- Option C is a video-based distractor. The Low Neuroticism score is based on overall calmness, steady voice, and lack of fidgeting throughout the video, not just these specific illustrative gestures. Other evidence would still strongly support this score.\n- Option D is a near-miss distractor. It correctly identifies the trait (Conscientiousness) but gets the reasoning backward. Removing strong evidence for a trait would cause the assessment to be lower or less certain, not higher.\n- Option F is a text-based distractor. This makes a speculative leap that a lack of demonstration implies an abstract style, which is not a standard way of assessing Openness. The practical focus of his words would still point to Medium Openness."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator19",
+      "version": 1,
+      "clues_total": 22,
+      "clues_correct": 14,
+      "clues_wrong_corrected": 8,
+      "clues_missing_skipped": 0,
+      "clues_bonus": 0
+    }
+  }
+}

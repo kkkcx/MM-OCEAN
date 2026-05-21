@@ -1,0 +1,388 @@
+{
+  "video_id": "Qa-yF-tByDM.001.mp4",
+  "video_path": "Qa-yF-tByDM.001.mp4",
+  "transcription": "I peed my pants. Some of it got on the floor so there was a wet spot in the carpet. Anyways, the two girls saw it. The funny thing is that they both -",
+  "original_scores": {
+    "extraversion": 0.5233644859813085,
+    "agreeableness": 0.5604395604395604,
+    "conscientiousness": 0.5145631067961165,
+    "neuroticism": 0.6666666666666667,
+    "openness": 0.611111111111111
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 15.22,
+      "description": "The subject maintains eye contact with the camera for the majority of the clip, with a persistent smile. The smile widens at 1.07s, 4.87s, and 12.01s, causing the cheeks to raise and crinkles to form at the outer corners of his eyes. His eyebrows are slightly raised throughout, with a more pronounced upward movement from 4.02s to 5.72s. He blinks naturally throughout.",
+      "bboxes": [
+        {
+          "frame_time": 1.72384,
+          "x": 0.2868421052631579,
+          "y": 0.2610526335866828,
+          "w": 0.18207236842105262,
+          "h": 0.11315789473684211,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 1.72384,
+          "x": 0.2868421052631579,
+          "y": 0.40842105463931433,
+          "w": 0.14950657894736843,
+          "h": 0.10789473684210527,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 2.105853,
+          "x": 0.30608552631578945,
+          "y": 0.40842105463931433,
+          "w": 0.1361842105263158,
+          "h": 0.11842105263157894,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 2.105853,
+          "x": 0.26611842105263156,
+          "y": 0.30052631779720906,
+          "w": 0.21019736842105263,
+          "h": 0.28421052631578947,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 4.1769,
+          "x": 0.28092105263157896,
+          "y": 0.2742105283235249,
+          "w": 0.19539473684210526,
+          "h": 0.11315789473684211,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 7.187748,
+          "x": 0.3046052631578947,
+          "y": 0.27947368621826174,
+          "w": 0.16430921052631578,
+          "h": 0.11315789473684211,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 15.22,
+      "description": "The subject is sitting on a couch, with his upper torso and head visible. He maintains a relatively still posture, with his head making small, subtle nods and tilts that synchronize with his speech.",
+      "bboxes": [
+        {
+          "frame_time": 1.550984,
+          "x": 0.002631578947368412,
+          "y": 0.487368423060367,
+          "w": 0.6986842105263158,
+          "h": 0.44473684210526315,
+          "note": "human-annotated",
+          "region": "unknown"
+        },
+        {
+          "frame_time": 1.550984,
+          "x": 0.19210526315789472,
+          "y": 0.04789473884984067,
+          "w": 0.3375,
+          "h": 0.7157894736842105,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 1.550984,
+          "x": 0.14029605263157893,
+          "y": 0.4636842125340512,
+          "w": 0.4263157894736842,
+          "h": 0.45263157894736844,
+          "note": "pose human-annotated",
+          "region": "torso"
+        },
+        {
+          "frame_time": 9.554658,
+          "x": 0.23651315789473684,
+          "y": 0.050526317797209085,
+          "w": 0.2634868421052632,
+          "h": 0.5368421052631579,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0.61,
+      "end_time": 6.36,
+      "description": "The subject speaks at a moderate, conversational pace. His pitch rises slightly on the phrase \"peed my pants\" and remains elevated through the end of the sentence.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 7.42,
+      "end_time": 15.22,
+      "description": "After a brief pause, he continues speaking. His pitch rises again on the phrase \"The funny thing is,\" and his speech rate increases slightly. The tone is consistently bright and expressive.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.22,
+      "description": "The subject is a young, light-skinned male with styled, light brown hair and a light beard. He is wearing a dark grey hooded sweatshirt with white drawstrings over a blue-green t-shirt. He is sitting on a dark grey couch in a brightly lit room. Behind him is a white wall and a window with blinds. To his right is a decorative pillow with black text and a black table lamp with a white shade.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Medium",
+      "score": 0.52,
+      "rationale": "The subject displays a moderate level of Extraversion. Socially engaging behaviors such as maintaining direct eye contact with the camera, exhibiting a sustained and genuine smile, and using an expressive vocal tone indicate a degree of sociability and positive emotionality. However, this is balanced by a relatively still body posture and the absence of broad, energetic gestures. This combination of outward social warmth with contained physical energy supports a Medium classification rather than a High one.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Medium",
+      "score": 0.56,
+      "rationale": "The subject's Agreeableness is assessed as Medium. His persistent, genuine smile, indicated by crinkling at the eyes and raised cheeks, projects a warm and approachable demeanor. Recounting a self-deprecating story can be an affiliative behavior intended to build rapport. While these cues point to a friendly disposition, the brief observation lacks evidence of other core agreeableness facets like altruism or overt cooperation, making a Medium score the most accurate assessment.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Medium",
+      "score": 0.51,
+      "rationale": "The evidence points to a Medium level of Conscientiousness. The subject demonstrates deliberation in his storytelling, maintaining a coherent narrative and synchronizing subtle head movements with his speech, which suggests a degree of self-control. However, there are no strong indicators of high conscientiousness, such as orderliness or achievement-striving, in the casual context. The content of the story itself, about a moment of lapsed control, also tempers the assessment, leading to a mid-range score.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "High",
+      "score": 0.67,
+      "rationale": "The High score in Neuroticism is supported by the subject's choice of topic. He is recounting a personally embarrassing and socially vulnerable memory (\"I peed my pants\"), a common preoccupation for individuals with higher levels of self-consciousness, a facet of Neuroticism. The use of humor, delivered with a bright vocal tone and a constant smile, is a well-established coping mechanism to manage the negative emotions (like shame or anxiety) associated with such an event. This performative reframing of a stressful memory is characteristic of higher emotional reactivity.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "High",
+      "score": 0.61,
+      "rationale": "The subject's Openness is rated as High. This is primarily evidenced by his willingness to share a vulnerable and unconventional personal experience publicly. Rather than concealing an embarrassing moment, he explores it for its humorous aspects (\"The funny thing is...\"), demonstrating cognitive flexibility and a comfort with a wide range of personal experiences. His expressive and emotionally nuanced vocal delivery further suggests a rich inner life and an appreciation for affect, which are key components of the Openness trait.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During [0.6s - 15.2s], the person recounts a personal story. Which Big Five personality dimension is most directly supported by the combination of the story's content and its humorous delivery?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Low Neuroticism, because the speaker appears fully relaxed and at ease while recalling the personal tale."
+        },
+        {
+          "id": "B",
+          "text": "High Extraversion, because the subject maintains direct eye contact and has a consistently lively vocal tone."
+        },
+        {
+          "id": "C",
+          "text": "High Agreeableness, as the person consistently displays a warm and inviting smiling facial expression."
+        },
+        {
+          "id": "D",
+          "text": "Low Conscientiousness, given that the story's main subject is a moment of weak personal self-control."
+        },
+        {
+          "id": "E",
+          "text": "High Neuroticism, as the person is using humor to process and reframe a socially vulnerable life memory."
+        },
+        {
+          "id": "F",
+          "text": "Low Openness, since the individual is focused exclusively on a single and specific past personal incident."
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The analysis identifies that recounting a personally embarrassing story ('I peed my pants') while using humor is a classic coping mechanism to manage the negative emotions (like shame or anxiety) associated with the memory, which is a strong indicator for high Neuroticism. Option E correctly identifies this psychological dynamic.\n\n- Option A is a near-miss distractor. It correctly observes the relaxed appearance but makes the wrong inference, ignoring the psychological principle that humor is often used to mask or cope with anxiety, which is a feature of high, not low, Neuroticism.\n- Option B is a video-based distractor. The person does exhibit eye contact and a lively tone, which are cues for Extraversion. However, the analysis scores Extraversion as Medium, and the *content* of the story is the most powerful evidence in the clip, pointing more strongly to Neuroticism and Openness.\n- Option C is a video-based distractor. The warm smile is present and is a cue for Agreeableness, but the analysis pegs Agreeableness as Medium and, similar to option B, this surface-level cue is less informative than the core content of the narrative.\n- Option D is a text-based distractor. It makes a simplistic link between the story's content (losing control) and the trait of Conscientiousness. This is plausible from the text alone, but observing the video shows the person tells the story in a coherent, deliberate manner, which tempers a Low Conscientiousness assessment.\n- Option F is a text-based distractor. It incorrectly equates focusing on a single story with being closed-off. In personality psychology, the willingness to share a vulnerable and unconventional personal story is a hallmark of High Openness."
+    },
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression occur that is most relevant to their use of humor as an emotional regulation strategy, a key indicator for their Neuroticism level?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[1.0s - 1.7s]"
+        },
+        {
+          "id": "B",
+          "text": "[9.3s - 10.0s]"
+        },
+        {
+          "id": "C",
+          "text": "[2.8s - 3.5s]"
+        },
+        {
+          "id": "D",
+          "text": "[11.8s - 12.5s]"
+        },
+        {
+          "id": "E",
+          "text": "[4.5s - 5.2s]"
+        },
+        {
+          "id": "F",
+          "text": "[6.5s - 7.2s]"
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The analysis links high Neuroticism to the use of humor as a coping mechanism. A key moment of this is the smile widening immediately after saying the most embarrassing part of the story, \"peed my pants\" (which ends around 4.0s). The observation log explicitly notes the smile widens at 4.87s. The interval [4.5s - 5.2s] correctly captures this significant non-verbal shift.\n\n- Option A is a video-based distractor. It brackets the first smile widening at 1.07s. While this is a real facial expression change, the one at 4.87s is more directly tied to the emotional peak of the embarrassing confession, making it more relevant to the concept of coping.\n- Option B is a video-based distractor. It brackets a subtle head nod at 9.6s. This is a real movement but is related to speech emphasis, not the core emotional expression of humor.\n- Option C is a text-based distractor. It is a plausible-looking time interval where no significant facial event occurs, testing whether the model is simply guessing.\n- Option D is a video-based distractor. It brackets the third smile widening at 12.01s. Like option A, this is a real event but occurs later in the narrative when he is already explicitly framing the story as funny.\n- Option F is a near-miss distractor. This interval contains a natural blink (7.2s) and the pause between sentences. It's close to the main event but misses the critical smile-widening expression."
+    },
+    {
+      "category": "Temporal-Causal Reasoning",
+      "question": "Consider the sequence of behaviors observed across the video. Which of the following best describes the causal chain linking the person's actions at different moments?",
+      "options": [
+        {
+          "id": "A",
+          "text": "An external cue prompts a practiced narrative (0.6s), with emotional beats (4.8s) at rehearsed points."
+        },
+        {
+          "id": "B",
+          "text": "A verbal reframing (7.4s) causes the recall of a vulnerable memory (0.6s), triggering a display (4.8s)."
+        },
+        {
+          "id": "C",
+          "text": "A reflective pause (7.0s) leads to a head gesture (9.6s), which then precedes a final verbal summary (13.0s)."
+        },
+        {
+          "id": "D",
+          "text": "A vulnerable disclosure (0.6s) prompts a verbal reframe (7.4s), causing a delayed emotional reaction (12.0s)."
+        },
+        {
+          "id": "E",
+          "text": "A vulnerable disclosure (0.6s) prompts non-verbal regulation (4.8s), then later verbal reframing (7.4s)."
+        },
+        {
+          "id": "F",
+          "text": "A confident display (1.0s) leads to memory disclosure (4.0s), followed by a physical self-correction (9.6s)."
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The most logical causal sequence is that the act of disclosing a vulnerable memory (starting at 0.6s) creates a need for emotional management. This is first addressed non-verbally with a smile-widening (a regulation display at 4.8s) right after the peak embarrassing content. This is then followed by an explicit verbal strategy to manage the social impression by framing the event as humorous (starting at 7.4s with \"The funny thing is...\"). Option E correctly maps this sequence: disclosure -> non-verbal regulation -> verbal reframing.\n\n- Option A is a text-based distractor. It posits a cause (external cue, rehearsal) that is not evidenced in the video, which appears natural and spontaneous.\n- Option B is a distractor with reversed temporal order. The verbal reframing (7.4s) happens long after the memory recall (0.6s), not before.\n- Option C is a video-based distractor. It links real events (the pause, the head nod) but creates a weak and secondary causal chain that misses the main psychological narrative of the interaction.\n- Option D is a near-miss distractor. It gets the first link right (disclosure prompts reframing) but gets the temporal order of the emotional reaction wrong. The key non-verbal reaction at 4.8s happens *before* the verbal reframing at 7.4s, not after it.\n- Option F is a distractor with incorrect causality. It misinterprets the initial smile as a display of confidence that *causes* the disclosure, which is less likely than the smile being part of the regulation of the disclosure itself. It also mislabels the head nod as a 'self-correction'."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 2.1s, a region was detected in the video (x=0.266, y=0.301, w=0.210, h=0.284, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A subtle nodding and tilting motion of the person's entire head."
+        },
+        {
+          "id": "B",
+          "text": "The horizontal widening action of the mouth and corresponding lips."
+        },
+        {
+          "id": "C",
+          "text": "A quick and natural closing and opening action of the eyelids."
+        },
+        {
+          "id": "D",
+          "text": "The maintenance of a relatively static and still torso posture."
+        },
+        {
+          "id": "E",
+          "text": "The noticeable upward movement of the main muscles of the cheeks."
+        },
+        {
+          "id": "F",
+          "text": "A slight crinkling of the skin at the outer corners of the eyes."
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The provided bounding box at 2.1s corresponds to the observation log entry causes cheeks to raise. This box is centered on the mid-face area. Therefore, the most accurate description of the action within this specific region is the upward movement of the cheek muscles, a key component of a genuine smile.\n\n- Option A is a video-based distractor. A head nod occurs, but much later at 9.6s, and the bounding box for that action would cover the entire head, not just this mid-face region.\n- Option B is a near-miss distractor. The mouth is widening within this time frame, and the box does contain the mouth. However, the specific observation tied to this exact box in the ground truth is the cheek movement, making this option less precise than the correct answer.\n- Option C is a video-based distractor. Blinking occurs throughout, but this box is primarily below the eyes and is too large to isolate just the eyelids.\n- Option D is a video-based distractor. This describes the torso, which is a completely different, non-overlapping spatial region.\n- Option F is a video-based distractor. The crinkling of the eyes (crow's feet) is a real, concurrent action, but it occurs in a different spatial region, superior and lateral to the provided bounding box."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "The subject makes a subtle, non-verbal gesture with his head to add emphasis to his verbal narration. At which time and location does this specific emphatic gesture occur?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Time: 4.9s, Bbox: {x:0.306, y:0.408, w:0.136, h:0.118}"
+        },
+        {
+          "id": "B",
+          "text": "Time: 1.7s, Bbox: {x:0.287, y:0.261, w:0.182, h:0.113}"
+        },
+        {
+          "id": "C",
+          "text": "Time: 1.6s, Bbox: {x:0.140, y:0.464, w:0.426, h:0.453}"
+        },
+        {
+          "id": "D",
+          "text": "Time: 2.5s, Bbox: {x:0.237, y:0.051, w:0.263, h:0.537}"
+        },
+        {
+          "id": "E",
+          "text": "Time: 9.6s, Bbox: {x:0.237, y:0.051, w:0.263, h:0.537}"
+        },
+        {
+          "id": "F",
+          "text": "Time: 9.6s, Bbox: {x:0.287, y:0.408, w:0.150, h:0.108}"
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The observation log explicitly states: \"[head] bbox@9.6s: x=0.237,y=0.051,w=0.263,h=0.537\". This matches the question's description of a subtle, emphatic head gesture. Option E provides the exact time and bounding box for this event.\n\n- Option A is a video-based distractor. This time and bbox correspond to the mouth widening, which is an emotional expression, not an emphatic head gesture.\n- Option B is a video-based distractor. This time and bbox correspond to the eyes while maintaining general eye contact, not a specific, timed gesture.\n- Option C is a video-based distractor. This time and bbox correspond to the torso, which is the wrong body part for a head gesture.\n- Option D is a near-miss distractor. It has the correct spatial location (the head bbox) but the wrong time. At 2.5s, no such emphatic nod occurs.\n- Option F is a near-miss distractor. It has the correct time (9.6s) but the wrong spatial location. The provided bbox is for the mouth region, but the emphatic gesture described is a movement of the entire head."
+    },
+    {
+      "category": "Counterfactual Reasoning",
+      "question": "If the person had NOT exhibited the behavior observed during [0.6s - 15.2s] (i.e., had discussed a neutral topic instead), which of the following personality assessments would be MOST affected?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Extraversion would be lower, as the animated storytelling provides the key evidence for social energy."
+        },
+        {
+          "id": "B",
+          "text": "Agreeableness would drop, as self-deprecating humor is the main sign of an affiliative nature."
+        },
+        {
+          "id": "C",
+          "text": "Openness would be unaffected, as their expressive style, not the content, indicates this trait."
+        },
+        {
+          "id": "D",
+          "text": "Conscientiousness would increase, as a neutral story would imply more orderly and controlled conduct."
+        },
+        {
+          "id": "E",
+          "text": "Neuroticism would decrease, since the key evidence for self-consciousness would be entirely absent."
+        },
+        {
+          "id": "F",
+          "text": "Neuroticism would increase, as avoiding a personal story can suggest a high degree of inhibition."
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The analysis explicitly states that the High Neuroticism score is supported by the choice to recount an embarrassing memory and the use of humor as a coping mechanism. If the topic were neutral, this primary evidence for self-consciousness and emotional reactivity management would disappear, leading to a significantly lower Neuroticism assessment. The High Openness score also relies heavily on this behavior, but the link to Neuroticism via coping mechanisms is arguably the most specific and profound inference made.\n\n- Option A is a video-based distractor. While storytelling is a social act, the Medium Extraversion score is also based on sustained eye contact, smiling, and vocal tone, which would likely persist with a neutral topic. The score would be affected, but likely less than Neuroticism.\n- Option B is a video-based distractor. This is a plausible argument, as self-deprecation can be affiliative. However, the Medium Agreeableness score also rests on the persistent warm smile, which is independent of the story content. So, Agreeableness would be affected less than Neuroticism.\n- Option C is a text-based distractor. This is directly false. The analysis clearly states that the willingness to share a vulnerable experience is primary evidence for High Openness.\n- Option D is a text-based distractor. This posits a weak causal link. The evidence for Medium Conscientiousness (e.g., coherent speech) would likely remain unchanged regardless of the topic's neutrality.\n- Option F is a near-miss distractor. It identifies the correct trait (Neuroticism) but reasons in the wrong direction. While avoidance *can* be a sign of Neuroticism, the active behavior of coping with a revealed vulnerability provides much stronger and more direct evidence. Removing this evidence would cause a decrease, not an increase, in the score."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator05",
+      "version": 1,
+      "clues_total": 14,
+      "clues_correct": 13,
+      "clues_wrong_corrected": 0,
+      "clues_missing_skipped": 1,
+      "clues_bonus": 0
+    }
+  }
+}

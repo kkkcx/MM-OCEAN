@@ -1,0 +1,418 @@
+{
+  "video_id": "_Q4wOgixh7E.002.mp4",
+  "video_path": "_Q4wOgixh7E.002.mp4",
+  "transcription": "The guy is one-handed. I'm assuming the guy stole somebody's bacon sandwich, and the person who had the bacon sandwich stolen off got really pissed off and decided to lop the guy's hand off using a fucking-",
+  "original_scores": {
+    "extraversion": 0.13084112149532712,
+    "agreeableness": 0.3736263736263736,
+    "conscientiousness": 0.31067961165048547,
+    "neuroticism": 0.2604166666666667,
+    "openness": 0.4777777777777778
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 2.22,
+      "description": "The subject maintains a direct gaze toward the camera with a neutral facial expression. Their mouth is slightly open and moves in sync with their speech.",
+      "bboxes": [
+        {
+          "frame_time": 0,
+          "x": 0.34161184210526313,
+          "y": 0.26368421253405117,
+          "w": 0.196875,
+          "h": 0.12105263157894737,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 1.235666,
+          "x": 0.3460526315789474,
+          "y": 0.18473684411299857,
+          "w": 0.19835526315789473,
+          "h": 0.45263157894736844,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 0.295863,
+          "x": 0.38009868421052634,
+          "y": 0.4531578967445775,
+          "w": 0.1169407894736842,
+          "h": 0.12368421052631579,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 2.22,
+      "end_time": 4.69,
+      "description": "The subject's eyebrows pull down and slightly together. Their lips purse and then part as they continue speaking.",
+      "bboxes": [
+        {
+          "frame_time": 3.428219,
+          "x": 0.3238486842105263,
+          "y": 0.22421052832352487,
+          "w": 0.19391447368421053,
+          "h": 0.11315789473684211,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 2.22,
+          "x": 0.38009868421052634,
+          "y": 0.4663157914814196,
+          "w": 0.10805921052631579,
+          "h": 0.0868421052631579,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 2.519997,
+          "x": 0.3771381578947368,
+          "y": 0.4400000020077354,
+          "w": 0.1169407894736842,
+          "h": 0.1394736842105263,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 4.69,
+      "end_time": 12.55,
+      "description": "The furrow between the brows deepens slightly. The corners of the mouth are pulled slightly downwards. The subject's gaze remains fixed on the camera.",
+      "bboxes": [
+        {
+          "frame_time": 11.017105,
+          "x": 0.3401315789473684,
+          "y": 0.27947368621826174,
+          "w": 0.19539473684210526,
+          "h": 0.09473684210526316,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 12.55,
+      "end_time": 15.11,
+      "description": "The subject's gaze shifts down and to their right. Their head tilts downwards, and their mouth remains slightly open.",
+      "bboxes": [
+        {
+          "frame_time": 13.714155,
+          "x": 0.4230263157894737,
+          "y": 0.32421052832352487,
+          "w": 0.16875,
+          "h": 0.12631578947368421,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 13.714155,
+          "x": 0.3134868421052632,
+          "y": 0.016315791481419612,
+          "w": 0.28717105263157894,
+          "h": 0.6394736842105263,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 13.975211,
+          "x": 0.44671052631578945,
+          "y": 0.5005263177972091,
+          "w": 0.09769736842105263,
+          "h": 0.09736842105263158,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 12.55,
+      "description": "The subject is sitting and facing the camera. Their right hand is visible at the bottom of the frame, making small, rhythmic up-and-down gestures.",
+      "bboxes": [
+        {
+          "frame_time": 1.348935,
+          "x": 0.33421052631578946,
+          "y": 0.2663157914814196,
+          "w": 0.19539473684210526,
+          "h": 0.12894736842105264,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 1.82258,
+          "x": 0.6095394736842106,
+          "y": 0.7636842125340512,
+          "w": 0.19835526315789473,
+          "h": 0.23157894736842105,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 12.55,
+      "end_time": 15.11,
+      "description": "The subject's head and upper torso tilt forward and down to the right, looking towards their right hand, which continues to make small movements.",
+      "bboxes": [
+        {
+          "frame_time": 13.455484,
+          "x": 0.24983552631578948,
+          "y": 0.05842105463931435,
+          "w": 0.40263157894736845,
+          "h": 0.6368421052631579,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 13.870788,
+          "x": 0.4363486842105263,
+          "y": 0.3400000020077354,
+          "w": 0.14654605263157894,
+          "h": 0.10789473684210527,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 14.149248,
+          "x": 0.5976973684210526,
+          "y": 0.5321052651656302,
+          "w": 0.2501644736842105,
+          "h": 0.4631578947368421,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 9.77,
+      "description": "Speech is delivered at a moderate, consistent pace with a stable pitch and volume. The intonation follows a natural, declarative pattern.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 9.77,
+      "end_time": 14.84,
+      "description": "The pace of speech increases slightly. There is increased stress and a slight drop in pitch on the phrase \"lop the guy's hand off.\" The final word, \"fucking-,\" is delivered with a sharp increase in volume and stress before being cut off abruptly.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.11,
+      "description": "The subject is a person with long, straight red hair with dark roots, and a fair complexion. They have facial piercings, including a nose ring and two lower lip rings. They are wearing a dark t-shirt with a green graphic and a silver-colored necklace. The setting is an indoor room, well-lit from the front. Behind the subject to the left is a tall stack of what appear to be DVD or game cases. To the right is a desk with a computer monitor, speakers, a microphone, and more stacks of media cases on shelves.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 7.390812,
+      "end_time": 8.390812,
+      "description": "Subject's eyebrows were thick and close to the eyes",
+      "bboxes": [
+        {
+          "frame_time": 7.890812,
+          "x": 0.34457236842105265,
+          "y": 0.2400000020077354,
+          "w": 0.18503289473684212,
+          "h": 0.13421052631578947,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Very Low",
+      "score": 0.13,
+      "rationale": "The subject's Very Low Extraversion is indicated by a contained and reserved demeanor. They maintain a static posture, facing the camera directly with a predominantly neutral facial expression. Their vocal delivery is moderate and consistent, lacking the typical enthusiasm and volume variation seen in extraverted individuals. While hand gestures are present, they are described as 'small and rhythmic,' suggesting self-contained energy rather than the expansive, expressive movements characteristic of high extraversion. The sustained, direct gaze at the camera, an inanimate object, reflects focus on the task of recording rather than engagement in a social interaction.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Low",
+      "score": 0.37,
+      "rationale": "A Low level of Agreeableness is supported by the content and delivery of the subject's speech. They construct a cynical and aggressive narrative involving theft and violent retribution ('lop the guy's hand off'). The use of strong profanity ('fucking-') and the emotionally detached manner in which this story is told suggest a lack of concern for social harmony and a more critical, tough-minded perspective. The brief tensing of the lips and lowering of the eyebrows can also be interpreted as expressions of skepticism or disapproval, which are inconsistent with the trust and compliance typical of high agreeableness.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Low",
+      "score": 0.31,
+      "rationale": "The subject's Low Conscientiousness is primarily inferred from environmental cues. The background is visibly cluttered, with 'a tall stack of what look like DVDs or game cases' and disorganized items on a desk. This lack of orderliness is a classic behavioral marker for low conscientiousness. Additionally, the speech ends with an abruptly cut-off word, which can suggest a degree of impulsivity or a lack of careful pre-planning in communication, contrasting with the deliberate and structured style of highly conscientious individuals.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Low",
+      "score": 0.26,
+      "rationale": "The subject demonstrates a Low level of Neuroticism through their calm and stable presentation. For the majority of the clip, their speech has a consistent pace and stable volume, and they maintain steady eye contact. Their facial expression is neutral, and their body posture is relaxed. There are no observable signs of anxiety, such as nervous fidgeting, vocal quivering, or excessive self-correction. The overall emotional tone is composed and controlled, even while describing a violent scenario, which points to high emotional stability (the inverse of Neuroticism).",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "Medium",
+      "score": 0.48,
+      "rationale": "A Medium score in Openness is supported by a combination of factors. The subject's personal style, which includes facial piercings and dyed hair, indicates a comfort with unconventional aesthetics. The act of creating a spontaneous, imaginative (though grim) story reveals a capacity for fantasy and creative thinking. Furthermore, the environment filled with media like games or DVDs suggests an interest in fictional worlds. However, the subject's overall delivery is grounded and their narrative is concrete rather than abstract or intellectual, balancing the unconventional elements and placing them in the medium range for this trait.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their Low Agreeableness level?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[2.2s - 4.7s]"
+        },
+        {
+          "id": "B",
+          "text": "[0.0s - 2.1s]"
+        },
+        {
+          "id": "C",
+          "text": "[12.6s - 15.1s]"
+        },
+        {
+          "id": "D",
+          "text": "[7.4s - 8.4s]"
+        },
+        {
+          "id": "E",
+          "text": "[9.5s - 11.0s]"
+        },
+        {
+          "id": "F",
+          "text": "[5.0s - 7.0s]"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The correct interval is [2.2s - 4.7s], during which the person's eyebrows lower slightly and their lips tighten. This combination is a classic micro-expression of disapproval or skepticism, which is a key indicator for Low Agreeableness. Option A is correct. Option B is a video-based distractor; this is the initial phase where a neutral expression is established, which is more relevant to Low Neuroticism than Agreeableness. Option C is a video-based distractor; this interval contains a head tilt and gaze shift, which is more about disengagement than a specific micro-expression of disagreeableness. Option D is a video-based distractor; this interval is when the eyebrows are noted as being thick, but it is a static observation, not a change in expression. Option E is a near-miss distractor; this period involves a build-up of vocal intensity, but the most distinct facial micro-expression relevant to Agreeableness occurs earlier. Option F is a text-based distractor; it's a plausible-looking time window where no significant expression change actually occurs."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around [3.4s], a region was detected in the video (x=0.324, y=0.224, w=0.194, h=0.113, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A small, rhythmic and repetitive gesture being performed by their left hand."
+        },
+        {
+          "id": "B",
+          "text": "A subtle frowning motion expressing a hint of skepticism or disapproval."
+        },
+        {
+          "id": "C",
+          "text": "A steady and direct gaze focused forward without any noticeable shifting."
+        },
+        {
+          "id": "D",
+          "text": "A slight raising of the brows suggesting a brief moment of mild surprise."
+        },
+        {
+          "id": "E",
+          "text": "Deep wrinkles forming between the brows as a sign of intense concentration."
+        },
+        {
+          "id": "F",
+          "text": "The lips being slightly parted and moving in sync with the spoken words."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The specified bounding box at 3.4s covers the person's eyebrows. At this moment, the observation log states, The subject's eyebrows lower slightly and move closer together. This action is best described as a subtle frown indicating skepticism. Therefore, Option B is correct. Options A, C, and F are video-based distractors describing real actions (hand gesture, eye gaze, mouth movement) that occur at that time but are located in different regions of the frame, outside the specified bounding box. Option D is a near-miss distractor; it correctly identifies the body part (eyebrows) but describes the opposite motion (raising) and a different emotion (surprise). Option E is a text-based distractor based on negative evidence; it describes a plausible action ('deep wrinkles') that did not actually occur, testing against language-based assumptions."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "Select the option that correctly identifies the location and timing of the moment when the individual breaks eye contact and their head tilts downward.",
+      "options": [
+        {
+          "id": "A",
+          "text": "[14.0s] x=0.45, y=0.50, w=0.10, h=0.10"
+        },
+        {
+          "id": "B",
+          "text": "[2.2s] x=0.38, y=0.47, w=0.11, h=0.09"
+        },
+        {
+          "id": "C",
+          "text": "[3.4s] x=0.32, y=0.22, w=0.19, h=0.11"
+        },
+        {
+          "id": "D",
+          "text": "[0.0s] x=0.34, y=0.26, w=0.20, h=0.12"
+        },
+        {
+          "id": "E",
+          "text": "[11.0s] x=0.34, y=0.28, w=0.20, h=0.09"
+        },
+        {
+          "id": "F",
+          "text": "[1.3s] x=0.33, y=0.27, w=0.20, h=0.13"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The behavior described in the stem—breaking eye contact and tilting the head downward—occurs between 12.6s and 15.1s. The correct option must fall within this time range and accurately locate a relevant facial feature during this action. Option A, at 14.0s, points to the mouth while the head is tilted down and gaze is averted, correctly capturing the moment. The other options are all video-based distractors from different time segments showing different actions: B shows the mouth tightening early on, C shows the eyebrows frowning, D shows the initial direct gaze, E shows the continued direct gaze before the shift, and F shows the neutral head position at the beginning."
+    },
+    {
+      "category": "Counterfactual Reasoning",
+      "question": "If the person had NOT exhibited the behavior observed around [9.8s - 14.8s], which of the following personality assessments would be MOST affected?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Neuroticism would shift from Low to High because that rapid speech is the primary evidence of their underlying emotional instability."
+        },
+        {
+          "id": "B",
+          "text": "Agreeableness would shift from Low to Medium, as the segment contains the key evidence of a cynical worldview through its verbal content."
+        },
+        {
+          "id": "C",
+          "text": "Conscientiousness would be revised upwards, as the disorganized background is the key basis for the original low score determination."
+        },
+        {
+          "id": "D",
+          "text": "Extraversion score would likely increase, because the vocal intensity in that segment is currently interpreted as a brief moment of contained energy."
+        },
+        {
+          "id": "E",
+          "text": "Openness would decrease significantly, because the imaginative storytelling during that period is crucial for assessing their creative capacity."
+        },
+        {
+          "id": "F",
+          "text": "Agreeableness would shift from Low to High, as that segment offers the defining evidence for a lack of concern for social harmony in their behavior."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The behavior from [9.8s - 14.8s] is the aggressive and profane storytelling, which is the strongest evidence for Low Agreeableness. Removing this behavior would remove the primary support for a cynical and tough-minded worldview, likely causing the assessment to shift towards a more neutral (Medium) level. Option B is correct. Option A is a text-based distractor; it misinterprets the rapid speech as instability when the analysis found the person to be stable (Low Neuroticism). Option C is a video-based distractor; it correctly identifies the reason for the Low Conscientiousness score (the background) but this is unrelated to the behavior (speech) in the specified time range. Option E is a text-based distractor; while the storytelling relates to Openness, the most salient and impactful feature of the speech is its aggressive content affecting Agreeableness. Option F is a near-miss distractor; it correctly identifies the trait and the reason, but a shift from 'Low' to 'High' is an overcorrection. Removing one piece of evidence would moderate the score, not reverse it completely."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator05",
+      "version": 1,
+      "clues_total": 21,
+      "clues_correct": 14,
+      "clues_wrong_corrected": 4,
+      "clues_missing_skipped": 2,
+      "clues_bonus": 1
+    }
+  }
+}

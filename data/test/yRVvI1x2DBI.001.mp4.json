@@ -1,0 +1,322 @@
+{
+  "video_id": "yRVvI1x2DBI.001.mp4",
+  "video_path": "yRVvI1x2DBI.001.mp4",
+  "transcription": "Direct but with over a million followers on Facebook and hundreds of thousands on Instagram, Twitter, and YouTube, a lot, a lot, a lot of people look up to him. He is 19 years old. He is IFBB pro. I am not say ...",
+  "original_scores": {
+    "extraversion": 0.4205607476635514,
+    "agreeableness": 0.5274725274725275,
+    "conscientiousness": 0.5436893203883495,
+    "neuroticism": 0.6770833333333334,
+    "openness": 0.5555555555555556
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 15.34,
+      "description": "The subject maintains direct and consistent eye contact with the camera throughout the clip. His eyebrows are generally in a neutral to slightly raised position, moving up and down in coordination with his speech for emphasis. His mouth movements are natural and correspond to his words. His overall facial expression is engaged and serious.",
+      "bboxes": [
+        {
+          "frame_time": 8.070668,
+          "x": 0.43042763157894737,
+          "y": 0.1368421052631579,
+          "w": 0.13322368421052633,
+          "h": 0.09473684210526316,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 15.3153,
+          "x": 0.4200657894736842,
+          "y": 0.1394736842105263,
+          "w": 0.1287828947368421,
+          "h": 0.060526315789473685,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 15.3153,
+          "x": 0.45707236842105264,
+          "y": 0.30526315789473685,
+          "w": 0.06661184210526316,
+          "h": 0.060526315789473685,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 3.270276,
+          "x": 0.38453947368421054,
+          "y": 0.13157894736842105,
+          "w": 0.15098684210526317,
+          "h": 0.3078947368421053,
+          "note": "face human-annotated",
+          "region": "face"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 2.22,
+      "description": "The subject is sitting and facing the camera. He makes small, symmetrical illustrative gestures with both hands at the bottom of the frame, palms facing inward.",
+      "bboxes": [
+        {
+          "frame_time": 0,
+          "x": 0.25723684210526315,
+          "y": 0.4473684210526316,
+          "w": 0.5136513157894737,
+          "h": 0.55,
+          "note": "human-annotated",
+          "region": "unknown"
+        },
+        {
+          "frame_time": 1.600147,
+          "x": 0.6554276315789473,
+          "y": 0.781578947368421,
+          "w": 0.21759868421052633,
+          "h": 0.21052631578947367,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 2.22,
+      "end_time": 10.59,
+      "description": "The subject's hands are mostly out of frame, with only minor movements visible at the very bottom. His posture remains upright and stable.",
+      "bboxes": [
+        {
+          "frame_time": 5.179013,
+          "x": 0.23799342105263158,
+          "y": 0.8263157894736842,
+          "w": 0.18503289473684212,
+          "h": 0.17105263157894737,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 5.179013,
+          "x": 0.24095394736842105,
+          "y": 0.4394736842105263,
+          "w": 0.4633223684210526,
+          "h": 0.5552631578947368,
+          "note": "pose human-annotated",
+          "region": "torso"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 10.59,
+      "end_time": 15.34,
+      "description": "He brings both hands up into the frame in an open, palms-up gesture, spreading them slightly apart. He performs a very subtle head shake from side-to-side.",
+      "bboxes": [
+        {
+          "frame_time": 12.03345,
+          "x": 0.674671052631579,
+          "y": 0.75,
+          "w": 0.22203947368421054,
+          "h": 0.24736842105263157,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 14.45941,
+          "x": 0.3963815789473684,
+          "y": 0.03684210526315789,
+          "w": 0.19391447368421053,
+          "h": 0.4263157894736842,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 1.77,
+      "end_time": 2.62,
+      "description": "The phrase \"million followers\" is spoken with slight emphasis and a stable pitch.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 8.32,
+      "end_time": 9.77,
+      "description": "The phrase \"a lot, a lot, a lot of people\" is delivered with rhythmic, increasing emphasis on each repetition of \"a lot.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 11.23,
+      "end_time": 12.01,
+      "description": "The word \"look\" is stressed with a slightly higher pitch.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 12.72,
+      "end_time": 14.15,
+      "description": "The statement \"He's 19 years old, he's an IFBB pro\" is delivered at a slightly faster pace with a matter-of-fact tone.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.34,
+      "description": "The subject is a young, muscular, light-skinned male with short brown hair, wearing a grey baseball cap backwards and a black tank top with white lettering (\"ARMANI EXCHANGE\"). He has visible tattoos on both upper arms. He is in an indoor setting, likely a home office or bedroom, sitting at a wooden desk. Behind him is a large Apple iMac computer monitor displaying a blue flame-like logo. A silver condenser microphone on a stand is positioned to his left. A white door is visible on the left side of the frame, and a corkboard with papers on it is on the wall behind the monitor. The lighting is bright and even, likely from a source in front of him.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Medium",
+      "score": 0.42,
+      "rationale": "The subject's Extraversion is assessed as Medium. While speaking publicly in a video format indicates a degree of social confidence, several cues suggest a more reserved nature. His overall facial expression is serious and focused, rather than animated or overtly expressive. Hand gestures are present but are small, symmetrical, and contained close to the body, lacking the expansive quality often seen in highly extraverted individuals. His vocal tone is generally steady and controlled, even when using repetition for emphasis, pointing to a more deliberate than spontaneously energetic communication style.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Medium",
+      "score": 0.53,
+      "rationale": "The subject's Agreeableness is rated as Medium. In this clip, he is presenting factual information about another person. His tone is neutral and descriptive, lacking overt warmth or critical judgment. His controlled facial expressions and stable posture project a sense of impartiality. There are no strong indicators of either high agreeableness (e.g., smiling, empathetic expressions) or low agreeableness (e.g., skepticism, dismissiveness), placing his behavior squarely in the mid-range for this trait.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Medium",
+      "score": 0.54,
+      "rationale": "The subject's Conscientiousness is assessed as Medium. He demonstrates focus and control through his stable, upright posture and continuous, direct eye contact with the camera. His speech, though discussing large numbers, is structured and delivered with deliberation. The serious expression on his face reinforces a task-oriented approach to his presentation. The verbal slip at the end, followed by a slight head shake, suggests a degree of self-monitoring and a desire for accuracy in his communication, which are characteristic of conscientiousness.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "High",
+      "score": 0.68,
+      "rationale": "The subject's Neuroticism is rated as High. While he appears composed on the surface, several subtle cues suggest underlying tension or self-consciousness. His facial expression is consistently serious and his eyebrows remain static, which can indicate an effort to control or suppress emotional expression, a common behavior in individuals with higher neuroticism. The hand gestures are minimal and controlled. Most notably, the verbal misstep at the very end, which he appears to catch and react to with a head shake, can be interpreted as a moment of self-criticism or anxiety about performance, a key facet of neuroticism.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "Medium",
+      "score": 0.56,
+      "rationale": "The subject's Openness is assessed as Medium. The context of creating a video for an online audience and his personal style, including prominent tattoos, suggest a willingness to engage in self-expression. However, the content and delivery of his speech are very concrete and factual, focusing on statistics ('a million followers'), age, and profession. He is not engaging with abstract ideas or using imaginative language. This combination of expressive personal choices with a straightforward, grounded communication style supports a medium level of openness.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During 14.0s - 15.3s, the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "High Neuroticism"
+        },
+        {
+          "id": "B",
+          "text": "Low Conscientiousness"
+        },
+        {
+          "id": "C",
+          "text": "High Extraversion"
+        },
+        {
+          "id": "D",
+          "text": "Low Agreeableness"
+        },
+        {
+          "id": "E",
+          "text": "Low Neuroticism"
+        },
+        {
+          "id": "F",
+          "text": "High Openness"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. During this interval, the person makes a verbal slip ('I am not say...') and performs a slight head shake, which the personality analysis identifies as a moment of self-criticism or anxiety about performance—a key indicator for High Neuroticism.\n- Option B is a text-based distractor. A verbal slip might intuitively suggest low conscientiousness, but the immediate self-correction (head shake) actually points towards the self-monitoring aspect of conscientiousness, making the Neuroticism interpretation stronger.\n- Option C is a video-based distractor. While he makes open hand gestures earlier (around 12.0s), which could relate to extraversion, the behavior in this specific time range (the slip and shake) does not support High Extraversion.\n- Option D is a text-based distractor. There is nothing in this specific behavior or the overall clip to suggest low agreeableness; his tone is consistently neutral and factual.\n- Option E is a near-miss distractor. It correctly identifies the relevant personality dimension (Neuroticism) but gets the direction wrong. The behavior suggests high, not low, levels of performance anxiety.\n- Option F is a text-based distractor. Openness is related to creativity and intellectual curiosity, which are not demonstrated by the self-corrective behavior in this segment."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 14.5s, a region was detected in the video (x=0.396, y=0.037, w=0.194, h=0.426, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A brief, corrective side-to-side head shake."
+        },
+        {
+          "id": "B",
+          "text": "A slow, deliberate nod of emphatic affirmation."
+        },
+        {
+          "id": "C",
+          "text": "Direct and unwavering eye contact with the camera."
+        },
+        {
+          "id": "D",
+          "text": "A focused and consistently serious expression."
+        },
+        {
+          "id": "E",
+          "text": "A stable, upright posture facing the camera."
+        },
+        {
+          "id": "F",
+          "text": "Symmetrical, contained hand gesturing action."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. The provided coordinates at 14.5s frame the subject's head. The observation log for this time period explicitly notes, '[head] He slightly shakes his head from side to side. This option accurately describes that specific action.\n- Option B is a near-miss distractor. It correctly identifies a head movement but gets the direction and meaning wrong. The action is a side-to-side shake (correction/negation), not a nod (affirmation).\n- Option C is a video-based distractor. While he does maintain direct eye contact, this is a continuous state, not the prominent, brief *action* occurring at 14.5s within the specified head region.\n- Option D is a video-based distractor. Similar to C, his serious expression is his baseline state throughout the video, not the specific, momentary action captured by the question.\n- Option E is a video-based distractor. This describes his torso, which is outside the specified bounding box for the head.\n- Option F is a video-based distractor. This describes an action performed by his hands, which is both in a different body region and occurs at a different time in the video."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "The subject makes an open, illustrative hand gesture while speaking. Which of the following options correctly identifies both the time and approximate location of this specific action?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Time: 12.0s, Bbox: (x=0.675, y=0.750, w=0.222, h=0.247)"
+        },
+        {
+          "id": "B",
+          "text": "Time: 12.0s, Bbox: (x=0.396, y=0.037, w=0.194, h=0.426)"
+        },
+        {
+          "id": "C",
+          "text": "Time: 5.2s, Bbox: (x=0.675, y=0.750, w=0.222, h=0.247)"
+        },
+        {
+          "id": "D",
+          "text": "Time: 1.6s, Bbox: (x=0.655, y=0.782, w=0.218, h=0.211)"
+        },
+        {
+          "id": "E",
+          "text": "Time: 14.5s, Bbox: (x=0.457, y=0.305, w=0.067, h=0.061)"
+        },
+        {
+          "id": "F",
+          "text": "Time: 8.1s, Bbox: (x=0.430, y=0.137, w=0.133, h=0.095)"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. The observation log for [10.6s - 15.3s] describes him raising his hands in an 'open... gesture', with a specific bounding box captured at 12.0s. This option correctly pairs that timestamp with its corresponding location.\n- Option B is a near-miss distractor. It has the correct timestamp (12.0s) but provides the bounding box for the person's head, not the hand gesture.\n- Option C is a near-miss distractor. It provides the correct coordinates for the gesture's location but at the wrong time (5.2s), a moment when his hands are noted to be mostly out of frame.\n- Option D is a video-based distractor. It points to a different, smaller hand gesture that occurs at the beginning of the video, not the open gesture described in the question stem.\n- Option E is a video-based distractor. It provides a timestamp and location corresponding to the subject's mouth during the head shake, which is incorrect.\n- Option F is a video-based distractor. It provides a timestamp and location corresponding to the subject's eyes during his verbal emphasis, which is incorrect."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator18",
+      "version": 1,
+      "clues_total": 15,
+      "clues_correct": 13,
+      "clues_wrong_corrected": 2,
+      "clues_missing_skipped": 0,
+      "clues_bonus": 0
+    }
+  }
+}

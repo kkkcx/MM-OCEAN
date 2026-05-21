@@ -1,0 +1,489 @@
+{
+  "video_id": "AEqpMdMeMZA.001.mp4",
+  "video_path": "AEqpMdMeMZA.001.mp4",
+  "transcription": "The light makes it 1,000 times better. Whoever is controlling the light, props to you, man. I don't know how they control it. I don't know if it's the dancers or someone backstage.",
+  "original_scores": {
+    "extraversion": 0.6448598130841123,
+    "agreeableness": 0.5054945054945055,
+    "conscientiousness": 0.4174757281553398,
+    "neuroticism": 0.6875,
+    "openness": 0.6666666666666666
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 3.78,
+      "description": "The subject has a wide, open-mouthed smile, with the corners of his mouth pulled up and back, creating prominent smile lines. His eyes are slightly narrowed from the smile, and his gaze is directed down and to his right.",
+      "bboxes": [
+        {
+          "frame_time": 0,
+          "x": 0.36085526315789473,
+          "y": 0.4921052631578947,
+          "w": 0.13026315789473683,
+          "h": 0.1868421052631579,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 0,
+          "x": 0.3475328947368421,
+          "y": 0.3631578947368421,
+          "w": 0.15838815789473684,
+          "h": 0.11842105263157894,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 3.78,
+      "end_time": 7.42,
+      "description": "The smile lessens as he begins to speak, transitioning to a more moderate smile. His gaze remains directed towards the bottom right. His eyebrows remain in a neutral position.",
+      "bboxes": [
+        {
+          "frame_time": 4.419376,
+          "x": 0.28980263157894737,
+          "y": 0.5026315789473684,
+          "w": 0.1805921052631579,
+          "h": 0.12631578947368421,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 5.079742,
+          "x": 0.30164473684210524,
+          "y": 0.3394736842105263,
+          "w": 0.16430921052631578,
+          "h": 0.1368421052631579,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 5.333729,
+          "x": 0.3105263157894737,
+          "y": 0.3157894736842105,
+          "w": 0.17467105263157895,
+          "h": 0.1,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 7.42,
+      "end_time": 11.2,
+      "description": "The smile fades further into a neutral expression as he continues speaking. He briefly glances up and to his left. His mouth moves naturally with his speech.",
+      "bboxes": [
+        {
+          "frame_time": 7.687343,
+          "x": 0.3519736842105263,
+          "y": 0.5210526315789473,
+          "w": 0.1287828947368421,
+          "h": 0.14736842105263157,
+          "note": "human-annotated",
+          "region": "unknown"
+        },
+        {
+          "frame_time": 7.958263,
+          "x": 0.36085526315789473,
+          "y": 0.5184210526315789,
+          "w": 0.11398026315789474,
+          "h": 0.13157894736842105,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 9.685376,
+          "x": 0.3134868421052632,
+          "y": 0.30526315789473685,
+          "w": 0.1998355263157895,
+          "h": 0.4105263157894737,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 10.362675,
+          "x": 0.3046052631578947,
+          "y": 0.33157894736842103,
+          "w": 0.19095394736842106,
+          "h": 0.14473684210526316,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 10.362675,
+          "x": 0.36233552631578947,
+          "y": 0.5184210526315789,
+          "w": 0.13026315789473683,
+          "h": 0.10526315789473684,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 11.2,
+      "end_time": 15.02,
+      "description": "A slight smile returns to his face. His eyebrows raise slightly as he speaks, and his gaze returns to the bottom right of the screen.",
+      "bboxes": [
+        {
+          "frame_time": 11.988192,
+          "x": 0.36529605263157894,
+          "y": 0.5473684210526316,
+          "w": 0.11546052631578947,
+          "h": 0.09473684210526316,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 12.597761,
+          "x": 0.31200657894736844,
+          "y": 0.3394736842105263,
+          "w": 0.17467105263157895,
+          "h": 0.0868421052631579,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 13.376655,
+          "x": 0.3134868421052632,
+          "y": 0.35,
+          "w": 0.17467105263157895,
+          "h": 0.15526315789473685,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 15.02,
+      "description": "The subject is sitting, facing forward. His head remains relatively still throughout, with minor movements and nods that correspond to his speech patterns. His shoulders are relaxed and stationary. No hand gestures are visible.",
+      "bboxes": [
+        {
+          "frame_time": 13.732237,
+          "x": 0.2513157894736842,
+          "y": 0.31842105263157894,
+          "w": 0.2412828947368421,
+          "h": 0.4,
+          "note": "human-annotated",
+          "region": "unknown"
+        },
+        {
+          "frame_time": 13.732237,
+          "x": 0.23059210526315788,
+          "y": 0.23157894736842105,
+          "w": 0.2634868421052632,
+          "h": 0.4763157894736842,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 13.732237,
+          "x": 0.039638157894736833,
+          "y": 0.6973684210526315,
+          "w": 0.5358552631578948,
+          "h": 0.2236842105263158,
+          "note": "pose human-annotated",
+          "region": "shoulders"
+        },
+        {
+          "frame_time": 12.597761,
+          "x": 0.07812499999999999,
+          "y": 0.7973684210526316,
+          "w": 0.5817434210526315,
+          "h": 0.2,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 3.32,
+      "end_time": 5.08,
+      "description": "The phrase \"a thousand times better\" is spoken with a higher pitch and a cheerful, slightly breathy tone, indicating amusement.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 7.4,
+      "end_time": 9.25,
+      "description": "Speaks at a moderate pace with a friendly and appreciative tone on \"props to you, man.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 9.42,
+      "end_time": 11,
+      "description": "The phrase \"I don't know how they control it\" is delivered with a slightly lower pitch and a more inquisitive, thoughtful tone.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 11.45,
+      "end_time": 14.54,
+      "description": "His pitch remains in a mid-range, and his tone is contemplative as he says, \"I don't know if it's the dancers or someone backstage.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.02,
+      "description": "A young adult male with dark brown, wavy hair and a light complexion. He is wearing a dark blue-grey crew-neck t-shirt. The background is a plain, off-white wall with two small, gold-colored hooks visible above his right shoulder. The lighting is bright and frontal.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "High",
+      "score": 0.64,
+      "rationale": "The subject exhibits a High level of Extraversion, primarily through his sustained positive affect and vocal expressiveness. He maintains a broad, warm smile throughout the clip, a key indicator of the positive emotionality central to extraversion. His vocal tone is animated, shifting to a higher pitch and a pleasant, amused quality when expressing excitement ('a thousand times better'), which demonstrates social energy and an outward focus.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Medium",
+      "score": 0.51,
+      "rationale": "The subject's Agreeableness is assessed as Medium. He displays clear pro-social behavior by offering unsolicited, friendly praise ('props to you, man') in an appreciative tone. This cooperative and considerate remark is a strong indicator of agreeableness. The score remains in the medium range as the interaction, while positive, reflects a conventional social pleasantry rather than a deeper expression of empathy or altruism.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Medium",
+      "score": 0.42,
+      "rationale": "Conscientiousness is rated as Medium based on the limited available evidence. The subject's shift from a general comment to a more analytical line of thought ('I don't know how they control it... if it's the dancers or someone backstage') suggests a degree of thoughtfulness and curiosity about processes. This brief moment of trying to understand the mechanics behind an observation hints at an orderly, detail-oriented cognitive style, aligning with a moderate level of conscientiousness.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "High",
+      "score": 0.69,
+      "rationale": "Despite a seemingly calm and positive exterior, subtle cues suggest a High level of Neuroticism. The subject consistently averts his gaze, looking down and to the side rather than directly at the camera. This behavior is often associated with self-consciousness or social anxiety. Furthermore, his repetitive verbalization of uncertainty ('I don't know... I don't know...') can be interpreted as a form of mild rumination, a cognitive pattern linked to higher neuroticism. These cues suggest an internal state of overthinking that contrasts with his outward smile.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "High",
+      "score": 0.67,
+      "rationale": "The subject demonstrates a High degree of Openness. His immediate and enthusiastic comment on the lighting reveals a strong sensitivity to and appreciation for aesthetics. This is immediately followed by intellectual curiosity, as he speculates on the source and mechanism of the effect. This combination of aesthetic appreciation and an inquisitive desire to understand the underlying 'how' and 'who' are hallmark characteristics of a personality high in Openness to Experience.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During 9.4s - 14.5s, the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Low Conscientiousness, indicated by a lack of structured thought processes."
+        },
+        {
+          "id": "B",
+          "text": "High Extraversion, demonstrated by his energetic and outgoing vocal delivery."
+        },
+        {
+          "id": "C",
+          "text": "Medium Agreeableness, shown by offering cooperative and friendly social remarks."
+        },
+        {
+          "id": "D",
+          "text": "High Conscientiousness, reflected in his orderly and detail-focused analysis."
+        },
+        {
+          "id": "E",
+          "text": "High Openness, revealed through his intellectual curiosity about a mechanism."
+        },
+        {
+          "id": "F",
+          "text": "Low Neuroticism, evidenced by his calm and controlled speculative statements."
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. During 9.4s-14.5s, the person speculates about how the lighting is controlled, asking 'I don't know if it's the dancers or someone backstage.' This verbalized curiosity about the underlying mechanics of an aesthetic effect is a strong indicator of High Openness.\n\n- Option A is a text-based distractor because the person's speculative statements are a form of thought process, not a lack of one.\n- Option B is a video-based distractor. The evidence for High Extraversion (animated tone) is much stronger earlier in the clip (e.g., 3.3s-5.1s), not in this more pensive segment.\n- Option C is a video-based distractor. The evidence for Agreeableness (praising the crew) occurs just before this segment, at 7.4s-9.2s.\n- Option D is a near-miss distractor. The behavior does show some signs of Conscientiousness (trying to understand a process), but it is a more direct and primary indicator of intellectual curiosity, a core facet of Openness.\n- Option F is a text-based distractor. The person's statements are speculative, which might sound calm, but his overall high Neuroticism score is based on other cues like gaze aversion, making this interpretation incorrect."
+    },
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their level of Openness?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[0.0s - 1.6s]"
+        },
+        {
+          "id": "B",
+          "text": "[3.8s - 5.4s]"
+        },
+        {
+          "id": "C",
+          "text": "[7.4s - 9.0s]"
+        },
+        {
+          "id": "D",
+          "text": "[9.8s - 11.0s]"
+        },
+        {
+          "id": "E",
+          "text": "[11.2s - 12.8s]"
+        },
+        {
+          "id": "F",
+          "text": "[5.8s - 7.2s]"
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. The personality analysis links High Openness to the subject's shift from aesthetic appreciation to intellectual curiosity. This cognitive shift is non-verbally signaled by his eyebrows subtly raising around 12.6s, which falls squarely within the [11.2s - 12.8s] interval, as he begins to wonder aloud about the mechanics of the lighting.\n\n- Option A is a video-based distractor; this interval marks the initial broad smile, which relates more to Extraversion.\n- Option B is a video-based distractor; this is when his smile transitions as he begins speaking, an expression of positive affect, not curiosity.\n- Option C is a video-based distractor; this is when he gives praise ('props to you, man'), which is most relevant to Agreeableness.\n- Option D is a near-miss distractor; this interval contains a brief upward eye glance, which is a facial change, but the eyebrow raise in E is more prolonged and directly tied to the start of his inquisitive verbalization.\n- Option F is a video-based distractor; this interval shows a period of stable, gentle smiling with no significant change."
+    },
+    {
+      "category": "Mixed Emotion Discrimination",
+      "question": "During 0.0s - 3.8s, the person's emotional state is best characterized as which of the following? Consider both verbal and non-verbal cues.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Joyful surprise blended with an eager sense of anticipation for what is next."
+        },
+        {
+          "id": "B",
+          "text": "Warm contentment mixed with a feeling of deep and contemplative nostalgia."
+        },
+        {
+          "id": "C",
+          "text": "Open delight combined with a display of confident and direct social engagement."
+        },
+        {
+          "id": "D",
+          "text": "Polite acknowledgment tempered by a degree of reserved or detached satisfaction."
+        },
+        {
+          "id": "E",
+          "text": "Genuine amusement tempered by an underlying hint of social self-consciousness."
+        },
+        {
+          "id": "F",
+          "text": "Appreciative gratitude mixed with an active state of thoughtful curiosity."
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. In this interval, the person shows a broad, genuine smile (amusement) but consistently averts his gaze downwards and to the left. This combination of a clear positive expression with gaze aversion strongly suggests a mix of genuine positive feeling with a degree of self-consciousness or social anxiety, which aligns with the High Neuroticism analysis.\n\n- Option A is a text-based distractor. While he is joyful, there are no visual cues to support 'surprise' or 'anticipation'.\n- Option B is a video-based distractor. The state could be described as 'warm', but there is no evidence anywhere in the video to support 'nostalgia'.\n- Option C is a near-miss distractor. The 'open delight' part is accurate, but 'confident and direct social engagement' is contradicted by the persistent gaze aversion.\n- Option D is a text-based distractor. 'Polite acknowledgment' and 'reserved' undersell the broadness and genuineness of the wide, open-mouthed smile.\n- Option F is a video-based distractor. This emotional state accurately describes a later part of the video (from 7.4s onwards), not the initial moments."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 9.7s, a region was detected in the video (x=0.313, y=0.305, w=0.200, h=0.411, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A steady downward and rightward ocular movement is clearly visible."
+        },
+        {
+          "id": "B",
+          "text": "A relatively still head position featuring only very minor nodding."
+        },
+        {
+          "id": "C",
+          "text": "A brief, fleeting micro-expression of confusion is being displayed."
+        },
+        {
+          "id": "D",
+          "text": "A continuously held smile is maintained just on the mouth region."
+        },
+        {
+          "id": "E",
+          "text": "A sustained and expressive, non-neutral facial set is maintained."
+        },
+        {
+          "id": "F",
+          "text": "A neutral and relaxed positioning is observed for the eyebrows."
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. The bounding box at 9.7s covers the subject's entire face. The observation for this time notes did not change to a neutral expression, meaning his pleasant, smiling expression was sustained. 'A sustained and expressive, non-neutral facial set' is the most accurate description for the entire facial region within the box.\n\n- Option A is a near-miss distractor. It uses a common error pattern (wrong gaze direction - right instead of left) and focuses only on the eyes, not the entire facial region specified by the bbox.\n- Option B is a video-based distractor. The bbox is for the face, but this option describes the movement of the entire head, which is a different analysis.\n- Option C is a text-based distractor. It describes a plausible facial event, but it is not what is observed in the video at this time.\n- Option D is a near-miss distractor. While his smile is held, this option incorrectly limits the observation to 'just on the mouth region,' whereas the bbox covers the whole face and the correct answer describes the whole face.\n- Option F is a video-based distractor. It correctly identifies the state of the eyebrows at that moment, but it is too specific to that one feature and does not describe the state of the entire face within the large bounding box."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "The subject makes a subtle, inquisitive facial gesture. At which timestamp and within which bounding box does this specific action primarily occur?",
+      "options": [
+        {
+          "id": "A",
+          "text": "At 0.0s; within bbox (x=0.361, y=0.492, w=0.130, h=0.187)"
+        },
+        {
+          "id": "B",
+          "text": "At 5.1s; within bbox (x=0.302, y=0.339, w=0.164, h=0.137)"
+        },
+        {
+          "id": "C",
+          "text": "At 10.4s; within bbox (x=0.305, y=0.332, w=0.191, h=0.145)"
+        },
+        {
+          "id": "D",
+          "text": "At 12.6s; within bbox (x=0.365, y=0.547, w=0.115, h=0.095)"
+        },
+        {
+          "id": "E",
+          "text": "At 12.6s; within bbox (x=0.312, y=0.339, w=0.175, h=0.087)"
+        },
+        {
+          "id": "F",
+          "text": "At 10.4s; within bbox (x=0.312, y=0.339, w=0.175, h=0.087)"
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. The 'subtle, inquisitive facial gesture' refers to the slight raising of the eyebrows that occurs as he begins to speculate about the lighting. The observation data pinpoints this action at 12.6s and provides the corresponding bounding box for the eyebrow region.\n\n- Option A is a video-based distractor; this timestamp and bbox correspond to the initial broad, open-mouthed smile.\n- Option B is a video-based distractor; this timestamp and bbox correspond to his eyes as he looks down and to the left.\n- Option C is a video-based distractor; this timestamp and bbox correspond to his eyes as he briefly glances up and to the right.\n- Option D is a near-miss distractor. It has the correct timestamp but provides the bounding box for the mouth region at that time, not the eyebrows where the inquisitive gesture occurs.\n- Option F is a near-miss distractor. It provides the correct bounding box for the eyebrows but pairs it with an incorrect timestamp (10.4s), when his eyes were glancing upwards but his eyebrows had not yet raised."
+    },
+    {
+      "category": "Counterfactual Reasoning",
+      "question": "If the person had NOT exhibited the behavior observed around 7.4s - 9.2s, which of the following personality assessments would be MOST affected?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Extraversion would be rated much lower, as the evidence for social energy comes from this verbal praise."
+        },
+        {
+          "id": "B",
+          "text": "Openness assessment would be less certain, as this appreciation is key to his overall aesthetic sensitivity."
+        },
+        {
+          "id": "C",
+          "text": "Neuroticism would seem lower, because this social offering can be interpreted as a way to manage anxiety."
+        },
+        {
+          "id": "D",
+          "text": "Agreeableness might be rated higher, as removing a conventional pleasantry suggests a deeper authenticity."
+        },
+        {
+          "id": "E",
+          "text": "Agreeableness might be rated lower, as this segment contains the primary evidence of pro-social language."
+        },
+        {
+          "id": "F",
+          "text": "Conscientiousness assessment would be changed, as praising others reflects dutiful and organized behavior."
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. The behavior from 7.4s - 9.2s is the verbal statement 'props to you, man.' The personality analysis explicitly cites this 'cooperative and considerate remark' as the strongest single piece of evidence for Agreeableness. Removing it would significantly weaken the basis for the Medium Agreeableness score, likely causing it to be rated lower.\n\n- Option A is a video-based distractor. The evidence for Extraversion comes from his sustained positive affect and animated tone across the whole clip, not just this specific phrase.\n- Option B is a video-based distractor. The evidence for Openness comes from his initial comment on the *lights themselves* (aesthetic sensitivity) and his later speculation on their mechanism (curiosity), not this comment directed at people.\n- Option C is a text-based distractor. It offers a plausible but unsupported psychological interpretation. The actual evidence cited for Neuroticism is gaze aversion and verbal repetition, which occur at other times.\n- Option D is a near-miss distractor. It correctly identifies Agreeableness as the affected trait but proposes the wrong direction of change with a flawed rationale.\n- Option F is a text-based distractor. The link between giving praise and being conscientious is weak and not supported by the provided analysis; the evidence for Conscientiousness is his later analytical thinking."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator04",
+      "version": 1,
+      "clues_total": 22,
+      "clues_correct": 14,
+      "clues_wrong_corrected": 8,
+      "clues_missing_skipped": 0,
+      "clues_bonus": 0
+    }
+  }
+}

@@ -1,0 +1,311 @@
+{
+  "video_id": "fY4tctYZTz8.002.mp4",
+  "video_path": "fY4tctYZTz8.002.mp4",
+  "transcription": "Do you know who Pink [inaudible 00:00:25] is, like the Youtuber? Also could you-",
+  "original_scores": {
+    "extraversion": 0.1588785046728972,
+    "agreeableness": 0.3406593406593406,
+    "conscientiousness": 0.5048543689320388,
+    "neuroticism": 0.40625000000000006,
+    "openness": 0.4666666666666667
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 3.73,
+      "description": "The subject maintains direct eye contact with the camera. Their eyebrows are slightly raised, and their mouth moves naturally with speech. The corners of the mouth are slightly turned down as they speak.",
+      "bboxes": [
+        {
+          "frame_time": 0.347885,
+          "x": 0.36973684210526314,
+          "y": 0.29263158095510383,
+          "w": 0.2087171052631579,
+          "h": 0.10263157894736842,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 0.556616,
+          "x": 0.3667763157894737,
+          "y": 0.23473684411299856,
+          "w": 0.2205592105263158,
+          "h": 0.10789473684210527,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 2.226466,
+          "x": 0.3993421052631579,
+          "y": 0.5242105283235249,
+          "w": 0.12434210526315789,
+          "h": 0.10789473684210527,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 3.043997,
+          "x": 0.4082236842105263,
+          "y": 0.518947370428788,
+          "w": 0.10361842105263158,
+          "h": 0.12894736842105264,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 3.73,
+      "end_time": 6.07,
+      "description": "When saying \"The statistics on this are very bad,\" the subject's eyebrows lower slightly, and the muscles around the eyes and mouth show a slight increase in tension.",
+      "bboxes": [
+        {
+          "frame_time": 3.73,
+          "x": 0.3712171052631579,
+          "y": 0.2821052651656301,
+          "w": 0.2087171052631579,
+          "h": 0.07105263157894737,
+          "note": "human-annotated",
+          "region": "unknown"
+        },
+        {
+          "frame_time": 3.73,
+          "x": 0.36973684210526314,
+          "y": 0.2821052651656301,
+          "w": 0.23092105263157894,
+          "h": 0.07894736842105263,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 3.73,
+          "x": 0.3726973684210526,
+          "y": 0.28473684411299854,
+          "w": 0.26200657894736845,
+          "h": 0.45,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 6.07,
+      "end_time": 10.99,
+      "description": "The expression returns to a more neutral state, with the eyebrows slightly raised and facial muscles relaxed as they continue to speak.",
+      "bboxes": [
+        {
+          "frame_time": 8.050225,
+          "x": 0.3726973684210526,
+          "y": 0.15842105463931436,
+          "w": 0.2412828947368421,
+          "h": 0.5105263157894737,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 6.07,
+          "x": 0.3756578947368421,
+          "y": 0.23473684411299856,
+          "w": 0.24572368421052632,
+          "h": 0.0868421052631579,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 7.827421,
+          "x": 0.36085526315789473,
+          "y": 0.2163157914814196,
+          "w": 0.2694078947368421,
+          "h": 0.48157894736842105,
+          "note": "face human-annotated",
+          "region": "face"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 10.99,
+      "end_time": 15.25,
+      "description": "As the subject says \"gets very, very, very low rate,\" they blink slowly, and their eyebrows lower slightly in a movement concurrent with the vocal emphasis on the repeated word \"very.\"",
+      "bboxes": [
+        {
+          "frame_time": 12.601114,
+          "x": 0.3667763157894737,
+          "y": 0.2742105283235249,
+          "w": 0.24572368421052632,
+          "h": 0.15263157894736842,
+          "note": "human-annotated",
+          "region": "unknown"
+        },
+        {
+          "frame_time": 12.802183,
+          "x": 0.36529605263157894,
+          "y": 0.34526315990247225,
+          "w": 0.22351973684210527,
+          "h": 0.10263157894736842,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 13.637108,
+          "x": 0.36233552631578947,
+          "y": 0.3136842125340512,
+          "w": 0.21019736842105263,
+          "h": 0.0868421052631579,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 15.25,
+      "description": "The subject is framed from the chest up, remaining largely stationary throughout the clip. Their head makes very subtle movements, nodding and tilting slightly to add emphasis to their speech.",
+      "bboxes": [
+        {
+          "frame_time": 1.427566,
+          "x": 0.19210526315789472,
+          "y": 0.6163157914814196,
+          "w": 0.6557565789473684,
+          "h": 0.35789473684210527,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 3.757162,
+          "x": 0.3504934210526316,
+          "y": 0.08210526516563015,
+          "w": 0.3078947368421053,
+          "h": 0.6842105263157895,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 3.42,
+      "description": "Speech is delivered at a moderate pace with a relatively even pitch and volume.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 3.42,
+      "end_time": 6.42,
+      "description": "The pitch rises slightly on \"statistics,\" and there is a slight increase in volume and emphasis on the phrase \"very bad.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 6.42,
+      "end_time": 10.96,
+      "description": "The speech rate and pitch return to a more moderate and even level.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 10.96,
+      "end_time": 13.56,
+      "description": "There is a distinct rhythmic emphasis on the phrase \"very, very, very low rate,\" with each repetition of \"very\" being stressed and delivered with a slight pause between them. The pitch descends slightly on the final word, \"rate.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.25,
+      "description": "The subject is a person with fair skin, prominent cheekbones, and dark hair pulled back from a high forehead into a ponytail. They are wearing makeup, including eyeliner. They have a small black earring in each visible ear. Their attire consists of a black turtleneck sweater under a dark red, ribbed cardigan or shawl. The background is a plain, off-white or light gray wall. In the upper right corner, there is a logo featuring a triangle and the text \"Q&A.\"",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Very Low",
+      "score": 0.16,
+      "rationale": "The subject displays classic indicators of introversion. Physical energy is highly conserved, as evidenced by a head that remains 'basically still' and the use of only 'very subtle' head movements to add emphasis. Vocally, their delivery is characterized by a moderate, even tone rather than the animated, high-energy speech typical of extraverts. While engaging in a Q&A format, their reserved and contained physical presence suggests a preference for controlled, one-on-one or one-to-many communication over boisterous group settings.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Low",
+      "score": 0.34,
+      "rationale": "The subject's demeanor is more reserved and task-focused than overtly warm or accommodating. The observation of mouth corners being 'slightly downturned' during speech, combined with a general lack of smiling, points to a more critical or serious interpersonal style. When expressing a negative opinion ('very bad statistics'), their expression becomes tense, indicating a directness in expressing critique rather than a tendency to soften it for social harmony. This straightforward, less effusive style is consistent with a lower level of Agreeableness.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Medium",
+      "score": 0.5,
+      "rationale": "The subject's presentation reflects a moderate level of conscientiousness. There is clear evidence of preparation and orderliness: a neat, uncluttered background, a composed appearance (makeup, styled hair), and structured speech patterns. The use of deliberate vocal emphasis, such as the rhythmic repetition of 'very, very, very,' demonstrates a purposeful and organized approach to communication. This suggests a competent and self-disciplined individual, consistent with a medium score, without indications of the extreme perfectionism associated with higher levels.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Medium",
+      "score": 0.41,
+      "rationale": "The subject demonstrates a balanced emotional reactivity. They show a congruent, though controlled, negative emotional response to discussing 'very bad statistics,' with slightly lowered eyebrows and tense facial muscles. However, this reaction is brief, and they quickly revert to a relaxed, neutral state. This ability to both experience and express concern without being overwhelmed by it, and to swiftly regulate their emotional state, is characteristic of an individual with a medium level of Neuroticism.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "Medium",
+      "score": 0.47,
+      "rationale": "Evidence for Openness is moderate. The subject's participation in a Q&A format suggests a willingness to engage with new questions and ideas. Their speech is articulate, and the slightly raised eyebrows at the start can indicate curiosity. However, the overall presentation style is conventional, and the clip lacks strong indicators of high Openness, such as abstract language, divergent thinking, or unconventional self-expression. This balance between intellectual engagement and a conventional approach supports a medium rating.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Mixed Emotion Discrimination",
+      "question": "During 0.0s - 3.7s, the person's emotional state is best characterized as which of the following? Consider both verbal and non-verbal cues.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Focused seriousness tinged with intellectual curiosity."
+        },
+        {
+          "id": "B",
+          "text": "Annoyed impatience mixed with a reluctant engagement."
+        },
+        {
+          "id": "C",
+          "text": "Mild disdain tempered by a sense of polite duty."
+        },
+        {
+          "id": "D",
+          "text": "Confident assertion blended with a subtle challenge."
+        },
+        {
+          "id": "E",
+          "text": "Anxious reservation mixed with the desire to explain."
+        },
+        {
+          "id": "F",
+          "text": "Calm neutrality combined with a hint of disinterest."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. During this interval, the person maintains direct eye contact and has slightly raised eyebrows (suggesting curiosity/engagement), but their mouth corners are slightly downturned (suggesting seriousness). This combination supports a state of focused, serious engagement. \nOption B is a near-miss distractor; while there is engagement, 'annoyed impatience' is too strong and not supported by the cues, which indicate seriousness rather than irritation. \nOption C is a video-based distractor; 'mild disdain' better describes the expression later, around 3.7s-6.1s, when they are reacting to negative information. \nOption D is a text-based distractor; one might assume a Q&A format involves assertion and challenge, but the non-verbal cues do not support this interpretation. \nOption E is a text-based distractor; 'anxious' is not supported by the steady gaze and composed posture. \nOption F is a near-miss distractor; 'calm neutrality' is close, but it misses the signs of active engagement like the direct gaze and raised eyebrows, incorrectly suggesting 'disinterest'."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator05",
+      "version": 1,
+      "clues_total": 21,
+      "clues_correct": 19,
+      "clues_wrong_corrected": 1,
+      "clues_missing_skipped": 1,
+      "clues_bonus": 0
+    }
+  }
+}

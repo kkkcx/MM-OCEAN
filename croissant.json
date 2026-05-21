@@ -1,0 +1,196 @@
+{
+  "@context": {
+    "@language": "en",
+    "@vocab": "https://schema.org/",
+    "citeAs": "cr:citeAs",
+    "column": "cr:column",
+    "conformsTo": "dct:conformsTo",
+    "containedIn": "cr:containedIn",
+    "cr": "http://mlcommons.org/croissant/",
+    "data": {
+      "@id": "cr:data",
+      "@type": "@json"
+    },
+    "dataType": {
+      "@id": "cr:dataType",
+      "@type": "@vocab"
+    },
+    "dct": "http://purl.org/dc/terms/",
+    "extract": "cr:extract",
+    "field": "cr:field",
+    "fileProperty": "cr:fileProperty",
+    "fileObject": "cr:fileObject",
+    "fileSet": "cr:fileSet",
+    "format": "cr:format",
+    "includes": "cr:includes",
+    "isLiveDataset": "cr:isLiveDataset",
+    "jsonPath": "cr:jsonPath",
+    "key": "cr:key",
+    "md5": "cr:md5",
+    "parentField": "cr:parentField",
+    "path": "cr:path",
+    "prov": "http://www.w3.org/ns/prov#",
+    "rai": "http://mlcommons.org/croissant/RAI/",
+    "recordSet": "cr:recordSet",
+    "references": "cr:references",
+    "regex": "cr:regex",
+    "repeated": "cr:repeated",
+    "replace": "cr:replace",
+    "sc": "https://schema.org/",
+    "separator": "cr:separator",
+    "source": "cr:source",
+    "subField": "cr:subField",
+    "transform": "cr:transform"
+  },
+  "@type": "sc:Dataset",
+  "name": "MM-OCEAN",
+  "url": "https://huggingface.co/datasets/anonymous-mm-ocean/MM-OCEAN",
+  "description": "MM-OCEAN is a multi-granularity benchmark for Grounded Personality Reasoning (GPR), comprising 1,104 videos and 5,320 cue-grounding MCQs. It evaluates whether MLLMs can ground Big Five personality judgments in observable behavioral evidence through three tasks: ordinal rating, open-ended reasoning, and structured cue grounding.",
+  "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "conformsTo": "http://mlcommons.org/croissant/1.1",
+  "version": "1.0.0",
+  "datePublished": "2026",
+  "citeAs": "@inproceedings{mmocean2026, title={Perception or Prejudice: Can MLLMs Go Beyond First Impressions of Personality?}, author={Anonymous}, booktitle={NeurIPS 2026 Datasets and Benchmarks Track}, year={2026}}",
+
+  "rai:hasSyntheticData": true,
+
+  "distribution": [
+    {
+      "@type": "cr:FileObject",
+      "@id": "repo",
+      "name": "repo",
+      "contentUrl": "https://huggingface.co/datasets/anonymous-mm-ocean/MM-OCEAN",
+      "encodingFormat": "git+https",
+      "sha256": "https://github.com/mlcommons/croissant/issues/80"
+    },
+    {
+      "@type": "cr:FileSet",
+      "@id": "json-files",
+      "containedIn": {"@id": "repo"},
+      "encodingFormat": "application/json",
+      "includes": "data/test/*.json",
+      "description": "1,104 per-video annotation JSON files, each containing transcription, atomic behavioral observations with timestamps and bounding boxes, Big Five personality analyses with evidence chains, and cue-grounding MCQs (text-leak-filtered)."
+    },
+    {
+      "@type": "cr:FileObject",
+      "@id": "evaluation-script",
+      "containedIn": {"@id": "repo"},
+      "contentUrl": "evaluate.py",
+      "encodingFormat": "text/x-python",
+      "description": "Self-contained evaluation script computing T1/T2/T3 accuracy and PR/CR/IR/HR failure-mode rates."
+    },
+    {
+      "@type": "cr:FileObject",
+      "@id": "unified-prompt",
+      "containedIn": {"@id": "repo"},
+      "contentUrl": "prompts/unified.py",
+      "encodingFormat": "text/x-python",
+      "description": "Three-task unified evaluation prompt template."
+    },
+    {
+      "@type": "cr:FileObject",
+      "@id": "judge-prompt",
+      "containedIn": {"@id": "repo"},
+      "contentUrl": "prompts/judge.py",
+      "encodingFormat": "text/x-python",
+      "description": "AI-as-Judge prompt with four-dimension scoring rubric."
+    },
+    {
+      "@type": "cr:FileObject",
+      "@id": "observer-prompt",
+      "containedIn": {"@id": "repo"},
+      "contentUrl": "prompts/observer.py",
+      "encodingFormat": "text/x-python",
+      "description": "Observer agent prompt (Stage 1) for atomic behavioral observation extraction."
+    },
+    {
+      "@type": "cr:FileObject",
+      "@id": "psychologist-prompt",
+      "containedIn": {"@id": "repo"},
+      "contentUrl": "prompts/psychologist.py",
+      "encodingFormat": "text/x-python",
+      "description": "Psychologist agent prompt (Stage 2) for evidence-grounded Big Five personality analysis."
+    },
+    {
+      "@type": "cr:FileObject",
+      "@id": "examiner-prompt",
+      "containedIn": {"@id": "repo"},
+      "contentUrl": "prompts/examiner.py",
+      "encodingFormat": "text/x-python",
+      "description": "Examiner agent prompt (Stage 3) for seven-category cue-grounding MCQ generation."
+    },
+    {
+      "@type": "cr:FileObject",
+      "@id": "aligner-prompt",
+      "containedIn": {"@id": "repo"},
+      "contentUrl": "prompts/aligner.py",
+      "encodingFormat": "text/x-python",
+      "description": "Aligner agent prompt (Stage 4) for semantic consistency and factual accuracy quality assurance."
+    }
+  ],
+
+  "recordSet": [
+    {
+      "@type": "cr:RecordSet",
+      "@id": "video-annotations",
+      "description": "One record per video, containing all three annotation layers.",
+      "field": [
+        {
+          "@type": "cr:Field",
+          "@id": "video-annotations/video_id",
+          "dataType": "sc:Text",
+          "description": "ChaLearn FI V2 video filename (e.g., abc.mp4).",
+          "source": {"fileSet": {"@id": "json-files"}, "extract": {"jsonPath": "$.video_id"}}
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "video-annotations/transcription",
+          "dataType": "sc:Text",
+          "description": "ASR-extracted speech transcription.",
+          "source": {"fileSet": {"@id": "json-files"}, "extract": {"jsonPath": "$.transcription"}}
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "video-annotations/observations",
+          "dataType": "sc:Text",
+          "description": "JSON array of atomic behavioral observations, each with dimension, timestamps, description, and bounding boxes.",
+          "source": {"fileSet": {"@id": "json-files"}, "extract": {"jsonPath": "$.observations"}}
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "video-annotations/personality_analyses",
+          "dataType": "sc:Text",
+          "description": "JSON array of five per-trait Big Five analyses with evidence chains citing observation IDs.",
+          "source": {"fileSet": {"@id": "json-files"}, "extract": {"jsonPath": "$.personality_analyses"}}
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "video-annotations/mcq_questions",
+          "dataType": "sc:Text",
+          "description": "JSON array of cue-grounding MCQs spanning seven cognitive categories, each with six options.",
+          "source": {"fileSet": {"@id": "json-files"}, "extract": {"jsonPath": "$.mcq_questions"}}
+        }
+      ]
+    }
+  ],
+
+  "rai:dataLimitations": "MM-OCEAN focuses on apparent personality from short (15-second), single-speaker English video clips drawn from a Western-centric dataset (ChaLearn First Impressions V2). Personality perception is inherently subjective and culturally situated; the ordinal labels reflect aggregated crowd-sourced first impressions rather than validated trait measurements. The MCQ-based grounding operationalization probes cue retrieval over a predefined cue set, which may not capture all forms of legitimate behavioral evidence. Task 2 reasoning quality is assessed by a single AI-as-Judge (GPT-4o-mini); cross-judge robustness is reported in the paper but multi-judge or human-judge validation is recommended for high-stakes use.",
+
+  "rai:dataBiases": "The dataset inherits cultural and demographic biases from ChaLearn First Impressions V2, which is predominantly composed of Western-context English speakers. Personality labels are crowd-sourced first impressions subject to systematic rater biases (e.g., attractiveness halo, gender stereotypes). The LLM-based annotation pipeline (Observer, Psychologist, Examiner, Aligner) may introduce additional biases reflecting the training data of the backbone model (Gemini 2.5 Pro).",
+
+  "rai:personalSensitiveInformation": "The videos contain identifiable human faces and voices. The dataset includes personality trait labels (Big Five OCEAN scores), which constitute sensitive psychological information. No additional personally identifiable information (names, locations, demographics) is collected or released. Users must comply with applicable privacy regulations when using this dataset.",
+
+  "rai:dataUseCases": "MM-OCEAN is designed exclusively as a diagnostic research benchmark for evaluating grounded personality reasoning capabilities of MLLMs. The dataset is explicitly NOT intended for deployment in personality screening, hiring decisions, surveillance, or any automated decision-making about individuals.",
+
+  "rai:dataSocialImpact": "Positive: MM-OCEAN exposes the Prejudice Gap in current MLLMs (51% of correct ratings lack behavioral grounding), providing the research community with a diagnostic tool to develop more trustworthy personality-aware AI. Negative: Automated personality assessment from video carries risks of discriminatory screening. Mitigations: research-only license (CC-BY-NC-SA 4.0), explicit responsible-use guidelines in the paper appendix, and no pre-trained models released.",
+
+  "prov:wasDerivedFrom": {
+    "@type": "prov:Entity",
+    "@id": "chalearn-fiv2",
+    "prov:locatedAt": "https://chalearnlap.cvc.uab.es/dataset/24/description/"
+  },
+
+  "prov:wasGeneratedBy": {
+    "description": "Five-stage multi-agent human-collaborative annotation pipeline. Stage 1: Observer LLM drafts atomic behavioral observations; 24 trained human annotators verify, correct, or delete each observation and draw bounding boxes. Stage 2: Psychologist LLM generates evidence-grounded Big Five trait analyses. Stage 3: Examiner LLM generates seven cue-grounding MCQs per video. Stage 4: Aligner LLM performs quality assurance. Stage 5: Text-leakage filter removes transcript-derivable MCQs, followed by expert review."
+  }
+}

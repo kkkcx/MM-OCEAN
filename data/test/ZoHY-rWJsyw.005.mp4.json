@@ -1,0 +1,388 @@
+{
+  "video_id": "ZoHY-rWJsyw.005.mp4",
+  "video_path": "ZoHY-rWJsyw.005.mp4",
+  "transcription": "I don't know, what's up bae, have you ever used it? Yeah I used it all the time over at my friend's. Last time you hung out with someone? Last night with Kalen Woods just coming around doing crazy things.",
+  "original_scores": {
+    "extraversion": 0.26168224299065423,
+    "agreeableness": 0.2747252747252747,
+    "conscientiousness": 0.16504854368932043,
+    "neuroticism": 0.2708333333333333,
+    "openness": 0.16666666666666669
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 8.18,
+      "description": "The subject's gaze is directed downward, with his eyes mostly closed. His mouth moves naturally with his speech, and his facial muscles appear relaxed.",
+      "bboxes": [
+        {
+          "frame_time": 8.189935,
+          "x": 0.3815789473684211,
+          "y": 0.4342105263157895,
+          "w": 0.22203947368421054,
+          "h": 0.2131578947368421,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 8.189935,
+          "x": 0.4319078947368421,
+          "y": 0.6763157894736842,
+          "w": 0.12286184210526316,
+          "h": 0.15526315789473685,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 8.189943,
+          "x": 0.34901315789473686,
+          "y": 0.35,
+          "w": 0.26052631578947366,
+          "h": 0.5131578947368421,
+          "note": "face human-annotated",
+          "region": "face"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 8.18,
+      "end_time": 9.58,
+      "description": "The subject raises his gaze toward the camera, his eyes opening wider. The corners of his mouth turn up slightly.",
+      "bboxes": [
+        {
+          "frame_time": 8.772371,
+          "x": 0.4837171052631579,
+          "y": 0.3973684210526316,
+          "w": 0.18355263157894738,
+          "h": 0.22894736842105262,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 8.772371,
+          "x": 0.4955592105263158,
+          "y": 0.5894736842105263,
+          "w": 0.15986842105263158,
+          "h": 0.1736842105263158,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 9.58,
+      "end_time": 15.01,
+      "description": "The subject's gaze returns to the downward position, with his eyes again mostly closed as he continues to speak.",
+      "bboxes": [
+        {
+          "frame_time": 9.58,
+          "x": 0.48519736842105265,
+          "y": 0.5447368421052632,
+          "w": 0.15394736842105264,
+          "h": 0.20789473684210527,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 8.18,
+      "description": "The subject's head is tilted forward and remains mostly still. The frame is a close-up on his face and shoulders.",
+      "bboxes": [
+        {
+          "frame_time": 5.676086,
+          "x": 0.3875,
+          "y": 0.35,
+          "w": 0.23980263157894738,
+          "h": 0.5342105263157895,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 5.676086,
+          "x": 0.3046052631578947,
+          "y": 0.46578947368421053,
+          "w": 0.44703947368421054,
+          "h": 0.49473684210526314,
+          "note": "face human-annotated",
+          "region": "face"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 8.18,
+      "end_time": 9.58,
+      "description": "The subject raises his head and tilts it slightly to his right.",
+      "bboxes": [
+        {
+          "frame_time": 9.414547,
+          "x": 0.5059210526315789,
+          "y": 0.29210526315789476,
+          "w": 0.28125,
+          "h": 0.5631578947368421,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 9.58,
+      "end_time": 15.01,
+      "description": "The subject lowers his head back to the initial forward-tilted position.",
+      "bboxes": [
+        {
+          "frame_time": 12.713998,
+          "x": 0.40230263157894736,
+          "y": 0.28421052631578947,
+          "w": 0.22648026315789474,
+          "h": 0.6421052631578947,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 13.56,
+      "description": "Speech is delivered in a low-pitched, conversational tone at a moderate and consistent pace.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 13.56,
+      "end_time": 15.01,
+      "description": "The phrase \"I'm just kidding\" is spoken at a slightly faster pace and lower volume than the preceding speech.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.01,
+      "description": "A young male with short, dark hair and a medium skin tone. There are lighter patches of skin on his face, primarily around his chin and under his right eye. He is wearing a red and dark-colored hooded sweatshirt. The environment is extremely dark and appears to be an indoor space. A single light source from below and in front illuminates his face, suggesting light from a screen. The background is indistinct and in shadow.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Low",
+      "score": 0.26,
+      "rationale": "The subject exhibits several key indicators of low Extraversion. The most prominent is a persistent downward gaze, a classic sign of introversion reflecting a focus on internal thoughts rather than external social engagement. This is complemented by a low-energy vocal profile, characterized by a low pitch and moderate, consistent pace, lacking the variability and animation typical of extraverts. Furthermore, physical movements are minimal and slow, with the head remaining mostly static and tilted forward, suggesting a reserved and low-energy disposition.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Low",
+      "score": 0.27,
+      "rationale": "The assessment of low Agreeableness is based on a lack of pro-social and rapport-building cues. The subject's averted gaze and withdrawn posture can be interpreted as social disinterest or a guarded demeanor, rather than the open, engaging non-verbals (like direct eye contact and smiling) often used by highly agreeable individuals to connect. The overall emotional tone is neutral and detached, not projecting warmth or a desire to please the observer. This communication style suggests a more independent and less accommodating interpersonal stance.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Very Low",
+      "score": 0.17,
+      "rationale": "The very low Conscientiousness score is supported by the highly unstructured context and spontaneous communication style. The setting is informal and poorly lit, suggesting a lack of preparation. The subject's speech is conversational and appears unplanned, starting with 'I don't know,' which indicates an impulsive rather than a deliberate response. This lack of forethought and structure in both environment and communication is characteristic of individuals who are low in conscientiousness, favoring flexibility and spontaneity over order and planning.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Low",
+      "score": 0.27,
+      "rationale": "The subject demonstrates strong indicators of low Neuroticism, or high emotional stability. Throughout the clip, his facial muscles are described as relaxed, and his posture, though withdrawn, is static rather than fidgety or tense. His vocal delivery is steady and consistent, free from the tremors, cracking, or rapid pace often associated with anxiety. This collection of calm and stable non-verbal cues strongly suggests a low disposition towards experiencing negative emotions like stress or worry.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "Very Low",
+      "score": 0.17,
+      "rationale": "The subject's behavior suggests a very low level of Openness. His communication is concrete and tied to a recent, simple event ('Last night with Kalen Woods'). There is a complete absence of abstract ideas, imaginative language, or intellectual curiosity in his speech. His vocal tone is monotonous and his expressions are limited, indicating a lack of aesthetic sensitivity or emotional dynamism. This preference for the concrete and familiar over the abstract and novel is a hallmark of very low Openness to Experience.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During 0.0s - 8.2s, the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "High Neuroticism, indicated by a withdrawn posture which often implies social anxiety."
+        },
+        {
+          "id": "B",
+          "text": "Low Extraversion, evidenced by the persistent downward gaze and low-energy vocal tone."
+        },
+        {
+          "id": "C",
+          "text": "Low Agreeableness, supported by a lack of direct eye contact and rapport building cues."
+        },
+        {
+          "id": "D",
+          "text": "High Conscientiousness, suggested by a focused downward gaze implying careful thought."
+        },
+        {
+          "id": "E",
+          "text": "Low Neuroticism, demonstrated through a relaxed physical posture and overall composure."
+        },
+        {
+          "id": "F",
+          "text": "Low Openness, as the subject's attention appears focused inward rather than on novelty."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. During this period, the subject's persistent downward gaze is a classic indicator of introversion (internal focus), and the low-energy vocal delivery reinforces a low level of social energy, both of which are core facets of Low Extraversion. \nOption A is a text-based distractor; while a withdrawn posture could imply anxiety, the video shows relaxed muscles and a steady voice, which contradicts High Neuroticism. \nOption C is a near-miss distractor; the averted gaze does support Low Agreeableness, but it is an even more direct and primary indicator for Low Extraversion's focus on internal states over external social engagement. \nOption D is a text-based distractor; one might assume a downward gaze means deep thought, but his speech ('I don't know') and the informal setting make this interpretation unlikely. \nOption E is a video-based distractor; while the person does show signs of Low Neuroticism (relaxation), the specific cues in this period (downward gaze) are more directly indicative of Extraversion level. \nOption F is a video-based distractor; the evidence for Low Openness comes from the concrete verbal content of the entire video, not specifically from the physical behaviors in this time segment."
+    },
+    {
+      "category": "Mixed Emotion Discrimination",
+      "question": "During 8.2s - 9.6s, the person's emotional state is best characterized as which of the following? Consider both verbal and non-verbal cues.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Confident satisfaction mixed with a sense of some genuine, uninhibited joy."
+        },
+        {
+          "id": "B",
+          "text": "Detached amusement that has been tinged with a slight and subtle touch of irony."
+        },
+        {
+          "id": "C",
+          "text": "Quiet contentment mixed with a hint of fond remembrance about the recent past."
+        },
+        {
+          "id": "D",
+          "text": "Relaxed neutrality combined with deep personal focus on an internal thought process."
+        },
+        {
+          "id": "E",
+          "text": "Anxious uncertainty that is tempered by the appearance of a somewhat forced smile."
+        },
+        {
+          "id": "F",
+          "text": "Playful embarrassment that is tempered by a clear feeling of underlying shyness."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. During this interval, the person looks up with a slight smile while mentioning 'doing crazy things.' The expression is minimal and fleeting, not indicating strong emotion. 'Detached amusement' captures the low-intensity positive feeling, and 'irony' accounts for the subtle, knowing nature of the look, which contrasts with his otherwise disengaged state.\nOption A is a text-based distractor; the topic of 'crazy things' might suggest joy, but the visual evidence shows a very muted expression, not uninhibited joy.\nOption C is a near-miss distractor; 'Quiet contentment' is plausible, but 'fond remembrance' implies a deeper warmth that isn't present in the brief, ironic-looking expression.\nOption D is a video-based distractor; this accurately describes the state *before* 8.2s, but not the shift in expression that occurs during this specific interval.\nOption E is a text-based distractor; one might interpret a slight smile as forced to cover anxiety, but the video shows no other cues for anxiety (e.g., tension, fidgeting), making this unlikely.\nOption F is a text-based distractor; while shyness could be inferred from the downward gaze in other segments, during this moment he makes direct eye contact, contradicting the idea of active shyness."
+    },
+    {
+      "category": "Temporal-Causal Reasoning",
+      "question": "Consider the sequence of behaviors observed across the video. Which of the following best describes the causal chain linking the person's actions at different moments?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Social engagement prompts a memory, which causes a shift to introspection, followed by a return to baseline."
+        },
+        {
+          "id": "B",
+          "text": "Low engagement is broken by a social memory, causing a brief performative display, then a return to baseline."
+        },
+        {
+          "id": "C",
+          "text": "A performative display causes low engagement, which is then interrupted by a memory, returning to baseline."
+        },
+        {
+          "id": "D",
+          "text": "Thoughtful deliberation leads to a confident statement, then self-correction, returning to a neutral stance."
+        },
+        {
+          "id": "E",
+          "text": "Anxious behavior is overcome by a positive memory, causing sustained confidence and social engagement for a time."
+        },
+        {
+          "id": "F",
+          "text": "Low engagement is broken by a memory, causing a performative display that then deepens into more reflection."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. The video follows this causal chain: 1) The person starts in a state of low engagement (downward gaze). 2) The verbal mention of a social event ('last night') acts as a trigger. 3) This leads to a brief, performative social display (looking at the camera, slight smile). 4) He then quickly reverts to his baseline low-engagement state (looking down again).\nOption A is a distractor with reversed causality; the memory of the social event prompts the engagement, not the other way around.\nOption C is a distractor with incorrect temporal order; the performative display happens in the middle, not at the beginning.\nOption D is a text-based distractor; it maps a plausible narrative onto the verbal transcript ('I don't know' -> statement -> 'just kidding') but misinterprets the non-verbal cues associated with those moments.\nOption E is a video-based distractor; it correctly identifies a memory leading to engagement but mischaracterizes the initial state as 'anxious' (it's relaxed) and the resulting engagement as 'sustained' (it's fleeting).\nOption F is a near-miss distractor; it correctly identifies the first three steps of the chain but incorrectly describes the final step as 'deepening into more reflection' when it is simply a return to the initial baseline state."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 8.2s, a region was detected in the video (x=0.432, y=0.676, w=0.123, h=0.155, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A state of overall relaxation evident in the various muscles of the person's face."
+        },
+        {
+          "id": "B",
+          "text": "Natural articulation of the mouth area corresponding with the subject's quiet speech."
+        },
+        {
+          "id": "C",
+          "text": "A steady and consistent downward-directed gaze maintained by the eyes for a while."
+        },
+        {
+          "id": "D",
+          "text": "A static, forward-leaning posture maintained by the subject's head without movement."
+        },
+        {
+          "id": "E",
+          "text": "A general close-up perspective capturing the person's head and upper shoulder area."
+        },
+        {
+          "id": "F",
+          "text": "The distinct lowering of the head back down to its initial forward-tilted position."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. The provided coordinates at 8.2s correspond precisely to the subject's mouth. At this moment, he is speaking, so the most prominent action within that specific bounding box is the natural movement of the mouth for articulation.\nOption A is a near-miss distractor; while the facial muscles are relaxed, this describes a general state of the entire face, whereas the question asks for the most prominent action in the *specific* mouth region, which is speech movement.\nOption C is a video-based distractor; the downward gaze is happening concurrently, but it is located in the eye region, which is outside the specified bounding box.\nOption D is a video-based distractor; the head posture describes the entire head, a much larger region than the specified bounding box around the mouth.\nOption E is a text-based distractor; it describes the overall shot composition rather than a specific action within the small region of interest.\nOption F is a video-based distractor; the lowering of the head occurs at a different time segment (after 9.6s), not at 8.2s."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "At which of the following moments does a distinct shift in the subject's head orientation occur, indicating a brief change in attentional focus?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[9.4s]  x=0.51, y=0.29, w=0.28, h=0.56"
+        },
+        {
+          "id": "B",
+          "text": "[8.2s]  x=0.35, y=0.35, w=0.26, h=0.51"
+        },
+        {
+          "id": "C",
+          "text": "[5.7s]  x=0.30, y=0.47, w=0.45, h=0.49"
+        },
+        {
+          "id": "D",
+          "text": "[12.7s] x=0.40, y=0.28, w=0.23, h=0.64"
+        },
+        {
+          "id": "E",
+          "text": "[8.2s]  x=0.43, y=0.68, w=0.12, h=0.16"
+        },
+        {
+          "id": "F",
+          "text": "[9.6s]  x=0.49, y=0.54, w=0.15, h=0.21"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. The question asks to identify the moment of a head orientation shift. The coordinates at [9.4s] capture the entire head region precisely when the subject has lifted his head and tilted it slightly to the left, which is the most distinct shift in head orientation in the video, corresponding to a change in attention from inward to outward.\nOption B corresponds to the face at 8.2s, just before the head movement begins.\nOption C is a wide shot of the face and shoulders earlier in the video, where the head is static.\nOption D captures the head, but at a later time (12.7s) when it is being lowered back to the initial position, which is a different movement.\nOption E isolates the mouth area at 8.2s and does not capture the overall head shift.\nOption F isolates the eye region at 9.6s, just as the subject's gaze begins to shift back down after the head movement is complete."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator14",
+      "version": 1,
+      "clues_total": 13,
+      "clues_correct": 10,
+      "clues_wrong_corrected": 3,
+      "clues_missing_skipped": 0,
+      "clues_bonus": 0
+    }
+  }
+}

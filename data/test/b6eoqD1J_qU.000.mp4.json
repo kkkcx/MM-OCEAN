@@ -1,0 +1,446 @@
+{
+  "video_id": "b6eoqD1J_qU.000.mp4",
+  "video_path": "b6eoqD1J_qU.000.mp4",
+  "transcription": "Rickety ole antique chair. Okay. The first question is from my good friend Hilah, and it is a question about wrist pressure, and you say pressure rather than pain, but a little bit of-",
+  "original_scores": {
+    "extraversion": 0.5046728971962617,
+    "agreeableness": 0.6593406593406592,
+    "conscientiousness": 0.6796116504854369,
+    "neuroticism": 0.5208333333333334,
+    "openness": 0.5777777777777777
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 5.7,
+      "description": "The subject maintains direct eye contact with the camera. Her facial expression is mostly neutral as she speaks, with her eyebrows raising slightly as she says \"Okay.\"",
+      "bboxes": [
+        {
+          "frame_time": 0.066666,
+          "x": 0.47705592105263156,
+          "y": 0.1771929791099147,
+          "w": 0.12730263157894736,
+          "h": 0.09210526315789473,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 0.523906,
+          "x": 0.45485197368421054,
+          "y": 0.15350876858359888,
+          "w": 0.1613486842105263,
+          "h": 0.3105263157894737,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 4.070827,
+          "x": 0.42672697368421053,
+          "y": 0.1429824527941252,
+          "w": 0.17467105263157895,
+          "h": 0.14736842105263157,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 5.7,
+      "end_time": 7.5,
+      "description": "The subject breaks into a wide, genuine smile, showing teeth and causing her eyes to crinkle at the corners. The smile quickly fades back to a neutral speaking expression.",
+      "bboxes": [
+        {
+          "frame_time": 5.799999,
+          "x": 0.4252467105263158,
+          "y": 0.3271929791099147,
+          "w": 0.140625,
+          "h": 0.16842105263157894,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 6.083132,
+          "x": 0.43264802631578947,
+          "y": 0.24824561068886206,
+          "w": 0.16282894736842105,
+          "h": 0.1,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 7.5,
+      "end_time": 15.44,
+      "description": "The subject's expression returns to a neutral, focused state. She maintains steady eye contact with the camera, with natural mouth movements as she speaks.",
+      "bboxes": [
+        {
+          "frame_time": 8.299989,
+          "x": 0.47261513157894736,
+          "y": 0.14561403174149362,
+          "w": 0.14358552631578947,
+          "h": 0.2868421052631579,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 7.83333,
+          "x": 0.45041118421052634,
+          "y": 0.15350876858359888,
+          "w": 0.17763157894736842,
+          "h": 0.14736842105263157,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 9.514869,
+          "x": 0.4785361842105263,
+          "y": 0.33245613700465154,
+          "w": 0.09325657894736843,
+          "h": 0.10526315789473684,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 8.9,
+      "description": "The subject sits upright, facing forward. Her head and torso are relatively still, and her hands are not visible.",
+      "bboxes": [
+        {
+          "frame_time": 1.382706,
+          "x": 0.3986019736842105,
+          "y": 0.07719297910991468,
+          "w": 0.29161184210526314,
+          "h": 0.6710526315789473,
+          "note": "human-annotated",
+          "region": "unknown"
+        },
+        {
+          "frame_time": 6.986305,
+          "x": 0.4785361842105263,
+          "y": 0.03245613700465152,
+          "w": 0.19391447368421053,
+          "h": 0.49473684210526314,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 8.527504,
+          "x": 0.004851973684210517,
+          "y": 0.8061403475309673,
+          "w": 0.7771381578947368,
+          "h": 0.1736842105263158,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 8.9,
+      "end_time": 11.9,
+      "description": "She raises her right hand and grasps her left wrist, rubbing it gently with her thumb while talking about \"wrist pressure.\"",
+      "bboxes": [
+        {
+          "frame_time": 9.009422,
+          "x": 0.38231907894736844,
+          "y": 0.5008771896362305,
+          "w": 0.27532894736842106,
+          "h": 0.39473684210526316,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 9.809937,
+          "x": 0.4178453947368421,
+          "y": 0.2692982422678094,
+          "w": 0.2338815789473684,
+          "h": 0.5105263157894737,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 2.15,
+      "description": "The phrase \"Rickety ole antique chair\" is spoken at a moderate pace with a slightly playful, falling intonation.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 2.15,
+      "end_time": 8.51,
+      "description": "Speech is at a moderate, clear pace. Pitch becomes slightly higher and warmer on the words \"my good friend Hilah,\" with a distinct, happy inflection on the name.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 8.51,
+      "end_time": 15.44,
+      "description": "The speech rate remains consistent. The word \"pressure\" receives slight stress each time it is spoken. The overall vocal tone is steady and conversational.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.44,
+      "description": "The subject is a woman with fair skin, short dark brown hair with bangs, and dark eyes. She is wearing a white tank top with black polka dots under a beige cardigan, with a small black lavalier microphone clipped to her top. The setting is indoors, in what appears to be a dining room with yellow walls. Behind her is a large, white built-in hutch with glass cabinets, decorated with string lights. A doorway to her right shows a glimpse of a kitchen with blue walls. To the far right, a vintage typewriter and a vase with a large dark feather sit on a small table. The lighting is soft and even.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Medium",
+      "score": 0.5,
+      "rationale": "The subject exhibits a balanced profile of extraverted and introverted cues. While engaging the audience directly with steady eye contact and a clear, conversational vocal tone are socially forward behaviors, her physical energy is contained. Her body remains relatively still, and her facial expressions are frequently neutral and focused rather than overtly animated. This moderation between social engagement and reserved physical composure is characteristic of a Medium Extraversion score.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "High",
+      "score": 0.66,
+      "rationale": "A high level of Agreeableness is strongly indicated by the subject's display of genuine pro-social emotion. When mentioning her 'good friend,' she exhibits a broad Duchenne smile, characterized by both the upturned mouth and the crinkling of the eyes. This is accompanied by a palpable warmth and happiness in her vocal tone. Such authentic, positive expressions towards others are primary behavioral markers for high agreeableness, reflecting traits like warmth and empathy.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "High",
+      "score": 0.68,
+      "rationale": "The subject demonstrates behaviors associated with high Conscientiousness through her structured and purposeful communication. She systematically introduces 'The first question,' indicating an organized approach. More significantly, she uses a precise, illustrative gesture—holding and massaging her wrist while verbalizing 'wrist pressure.' This deliberate action to enhance clarity and ensure understanding is a hallmark of conscientiousness, reflecting diligence and a commitment to effective communication.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Medium",
+      "score": 0.52,
+      "rationale": "The subject presents as emotionally stable, which aligns with a score in the medium range, leaning away from high Neuroticism. Her vocal delivery is steady, her posture is composed, and she maintains consistent eye contact with the camera, all signs of low anxiety. While the act of touching her wrist could be misinterpreted as a self-soothing gesture, its direct correspondence with the topic of 'wrist pressure' suggests it is an intentional, illustrative action rather than an unconscious manifestation of stress. The absence of clear anxiety cues supports this medium rating.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "Medium",
+      "score": 0.58,
+      "rationale": "Evidence for Openness is present but not predominant, justifying a Medium score. The subject's environment, which includes a vintage typewriter and an 'antique chair,' suggests an appreciation for aesthetics and unconventional items. Her playful opening phrase also hints at a degree of creativity. However, her communication style within the clip is direct and concrete, focusing on the task at hand rather than exploring abstract ideas. This blend of an aesthetically-aware setting with straightforward discourse is consistent with a moderate level of Openness.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During 8.9s - 11.9s, the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A low level of inherent Neuroticism."
+        },
+        {
+          "id": "B",
+          "text": "A high level of inherent Agreeableness."
+        },
+        {
+          "id": "C",
+          "text": "A medium level of inherent Extraversion."
+        },
+        {
+          "id": "D",
+          "text": "A high level of inherent Openness."
+        },
+        {
+          "id": "E",
+          "text": "A low level of inherent Conscientiousness."
+        },
+        {
+          "id": "F",
+          "text": "A high level of inherent Conscientiousness."
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The behavior in this interval is the person holding and massaging their wrist while saying 'wrist pressure.' This is a precise, illustrative gesture designed to enhance clarity and understanding for the audience. This deliberate action to communicate effectively is a strong indicator of high Conscientiousness. Option F is correct. Option E is a near-miss distractor, stating the correct trait but the wrong direction. Option B is a video-based distractor; high Agreeableness is supported by the smile at 5.7s, not this gesture. Options A, C, and D are text-based distractors, as they represent plausible traits but are not the primary ones demonstrated by this specific illustrative action."
+    },
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their high Agreeableness level?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[0.1s - 1.1s]"
+        },
+        {
+          "id": "B",
+          "text": "[3.9s - 4.4s]"
+        },
+        {
+          "id": "C",
+          "text": "[8.9s - 9.9s]"
+        },
+        {
+          "id": "D",
+          "text": "[12.5s - 13.5s]"
+        },
+        {
+          "id": "E",
+          "text": "[4.8s - 5.3s]"
+        },
+        {
+          "id": "F",
+          "text": "[5.7s - 7.5s]"
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The personality analysis cites the 'broad Duchenne smile' as the primary evidence for High Agreeableness. This smile, which involves both the mouth and the eyes, occurs between 5.7s and 7.5s when she mentions her 'good friend Hilah'. Therefore, F is the correct interval. Option B is a video-based distractor corresponding to the eyebrow raise. Option C is a video-based distractor for the beginning of the hand gesture. Options A and D are video-based distractors representing periods of neutral expression. Option E is a near-miss distractor, as it is the interval immediately preceding the smile."
+    },
+    {
+      "category": "Mixed Emotion Discrimination",
+      "question": "During 5.7s - 7.5s, the person's emotional state is best characterized as which of the following? Consider both verbal and non-verbal cues.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Playful amusement tempered by self-awareness for the audience."
+        },
+        {
+          "id": "B",
+          "text": "Joyful surprise mixed with a considerable hint of disbelief."
+        },
+        {
+          "id": "C",
+          "text": "Polite happiness tempered by a sense of professional reserve."
+        },
+        {
+          "id": "D",
+          "text": "Quiet satisfaction mixed with an expression of calm confidence."
+        },
+        {
+          "id": "E",
+          "text": "Lighthearted humor mixed with direct audience engagement cues."
+        },
+        {
+          "id": "F",
+          "text": "Genuine warmth mixed with a clear sense of fond remembrance."
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "During this interval, the person mentions her 'good friend Hilah' with a Duchenne smile (eyes crinkling) and a warm vocal tone. This combination strongly suggests a genuine, positive feeling connected to a person, which is best described as genuine warmth mixed with fond remembrance. Option F is correct. Option C is a near-miss distractor; it correctly identifies happiness but mischaracterizes the authentic warmth as formal or reserved. Option A is a video-based distractor, as playful amusement is more descriptive of her opening line about the 'rickety ole antique chair' (0-2s). Options B, D, and E are text-based distractors describing other plausible positive emotional blends that do not fit the specific cues of this moment."
+    },
+    {
+      "category": "Temporal-Causal Reasoning",
+      "question": "Consider the sequence of behaviors observed across the video. Which of the following best describes the causal chain linking the person's actions at different moments?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A pro-social display builds rapport, causing a self-correction, then a focused illustrative explanation."
+        },
+        {
+          "id": "B",
+          "text": "An illustrative gesture triggers a memory, leading to a pro-social display and relaxed introduction."
+        },
+        {
+          "id": "C",
+          "text": "Anxious self-monitoring leads to a compensatory smile, followed by a gesture to regain control."
+        },
+        {
+          "id": "D",
+          "text": "An external comment disrupts a neutral state, causing an emotional reaction regulated by a gesture."
+        },
+        {
+          "id": "E",
+          "text": "Observing the room prompts a joke, which then leads to a formal intro and a topic demonstration."
+        },
+        {
+          "id": "F",
+          "text": "A focused introduction shifts to pro-social warmth on a personal cue, then to illustrative communication."
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The video shows a logical progression: she begins with a focused, neutral introduction, then her expression shifts to a warm, genuine smile when she mentions her friend (a personal cue), and finally, she transitions back to a task-focused state, using an illustrative hand gesture to explain the topic. Option F correctly captures this causal chain. Option B is a distractor with reversed temporal order. Option C is a near-miss distractor that has the correct temporal order but misinterprets the motivation behind each action (e.g., seeing anxiety instead of focus, a compensatory smile instead of a genuine one). Options A, D, and E are text-based distractors that describe plausible but incorrect causal chains that do not match the video's events."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 7.0s, a region was detected in the video (x=0.479, y=0.032, w=0.194, h=0.495, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A completely static head and torso posture with no discernible motion observed during the period."
+        },
+        {
+          "id": "B",
+          "text": "Direct and steady eye contact that is consistently maintained with the off-screen camera lens."
+        },
+        {
+          "id": "C",
+          "text": "Natural and fluid lip movements that are clearly synchronized with the person's ongoing speech."
+        },
+        {
+          "id": "D",
+          "text": "A brief raising of the eyebrows, used with the intention of adding emphasis to a specific word."
+        },
+        {
+          "id": "E",
+          "text": "A focused, consistently neutral facial expression that is maintained without showing any emotion."
+        },
+        {
+          "id": "F",
+          "text": "A subtle, responsive movement of the head that occurs while the person is actively speaking."
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The specified bounding box at 7.0s covers the person's head. The observation notes state that after an initial period of stillness, 'her head started to move slightly.' At 7.0s, this slight movement is the most prominent action within that region. Option F is correct. Option A is a near-miss distractor based on an incorrect AI observation that her head was completely still. Options B and C are video-based distractors describing actions (eye contact, lip movement) that occur within the head region but are less prominent than the overall movement of the head itself. Option D is a video-based distractor describing an eyebrow raise that occurs in a different time segment (around 4.1s). Option E is also a video-based distractor; while the expression is largely neutral, the question asks for the most prominent action, which is the movement."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "The subject uses a precise, illustrative hand gesture to clarify the topic of discussion. At which time and in which bounding box does this clarifying action occur?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Time: 5.8s; Bbox: x=0.425, y=0.327, w=0.141, h=0.168"
+        },
+        {
+          "id": "B",
+          "text": "Time: 4.1s; Bbox: x=0.427, y=0.143, w=0.175, h=0.147"
+        },
+        {
+          "id": "C",
+          "text": "Time: 9.0s; Bbox: x=0.473, y=0.146, w=0.144, h=0.287"
+        },
+        {
+          "id": "D",
+          "text": "Time: 1.4s; Bbox: x=0.399, y=0.077, w=0.292, h=0.671"
+        },
+        {
+          "id": "E",
+          "text": "Time: 9.8s; Bbox: x=0.418, y=0.269, w=0.234, h=0.511"
+        },
+        {
+          "id": "F",
+          "text": "Time: 9.0s; Bbox: x=0.382, y=0.501, w=0.275, h=0.395"
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The illustrative gesture of holding and massaging the wrist begins at 8.9s. The observation log at 9.0s provides a precise bounding box for this action on the hands. Option F correctly identifies this timestamp and bounding box. Option A is a video-based distractor for the location of the smile. Option B is a video-based distractor for the eyebrow raise. Option C is a video-based distractor that correctly identifies the time but shows the bounding box for the face, not the hands. Option D is a video-based distractor for the initial overall posture. Option E is a near-miss distractor, providing a slightly later time and a larger, less precise bounding box that covers the whole torso."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator10",
+      "version": 1,
+      "clues_total": 20,
+      "clues_correct": 13,
+      "clues_wrong_corrected": 4,
+      "clues_missing_skipped": 3,
+      "clues_bonus": 0
+    }
+  }
+}

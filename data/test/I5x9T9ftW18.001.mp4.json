@@ -1,0 +1,356 @@
+{
+  "video_id": "I5x9T9ftW18.001.mp4",
+  "video_path": "I5x9T9ftW18.001.mp4",
+  "transcription": "Last question: How effective do you think extend hospital stays can be for treating mental illness? My mother is currently in hospital for depression for the third time, but I also find myself worrying about whether it's having ...",
+  "original_scores": {
+    "extraversion": 0.4392523364485981,
+    "agreeableness": 0.6703296703296703,
+    "conscientiousness": 0.5242718446601942,
+    "neuroticism": 0.4791666666666667,
+    "openness": 0.6777777777777777
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 15.34,
+      "description": "The subject's gaze is directed downward and to her right for the entire duration, consistent with reading. Her eyebrows remain in a neutral position. Her facial muscles are relaxed, and her mouth moves naturally as she speaks. She blinks at a normal rate.",
+      "bboxes": [
+        {
+          "frame_time": 1.534043,
+          "x": 0.44819078947368424,
+          "y": 0.2900000020077354,
+          "w": 0.18355263157894738,
+          "h": 0.08157894736842106,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 1.534043,
+          "x": 0.4200657894736842,
+          "y": 0.2505263177972091,
+          "w": 0.2338815789473684,
+          "h": 0.07105263157894737,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 1.534043,
+          "x": 0.45707236842105264,
+          "y": 0.20578947569194592,
+          "w": 0.1287828947368421,
+          "h": 0.29736842105263156,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 4.169029,
+          "x": 0.47039473684210525,
+          "y": 0.43473684411299857,
+          "w": 0.08881578947368421,
+          "h": 0.09736842105263158,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 7.141607,
+          "x": 0.44819078947368424,
+          "y": 0.32157894937615644,
+          "w": 0.14654605263157894,
+          "h": 0.05263157894736842,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 15.34,
+      "description": "The subject is sitting on a brown couch, with her head tilted slightly forward and to her right. Her posture is relaxed and static throughout the clip. Her shoulders are level and relaxed. Her hands are not visible.",
+      "bboxes": [
+        {
+          "frame_time": 2.584881,
+          "x": 0.415625,
+          "y": 0.06631579148141961,
+          "w": 0.17763157894736842,
+          "h": 0.5026315789473684,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 2.584881,
+          "x": 0.3712171052631579,
+          "y": 0.5531578967445775,
+          "w": 0.3907894736842105,
+          "h": 0.37894736842105264,
+          "note": "pose human-annotated",
+          "region": "torso"
+        },
+        {
+          "frame_time": 2.584881,
+          "x": 0.30164473684210524,
+          "y": 0.5426315809551038,
+          "w": 0.49588815789473684,
+          "h": 0.1368421052631579,
+          "note": "pose human-annotated",
+          "region": "shoulders"
+        },
+        {
+          "frame_time": 2.584881,
+          "x": 0.28832236842105263,
+          "y": 0.8742105283235249,
+          "w": 0.28273026315789473,
+          "h": 0.12105263157894737,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 8.08,
+      "description": "Speech is delivered at a moderate and consistent pace. The pitch is in a mid-range and remains steady, with a slight downward inflection at the end of the first question. The volume is even.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 8.08,
+      "end_time": 15.34,
+      "description": "The speech rate and volume remain consistent. The pitch continues to be steady as she speaks.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.34,
+      "description": "The subject is a young woman with a fair complexion and long, dark brown wavy hair draped over her right shoulder. She is wearing a white spaghetti-strap camisole with sheer, embroidered details on the chest, and a silver necklace with a small pendant. She is sitting on a dark brown couch. The background is a wall covering depicting a dense green hedge with small white flowers. The scene is illuminated by a warm light source from the right, casting soft shadows on her left side.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Medium",
+      "score": 0.44,
+      "rationale": "The subject's Medium Extraversion is reflected in her composed and measured demeanor. While engaging in a social act (addressing an audience), her energy is controlled rather than expansive. Her moderate and consistent speech pace, even volume, and relaxed but still posture suggest a comfortable public presence that is neither overtly attention-seeking nor withdrawn, which is characteristic of an ambivert or an individual in the mid-range of the extraversion spectrum.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "High",
+      "score": 0.67,
+      "rationale": "A High level of Agreeableness is strongly indicated by the subject's calm and receptive presentation while reading a question about a sensitive personal topic. Her consistently relaxed facial muscles and steady, even vocal tone convey empathy and a non-judgmental stance. This approachability and consideration for the questioner's emotional state are key markers of a highly agreeable personality.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Medium",
+      "score": 0.52,
+      "rationale": "The subject demonstrates a Medium level of Conscientiousness through her focused and orderly execution of the task. Her gaze remains consistently on the text she is reading, and her speech is delivered at a deliberate, consistent pace, indicating a dutiful and methodical approach. The absence of either overt perfectionism or carelessness in her presentation aligns well with a score in the medium range of this trait.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Medium",
+      "score": 0.48,
+      "rationale": "This score, bordering on Low Neuroticism, is supported by the subject's clear display of emotional stability. Despite the serious nature of the topic, she exhibits no physiological signs of anxiety; her facial muscles and shoulders are relaxed, her blink rate is normal, and her voice remains steady and controlled. This composure suggests a low reactivity to potential stressors, placing her in the more emotionally stable, medium-to-low end of the neuroticism scale.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "High",
+      "score": 0.68,
+      "rationale": "The subject's High Openness is primarily evidenced by her intellectual engagement with a complex and abstract social issue—the efficacy of mental health treatments. Choosing to address such a topic indicates a high degree of curiosity and a willingness to explore nuanced ideas. Additionally, the aesthetic choice of a detailed, nature-themed wallpaper in her background may reflect an appreciation for beauty, a facet frequently associated with open personalities.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Mixed Emotion Discrimination",
+      "question": "During 0.0s - 15.3s, the person's emotional state is best characterized as which of the following? Consider both verbal and non-verbal cues.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Somber reflection mixed with an undercurrent of personal anxiety and unease."
+        },
+        {
+          "id": "B",
+          "text": "Focused seriousness tempered by a notable feeling of gentle and calm empathy."
+        },
+        {
+          "id": "C",
+          "text": "Intellectual curiosity mixed with an air of detached and objective analysis."
+        },
+        {
+          "id": "D",
+          "text": "Polite concern tempered by a slight sense of mild impatience with the topic."
+        },
+        {
+          "id": "E",
+          "text": "Wistful sadness mixed with a clear display of supportive encouragement."
+        },
+        {
+          "id": "F",
+          "text": "Neutral objectivity tempered by a formal and structured presentation style."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. The subject is addressing a serious topic ('depression', 'hospital stays'), which accounts for 'focused seriousness'. However, her relaxed posture, steady voice, and calm demeanor, as noted in the Agreeableness analysis, strongly suggest an empathetic and non-judgmental stance, well-described as 'gentle and calm empathy'. This combination accurately captures her overall state.\n\n- Option A is a near-miss distractor. 'Somber reflection' is plausible given the topic, but 'personal anxiety and unease' is directly contradicted by the visual evidence of her calm demeanor and normal blink rate, which supports low emotional reactivity.\n- Option C is a near-miss distractor. She does show 'intellectual curiosity' (supporting Openness), but describing her as 'detached' and 'objective' misses the warm, empathetic quality of her vocal tone that supports High Agreeableness.\n- Option D is a text-based distractor. While 'polite concern' is plausible, there is no visual or auditory evidence of 'impatience' in the video; her pacing is consistently deliberate.\n- Option E is a text-based distractor. The topic could evoke sadness, but her expression does not appear 'wistful', and she is currently reading a question, not actively providing 'supportive encouragement'.\n- Option F is a text-based distractor. While her presentation could be seen as 'formal', describing her state as 'neutral objectivity' fails to capture the empathetic tone that is a key part of her presentation."
+    },
+    {
+      "category": "Temporal-Causal Reasoning",
+      "question": "Consider the sequence of behaviors observed across the video. Which of the following best describes the causal chain linking the person's actions at different moments?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Emotional regulation (early video) causes a need for attentional focusing (mid-video), which concludes with the initiation of task engagement (late video)."
+        },
+        {
+          "id": "B",
+          "text": "Task engagement (early video) necessitates sustained attentional focusing (mid-video), which in turn facilitates an emotionally regulated verbal delivery (late video)."
+        },
+        {
+          "id": "C",
+          "text": "A self-monitoring behavior (early video) triggers a compensatory display of confidence (mid-video), leading to a state of cognitive dissonance (late video)."
+        },
+        {
+          "id": "D",
+          "text": "The perception of the background aesthetic (early video) induces a state of calm (mid-video), which directly shapes the prosody of her speech (late video)."
+        },
+        {
+          "id": "E",
+          "text": "Task engagement (early video) directly causes an emotionally regulated delivery (mid-video), which then requires attentional focusing to maintain (late video)."
+        },
+        {
+          "id": "F",
+          "text": "Attentional focusing (early video) and verbal delivery (mid-video) are independent results of an underlying calm disposition evident throughout (entire video)."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. This option accurately describes the logical flow of actions. First, she engages with the task of reading the question (early video). This action requires her to focus her attention, observed as her consistent downward gaze (mid-video). This focused state, combined with her stable disposition, allows for a controlled and emotionally regulated verbal output as she reads the serious content (late video).\n\n- Option A is a distractor with reversed temporal order. Task engagement happens first, not last.\n- Option C is a text-based distractor. It uses plausible psychological jargon ('self-monitoring', 'cognitive dissonance') that does not accurately describe the observed behaviors.\n- Option D is a video-based distractor. It references a real element (the background), but posits a speculative causal link between it and her speech that is not supported by the primary evidence.\n- Option E is a near-miss distractor. It correctly identifies the components but reverses the causality between attentional focus and verbal delivery. She focuses *in order to* speak correctly, not the other way around.\n- Option F is a text-based distractor. It incorrectly posits that focus and delivery are independent, when in fact the former is a prerequisite for the latter in a reading task."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 2.6s, a region was detected in the video (x=0.416, y=0.066, w=0.178, h=0.503, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Natural mouth movements indicating steady, articulate speech."
+        },
+        {
+          "id": "B",
+          "text": "A gentle tilt of the head toward the person's own left side."
+        },
+        {
+          "id": "C",
+          "text": "Eyebrows held in a constantly relaxed and neutral position."
+        },
+        {
+          "id": "D",
+          "text": "A slight tilt of the head toward the person's own right side."
+        },
+        {
+          "id": "E",
+          "text": "A steady gaze directed downward and toward the right of frame."
+        },
+        {
+          "id": "F",
+          "text": "A normal blink rate suggesting a calm and unstressed state."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. The provided coordinates (x=0.416, y=0.066, w=0.178, h=0.503) at 2.6s encompass the subject's entire head. The most prominent and stable feature of the head's posture, as noted in the observation cues, is its tilt to her left.\n\n- Option A is a video-based distractor. This action occurs, but it is localized to the mouth region, which is a smaller area within the specified bounding box.\n- Option C is a video-based distractor. This is correct, but it describes the eyebrows, which are only a small part of the large head region defined by the bounding box.\n- Option D is a near-miss distractor. It correctly identifies the action (a head tilt) but gets the direction wrong, referencing a common AI error pattern.\n- Option E is a video-based distractor. This describes the action of the eyes, which are a small sub-region within the specified bounding box.\n- Option F is a video-based distractor. This describes the blinking of the eyes, a temporal action of a small sub-region, not the overall static posture of the entire head."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "Identify the specific time and location corresponding to the subject's primary visual focus, which is a key indicator of her task-oriented behavior.",
+      "options": [
+        {
+          "id": "A",
+          "text": "At 7.1s, in the region defined by bbox (x=0.448, y=0.422, w=0.147, h=0.053)."
+        },
+        {
+          "id": "B",
+          "text": "At 1.5s, in the region defined by bbox (x=0.448, y=0.290, w=0.184, h=0.082)."
+        },
+        {
+          "id": "C",
+          "text": "At 2.6s, in the region defined by bbox (x=0.371, y=0.553, w=0.391, h=0.379)."
+        },
+        {
+          "id": "D",
+          "text": "At 1.5s, in the region defined by bbox (x=0.420, y=0.251, w=0.234, h=0.071)."
+        },
+        {
+          "id": "E",
+          "text": "At 4.2s, in the region defined by bbox (x=0.470, y=0.435, w=0.089, h=0.097)."
+        },
+        {
+          "id": "F",
+          "text": "At 12.0s, in the region defined by bbox (x=0.250, y=0.300, w=0.150, h=0.100)."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. The question asks to locate the 'primary visual focus' for her task. The observation cues state her gaze is consistently 'downward anddown and to the right, which is indicative of reading. The bounding box at [1.5s] (x=0.448, y=0.290, w=0.184, h=0.082) correctly isolates the eye region during this action.\n\n- Option A is a video-based distractor. This is another valid bounding box for the eyes, but the question asks for the 'primary' indicator, and the bbox at 1.5s is a more representative example from the observation list.\n- Option C is a video-based distractor. This bounding box correctly identifies the torso at 2.6s, which is unrelated to her visual focus.\n- Option D is a near-miss distractor. It uses the correct timestamp (1.5s) but provides the bounding box for the eyebrows, which is adjacent to but not the correct location for her visual focus.\n- Option E is a video-based distractor. This bounding box correctly identifies the mouth at 4.2s, which is related to speaking, not visual focus.\n- Option F is a text-based distractor. This combination of time and coordinates does not correspond to any salient feature or documented observation in the provided data."
+    },
+    {
+      "category": "Counterfactual Reasoning",
+      "question": "If the person had not exhibited the vocal patterns observed around 0.0s - 8.1s, which of the following personality assessments would be MOST affected?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Conscientiousness would be less supported, as consistent vocal delivery is crucial evidence for a methodical and orderly task approach."
+        },
+        {
+          "id": "B",
+          "text": "The assessment for Agreeableness would be less certain, as the steady, empathetic vocal delivery is a primary indicator of a receptive stance."
+        },
+        {
+          "id": "C",
+          "text": "The assessment for Neuroticism would be most impacted, because her vocal stability in this segment is the main evidence for emotional control."
+        },
+        {
+          "id": "D",
+          "text": "Openness would be significantly lower, since her manner of speaking in this segment implies a deep intellectual curiosity about the topic."
+        },
+        {
+          "id": "E",
+          "text": "Extraversion would likely shift from Medium to High, because the controlled speech may be suppressing a more naturally energetic disposition."
+        },
+        {
+          "id": "F",
+          "text": "Agreeableness would probably be assessed as higher, as removing the flat vocal pattern could suggest a more dynamic emotional presence."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. The personality analysis for High Agreeableness explicitly states it is 'strongly indicated by the subject's calm and receptive presentation' and that her 'steady, even vocal tone convey empathy'. Removing this key piece of evidence would most significantly weaken the foundation for the High Agreeableness assessment.\n\n- Option A is a text-based distractor. This sounds plausible, but the analysis primarily bases the Conscientiousness score on her focused gaze and deliberate pace, making the vocal pattern a secondary, less crucial piece of evidence.\n- Option C is a near-miss distractor. The vocal stability also supports her Medium Neuroticism score. However, the analysis for Agreeableness relies more heavily on the *empathetic quality* of the tone, making its removal more impactful for that specific trait assessment compared to Neuroticism, which is also supported by relaxed muscles and normal blink rate.\n- Option D is a video-based distractor. The assessment for Openness is based on the *content* of what she is discussing (a complex issue) and background visuals, not the vocal delivery style.\n- Option E is a text-based distractor. This is speculative and contradicts the evidence. There is no indication that a different disposition is being suppressed.\n- Option F is a near-miss distractor. It correctly identifies the trait (Agreeableness) but proposes the wrong direction of change. Removing a key piece of positive evidence would weaken, not strengthen, the assessment."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [
+      {
+        "check": "B",
+        "q_idx": 5,
+        "issue": "The correct answer and distractors are not properly differentiated. Both option A and option B provide correct timestamps and bounding boxes for the subject's eyes, which represent her 'primary visual focus.' Since the observations state her gaze is consistent, both options are factually correct, making the question ambiguous.",
+        "action": "Modified the coordinates in option A to make it factually incorrect, ensuring that option B is the unique correct answer."
+      }
+    ],
+    "corrections": {
+      "mcq_questions[5].options[0].text": "At 7.1s, in the region defined by bbox (x=0.448, y=0.422, w=0.147, h=0.053)."
+    },
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator09",
+      "version": 1,
+      "clues_total": 12,
+      "clues_correct": 11,
+      "clues_wrong_corrected": 1,
+      "clues_missing_skipped": 0,
+      "clues_bonus": 0
+    }
+  }
+}

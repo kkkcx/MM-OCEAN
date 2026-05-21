@@ -1,0 +1,538 @@
+{
+  "video_id": "Po4UGCJbCbw.005.mp4",
+  "video_path": "Po4UGCJbCbw.005.mp4",
+  "transcription": "I decided, hmm, probably not the best thing to do, so I decided to delete it and I'm probably not going to do a play-through on Fallout 4 for that reason. For the second one I'm probably not going to be able to play on-",
+  "original_scores": {
+    "extraversion": 0.36448598130841126,
+    "agreeableness": 0.4725274725274725,
+    "conscientiousness": 0.3980582524271845,
+    "neuroticism": 0.35416666666666663,
+    "openness": 0.5111111111111111
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 4.8,
+      "description": "The subject initially looks at the camera with a slight frown and downturned mouth corners. He then glances down and to his right as his expression softens, though his eyebrows remain slightly furrowed.",
+      "bboxes": [
+        {
+          "frame_time": 0.473196,
+          "x": 0.36307565789473684,
+          "y": 0.25087718963623046,
+          "w": 0.2501644736842105,
+          "h": 0.20789473684210527,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 1.358533,
+          "x": 0.36455592105263157,
+          "y": 0.4956140317414936,
+          "w": 0.13766447368421053,
+          "h": 0.15,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 1.785936,
+          "x": 0.32754934210526315,
+          "y": 0.2798245580572831,
+          "w": 0.25608552631578946,
+          "h": 0.20526315789473684,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 3.14447,
+          "x": 0.3171875,
+          "y": 0.2929824527941252,
+          "w": 0.24276315789473685,
+          "h": 0.45,
+          "note": "face human-annotated",
+          "region": "face"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 4.8,
+      "end_time": 6.8,
+      "description": "He looks back at the camera, raises his eyebrows, and slightly widens his eyes while speaking.",
+      "bboxes": [
+        {
+          "frame_time": 4.8,
+          "x": 0.3216282894736842,
+          "y": 0.3140350843730726,
+          "w": 0.21019736842105263,
+          "h": 0.15789473684210525,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 5.953123,
+          "x": 0.3112664473684211,
+          "y": 0.5245614001625463,
+          "w": 0.17023026315789475,
+          "h": 0.18157894736842106,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 6.8,
+      "end_time": 11.2,
+      "description": "His expression returns to a more neutral state as he continues to speak, maintaining eye contact with the camera.",
+      "bboxes": [
+        {
+          "frame_time": 8.298975,
+          "x": 0.28610197368421053,
+          "y": 0.2403508738467568,
+          "w": 0.28125,
+          "h": 0.5421052631578948,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 10.730885,
+          "x": 0.3615953947368421,
+          "y": 0.2982456106888621,
+          "w": 0.21019736842105263,
+          "h": 0.24210526315789474,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 11.2,
+      "end_time": 15.5,
+      "description": "His eyebrows press slightly together and his mouth forms a slight frown. He blinks several times while looking at the camera with a contemplative expression.",
+      "bboxes": [
+        {
+          "frame_time": 13.264779,
+          "x": 0.25501644736842105,
+          "y": 0.24561403174149363,
+          "w": 0.3226973684210526,
+          "h": 0.20526315789473684,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 14.104322,
+          "x": 0.3290296052631579,
+          "y": 0.5087719264783357,
+          "w": 0.21611842105263157,
+          "h": 0.14736842105263157,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 4.8,
+      "description": "The subject is seated, facing the camera. His posture is relatively still with minor head movements corresponding to speech.",
+      "bboxes": [
+        {
+          "frame_time": 0,
+          "x": 0.29942434210526314,
+          "y": 0.08771929489938836,
+          "w": 0.3730263157894737,
+          "h": 0.8973684210526316,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 0,
+          "x": 0.3171875,
+          "y": 0.07192982121517784,
+          "w": 0.36710526315789477,
+          "h": 0.9210526315789473,
+          "note": "pose human-annotated",
+          "region": "torso"
+        },
+        {
+          "frame_time": 4.04507,
+          "x": 0.32310855263157895,
+          "y": 0.07719297910991468,
+          "w": 0.2590460526315789,
+          "h": 0.9184210526315789,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 4.8,
+      "end_time": 6.8,
+      "description": "He raises his right hand into the frame, palm facing forward with fingers spread.",
+      "bboxes": [
+        {
+          "frame_time": 5.525719,
+          "x": 0.5273848684210526,
+          "y": 0.38245613700465153,
+          "w": 0.36414473684210524,
+          "h": 0.6131578947368421,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 6.8,
+      "end_time": 10.9,
+      "description": "He lowers his right hand out of view.",
+      "bboxes": [
+        {
+          "frame_time": 7.311656,
+          "x": 0.5777138157894737,
+          "y": 0.6061403475309673,
+          "w": 0.3138157894736842,
+          "h": 0.39210526315789473,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 10.9,
+      "end_time": 15.5,
+      "description": "He raises his right hand to touch the right side of his neck and then tilts his head to his left, resting it against his hand.",
+      "bboxes": [
+        {
+          "frame_time": 13.476026,
+          "x": 0.4711348684210526,
+          "y": 0.38245613700465153,
+          "w": 0.3004934210526316,
+          "h": 0.5421052631578948,
+          "note": "human-annotated",
+          "region": "neck"
+        },
+        {
+          "frame_time": 13.476026,
+          "x": 0.20320723684210526,
+          "y": 0.09824561068886205,
+          "w": 0.38338815789473685,
+          "h": 0.6868421052631579,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 1.2,
+      "description": "The subject begins speaking and then utters a contemplative, voiced \"hmm\" with a falling pitch.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 1.2,
+      "end_time": 10.9,
+      "description": "His speech continues at a moderate and steady pace, with a stable pitch in his mid-vocal range.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 10.9,
+      "end_time": 15.5,
+      "description": "The speech rate slows slightly, and the tone becomes more hesitant, with a slight increase in vocal fry as he speaks.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.5,
+      "description": "The subject is a young adult male with dark hair, glasses, and a short beard, filmed from the chest up. He is wearing a dark t-shirt with a graphic print. The background consists of a wooden bookshelf filled with books. A microphone on a boom arm is visible to his left. The frame is bordered on the left and right by vertical purple bars decorated with yellow, seven-pointed stars.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Low",
+      "score": 0.36,
+      "rationale": "The subject's Low Extraversion is indicated by his reserved and deliberate communication style. His speech maintains a moderate, steady pace, lacking the high energy and rapid tempo often seen in high extraversion. His posture is relatively still, and the initial thoughtful \"hmm\" accompanied by an upward-left gaze shift suggests an internal, reflective thought process, which is more characteristic of introversion than the spontaneous, outward expressiveness of extraversion.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Medium",
+      "score": 0.47,
+      "rationale": "The Medium score for Agreeableness is reflected in the subject's balanced social presentation. He explains his decision in a non-confrontational manner, and his expression softens after an initial frown, showing a tendency toward maintaining social harmony. The use of an open-palmed hand gesture can be seen as a cooperative and non-threatening way to engage with his audience. This desire to explain himself gently, rather than being dismissive or defiant, aligns with a moderate level of agreeableness.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Medium",
+      "score": 0.4,
+      "rationale": "The subject's Medium Conscientiousness is evident in his deliberate communication. He is clearly explaining a decision made after some thought (\"I decided, hmm, probably not the best thing to do...\"), which indicates a level of self-reflection and purposefulness. The setting, with a bookshelf and dedicated microphone, suggests an organized approach to his activity. However, the slight hesitation and vocal tremor towards the end point to a process that is considered but not perfectly polished, which is consistent with a moderate score.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Low",
+      "score": 0.35,
+      "rationale": "A Low Neuroticism score is supported by the subject's generally calm and emotionally stable demeanor. For most of the clip, his posture is composed and his vocal tone is steady. While there are fleeting indicators of mild discomfort—such as the self-soothing gesture of touching his neck and a slight vocal tremor—these are subtle and transient. They do not disrupt his overall composure, indicating a good capacity for managing emotional responses, which is characteristic of low neuroticism.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "Medium",
+      "score": 0.51,
+      "rationale": "The Medium score for Openness is suggested by the context and the subject's reflective style. The prominent bookshelf in the background implies intellectual curiosity and an interest in ideas. Furthermore, his engagement in the creative activity of making videos about a fictional game world points to an imaginative side. This combination of intellectual and creative interests, presented in a thoughtful and straightforward manner, aligns well with a moderate level of Openness.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During [10.9s - 15.5s], the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "High Agreeableness, reflecting a strong focus on creating social harmony through careful explanation."
+        },
+        {
+          "id": "B",
+          "text": "Low Extraversion, demonstrating an inward focus and reserved demeanor while communicating his ideas."
+        },
+        {
+          "id": "C",
+          "text": "High Neuroticism, revealing significant underlying emotional distress and anxiety through his actions."
+        },
+        {
+          "id": "D",
+          "text": "Low Neuroticism, reflecting a capacity to manage mild discomfort without disrupting his composure."
+        },
+        {
+          "id": "E",
+          "text": "Medium Conscientiousness, showing a planned but not perfectly polished style of communication."
+        },
+        {
+          "id": "F",
+          "text": "Low Openness, implying a notable resistance to considering unconventional ideas or activities."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "The behavior in this interval includes touching his neck and a slight vocal tremor, which are subtle signs of discomfort. The analysis interprets his ability to continue speaking calmly despite these signals as evidence of good emotional regulation, which supports a Low Neuroticism score.\n- Option A is a text-based distractor. Agreeableness is plausible from the overall non-confrontational tone, but this specific self-soothing gesture isn't primary evidence for it.\n- Option B is a video-based distractor. Low Extraversion is supported by evidence from other parts of the video (e.g., the initial thoughtful gaze shift), not primarily by the neck-touching gesture.\n- Option C is a near-miss distractor. The behaviors (neck touch, tremor) are indeed related to the Neuroticism dimension, but interpreting them as 'significant distress' is incorrect; they are mild and well-managed, thus pointing to Low, not High, Neuroticism.\n- Option E is a video-based distractor. Medium Conscientiousness is supported by the overall act of giving a considered explanation, but not specifically by the behaviors in this narrow time window.\n- Option F is a text-based distractor. The idea of deleting content could be interpreted as being 'closed off', but this is a superficial reading of the text and is not supported by the visual cues."
+    },
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression occur that is most relevant to assessing their level of Neuroticism?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[0.0s - 1.3s]"
+        },
+        {
+          "id": "B",
+          "text": "[1.8s - 3.1s]"
+        },
+        {
+          "id": "C",
+          "text": "[4.9s - 6.2s]"
+        },
+        {
+          "id": "D",
+          "text": "[11.5s - 12.8s]"
+        },
+        {
+          "id": "E",
+          "text": "[7.2s - 8.5s]"
+        },
+        {
+          "id": "F",
+          "text": "[9.4s - 10.7s]"
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "The time interval from [11.2s - 15.5s] contains subtle cues related to emotional regulation (mild discomfort), which are key for assessing Neuroticism. The interval [11.5s - 12.8s] captures the onset of the eyebrows drawing slightly together just before the mouth purses, which is the most relevant facial change.\n- Option A is a video-based distractor. This interval captures the initial frown, which is more related to his contemplation of the topic rather than his underlying emotional stability.\n- Option B is a video-based distractor. This interval captures his upward-left gaze shift, which is more relevant to his internal thought process (related to Introversion) than to Neuroticism.\n- Option C is a video-based distractor. This interval captures his open-palmed gesture and return to eye contact, which is most relevant to Agreeableness.\n- Option E is a text-based distractor. This interval shows a period of neutral expression. A model might incorrectly select this by reasoning that 'low neuroticism' equals 'neutral', but the question asks for a *change* relevant to the assessment.\n- Option F is a near-miss distractor. This interval is just before the key emotional shift, capturing a period of neutral expression, making it close but incorrect."
+    },
+    {
+      "category": "Mixed Emotion Discrimination",
+      "question": "During [0.0s - 4.8s], the person's emotional state is best characterized as which of the following? Consider both verbal and non-verbal cues.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Deep disappointment mixed with a sense of bitter acceptance about his past decision."
+        },
+        {
+          "id": "B",
+          "text": "Nervous apprehension tempered by an attempt at maintaining a forced, calm composure."
+        },
+        {
+          "id": "C",
+          "text": "Serious contemplation characterized by a stern and judgmental view of the situation."
+        },
+        {
+          "id": "D",
+          "text": "Thoughtful reservation mixed with mild disapproval regarding the topic being discussed."
+        },
+        {
+          "id": "E",
+          "text": "Mild regret tempered by a feeling of confident resolve in the choice he has now made."
+        },
+        {
+          "id": "F",
+          "text": "Frustration about the subject tempered by a feeling of reluctant but necessary explanation."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "In this period, the person starts with a thoughtful 'hmm', a slight frown, and an upward gaze shift (thoughtful reservation), followed by downturned mouth corners (mild disapproval). His expression then softens as he begins to explain, fitting the description of a considered, slightly negative reflection.\n- Option A is a text-based distractor. It exaggerates the emotional intensity. The cues are mild, not 'deep' or 'bitter', which might be inferred from the text 'delete it' alone.\n- Option B is a video-based distractor. This description better fits the end of the video ([11.2s - 15.5s]), where self-soothing gestures appear, not the beginning.\n- Option C is a near-miss distractor. 'Serious contemplation' is accurate, but 'stern and judgmental' is not. His expression actually softens, contradicting the idea of sternness.\n- Option E is a near-miss distractor. 'Mild regret' is plausible, but his demeanor is hesitant and reflective, not characterized by 'confident resolve' at this stage.\n- Option F is a text-based distractor. 'Frustration' is too strong an emotion; the visual cues suggest contemplation and reservation rather than active frustration."
+    },
+    {
+      "category": "Temporal-Causal Reasoning",
+      "question": "Consider the sequence of behaviors observed across the video. Which of the following best describes the causal chain linking the person's actions at different moments?",
+      "options": [
+        {
+          "id": "A",
+          "text": "An initial self-regulatory action prompts an explanatory gesture, which is then followed by a period of internal cognitive processing."
+        },
+        {
+          "id": "B",
+          "text": "A display of high confidence is followed by a verbal retraction of his statement, which then leads to a gesture of social appeasement."
+        },
+        {
+          "id": "C",
+          "text": "An initial expression of displeasure is followed by a neutral state, which then leads to a gesture of emphatic intellectual clarification."
+        },
+        {
+          "id": "D",
+          "text": "A moment of internal cognitive processing is followed by an explanatory gesture to build rapport, concluding with a self-regulatory action."
+        },
+        {
+          "id": "E",
+          "text": "An explanatory gesture intended to build rapport causes a moment of internal cognitive processing, which then leads to a self-regulatory action."
+        },
+        {
+          "id": "F",
+          "text": "A moment of internal cognitive processing is followed by a self-regulatory action, which then concludes with an explanatory rapport gesture."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "The video follows this causal sequence: (1) The upward-left gaze shift around 1.8s indicates internal thought. (2) This is followed by the open-palmed gesture around 5.5s to explain his thought process cooperatively. (3) The sequence concludes with the self-soothing neck touch around 13.5s as he finishes his point.\n- Option A is a video-based distractor with reversed temporal order. The cognitive processing happens first, not last.\n- Option B is a text-based distractor. The video shows no signs of 'high confidence' or a 'verbal retraction'.\n- Option C is a near-miss distractor. It correctly identifies the initial displeasure and neutral state, but the final action is a self-regulatory one (neck touch), not a gesture of 'intellectual clarification'.\n- Option E is a video-based distractor with incorrect causality. The internal processing precedes and causes the explanatory gesture, not the other way around.\n- Option F is a video-based distractor with an incorrect temporal order for the last two events. The explanatory gesture comes before the final self-regulatory action."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around [8.3s], a region was detected in the video (x=0.286, y=0.240, w=0.281, h=0.542, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A subtle pursing of the mouth, indicating slight tension."
+        },
+        {
+          "id": "B",
+          "text": "A slight head nod that corresponds with speech cadence."
+        },
+        {
+          "id": "C",
+          "text": "An upward and leftward gaze shift indicating reflection."
+        },
+        {
+          "id": "D",
+          "text": "A neutral facial expression maintained during the speech."
+        },
+        {
+          "id": "E",
+          "text": "A slight furrowing of the eyebrows showing concentration."
+        },
+        {
+          "id": "F",
+          "text": "An open-mouthed expression for articulating his words."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "The specified bounding box at 8.3s frames the person's face. At this moment, his expression has stabilized after the initial contemplation and he is speaking with a calm, neutral demeanor before the later signs of discomfort appear.\n- Option A is a video-based distractor. The mouth pursing occurs later in the video, around 14.1s.\n- Option B is a near-miss distractor. While there is slight head movement with speech, the most prominent feature of the entire facial region in the bbox is its overall neutral state, not just a minor head motion.\n- Option C is a video-based distractor. The upward-left gaze shift happens earlier, around 1.8s.\n- Option E is a video-based distractor. The initial eyebrow furrowing occurs at the very beginning of the clip, around 0.5s.\n- Option F is a video-based distractor. While he is speaking, the open-palmed gesture and more animated speaking expression occurs earlier, around 6.0s. At 8.3s, his expression is much more settled and neutral."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "At which of the following time-and-location combinations does the person display a fleeting facial expression indicating contemplation or disapproval?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[4.0s]  x=0.32, y=0.08, w=0.26, h=0.92"
+        },
+        {
+          "id": "B",
+          "text": "[4.8s]  x=0.32, y=0.31, w=0.21, h=0.16"
+        },
+        {
+          "id": "C",
+          "text": "[1.4s]  x=0.36, y=0.50, w=0.14, h=0.15"
+        },
+        {
+          "id": "D",
+          "text": "[10.7s]  x=0.36, y=0.30, w=0.21, h=0.24"
+        },
+        {
+          "id": "E",
+          "text": "[13.5s]  x=0.20, y=0.10, w=0.38, h=0.69"
+        },
+        {
+          "id": "F",
+          "text": "[7.3s]  x=0.58, y=0.61, w=0.31, h=0.39"
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The question asks to identify the moment of a brief expression of contemplation or disapproval. At 1.4s, the bounding box correctly isolates the person's mouth, which shows its corners turning down slightly as part of his initial thoughtful reaction to the topic he is introducing.\n- Option A is a video-based distractor. It frames the entire head during a period of neutral speech.\n- Option B is a video-based distractor. It frames the eyes as he looks back at the camera, an action of re-engagement, not initial disapproval.\n- Option D is a video-based distractor. It frames the eyes during a period of steady, neutral eye contact with the camera.\n- Option E is a video-based distractor. It frames his entire head as he tilts it while touching his neck, a different behavior related to self-regulation.\n- Option F is a video-based distractor. It frames his hand as it is being lowered out of the frame, which is a limb gesture, not a facial expression of disapproval."
+    },
+    {
+      "category": "Counterfactual Reasoning",
+      "question": "If the person had NOT exhibited the behavior observed around [4.8s - 6.8s], which of the following personality assessments would be MOST affected?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Extraversion would likely shift from Low to Medium, as this act is a major source of expressive energy."
+        },
+        {
+          "id": "B",
+          "text": "Conscientiousness would increase, because the behavior interrupts an otherwise deliberate presentation."
+        },
+        {
+          "id": "C",
+          "text": "Neuroticism assessment would be affected, as the gesture is a clear signal of his emotional stability."
+        },
+        {
+          "id": "D",
+          "text": "Agreeableness score would be less supported, as this cooperative, non-threatening signal is removed."
+        },
+        {
+          "id": "E",
+          "text": "Openness would probably decrease, as the gesture suggests a willingness to engage with other viewpoints."
+        },
+        {
+          "id": "F",
+          "text": "Agreeableness would shift to High, since the gesture is what limits an otherwise defiant statement."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "The behavior in this interval is the open-palmed hand gesture. The personality analysis explicitly cites this as evidence for Medium Agreeableness, interpreting it as a 'cooperative and non-threatening' signal. Removing this key piece of evidence would weaken the justification for the Agreeableness score, making it less certain or potentially lower.\n- Option A is a video-based distractor. While the gesture is expressive, the evidence for Low Extraversion (deliberate pace, internal gaze) is more foundational and comes from other moments. Removing this one gesture would be unlikely to shift the entire trait score.\n- Option B is a text-based distractor. This makes a plausible but incorrect assumption that the gesture is a flaw; the analysis views it as a positive social cue, not a sign of low conscientiousness.\n- Option C is a text-based distractor. The gesture is more directly related to social cooperation (Agreeableness) than to emotional stability (Neuroticism).\n- Option E is a text-based distractor. The primary evidence for Openness comes from the environmental context (bookshelf) and the topic, not this specific gesture.\n- Option F is a near-miss distractor. It correctly identifies Agreeableness as the affected trait but gets the reasoning and direction wrong. The gesture supports agreeableness, it doesn't limit defiance (which isn't present), so removing it would decrease, not increase, the assessed trait level."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator16",
+      "version": 1,
+      "clues_total": 26,
+      "clues_correct": 17,
+      "clues_wrong_corrected": 4,
+      "clues_missing_skipped": 5,
+      "clues_bonus": 0
+    }
+  }
+}

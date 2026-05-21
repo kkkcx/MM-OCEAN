@@ -1,0 +1,462 @@
+{
+  "video_id": "E3z1D7CKoOA.004.mp4",
+  "video_path": "E3z1D7CKoOA.004.mp4",
+  "transcription": "... patent on file, and then you're continuing to work on you product and develop it. Well, guess what? Four months later you might find out that there's a better way to do it, and at that point you want to make sure that that better way to do it is also in the patent.",
+  "original_scores": {
+    "extraversion": 0.4299065420560748,
+    "agreeableness": 0.5824175824175825,
+    "conscientiousness": 0.7184466019417477,
+    "neuroticism": 0.6770833333333334,
+    "openness": 0.4
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 5.61,
+      "description": "The subject maintains a direct gaze at the camera. His facial expression is neutral, with eyebrows in a relaxed position and mouth movements corresponding to his speech.",
+      "bboxes": [
+        {
+          "frame_time": 0.25542,
+          "x": 0.36529605263157894,
+          "y": 0.32157894937615644,
+          "w": 0.20723684210526316,
+          "h": 0.12368421052631579,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 0.25542,
+          "x": 0.3356907894736842,
+          "y": 0.2268421072708933,
+          "w": 0.28421052631578947,
+          "h": 0.49736842105263157,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 0.25542,
+          "x": 0.3638157894736842,
+          "y": 0.287368423060367,
+          "w": 0.2131578947368421,
+          "h": 0.09210526315789473,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 1.599545,
+          "x": 0.3830592105263158,
+          "y": 0.4821052651656301,
+          "w": 0.19095394736842106,
+          "h": 0.19210526315789472,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 5.61,
+      "end_time": 7.37,
+      "description": "As the subject says \"Well, guess what?\", his eyebrows raise slightly, and his eyes widen for a moment before returning to a neutral state.",
+      "bboxes": [
+        {
+          "frame_time": 6.745909,
+          "x": 0.3993421052631579,
+          "y": 0.318947370428788,
+          "w": 0.19835526315789473,
+          "h": 0.08947368421052632,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 6.745909,
+          "x": 0.3667763157894737,
+          "y": 0.1636842125340512,
+          "w": 0.23536184210526317,
+          "h": 0.4868421052631579,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 7.37,
+      "end_time": 10.74,
+      "description": "The subject's expression returns to neutral, with eyebrows relaxed and a steady, forward gaze.",
+      "bboxes": [
+        {
+          "frame_time": 9.563106,
+          "x": 0.3815789473684211,
+          "y": 0.25842105463931436,
+          "w": 0.21759868421052633,
+          "h": 0.41842105263157897,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 9.563106,
+          "x": 0.3904605263157895,
+          "y": 0.27947368621826174,
+          "w": 0.20723684210526316,
+          "h": 0.0868421052631579,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 9.563106,
+          "x": 0.3860197368421053,
+          "y": 0.2768421072708933,
+          "w": 0.21463815789473684,
+          "h": 0.16052631578947368,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 10.74,
+      "end_time": 14.87,
+      "description": "As he says \"you want to make sure\", his eyebrows raise again briefly. His gaze remains directed at the camera until the end of the clip.",
+      "bboxes": [
+        {
+          "frame_time": 12.067674,
+          "x": 0.3963815789473684,
+          "y": 0.21105263358668278,
+          "w": 0.21019736842105263,
+          "h": 0.14210526315789473,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 12.067674,
+          "x": 0.39342105263157895,
+          "y": 0.29526315990247226,
+          "w": 0.2042763157894737,
+          "h": 0.13157894736842105,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 14.87,
+      "description": "The subject is seated, framed from the chest up. His posture is upright and largely still. He performs small, subtle head nods that are synchronized with the emphasis in his speech, particularly around 0.5s, 5.9s, and 11.4s.",
+      "bboxes": [
+        {
+          "frame_time": 1.610067,
+          "x": 0.24539473684210525,
+          "y": 0.518947370428788,
+          "w": 0.5047697368421052,
+          "h": 0.4368421052631579,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 1.610067,
+          "x": 0.3075657894736842,
+          "y": 0.5847368441129985,
+          "w": 0.38338815789473685,
+          "h": 0.3973684210526316,
+          "note": "pose human-annotated",
+          "region": "torso"
+        },
+        {
+          "frame_time": 6.277277,
+          "x": 0.37417763157894735,
+          "y": 0.11105263358668277,
+          "w": 0.23832236842105264,
+          "h": 0.5736842105263158,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 5.75,
+      "description": "The subject speaks at a moderate and consistent pace. His vocal pitch is steady with a slightly falling intonation at the end of the phrase \"develop it.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 5.75,
+      "end_time": 7.15,
+      "description": "The pitch rises slightly on the phrase \"guess what?\" and is followed by a brief pause.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 7.15,
+      "end_time": 10.71,
+      "description": "The speech pace remains moderate. The word \"better\" receives slight stress with a minor increase in volume.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 10.71,
+      "end_time": 14.87,
+      "description": "The phrase \"make sure\" is stressed with a slight increase in pitch and volume. The word \"also\" receives similar stress before the pitch falls on the final word, \"patent.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 14.87,
+      "description": "The subject is a light-skinned male with short, brown hair. He is wearing a black polo shirt with a small, partially visible logo on the right side of his chest. He is in an indoor setting, likely a home office. The wall behind him is a light, neutral color with a striped wallpaper border running horizontally. There are at least three framed documents on the wall, one of which has the word \"PATENT\" visible. To the viewer's right of the subject, the edge of a wooden desk or cabinet is visible. The lighting is even and appears to be from a frontal source.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Medium",
+      "score": 0.43,
+      "rationale": "The subject's Extraversion is rated as Medium. While speaking directly to an audience on camera indicates a degree of social confidence, the overall presentation is reserved. His posture is largely static, and he does not use expansive hand gestures. His vocal pace is moderate and controlled, rather than rapid and energetic. This balance of direct engagement with a lack of overt sociability or high-energy expressiveness is characteristic of an individual in the medium range of Extraversion.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Medium",
+      "score": 0.58,
+      "rationale": "The subject's score places him in the Medium range for Agreeableness. His stable tone and direct, informative communication style are cooperative in nature. However, his facial expressions are predominantly neutral and task-focused, lacking the consistent warmth or smiling often associated with high Agreeableness. He appears more focused on conveying information accurately than on building a strong emotional rapport, which supports a mid-range assessment.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "High",
+      "score": 0.72,
+      "rationale": "The subject exhibits strong indicators of High Conscientiousness. His speech is structured, logical, and serves a clear purpose: to educate. He uses precise vocal emphasis on key phrases like 'better way' and 'make sure' to ensure clarity. His upright posture and controlled demeanor suggest discipline. Furthermore, the background, featuring framed patents, points to a value placed on achievement and order, which are hallmarks of a conscientious individual.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "High",
+      "score": 0.68,
+      "rationale": "A High Neuroticism score is supported by the subject's highly controlled and static presentation. The minimal body movement and rigid, upright posture can be interpreted as physical manifestations of internal tension or self-consciousness in a performance setting. While his expression is mostly neutral, the brief, sudden widening of his eyes around the 6-second mark could be a fleeting indicator of heightened arousal or anxiety. This overall behavioral restraint suggests a guardedness consistent with higher levels of Neuroticism.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "Medium",
+      "score": 0.4,
+      "rationale": "The subject's Openness is assessed as Medium. His willingness to discuss an abstract topic like patent law indicates some intellectual curiosity. However, his approach is highly practical and concrete, focusing on process ('a better way to do it') rather than exploring theoretical or imaginative possibilities. The conventional setting and straightforward, factual communication style, devoid of artistic or unconventional expression, align well with a personality that is moderately, but not exceptionally, open to experience.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their assessed Neuroticism level?",
+      "options": [
+        {
+          "id": "A",
+          "text": "0.0s - 1.8s"
+        },
+        {
+          "id": "B",
+          "text": "2.1s - 3.9s"
+        },
+        {
+          "id": "C",
+          "text": "4.0s - 5.5s"
+        },
+        {
+          "id": "D",
+          "text": "7.4s - 9.2s"
+        },
+        {
+          "id": "E",
+          "text": "11.0s - 12.8s"
+        },
+        {
+          "id": "F",
+          "text": "5.6s - 7.4s"
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The correct answer is F. The personality analysis for High Neuroticism specifically mentions a 'brief, sudden widening of his eyes around the 6-second mark' as a 'fleeting indicator of heightened arousal or anxiety.' This corresponds directly to the observation note for the 5.6s - 7.4s interval.\n\n- Option A is a video-based distractor. This interval covers the beginning of the video where the expression is neutral and stable, providing a baseline but not the key change.\n- Options B and C are text-based distractors. They are plausible time ranges within the video, but no significant or relevant expression change occurs during these moments.\n- Option D is a near-miss distractor. It marks the period immediately *after* the key event, where the person's face is returning to neutral. It's temporally adjacent but incorrect.\n- Option E is a video-based distractor. This interval correctly captures another facial movement (the eyebrow raise for emphasis), but the personality analysis links that more strongly to Conscientiousness, not Neuroticism."
+    },
+    {
+      "category": "Mixed Emotion Discrimination",
+      "question": "During 0.0s - 5.6s, the person's emotional state is best characterized as which of the following? Consider both verbal and non-verbal cues.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Quiet contemplation mixed with a slight skepticism."
+        },
+        {
+          "id": "B",
+          "text": "Subtle anxiety that is tempered by practiced composure."
+        },
+        {
+          "id": "C",
+          "text": "Intellectual curiosity tempered by some reserved caution."
+        },
+        {
+          "id": "D",
+          "text": "Mild confidence mixed with a professional detachment."
+        },
+        {
+          "id": "E",
+          "text": "Patient exposition mixed with an underlying weariness."
+        },
+        {
+          "id": "F",
+          "text": "Calm concentration tempered by a clear didactic focus."
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The correct answer is F. In this initial segment, the person's expression is neutral, his gaze is direct, his posture is stable, and his speech is moderate and informative. This combination of cues points to a state of focused, calm concentration with the primary goal of teaching or instructing (didactic focus).\n\n- Option A is a text-based distractor. There are no verbal or non-verbal cues to suggest either contemplation or skepticism; the delivery is direct and factual.\n- Option B is a video-based distractor. While 'practiced composure' is accurate and 'subtle anxiety' is a possible underlying state given the overall Neuroticism score, the *dominant* emotional state displayed in this specific segment is task-focused and instructional, not primarily anxious.\n- Option C is a text-based distractor. While the topic is intellectual, the person's state appears to be more about explaining a known concept than expressing curiosity or caution.\n- Option D is a near-miss distractor. This is plausible, but 'didactic focus' is more precise than 'professional detachment'. The person is actively trying to convey information clearly, which is a more engaged state than simple detachment. The high Neuroticism score also slightly argues against 'mild confidence' being the best descriptor.\n- Option E is a text-based distractor. There is no evidence of weariness in the person's tone, pace, or expression."
+    },
+    {
+      "category": "Temporal-Causal Reasoning",
+      "question": "Consider the sequence of behaviors observed across the video. Which of the following best describes the causal chain linking the person's actions at different moments?",
+      "options": [
+        {
+          "id": "A",
+          "text": "An initial display of uncertainty transitions to a methodical explanation, ending with a gesture of finality."
+        },
+        {
+          "id": "B",
+          "text": "Vocal emphasis on a point causes subsequent arousal, which is then justified by an initial exposition."
+        },
+        {
+          "id": "C",
+          "text": "A state of high arousal is punctuated by a return to neutral, prompting rhetorical questioning later."
+        },
+        {
+          "id": "D",
+          "text": "A moment of self-correction leads to a display of confidence, followed by a return to the baseline."
+        },
+        {
+          "id": "E",
+          "text": "A period of emotional regulation is followed by an attempt to build rapport, ending in a detailed argument."
+        },
+        {
+          "id": "F",
+          "text": "Initial exposition is followed by a rhetorical pivot for attention, leading to emphasis on the conclusion."
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The correct answer is F. This accurately maps the video's narrative structure. The first part (0-5.8s) is a neutral, factual exposition. This is followed by a rhetorical pivot ('guess what?') and a non-verbal accent (eye widening at ~6.7s) to grab attention. This pivot then sets up the final, emphasized point ('make sure' at ~11.4s).\n\n- Option A is a text-based distractor. The video does not show initial uncertainty or a concluding gesture of finality.\n- Option B is a distractor with reversed temporal order. The initial exposition comes first, not last. The arousal (eye-widening) precedes the final vocal emphasis, it doesn't follow it.\n- Option C is a video-based distractor with incorrect causality. It correctly identifies elements like arousal and rhetorical questions, but it misrepresents their sequence and causal relationship.\n- Option D is a near-miss distractor. It misinterprets the eye-widening at ~6.7s as 'self-correction' rather than a rhetorical device, and incorrectly labels the subsequent emphasis as a 'display of confidence' rather than a tool for clarity.\n- Option E is a text-based distractor. The behaviors are more about information delivery than emotional regulation or rapport-building."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 6.7s, a region was detected in the video (x=0.399, y=0.319, w=0.198, h=0.089, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A subtle and brief raising of the person's eyebrows."
+        },
+        {
+          "id": "B",
+          "text": "Mouth movements that are corresponding to his speech."
+        },
+        {
+          "id": "C",
+          "text": "A quick and subtle side-glance occurring toward the left."
+        },
+        {
+          "id": "D",
+          "text": "An upright and completely static upper body posture."
+        },
+        {
+          "id": "E",
+          "text": "A slight, knowing smile just forming on his lips."
+        },
+        {
+          "id": "F",
+          "text": "A momentary and sudden widening of the person's eyes."
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The correct answer is F. The specified bounding box at 6.7s precisely frames the person's eyes. At this moment, the observation log confirms that his 'eyes momentarily widen' ('Eyes widen instantly').\n\n- Option A is a near-miss distractor. This describes a real behavior (eyebrow raise) that occurs in a nearby facial region, but at a different time (around 12.1s), and it's a different action than what happens at 6.7s.\n- Option B is a video-based distractor. The mouth is moving, but it is located in a different spatial region (below the specified bounding box).\n- Option C is a text-based distractor. The person maintains a steady forward gaze throughout the clip; no side-glance occurs.\n- Option D is a video-based distractor. The person's torso is indeed upright and static, but this describes a much larger region of the body, not the small area defined by the bounding box around the eyes.\n- Option E is a text-based distractor. The person's expression remains neutral or tense; no smile is observed in the video."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "The person uses a distinct facial gesture to add emphasis to a key phrase in their explanation. At which timestamp and within which bounding box does this emphatic gesture primarily occur?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Timestamp: 6.7s; Bbox: (x=0.399, y=0.319, w=0.198, h=0.089)"
+        },
+        {
+          "id": "B",
+          "text": "Timestamp: 9.6s; Bbox: (x=0.382, y=0.258, w=0.218, h=0.418)"
+        },
+        {
+          "id": "C",
+          "text": "Timestamp: 1.6s; Bbox: (x=0.308, y=0.585, w=0.383, h=0.397)"
+        },
+        {
+          "id": "D",
+          "text": "Timestamp: 3.5s; Bbox: (x=0.383, y=0.482, w=0.191, h=0.192)"
+        },
+        {
+          "id": "E",
+          "text": "Timestamp: 8.2s; Bbox: (x=0.245, y=0.519, w=0.505, h=0.437)"
+        },
+        {
+          "id": "F",
+          "text": "Timestamp: 12.1s; Bbox: (x=0.396, y=0.211, w=0.210, h=0.142)"
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The correct answer is F. At 12.1s, while saying 'you want to make sure,' the person briefly raises his eyebrows. This action is a classic non-verbal cue for emphasis. The provided bounding box correctly isolates the eyebrow region at that specific moment.\n\n- Option A is a near-miss distractor. This timestamp and bounding box correspond to a different emphatic gesture—the eye-widening. While also a form of emphasis, it's not the one that punctuates the key phrase 'make sure'.\n- Option B is a video-based distractor. This timestamp and bounding box show the face during a neutral expression phase, with no particular emphasis occurring.\n- Option C is a video-based distractor. This corresponds to the person's torso near the beginning of the video, which is not a location for a facial gesture of emphasis.\n- Option D is a text-based distractor. The bounding box correctly identifies the mouth, but at 3.5s, the person is speaking normally with no special emphasis.\n- Option E is a text-based distractor. The bounding box identifies the general region where hands would be, but at 8.2s, the person is simply speaking with a neutral expression."
+    },
+    {
+      "category": "Counterfactual Reasoning",
+      "question": "If the person had NOT exhibited the behavior observed around 5.6s - 7.4s, which of the following personality assessments would be MOST affected?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The assessment for Conscientiousness would be weaker since the main moment of rhetorical emphasis would be lost."
+        },
+        {
+          "id": "B",
+          "text": "The assessment for Agreeableness would shift higher as the expression can be interpreted as somewhat challenging."
+        },
+        {
+          "id": "C",
+          "text": "The assessment for Neuroticism would be stronger as the lack of expression implies even greater suppression."
+        },
+        {
+          "id": "D",
+          "text": "The assessment for Openness would notably decrease because this specific expression is a sign of engagement."
+        },
+        {
+          "id": "E",
+          "text": "The assessment for Extraversion would be lower, as this is a primary sign of engaging with the audience."
+        },
+        {
+          "id": "F",
+          "text": "The assessment for Neuroticism would be weaker because a key indicator of heightened internal arousal would be absent."
+        }
+      ],
+      "correct_answer": "F",
+      "explanation": "The correct answer is F. The behavior observed around 5.6s - 7.4s is the 'brief, sudden widening of his eyes.' The personality analysis explicitly cites this as a 'fleeting indicator of heightened arousal or anxiety,' which is used to support the High Neuroticism score. Removing this specific piece of evidence would weaken that assessment.\n\n- Option A is a video-based distractor. It misattributes the behavior at 5.6s-7.4s as the key evidence for Conscientiousness. The primary evidence for that trait comes from the structured speech and the later emphasis around 12.1s.\n- Option B is a text-based distractor. The expression is more one of surprise or arousal than a challenge, so its removal would have little effect on the Agreeableness score, which is based on overall tone and cooperative intent.\n- Option C is a near-miss distractor. It correctly identifies Neuroticism as the affected trait but posits the wrong direction of change. Removing evidence for a trait typically weakens, not strengthens, its assessment.\n- Option D is a text-based distractor. This fleeting expression is not a primary indicator for Openness; that trait is assessed based on the topic choice and communication style.\n- Option E is a text-based distractor. While the expression is engaging, the Extraversion score is based on the overall sustained direct gaze and vocal energy, not this single, momentary event."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator05",
+      "version": 1,
+      "clues_total": 21,
+      "clues_correct": 19,
+      "clues_wrong_corrected": 0,
+      "clues_missing_skipped": 2,
+      "clues_bonus": 0
+    }
+  }
+}

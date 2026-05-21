@@ -1,0 +1,502 @@
+{
+  "video_id": "7knYNR1tAig.001.mp4",
+  "video_path": "7knYNR1tAig.001.mp4",
+  "transcription": "Said, if you had to stay in a country and you couldn't come visit America, what country would you go to and why? I would go to...I'd either go to Canada-",
+  "original_scores": {
+    "extraversion": 0.38317757009345793,
+    "agreeableness": 0.4285714285714285,
+    "conscientiousness": 0.3786407766990291,
+    "neuroticism": 0.20833333333333331,
+    "openness": 0.3
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 9.3,
+      "description": "Gaze is directed downward at a phone. The facial expression is neutral and concentrated. The lips move slightly while reading silently.",
+      "bboxes": [
+        {
+          "frame_time": 0,
+          "x": 0.33421052631578946,
+          "y": 0.4005263177972091,
+          "w": 0.17171052631578948,
+          "h": 0.0868421052631579,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 0,
+          "x": 0.359375,
+          "y": 0.35842105463931434,
+          "w": 0.17763157894736842,
+          "h": 0.28157894736842104,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 0.348075,
+          "x": 0.40674342105263156,
+          "y": 0.518947370428788,
+          "w": 0.08141447368421052,
+          "h": 0.07894736842105263,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 9.3,
+      "end_time": 10.9,
+      "description": "Gaze shifts up to look forward toward the camera. Eyebrows raise slightly and the mouth opens to speak.",
+      "bboxes": [
+        {
+          "frame_time": 10.616287,
+          "x": 0.40970394736842103,
+          "y": 0.3847368441129986,
+          "w": 0.14950657894736843,
+          "h": 0.10789473684210527,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 10.616287,
+          "x": 0.38453947368421054,
+          "y": 0.33210526516563016,
+          "w": 0.17023026315789475,
+          "h": 0.08947368421052632,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 10.825132,
+          "x": 0.43042763157894737,
+          "y": 0.5321052651656302,
+          "w": 0.10805921052631579,
+          "h": 0.06315789473684211,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 10.9,
+      "end_time": 13.5,
+      "description": "Gaze shifts to her right, then back toward the camera. The brows furrow slightly and the lips purse briefly in a thoughtful expression.",
+      "bboxes": [
+        {
+          "frame_time": 11.068785,
+          "x": 0.4141447368421053,
+          "y": 0.3768421072708933,
+          "w": 0.1569078947368421,
+          "h": 0.07631578947368421,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 13.453098,
+          "x": 0.36973684210526314,
+          "y": 0.3057894756919459,
+          "w": 0.15394736842105264,
+          "h": 0.08947368421052632,
+          "note": "human-annotated",
+          "region": "unknown"
+        },
+        {
+          "frame_time": 13.453098,
+          "x": 0.36973684210526314,
+          "y": 0.2742105283235249,
+          "w": 0.15542763157894737,
+          "h": 0.07894736842105263,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 13.453098,
+          "x": 0.41710526315789476,
+          "y": 0.4636842125340512,
+          "w": 0.10065789473684211,
+          "h": 0.07631578947368421,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 13.018005,
+          "x": 0.3667763157894737,
+          "y": 0.2900000020077354,
+          "w": 0.18355263157894738,
+          "h": 0.26842105263157895,
+          "note": "face human-annotated",
+          "region": "face"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 13.5,
+      "end_time": 15.1,
+      "description": "Gaze moves slightly up and to her right. The facial muscles relax as she begins to answer the question.",
+      "bboxes": [
+        {
+          "frame_time": 14.984628,
+          "x": 0.3875,
+          "y": 0.3557894756919459,
+          "w": 0.17763157894736842,
+          "h": 0.08157894736842106,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 14.984628,
+          "x": 0.3875,
+          "y": 0.32157894937615644,
+          "w": 0.16578947368421054,
+          "h": 0.24210526315789474,
+          "note": "face human-annotated",
+          "region": "face"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 9.3,
+      "description": "The subject is framed from the chest up, sitting with her head tilted downward while holding and looking at a phone in her left hand at the bottom of the frame.",
+      "bboxes": [
+        {
+          "frame_time": 0,
+          "x": 0.28388157894736843,
+          "y": 0.868947370428788,
+          "w": 0.36710526315789477,
+          "h": 0.12894736842105264,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 0,
+          "x": 0.34309210526315786,
+          "y": 0.13736842306036698,
+          "w": 0.2131578947368421,
+          "h": 0.5105263157894737,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 0,
+          "x": 0.36233552631578947,
+          "y": 0.3794736862182617,
+          "w": 0.14950657894736843,
+          "h": 0.11842105263157894,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 0,
+          "x": 0.2513157894736842,
+          "y": 0.8663157914814196,
+          "w": 0.15986842105263158,
+          "h": 0.12631578947368421,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 9.3,
+      "end_time": 15.1,
+      "description": "She raises her head to an upright position, facing forward. The phone remains held in her left hand. Her head makes very slight movements to the side as she thinks and speaks.",
+      "bboxes": [
+        {
+          "frame_time": 13.435695,
+          "x": 0.3460526315789474,
+          "y": 0.1400000020077354,
+          "w": 0.21019736842105263,
+          "h": 0.46578947368421053,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 9.415428,
+          "x": 0.35789473684210527,
+          "y": 0.9636842125340512,
+          "w": 0.17911184210526315,
+          "h": 0.034210526315789476,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 10.337827,
+          "x": 0.3638157894736842,
+          "y": 0.14263158095510384,
+          "w": 0.2338815789473684,
+          "h": 0.5263157894736842,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 8.8,
+      "description": "Speaks at a moderate pace and volume with a reading cadence. The pitch rises at the end of the final word, \"why?\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 8.8,
+      "end_time": 11.1,
+      "description": "After a pause, she says \"I would go to...\" with a rising, hesitant intonation, trailing off.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 11.1,
+      "end_time": 15.1,
+      "description": "After a pause of about 2.4 seconds, she continues speaking at a moderate pace and with a relatively stable pitch.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.1,
+      "description": "A young woman with fair skin and red hair pulled up into a messy bun. She is wearing clear-framed glasses, a delicate necklace with a small pendant, and a grey, v-neck t-shirt with rolled sleeves. The background is a plain, off-white wall. The scene is evenly lit from the front.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 7.29688,
+      "end_time": 8.29688,
+      "description": "The subject nodded his head to the left",
+      "bboxes": [
+        {
+          "frame_time": 7.79688,
+          "x": 0.3860197368421053,
+          "y": 0.09263158095510382,
+          "w": 0.22648026315789474,
+          "h": 0.5894736842105263,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Low",
+      "score": 0.38,
+      "rationale": "The subject's Extraversion is assessed as Low. Her initial posture is closed off, with her head tilted down and eyes focused on her phone, indicating an initial lack of outward social engagement. When she does speak, her vocal tone is moderate and includes significant pauses for internal thought processing ([8.8s-11.1s], [11.1s-15.1s]), rather than the spontaneous, energetic speech typical of high extraversion. Her contemplative expressions, such as averting her gaze and slightly furrowing her brow, suggest a more reserved, internally-focused disposition.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Medium",
+      "score": 0.43,
+      "rationale": "The subject's Agreeableness falls into the Medium range. Her willingness to participate in a Q&A demonstrates a cooperative nature. Her facial expressions are generally neutral and non-confrontational, shifting to relaxed as she begins to answer. She establishes direct eye contact with the camera when speaking, a sign of engagement. However, the absence of overt displays of warmth, such as smiling or highly expressive nodding, places her in the middle of the spectrum, indicating a pleasant but not overtly effusive personality.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Low",
+      "score": 0.38,
+      "rationale": "The subject's Conscientiousness is rated as Low. This is supported by the informal and spontaneous nature of her presentation. Her casual appearance ('messy bun', t-shirt) and the plain setting suggest a lack of meticulous preparation. The hesitant start to her answer ('I would go to...I'd either go to...') and the significant pause for thought imply an unrehearsed, 'on-the-fly' approach, which contrasts with the structured and prepared communication style often seen in highly conscientious individuals.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Low",
+      "score": 0.21,
+      "rationale": "The subject exhibits Low Neuroticism. Throughout the clip, she remains calm and emotionally stable, even during moments of hesitation. There are no observable signs of anxiety, self-consciousness, or stress, such as fidgeting or a wavering voice. Her facial expressions during thought (briefly tightened lips, furrowed brow) are indicative of cognitive effort, not emotional distress. Her ability to handle the pause and deliver her answer in a steady, measured tone points to a high degree of emotional resilience.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "Low",
+      "score": 0.3,
+      "rationale": "The subject's Openness to Experience is assessed as Low. When prompted to choose any country in the world, her initial suggestion is Canada—a choice that is geographically and culturally proximate to the U.S. This preference for the familiar over the novel or exotic is a classic indicator of lower openness. Her cognitive process appears practical and direct rather than imaginative or abstract, focusing on retrieving a straightforward answer rather than exploring multiple creative possibilities.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their low extraversion level?",
+      "options": [
+        {
+          "id": "A",
+          "text": "0.0s - 2.5s"
+        },
+        {
+          "id": "B",
+          "text": "3.1s - 5.6s"
+        },
+        {
+          "id": "C",
+          "text": "6.0s - 8.2s"
+        },
+        {
+          "id": "D",
+          "text": "9.3s - 10.8s"
+        },
+        {
+          "id": "E",
+          "text": "11.1s - 13.5s"
+        },
+        {
+          "id": "F",
+          "text": "13.8s - 15.1s"
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. The interval [11.1s - 13.5s] contains the most complex series of micro-expressions related to internal thought—a key aspect of her low extraversion. This includes her gaze shifting away, her brow furrowing slightly, and her lips tightening in concentration before she formulates her verbal response.\n- Option A is a video-based distractor. This period shows a neutral, focused expression as she reads, with no significant change.\n- Option B is a video-based distractor. This period is a continuation of her neutral reading face.\n- Option C is a video-based distractor. This period involves continued reading with a minor head nod, but not a significant facial expression change related to personality.\n- Option D is a near-miss distractor. A notable change does occur here as she looks up from the phone, but this is the initial transition. The more revealing micro-expressions of cognitive effort and introverted processing happen immediately after, in the correct interval.\n- Option F is a video-based distractor. During this time, her expression relaxes as she begins to speak, which is the resolution of the cognitive process, not the process itself."
+    },
+    {
+      "category": "Temporal-Causal Reasoning",
+      "question": "Consider the sequence of behaviors observed across the video. Which of the following best describes the causal chain linking the person's actions at different moments?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A spontaneous reaction to a prompt is followed by emotional regulation, culminating in a return to a neutral, disengaged state."
+        },
+        {
+          "id": "B",
+          "text": "Direct communication is interrupted by cognitive load, leading the subject to revert to passive information intake from a device."
+        },
+        {
+          "id": "C",
+          "text": "A display of social anxiety triggers self-monitoring, which is then followed by a compensatory verbal display of confidence."
+        },
+        {
+          "id": "D",
+          "text": "Passive information intake is immediately followed by direct communication, which then prompts a period of internal self-reflection."
+        },
+        {
+          "id": "E",
+          "text": "Passive information intake is followed by internal cognitive load while processing a prompt, resolving into direct communication."
+        },
+        {
+          "id": "F",
+          "text": "A period of focused thought on one topic is followed by a verbal digression before returning to the initial point of discussion."
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. This option accurately maps the abstract sequence to the video's events: 1) She passively reads the question from her phone (0-9.3s). 2) She then looks up and exhibits non-verbal cues of thinking (9.3-13.5s). 3) Finally, she re-establishes eye contact and begins her verbal answer (13.5s+).\n- Option A is a text-based distractor. The sequence in the video is cognitive and task-oriented (read-think-answer), not based on an emotional reaction and subsequent regulation.\n- Option B is a distractor with reversed temporal order. The video shows the opposite: passive intake leads to cognitive load, which then leads to communication.\n- Option C is a text-based distractor with wrong causality. It incorrectly attributes her initial state to anxiety and her final answer to a compensatory display, which is not supported by the evidence.\n- Option D is a near-miss distractor. It correctly identifies the first step but reverses the order of the last two; the internal cognitive processing (self-reflection) happens *before* the direct communication, not after.\n- Option F is a video-based distractor. This describes a different conversational pattern (digression) that does not occur in the video."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 10.3s, a region was detected in the video (x=0.364, y=0.143, w=0.234, h=0.526, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A downward gaze directed intently toward a handheld device."
+        },
+        {
+          "id": "B",
+          "text": "A relaxed facial posture as a verbal response is initiated."
+        },
+        {
+          "id": "C",
+          "text": "Subtle lip movements associated with silently reading text."
+        },
+        {
+          "id": "D",
+          "text": "A direct and steady gaze aimed squarely toward the camera."
+        },
+        {
+          "id": "E",
+          "text": "A slight lateral head tilt indicating cognitive processing."
+        },
+        {
+          "id": "F",
+          "text": "A slight furrowing of the brow indicating concentration."
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. The provided bounding box covers the entire head region at 10.3s. At this moment, the most prominent overall action of the head is its slight tilt to the side as she shifts from reading to thinking, a clear indicator of cognitive processing.\n- Option A is a video-based distractor. This action occurs before 9.3s, not at 10.3s.\n- Option B is a video-based distractor. The relaxed posture occurs later, after 13.5s, when she begins to speak.\n- Option C is a video-based distractor. The subtle lip movements happen during the initial reading phase, before 9.3s.\n- Option D is a text-based distractor. At 10.3s, her head is tilted and her gaze is not yet steady; this description is inaccurate for this moment.\n- Option F is a near-miss distractor. While her brow does furrow slightly around this time, this is a smaller, component action. The most prominent action of the entire head region specified by the large bounding box is the lateral tilt."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "Which of the following options correctly identifies the specific moment and location of the person's head as she transitions from looking down to actively considering the prompt?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[0.0s] x=0.36, y=0.38, w=0.15, h=0.12"
+        },
+        {
+          "id": "B",
+          "text": "[0.0s] x=0.33, y=0.40, w=0.17, h=0.09"
+        },
+        {
+          "id": "C",
+          "text": "[0.0s] x=0.25, y=0.87, w=0.16, h=0.13"
+        },
+        {
+          "id": "D",
+          "text": "[0.0s] x=0.28, y=0.87, w=0.37, h=0.13"
+        },
+        {
+          "id": "E",
+          "text": "[13.4s] x=0.35, y=0.14, w=0.21, h=0.47"
+        },
+        {
+          "id": "F",
+          "text": "[0.0s] x=0.36, y=0.36, w=0.18, h=0.28"
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. The question asks for the moment and location of the head during the transition to active consideration. The timestamp 13.4s falls within this phase, and the bounding box {x=0.35, y=0.14, w=0.21, h=0.47} correctly frames her head after she has lifted it to an upright, forward-facing position.\n- Options A, B, and F are video-based distractors. They all show coordinates from 0.0s that target her eyes or face while she is still looking down at her phone, which is before the transition described.\n- Options C and D are video-based distractors. They show coordinates from 0.0s that target her hands and the phone at the bottom of the screen, not her head."
+    },
+    {
+      "category": "Counterfactual Reasoning",
+      "question": "If the person had NOT exhibited the behavior observed around 11.1s - 15.1s, which of the following personality assessments would be MOST affected?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Agreeableness might seem lower, as her verbal reply is the key indicator of her overall cooperative stance toward the task."
+        },
+        {
+          "id": "B",
+          "text": "Conscientiousness would appear higher, since removing the hesitant, unrehearsed reply would remove signs of spontaneity."
+        },
+        {
+          "id": "C",
+          "text": "Neuroticism would be harder to assess, because her steady vocal delivery when answering shows significant emotional control."
+        },
+        {
+          "id": "D",
+          "text": "Openness would shift from Low to High, because the absence of a conventional choice implies more imaginative thinking."
+        },
+        {
+          "id": "E",
+          "text": "Openness would be harder to assess as Low, as her choice of a culturally proximate country is the main piece of evidence."
+        },
+        {
+          "id": "F",
+          "text": "Extraversion would seem higher, given that this moment contains her most significant verbal and social engagement on camera."
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. The behavior in this interval includes her verbal answer \"I'd either go to Canada-\". The personality analysis explicitly states that this choice of a familiar, culturally similar country is the primary evidence for her Low Openness score. Removing this would make that specific assessment much weaker.\n- Option A is a text-based distractor. Her agreeableness is supported by her general participation, not just this specific verbalization.\n- Option B is a video-based distractor. While her hesitant delivery supports Low Conscientiousness, that assessment also relies on her casual appearance. The Openness assessment is more uniquely dependent on the verbal content in this specific clip.\n- Option C is a video-based distractor. Her Low Neuroticism is demonstrated by a consistent lack of anxiety cues throughout the entire video, so removing this single instance of steady speech would not significantly affect the overall assessment.\n- Option D is a near-miss distractor. It correctly identifies Openness as the affected trait, but it makes an incorrect inference about the direction. The absence of this specific evidence doesn't prove the opposite (High Openness); it merely weakens the basis for the current assessment (Low Openness).\n- Option F is a text-based distractor. The strongest evidence for her Low Extraversion comes from her non-verbal cues of internal processing (pauses, gaze aversion) before this moment, not the verbal reply itself."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator03",
+      "version": 1,
+      "clues_total": 25,
+      "clues_correct": 23,
+      "clues_wrong_corrected": 1,
+      "clues_missing_skipped": 0,
+      "clues_bonus": 1
+    }
+  }
+}

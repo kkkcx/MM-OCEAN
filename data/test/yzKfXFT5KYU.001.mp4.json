@@ -1,0 +1,281 @@
+{
+  "video_id": "yzKfXFT5KYU.001.mp4",
+  "video_path": "yzKfXFT5KYU.001.mp4",
+  "transcription": "We've done research in our classes. We've analyzed the perceptions that are out there and how we can overcome those and effectively communicate out towards the industry. Whether you want to be on the communications side of things.",
+  "original_scores": {
+    "extraversion": 0.39252336448598135,
+    "agreeableness": 0.5274725274725275,
+    "conscientiousness": 0.5339805825242718,
+    "neuroticism": 0.5520833333333334,
+    "openness": 0.5111111111111111
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 15.34,
+      "description": "The subject maintains a consistent gaze slightly to her right (viewer's left), as if speaking to an interviewer. Her eyebrows raise slightly for emphasis on certain words (e.g., \"research\" at 0:01, \"analyzed\" at 0:04). Her mouth moves naturally with her speech, with the corners remaining neutral. She blinks at a normal rate throughout the clip.",
+      "bboxes": [
+        {
+          "frame_time": 12.876672,
+          "x": 0.3919407894736842,
+          "y": 0.03736842306036698,
+          "w": 0.3774671052631579,
+          "h": 0.8763157894736842,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 1.024197,
+          "x": 0.4777960526315789,
+          "y": 0.26368421253405117,
+          "w": 0.19539473684210526,
+          "h": 0.16052631578947368,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 2.087596,
+          "x": 0.4644736842105263,
+          "y": 0.5294736862182617,
+          "w": 0.21167763157894737,
+          "h": 0.1736842105263158,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 0.53102,
+          "x": 0.4600328947368421,
+          "y": 0.29526315990247226,
+          "w": 0.22796052631578947,
+          "h": 0.16052631578947368,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 15.34,
+      "description": "The subject is seated with a relatively still posture, framed from the chest up. Her head remains mostly stationary, with slight, subtle nods and turns that are synchronized with her speech patterns.",
+      "bboxes": [
+        {
+          "frame_time": 3.680722,
+          "x": 0.4452302631578947,
+          "y": 0.09263158095510382,
+          "w": 0.309375,
+          "h": 0.8263157894736842,
+          "note": "human-annotated",
+          "region": "unknown"
+        },
+        {
+          "frame_time": 4.62976,
+          "x": 0.2868421052631579,
+          "y": 0.6242105283235249,
+          "w": 0.6291118421052632,
+          "h": 0.3736842105263158,
+          "note": "pose human-annotated",
+          "region": "torso"
+        },
+        {
+          "frame_time": 6.150498,
+          "x": 0.20394736842105263,
+          "y": 0.637368423060367,
+          "w": 0.7578947368421053,
+          "h": 0.3473684210526316,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 15.3153,
+          "x": 0.45263157894736844,
+          "y": 0.07947368621826172,
+          "w": 0.3360197368421053,
+          "h": 0.6947368421052632,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 3.79,
+      "description": "The subject speaks at a moderate, even pace with a conversational pitch. The pitch rises slightly on the word \"research.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 3.79,
+      "end_time": 12.1,
+      "description": "The speech rate remains consistent. Pitch rises slightly on \"analyzed\" and \"effectively\" for emphasis. The pitch contour falls at the end of the sentence on the word \"industry.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 12.1,
+      "end_time": 15.34,
+      "description": "The pace and volume remain steady in a conversational tone. A slight pause occurs before the word \"whether.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.34,
+      "description": "The subject is a young woman with long, light-brown hair and fair skin. She is wearing a black blazer or collared shirt. She is in an indoor setting, possibly a conference room. The wall behind her is covered in a light beige wallpaper with a repeating dark fleur-de-lis or leaf pattern. Dark wood trim is visible. To the viewer's left is a couch with a black-and-white patterned fabric. To the viewer's right is a large, white, framed screen. The lighting is soft and frontal.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Low",
+      "score": 0.39,
+      "rationale": "The subject's Extraversion is rated as Low. This is supported by her controlled and reserved demeanor. Her posture is relatively still, and her head movements are minimal and subtle. Furthermore, her vocal delivery is at a moderate, even pace, lacking the broad intonation range and high energy typically associated with extraverts. The consistent, focused gaze to one side suggests a preference for a direct, one-on-one interaction rather than engaging a broader audience, which is characteristic of a more introverted style.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Medium",
+      "score": 0.53,
+      "rationale": "The subject's Agreeableness is in the Medium range. Her conversational tone and focused gaze towards the presumed interviewer indicate a cooperative and engaged communication style. Her facial expression remains neutral and non-confrontational throughout. While she doesn't display overt warmth (e.g., smiling), which would suggest high agreeableness, she also shows no signs of skepticism or impatience, positioning her firmly in the moderate, professionally pleasant category.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Medium",
+      "score": 0.53,
+      "rationale": "The subject's Conscientiousness is rated as Medium. She demonstrates task-oriented behavior through her structured speech, referencing 'research' and 'analysis' in a logical sequence. Her moderate speech pace and slight pauses suggest deliberation and thoughtfulness. The controlled posture and professional attire point to self-discipline and adherence to situational norms. While these are positive indicators, the evidence is confined to what is expected in a formal setting, thus supporting a medium rather than a high score.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Medium",
+      "score": 0.55,
+      "rationale": "The subject's Neuroticism level is assessed as Medium. She displays strong emotional stability, with no overt signs of anxiety such as fidgeting, vocal tremors, or excessive blinking (her blink rate is noted as normal). Her speech is stable and her posture is composed. However, her overall demeanor is highly controlled and lacks overt signs of relaxation. This controlled composure can be interpreted as a successful effort to manage the typical stress of a formal, evaluative situation, which is consistent with an average level of neuroticism rather than the complete ease of a very low-neuroticism individual.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "Medium",
+      "score": 0.51,
+      "rationale": "The subject's Openness is rated as Medium. The primary evidence lies in her verbal content; she discusses abstract and intellectual concepts like 'research' and 'analyzing perceptions'. She uses subtle vocal emphasis and eyebrow raises on these key terms, indicating engagement with the ideas. However, her overall presentation remains conventional and her emotional expressiveness is contained. This combination of intellectual subject matter delivered in a controlled manner supports a medium score, reflecting intellectual curiosity within a conventional framework.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During 0.0s - 15.3s, the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Low Extraversion, based on a reserved posture and a consistently moderate vocal delivery pattern."
+        },
+        {
+          "id": "B",
+          "text": "High Agreeableness, due to her consistently professional tone and cooperative communication style."
+        },
+        {
+          "id": "C",
+          "text": "High Conscientiousness, supported by the logical structure of her speech and professional attire."
+        },
+        {
+          "id": "D",
+          "text": "Low Neuroticism, because her stable speech and composed posture indicate high emotional stability."
+        },
+        {
+          "id": "E",
+          "text": "Low Openness, given the conventional presentation style and lack of expressed creative ideation."
+        },
+        {
+          "id": "F",
+          "text": "High Openness, as she focuses her discussion on abstract topics like research and perceptions."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The analysis indicates Low Extraversion is the most supported trait. The evidence is her controlled, reserved demeanor, still posture, minimal head movements, and moderate, even-paced vocal delivery. These are classic indicators of introversion.\n- Option B is a text-based distractor. While she is professionally cooperative ('Medium Agreeableness'), she does not display the overt warmth or expressiveness characteristic of 'High Agreeableness'.\n- Option C is a near-miss distractor. She shows signs of conscientiousness (structured speech), but the evidence is only sufficient for a Medium, not High, rating as it's within a formal context.\n- Option D is a near-miss distractor. She appears stable (not highly neurotic), but the analysis rates her as Medium Neuroticism, suggesting her composure is a result of active control rather than innate, deep calm (which would be Low Neuroticism).\n- Option E is a text-based distractor. Her conventional style could suggest Low Openness, but her choice of abstract topics counters this, leading to a Medium rating.\n- Option F is a video-based distractor. This misinterprets the evidence; while the verbal content points towards Openness, her controlled, unexpressive delivery style does not support a 'High' rating for this trait."
+    },
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their Openness level?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The interval between 0.8s - 1.8s."
+        },
+        {
+          "id": "B",
+          "text": "The interval between 4.5s - 5.5s."
+        },
+        {
+          "id": "C",
+          "text": "The interval between 7.2s - 8.2s."
+        },
+        {
+          "id": "D",
+          "text": "The interval between 9.0s - 10.0s."
+        },
+        {
+          "id": "E",
+          "text": "The interval between 11.5s - 12.5s."
+        },
+        {
+          "id": "F",
+          "text": "The interval between 13.9s - 14.9s."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The observation log notes that her eyebrows raise slightly for emphasis on the word 'research' at 0:01 (1.0s). The personality analysis links her engagement with abstract concepts like 'research' to her Medium Openness score. Therefore, this micro-expression is the most relevant change.\n- Option B is a video-based distractor. This interval covers the second eyebrow raise on the word 'analyzed' around 0:04, which is also a valid expression, but the one at 1.0s is the first clear instance.\n- Option C is a text-based distractor. This is a plausible time interval within the video, but no specific micro-expression for emphasis is noted here.\n- Option D is a text-based distractor. This is another plausible time interval, but observation notes do not mention a specific expression change relevant to Openness.\n- Option E is a near-miss distractor. This interval is near a slight pause at 12.1s, which is a conversational cue, but it is not a facial micro-expression related to emphasizing an abstract concept.\n- Option F is a text-based distractor. A plausible time slot with no documented relevant expression."
+    },
+    {
+      "category": "Counterfactual Reasoning",
+      "question": "If the person had NOT exhibited the behavior observed around 3.8s - 12.1s, which of the following personality assessments would be MOST affected?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The Low Extraversion assessment would be weakened, as this period provides key evidence of a reserved and controlled communication style."
+        },
+        {
+          "id": "B",
+          "text": "The Medium Openness score would be less certain, as her discussion of abstract topics in this segment is a crucial piece of evidence."
+        },
+        {
+          "id": "C",
+          "text": "The Medium Conscientiousness score would be affected, because her structured phrasing during this time shows her deliberative nature."
+        },
+        {
+          "id": "D",
+          "text": "The Medium Agreeableness score would be hard to justify without the cooperative verbal tones displayed during this main interaction."
+        },
+        {
+          "id": "E",
+          "text": "The Medium Neuroticism assessment would be higher, because the absence of this controlled speech would suggest less emotional stability."
+        },
+        {
+          "id": "F",
+          "text": "The Low Extraversion assessment would be strengthened, as the absence of this calm behavior would imply even greater social reservation."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The behavior in this period is the consistent, even-paced, and moderately toned speech. This is a primary indicator for Low Extraversion in the analysis. If she had spoken with high energy, varied intonation, or faster pace, this core piece of evidence would be removed, thus weakening the Low Extraversion assessment.\n- Option B is a text-based distractor. The question concerns the *behavior* (vocal delivery), not the verbal *content* ('abstract topics'). The Openness score is based on content, so it would be less affected by a change in delivery style.\n- Option C is a text-based distractor. While her delivery supports the Conscientiousness score, it's a more direct and powerful indicator for Extraversion. Other evidence, like the logical content, also supports Conscientiousness.\n- Option D is a text-based distractor. Her Agreeableness is also supported by her consistent, focused gaze and neutral expression throughout the video, not just her vocal tone in this segment.\n- Option E is a near-miss distractor. This correctly identifies that Neuroticism is related, but it misstates the effect. The absence of controlled speech could weaken the assessment of *Medium* Neuroticism (implying she is either very low or high), not necessarily make the score higher.\n- Option F is a near-miss distractor with an incorrect direction of change. If the calm, controlled behavior were absent (e.g., replaced by energetic, loud speech), the evidence for Low Extraversion would be contradicted and thus weakened, not strengthened."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator11",
+      "version": 1,
+      "clues_total": 12,
+      "clues_correct": 10,
+      "clues_wrong_corrected": 2,
+      "clues_missing_skipped": 0,
+      "clues_bonus": 0
+    }
+  }
+}

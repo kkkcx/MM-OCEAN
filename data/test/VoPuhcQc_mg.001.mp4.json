@@ -1,0 +1,585 @@
+{
+  "video_id": "VoPuhcQc_mg.001.mp4",
+  "video_path": "VoPuhcQc_mg.001.mp4",
+  "transcription": "[inaudible 00:00:30] want to smoke. Did you get high your first time? Definitely not. I definitely did not get high. I remember my friend's sister being like, \"You need to swallow it. You need to take it in and swallow it.\" I was trying to do that-",
+  "original_scores": {
+    "extraversion": 0.36448598130841126,
+    "agreeableness": 0.32967032967032966,
+    "conscientiousness": 0.3786407766990291,
+    "neuroticism": 0.37499999999999994,
+    "openness": 0.5222222222222223
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 1.77,
+      "description": "Eyes are looking down and are mostly closed. Eyebrows are neutral. Mouth is slightly open and moves while speaking.",
+      "bboxes": [
+        {
+          "frame_time": 0.396559,
+          "x": 0.362280701754386,
+          "y": 0.12456140016254626,
+          "w": 0.24912280701754386,
+          "h": 0.12105263157894737,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 0,
+          "x": 0.36578947368421055,
+          "y": 0.08508771595201994,
+          "w": 0.2614035087719298,
+          "h": 0.1,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 1.324054,
+          "x": 0.3798245614035088,
+          "y": 0.3429824527941252,
+          "w": 0.11052631578947368,
+          "h": 0.09736842105263158,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 1.77,
+      "end_time": 2.65,
+      "description": "Eyes close tightly and face tenses as she coughs. Mouth is open.",
+      "bboxes": [
+        {
+          "frame_time": 2.470873,
+          "x": 0.36403508771929827,
+          "y": 0.05350876858359889,
+          "w": 0.23859649122807017,
+          "h": 0.3684210526315789,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 1.92179,
+          "x": 0.4201754385964912,
+          "y": 0.29561403174149364,
+          "w": 0.07894736842105263,
+          "h": 0.11578947368421053,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 2.65,
+      "end_time": 5.52,
+      "description": "Eyes are slightly narrowed, looking down and to her right. The mouth is mostly closed before she begins to speak again.",
+      "bboxes": [
+        {
+          "frame_time": 5.403703,
+          "x": 0.2850877192982456,
+          "y": 0.17456140016254626,
+          "w": 0.2614035087719298,
+          "h": 0.12631578947368421,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 4.072364,
+          "x": 0.2868421052631579,
+          "y": 0.38508771595201996,
+          "w": 0.12456140350877193,
+          "h": 0.07368421052631578,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 5.52,
+      "end_time": 10.15,
+      "description": "She looks directly at the camera, eyebrows slightly raised. The expression is earnest as she speaks.",
+      "bboxes": [
+        {
+          "frame_time": 7.229592,
+          "x": 0.3780701754385965,
+          "y": 0.12192982121517784,
+          "w": 0.2614035087719298,
+          "h": 0.10789473684210527,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 7.229592,
+          "x": 0.37456140350877193,
+          "y": 0.040350873846756785,
+          "w": 0.256140350877193,
+          "h": 0.11315789473684211,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 9.624204,
+          "x": 0.3570175438596491,
+          "y": 0.058771926478335734,
+          "w": 0.23684210526315788,
+          "h": 0.4342105263157895,
+          "note": "face human-annotated",
+          "region": "face"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 10.15,
+      "end_time": 12.57,
+      "description": "Gaze shifts upwards and to her right, as if in recollection. Her eyebrows remain neutral. Her mouth is slightly open.",
+      "bboxes": [
+        {
+          "frame_time": 12.354366,
+          "x": 0.4605263157894737,
+          "y": 0.066666663320441,
+          "w": 0.22456140350877193,
+          "h": 0.18421052631578946,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 12.354366,
+          "x": 0.4587719298245614,
+          "y": 0.2982456106888621,
+          "w": 0.1456140350877193,
+          "h": 0.12368421052631579,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 12.57,
+      "end_time": 15.5,
+      "description": "She looks back towards the camera, mouth moving as she speaks, with an expressive and slightly animated facial expression.",
+      "bboxes": [
+        {
+          "frame_time": 14.443932,
+          "x": 0.4692982456140351,
+          "y": 0.30877192647833573,
+          "w": 0.10877192982456141,
+          "h": 0.08421052631578947,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 14.76423,
+          "x": 0.40964912280701754,
+          "y": 0.03508771595201994,
+          "w": 0.24912280701754386,
+          "h": 0.4789473684210526,
+          "note": "face human-annotated",
+          "region": "face"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 1.77,
+      "description": "A woman sits facing the camera, holding a lit cigarette in her right hand at the bottom of the frame. Faint smoke is visible rising from it.",
+      "bboxes": [
+        {
+          "frame_time": 0,
+          "x": 0.24649122807017543,
+          "y": 0.0298245580572831,
+          "w": 0.46842105263157896,
+          "h": 0.5236842105263158,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 1.037156,
+          "x": 0.5780701754385965,
+          "y": 0.7614035054257041,
+          "w": 0.22280701754385965,
+          "h": 0.23421052631578948,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 1.037156,
+          "x": 0.5219298245614035,
+          "y": 0.5745614001625463,
+          "w": 0.2736842105263158,
+          "h": 0.4236842105263158,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 1.77,
+      "end_time": 2.65,
+      "description": "She brings her left fist up to her mouth and coughs into it.",
+      "bboxes": [
+        {
+          "frame_time": 1.77,
+          "x": 0.31491228070175437,
+          "y": 0.2929824527941252,
+          "w": 0.23157894736842105,
+          "h": 0.37894736842105264,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 2.65,
+      "end_time": 9.77,
+      "description": "She lowers her left hand out of frame. Her right hand holding the cigarette remains at the bottom of the frame. Her head nods slightly for emphasis while speaking.",
+      "bboxes": [
+        {
+          "frame_time": 5.057444,
+          "x": 0.16403508771929826,
+          "y": 0.46140350542570413,
+          "w": 0.2754385964912281,
+          "h": 0.5289473684210526,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 5.057444,
+          "x": 0.5710526315789474,
+          "y": 0.8456140317414936,
+          "w": 0.24561403508771928,
+          "h": 0.15263157894736842,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 9.77,
+      "end_time": 10.87,
+      "description": "She tilts her head to the left and brings her right hand up to brush her hair back from the right side of her face.",
+      "bboxes": [
+        {
+          "frame_time": 10.386819,
+          "x": 0.5201754385964912,
+          "y": 0.0008771896362304687,
+          "w": 0.38596491228070173,
+          "h": 0.5289473684210526,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 10.386819,
+          "x": 0.04649122807017544,
+          "y": 0.019298242267809417,
+          "w": 0.3912280701754386,
+          "h": 0.6789473684210526,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 10.219043,
+          "x": 0.2394736842105263,
+          "y": 0.00350876858359889,
+          "w": 0.4842105263157895,
+          "h": 0.5026315789473684,
+          "note": "face human-annotated",
+          "region": "face"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 10.87,
+      "end_time": 12.57,
+      "description": "Her right hand moves down to her neck, and she scratches the right side of her neck with her fingers.",
+      "bboxes": [
+        {
+          "frame_time": 12.079825,
+          "x": 0.3447368421052632,
+          "y": 0.13508771595201993,
+          "w": 0.3017543859649123,
+          "h": 0.4473684210526316,
+          "note": "human-annotated",
+          "region": "neck"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 12.57,
+      "end_time": 15.5,
+      "description": "She brings her right hand down and gestures with it while speaking. Her left hand also comes into frame to gesture.",
+      "bboxes": [
+        {
+          "frame_time": 14.123633,
+          "x": 0.24649122807017543,
+          "y": 0.516666663320441,
+          "w": 0.2894736842105263,
+          "h": 0.4763157894736842,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 1.83,
+      "end_time": 2.39,
+      "description": "A single, sharp cough is heard.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 3.96,
+      "end_time": 5.16,
+      "description": "The phrase \"Did you get high your first time?\" is delivered with a rising, questioning intonation.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 5.4,
+      "end_time": 7.82,
+      "description": "The phrase \"Definitely not. I definitely did not get high\" is spoken with a firm tone and falling intonation, emphasizing the word \"not.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 8,
+      "end_time": 15.5,
+      "description": "Speech rate remains moderate as she recounts a memory. The pitch rises slightly when she says \"You need to swallow it,\" as if quoting someone.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.5,
+      "description": "A young woman with long, straight brown hair, fair skin, and dark eye makeup. She is wearing a dark, scoop-neck, long-sleeved shirt with black straps visible underneath. She has red nail polish, a necklace, earrings, a watch on her left wrist, a bracelet on her right wrist, and a ring. The setting is indoors, in a room with off-white walls. A white, paneled door is visible to her left, and another doorway is behind her. A light switch is visible on the wall to her right. The lighting is frontal and even.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Low",
+      "score": 0.36,
+      "rationale": "The subject's Extraversion is rated Low. This is supported by several introverted cues. Initially, her eyes are downcast and nearly closed ([0.0s-1.8s]), and she later averts her gaze downwards and to the side ([2.6s-5.5s]) rather than consistently engaging the camera. While she does make direct eye contact later, her overall energy level is contained. Her speech pace is moderate ([8.0s-15.5s]), lacking the rapid, high-energy delivery often seen in high extraversion. The solitary, controlled setting of a monologue to a camera is more indicative of a reserved nature than a desire for dynamic social stimulation.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Low",
+      "score": 0.33,
+      "rationale": "The subject's Agreeableness is rated Low. This is suggested by a direct and somewhat guarded communication style. Her initial expression, with furrowed brows ([0.0s-1.8s]), can indicate skepticism rather than open warmth. When responding to the question, her tone is firm and emphatic, particularly in her denial, \"Definitely not\" ([5.4s-7.8s]). This assertive, matter-of-fact delivery prioritizes factual clarity over social pleasantry, a style common in individuals with lower agreeableness. The casual discussion of a non-conformist topic further supports a lower concern for social conventions.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Low",
+      "score": 0.38,
+      "rationale": "The subject's Conscientiousness is rated Low. The most prominent evidence is the act of smoking while recording a video ([0.0s-1.8s]). This suggests a spontaneous and unplanned approach, prioritizing immediate impulse over a polished or carefully prepared self-presentation. The brief interruption of a cough ([1.8s-2.4s]) and casual grooming gestures like brushing hair from her face ([9.8s-10.9s]) further contribute to an unscripted, informal demeanor, which is inconsistent with high conscientiousness.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Low",
+      "score": 0.37,
+      "rationale": "The subject's Neuroticism is rated Low, indicating high emotional stability. Despite a physical interruption like a cough ([1.8s-2.4s]), she remains composed and continues her story without any signs of embarrassment or anxiety. Her vocal tone is steady and her speech pace is moderate and controlled throughout the recollection ([8.0s-15.5s]). Although she makes a self-soothing gesture of scratching her neck ([10.9s-12.6s]), it is brief and casual, and her overall relaxed demeanor suggests a low level of stress or negative affect.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "Medium",
+      "score": 0.52,
+      "rationale": "The subject's Openness is rated Medium. She demonstrates a willingness to engage with unconventional topics by openly answering a personal question about a past experience ([4.0s-15.5s]). Her aesthetic choices, including distinct eye makeup and jewelry, suggest an appreciation for self-expression. Her facial expressions become lively and engaged when recounting the memory ([12.6s-15.5s]), indicating a comfort with her inner world of experience. The score remains in the medium range as the behavior is personal and self-disclosing but not deeply abstract or intellectually complex, reflecting a balance between curiosity and conventionality.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During [0.0s - 2.6s], the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Low level of Conscientiousness"
+        },
+        {
+          "id": "B",
+          "text": "High level of Neuroticism"
+        },
+        {
+          "id": "C",
+          "text": "High level of Extraversion"
+        },
+        {
+          "id": "D",
+          "text": "Low level of Agreeableness"
+        },
+        {
+          "id": "E",
+          "text": "Medium level of Openness"
+        },
+        {
+          "id": "F",
+          "text": "High level of Conscientiousness"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. The analysis notes that smoking while recording and the unscripted cough suggest a spontaneous and unplanned approach, which are key indicators of Low Conscientiousness.\n\nOption B is a text-based distractor because while a cough could be associated with nervousness (High Neuroticism), her overall demeanor is composed, and the analysis rates her Neuroticism as low.\nOption C is a text-based distractor because one might assume recording a video is an extraverted activity, but her downcast eyes and contained energy in this segment actually point toward introversion (Low Extraversion).\nOption D is a video-based distractor because the evidence for Low Agreeableness (her firm, assertive tone) appears later in the video, around [5.4s - 7.8s], not in this initial segment.\nOption E is a video-based distractor because her Medium Openness is inferred from her willingness to discuss the topic later, not from the physical actions in the first few seconds.\nOption F is a near-miss distractor because it correctly identifies the relevant personality dimension (Conscientiousness) but gets the direction wrong; her behavior indicates low, not high, conscientiousness."
+    },
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their Low Agreeableness level?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[5.5s - 10.2s]"
+        },
+        {
+          "id": "B",
+          "text": "[1.8s - 2.6s]"
+        },
+        {
+          "id": "C",
+          "text": "[10.9s - 12.6s]"
+        },
+        {
+          "id": "D",
+          "text": "[0.0s - 1.8s]"
+        },
+        {
+          "id": "E",
+          "text": "[4.0s - 5.2s]"
+        },
+        {
+          "id": "F",
+          "text": "[12.6s - 15.5s]"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. During this interval, she makes direct eye contact, raises her eyebrows, and delivers the firm denial \"Definitely not.\" The analysis links this assertive, matter-of-fact delivery directly to her Low Agreeableness score.\n\nOption B is a video-based distractor because it captures the cough, a notable event, but this is more relevant to her Low Neuroticism (composure) or Low Conscientiousness (informality), not Agreeableness.\nOption C is a video-based distractor because it corresponds to her scratching her neck, a self-soothing gesture more related to the Neuroticism dimension.\nOption D is a video-based distractor because her downcast eyes in this period are primary evidence for Low Extraversion, not Low Agreeableness.\nOption E is a near-miss distractor as it's the interval immediately preceding the correct one, where the question is being asked, but before her expressive reaction that provides the evidence.\nOption F is a video-based distractor; this interval shows her lively and engaged storytelling expression, which is more relevant to her Medium Openness, not Low Agreeableness."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around [1.0s], a region was detected in the video (x=0.58, y=0.76, w=0.22, h=0.23, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The left hand holding a lit object."
+        },
+        {
+          "id": "B",
+          "text": "The eyes averting down and to the right."
+        },
+        {
+          "id": "C",
+          "text": "The eyebrows raised during a statement."
+        },
+        {
+          "id": "D",
+          "text": "The hand brushing hair from the face."
+        },
+        {
+          "id": "E",
+          "text": "The mouth forming words during speech."
+        },
+        {
+          "id": "F",
+          "text": "The right hand holding a lit object."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. The specified bounding box at 1.0s corresponds to the lower-right portion of the screen where her left hand is holding a lit cigarette.\n\nOption B is a video-based distractor describing an action (gaze aversion) that occurs in a different region (the eyes) at a different time ([2.6s-5.5s]).\nOption C is a video-based distractor describing an expression (raised eyebrows) that occurs in a different region (the face) at a different time ([5.5s-10.2s]).\nOption D is a video-based distractor describing an action (brushing hair) that occurs in a different region (upper-left of the frame) at a different time ([9.8s-10.9s]).\nOption E is a text-based distractor. While her mouth is moving, this specific bbox is clearly on her hand, not her mouth.\nOption F is a near-miss distractor. The action is correct, but it incorrectly identifies the hand as the right hand, whereas the video clearly shows it is her left hand."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "Which timestamp and bounding box combination correctly identifies the moment a hand gesture is used for conversational emphasis?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[14.1s] x=0.25, y=0.52, w=0.29, h=0.48"
+        },
+        {
+          "id": "B",
+          "text": "[0.4s] x=0.36, y=0.12, w=0.25, h=0.12"
+        },
+        {
+          "id": "C",
+          "text": "[2.5s] x=0.36, y=0.05, w=0.24, h=0.37"
+        },
+        {
+          "id": "D",
+          "text": "[5.1s] x=0.57, y=0.85, w=0.25, h=0.15"
+        },
+        {
+          "id": "E",
+          "text": "[4.1s] x=0.29, y=0.39, w=0.12, h=0.07"
+        },
+        {
+          "id": "F",
+          "text": "[1.9s] x=0.42, y=0.30, w=0.08, h=0.12"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. This combination points to the exact moment and location where her right hand comes into the frame to make an illustrative gesture as she is speaking and telling her story.\n\nOption B is a video-based distractor that correctly identifies a time but points to her downcast eyes, not a hand gesture.\nOption C is a video-based distractor that points to her face while it is tensed during a cough, not a conversational gesture.\nOption D is a near-miss distractor. It points to a hand, but it is her left hand holding the cigarette at an earlier time, which is a static pose rather than an active conversational gesture.\nOption E is a video-based distractor that points to her mouth while it is closed, before she starts speaking again.\nOption F is a video-based distractor that points to her mouth while it is open for the cough."
+    },
+    {
+      "category": "Counterfactual Reasoning",
+      "question": "If the person had NOT exhibited the behavior observed around [5.4s - 7.8s], which of the following personality assessments would be MOST affected?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Agreeableness would be assessed as higher since a key indicator of direct, assertive communication would be absent from the overall evidence."
+        },
+        {
+          "id": "B",
+          "text": "Neuroticism would be assessed as higher, because the firm tone observed in that moment is the primary evidence for emotional stability."
+        },
+        {
+          "id": "C",
+          "text": "Openness would be assessed as much lower, since a failure to answer would suggest a less open personality toward the personal topic."
+        },
+        {
+          "id": "D",
+          "text": "Conscientiousness would be assessed as higher, as that moment contributes to the perception of an informal, unplanned presentation style."
+        },
+        {
+          "id": "E",
+          "text": "Agreeableness would be assessed as much lower because the absence of denial would imply a tacit agreement, a non-assertive behavior."
+        },
+        {
+          "id": "F",
+          "text": "Extraversion would be assessed as lower because that specific moment of direct engagement is the main display of social energy in the clip."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. The behavior in this interval is the firm, emphatic denial (\"Definitely not\"), which the analysis identifies as the strongest evidence for Low Agreeableness. Removing this direct, assertive communication would remove the primary support for that rating, likely causing the assessment to shift higher (towards medium or neutral).\n\nOption B is a video-based distractor because while her calm tone does support Low Neuroticism, it is not the *sole* evidence; her composure after coughing is also a key factor. Thus, its absence would have a smaller impact.\nOption C is a text-based distractor. The absence of this specific behavior (the firm denial) does not mean she failed to answer. Her Openness score is based on engaging with the topic generally, not just this one sentence.\nOption D is a video-based distractor. The evidence for Low Conscientiousness comes from smoking and general informality, not the content or tone of this specific, clear denial.\nOption E is a near-miss distractor because it identifies the correct trait (Agreeableness) but reasons in the wrong direction. The absence of a behavior cannot be interpreted as its opposite; it would simply weaken the evidence for the original assessment.\nOption F is a text-based distractor because her Low Extraversion is primarily evidenced by her initial gaze aversion and contained energy, not this moment of directness."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator16",
+      "version": 2,
+      "clues_total": 36,
+      "clues_correct": 25,
+      "clues_wrong_corrected": 5,
+      "clues_missing_skipped": 6,
+      "clues_bonus": 0
+    }
+  }
+}

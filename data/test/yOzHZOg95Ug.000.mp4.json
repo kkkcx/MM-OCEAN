@@ -1,0 +1,395 @@
+{
+  "video_id": "yOzHZOg95Ug.000.mp4",
+  "video_path": "yOzHZOg95Ug.000.mp4",
+  "transcription": "I love both. My favorite flavors of ice cream include hokey pokey, because I'm boring, I love gold rush, I love rainbow flavor. Can anyone tell me what rainbow flavor ice cream actually tastes like, though? Like the rainbow swirl, it kind of just tastes really fruity and bubblegum-,",
+  "original_scores": {
+    "extraversion": 0.2149532710280374,
+    "agreeableness": 0.29670329670329665,
+    "conscientiousness": 0.4466019417475728,
+    "neuroticism": 0.32291666666666663,
+    "openness": 0.23333333333333334
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 15.22,
+      "description": "The subject maintains a consistent gaze towards the camera. His facial expression is largely neutral and relaxed. His eyebrows lift slightly as he speaks, particularly around 0.36, 2.56, and 8.94 seconds. His mouth moves naturally with speech, and his eyes blink at a regular rate.",
+      "bboxes": [
+        {
+          "frame_time": 2.16901,
+          "x": 0.43264802631578947,
+          "y": 0.2614035054257042,
+          "w": 0.15838815789473684,
+          "h": 0.11052631578947368,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 3.872193,
+          "x": 0.4370888157894737,
+          "y": 0.23771929489938837,
+          "w": 0.14950657894736843,
+          "h": 0.3105263157894737,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 5.061957,
+          "x": 0.45041118421052634,
+          "y": 0.4377192948993884,
+          "w": 0.12730263157894736,
+          "h": 0.11315789473684211,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 9.811496,
+          "x": 0.41488486842105265,
+          "y": 0.2850877159520199,
+          "w": 0.14210526315789473,
+          "h": 0.11052631578947368,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 15.22,
+      "description": "The subject sits in a high-backed chair, leaning slightly forward. His head remains mostly still, with minor nods and turns that coincide with his speech. His right hand is partially visible at the bottom of the frame, occasionally making small, low-amplitude illustrative gestures.",
+      "bboxes": [
+        {
+          "frame_time": 1.318046,
+          "x": 0.24021381578947368,
+          "y": 0.4429824527941252,
+          "w": 0.5388157894736842,
+          "h": 0.5236842105263158,
+          "note": "pose human-annotated",
+          "region": "torso"
+        },
+        {
+          "frame_time": 1.318046,
+          "x": 0.4178453947368421,
+          "y": 0.0929824527941252,
+          "w": 0.2042763157894737,
+          "h": 0.5157894736842106,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 6.32411,
+          "x": 0.09810855263157894,
+          "y": 0.7640350843730725,
+          "w": 0.2901315789473684,
+          "h": 0.23157894736842105,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 15.22,
+      "description": "The subject speaks at a moderate pace with a relatively low and consistent volume, resulting in a slightly muffled quality with noticeable room echo. His pitch is in the mid-to-low range and remains fairly stable, with slight downward intonation at the end of phrases. He uses filler words like \"um\" at the beginning and middle of his sentences (e.g., at 0.0 and 8.64 seconds).",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.22,
+      "description": "The subject is a young adult male with dark brown hair and fair skin, wearing a white, short-sleeved, button-down shirt. He is in an indoor room, sitting in a red and black gaming-style chair. To his left is a large professional microphone and a tall wooden wardrobe. The background is somewhat cluttered with various items, including a wooden chest and boxes. The lighting is frontal and appears to be from a single source, casting a slight sheen on his forehead.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Low",
+      "score": 0.21,
+      "rationale": "The subject's Low Extraversion is indicated by his subdued communication style. His vocal delivery is characterized by a relatively low and steady volume with a stable, mid-to-low pitch, lacking the vocal energy and expressiveness typical of highly extraverted individuals. Physically, his energy output is minimal; his head and torso are mostly still, and his hand gestures are small and low-amplitude. This reserved physical presence, combined with a generally neutral facial expression, points to a more introverted and less socially assertive disposition.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Low",
+      "score": 0.3,
+      "rationale": "The subject's Low Agreeableness is subtly conveyed through his verbal and non-verbal behavior. His facial expression is consistently neutral and relaxed, lacking the overt warmth and smiling often used to build rapport, which is a hallmark of high agreeableness. Verbally, his direct question, \"Can anyone tell me what rainbow flavor ice cream actually tastes like, though?\", introduces a skeptical, challenging tone to the otherwise simple topic. This inclination to question and express skepticism, rather than simply accepting common notions, aligns with the more independent and less accommodating nature of lower agreeableness.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Medium",
+      "score": 0.45,
+      "rationale": "The Medium score for Conscientiousness is supported by a mix of organized and disorganized behaviors. On one hand, the subject is focused on the task, sitting with an engaged forward lean and maintaining eye contact with the camera. The presence of a professional microphone suggests a degree of preparation and diligence. On the other hand, the background is described as somewhat cluttered, indicating a lack of orderliness in his personal environment. Furthermore, his speech contains filler words, and the poor audio quality (muffled with room echo) suggests a lack of meticulousness in optimizing the recording setup. This blend of preparedness and disorganization is characteristic of a medium level of conscientiousness.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Low",
+      "score": 0.32,
+      "rationale": "The subject exhibits clear indicators of Low Neuroticism, or high emotional stability. His physical demeanor is calm; he maintains a largely still posture with controlled, minimal gestures, showing no signs of fidgeting or nervous tension. His facial expression is described as consistently neutral and relaxed. This emotional calmness is further reinforced by his vocal characteristics: a moderate speech pace, steady volume, and stable pitch, all of which are hallmarks of a composed and emotionally regulated state.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "Low",
+      "score": 0.23,
+      "rationale": "The subject's Low Openness is reflected in his preference for the conventional and familiar. The topic of conversation—common ice cream flavors—is concrete and mundane. His self-assessment as \"boring\" directly suggests a lack of interest in novelty. The vocal style, with its stable pitch and downward intonation, is straightforward and lacks the dynamic, expressive quality often associated with intellectual curiosity. Even his question is a practical, sensory inquiry rather than an abstract or imaginative one, which aligns with a focus on tangible, everyday experiences over abstract ideas.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During 0.0s - 15.2s, the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "High Agreeableness, due to the generally pleasant and relatable topic choice."
+        },
+        {
+          "id": "B",
+          "text": "High Openness, because his discussion involves exploring various novel ideas."
+        },
+        {
+          "id": "C",
+          "text": "Low Extraversion, primarily because of his subdued and low-energy gestures."
+        },
+        {
+          "id": "D",
+          "text": "High Neuroticism, suggested by the slight vocal hesitancy in his speech."
+        },
+        {
+          "id": "E",
+          "text": "Low Neuroticism, given his consistently calm physical composure and stability."
+        },
+        {
+          "id": "F",
+          "text": "Medium Conscientiousness, supported by a mix of organized and messy cues."
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The analysis highlights the subject's calm demeanor, relaxed expression, and lack of nervous fidgeting as primary evidence for Low Neuroticism (high emotional stability). This is the most consistently demonstrated trait throughout the entire clip.\n- Option A is a text-based distractor. The topic of ice cream might sound agreeable, but his skeptical tone and neutral expression contradict this assessment.\n- Option B is a text-based distractor. While he discusses flavors, his self-assessment as 'boring' and the concrete nature of his question point towards Low Openness, not High.\n- Option C is a video-based distractor. His Low Extraversion is also strongly supported by the video evidence (quiet voice, minimal movement), making this a strong distractor. However, his calmness (Neuroticism) is a more pervasive and defining feature of his state throughout the video than his introversion, which is tied to his communication style.\n- Option D is a near-miss distractor. It incorrectly identifies the direction of the Neuroticism trait; his speech is steady and composed, not hesitant, which indicates low, not high, neuroticism.\n- Option F is a video-based distractor. While the analysis does support Medium Conscientiousness, the evidence (mic vs. clutter) is secondary to the more prominent behavioral evidence for his emotional stability."
+    },
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does the person exhibit the specific verbal behavior that most strongly supports the assessment of Low Agreeableness?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The time interval between 0.8s and 1.8s."
+        },
+        {
+          "id": "B",
+          "text": "The time interval between 3.1s and 4.1s."
+        },
+        {
+          "id": "C",
+          "text": "The time interval between 5.4s and 6.4s."
+        },
+        {
+          "id": "D",
+          "text": "The time interval between 13.7s and 14.7s."
+        },
+        {
+          "id": "E",
+          "text": "The time interval between 8.6s and 9.6s."
+        },
+        {
+          "id": "F",
+          "text": "The time interval between 11.2s and 12.2s."
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The personality analysis links the subject's Low Agreeableness to his skeptical question, \"Can anyone tell me what rainbow flavor ice cream actually tastes like, though?\". This question begins at approximately 8.6s. The verbalization of this challenging and skeptical thought represents the most relevant behavioral shift related to his Agreeableness score.\n- Option A is a video-based distractor. This interval covers the start of his speech, which establishes his low-energy baseline (Extraversion) but is not the key moment for Agreeableness.\n- Option B is a video-based distractor. During this time, he says \"I love gold rush,\" a simple statement of preference, not a moment of skepticism.\n- Option C is a video-based distractor. He says \"I love rainbow flavor\" during this period, which does not reflect the skepticism linked to Low Agreeableness.\n- Option D is a video-based distractor. This interval occurs near the end of his speech as he trails off, which doesn't contain the key skeptical expression.\n- Option F is a video-based distractor. During this time, he is in the middle of his question but the initiation of the skeptical thought, which is the key change, has already occurred."
+    },
+    {
+      "category": "Mixed Emotion Discrimination",
+      "question": "During 8.5s - 12.0s, the person's emotional state is best characterized as which of the following? Consider both verbal and non-verbal cues.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Joyful nostalgia mixed with a sense of genuine contentment."
+        },
+        {
+          "id": "B",
+          "text": "Anxious uncertainty tempered by a strong desire for validation."
+        },
+        {
+          "id": "C",
+          "text": "Deep concentration mixed with a feeling of mild frustration."
+        },
+        {
+          "id": "D",
+          "text": "Bored indifference tempered by a slight hint of social fatigue."
+        },
+        {
+          "id": "E",
+          "text": "Detached curiosity mixed with a subtle, challenging skepticism."
+        },
+        {
+          "id": "F",
+          "text": "Wistful recollection tempered by a subtle feeling of sadness."
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "During this period, the subject poses a direct, skeptical question. His neutral, calm expression combined with the analytical nature of the question supports a state of detached, intellectual curiosity mixed with a challenging undertone (skepticism), which aligns with the Low Agreeableness assessment.\n- Option A is a text-based distractor. It relies on the common association of ice cream with joy, but his neutral expression and skeptical tone do not support this.\n- Option B is a text-based distractor. One might interpret a question as a sign of uncertainty, but his calm demeanor and steady voice show no signs of anxiety.\n- Option C is a video-based distractor. He is focused, but his expression and tone do not indicate frustration; it's a calm inquiry.\n- Option D is a near-miss distractor. While he is low-energy, 'bored indifference' is too strong. He is actively engaged in posing a specific question, which contradicts indifference.\n- Option F is a text-based distractor. Nothing in his verbal or non-verbal behavior suggests wistfulness or sadness; the topic is handled in a very matter-of-fact way."
+    },
+    {
+      "category": "Temporal-Causal Reasoning",
+      "question": "Consider the sequence of behaviors observed across the video. Which of the following best describes the causal chain linking the person's actions at different moments?",
+      "options": [
+        {
+          "id": "A",
+          "text": "An initial display of social anxiety (early) is managed by stating common preferences (middle), which then leads to an attempt to build rapport by asking a question (late)."
+        },
+        {
+          "id": "B",
+          "text": "A period of creative brainstorming (middle) prompts a moment of self-doubt (late), which then causes the person to revert to a more reserved physical posture (early)."
+        },
+        {
+          "id": "C",
+          "text": "A confident assertion of expertise (early) is followed by providing conventional examples (middle), which concludes with a rhetorical question to affirm his knowledge (late)."
+        },
+        {
+          "id": "D",
+          "text": "A skeptical social probe (late) causes a retreat into describing personal tastes (middle), which then resolves into the establishment of a neutral emotional baseline (early)."
+        },
+        {
+          "id": "E",
+          "text": "A state of emotional regulation (early) enables a low-energy self-disclosure (middle), which then culminates in a skeptical social probe that questions a shared assumption (late)."
+        },
+        {
+          "id": "F",
+          "text": "A display of high engagement (early) is followed by a moment of intellectual curiosity (late), which then causes him to share familiar, conventional examples (middle)."
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "This option correctly maps the abstract sequence to the video. He begins with a calm, stable baseline (emotional regulation). This allows for a low-energy, introspective monologue about his 'boring' tastes (self-disclosure). This line of thinking logically leads to him questioning a vague concept, rainbow flavor (skeptical social probe).\n- Option A is a near-miss distractor. It misinterprets his calm state as 'social anxiety' and his skeptical question as an attempt to 'build rapport', which is the opposite of its challenging nature.\n- Option B is a text-based distractor. There is no evidence of 'creative brainstorming' or 'self-doubt'; the content is mundane. It also has the temporal order incorrect.\n- Option C is a text-based distractor. The subject does not display 'confident assertion of expertise'; in fact, he calls himself 'boring' and asks a question because he doesn't know the answer.\n- Option D is a video-based distractor with a reversed temporal order. It incorrectly places the events in a late -> middle -> early sequence.\n- Option F is a video-based distractor with incorrect temporal order (early -> late -> middle) and misinterprets his low energy as 'high engagement'."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 3.9s, a region was detected in the video (x=0.437, y=0.238, w=0.150, h=0.311, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "An engaged posture with the torso leaning slightly forward in a chair."
+        },
+        {
+          "id": "B",
+          "text": "A subtle, low-amplitude gesture being performed with the subject's hand."
+        },
+        {
+          "id": "C",
+          "text": "A regular and consistent blinking pattern observed in the subject's eyes."
+        },
+        {
+          "id": "D",
+          "text": "A mostly still head position with subtle, speech-related nodding motions."
+        },
+        {
+          "id": "E",
+          "text": "A neutral and generally relaxed facial expression maintained by the subject."
+        },
+        {
+          "id": "F",
+          "text": "A direct and steady gaze from the eyes directed consistently at the camera."
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The provided coordinates (x=0.437, y=0.238, w=0.150, h=0.311) at 3.9s correspond to the bounding box around the subject's entire face. According to the observation cues, the description for this region is His facial expression is generally neutral and relaxed.\n- Option A is a video-based distractor. It describes the torso's posture, which is outside the specified bounding box.\n- Option B is a video-based distractor. It describes the hand gesture, located in a different region of the frame (lower left).\n- Option C is a near-miss distractor. While the eyes are inside the face region, this describes a specific action of the eyes (blinking), whereas the question asks for the most prominent expression of the entire specified region, which is the overall neutral face.\n- Option D is a video-based distractor. It describes the head's overall motion, which is a broader context than the facial expression contained within the bbox.\n- Option F is a near-miss distractor. Similar to option C, this describes the eyes' action, which is a component within the larger facial region. The overall expression of the whole face is the more accurate answer for the given bounding box."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "The subject makes a subtle, low-energy illustrative motion with his hand. At which time and in which location does this specific action occur?",
+      "options": [
+        {
+          "id": "A",
+          "text": "At 2.2s, in the area (x=0.433, y=0.261, w=0.158, h=0.111)."
+        },
+        {
+          "id": "B",
+          "text": "At 1.3s, in the area (x=0.418, y=0.093, w=0.204, h=0.516)."
+        },
+        {
+          "id": "C",
+          "text": "At 5.1s, in the area (x=0.450, y=0.438, w=0.127, h=0.113)."
+        },
+        {
+          "id": "D",
+          "text": "At 1.3s, in the area (x=0.240, y=0.443, w=0.539, h=0.524)."
+        },
+        {
+          "id": "E",
+          "text": "At 6.3s, in the area (x=0.098, y=0.764, w=0.290, h=0.232)."
+        },
+        {
+          "id": "F",
+          "text": "At 6.3s, in the area (x=0.418, y=0.093, w=0.204, h=0.516)."
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The observation cues state that a small, low-amplitude hand gesture is visible from the right hand. The provided bounding box for this action is at 6.3s with coordinates x=0.098, y=0.764, w=0.290, h=0.232. This option matches both the time and location correctly.\n- Option A is a video-based distractor. This time and bbox correspond to the eyes looking at the camera.\n- Option B is a video-based distractor. This time and bbox correspond to the head's position.\n- Option C is a video-based distractor. This time and bbox correspond to the mouth moving with speech.\n- Option D is a video-based distractor. This time and bbox correspond to the torso's position.\n- Option F is a near-miss distractor. It has the correct timestamp (6.3s) but provides the bounding box for the head, not the hand."
+    },
+    {
+      "category": "Counterfactual Reasoning",
+      "question": "If the person had NOT exhibited the behavior observed around 8.6s - 11.5s, which of the following personality assessments would be MOST affected?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Extraversion would be less certain, as his vocal energy during that time is a key indicator."
+        },
+        {
+          "id": "B",
+          "text": "Openness score would increase, because asking a direct question shows a lack of imagination."
+        },
+        {
+          "id": "C",
+          "text": "Neuroticism assessment would be difficult, as his calm delivery of the question is crucial."
+        },
+        {
+          "id": "D",
+          "text": "Conscientiousness would seem higher, since the question reveals a lack of careful preparation."
+        },
+        {
+          "id": "E",
+          "text": "Agreeableness would be less certain, as this provides key evidence for a skeptical style."
+        },
+        {
+          "id": "F",
+          "text": "Agreeableness score would increase, because this skeptical moment is the primary detractor."
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The behavior from 8.6s to 11.5s is the person asking the skeptical question about rainbow-flavored ice cream. The personality analysis explicitly links this challenging question to his Low Agreeableness score. Removing this specific behavior would remove the strongest piece of evidence for his skeptical, less accommodating communication style, making the Low Agreeableness assessment much less certain.\n- Option A is a video-based distractor. His low vocal energy (related to Low Extraversion) is consistent throughout the entire video, so removing this single segment would not significantly affect the assessment.\n- Option B is a near-miss distractor. It correctly identifies a relevant trait (Openness) but gets the reasoning backward. Removing the practical question might make his Openness score slightly more ambiguous, but it wouldn't necessarily increase it, and the impact is less direct than on Agreeableness.\n- Option C is a video-based distractor. His calm demeanor (related to Low Neuroticism) is also a baseline trait evident from the beginning; this specific moment is not unique in demonstrating it.\n- Option D is a text-based distractor. It makes an unsupported leap in logic that asking a question implies poor preparation; the link to Conscientiousness is weak.\n- Option F is a near-miss distractor. It correctly identifies the trait (Agreeableness) and the behavior's negative impact, but the conclusion is too strong. Removing the evidence for a low score doesn't automatically mean the score would increase to high; it would more accurately become more ambiguous or trend towards the population average (medium)."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [
+      {
+        "check": "B",
+        "q_idx": 1,
+        "issue": "The question asks for a 'notable change' in facial expression related to Agreeableness, but both the observation records and the personality analysis state that the subject's facial expression is 'consistently neutral'. The key evidence for Low Agreeableness is a verbal cue (a skeptical question), not a change in facial expression.",
+        "action": "Reworded the question to focus on the timing of the key verbal behavior that indicates Low Agreeableness, removing the inaccurate reference to a facial expression change."
+      }
+    ],
+    "corrections": {
+      "mcq_questions[1].question": "At which time interval does the person exhibit the specific verbal behavior that most strongly supports the assessment of Low Agreeableness?"
+    },
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator17",
+      "version": 1,
+      "clues_total": 10,
+      "clues_correct": 8,
+      "clues_wrong_corrected": 1,
+      "clues_missing_skipped": 1,
+      "clues_bonus": 0
+    }
+  }
+}

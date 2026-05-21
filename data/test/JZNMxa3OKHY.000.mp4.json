@@ -1,0 +1,496 @@
+{
+  "video_id": "JZNMxa3OKHY.000.mp4",
+  "video_path": "JZNMxa3OKHY.000.mp4",
+  "transcription": "... for all different kinds of reasons, like it could be because I like your shoes, you know. I approach everybody the same. I think if you're trying to approach another woman in hopes of, like, getting her number ...",
+  "original_scores": {
+    "extraversion": 0.7196261682242993,
+    "agreeableness": 0.5604395604395604,
+    "conscientiousness": 0.4660194174757281,
+    "neuroticism": 0.625,
+    "openness": 0.7333333333333333
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 2.95,
+      "description": "The woman looks directly at the camera with a pleasant, engaged expression. Her eyebrows are slightly raised, and her mouth forms a subtle smile as she speaks.",
+      "bboxes": [
+        {
+          "frame_time": 0.417862,
+          "x": 0.4689144736842105,
+          "y": 0.03473684411299856,
+          "w": 0.3078947368421053,
+          "h": 0.5894736842105263,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 1.475,
+          "x": 0.528125,
+          "y": 0.12157894937615646,
+          "w": 0.2679276315789474,
+          "h": 0.4605263157894737,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 2.617137,
+          "x": 0.5740131578947368,
+          "y": 0.19526315990247226,
+          "w": 0.19835526315789473,
+          "h": 0.1394736842105263,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 1.011666,
+          "x": 0.5192434210526315,
+          "y": 0.3478947388498407,
+          "w": 0.25608552631578946,
+          "h": 0.16842105263157894,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 2.95,
+      "end_time": 10.92,
+      "description": "Her expression shifts to a more neutral, focused state as she continues speaking. Her gaze remains locked on the camera, with natural blinking. Her mouth movements are synchronized with her speech.",
+      "bboxes": [
+        {
+          "frame_time": 3.988686,
+          "x": 0.522203947368421,
+          "y": 0.09263158095510382,
+          "w": 0.2634868421052632,
+          "h": 0.5657894736842105,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 5.53152,
+          "x": 0.4911184210526316,
+          "y": 0.20315789674457752,
+          "w": 0.26644736842105265,
+          "h": 0.2,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 5.53152,
+          "x": 0.5325657894736842,
+          "y": 0.41105263358668276,
+          "w": 0.19095394736842106,
+          "h": 0.16052631578947368,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 10.92,
+      "end_time": 15,
+      "description": "Her expression softens as she tilts her head. Her eyebrows are relaxed, and a slight, gentle smile appears on her lips as she looks at the camera.",
+      "bboxes": [
+        {
+          "frame_time": 11.673138,
+          "x": 0.47927631578947366,
+          "y": 0.13736842306036698,
+          "w": 0.26200657894736845,
+          "h": 0.4394736842105263,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 11.673138,
+          "x": 0.49407894736842106,
+          "y": 0.1636842125340512,
+          "w": 0.2679276315789474,
+          "h": 0.45263157894736844,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 12.006468,
+          "x": 0.4555921052631579,
+          "y": 0.1531578967445775,
+          "w": 0.2738486842105263,
+          "h": 0.14736842105263157,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 12.506463,
+          "x": 0.5473684210526316,
+          "y": 0.3926315809551038,
+          "w": 0.21759868421052633,
+          "h": 0.1868421052631579,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 12.839793,
+          "x": 0.44819078947368424,
+          "y": 0.19526315990247226,
+          "w": 0.32861842105263156,
+          "h": 0.4263157894736842,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 2.95,
+      "description": "The woman is framed from the upper chest up, sitting still with her shoulders level.",
+      "bboxes": [
+        {
+          "frame_time": 1.475,
+          "x": 0.5370065789473685,
+          "y": 0.10578947569194593,
+          "w": 0.2945723684210526,
+          "h": 0.8605263157894737,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 2.631235,
+          "x": 0.5340460526315789,
+          "y": 0.0636842125340512,
+          "w": 0.3907894736842105,
+          "h": 0.7157894736842105,
+          "note": "pose human-annotated",
+          "region": "torso"
+        },
+        {
+          "frame_time": 2.631235,
+          "x": 0.4037828947368421,
+          "y": 0.5005263177972091,
+          "w": 0.5550986842105263,
+          "h": 0.2736842105263158,
+          "note": "pose human-annotated",
+          "region": "shoulders"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 2.95,
+      "end_time": 4.15,
+      "description": "She raises her right hand and gently sweeps her hair back from her face.",
+      "bboxes": [
+        {
+          "frame_time": 3.100865,
+          "x": 0.5947368421052631,
+          "y": 0.016315791481419612,
+          "w": 0.26644736842105265,
+          "h": 0.6026315789473684,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 3.53416,
+          "x": 0.17434210526315788,
+          "y": 0.14263158095510384,
+          "w": 0.6542763157894737,
+          "h": 0.6,
+          "note": "face human-annotated",
+          "region": "face"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 4.15,
+      "end_time": 6.83,
+      "description": "Her right hand lowers, and she briefly touches her right shoulder/collarbone area.",
+      "bboxes": [
+        {
+          "frame_time": 6.529994,
+          "x": 0.793092105263158,
+          "y": 0.5952631599024722,
+          "w": 0.206907894736842,
+          "h": 0.4026315789473684,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 6.484018,
+          "x": 0.7457236842105264,
+          "y": 0.4900000020077354,
+          "w": 0.25427631578947363,
+          "h": 0.5078947368421053,
+          "note": "pose human-annotated",
+          "region": "shoulders"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 6.83,
+      "end_time": 10.92,
+      "description": "Her hands are out of frame as she maintains an upright posture.",
+      "bboxes": [
+        {
+          "frame_time": 6.83,
+          "x": 0.43782894736842104,
+          "y": 0.718947370428788,
+          "w": 0.5358552631578948,
+          "h": 0.27631578947368424,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 8.507253,
+          "x": 0.42154605263157896,
+          "y": 0.07947368621826172,
+          "w": 0.43963815789473687,
+          "h": 0.8578947368421053,
+          "note": "pose human-annotated",
+          "region": "torso"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 10.92,
+      "end_time": 15,
+      "description": "She tilts her head slightly to her right and then more pronouncedly to her left.",
+      "bboxes": [
+        {
+          "frame_time": 13.385669,
+          "x": 0.4807565789473684,
+          "y": 0.0900000020077354,
+          "w": 0.31529605263157895,
+          "h": 0.5473684210526316,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 12.997718,
+          "x": 0.48223684210526313,
+          "y": 0.0900000020077354,
+          "w": 0.3004934210526316,
+          "h": 0.5868421052631579,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 2.95,
+      "description": "Speech is delivered at a moderate, conversational pace with a melodic pitch. The pitch rises slightly on the word \"shoes\" and falls on \"you know.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 2.95,
+      "end_time": 8.05,
+      "description": "The speaking rate remains consistent, with a slight hesitation on \"I I\" and a brief pause before \"the same.\" The pitch remains in a stable mid-range.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 8.05,
+      "end_time": 11.23,
+      "description": "The speech continues smoothly, with a slight downward inflection at the end of the phrase \"her number.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15,
+      "description": "The subject is a woman with a medium skin tone, long, dark, wavy hair, and defined makeup. She is wearing multiple layered gold necklaces, and her shoulders are bare. She is in an indoor setting, in front of a metal wire shelving unit filled with numerous pairs of shoes (including gold boots and black heels) and handbags. A bright pink garment hangs on the far left. The lighting is bright and direct from the front.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "High",
+      "score": 0.72,
+      "rationale": "The subject's High Extraversion is evident in her direct and sustained engagement with the camera, which serves as a proxy for a social audience. Her expressive facial cues, including smiles and raised eyebrows, combined with a melodic and conversational vocal tone, project social energy and warmth. The subject's choice to discuss social interaction strategies further underscores a focus on the external social world, a hallmark of extraversion.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Medium",
+      "score": 0.56,
+      "rationale": "The subject exhibits a Medium level of Agreeableness. Pro-social behaviors such as a gentle smile, softened facial expression, and a head tilt—a common signal of attentive listening—point towards a cooperative and approachable nature. Her statement, 'I approach everybody the same,' also suggests a fair-minded, communal orientation. However, these warm cues are balanced by a generally composed and self-assured posture, indicating she is not overly deferential, which aligns with a mid-range score.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Medium",
+      "score": 0.47,
+      "rationale": "A Medium level of Conscientiousness is inferred from the subject's polished self-presentation and environment. Her refined makeup, styled hair, and curated background with organized fashion items suggest attention to detail and orderliness. Her speech is coherent and her posture is stable and upright, indicating a degree of self-control. The evidence is primarily related to presentation rather than direct task-oriented behavior, thus supporting a moderate, not high, assessment.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "High",
+      "score": 0.62,
+      "rationale": "The High Neuroticism score is supported by subtle but significant behavioral indicators of self-consciousness. Despite her overall confident demeanor, the subject performs several self-pacifying actions. The gesture of brushing hair from her face and briefly touching her collarbone area are classic, low-level displacement behaviors often used to mitigate slight social anxiety. A minor hesitation in speech ('I I') can also reflect a moment of self-monitoring, which is more common in individuals with higher neuroticism.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "High",
+      "score": 0.73,
+      "rationale": "The subject's High Openness is strongly indicated by her aesthetic sensibility and intellectual curiosity. Her distinct personal style, including layered jewelry and a carefully arranged background of fashionable items, demonstrates an appreciation for aesthetics. Her expressive and melodic speech patterns suggest a receptiveness to feeling and emotion. Furthermore, by engaging in a discussion that analyzes the nuances of social dynamics, she displays an interest in abstract ideas and a reflective way of thinking, both key facets of Openness.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During 3.0s - 6.8s, the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The personality trait of High Conscientiousness"
+        },
+        {
+          "id": "B",
+          "text": "The personality trait of High Extraversion"
+        },
+        {
+          "id": "C",
+          "text": "The personality trait of High Neuroticism"
+        },
+        {
+          "id": "D",
+          "text": "The personality trait of Low Neuroticism"
+        },
+        {
+          "id": "E",
+          "text": "The personality trait of Low Agreeableness"
+        },
+        {
+          "id": "F",
+          "text": "The personality trait of High Openness"
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. During this interval, the person performs self-pacifying gestures (brushing hair from face, touching collarbone), which the personality analysis identifies as key indicators of social anxiety and self-monitoring, supporting a High Neuroticism score.\n\n- Option A is a text-based distractor. While her polished appearance supports moderate Conscientiousness, these specific gestures are not the primary evidence for it and could even be interpreted as a lapse in composure.\n- Option B is a video-based distractor. High Extraversion is supported by behaviors in other segments (e.g., the direct engagement and smile at the start), but not by the self-soothing gestures in this specific interval.\n- Option D is a near-miss distractor. It correctly identifies the relevant personality dimension (Neuroticism) but gets the direction wrong. These gestures are evidence for high, not low, Neuroticism.\n- Option E is a text-based distractor. The behaviors in this segment are not directly related to agreeableness, and her overall demeanor suggests a medium-to-high level of this trait, not low.\n- Option F is a video-based distractor. High Openness is inferred from her aesthetic style and the intellectual nature of her conversation, not from the specific self-pacifying actions seen here."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 13.4s, a region was detected in the video (x=0.481, y=0.090, w=0.315, h=0.547, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A sustained and very direct form of eye contact with the viewer"
+        },
+        {
+          "id": "B",
+          "text": "An engaged and pleasant facial expression while talking a bit"
+        },
+        {
+          "id": "C",
+          "text": "A subtle and expressive head tilt that is directed to the right"
+        },
+        {
+          "id": "D",
+          "text": "A subtle and expressive head tilt that is directed to the left"
+        },
+        {
+          "id": "E",
+          "text": "An upright and perfectly composed posture of the upper torso"
+        },
+        {
+          "id": "F",
+          "text": "A slight but very clearly expressive raise of the eyebrows"
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. The specified bounding box at 13.4s encompasses the entire head. The most salient action occurring at this moment involving the whole head is the slight tilt to her right, which softens her expression.\n\n- Option A is a video-based distractor. While her eyes are within the bounding box and she is maintaining eye contact, the most prominent *action* defining this moment and involving the whole head is the tilt.\n- Option B is a video-based distractor. This describes her expression from the beginning of the video (0-3s), not the softer, less overtly engaged expression at 13.4s.\n- Option D is a near-miss distractor. It correctly identifies the action (head tilt) but gets the direction wrong (left instead of right), testing for fine-grained observation.\n- Option E is a video-based distractor. This describes her torso, which is outside the specified bounding box for the head.\n- Option F is a video-based distractor. The prominent eyebrow raise occurs at the beginning of the video (around 2.6s), whereas at 13.4s her eyebrows are noted as being relaxed."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "At which timestamp and in which bounding box does the person display their most pronounced initial expression of social engagement and warmth?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[2.6s] x=0.53, y=0.06, w=0.39, h=0.72"
+        },
+        {
+          "id": "B",
+          "text": "[3.1s] x=0.59, y=0.02, w=0.27, h=0.60"
+        },
+        {
+          "id": "C",
+          "text": "[0.4s] x=0.47, y=0.03, w=0.31, h=0.59"
+        },
+        {
+          "id": "D",
+          "text": "[3.5s] x=0.17, y=0.14, w=0.65, h=0.60"
+        },
+        {
+          "id": "E",
+          "text": "[13.4s] x=0.48, y=0.09, w=0.32, h=0.55"
+        },
+        {
+          "id": "F",
+          "text": "[6.8s] x=0.44, y=0.72, w=0.54, h=0.28"
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. This option's timestamp (0.4s) falls squarely within the initial period (0.0s-3.0s) where the person shows a 'pleasant, engaged expression' with direct eye contact and a smile. The bounding box correctly frames her face where these cues are visible.\n\n- Option A is a video-based distractor. The timestamp is correct, but the bounding box covers the torso, not the face where the expression of engagement is located.\n- Option B is a video-based distractor. This timestamp and bounding box correspond to the moment she raises her left hand, which is a different action.\n- Option D is a video-based distractor. This timestamp and bounding box capture her hand brushing hair from her face, an action associated with self-monitoring rather than initial social engagement.\n- Option E is a video-based distractor. This corresponds to the later, softer expression and head tilt, not the initial, more energetic expression of engagement.\n- Option F is a video-based distractor. This timestamp is in the middle of the clip, and the bounding box is at the bottom of the frame where her hands are not visible."
+    },
+    {
+      "category": "Counterfactual Reasoning",
+      "question": "If the person had NOT exhibited the behavior observed around 3.0s - 6.8s, which of the following personality assessments would be MOST affected?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Extraversion would seem lower, as this moment provides a key signal of her social energy and warmth."
+        },
+        {
+          "id": "B",
+          "text": "Agreeableness would be perceived as lower because this specific action signals an attempt to build rapport."
+        },
+        {
+          "id": "C",
+          "text": "Neuroticism might be assessed as lower because key evidence for self-monitoring behavior would be absent."
+        },
+        {
+          "id": "D",
+          "text": "Openness would seem lower since this behavior is the main indicator of her creative aesthetic sensibility."
+        },
+        {
+          "id": "E",
+          "text": "Conscientiousness would be judged as lower, as this action specifically demonstrates a lack of self-control."
+        },
+        {
+          "id": "F",
+          "text": "Neuroticism might be assessed as higher because the absence of self-soothing indicates greater composure."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. The behavior in this interval consists of self-pacifying gestures (hair tuck, collarbone touch). The personality analysis explicitly cites these actions as the primary evidence for High Neuroticism, interpreting them as displacement behaviors to mitigate social anxiety. Removing this evidence would significantly weaken the basis for the high score.\n\n- Option A is a video-based distractor. The evidence for Extraversion comes from her smiles and engaging tone at other times, not from these self-soothing gestures.\n- Option B is a text-based distractor. It misinterprets the gesture's meaning; these self-directed actions are typically signs of self-consciousness, not rapport-building.\n- Option D is a video-based distractor. The assessment of High Openness is based on her overall style, jewelry, and intellectual conversation, not on the gestures in this specific time range.\n- Option E is a text-based distractor. This presents a plausible but incorrect interpretation. The analysis links the behavior to anxiety (Neuroticism) rather than a lack of general self-control (Conscientiousness).\n- Option F is a near-miss distractor. It correctly identifies the trait (Neuroticism) but reasons in the wrong direction. Removing evidence for neuroticism would lead to a lower, not higher, assessment."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator11",
+      "version": 1,
+      "clues_total": 27,
+      "clues_correct": 24,
+      "clues_wrong_corrected": 3,
+      "clues_missing_skipped": 0,
+      "clues_bonus": 0
+    }
+  }
+}

@@ -1,0 +1,471 @@
+{
+  "video_id": "nEm44UpCKmA.004.mp4",
+  "video_path": "nEm44UpCKmA.004.mp4",
+  "transcription": "In some cases, maybe even more than you're looking for. I think it's a really relevant question to ask as you're looking for a planner for your day. The second question is, \"What's your business model?\" That should bring in a lot of information when you ...",
+  "original_scores": {
+    "extraversion": 0.5514018691588786,
+    "agreeableness": 0.7472527472527474,
+    "conscientiousness": 0.6019417475728155,
+    "neuroticism": 0.59375,
+    "openness": 0.6666666666666666
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 3.2,
+      "description": "The subject maintains direct eye contact with the camera. Her expression is largely neutral, with natural mouth movements as she speaks.",
+      "bboxes": [
+        {
+          "frame_time": 1.390471,
+          "x": 0.36751644736842104,
+          "y": 0.15877192647833574,
+          "w": 0.2768092105263158,
+          "h": 0.1368421052631579,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 1.762667,
+          "x": 0.37639802631578945,
+          "y": 0.10087718963623046,
+          "w": 0.26052631578947366,
+          "h": 0.45,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 2.345367,
+          "x": 0.4222861842105263,
+          "y": 0.41929824226780943,
+          "w": 0.1524671052631579,
+          "h": 0.16578947368421051,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 3.2,
+      "end_time": 3.9,
+      "description": "A brief, slight smile appears, with the corners of her mouth lifting.",
+      "bboxes": [
+        {
+          "frame_time": 3.233985,
+          "x": 0.3852796052631579,
+          "y": 0.34824561068886206,
+          "w": 0.22796052631578947,
+          "h": 0.16578947368421051,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 3.9,
+      "end_time": 11.8,
+      "description": "The expression returns to neutral while maintaining eye contact. She briefly closes her eyes between 0:05.0 and 0:05.5.",
+      "bboxes": [
+        {
+          "frame_time": 5.130209,
+          "x": 0.36011513157894737,
+          "y": 0.15877192647833574,
+          "w": 0.2412828947368421,
+          "h": 0.14736842105263157,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 5.130209,
+          "x": 0.34679276315789476,
+          "y": 0.09824561068886205,
+          "w": 0.28421052631578947,
+          "h": 0.5184210526315789,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 5.891733,
+          "x": 0.3689967105263158,
+          "y": 0.18508771595201995,
+          "w": 0.24720394736842105,
+          "h": 0.10263157894736842,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 11.8,
+      "end_time": 12.8,
+      "description": "Her eyebrows lift and her eyes widen slightly as she speaks, creating an inquisitive expression.",
+      "bboxes": [
+        {
+          "frame_time": 12.324105,
+          "x": 0.36751644736842104,
+          "y": 0.16140350542570414,
+          "w": 0.24276315789473685,
+          "h": 0.12105263157894737,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 12.498915,
+          "x": 0.3527138157894737,
+          "y": 0.10877192647833574,
+          "w": 0.26644736842105265,
+          "h": 0.48947368421052634,
+          "note": "face human-annotated",
+          "region": "face"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 12.8,
+      "end_time": 15.51,
+      "description": "Her expression returns to a neutral state while she continues to speak and maintain eye contact.",
+      "bboxes": [
+        {
+          "frame_time": 13.448362,
+          "x": 0.36307565789473684,
+          "y": 0.13771929489938836,
+          "w": 0.24720394736842105,
+          "h": 0.1368421052631579,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 14.072205,
+          "x": 0.3260690789473684,
+          "y": 0.10087718963623046,
+          "w": 0.30641447368421054,
+          "h": 0.4421052631578947,
+          "note": "face human-annotated",
+          "region": "face"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 15.51,
+      "description": "The subject is framed in a medium close-up shot from the chest up. Her head remains relatively still, with small, natural nods and tilts that synchronize with her speech.",
+      "bboxes": [
+        {
+          "frame_time": 0.799274,
+          "x": 0.3379111842105263,
+          "y": 0.016666663320440995,
+          "w": 0.3078947368421053,
+          "h": 0.6105263157894737,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 11.864279,
+          "x": 0.3260690789473684,
+          "y": 0.02456140016254626,
+          "w": 0.32417763157894736,
+          "h": 0.6263157894736842,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 10.7,
+      "description": "The subject speaks at a moderate and consistent pace with a clear, conversational tone. The pitch falls naturally at the end of sentences.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 10.7,
+      "end_time": 12.8,
+      "description": "After a brief pause, the phrase \"what's your business model\" is delivered with a higher pitch and increased emphasis, with a rising intonation on \"business\".",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 12.8,
+      "end_time": 15.51,
+      "description": "The pace remains moderate. The word \"lot\" at 0:14.0 is stressed with a noticeable increase in pitch and volume.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.51,
+      "description": "The subject is a woman with fair skin and long, wavy brown hair. She is wearing a light-gray, casual sweater. The background is a plain, off-white wall. The scene is evenly lit from the front.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 2.733985,
+      "end_time": 3.733985,
+      "description": "Cheeks raised",
+      "bboxes": [
+        {
+          "frame_time": 3.233985,
+          "x": 0.3660361842105263,
+          "y": 0.24824561068886206,
+          "w": 0.24572368421052632,
+          "h": 0.1868421052631579,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Medium",
+      "score": 0.55,
+      "rationale": "The subject's Extraversion score falls into the Medium range. While she demonstrates social confidence through sustained, direct eye contact and vocal expressiveness—using higher pitch and emphasis on key phrases—her overall demeanor remains composed and not overtly energetic. Her facial expression is largely neutral and her speech pace is moderate, lacking the rapid speech or broad gestures often associated with high extraversion. This balance of social engagement and controlled energy supports a moderate classification.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "High",
+      "score": 0.75,
+      "rationale": "A High Agreeableness rating is supported by the subject's warm and approachable demeanor. The brief, gentle smile observed early in the clip, coupled with a consistently relaxed facial expression and a clear, natural vocal tone, fosters a sense of trust and cooperation. Her sustained eye contact reinforces this, signaling sincerity and a non-confrontational style. These behaviors are indicative of an individual who prioritizes creating a positive and harmonious social interaction.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "High",
+      "score": 0.6,
+      "rationale": "The subject's High Conscientiousness is evidenced by her structured and deliberate communication style. Her speech is clear, with a moderate and consistent pace, suggesting forethought and organization. The logical progression from one point to the next, as noted in the transcript, reflects a methodical approach. Furthermore, the strategic use of vocal emphasis on important words like 'business model' and 'lot' demonstrates a purposeful effort to ensure her message is understood, a hallmark of a diligent and goal-oriented individual.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Medium",
+      "score": 0.59,
+      "rationale": "The Medium Neuroticism score is consistent with a generally stable demeanor that contains subtle indicators of self-regulation. While the subject maintains excellent composure through steady eye contact and a relaxed facial posture, a brief eye closure is observed. This micro-behavior can be interpreted as a momentary act of managing cognitive load or slight self-consciousness under the pressure of being recorded. This blend of overt calmness with a subtle, self-regulating gesture aligns with an individual who is generally emotionally stable but not entirely imperturbable.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "High",
+      "score": 0.67,
+      "rationale": "A High level of Openness is indicated by the subject's engagement with abstract concepts and her dynamic communication. The topic itself—analyzing a 'business model'—requires abstract thought. Her delivery is not monotonous; instead, she uses varied pitch and volume to emphasize points, suggesting intellectual curiosity and a desire to explore ideas. The slight widening of her eyes when posing a new question further signals cognitive engagement and receptivity to new information, which are core facets of Openness.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their Neuroticism level?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[0.5s - 1.0s]"
+        },
+        {
+          "id": "B",
+          "text": "[3.3s - 3.8s]"
+        },
+        {
+          "id": "C",
+          "text": "[8.2s - 8.7s]"
+        },
+        {
+          "id": "D",
+          "text": "[12.0s - 12.5s]"
+        },
+        {
+          "id": "E",
+          "text": "[5.0s - 5.5s]"
+        },
+        {
+          "id": "F",
+          "text": "[14.8s - 15.3s]"
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. The personality analysis for Neuroticism explicitly identifies the brief eye closure between [5.0s - 5.5s] as a micro-behavior indicative of self-regulation or managing cognitive load, which supports a Medium Neuroticism score.\n\n- Option A is a video-based distractor. This interval shows the initial formation of a neutral expression, which is not particularly indicative of Neuroticism.\n- Option B is a video-based distractor. This interval contains the brief, gentle smile, which is more relevant to Agreeableness.\n- Option C is a near-miss distractor. This is a period of stable, neutral expression. While a lack of tics can indicate low Neuroticism, the question asks for a 'notable change' or 'micro-expression', which is absent here.\n- Option D is a video-based distractor. This interval features a slight widening of the eyes, which the analysis links more directly to Openness and cognitive engagement.\n- Option F is a video-based distractor. This interval near the end of the clip shows a stable, neutral expression, not a notable change relevant to Neuroticism."
+    },
+    {
+      "category": "Mixed Emotion Discrimination",
+      "question": "During [3.2s - 3.9s], the person's emotional state is best characterized as which of the following? Consider both verbal and non-verbal cues.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Genuine amusement tempered by a feeling of slight reservation."
+        },
+        {
+          "id": "B",
+          "text": "Quiet satisfaction mixed with an air of confident assertion."
+        },
+        {
+          "id": "C",
+          "text": "Joyful enthusiasm mixed with a feeling of intellectual curiosity."
+        },
+        {
+          "id": "D",
+          "text": "Subtle pride tempered by an otherwise very humble presentation."
+        },
+        {
+          "id": "E",
+          "text": "Polite engagement mixed with the speaker's clear focused intent."
+        },
+        {
+          "id": "F",
+          "text": "Relaxed warmth mixed with a subtle sense of some playful humor."
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. In this interval, the person displays a brief, slight smile while continuing to speak in a structured, informative manner. This combination suggests a social signal of politeness and approachability (Agreeableness) layered on top of a clear, goal-oriented communication style (Conscientiousness), which is best described as 'polite engagement mixed with focused intent'.\n\n- Option A is a near-miss distractor. 'Amusement' is too strong for the very faint smile observed. While 'reservation' is plausible, 'focused intent' better captures the ongoing professional context of her speech.\n- Option B is a near-miss distractor. 'Quiet satisfaction' is a possible interpretation of the smile, but 'confident assertion' doesn't align with the subtle, rapport-building nature of the gesture.\n- Option C is a text-based distractor. The term 'joyful enthusiasm' is a significant overstatement of the non-verbal cues. The visual evidence does not support this high level of positive affect.\n- Option D is a text-based distractor. There are no clear cues to suggest 'pride' or 'humility'; this is an unsupported narrative leap from the content.\n- Option F is a video-based distractor. While her overall demeanor has a 'relaxed warmth', the smile itself is not indicative of 'playful humor' but rather a more professional, engaging gesture."
+    },
+    {
+      "category": "Temporal-Causal Reasoning",
+      "question": "Consider the sequence of behaviors observed across the video. Which of the following best describes the causal chain linking the person's actions at different moments?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A self-monitoring action causes a rapport-building cue, which then leads to a strategic emphasis shift designed to recover momentum."
+        },
+        {
+          "id": "B",
+          "text": "A strategic emphasis shift prompts a rapport-building cue, which is then followed by a self-monitoring action and baseline setting."
+        },
+        {
+          "id": "C",
+          "text": "An internal moment of recall leads to a strategic emphasis shift, then a rapport-building cue to soften the direct delivery."
+        },
+        {
+          "id": "D",
+          "text": "A baseline engagement is set, then a rapport-building cue causes a strategic emphasis shift to capitalize on the new connection."
+        },
+        {
+          "id": "E",
+          "text": "A baseline engagement is set, a rapport-building cue follows, then a self-monitoring act precedes a strategic emphasis shift."
+        },
+        {
+          "id": "F",
+          "text": "A rapport-building cue is followed by establishing a baseline, which later transitions into a concluding strategic emphasis shift."
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. This option accurately maps the abstract behavioral sequence to the video events: 1) A baseline of direct engagement is set at the start (0-3s). 2) A rapport-building cue (the brief smile at ~3.5s) follows. 3) This is followed by a self-monitoring act (the brief eye closure at ~5.2s). 4) Finally, a strategic emphasis shift occurs (vocal emphasis and eye widening at ~12s).\n\n- Option A is a distractor with incorrect causality. The self-monitoring act (eye closure) does not cause the rapport-building cue (smile); it happens after.\n- Option B is a distractor with reversed temporal order. The strategic emphasis shift happens last, not first.\n- Option C is a text-based distractor. It invents an unobservable 'internal moment of recall' as the cause for the emphasis shift.\n- Option D is a near-miss distractor. It correctly identifies the first two steps but then proposes an incorrect causal link (the rapport cue *causes* the emphasis shift) and omits the self-monitoring step entirely.\n- Option F is a video-based distractor with an incorrect temporal order for the first two events. The baseline engagement is established *before* the rapport-building cue, not after it."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around [13.4s], a region was detected in the video (x=0.36, y=0.14, w=0.25, h=0.14, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A generally neutral and relaxed facial expression."
+        },
+        {
+          "id": "B",
+          "text": "A brief, subtle smile forming at the mouth corners."
+        },
+        {
+          "id": "C",
+          "text": "Natural and fluid lip movement corresponding to speech."
+        },
+        {
+          "id": "D",
+          "text": "A momentary and quite complete closure of both eyes."
+        },
+        {
+          "id": "E",
+          "text": "Maintaining direct and consistent, steady eye contact."
+        },
+        {
+          "id": "F",
+          "text": "An expression of curiosity forming around the mouth."
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. The provided bounding box at 13.4s isolates the person's eyes. At this moment, the observation log confirms she is Continuing to speak and maintaining eye contact. This option accurately describes the action within that specific region.\n\n- Option A is a video-based distractor. It describes the overall face region, but the bounding box is specifically on the eyes.\n- Option B is a video-based distractor. This describes an action (smile) that occurs in the mouth region at a different time (~3.2s).\n- Option C is a video-based distractor. This describes the action of the mouth, which is outside the specified bounding box.\n- Option D is a video-based distractor. This describes an action (eye closure) that happens in the correct region (eyes) but at the wrong time (~5.2s).\n- Option F is a near-miss distractor. It correctly references an expression but misidentifies it as 'curiosity' (based on a common AI error) and mislocates it to the mouth instead of the specified eye region."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "At which point does the speaker's expression subtly shift to signal increased cognitive engagement when introducing a new topic?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[1.4s]  x=0.37, y=0.16, w=0.28, h=0.14"
+        },
+        {
+          "id": "B",
+          "text": "[1.8s]  x=0.38, y=0.10, w=0.26, h=0.45"
+        },
+        {
+          "id": "C",
+          "text": "[0.8s]  x=0.34, y=0.02, w=0.31, h=0.61"
+        },
+        {
+          "id": "D",
+          "text": "[5.1s]  x=0.36, y=0.16, w=0.24, h=0.15"
+        },
+        {
+          "id": "E",
+          "text": "[12.3s]  x=0.37, y=0.16, w=0.24, h=0.12"
+        },
+        {
+          "id": "F",
+          "text": "[5.1s]  x=0.35, y=0.10, w=0.28, h=0.52"
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. The stem asks for the moment of a subtle shift signaling cognitive engagement with a new topic. This corresponds to the observation at [11.8s - 12.8s], where her 'eyes slightly widen' as she introduces the 'business model' question. The timestamp and bounding box in option E ([12.3s] x=0.37, y=0.16, w=0.24, h=0.12) correctly isolates the eyes during this event.\n\n- Option A is a video-based distractor. This is the eye region at the beginning of the clip, showing steady eye contact but not the specific shift in question.\n- Option B is a video-based distractor. This bounding box covers the entire face, not the specific eye region where the engagement cue occurs.\n- Option C is a video-based distractor. This is a wide shot of the head and shoulders area, not a localized expression.\n- Option D is a video-based distractor. This isolates the eyes at a different time (~5.1s), during a period of neutral expression, not the engagement shift.\n- Option F is a video-based distractor. This isolates the whole face at ~5.1s, not the specific eye-widening event."
+    },
+    {
+      "category": "Counterfactual Reasoning",
+      "question": "If the person had NOT exhibited the behavior observed around [5.0s - 5.5s], which of the following personality assessments would be MOST affected?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The assessment for Agreeableness would be lower, as that behavior signals the speaker's main interpersonal warmth."
+        },
+        {
+          "id": "B",
+          "text": "The assessment for Openness would need to be changed, as this action is interpreted as a sign of deep reflection."
+        },
+        {
+          "id": "C",
+          "text": "The rating for Extraversion would be impacted, as this behavior is seen as a key signal of social disengagement."
+        },
+        {
+          "id": "D",
+          "text": "The score for Conscientiousness would be rated lower, because this is crucial evidence for her structured thinking."
+        },
+        {
+          "id": "E",
+          "text": "The assessment for Neuroticism would be altered, as this key self-regulating gesture would no longer be present."
+        },
+        {
+          "id": "F",
+          "text": "Neuroticism would shift higher, as its absence would suggest the successful suppression of some greater anxiety."
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. The behavior at [5.0s - 5.5s] is the brief eye closure. The personality analysis explicitly cites this as the primary evidence for a Medium Neuroticism score, interpreting it as a 'momentary act of managing cognitive load or slight self-consciousness'. Removing this behavior would eliminate the key indicator that balances her otherwise calm demeanor, thus most significantly affecting the Neuroticism assessment.\n\n- Option A is a text-based distractor. The main evidence for Agreeableness is the smile at 3.2s, not the eye closure.\n- Option B is a video-based distractor. While eye closure can sometimes mean reflection (Openness), the analysis connects this specific instance more strongly to self-regulation (Neuroticism).\n- Option C is a text-based distractor. The evidence for Medium Extraversion comes from a balance of direct eye contact and moderate vocal energy, not this specific eye closure.\n- Option D is a text-based distractor. The evidence for Conscientiousness is her structured speech and vocal emphasis, not the eye closure.\n- Option F is a near-miss distractor. It correctly identifies Neuroticism as the affected trait but proposes the wrong direction of change and reasoning. Removing a sign of self-regulation would likely lower the Neuroticism score (implying more stability), not raise it."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator17",
+      "version": 1,
+      "clues_total": 19,
+      "clues_correct": 15,
+      "clues_wrong_corrected": 2,
+      "clues_missing_skipped": 1,
+      "clues_bonus": 1
+    }
+  }
+}

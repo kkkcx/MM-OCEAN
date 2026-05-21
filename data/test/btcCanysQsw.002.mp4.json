@@ -1,0 +1,494 @@
+{
+  "video_id": "btcCanysQsw.002.mp4",
+  "video_path": "btcCanysQsw.002.mp4",
+  "transcription": "That's a hard one, it's like McDonalds, KFC or Burger King. McDonalds you get the best of both worlds. You get burgers, and chicken. But it's not too good. KFC you get a designated chicken and it's just ...",
+  "original_scores": {
+    "extraversion": 0.47663551401869164,
+    "agreeableness": 0.5384615384615384,
+    "conscientiousness": 0.3495145631067961,
+    "neuroticism": 0.4895833333333333,
+    "openness": 0.5666666666666667
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 7.5,
+      "description": "The subject maintains a direct gaze at the camera with a neutral to slightly engaged expression. His eyebrows raise slightly when he mentions specific brand names.",
+      "bboxes": [
+        {
+          "frame_time": 1.886364,
+          "x": 0.42376644736842106,
+          "y": 0.38508771595201996,
+          "w": 0.15542763157894737,
+          "h": 0.09473684210526316,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 3.079949,
+          "x": 0.43264802631578947,
+          "y": 0.31140350542570416,
+          "w": 0.16282894736842105,
+          "h": 0.08421052631578947,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 7.5,
+      "end_time": 8.5,
+      "description": "A brief, small smile forms, his eyes widen, and his eyebrows raise as he says the word \"chicken\" and then \"Yeah.\"",
+      "bboxes": [
+        {
+          "frame_time": 8.52232,
+          "x": 0.4622532894736842,
+          "y": 0.5640350843730726,
+          "w": 0.1125,
+          "h": 0.12368421052631579,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 8.135097,
+          "x": 0.5125822368421052,
+          "y": 0.3640350843730726,
+          "w": 0.14210526315789473,
+          "h": 0.09736842105263158,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 8.5,
+      "end_time": 10.9,
+      "description": "The smile fades, and his eyebrows and the corners of his mouth lower slightly as he delivers a negative statement.",
+      "bboxes": [
+        {
+          "frame_time": 9.657634,
+          "x": 0.4533717105263158,
+          "y": 0.5614035054257042,
+          "w": 0.12730263157894736,
+          "h": 0.11578947368421053,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 10.9,
+      "end_time": 13.7,
+      "description": "His expression becomes more animated again, with his eyebrows raising as he begins a new thought.",
+      "bboxes": [
+        {
+          "frame_time": 12.898646,
+          "x": 0.4563322368421053,
+          "y": 0.33245613700465154,
+          "w": 0.15542763157894737,
+          "h": 0.35789473684210527,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 12.71391,
+          "x": 0.4489309210526316,
+          "y": 0.3640350843730726,
+          "w": 0.16726973684210528,
+          "h": 0.07631578947368421,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 13.7,
+      "end_time": 15,
+      "description": "His gaze shifts upward, his eyebrows raise high, and his mouth opens wide in an emphatic expression as he speaks.",
+      "bboxes": [
+        {
+          "frame_time": 13.797953,
+          "x": 0.4652138157894737,
+          "y": 0.5587719264783357,
+          "w": 0.11990131578947369,
+          "h": 0.13421052631578947,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 14.717597,
+          "x": 0.4563322368421053,
+          "y": 0.3429824527941252,
+          "w": 0.14950657894736843,
+          "h": 0.24736842105263157,
+          "note": "face human-annotated",
+          "region": "face"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 8.5,
+      "description": "The subject is visible from the chest up, sitting relatively still and facing the camera.",
+      "bboxes": [
+        {
+          "frame_time": 3.411319,
+          "x": 0.42672697368421053,
+          "y": 0.22456140016254625,
+          "w": 0.18355263157894738,
+          "h": 0.4710526315789474,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 8.5,
+      "end_time": 10.9,
+      "description": "He tilts his head slightly to his left (viewer's right).",
+      "bboxes": [
+        {
+          "frame_time": 9.402402,
+          "x": 0.4296875,
+          "y": 0.27456140016254627,
+          "w": 0.15098684210526317,
+          "h": 0.4631578947368421,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 10.9,
+      "end_time": 13.7,
+      "description": "His head returns to a central, forward-facing position.",
+      "bboxes": [
+        {
+          "frame_time": 13.007351,
+          "x": 0.4296875,
+          "y": 0.2429824527941252,
+          "w": 0.19539473684210526,
+          "h": 0.5157894736842106,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 13.7,
+      "end_time": 15,
+      "description": "He tilts his head significantly backward. Simultaneously, his right hand, previously out of frame, rises into the lower right quadrant and makes a small upward gesture.",
+      "bboxes": [
+        {
+          "frame_time": 14.496583,
+          "x": 0.4370888157894737,
+          "y": 0.2929824527941252,
+          "w": 0.16430921052631578,
+          "h": 0.37105263157894736,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 14.898521,
+          "x": 0.2668585526315789,
+          "y": 0.8219298212151779,
+          "w": 0.2501644736842105,
+          "h": 0.1631578947368421,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 7.7,
+      "description": "The subject speaks at a moderate pace and volume. His pitch rises slightly when emphasizing brand names and food items like \"burgers\" and \"chicken.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 7.7,
+      "end_time": 8.5,
+      "description": "An elongated, slightly breathy \"Yeah\" is uttered with a rising-then-falling pitch contour.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 8.5,
+      "end_time": 10.9,
+      "description": "His speech pace slows, and his overall pitch lowers as he says, \"But it's not too good.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 10.9,
+      "end_time": 15,
+      "description": "The pace quickens again. His pitch and volume rise significantly on the final phrase \"and it's just...,\" with heavy stress and elongation on the word \"just\" before he trails off with an audible intake of breath.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15,
+      "description": "The subject is a young male with short, light brown hair and fair skin. He is wearing a maroon hooded sweatshirt with white lettering on the chest over a white t-shirt. He is in an indoor room with off-white walls, a white ceiling with coving, and what appears to be a white wardrobe in the background. To the viewer's right, there is a window with a wooden frame and light-colored vertical blinds, providing some natural light.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Medium",
+      "score": 0.48,
+      "rationale": "The subject demonstrates a moderate level of Extraversion. They engage directly with the camera and use varied vocal modulation and facial expressions (e.g., eyebrow raises for emphasis) to convey their thoughts, indicating social expressiveness. However, the energy level is not consistently high; gestures are described as 'small' and smiles as 'brief,' which tempers the overall impression. This balance between social engagement and controlled expression aligns with a Medium score.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Medium",
+      "score": 0.54,
+      "rationale": "The subject's agreeableness is assessed as Medium. Their overall demeanor is cooperative and non-confrontational, presenting opinions without hostility. The vocal tone is generally moderate and a brief, small smile appears, suggesting a pleasant disposition. The evidence points to an absence of disagreeable behavior rather than a strong exhibition of pro-social warmth, which is consistent with a mid-range score.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Low",
+      "score": 0.35,
+      "rationale": "The subject exhibits traits consistent with Low Conscientiousness. Their speech pattern is somewhat unstructured, initiating a comparison but not completing it systematically. The thought trails off at the end with an emphatic but unfinished phrase ('and it's just...'). This spontaneous and less-organized communication style suggests a preference for improvisation over methodical deliberation.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Medium",
+      "score": 0.49,
+      "rationale": "The subject scores in the Medium range for Neuroticism. While maintaining a generally stable demeanor with direct eye contact, there are observable shifts in vocal delivery. The pace and pitch lower when expressing a negative opinion ('But it's not too good') and then increase with an audible inhale for emphasis later on. These mild fluctuations in emotional expression, contained within a controlled presentation, are characteristic of an average level of emotional reactivity.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "Medium",
+      "score": 0.57,
+      "rationale": "The subject's Openness is rated as Medium. They approach the topic by creating an analogy (comparing an unstated problem to fast-food choices), which demonstrates a capacity for abstract thought. The animated facial expressions and raised eyebrows when formulating a point suggest an engagement with their own ideas. However, the subject matter itself is conventional, balancing the creative approach with a practical topic, thus supporting a Medium score.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During 13.7s - 15.0s, the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Low Conscientiousness, as the behavior shows a spontaneous and unstructured thought process."
+        },
+        {
+          "id": "B",
+          "text": "High Extraversion, as the behavior indicates a strong willingness to engage with an audience."
+        },
+        {
+          "id": "C",
+          "text": "Low Agreeableness, as the behavior suggests a slightly argumentative and forceful interaction."
+        },
+        {
+          "id": "D",
+          "text": "High Openness, as the behavior demonstrates a very creative and unconventional use of language."
+        },
+        {
+          "id": "E",
+          "text": "Low Neuroticism, as the behavior reflects a calm demeanor and strong emotional regulation."
+        },
+        {
+          "id": "F",
+          "text": "High Neuroticism, as the behavior reveals significant emotional reactivity and poor impulse control."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. During 13.7s - 15.0s, the person leans back, makes an emphatic hand gesture, and their speech trails off with 'and it's just...'. This unfinished, spontaneous thought process is the strongest evidence in the clip for Low Conscientiousness, as noted in the analysis. Option E is a near-miss distractor; it correctly identifies the trait but gets the direction wrong, misinterpreting the spontaneous end as calm regulation. Option B is a video-based distractor; while the person shows some extraverted traits earlier (e.g., direct camera engagement), this specific moment is more about disorganized thought than social energy. Options C, D, and F are text-based distractors; the behavior could plausibly be interpreted as forceful (Low Agreeableness), creative (High Openness), or reactive (High Neuroticism) from the text, but watching the video shows the context is one of trailing off a thought, not argument, creativity, or emotional instability."
+    },
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their Agreeableness level?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[7.5s - 8.5s]"
+        },
+        {
+          "id": "B",
+          "text": "[0.0s - 1.0s]"
+        },
+        {
+          "id": "C",
+          "text": "[3.0s - 4.0s]"
+        },
+        {
+          "id": "D",
+          "text": "[9.5s - 10.5s]"
+        },
+        {
+          "id": "E",
+          "text": "[12.5s - 13.5s]"
+        },
+        {
+          "id": "F",
+          "text": "[14.0s - 15.0s]"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. The time interval [7.5s - 8.5s] is when a brief, small smile appears at the corner of the mouth, which is a key non-verbal cue supporting a Medium Agreeableness score by showing a pleasant disposition. All other options are video-based distractors that point to real but less relevant events for assessing agreeableness. Option C ([3.0s - 4.0s]) and E ([12.5s - 13.5s]) are eyebrow raises for emphasis, related more to Openness or Extraversion. Option F ([14.0s - 15.0s]) is the head tilt for emphasis, related to Low Conscientiousness. Option D ([9.5s - 10.5s]) is when the smile has already disappeared, representing a return to neutral rather than the appearance of the key agreeableness cue."
+    },
+    {
+      "category": "Temporal-Causal Reasoning",
+      "question": "Consider the sequence of behaviors observed across the video. Which of the following best describes the causal chain linking the person's actions at different moments?",
+      "options": [
+        {
+          "id": "A",
+          "text": "An initial analytical framing is followed by a verbal self-correction, culminating in a spontaneous emphatic display."
+        },
+        {
+          "id": "B",
+          "text": "An impulsive emotional display prompts a later period of careful analytical framing and subsequent self-monitoring behavior."
+        },
+        {
+          "id": "C",
+          "text": "A moment of social engagement triggers a concluding emphatic display, which is then corrected by a reserved statement."
+        },
+        {
+          "id": "D",
+          "text": "An analytical framing leads to a moment of social connection, which is then followed by a concluding emphatic statement."
+        },
+        {
+          "id": "E",
+          "text": "A display of high confidence is followed by brief uncertainty, before returning to an even stronger assertive expression."
+        },
+        {
+          "id": "F",
+          "text": "A hand gesture for emphasis causes a vocal tone shift, which then leads to a more reserved facial expression as regulation."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. The person starts with an 'analytical framing' (the fast-food analogy, 0-7.7s), followed by a 'verbal self-correction' or hedge ('But it's not too good', 8.5-10.9s), which finally gives way to a 'spontaneous emphatic display' as his thought trails off (13.7-15.0s). This option correctly maps the abstract behavioral categories to the video's temporal flow. Option B is a distractor with reversed temporal order. Option D is a near-miss distractor; it correctly identifies the start and end points but misinterprets the negative hedge ('not too good') as a moment of 'social connection'. Option C is a video-based distractor that correctly identifies some behaviors (social engagement, emphatic display) but arranges them in an incorrect causal sequence. Options E and F are text-based distractors using plausible but inaccurate abstract labels for the observed events."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 9.7s, a region was detected in the video (x=0.453, y=0.561, w=0.127, h=0.116, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A neutral mouth expression immediately following a brief, subtle smile."
+        },
+        {
+          "id": "B",
+          "text": "A steady and direct gaze focused straight towards the camera lens."
+        },
+        {
+          "id": "C",
+          "text": "Eyebrows raised slightly to signal a new and distinct line of thought."
+        },
+        {
+          "id": "D",
+          "text": "An emphatic facial expression which is used for highlighting a point."
+        },
+        {
+          "id": "E",
+          "text": "The head tilted significantly backward to add emphasis to a statement."
+        },
+        {
+          "id": "F",
+          "text": "A small, quick upward gesture that is made with the person's right hand."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. The provided coordinates at 9.7s precisely frame the person's mouth. At this moment, he has just finished his qualifying statement ('But it's not too good'), and the brief smile from the preceding segment has disappeared, resulting in a neutral expression. Option D is a near-miss distractor, as it describes another mouth-related action (open mouth for emphasis) but from a different time (13.7s). Options B, C, E, and F are all video-based distractors; they describe real actions from the video but are located in entirely different spatial regions (eyes, eyebrows, whole head, and hands, respectively), testing the model's ability to localize the specific bounding box."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "Identify the moment and location corresponding to a fleeting, positive social expression used to qualify a statement.",
+      "options": [
+        {
+          "id": "A",
+          "text": "[8.5s]  x=0.46, y=0.56, w=0.11, h=0.12"
+        },
+        {
+          "id": "B",
+          "text": "[14.9s]  x=0.27, y=0.82, w=0.25, h=0.16"
+        },
+        {
+          "id": "C",
+          "text": "[14.5s]  x=0.44, y=0.29, w=0.16, h=0.37"
+        },
+        {
+          "id": "D",
+          "text": "[14.7s]  x=0.46, y=0.34, w=0.15, h=0.25"
+        },
+        {
+          "id": "E",
+          "text": "[13.8s]  x=0.47, y=0.56, w=0.12, h=0.13"
+        },
+        {
+          "id": "F",
+          "text": "[3.1s]  x=0.43, y=0.31, w=0.16, h=0.08"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. The description 'fleeting, positive social expression' points to the brief, small smile that appears between 7.5s and 8.5s. The coordinates in option A at 8.5s correctly localize the mouth region where this smile is observed. All other options are video-based distractors pointing to other actions. Option B points to the hand gesture. Option C points to the head tilt. Option D points to the overall emphatic facial expression. Option E points to the wide-open mouth during the emphatic statement. Option F points to an earlier eyebrow raise for emphasis, which is a cognitive rather than a social-emotional cue."
+    },
+    {
+      "category": "Counterfactual Reasoning",
+      "question": "If the person had NOT exhibited the behavior observed around 13.7s - 15.0s, which of the following personality assessments would be MOST affected?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Conscientiousness would be assessed as higher; this moment is key evidence of a spontaneous and less-organized communication style."
+        },
+        {
+          "id": "B",
+          "text": "Extraversion would be assessed as lower; this moment is the most significant indicator of the person's overall social energy."
+        },
+        {
+          "id": "C",
+          "text": "Agreeableness would be assessed as higher; this behavior is the primary evidence for a non-cooperative or hostile stance."
+        },
+        {
+          "id": "D",
+          "text": "Openness would be assessed as lower; this behavior is the main example of the person's capacity for creative, abstract thought."
+        },
+        {
+          "id": "E",
+          "text": "Conscientiousness would be assessed as lower; this moment shows a decisive communication style, and its absence implies indecision."
+        },
+        {
+          "id": "F",
+          "text": "Neuroticism would be assessed as lower; this emphatic action is the clearest demonstration of emotional reactivity in the video."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. The behavior at 13.7s - 15.0s is the emphatic but unfinished phrase ('and it's just...'). The personality analysis explicitly cites this as the primary evidence for Low Conscientiousness ('spontaneous and less-organized communication style'). Removing this behavior would remove the strongest evidence for this trait, likely leading to a higher assessment. Option E is a near-miss distractor; it identifies the correct trait (Conscientiousness) but misinterprets the behavior and therefore reasons in the wrong direction. Options B, D, and F are text-based distractors; the primary evidence for Extraversion, Openness, and Neuroticism comes from other parts of the video (facial expressiveness, the initial analogy, and vocal shifts, respectively), so removing this segment would have a lesser impact on them. Option C is a video-based distractor that incorrectly links this emphatic moment to disagreeableness; the behavior isn't hostile, so removing it wouldn't affect the Agreeableness score much."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator17",
+      "version": 1,
+      "clues_total": 24,
+      "clues_correct": 16,
+      "clues_wrong_corrected": 3,
+      "clues_missing_skipped": 5,
+      "clues_bonus": 0
+    }
+  }
+}

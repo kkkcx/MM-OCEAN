@@ -1,0 +1,430 @@
+{
+  "video_id": "7knYNR1tAig.005.mp4",
+  "video_path": "7knYNR1tAig.005.mp4",
+  "transcription": "Not actually though, I'm lying. And then, I'll look at a message or a picture or something that, made me feel good or feel happy and feel confident. I'll remember that feeling ...",
+  "original_scores": {
+    "extraversion": 0.29906542056074764,
+    "agreeableness": 0.32967032967032966,
+    "conscientiousness": 0.2912621359223301,
+    "neuroticism": 0.1666666666666666,
+    "openness": 0.32222222222222224
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 3.28,
+      "description": "The subject maintains direct gaze at the camera. Her eyebrows are in a neutral position. Her mouth moves naturally with speech, with the corners pulling down very slightly on the word \"lying.\"",
+      "bboxes": [
+        {
+          "frame_time": 2.2901,
+          "x": 0.3712171052631579,
+          "y": 0.30052631779720906,
+          "w": 0.18207236842105262,
+          "h": 0.12631578947368421,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 0.661342,
+          "x": 0.3460526315789474,
+          "y": 0.26368421253405117,
+          "w": 0.1879934210526316,
+          "h": 0.1,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 1.357492,
+          "x": 0.41710526315789476,
+          "y": 0.4400000020077354,
+          "w": 0.1169407894736842,
+          "h": 0.13157894736842105,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 3.28,
+      "end_time": 12.28,
+      "description": "Her eyebrows raise slightly as she begins the phrase \"And then.\" Throughout the rest of the segment, her expression remains engaged, with her eyebrows rising subtly in sync with the emphasized words \"good,\" \"happy,\" and \"confident.\"",
+      "bboxes": [
+        {
+          "frame_time": 5.934678,
+          "x": 0.41118421052631576,
+          "y": 0.4215789493761565,
+          "w": 0.17023026315789475,
+          "h": 0.16578947368421051,
+          "note": "human-annotated",
+          "region": "unknown"
+        },
+        {
+          "frame_time": 7.178074,
+          "x": 0.36973684210526314,
+          "y": 0.2505263177972091,
+          "w": 0.21759868421052633,
+          "h": 0.11315789473684211,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 8.040532,
+          "x": 0.3756578947368421,
+          "y": 0.23473684411299856,
+          "w": 0.20279605263157896,
+          "h": 0.3736842105263158,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 9.804345,
+          "x": 0.3638157894736842,
+          "y": 0.2768421072708933,
+          "w": 0.20723684210526316,
+          "h": 0.06842105263157895,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 12.28,
+      "end_time": 15.6,
+      "description": "The subject's gaze remains fixed on the camera as she delivers the final line. Her facial muscles appear relaxed and her expression is neutral.",
+      "bboxes": [
+        {
+          "frame_time": 14.271075,
+          "x": 0.3860197368421053,
+          "y": 0.29263158095510383,
+          "w": 0.18947368421052632,
+          "h": 0.11578947368421053,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 14.271075,
+          "x": 0.3993421052631579,
+          "y": 0.31631579148141964,
+          "w": 0.15394736842105264,
+          "h": 0.0868421052631579,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 12.896178,
+          "x": 0.33865131578947366,
+          "y": 0.2163157914814196,
+          "w": 0.21759868421052633,
+          "h": 0.3684210526315789,
+          "note": "face human-annotated",
+          "region": "face"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 3.42,
+      "description": "The subject is sitting upright, framed from the chest up. She performs a very slight, slow side-to-side head shake while saying \"Not actually.\"",
+      "bboxes": [
+        {
+          "frame_time": 1.983571,
+          "x": 0.24687499999999998,
+          "y": 0.5242105283235249,
+          "w": 0.42335526315789473,
+          "h": 0.45,
+          "note": "human-annotated",
+          "region": "unknown"
+        },
+        {
+          "frame_time": 1.983571,
+          "x": 0.2394736842105263,
+          "y": 0.5084210546393143,
+          "w": 0.4411184210526316,
+          "h": 0.4868421052631579,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 3.42,
+      "end_time": 15.6,
+      "description": "The subject's head remains mostly still and oriented towards the camera, with a slight tilt to her right. There are subtle, slow nods accompanying points of emphasis in her speech.",
+      "bboxes": [
+        {
+          "frame_time": 8.736682,
+          "x": 0.2986842105263158,
+          "y": 0.14789473884984067,
+          "w": 0.31529605263157895,
+          "h": 0.46578947368421053,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 10.894747,
+          "x": 0.33865131578947366,
+          "y": 0.11631579148141961,
+          "w": 0.23832236842105264,
+          "h": 0.4842105263157895,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 3.28,
+      "description": "The subject speaks at a moderate, conversational pace. Her pitch drops at the end of the phrase \"not actually though\" and again on \"I'm lying.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 3.28,
+      "end_time": 5.75,
+      "description": "The phrase \"And then\" is spoken with a rising, introductory intonation, followed by a pause of approximately 1.5 seconds.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 5.75,
+      "end_time": 12.28,
+      "description": "The speech rate is even and rhythmic. There is a slight increase in pitch and stress on the words \"good,\" \"happy,\" and \"confident.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 12.28,
+      "end_time": 15.6,
+      "description": "The final phrase, \"I'll remember that feeling,\" is delivered in a slightly softer voice with a lower, more conclusive pitch.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.6,
+      "description": "The subject is a young-presenting female with fair skin and reddish-brown hair tied up in a bun. She is wearing glasses, prominent dark eyebrows, and visible eyeshadow. She is wearing a dark grey, V-neck T-shirt with a small white patch on the left chest that reads \"PRO-CHOICE PRO-FEMINIST PRO-CAT.\" The setting is indoors, against a plain, light-colored wall. The lighting is warm and dim, coming from the front and casting a soft shadow behind her.",
+      "bboxes": []
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Low",
+      "score": 0.3,
+      "rationale": "The subject displays characteristics of low Extraversion. Her physical demeanor is composed and reserved, with a still head and minimal body movement. Her vocal delivery is at a moderate, conversational pace, and she concludes her statement with a softer, lower tone, rather than an energetic, outward projection. Facial expressions, such as subtle eyebrow raises for emphasis, are controlled and lack the broad, animated quality typical of high extraversion. This overall pattern suggests a lower level of social energy and a more introspective nature.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Low",
+      "score": 0.33,
+      "rationale": "The subject's communication style suggests a low level of Agreeableness. She opens with the blunt self-correction, \"Not actually though, I'm lying,\" which prioritizes directness over social smoothness. This, combined with a generally neutral facial expression and a slight downward turn of the lips on the word \"lying,\" indicates a more straightforward and less accommodating interactional style. There is an absence of appeasing gestures, such as frequent smiling or head-tilting, that are often associated with higher Agreeableness.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Low",
+      "score": 0.29,
+      "rationale": "The subject's speech pattern points to a low level of Conscientiousness. Her thought process appears spontaneous rather than pre-planned; she starts a line of thought, immediately retracts it (\"I'm lying\"), and then begins her main point. This suggests a more flexible and less structured approach to communication. The overall presentation is relaxed and conversational, lacking the formal or highly organized structure that would indicate high conscientiousness.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Very Low",
+      "score": 0.17,
+      "rationale": "The subject demonstrates very low Neuroticism (high emotional stability). Her physical presence is calm and steady, evidenced by a relaxed facial expression, a still posture, and a measured, rhythmic speaking pace. Critically, the content of her speech explicitly details a successful emotional regulation strategy: actively recalling positive stimuli to generate feelings of confidence and happiness. This conscious and effective management of her emotional state is a strong indicator of emotional resilience and stability.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "Low",
+      "score": 0.32,
+      "rationale": "The subject's cognitive and communication style suggests a low level of Openness. She focuses on a very concrete, practical strategy for emotional management ('I'll look at a message or a picture'). Her language is straightforward and descriptive, avoiding abstract concepts, metaphors, or complex ideation. Her expressions and vocal intonations are conventional, used for simple emphasis rather than creative or novel expression. This preference for the concrete and practical over the abstract and imaginative aligns with a lower score in Openness.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their Low Agreeableness level?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[9.3s - 10.3s]"
+        },
+        {
+          "id": "B",
+          "text": "[6.7s - 7.7s]"
+        },
+        {
+          "id": "C",
+          "text": "[12.4s - 13.4s]"
+        },
+        {
+          "id": "D",
+          "text": "[3.0s - 4.0s]"
+        },
+        {
+          "id": "E",
+          "text": "[0.9s - 1.9s]"
+        },
+        {
+          "id": "F",
+          "text": "[14.5s - 15.5s]"
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. The primary evidence for Low Agreeableness is the blunt self-correction 'I'm lying,' which occurs around 1.4s. The observation notes a slight downward turn of the mouth on the word 'lying,' making this interval the most relevant.\n- Option A is a video-based distractor. This interval captures a real expression—the eyebrow raise for emphasis on words like 'happy' and 'confident'—but this is not the key evidence for Low Agreeableness.\n- Option B is a text-based distractor. It is a plausible-looking time interval during the middle of her speech with no specific significant expression.\n- Option C is a video-based distractor. This interval shows her face relaxing into a neutral state at the end, which is a real change but less diagnostic of a specific trait.\n- Option D is a near-miss distractor. This interval is very close to the correct moment but falls within the pause immediately after she says 'I'm lying,' thus missing the key micro-expression itself.\n- Option F is a text-based distractor. It is a plausible-looking interval at the very end of the video segment."
+    },
+    {
+      "category": "Mixed Emotion Discrimination",
+      "question": "During 0.0s - 3.3s, the person's emotional state is best characterized as which of the following? Consider both verbal and non-verbal cues.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Reflective confidence mixed with quiet resolve"
+        },
+        {
+          "id": "B",
+          "text": "Playful deception mixed with suppressed amusement"
+        },
+        {
+          "id": "C",
+          "text": "Embarrassed admission tempered by nervous energy"
+        },
+        {
+          "id": "D",
+          "text": "Apologetic retraction mixed with social anxiety"
+        },
+        {
+          "id": "E",
+          "text": "Candid self-correction mixed with mild dismissal"
+        },
+        {
+          "id": "F",
+          "text": "Cynical disbelief tempered by detached observation"
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. In this segment, the person says 'Not actually though, I'm lying.' Her expression is neutral, and her mouth turns down slightly. This combination reflects a straightforward correction of her own thought process ('candid self-correction') coupled with a non-emotional, matter-of-fact delivery that dismisses the initial unspoken thought ('mild dismissal').\n- Option A is a video-based distractor. This emotional state is more characteristic of the end of the video (around 12.3s-15.6s) when she describes the positive outcome of her strategy, not the beginning.\n- Option B is a near-miss distractor. While she mentions 'lying,' her tone and neutral expression show no signs of playfulness or amusement; it's a factual correction.\n- Option C is a text-based distractor. The word 'admission' is relevant, but there are no non-verbal cues (like averting gaze, fidgeting, or blushing) to suggest embarrassment or nervousness.\n- Option D is a text-based distractor. 'Retraction' is plausible, but her demeanor is confident and direct, not apologetic or anxious.\n- Option F is a text-based distractor. The word 'lying' could suggest cynicism, but the context is self-correction, not disbelief in an external idea, and her expression is engaged, not detached."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 2.0s, a region was detected in the video (x=0.247, y=0.524, w=0.423, h=0.450, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A subtle eyebrow movement used for emphasis"
+        },
+        {
+          "id": "B",
+          "text": "A neutral facial expression with relaxed muscles"
+        },
+        {
+          "id": "C",
+          "text": "A steady gaze directed forward toward the camera"
+        },
+        {
+          "id": "D",
+          "text": "A slight and slow nodding motion of the head"
+        },
+        {
+          "id": "E",
+          "text": "A still and upright posture of the upper torso"
+        },
+        {
+          "id": "F",
+          "text": "An engaged facial expression while speaking"
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. The provided bounding box (x=0.247, y=0.524, w=0.423, h=0.450) is large and positioned on the subject's upper body/torso at 2.0s. The observation for this period is The subject sits upright. 'A still and upright posture of the upper torso' is the most accurate description for this region.\n- Options A, B, C, D, and F are all video-based distractors. They describe real actions or expressions from the video (eyebrow raise, neutral face, steady gaze, nodding, engaged expression) but they are all located in different spatial regions (the face, eyes, eyebrows, or head), not the torso region defined by the large bounding box."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "The video shows a moment of subtle nonverbal emphasis that aligns with positive emotional words. Which option correctly identifies the specific time and location of this expressive behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "At 1.4s, within the region (x=0.364, y=0.277, w=0.207, h=0.068)."
+        },
+        {
+          "id": "B",
+          "text": "At 14.3s, within the region (x=0.386, y=0.293, w=0.189, h=0.116)."
+        },
+        {
+          "id": "C",
+          "text": "At 9.8s, within the region (x=0.411, y=0.422, w=0.170, h=0.166)."
+        },
+        {
+          "id": "D",
+          "text": "At 2.3s, within the region (x=0.371, y=0.301, w=0.182, h=0.126)."
+        },
+        {
+          "id": "E",
+          "text": "At 9.8s, within the region (x=0.364, y=0.277, w=0.207, h=0.068)."
+        },
+        {
+          "id": "F",
+          "text": "At 11.2s, within the region (x=0.450, y=0.350, w=0.100, h=0.050)."
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. The behavior described is the subtle eyebrow raise that synchronizes with the emotionally positive words 'good,' 'happy,' and 'confident.' The observation log places this specific action at 9.8s with the bounding box on the eyebrows (x=0.364, y=0.277, w=0.207, h=0.068).\n- Option A is a video-based distractor. It uses the correct eyebrow bounding box but applies it to the wrong time (1.4s), which is when her mouth turns down.\n- Option B is a video-based distractor. This timestamp and bounding box correspond to her eyes at the end of the video, not the eyebrow emphasis.\n- Option C is a near-miss distractor. It uses the correct timestamp (9.8s) but provides a bounding box for the mouth region from a different time (5.9s), testing for spatial accuracy.\n- Option D is a video-based distractor. This timestamp and bounding box correspond to her eyes at the beginning of the video.\n- Option F is a text-based distractor. It uses a plausible-looking but fabricated timestamp and bounding box that do not correspond to any key observation."
+    },
+    {
+      "category": "Counterfactual Reasoning",
+      "question": "If the person had NOT exhibited the behavior observed around 0.0s - 3.3s, which of the following personality assessments would be MOST affected?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The assessment for Extraversion would shift significantly, as this segment is the primary indicator of her reserved and quiet social energy."
+        },
+        {
+          "id": "B",
+          "text": "The assessment for Neuroticism would be weakened, since this initial hesitation is the most key sign of underlying emotional instability."
+        },
+        {
+          "id": "C",
+          "text": "The assessment for Openness would need re-evaluation, since this verbal reversal suggests a flexible and uniquely imaginative mind."
+        },
+        {
+          "id": "D",
+          "text": "The assessment for Agreeableness would likely increase, because removing the blunt statement would reveal a more cooperative nature."
+        },
+        {
+          "id": "E",
+          "text": "The assessment for Agreeableness would be less confident, as this moment provides the strongest evidence for a direct communication style."
+        },
+        {
+          "id": "F",
+          "text": "The assessment for Conscientiousness would be revised, as the self-correction is the main evidence for a disorganized thought process."
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The correct answer is E. The behavior in this segment is the blunt self-correction 'Not actually though, I'm lying.' The personality analysis explicitly cites this as primary evidence for Low Agreeableness, as it 'prioritizes directness over social smoothness.' Removing this behavior would remove the strongest single piece of evidence for this trait, making the assessment less confident.\n- Option A is a video-based distractor. Her Low Extraversion is indicated by her overall calm demeanor, moderate pace, and soft tone throughout the video, not just this one phrase.\n- Option B is a video-based distractor. The strongest evidence for her (Low) Neuroticism comes later, when she describes her effective emotional regulation strategy (5.8s-12.3s), not from this initial self-correction.\n- Option C is a text-based distractor. The behavior is a simple correction, not an indicator of imagination; the analysis actually rates her low on Openness based on her use of concrete examples later.\n- Option D is a near-miss distractor. It correctly identifies Agreeableness but makes an unsupported claim that a 'cooperative nature' would be 'revealed.' The more accurate counterfactual is that the evidence for *low* agreeableness would be significantly weakened, making the assessment less certain, not that the opposite would be proven.\n- Option F is a text-based distractor. While the self-correction does contribute to the Low Conscientiousness score, the analysis presents it as a secondary point about spontaneity. The link to Low Agreeableness (directness) is more primary and pronounced."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator05",
+      "version": 1,
+      "clues_total": 21,
+      "clues_correct": 18,
+      "clues_wrong_corrected": 1,
+      "clues_missing_skipped": 2,
+      "clues_bonus": 0
+    }
+  }
+}

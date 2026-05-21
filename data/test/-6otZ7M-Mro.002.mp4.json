@@ -1,0 +1,319 @@
+{
+  "video_id": "-6otZ7M-Mro.002.mp4",
+  "video_path": "-6otZ7M-Mro.002.mp4",
+  "transcription": "Would be my uncle and aunt. I have four biological brothers and I know who they are and we kind of talk, sort of. I know who my real parents are and we communicate and talk and text and stuff like that, so, yeah, that's my family.",
+  "original_scores": {
+    "extraversion": 0.4953271028037384,
+    "agreeableness": 0.7032967032967032,
+    "conscientiousness": 0.6407766990291262,
+    "neuroticism": 0.59375,
+    "openness": 0.5666666666666667
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 12.44,
+      "description": "The subject maintains direct eye contact with the camera. His facial expression is largely neutral, with his eyebrows raising and lowering slightly in sync with speech emphasis. The corners of his mouth are neutral to slightly downturned when he is not speaking.",
+      "bboxes": [
+        {
+          "frame_time": 3.273218,
+          "x": 0.28388157894736843,
+          "y": 0.30842105463931435,
+          "w": 0.29901315789473687,
+          "h": 0.2131578947368421,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 3.368611,
+          "x": 0.26907894736842103,
+          "y": 0.2268421072708933,
+          "w": 0.37450657894736844,
+          "h": 0.6263157894736842,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 1.441752,
+          "x": 0.28092105263157896,
+          "y": 0.2978947388498407,
+          "w": 0.31529605263157895,
+          "h": 0.15526315789473685,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 4.666588,
+          "x": 0.4141447368421053,
+          "y": 0.5136842125340512,
+          "w": 0.1924342105263158,
+          "h": 0.28157894736842104,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Expression",
+      "start_time": 12.44,
+      "end_time": 15.11,
+      "description": "A subtle smile forms as he finishes his sentence. The corners of his mouth turn upward, his cheeks raise, and his eyes narrow slightly.",
+      "bboxes": [
+        {
+          "frame_time": 14.472557,
+          "x": 0.30608552631578945,
+          "y": 0.20578947569194592,
+          "w": 0.33009868421052635,
+          "h": 0.5947368421052631,
+          "note": "human-annotated",
+          "region": "unknown"
+        },
+        {
+          "frame_time": 14.639221,
+          "x": 0.3860197368421053,
+          "y": 0.5321052651656302,
+          "w": 0.21019736842105263,
+          "h": 0.3078947368421053,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 14.939218,
+          "x": 0.32976973684210525,
+          "y": 0.44789473884984066,
+          "w": 0.3271381578947368,
+          "h": 0.45,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 14.905861,
+          "x": 0.4008223684210526,
+          "y": 0.3847368441129986,
+          "w": 0.19835526315789473,
+          "h": 0.15789473684210525,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 14.905861,
+          "x": 0.33125,
+          "y": 0.30842105463931435,
+          "w": 0.37006578947368424,
+          "h": 0.6,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 10.82,
+      "description": "The subject is framed from the chest up, with his head remaining mostly stationary. He makes a few very small, subtle nods that coincide with his speech.",
+      "bboxes": [
+        {
+          "frame_time": 3.158788,
+          "x": 0.26907894736842103,
+          "y": 0.13210526516563015,
+          "w": 0.3848684210526316,
+          "h": 0.7131578947368421,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 7.396906,
+          "x": 0.275,
+          "y": 0.1636842125340512,
+          "w": 0.3848684210526316,
+          "h": 0.7078947368421052,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 10.82,
+      "end_time": 11.66,
+      "description": "The subject's head tilts slightly to his right.",
+      "bboxes": [
+        {
+          "frame_time": 11.396658,
+          "x": 0.2542763157894737,
+          "y": 0.09789473884984067,
+          "w": 0.3863486842105263,
+          "h": 0.8131578947368421,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 11.66,
+      "end_time": 15.11,
+      "description": "His head returns to a central position, and he performs a final, more pronounced nod as he smiles at the end of his statement.",
+      "bboxes": [
+        {
+          "frame_time": 12.492427,
+          "x": 0.32976973684210525,
+          "y": 0.06894737042878804,
+          "w": 0.3004934210526316,
+          "h": 0.8105263157894737,
+          "note": "head human-annotated",
+          "region": "head"
+        },
+        {
+          "frame_time": 14.986645,
+          "x": 0.3327302631578947,
+          "y": 0.187368423060367,
+          "w": 0.3419407894736842,
+          "h": 0.6815789473684211,
+          "note": "face human-annotated",
+          "region": "mouth"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 2.2,
+      "description": "Speech is at a moderate pace with a falling pitch on the word \"aunt\" at the end of the phrase.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 2.89,
+      "end_time": 8,
+      "description": "The pace slows slightly for the phrase \"we kind of talk, sort of.\" The words \"sort of\" are spoken at a lower volume and pitch.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 8,
+      "end_time": 13.9,
+      "description": "Maintains a steady, conversational pace and volume. Stress is placed on the word \"real\" when saying \"my real parents.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 13.9,
+      "end_time": 15.11,
+      "description": "The pitch falls on the final word, \"family,\" to conclude the sentence. There is a slightly breathy quality on the word \"yeah.\"",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15.11,
+      "description": "A man with light skin, short blond hair styled upwards, and a short beard and mustache. He is wearing a red and white plaid collared shirt over a dark undershirt and has a small earring in his visible left ear. The background is a solid, non-reflective black. The subject is evenly lit from the front.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 0.5,
+      "description": "A man with light skin, short blond hair styled upwards, and a short beard and mustache. He is wearing a red and white plaid collared shirt over a dark undershirt and has a small earring in his visible left ear. The background is a solid, non-reflective black. The subject is evenly lit from the front.",
+      "bboxes": [
+        {
+          "frame_time": 0,
+          "x": 0.30608552631578945,
+          "y": 0.20052631779720909,
+          "w": 0.28273026315789473,
+          "h": 0.6368421052631579,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Medium",
+      "score": 0.5,
+      "rationale": "The subject's Extraversion is rated as Medium. This is supported by a balance of socially engaged and reserved behaviors. He demonstrates social comfort by maintaining direct and steady eye contact with the camera and speaking at a clear, moderate pace. However, his physical energy output is low; his posture is mostly still, and his gestures are limited to subtle nods. His facial expressions are largely neutral rather than highly animated, indicating a more measured, rather than effusive, social style. This combination of willing engagement and contained physical energy is characteristic of an individual in the mid-range of the extraversion spectrum.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "High",
+      "score": 0.7,
+      "rationale": "The High Agreeableness rating is well-supported by numerous pro-social cues. The subject concludes his statement with a warm, subtle smile, a key affiliative gesture used to build rapport. His use of a slight head tilt and small, affirming nods during his speech are non-verbal signals of engagement and cooperation, creating a harmonious conversational atmosphere. Furthermore, his vocal tone softens and his pace slows when describing a potentially sensitive family dynamic (\"we kind of talk, sort of\"), which demonstrates social consideration and a desire to convey information gently. These behaviors collectively point to a strong inclination towards maintaining positive social connections.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "High",
+      "score": 0.64,
+      "rationale": "The subject's High score in Conscientiousness is reflected in his structured and precise communication. He answers the question in a clear, organized manner, methodically outlining his family structure. His careful choice of words, such as the qualifier \"sort of\" and the emphasis on the word \"real,\" highlights a deliberate effort to be accurate and truthful in his self-disclosure. His physical demeanor—a steady posture and focused eye contact—suggests a task-oriented approach, free from distraction. This combination of verbal precision and controlled, purposeful behavior is a strong indicator of a conscientious personality.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "Medium",
+      "score": 0.59,
+      "rationale": "The Medium Neuroticism score is justified by a mix of subtle stress indicators and overall emotional stability. The observation of a flushed face at the beginning can be a physiological sign of mild social anxiety or self-consciousness. This is complemented by a momentary hesitation in his speech—slowing down and lowering his volume for \"sort of\"—which suggests some emotional sensitivity around the topic. However, these cues are balanced by his ability to maintain direct eye contact and a generally composed facial expression throughout the clip. He navigates a personal topic without appearing overtly distressed, indicating a capacity for emotional regulation that prevents a high neuroticism rating.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "Medium",
+      "score": 0.57,
+      "rationale": "The subject's Openness is rated as Medium. His communication style is direct and factual, rather than abstract or imaginative, which argues against a very high score. However, his willingness to openly discuss a nuanced personal topic in a public format suggests he is not closed to experience. He employs subtle expressive cues, such as raising his eyebrows for vocal emphasis, which shows a capacity for nuanced communication. The overall impression is of an individual who is straightforward and comfortable with self-disclosure but operates within a conventional expressive range, placing him firmly in the middle of the openness spectrum.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 7.4s, a region was detected in the video (x=0.275, y=0.164, w=0.385, h=0.708, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A subtle, affirming nodding motion of the entire head."
+        },
+        {
+          "id": "B",
+          "text": "The very beginning formation of a subtle, gentle smile."
+        },
+        {
+          "id": "C",
+          "text": "A brief and momentary glance directed away from the camera."
+        },
+        {
+          "id": "D",
+          "text": "A slight yet noticeable squinting motion of both eyes."
+        },
+        {
+          "id": "E",
+          "text": "A minor raising motion of the eyebrows for emphasis."
+        },
+        {
+          "id": "F",
+          "text": "A clear and visible raising of the cheeks up and back."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Option A is correct. The specified timestamp (7.4s) and bounding box, which covers most of the head, correspond to a moment when the person makes a subtle affirmative nod while speaking. Options B, D, and F are video-based distractors; these actions (smile formation, eye squinting, cheek raising) all occur, but at a different time, around 14.9s. Option E is also a video-based distractor; the eyebrow raise for emphasis occurs earlier, around 1.4s. Option C is a text-based distractor describing an action that never happens in the video, as the person maintains consistent eye contact."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator11",
+      "version": 2,
+      "clues_total": 20,
+      "clues_correct": 19,
+      "clues_wrong_corrected": 0,
+      "clues_missing_skipped": 0,
+      "clues_bonus": 1
+    }
+  }
+}

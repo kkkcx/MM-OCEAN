@@ -1,0 +1,523 @@
+{
+  "video_id": "KVepk_9iPEU.000.mp4",
+  "video_path": "KVepk_9iPEU.000.mp4",
+  "transcription": "Like I said, I'm planning on doing this on Thursday, so you have a few days to get questions in and all that. I'm going to record the process of me doing it. I know a lot of you have been asking me about it. I figure it's easier just to show you. Anything in [part 00:00:29] ...",
+  "original_scores": {
+    "extraversion": 0.47663551401869164,
+    "agreeableness": 0.5824175824175825,
+    "conscientiousness": 0.5825242718446602,
+    "neuroticism": 0.6145833333333333,
+    "openness": 0.5555555555555556
+  },
+  "observations": [
+    {
+      "dimension": "Expression",
+      "start_time": 0,
+      "end_time": 15,
+      "description": "The subject maintains direct eye contact with the camera throughout. His eyebrows raise and lower slightly in coordination with his speech for emphasis. His mouth moves naturally as he speaks, and his overall facial expression is neutral and engaged. He blinks at natural intervals.",
+      "bboxes": [
+        {
+          "frame_time": 1.625513,
+          "x": 0.40008223684210525,
+          "y": 0.12456140016254626,
+          "w": 0.22351973684210527,
+          "h": 0.4342105263157895,
+          "note": "face human-annotated",
+          "region": "eyes"
+        },
+        {
+          "frame_time": 2.636717,
+          "x": 0.3749177631578947,
+          "y": 0.04298245279412521,
+          "w": 0.2723684210526316,
+          "h": 0.4131578947368421,
+          "note": "face human-annotated",
+          "region": "eyebrows"
+        },
+        {
+          "frame_time": 2.636717,
+          "x": 0.4060032894736842,
+          "y": 0.20087718963623047,
+          "w": 0.18651315789473685,
+          "h": 0.15,
+          "note": "face human-annotated",
+          "region": "mouth"
+        },
+        {
+          "frame_time": 2.636717,
+          "x": 0.3749177631578947,
+          "y": 0.03245613700465152,
+          "w": 0.23536184210526317,
+          "h": 0.4105263157894737,
+          "note": "face human-annotated",
+          "region": "face"
+        },
+        {
+          "frame_time": 8.769635,
+          "x": 0.4030427631578947,
+          "y": 0.03245613700465152,
+          "w": 0.2368421052631579,
+          "h": 0.4131578947368421,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0,
+      "end_time": 0.8,
+      "description": "The subject holds a handgun with both hands in front of his chest, looking directly at the camera.",
+      "bboxes": [
+        {
+          "frame_time": 0.47074,
+          "x": 0.3527138157894737,
+          "y": 0.5192982422678094,
+          "w": 0.32861842105263156,
+          "h": 0.38421052631578945,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 0.47074,
+          "x": 0.36307565789473684,
+          "y": 0.021929821215177836,
+          "w": 0.2886513157894737,
+          "h": 0.4236842105263158,
+          "note": "face human-annotated",
+          "region": "eyes"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 0.8,
+      "end_time": 3.5,
+      "description": "He shifts the handgun to his right hand and gestures outward with his left hand. He then brings his hands back together, holding the gun in front of his chest.",
+      "bboxes": [
+        {
+          "frame_time": 1.680469,
+          "x": 0.35863486842105263,
+          "y": 0.5061403475309673,
+          "w": 0.47960526315789476,
+          "h": 0.4105263157894737,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 2.884365,
+          "x": 0.24613486842105262,
+          "y": 0.5377192948993884,
+          "w": 0.5388157894736842,
+          "h": 0.4605263157894737,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 3.5,
+      "end_time": 5.3,
+      "description": "He briefly holds the gun with both hands, adjusting his grip.",
+      "bboxes": [
+        {
+          "frame_time": 4.423441,
+          "x": 0.30830592105263155,
+          "y": 0.6114035054257042,
+          "w": 0.4574013157894737,
+          "h": 0.3736842105263158,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 5.3,
+      "end_time": 8.7,
+      "description": "He holds the gun in his left hand and makes an open, illustrative gesture with his right hand, extending it out to his side.",
+      "bboxes": [
+        {
+          "frame_time": 5.972675,
+          "x": 0.1884046052631579,
+          "y": 0.548245610688862,
+          "w": 0.7120065789473684,
+          "h": 0.39473684210526316,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 8.7,
+      "end_time": 11.2,
+      "description": "He brings his right hand back to hold the gun with both hands in front of his chest. He nods his head slightly for emphasis.",
+      "bboxes": [
+        {
+          "frame_time": 10.281682,
+          "x": 0.33643092105263156,
+          "y": 0.7508771896362305,
+          "w": 0.30197368421052634,
+          "h": 0.24473684210526317,
+          "note": "hand human-annotated",
+          "region": "hands"
+        },
+        {
+          "frame_time": 10.281682,
+          "x": 0.37935855263157897,
+          "y": 0.08508771595201994,
+          "w": 0.32861842105263156,
+          "h": 0.4263157894736842,
+          "note": "head human-annotated",
+          "region": "head"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 11.2,
+      "end_time": 13.7,
+      "description": "He again holds the gun in his left hand and gestures outward with his open right hand.",
+      "bboxes": [
+        {
+          "frame_time": 11.761085,
+          "x": 0.1691611842105263,
+          "y": 0.5956140317414936,
+          "w": 0.7697368421052632,
+          "h": 0.3736842105263158,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Action",
+      "start_time": 13.7,
+      "end_time": 15,
+      "description": "He brings his hands back together, holding the gun in front of his chest.",
+      "bboxes": [
+        {
+          "frame_time": 13.897395,
+          "x": 0.3290296052631579,
+          "y": 0.648245610688862,
+          "w": 0.3611842105263158,
+          "h": 0.2894736842105263,
+          "note": "hand human-annotated",
+          "region": "hands"
+        }
+      ]
+    },
+    {
+      "dimension": "Audio",
+      "start_time": 0,
+      "end_time": 15,
+      "description": "The subject speaks at a moderate, conversational pace with a mid-range pitch and consistent volume. His pitch has a natural falling intonation at the end of clauses and sentences, such as on \"and all that\" (00:04.5) and \"doing it\" (00:08.6). There is slight vocal stress for emphasis on words like \"Thursday\" (00:01.8) and \"show you\" (00:13.4).",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 0,
+      "end_time": 15,
+      "description": "The subject is a bald man with a dark beard and mustache and a medium skin tone. He is wearing a black hooded sweatshirt with \"WEAPONIZED\" printed in gray on the chest and white drawstrings, along with a black watch on his left wrist. The setting is an indoor room with light-colored walls. Behind him are several flags: two American flags, a blue flag with 13 stars in a circle and three horizontal bars, and a black flag with a Spartan helmet and the Greek phrase \"ΜΟΛΩΝ ΛΑΒΕ\". A framed poster displaying various ammunition cartridges is on the wall to the viewer's left, and a board with numerous patches is on the wall to the viewer's right.",
+      "bboxes": []
+    },
+    {
+      "dimension": "Background",
+      "start_time": 4.607858,
+      "end_time": 5.607858,
+      "description": "The subject is holding a pistol and the background looks cosmopolitan",
+      "bboxes": [
+        {
+          "frame_time": 5.107858,
+          "x": 0.1084703947368421,
+          "y": 0.2035087685835989,
+          "w": 0.7845394736842105,
+          "h": 0.7157894736842105,
+          "note": "human-annotated",
+          "region": "unknown"
+        }
+      ]
+    }
+  ],
+  "personality_analyses": [
+    {
+      "trait": "Extraversion",
+      "level": "Medium",
+      "score": 0.48,
+      "rationale": "The subject's behavior aligns with a Medium level of Extraversion. He demonstrates social confidence by directly addressing a camera and audience, maintaining consistent eye contact, and using illustrative hand gestures to aid communication. However, this is balanced by a more reserved demeanor. His overall facial expression is neutral and focused, and his vocal tone is moderate and controlled rather than overtly energetic or loud. This indicates a comfort with social engagement without the high stimulation-seeking characteristic of strong extraverts.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Agreeableness",
+      "level": "Medium",
+      "score": 0.58,
+      "rationale": "A Medium Agreeableness score is supported by a mix of cooperative and assertive cues. The subject shows a pro-social, accommodating attitude by creating the video in direct response to audience requests ('a lot of you have been asking me about it'). His communication style is direct and helpful. Conversely, the environmental cues, such as the 'WEAPONIZED' hoodie and the 'ΜΟΛΩΝ ΛΑΒΕ' (Molon Labe) flag, project a defiant, self-reliant, and tough-minded persona, which is often associated with lower agreeableness. This blend of helpfulness towards his in-group and a more skeptical, assertive posture is characteristic of the mid-range of this trait.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Conscientiousness",
+      "level": "Medium",
+      "score": 0.58,
+      "rationale": "The subject displays clear markers of planning and orderliness, consistent with a Medium Conscientiousness score. He explicitly outlines his plan ('I'm planning on doing this on Thursday') and organizes the interaction by providing a timeframe for questions. His speech is clear and goal-oriented, aimed at efficiently conveying information. This structured approach to his task suggests a dutiful and organized nature, fitting for someone who is moderately conscientious.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Neuroticism",
+      "level": "High",
+      "score": 0.61,
+      "rationale": "Despite a outwardly calm and focused demeanor, the High Neuroticism score can be rationalized by interpreting certain behaviors as anxiety management mechanisms. The constant and methodical handling of the firearm—shifting grips and repositioning it—can be seen as a self-soothing or grounding behavior, a physical anchor to manage the stress of being on camera. The environment, laden with symbols of preparedness and defense (weaponry, Molon Labe flag), may also reflect a counter-phobic stance: a hyper-focus on control and strength to cope with underlying anxieties about threat and vulnerability.",
+      "evidence_bboxes": []
+    },
+    {
+      "trait": "Openness",
+      "level": "Medium",
+      "score": 0.56,
+      "rationale": "The subject's Openness is assessed as Medium. His willingness to create a video to share knowledge and demonstrate a process ('I figure it's easier just to show you') indicates a degree of intellectual curiosity and an interest in teaching. However, his interests appear deeply focused within a specific, conventional domain (firearms, patriotic/military culture), as shown by his apparel and background decor. This contrasts with the broad, unconventional, or abstract interests typical of very high Openness. Therefore, his intellectual engagement within a well-defined area supports a mid-range score.",
+      "evidence_bboxes": []
+    }
+  ],
+  "mcq_questions": [
+    {
+      "category": "Personality Attribution",
+      "question": "During 3.5s - 5.3s, the person exhibits a specific behavioral pattern. Which Big Five personality dimension is most directly supported by this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "High Agreeableness, shown by a cooperative, yielding motion."
+        },
+        {
+          "id": "B",
+          "text": "Low Openness, suggested by a preference for familiar items."
+        },
+        {
+          "id": "C",
+          "text": "Medium Extraversion, seen in a gesture for self-presentation."
+        },
+        {
+          "id": "D",
+          "text": "Low Neuroticism, implied by a calm and controlled demeanor."
+        },
+        {
+          "id": "E",
+          "text": "High Neuroticism, evident in a self-regulatory, anxious action."
+        },
+        {
+          "id": "F",
+          "text": "High Conscientiousness, as the subject ensures proper handling."
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The behavior from 3.5s-5.3s is the subject adjusting his grip on the firearm. The personality analysis interprets this repetitive object handling as a self-soothing or grounding behavior to manage the stress of being on camera, which is a key indicator for High Neuroticism.\n- Option A is a text-based distractor; the motion of adjusting a grip is not inherently cooperative or yielding.\n- Option B is a text-based distractor; while the object may be familiar, this specific action doesn't provide strong evidence about the trait of Openness.\n- Option C is a text-based distractor; the gesture is more self-focused than explicitly for presentation, and other cues (like direct address) are stronger indicators for Extraversion.\n- Option D is a near-miss distractor; it correctly identifies the trait category (Neuroticism) but gets the direction wrong. The action is interpreted as managing anxiety, not as a sign of calmness.\n- Option F is a video-based distractor; while one could argue the action shows care (Conscientiousness), the primary evidence for Conscientiousness in the analysis comes from his explicit verbal planning ('I'm planning on doing this on Thursday')."
+    },
+    {
+      "category": "Micro-expression Localization",
+      "question": "At which time interval does a notable change in the person's facial expression or micro-expression occur that is most relevant to their focused communication style?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[8.7s - 9.5s]"
+        },
+        {
+          "id": "B",
+          "text": "[0.0s - 0.8s]"
+        },
+        {
+          "id": "C",
+          "text": "[10.0s - 10.8s]"
+        },
+        {
+          "id": "D",
+          "text": "[4.5s - 5.3s]"
+        },
+        {
+          "id": "E",
+          "text": "[2.3s - 3.1s]"
+        },
+        {
+          "id": "F",
+          "text": "[13.5s - 14.3s]"
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The observation log notes that around 2.6s, the subject's eyebrows move slightly up and down to add emphasis to his speech. This subtle facial movement is a key part of his focused, communicative expression, making the interval [2.3s - 3.1s] correct.\n- Option A is a video-based distractor; this interval contains a natural eye blink around 8.8s, which is not a micro-expression related to communicative emphasis.\n- Option B is a video-based distractor; this is the start of the video where the subject establishes his baseline neutral and focused expression, without a notable change.\n- Option C is a near-miss distractor; this interval contains a head nod for emphasis around 10.3s. This is an emphatic gesture but involves head movement, not a facial micro-expression as requested.\n- Option D is a video-based distractor; this interval captures a hand action (adjusting the grip on the firearm), not a facial expression.\n- Option F is a video-based distractor; this interval captures a hand action (bringing hands together), not a facial expression."
+    },
+    {
+      "category": "Mixed Emotion Discrimination",
+      "question": "During 0.0s - 15.0s, the person's emotional state is best characterized as which of the following? Consider both verbal and non-verbal cues.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Cautious reservation tempered with an underlying eagerness to share information."
+        },
+        {
+          "id": "B",
+          "text": "Mild annoyance at having to explain, mixed with a feeling of dutiful patience."
+        },
+        {
+          "id": "C",
+          "text": "Assertive confidence from expertise, tempered by a degree of apprehension."
+        },
+        {
+          "id": "D",
+          "text": "Serious deliberation on his topic, mixed with a noticeable defensive posturing."
+        },
+        {
+          "id": "E",
+          "text": "Focused instruction for his audience, mixed with assertive self-reliance."
+        },
+        {
+          "id": "F",
+          "text": "Calm detachment from the audience, tempered by a general intellectual curiosity."
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The subject maintains direct eye contact and speaks clearly to inform his audience ('I figure it's easier just to show you'), indicating 'focused instruction'. Simultaneously, his neutral expression, the firearm, and the background decor ('WEAPONIZED', 'ΜΟΛΩΝ ΛΑΒΕ') project a persona of 'assertive self-reliance'. This combination accurately describes his overall state.\n- Option A is a text-based distractor; there are no clear cues of 'eagerness' in his moderate tone or controlled expression.\n- Option B is a text-based distractor; he does not show any signs of 'annoyance'; his tone is helpful and direct.\n- Option C is a near-miss distractor; he is confident, but 'apprehension' is not quite right. The analysis links his fidgeting to a general trait (Neuroticism) for managing stress, not a specific situational fear.\n- Option D is a near-miss distractor; this is very close, as he is serious and the background is defensive. However, his primary action is instructional, and 'posturing' can imply inauthenticity, whereas 'self-reliance' better fits the overall persona.\n- Option F is a video-based distractor; his direct eye contact and gestures contradict the idea of 'detachment'."
+    },
+    {
+      "category": "Temporal-Causal Reasoning",
+      "question": "Consider the sequence of behaviors observed across the video. Which of the following best describes the causal chain linking the person's actions at different moments?",
+      "options": [
+        {
+          "id": "A",
+          "text": "An assertive opening is followed by a compensatory gesture of openness, then a non-verbal cue of final disengagement."
+        },
+        {
+          "id": "B",
+          "text": "A self-regulatory action prompts a pro-social statement, which is then negated by a subsequent display of dominance."
+        },
+        {
+          "id": "C",
+          "text": "A period of focused instruction is interrupted by an external stimulus, which then requires a moment for re-composure."
+        },
+        {
+          "id": "D",
+          "text": "A clear statement of intent is followed by a practical demonstration of the action, concluding with a verbal summary."
+        },
+        {
+          "id": "E",
+          "text": "A pro-social statement of purpose is followed by self-regulatory behavior, then a reiteration of a cooperative stance."
+        },
+        {
+          "id": "F",
+          "text": "A pro-social statement causes internal reflection, which then leads to a contradictory non-verbal signal at the end."
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The video follows this abstract sequence: 1. He makes a 'pro-social statement of purpose' by explaining his plan to make a video for his audience (e.g., ~1-3s). 2. He exhibits 'self-regulatory behavior' by methodically handling the firearm, which is interpreted as anxiety management (e.g., ~3.5-5.3s). 3. He concludes with a 'reiteration of a cooperative stance' by explaining why he's doing it ('easier just to show you') accompanied by an open gesture (e.g., ~11-13s).\n- Option A is a text-based distractor; this describes a plausible but incorrect psychological sequence, as he never shows 'final disengagement'.\n- Option B is a video-based distractor with reversed temporal order; the pro-social statement comes before the most notable self-regulatory actions, not after.\n- Option C is a video-based distractor; no external stimulus or interruption occurs in the video.\n- Option D is a near-miss distractor; he states his intent to give a demonstration, but does not actually perform the demonstration in this clip. This is a critical error in the chain.\n- Option F is a near-miss distractor with incorrect causality; the final gesture is congruent with his statement ('show you'), not contradictory."
+    },
+    {
+      "category": "Spatial Localization Verification",
+      "question": "At around 2.6s, a region was detected in the video (x=0.375, y=0.043, w=0.272, h=0.413, normalized coordinates, origin at top-left). What is the most prominent expression or action in this rectangular region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A brief and methodical adjustment of the hand grip on the object."
+        },
+        {
+          "id": "B",
+          "text": "A slight and deliberate nod of the head used to punctuate a point."
+        },
+        {
+          "id": "C",
+          "text": "The hands returning from a gesture to a central resting position."
+        },
+        {
+          "id": "D",
+          "text": "A natural blinking motion of the eyes occurring at a normal pace."
+        },
+        {
+          "id": "E",
+          "text": "A subtle up-and-down eyebrow movement timed with verbal emphasis."
+        },
+        {
+          "id": "F",
+          "text": "Both of the hands clasping together near the center of the chest."
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The provided coordinates at 2.6s isolate the upper part of the subject's face, specifically his eyebrows. The observation log confirms that at this time, his eyebrows move slightly in sync with his speech for emphasis. This matches the description in the correct option.\n- Option A is a video-based distractor; this hand action occurs around 4.4s, not at 2.6s and not in this facial region.\n- Option B is a video-based distractor; the head nod occurs around 10.3s, not at 2.6s, and the bounding box for a nod would be different.\n- Option C is a video-based distractor; this hand action occurs around 8.7s-11.2s and is located in the chest area, not the face.\n- Option D is a near-miss distractor; a blink does involve the eyes, which are near the eyebrows, but the primary, most notable action in this specific region and time is the eyebrow movement for emphasis, not a simple blink.\n- Option F is a video-based distractor; this hand action occurs around 13.7s and is located in the chest area."
+    },
+    {
+      "category": "Temporal-Spatial Joint Localization",
+      "question": "The video shows a moment where the person briefly uses both hands to make a minor adjustment to the object they are holding. At which timestamp and within which bounding box does this specific action occur?",
+      "options": [
+        {
+          "id": "A",
+          "text": "[1.7s]  x=0.36, y=0.51, w=0.48, h=0.41"
+        },
+        {
+          "id": "B",
+          "text": "[10.3s]  x=0.38, y=0.09, w=0.33, h=0.43"
+        },
+        {
+          "id": "C",
+          "text": "[0.5s]  x=0.36, y=0.02, w=0.29, h=0.42"
+        },
+        {
+          "id": "D",
+          "text": "[11.8s]  x=0.17, y=0.60, w=0.77, h=0.37"
+        },
+        {
+          "id": "E",
+          "text": "[4.4s]  x=0.31, y=0.61, w=0.46, h=0.37"
+        },
+        {
+          "id": "F",
+          "text": "[8.8s]  x=0.40, y=0.03, w=0.24, h=0.41"
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The action of 'briefly using both hands to make a minor adjustment' corresponds to the observation log entry '[Action] [3.5s - 5.3s]: He briefly holds the pistol with both hands, adjusting his grip'. The representative bounding box for this action is given at 4.4s as x=0.308,y=0.611,w=0.457,h=0.374, which matches the coordinates in the correct option.\n- Option A points to a moment where he holds the gun in his left hand while gesturing with his right.\n- Option B isolates his head during a nod.\n- Option C isolates his face at the beginning of the video.\n- Option D shows him holding the gun in his right hand while gesturing with his left.\n- Option F isolates his face during a blink."
+    },
+    {
+      "category": "Counterfactual Reasoning",
+      "question": "If the person had NOT exhibited the behavior observed around 3.5s - 5.3s, which of the following personality assessments would be MOST affected?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Agreeableness would likely be assessed as higher, because this specific behavior could be interpreted as a defensive posture."
+        },
+        {
+          "id": "B",
+          "text": "Conscientiousness would be rated lower, because the action itself is a key indicator of his careful and orderly nature."
+        },
+        {
+          "id": "C",
+          "text": "Neuroticism would shift to an even higher score, as lacking this self-soothing action would imply more unmanaged stress."
+        },
+        {
+          "id": "D",
+          "text": "Extraversion would shift from Medium to High, as removing this reserved action would highlight his social confidence."
+        },
+        {
+          "id": "E",
+          "text": "Neuroticism would shift from High to a lower score, as this action is interpreted as a key anxiety-management behavior."
+        },
+        {
+          "id": "F",
+          "text": "Openness would be less certain, as this interaction with a familiar object informs the assessment of his interests."
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "The behavior from 3.5s-5.3s is the grip adjustment on the firearm. The personality analysis explicitly cites the 'constant and methodical handling of the firearm' as a primary justification for the High Neuroticism score, interpreting it as a 'self-soothing or grounding behavior' to manage stress. Removing this key piece of evidence would significantly weaken the argument for a high score, likely causing it to be revised downward.\n- Option A is a text-based distractor; the assessment of Agreeableness is based more on the mix of helpful language and defiant background symbols, not this specific action.\n- Option B is a video-based distractor; the Conscientiousness score is primarily supported by his verbal statements about his plans ('planning on doing this on Thursday'), not the physical handling of the object.\n- Option C is a near-miss distractor; it correctly identifies the relevant trait (Neuroticism) but gets the direction of the effect wrong. Removing evidence for a trait typically lowers its score, it doesn't increase it.\n- Option D is a text-based distractor; the Extraversion score is based on his direct communication and vocal tone, which would be unchanged by the absence of this hand movement.\n- Option F is a text-based distractor; the Openness score is based on his willingness to teach versus the narrow focus of his interests, making this specific action of minor importance to the overall assessment."
+    }
+  ],
+  "metadata": {
+    "validated": true,
+    "quality_issues": [],
+    "corrections": {},
+    "code_issues": [],
+    "human_annotation": {
+      "used": true,
+      "annotator": "annotator20",
+      "version": 3,
+      "clues_total": 18,
+      "clues_correct": 12,
+      "clues_wrong_corrected": 5,
+      "clues_missing_skipped": 0,
+      "clues_bonus": 1
+    }
+  }
+}
