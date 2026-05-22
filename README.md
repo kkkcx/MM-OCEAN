@@ -7,7 +7,7 @@
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 [![Dataset on HuggingFace](https://img.shields.io/badge/🤗%20Dataset-MM--OCEAN-yellow)](https://huggingface.co/datasets/anonymous-mm-ocean/MM-OCEAN)
 [![Code on GitHub](https://img.shields.io/badge/GitHub-MM--OCEAN-blue?logo=github)](https://github.com/kkkcx/MM-OCEAN)
-[![NeurIPS 2026](https://img.shields.io/badge/NeurIPS%202026-D%26B%20Track-green)](https://neurips.cc/Conferences/2026)
+[![arXiv](https://img.shields.io/badge/arXiv-2605.22109-b31b1b.svg)](https://arxiv.org/abs/2605.22109)
 
 </div>
 
@@ -54,7 +54,7 @@ MM-OCEAN/
 ├── evaluate.py         # Self-contained scoring script
 ├── README.md
 ├── LICENSE
-└── croissant.json      # NeurIPS-compliant dataset metadata
+└── croissant.json      # Croissant dataset metadata
 ```
 
 Each annotation JSON contains:
@@ -113,11 +113,12 @@ Outputs include T1 accuracy / MAE, T2 composite, T3 overall and per-category acc
 ## Citation
 
 ```bibtex
-@inproceedings{mmocean2026,
-  title     = {Perception or Prejudice: Can MLLMs Go Beyond First Impressions of Personality?},
-  author    = {Anonymous},
-  booktitle = {NeurIPS 2026 Datasets and Benchmarks Track},
-  year      = {2026}
+@article{kang2026perception,
+  title   = {Perception or Prejudice: Can MLLMs Go Beyond First Impressions of Personality?},
+  author  = {Kang, Caixin and Yan, Tianyu and Gong, Sitong and Zhang, Mingfang and Ouyang, Liangyang
+             and Liu, Ruicong and Zheng, Bo and Lu, Huchuan and Zhang, Kaipeng and Sato, Yoichi and Huang, Yifei},
+  journal = {arXiv preprint arXiv:2605.22109},
+  year    = {2026}
 }
 ```
 
