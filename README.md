@@ -4,12 +4,18 @@
 
 **A Multi-Granularity Benchmark for Grounded Personality Reasoning**
 
+[![Hugging Face Daily Paper #1](https://img.shields.io/badge/%F0%9F%A4%97_Hugging_Face-Daily_Paper_%231-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/papers/2605.22109)
+
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 [![Dataset on HuggingFace](https://img.shields.io/badge/🤗%20Dataset-MM--OCEAN-yellow)](https://huggingface.co/datasets/anonymous-mm-ocean/MM-OCEAN)
 [![Code on GitHub](https://img.shields.io/badge/GitHub-MM--OCEAN-blue?logo=github)](https://github.com/kkkcx/MM-OCEAN)
 [![arXiv](https://img.shields.io/badge/arXiv-2605.22109-b31b1b.svg)](https://arxiv.org/abs/2605.22109)
 
 </div>
+
+## News
+
+**[2026-05]** MM-OCEAN was featured as the **#1 Paper of the Day** on [Hugging Face Daily Papers](https://huggingface.co/papers/2605.22109)!
 
 ## Overview
 
