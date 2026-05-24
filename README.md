@@ -13,9 +13,9 @@
 
 </div>
 
-## News
+## 🔥 News
 
-**[2026-05]** MM-OCEAN was featured as the **#1 Paper of the Day** on [Hugging Face Daily Papers](https://huggingface.co/papers/2605.22109)!
+- **[2026-05]** MM-OCEAN was featured as the **#1 Paper of the Day** on [Hugging Face Daily Papers](https://huggingface.co/papers/2605.22109)!
 
 ## Overview
 
